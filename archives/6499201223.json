@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202512",
@@ -117,6 +117,32 @@
       "releaseDate": "2024-04-24",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/b1/10/91b1100f-fd52-ca48-9bbd-f27aa2ba8bd8/AppIcon-0-0-1x_U007ewatch-0-20-85-220.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "ユーティリティ",
+          "url": "https://itunes.apple.com/jp/genre/id6002"
+        },
+        {
+          "genreId": "6012",
+          "name": "ライフスタイル",
+          "url": "https://itunes.apple.com/jp/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/calcs-calendar-complications/id6499201223"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 19,
+      "artistName": "Akihiro Usui",
+      "id": "6499201223",
+      "name": "CalCs - Calendar Complications",
+      "releaseDate": "2024-04-24",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/13/b8/2b13b877-4d7c-3251-dd03-1ece53fe2a52/AppIcon-0-0-1x_U007ewatch-0-20-85-220.jpeg/100x100bb.png",
       "genres": [
         {
           "genreId": "6002",

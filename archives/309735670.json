@@ -1,5 +1,5 @@
 {
-  "resultCount": 10,
+  "resultCount": 13,
   "results": [
     {
       "month": "202512",
@@ -247,6 +247,84 @@
       "releaseDate": "2009-06-08",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/f8/2a/14f82a7a-a9ab-1bbc-fd80-b0b95107c6ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Business",
+          "url": "https://itunes.apple.com/us/genre/id6000"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/us/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/indeed-job-search/id309735670"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 88,
+      "artistName": "Indeed Inc.",
+      "id": "309735670",
+      "name": "Indeed: Recherche d’Emploi",
+      "releaseDate": "2010-01-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/34/ef/0234ef32-1e6d-2cf2-ed14-4adf897700f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Économie et entreprise",
+          "url": "https://itunes.apple.com/fr/genre/id6000"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/indeed-recherche-demploi/id309735670"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 83,
+      "artistName": "Indeed Inc.",
+      "id": "309735670",
+      "name": "Indeed Job Search",
+      "releaseDate": "2010-01-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/34/ef/0234ef32-1e6d-2cf2-ed14-4adf897700f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Business",
+          "url": "https://itunes.apple.com/gb/genre/id6000"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/gb/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/indeed-job-search/id309735670"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 89,
+      "artistName": "Indeed Inc.",
+      "id": "309735670",
+      "name": "Indeed Job Search",
+      "releaseDate": "2009-06-08",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/34/ef/0234ef32-1e6d-2cf2-ed14-4adf897700f5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6000",

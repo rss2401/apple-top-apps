@@ -1,5 +1,5 @@
 {
-  "resultCount": 7,
+  "resultCount": 9,
   "results": [
     {
       "month": "202604",
@@ -158,6 +158,58 @@
       "releaseDate": "2016-09-11",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/31/91/8831917d-23aa-48a7-5262-e17a1df5a793/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6004",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id6004"
+        },
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/us/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/shot-tracer/id1140451547"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 99,
+      "artistName": "Visual Vertigo Software Technologies GmbH",
+      "id": "1140451547",
+      "name": "Shot Tracer",
+      "releaseDate": "2016-09-11",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/f1/d0/26f1d022-30df-fd95-31b0-545f5dac0cf3/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6004",
+          "name": "Sport",
+          "url": "https://itunes.apple.com/de/genre/id6004"
+        },
+        {
+          "genreId": "6008",
+          "name": "Foto und Video",
+          "url": "https://itunes.apple.com/de/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/shot-tracer/id1140451547"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 45,
+      "artistName": "Visual Vertigo Software Technologies GmbH",
+      "id": "1140451547",
+      "name": "Shot Tracer",
+      "releaseDate": "2016-09-11",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/f1/d0/26f1d022-30df-fd95-31b0-545f5dac0cf3/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.png",
       "genres": [
         {
           "genreId": "6004",

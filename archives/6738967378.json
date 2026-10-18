@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 7,
   "results": [
     {
       "month": "202604",
@@ -91,6 +91,84 @@
       "releaseDate": "2025-04-22",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/e2/4c/d2e24c80-ea71-8b3c-0914-82819495c335/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/us/genre/id6008"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/us/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/edits-video-editor/id6738967378"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 80,
+      "artistName": "Instagram, Inc.",
+      "id": "6738967378",
+      "name": "Edits: Videobearbeitung",
+      "releaseDate": "2025-04-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/23/1e/ea231efe-80fd-878e-0504-279925f00baf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Foto und Video",
+          "url": "https://itunes.apple.com/de/genre/id6008"
+        },
+        {
+          "genreId": "6007",
+          "name": "Produktivität",
+          "url": "https://itunes.apple.com/de/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/edits-videobearbeitung/id6738967378"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 90,
+      "artistName": "Instagram, Inc.",
+      "id": "6738967378",
+      "name": "Edits: Video Editor",
+      "releaseDate": "2025-04-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/23/1e/ea231efe-80fd-878e-0504-279925f00baf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/gb/genre/id6008"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/gb/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/edits-video-editor/id6738967378"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 74,
+      "artistName": "Instagram, Inc.",
+      "id": "6738967378",
+      "name": "Edits: Video Editor",
+      "releaseDate": "2025-04-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/23/1e/ea231efe-80fd-878e-0504-279925f00baf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6008",

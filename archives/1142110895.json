@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202512",
@@ -97,6 +97,27 @@
       "releaseDate": "2016-09-26",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/3c/0b/223c0b7b-1d93-5faf-c890-bc4e3f32a133/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "娱乐",
+          "url": "https://itunes.apple.com/cn/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895"
+    },
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 44,
+      "artistName": "Beijing Douyin Technology Co., Ltd.",
+      "id": "1142110895",
+      "name": "抖音",
+      "releaseDate": "2016-09-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/10/a6/b910a676-a3ee-42b6-3c82-e824bd391aca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

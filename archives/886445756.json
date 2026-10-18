@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202512",
@@ -117,6 +117,32 @@
       "releaseDate": "2014-07-24",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/d9/e7/dfd9e75d-64e9-7cf9-af11-59b3e219321d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/tubi-movies-live-tv/id886445756"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 81,
+      "artistName": "Tubi, Inc",
+      "id": "886445756",
+      "name": "Tubi: Movies & Live TV",
+      "releaseDate": "2014-07-24",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/7a/4e/3b7a4ed3-8073-d445-8793-da4307b6d7d5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

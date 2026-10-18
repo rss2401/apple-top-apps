@@ -1,5 +1,5 @@
 {
-  "resultCount": 13,
+  "resultCount": 18,
   "results": [
     {
       "month": "202512",
@@ -314,6 +314,136 @@
       "releaseDate": "2012-06-28",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/f3/73/aaf37329-4990-6c49-dfb7-94e1ed785d2f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/us/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/us/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/google-chrome/id535886823"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 58,
+      "artistName": "Google",
+      "id": "535886823",
+      "name": "Google Chrome",
+      "releaseDate": "2012-06-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Dienst­programme",
+          "url": "https://itunes.apple.com/de/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "Produktivität",
+          "url": "https://itunes.apple.com/de/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/google-chrome/id535886823"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 56,
+      "artistName": "Google",
+      "id": "535886823",
+      "name": "Google Chrome",
+      "releaseDate": "2012-06-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/google-chrome/id535886823"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 63,
+      "artistName": "Google",
+      "id": "535886823",
+      "name": "Google Chrome",
+      "releaseDate": "2012-06-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/gb/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivity",
+          "url": "https://itunes.apple.com/gb/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/google-chrome/id535886823"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 59,
+      "artistName": "Google",
+      "id": "535886823",
+      "name": "Google Chrome - ウェブブラウザ",
+      "releaseDate": "2012-06-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "ユーティリティ",
+          "url": "https://itunes.apple.com/jp/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "仕事効率化",
+          "url": "https://itunes.apple.com/jp/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/google-chrome-%E3%82%A6%E3%82%A7%E3%83%96%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6/id535886823"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 52,
+      "artistName": "Google",
+      "id": "535886823",
+      "name": "Google Chrome",
+      "releaseDate": "2012-06-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d2/1d/a2d21d64-6c39-a8f5-aead-6a8d5d9fb7b0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6002",

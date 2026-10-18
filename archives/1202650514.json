@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 10,
   "results": [
     {
       "month": "202604",
@@ -168,6 +168,48 @@
         }
       ],
       "url": "https://apps.apple.com/us/app/healthfit/id1202650514"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 21,
+      "artistName": "Stephane Lizeray",
+      "id": "1202650514",
+      "name": "HealthFit",
+      "releaseDate": "2017-09-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/e5/69/5de569d3-c55b-4e95-8b6c-d64f0730be21/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Gesundheit und Fitness",
+          "url": "https://itunes.apple.com/de/genre/id6013"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/healthfit/id1202650514"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 27,
+      "artistName": "Stephane Lizeray",
+      "id": "1202650514",
+      "name": "HealthFit",
+      "releaseDate": "2017-09-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/e5/69/5de569d3-c55b-4e95-8b6c-d64f0730be21/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id6013"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/healthfit/id1202650514"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202512",
@@ -117,6 +117,32 @@
       "releaseDate": "2012-03-09",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/85/e0/3885e0a9-f7aa-b0ad-0061-73257e00a0a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "ショッピング",
+          "url": "https://itunes.apple.com/jp/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "ライフスタイル",
+          "url": "https://itunes.apple.com/jp/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/%E3%82%B8%E3%83%BC%E3%83%A6%E3%83%BC/id504542019"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 21,
+      "artistName": "G.U.CO.,LTD",
+      "id": "504542019",
+      "name": "ジーユー",
+      "releaseDate": "2012-03-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/e4/c9/36e4c9df-57a5-fead-cc02-5efaeee75b48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6024",

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "month": "202607",
@@ -26,6 +26,58 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/cleanup-clean-storage-space/id1510944943"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 75,
+      "artistName": "DEEP FLOW SOFTWARE SERVICES",
+      "id": "1510944943",
+      "name": "Cleanup: Nettoyeur de stockage",
+      "releaseDate": "2020-12-05",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        },
+        {
+          "genreId": "6008",
+          "name": "Photo et vidéo",
+          "url": "https://itunes.apple.com/fr/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/cleanup-nettoyeur-de-stockage/id1510944943"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 86,
+      "artistName": "DEEP FLOW SOFTWARE SERVICES",
+      "id": "1510944943",
+      "name": "Cleanup: Phone Storage Cleaner",
+      "releaseDate": "2020-12-05",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/72/4d/24724d47-469f-ec0e-78e8-0f4691ee8aed/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/us/genre/id6002"
+        },
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/us/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943"
     }
   ]
 }

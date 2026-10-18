@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "month": "202604",
@@ -81,6 +81,32 @@
           "genreId": "6016",
           "name": "Divertissement",
           "url": "https://itunes.apple.com/fr/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/folium/id6498623389"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 40,
+      "artistName": "Jarrod Norwell",
+      "id": "6498623389",
+      "name": "Folium",
+      "releaseDate": "2024-05-31",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        },
+        {
+          "genreId": "6014",
+          "name": "Jeux",
+          "url": "https://itunes.apple.com/fr/genre/id6014"
         }
       ],
       "url": "https://apps.apple.com/fr/app/folium/id6498623389"

@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202512",
@@ -26,6 +26,32 @@
         }
       ],
       "url": "https://apps.apple.com/us/app/frame-crop-art-mode/id6443996847"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 68,
+      "artistName": "Shane Jeffers",
+      "id": "6443996847",
+      "name": "Frame Crop – Art Mode",
+      "releaseDate": "2023-06-22",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/2b/5e/5c2b5ed0-866b-676d-7753-21899d6fbba3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        },
+        {
+          "genreId": "6008",
+          "name": "Photo et vidéo",
+          "url": "https://itunes.apple.com/fr/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/frame-crop-art-mode/id6443996847"
     }
   ]
 }

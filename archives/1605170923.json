@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "month": "202512",
@@ -13,6 +13,48 @@
       "releaseDate": "2023-04-03",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/10/d9/ba10d962-c013-487f-a793-15a2b9390ce9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/gowish-your-digital-wishlist/id1605170923"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 59,
+      "artistName": "Onskeskyen ApS",
+      "id": "1605170923",
+      "name": "GoWish - Your Digital Wishlist",
+      "releaseDate": "2023-04-03",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/0c/bc/6f0cbcfc-73f3-20d8-e923-959166b97dac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/gowish-your-digital-wishlist/id1605170923"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 70,
+      "artistName": "Onskeskyen ApS",
+      "id": "1605170923",
+      "name": "GoWish - Your Digital Wishlist",
+      "releaseDate": "2023-04-03",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/0c/bc/6f0cbcfc-73f3-20d8-e923-959166b97dac/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6012",

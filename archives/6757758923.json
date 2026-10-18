@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 4,
   "results": [
     {
       "month": "202607",
@@ -52,6 +52,58 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/better-st-for-bose-soundtouch/id6757758923"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 79,
+      "artistName": "骞 张",
+      "id": "6757758923",
+      "name": "Better ST for Bose SoundTouch",
+      "releaseDate": "2026-03-06",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/4b/51/084b51c0-c025-5f37-a9cd-84839f534ed7/AppIcon_iOS27-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id6011"
+        },
+        {
+          "genreId": "6002",
+          "name": "Dienst­programme",
+          "url": "https://itunes.apple.com/de/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/better-st-for-bose-soundtouch/id6757758923"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 18,
+      "artistName": "骞 张",
+      "id": "6757758923",
+      "name": "Better ST for Bose SoundTouch",
+      "releaseDate": "2026-03-06",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/4b/51/084b51c0-c025-5f37-a9cd-84839f534ed7/AppIcon_iOS27-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id6011"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/better-st-for-bose-soundtouch/id6757758923"
     }
   ]
 }

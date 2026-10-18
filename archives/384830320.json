@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 8,
   "results": [
     {
       "month": "202512",
@@ -143,6 +143,58 @@
       "releaseDate": "2010-08-10",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/df/26/0fdf26ff-5275-d50c-e1f3-05350d0d6884/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/us/genre/id6005"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/life360-family-safety-gps/id384830320"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 41,
+      "artistName": "Life360",
+      "id": "384830320",
+      "name": "Life360: Family Safety & GPS",
+      "releaseDate": "2010-08-10",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/cb/0f/efcb0fca-4d85-ad97-a552-b298c8ccd2bc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/life360-family-safety-gps/id384830320"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 35,
+      "artistName": "Life360",
+      "id": "384830320",
+      "name": "Life360: Family Safety & GPS",
+      "releaseDate": "2010-08-10",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/cb/0f/efcb0fca-4d85-ad97-a552-b298c8ccd2bc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6005",

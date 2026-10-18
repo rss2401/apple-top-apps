@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -157,6 +157,150 @@
       "releaseDate": "2024-10-02",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/7e/79/b17e79fc-3dc2-210c-aca5-020e7616a07d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/us/genre/id6017"
+        },
+        {
+          "genreId": "7014",
+          "name": "Roleplaying",
+          "url": "https://itunes.apple.com/us/genre/id7014"
+        },
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/us/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/us/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/wagotabi-learn-japanese/id6474207287"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 70,
+      "artistName": "WAGOTABI LIMITED",
+      "id": "6474207287",
+      "name": "Wagotabi: Japanisch lernen",
+      "releaseDate": "2024-10-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/dd/bb/22ddbbeb-a505-fc35-b390-a04b81b0ebcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "Bildung",
+          "url": "https://itunes.apple.com/de/genre/id6017"
+        },
+        {
+          "genreId": "7014",
+          "name": "Rollenspiel",
+          "url": "https://itunes.apple.com/de/genre/id7014"
+        },
+        {
+          "genreId": "6014",
+          "name": "Spiele",
+          "url": "https://itunes.apple.com/de/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Gelegenheits­spiele",
+          "url": "https://itunes.apple.com/de/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/wagotabi-japanisch-lernen/id6474207287"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 50,
+      "artistName": "WAGOTABI LIMITED",
+      "id": "6474207287",
+      "name": "Wagotabi : Cours de japonais",
+      "releaseDate": "2024-10-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/dd/bb/22ddbbeb-a505-fc35-b390-a04b81b0ebcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "Éducation",
+          "url": "https://itunes.apple.com/fr/genre/id6017"
+        },
+        {
+          "genreId": "7014",
+          "name": "Jeux de rôle",
+          "url": "https://itunes.apple.com/fr/genre/id7014"
+        },
+        {
+          "genreId": "6014",
+          "name": "Jeux",
+          "url": "https://itunes.apple.com/fr/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Parties rapides",
+          "url": "https://itunes.apple.com/fr/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/wagotabi-cours-de-japonais/id6474207287"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "WAGOTABI LIMITED",
+      "id": "6474207287",
+      "name": "Wagotabi: Learn Japanese",
+      "releaseDate": "2024-10-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/dd/bb/22ddbbeb-a505-fc35-b390-a04b81b0ebcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/gb/genre/id6017"
+        },
+        {
+          "genreId": "7014",
+          "name": "Role-Playing",
+          "url": "https://itunes.apple.com/gb/genre/id7014"
+        },
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/gb/genre/id6014"
+        },
+        {
+          "genreId": "7003",
+          "name": "Casual",
+          "url": "https://itunes.apple.com/gb/genre/id7003"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/wagotabi-learn-japanese/id6474207287"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "WAGOTABI LIMITED",
+      "id": "6474207287",
+      "name": "Wagotabi: Learn Japanese",
+      "releaseDate": "2024-10-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/dd/bb/22ddbbeb-a505-fc35-b390-a04b81b0ebcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6017",

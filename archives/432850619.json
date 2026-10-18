@@ -1,5 +1,5 @@
 {
-  "resultCount": 16,
+  "resultCount": 20,
   "results": [
     {
       "month": "202512",
@@ -329,6 +329,84 @@
           "url": "https://itunes.apple.com/us/genre/id6011"
         }
       ],
+      "url": "https://apps.apple.com/us/app/fl-studio-mobile/id432850619"
+    },
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 45,
+      "artistName": "Image Line Software",
+      "id": "432850619",
+      "name": "FL Studio Mobile",
+      "releaseDate": "2011-06-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "音乐",
+          "url": "https://itunes.apple.com/cn/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/fl-studio-mobile/id432850619"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 51,
+      "artistName": "Image Line Software",
+      "id": "432850619",
+      "name": "FL Studio Mobile",
+      "releaseDate": "2011-06-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/fl-studio-mobile/id432850619"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 76,
+      "artistName": "Image Line Software",
+      "id": "432850619",
+      "name": "FL Studio Mobile",
+      "releaseDate": "2011-06-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "ミュージック",
+          "url": "https://itunes.apple.com/jp/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/fl-studio-mobile/id432850619"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 10,
+      "artistName": "Image Line Software",
+      "id": "432850619",
+      "name": "FL Studio Mobile",
+      "releaseDate": "2011-06-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ef/f5/85eff549-5e15-60b3-3813-5feb42ab50b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [],
       "url": "https://apps.apple.com/us/app/fl-studio-mobile/id432850619"
     }
   ]

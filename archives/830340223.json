@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202512",
@@ -65,6 +65,32 @@
       "releaseDate": "2014-03-27",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/20/30/042030b9-1e02-1a82-f27d-c4088a3b76cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "エンターテインメント",
+          "url": "https://itunes.apple.com/jp/genre/id6016"
+        },
+        {
+          "genreId": "6009",
+          "name": "ニュース",
+          "url": "https://itunes.apple.com/jp/genre/id6009"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/tver-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%90%E3%83%BC-%E6%B0%91%E6%94%BE%E5%85%AC%E5%BC%8F%E3%83%86%E3%83%AC%E3%83%93%E9%85%8D%E4%BF%A1%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/id830340223"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 26,
+      "artistName": "TVer INC.",
+      "id": "830340223",
+      "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
+      "releaseDate": "2014-03-27",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/1e/8c/411e8ca9-7fae-3d85-fc98-05e3c432a80f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

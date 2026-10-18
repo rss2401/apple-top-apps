@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 12,
   "results": [
     {
       "month": "202512",
@@ -197,6 +197,88 @@
         }
       ],
       "url": "https://apps.apple.com/us/app/uber-request-a-ride/id368677368"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 4,
+      "artistName": "Uber Technologies, Inc.",
+      "id": "368677368",
+      "name": "Uber: Ride-Hailing & Taxis",
+      "releaseDate": "2010-05-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "genres": [],
+      "url": "https://apps.apple.com/de/app/uber-ride-hailing-taxis/id368677368"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 9,
+      "artistName": "Uber Technologies, Inc.",
+      "id": "368677368",
+      "name": "Uber - VTC, repas et plus",
+      "releaseDate": "2010-05-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "genres": [],
+      "url": "https://apps.apple.com/fr/app/uber-vtc-repas-et-plus/id368677368"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 11,
+      "artistName": "Uber Technologies, Inc.",
+      "id": "368677368",
+      "name": "Uber: Rides, eats, and more",
+      "releaseDate": "2010-05-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/gb/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/uber-rides-eats-and-more/id368677368"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 15,
+      "artistName": "Uber Technologies, Inc.",
+      "id": "368677368",
+      "name": "Uber - Rides, Eats, Hotels",
+      "releaseDate": "2010-05-21",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/us/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/uber-rides-eats-hotels/id368677368"
     }
   ]
 }

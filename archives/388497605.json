@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202512",
@@ -126,6 +126,27 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/google-authenticator/id388497605"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 54,
+      "artistName": "Google",
+      "id": "388497605",
+      "name": "Google Authenticator",
+      "releaseDate": "2010-09-20",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/2b/df/702bdfd3-b008-3dd0-af69-da2c920847a2/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "ユーティリティ",
+          "url": "https://itunes.apple.com/jp/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/google-authenticator/id388497605"
     }
   ]
 }

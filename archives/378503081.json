@@ -1,5 +1,5 @@
 {
-  "resultCount": 7,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -139,6 +139,48 @@
       "releaseDate": "2010-08-18",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/53/b8/2d53b84e-6984-616f-6524-192a015c4e22/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "仕事効率化",
+          "url": "https://itunes.apple.com/jp/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/groundwire-voip-sip-softphone/id378503081"
+    },
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 58,
+      "artistName": "Acrobits",
+      "id": "378503081",
+      "name": "Groundwire: VoIP SIP Softphone",
+      "releaseDate": "2010-08-18",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e5/e9/c6e5e988-d28b-b2a5-0b3a-41d1016edcef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "Produktivität",
+          "url": "https://itunes.apple.com/de/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/groundwire-voip-sip-softphone/id378503081"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 60,
+      "artistName": "Acrobits",
+      "id": "378503081",
+      "name": "Groundwire: VoIP SIP Softphone",
+      "releaseDate": "2010-08-18",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/e5/e9/c6e5e988-d28b-b2a5-0b3a-41d1016edcef/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6007",

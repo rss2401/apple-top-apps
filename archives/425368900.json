@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -13,6 +13,32 @@
       "releaseDate": "2011-03-18",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/a0/76/dda07622-1643-421d-6938-8377c6214afb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6015",
+          "name": "Finance",
+          "url": "https://itunes.apple.com/fr/genre/id6015"
+        },
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/boursobank/id425368900"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 64,
+      "artistName": "Boursorama",
+      "id": "425368900",
+      "name": "BoursoBank",
+      "releaseDate": "2011-03-18",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/93/cb/6893cba2-82c7-6f25-fa04-bf3d2af4b5c9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6015",

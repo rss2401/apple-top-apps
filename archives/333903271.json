@@ -1,5 +1,5 @@
 {
-  "resultCount": 13,
+  "resultCount": 17,
   "results": [
     {
       "month": "202512",
@@ -325,6 +325,110 @@
       "releaseDate": "2009-10-09",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/18/e3/b118e371-e002-fcd8-6c26-639a8f6a6639/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6009",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id6009"
+        },
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/us/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/x/id333903271"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 22,
+      "artistName": "X Corp.",
+      "id": "333903271",
+      "name": "X (anciennement Twitter)",
+      "releaseDate": "2009-10-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/41/93/c441932f-2acf-3ad1-1d2e-fb84d82afed1/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6009",
+          "name": "Actualités",
+          "url": "https://itunes.apple.com/fr/genre/id6009"
+        },
+        {
+          "genreId": "6005",
+          "name": "Réseaux sociaux",
+          "url": "https://itunes.apple.com/fr/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/x-anciennement-twitter/id333903271"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 56,
+      "artistName": "X Corp.",
+      "id": "333903271",
+      "name": "X",
+      "releaseDate": "2009-10-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/41/93/c441932f-2acf-3ad1-1d2e-fb84d82afed1/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6009",
+          "name": "News",
+          "url": "https://itunes.apple.com/gb/genre/id6009"
+        },
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/x/id333903271"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 58,
+      "artistName": "X Corp.",
+      "id": "333903271",
+      "name": "X",
+      "releaseDate": "2009-10-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/41/93/c441932f-2acf-3ad1-1d2e-fb84d82afed1/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6009",
+          "name": "ニュース",
+          "url": "https://itunes.apple.com/jp/genre/id6009"
+        },
+        {
+          "genreId": "6005",
+          "name": "ソーシャルネットワーキング",
+          "url": "https://itunes.apple.com/jp/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/x/id333903271"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 34,
+      "artistName": "X Corp.",
+      "id": "333903271",
+      "name": "X",
+      "releaseDate": "2009-10-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/41/93/c441932f-2acf-3ad1-1d2e-fb84d82afed1/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6009",

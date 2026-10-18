@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -13,6 +13,32 @@
       "releaseDate": "2022-09-26",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fe/df/a7fedf8a-c0dc-26d5-88e5-896595b89b26/AppIcon-Production-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilitaires",
+          "url": "https://itunes.apple.com/fr/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/free/id1643534870"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 58,
+      "artistName": "Freebox",
+      "id": "1643534870",
+      "name": "Free",
+      "releaseDate": "2022-09-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/57/2c/7f572c96-2f48-30be-c132-1d990a07b381/FreeLogo-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6002",

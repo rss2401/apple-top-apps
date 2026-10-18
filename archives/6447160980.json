@@ -1,5 +1,5 @@
 {
-  "resultCount": 5,
+  "resultCount": 6,
   "results": [
     {
       "month": "202512",
@@ -91,6 +91,27 @@
       "releaseDate": "2023-06-09",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/54/0d/bc540dcc-d741-6eab-a625-45150c4748aa/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "エンターテインメント",
+          "url": "https://itunes.apple.com/jp/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/tiktok-lite/id6447160980"
+    },
+    {
+      "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 47,
+      "artistName": "TikTok Ltd.",
+      "id": "6447160980",
+      "name": "TikTok Lite",
+      "releaseDate": "2023-06-09",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/6d/2b/fb6d2b5c-f7fd-8a8b-5195-0c171f1cc31b/AppIcon_TikTok-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

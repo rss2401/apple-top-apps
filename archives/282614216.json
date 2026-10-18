@@ -1,5 +1,5 @@
 {
-  "resultCount": 7,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -169,6 +169,58 @@
       "releaseDate": "2019-01-31",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/81/70/1a8170e3-0334-f2ea-1de6-828bfe4a17b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/us/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/ebay-online-shopping-selling/id282614216"
+    },
+    {
+      "month": "202610",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 85,
+      "artistName": "eBay Inc.",
+      "id": "282614216",
+      "name": "eBay marketplace: shopping app",
+      "releaseDate": "2019-01-31",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/14/62/1c1462ae-f473-4430-9a23-a8afdb3cfdd5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/gb/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/ebay-marketplace-shopping-app/id282614216"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 88,
+      "artistName": "eBay Inc.",
+      "id": "282614216",
+      "name": "eBay online shopping & selling",
+      "releaseDate": "2019-01-31",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/14/62/1c1462ae-f473-4430-9a23-a8afdb3cfdd5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6024",
