@@ -47,7 +47,7 @@ jobs:
     with:
       media: apps
       countries: ${{ inputs.countries || '' }}
-      limit: ${{ inputs.limit || 100 }}
+      limit: ${{ fromJSON(inputs.limit || '100') }}
       skip_existing: ${{ inputs.skip_existing || false }}
       generate_markdown: ${{ inputs.generate_markdown || false }}
       all_storefronts: ${{ inputs.all_storefronts || false }}
