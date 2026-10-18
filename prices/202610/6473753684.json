@@ -1,0 +1,156 @@
+{
+  "id": "6473753684",
+  "name": "Claude by Anthropic",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T11:35:29.417Z",
+  "storefronts": {
+    "cn": {
+      "available": false
+    },
+    "in": {
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "₹ 1,999",
+          "amount": 1999
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "₹ 12,900",
+          "amount": 12900
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "₹ 19,900",
+          "amount": 19900
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "₹ 24,900",
+          "amount": 24900
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "₹ 1,999",
+          "amount": 1999
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "₹ 4,999",
+          "amount": 4999
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "₹ 19,900",
+          "amount": 19900
+        }
+      ]
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "¥20,000",
+          "amount": 20000
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "¥35,000",
+          "amount": 35000
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "¥40,000",
+          "amount": 40000
+        }
+      ]
+    },
+    "tr": {
+      "currency": "TRY",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "₺999,99",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "₺6.999,99",
+          "amount": 6999.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "₺12.999,99",
+          "amount": 12999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "₺11.999,99",
+          "amount": 11999.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "₺999,99",
+          "amount": 999.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "₺2.499,99",
+          "amount": 2499.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "₺9.999,99",
+          "amount": 9999.99
+        }
+      ]
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "6767085653",
+  "name": "Cursor",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T11:37:23.141Z",
+  "storefronts": {
+    "cn": {
+      "available": false
+    },
+    "in": {
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "₹ 2,499",
+          "amount": 2499
+        },
+        {
+          "name": "X Premium",
+          "price": "₹ 3,399",
+          "amount": 3399
+        },
+        {
+          "name": "Pro+",
+          "price": "₹ 7,900",
+          "amount": 7900
+        },
+        {
+          "name": "Ultra",
+          "price": "₹ 24,900",
+          "amount": 24900
+        },
+        {
+          "name": "X Premium",
+          "price": "₹ 29,900",
+          "amount": 29900
+        },
+        {
+          "name": "X Super",
+          "price": "₹ 12,399",
+          "amount": 12399
+        },
+        {
+          "name": "X Ultra",
+          "price": "₹ 19,900",
+          "amount": 19900
+        }
+      ]
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "¥4,000",
+          "amount": 4000
+        },
+        {
+          "name": "X Premium",
+          "price": "¥5,280",
+          "amount": 5280
+        },
+        {
+          "name": "Pro+",
+          "price": "¥13,000",
+          "amount": 13000
+        },
+        {
+          "name": "Ultra",
+          "price": "¥40,000",
+          "amount": 40000
+        },
+        {
+          "name": "X Premium",
+          "price": "¥52,800",
+          "amount": 52800
+        },
+        {
+          "name": "X Super",
+          "price": "¥19,800",
+          "amount": 19800
+        },
+        {
+          "name": "X Ultra",
+          "price": "¥40,800",
+          "amount": 40800
+        }
+      ]
+    },
+    "tr": {
+      "currency": "TRY",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "₺1.499,99",
+          "amount": 1499.99
+        },
+        {
+          "name": "X Premium",
+          "price": "₺1.749,99",
+          "amount": 1749.99
+        },
+        {
+          "name": "Pro+",
+          "price": "₺3.999,99",
+          "amount": 3999.99
+        },
+        {
+          "name": "Ultra",
+          "price": "₺14.999,99",
+          "amount": 14999.99
+        },
+        {
+          "name": "X Premium",
+          "price": "₺17.499,99",
+          "amount": 17499.99
+        },
+        {
+          "name": "X Super",
+          "price": "₺6.299,99",
+          "amount": 6299.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "₺12.499,99",
+          "amount": 12499.99
+        }
+      ]
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        }
+      ]
+    }
+  }
+}

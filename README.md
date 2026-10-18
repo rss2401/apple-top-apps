@@ -11,7 +11,8 @@ GitHub Pages site through the relative path `../apple-top-apps/`.
 | Path | Description |
 | --- | --- |
 | `rankings/YYYYMM/` | Ranking RSS JSON per month: `<country>_apps_<feed>.json` |
-| `lists/` | Curated app lists in ranking-feed format |
+| `lists/` | Curated app lists in ranking-feed format; `lists/<name>.json` without a country prefix are price lists |
+| `prices/YYYYMM/` | In-app purchase prices per storefront, plus `usd-rates.json` |
 | `details/<id>.json` | iTunes Lookup responses, one result per country |
 | `archives/<id>.json` | Ranking history of each item across months |
 | `logos/` | Artwork: `<id>-<url-hash>.png`, one file per artwork URL |

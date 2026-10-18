@@ -22,6 +22,11 @@ on:
         required: false
         type: number
         default: 100
+      all_storefronts:
+        description: 'Price every app in all storefronts instead of where it was last available'
+        required: false
+        type: boolean
+        default: false
       countries:
         description: 'Country codes separated by commas or spaces; leave empty for all'
         required: false
@@ -45,3 +50,4 @@ jobs:
       limit: ${{ inputs.limit || 100 }}
       skip_existing: ${{ inputs.skip_existing || false }}
       generate_markdown: ${{ inputs.generate_markdown || false }}
+      all_storefronts: ${{ inputs.all_storefronts || false }}

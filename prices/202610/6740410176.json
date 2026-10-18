@@ -1,0 +1,83 @@
+{
+  "id": "6740410176",
+  "name": "Vibe by Mistral (ex-Le Chat)",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T11:37:53.254Z",
+  "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "Vibe Pro",
+          "price": "¥98.00",
+          "amount": 98
+        },
+        {
+          "name": "Vibe Pro",
+          "price": "¥998.00",
+          "amount": 998
+        }
+      ]
+    },
+    "in": {
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Vibe Pro",
+          "price": "₹ 1,499",
+          "amount": 1499
+        },
+        {
+          "name": "Vibe Pro",
+          "price": "₹ 14,900",
+          "amount": 14900
+        }
+      ]
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Vibe Pro",
+          "price": "¥2,500",
+          "amount": 2500
+        },
+        {
+          "name": "Vibe Pro",
+          "price": "¥25,000",
+          "amount": 25000
+        }
+      ]
+    },
+    "tr": {
+      "currency": "TRY",
+      "items": [
+        {
+          "name": "Vibe Pro",
+          "price": "₺699,99",
+          "amount": 699.99
+        },
+        {
+          "name": "Vibe Pro",
+          "price": "₺6.999,99",
+          "amount": 6999.99
+        }
+      ]
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Vibe Pro",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Vibe Pro",
+          "price": "$149.99",
+          "amount": 149.99
+        }
+      ]
+    }
+  }
+}

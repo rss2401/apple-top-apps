@@ -1,0 +1,111 @@
+{
+  "id": "1477376905",
+  "name": "GitHub",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T11:37:29.186Z",
+  "storefronts": {
+    "cn": {
+      "available": false
+    },
+    "in": {
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "₹ 999",
+          "amount": 999
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "₹ 349",
+          "amount": 349
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "₹ 3,999",
+          "amount": 3999
+        },
+        {
+          "name": "Copilot Max",
+          "price": "₹ 9,900",
+          "amount": 9900
+        }
+      ]
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "¥450",
+          "amount": 450
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "¥6,000",
+          "amount": 6000
+        },
+        {
+          "name": "Copilot Max",
+          "price": "¥15,000",
+          "amount": 15000
+        }
+      ]
+    },
+    "tr": {
+      "currency": "TRY",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "₺299,99",
+          "amount": 299.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "₺26,99",
+          "amount": 26.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "₺1.799,99",
+          "amount": 1799.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "₺3.999,99",
+          "amount": 3999.99
+        }
+      ]
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ]
+    }
+  }
+}

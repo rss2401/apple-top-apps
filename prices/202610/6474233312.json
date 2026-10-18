@@ -1,0 +1,283 @@
+{
+  "id": "6474233312",
+  "name": "Kimi - Kimi K3 is Live",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T11:36:22.934Z",
+  "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "Andante",
+          "price": "¥49.00",
+          "amount": 49
+        },
+        {
+          "name": "Go",
+          "price": "¥49.00",
+          "amount": 49
+        },
+        {
+          "name": "Allegretto",
+          "price": "¥199.00",
+          "amount": 199
+        },
+        {
+          "name": "Moderato",
+          "price": "¥99.00",
+          "amount": 99
+        },
+        {
+          "name": "Plus",
+          "price": "¥99.00",
+          "amount": 99
+        },
+        {
+          "name": "Pro",
+          "price": "¥199.00",
+          "amount": 199
+        },
+        {
+          "name": "Go 年卡",
+          "price": "¥468.00",
+          "amount": 468
+        },
+        {
+          "name": "Allegro",
+          "price": "¥699.00",
+          "amount": 699
+        },
+        {
+          "name": "Plus 年卡",
+          "price": "¥948.00",
+          "amount": 948
+        },
+        {
+          "name": "Andante 年卡",
+          "price": "¥468.00",
+          "amount": 468
+        }
+      ]
+    },
+    "in": {
+      "currency": "INR",
+      "items": [
+        {
+          "name": "Moderato",
+          "price": "₹ 1,999",
+          "amount": 1999
+        },
+        {
+          "name": "Plus",
+          "price": "₹ 1,999",
+          "amount": 1999
+        },
+        {
+          "name": "Allegretto",
+          "price": "₹ 3,999",
+          "amount": 3999
+        },
+        {
+          "name": "Pro",
+          "price": "₹ 3,999",
+          "amount": 3999
+        },
+        {
+          "name": "Allegro",
+          "price": "₹ 9,900",
+          "amount": 9900
+        },
+        {
+          "name": "Ultra",
+          "price": "₹ 19,900",
+          "amount": 19900
+        },
+        {
+          "name": "Max",
+          "price": "₹ 9,900",
+          "amount": 9900
+        },
+        {
+          "name": "Vivace",
+          "price": "₹ 19,900",
+          "amount": 19900
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "₹ 19,900",
+          "amount": 19900
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "₹ 19,900",
+          "amount": 19900
+        }
+      ]
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Moderato",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "Plus",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "Allegretto",
+          "price": "¥6,000",
+          "amount": 6000
+        },
+        {
+          "name": "Pro",
+          "price": "¥6,000",
+          "amount": 6000
+        },
+        {
+          "name": "Vivace",
+          "price": "¥30,000",
+          "amount": 30000
+        },
+        {
+          "name": "Allegro",
+          "price": "¥15,000",
+          "amount": 15000
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "¥30,000",
+          "amount": 30000
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "¥30,000",
+          "amount": 30000
+        },
+        {
+          "name": "Give Kimi some snacks !",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Max",
+          "price": "¥15,000",
+          "amount": 15000
+        }
+      ]
+    },
+    "tr": {
+      "currency": "TRY",
+      "items": [
+        {
+          "name": "Moderato",
+          "price": "₺799,99",
+          "amount": 799.99
+        },
+        {
+          "name": "Plus",
+          "price": "₺999,99",
+          "amount": 999.99
+        },
+        {
+          "name": "Allegretto",
+          "price": "₺1.799,99",
+          "amount": 1799.99
+        },
+        {
+          "name": "Pro",
+          "price": "₺1.999,99",
+          "amount": 1999.99
+        },
+        {
+          "name": "Allegro",
+          "price": "₺4.999,99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Vivace",
+          "price": "₺8.999,99",
+          "amount": 8999.99
+        },
+        {
+          "name": "Max",
+          "price": "₺4.999,99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "₺7.699,99",
+          "amount": 7699.99
+        },
+        {
+          "name": "Ultra",
+          "price": "₺9.999,99",
+          "amount": 9999.99
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "₺9.999,99",
+          "amount": 9999.99
+        }
+      ]
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Moderato",
+          "price": "$19.00",
+          "amount": 19
+        },
+        {
+          "name": "Allegretto",
+          "price": "$39.00",
+          "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "$19.00",
+          "amount": 19
+        },
+        {
+          "name": "Allegro",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Vivace",
+          "price": "$199.00",
+          "amount": 199
+        },
+        {
+          "name": "Pro",
+          "price": "$39.00",
+          "amount": 39
+        },
+        {
+          "name": "Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "$180.99",
+          "amount": 180.99
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "$180.99",
+          "amount": 180.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$199.00",
+          "amount": 199
+        }
+      ]
+    }
+  }
+}
