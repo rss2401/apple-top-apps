@@ -3,37 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/butterfly-effect-pte-ltd/id1724709802?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/08/73/800873df-777d-9fde-1bb3-0859735346be/1_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/c3/e7/08c3e781-87c3-b032-58dc-34ac47c69796/2_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/92/93/949293e8-a609-0d06-ce1a-ccb14baf6682/3_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/97/89/c69789ff-3cf2-11d0-5b37-6e05c3a7e817/05.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/91/14/45911439-0cc6-2bb9-b41c-4a311b916310/5_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a6/6c/61a66c9c-20bd-b824-d07a-1f4fd18bd7ce/6_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/93/3a/91933a4e-b0b7-a132-ce67-ea38b86a5f18/7_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/f9/b7/24f9b7cf-07e6-38e1-b733-e3f64862ee89/iOS-en-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/0b/c3/840bc354-8e7f-f52f-2ab3-c5fdf00d82cc/iOS-en-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7e/59/cb7e59a5-e867-0eb2-68d8-fa5ce2f2c4ba/iOS-en-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/27/68/92276835-25e2-86e8-efee-2efa43a72b33/iOS-en-6.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/b9/0a/e4b90a35-6101-7a00-c1cf-ac454d359ed2/iOS-en-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/6b/bf/f56bbf43-6022-623e-9cbe-844c8b37e752/iOS-en-7.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d9/f4/81d9f4aa-f1cd-7dbd-2735-64df9c43f473/iOS-en-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/ff/f4/7efff477-efd3-7ab2-5b4b-44053c3a6711/iOS-en-6-1.png/320x480bb.jpg"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -166,31 +135,62 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "17.0",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information"
+      ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/24/f9/b7/24f9b7cf-07e6-38e1-b733-e3f64862ee89/iOS-en-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/0b/c3/840bc354-8e7f-f52f-2ab3-c5fdf00d82cc/iOS-en-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/7e/59/cb7e59a5-e867-0eb2-68d8-fa5ce2f2c4ba/iOS-en-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/27/68/92276835-25e2-86e8-efee-2efa43a72b33/iOS-en-6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/b9/0a/e4b90a35-6101-7a00-c1cf-ac454d359ed2/iOS-en-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/6b/bf/f56bbf43-6022-623e-9cbe-844c8b37e752/iOS-en-7.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/d9/f4/81d9f4aa-f1cd-7dbd-2735-64df9c43f473/iOS-en-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/ff/f4/7efff477-efd3-7ab2-5b4b-44053c3a6711/iOS-en-6-1.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/80/08/73/800873df-777d-9fde-1bb3-0859735346be/1_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/c3/e7/08c3e781-87c3-b032-58dc-34ac47c69796/2_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/92/93/949293e8-a609-0d06-ce1a-ccb14baf6682/3_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/97/89/c69789ff-3cf2-11d0-5b37-6e05c3a7e817/05.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/91/14/45911439-0cc6-2bb9-b41c-4a311b916310/5_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a6/6c/61a66c9c-20bd-b824-d07a-1f4fd18bd7ce/6_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/93/3a/91933a4e-b0b7-a132-ce67-ea38b86a5f18/7_APP_IPAD_PRO_3GEN_129.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/47/2b/16472b10-5be0-ebd2-2392-4ec81fdf0a6b/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/butterfly-effect-pte-ltd/id1724709802?uo=4",
       "releaseNotes": "Introducing Manus 2.0\n- Remote Control: Control your computer or cloud computer from your phone.\n- Manus Studio Collaboration: Let Manus write code, use the apps on your computer, and edit docs, slides, and videos with you.\n- Phone & Cloud Computer: Buy a phone number or cloud computer for Manus to get things done.\n- Bug Fixes: Performance improvements and stability fixes.",
+      "minimumOsVersion": "17.0",
+      "artistId": 1724709802,
+      "artistName": "BUTTERFLY EFFECT PTE. LTD.",
       "genres": [
         "Productivity",
         "Utilities"
       ],
-      "artistId": 1724709802,
-      "artistName": "BUTTERFLY EFFECT PTE. LTD.",
       "price": 0,
-      "bundleId": "tech.butterfly.app",
       "releaseDate": "2025-03-27T07:00:00Z",
+      "sellerName": "BUTTERFLY EFFECT PTE. LTD.",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "BUTTERFLY EFFECT PTE. LTD.",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-16T08:30:03Z",
       "version": "26.18.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Leave it to Manus - The AI agent that doesn't just think, it delivers.\n\nManus is a general AI agent that bridges mind and action. Unlike\nchatbots that stop at generating text, Manus uses its own virtual \"computer\"\nto autonomously plan, research, write code, and deliver a finished product.\nIt works asynchronously in the cloud—close the app and Manus keeps working,\nnotifying you when your task is complete.\n\nADVANCED SPREADSHEETS & DATA ANALYSIS\n- Instantly handle complex financial modeling, data analysis, and automated\nreporting.\n- Transform raw Excel or CSV data into clear visual insights and interactive\ndashboards.\n\nBOARDROOM-QUALITY SLIDES\n- Generate complete, polished slide decks tailored to your needs with one\nprompt.\n- Manus handles structure, design, and content—ready to present in a\nboardroom, classroom, or online.\n\nDESIGN VIEW & MEDIA GENERATION\n- Create and edit images with precision on an interactive canvas.\n- Transform simple text prompts into high-quality images and complete video\nstories.\n\nSMARTER WIDE RESEARCH\n- Powered by the Manus 1.6 Max architecture, conduct deep, accurate, and comprehensive web research.\n- Multiple sub-agents work in parallel to synthesize findings and draft\ndetailed reports automatically.\n\nFREE & UNLIMITED CHAT\n- Ask any question and get instant, accurate answers.\n- One-click upgrade to Agent Mode for complex, multi-step execution.\n\nTHE MANUS DIFFERENCE\n- Asynchronous Cloud Execution: Close the app. Manus keeps working. Get\nnotified when done.\n- Autonomous Task Decomposition: Complex requests are broken into a to-do\nlist and executed step by step.\n- Always in Control: Stop, edit, or redirect your task at any time.\n\nTasks that used to take 20 hours can now be done in 1. Download Manus and\nput your work on autopilot.\n\nPrivacy Policy: https://manus.im/privacy\nTerms of Use: https://manus.im/terms",
-      "trackCensoredName": "Manus - AI Agent & Automation",
-      "trackViewUrl": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
-      "contentAdvisoryRating": "12+",
       "averageUserRating": 4.72753,
-      "averageUserRatingForCurrentVersion": 4.72753,
+      "trackCensoredName": "Manus - AI Agent & Automation",
       "languageCodesISO2A": [
         "AR",
         "CS",
@@ -217,12 +217,12 @@
       ],
       "fileSizeBytes": "310204416",
       "formattedPrice": "Free",
+      "contentAdvisoryRating": "12+",
       "userRatingCountForCurrentVersion": 39303,
+      "trackViewUrl": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
       "trackContentRating": "12+",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
+      "averageUserRatingForCurrentVersion": 4.72753,
+      "bundleId": "tech.butterfly.app",
       "trackId": 6740909540,
       "trackName": "Manus - AI Agent & Automation",
       "userRatingCount": 39303,

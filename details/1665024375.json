@@ -3,22 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/runwayml/id1665024677?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a7/3e/7ca73ecf-0928-98e5-b6ad-2bee08bb59a1/1.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/6d/3d/eb6d3d87-3219-596e-32c0-f2748c824eed/2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/0d/dc/940ddcaa-0deb-e5da-e2ae-260204317cc4/3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/af/3c/aeaf3c68-55f2-5a9a-f2b7-20dc85691a59/4.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/83/ee/7083ee53-ce7a-6414-819b-48b34d01956b/5.jpg/320x480bb.jpg"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -151,41 +135,57 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "16.4",
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a7/3e/7ca73ecf-0928-98e5-b6ad-2bee08bb59a1/1.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/6d/3d/eb6d3d87-3219-596e-32c0-f2748c824eed/2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/0d/dc/940ddcaa-0deb-e5da-e2ae-260204317cc4/3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/af/3c/aeaf3c68-55f2-5a9a-f2b7-20dc85691a59/4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/83/ee/7083ee53-ce7a-6414-819b-48b34d01956b/5.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bc/a4/6cbca430-7b0b-6975-65d7-084d3b5ecbd0/runway-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/runwayml/id1665024677?uo=4",
       "releaseNotes": "Bug fixes and performance improvements.",
+      "minimumOsVersion": "16.4",
+      "artistId": 1665024677,
+      "artistName": "runwayml",
       "genres": [
         "Photo & Video"
       ],
-      "artistId": 1665024677,
-      "artistName": "runwayml",
       "price": 0,
-      "bundleId": "com.runwayml.mobiletest",
       "releaseDate": "2023-04-18T07:00:00Z",
+      "sellerName": "Runway AI, Inc.",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "Runway AI, Inc.",
+      "genreIds": [
+        "6008"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-13T19:05:44Z",
       "version": "100.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Make anything with Runway — the AI image and video generator with every model you need in one app. Seedance 2.5, Kling 3 Pro, Gen-4.5, Nano Banana Pro, Nano Banana 2 and more.\n\nGenerate video from a text prompt. Turn any photo into motion. Create images in any style, with consistent characters, objects and locations across every shot. Or just describe the video you want and let Runway Agent build the whole thing. Your first generation takes about two minutes.\n\nEVERY MODEL. ONE APP.\n\nRunway is the only creative app with Seedance 2.5, Kling 3 Pro, Gen-4.5, Nano Banana Pro, Nano Banana 2 and more, all in one place. Pick the best model for the job. No tool-hopping, no separate subscriptions.\n\nAI VIDEO GENERATION\n\nText to video, image to video and video to video. Generate cinematic scenes, social posts, ads, music videos and short films at professional quality.\n\nAI IMAGE GENERATION\n\nCreate images from a prompt or a reference photo. Photorealistic, illustration, anime, concept art, product shots, storyboards and character design.\n\nRUNWAY AGENT\n\nCreate end-to-end videos with a simple conversation. Describe what you want in plain language and Agent plans the shots, generates them and assembles the finished video. Ask for a change and it makes it. No timeline, no prompt syntax, no complex tools to learn.\n\nCONSISTENT CHARACTERS AND WORLDS\n\nKeep the same character, object or location across every generation, so a series of shots actually looks like one story.\n\nWHAT YOU CAN MAKE\n\n- Short films and cinematic scenes\n- Marketing ads and product videos\n- Logos, flyers and event invitations\n- Music videos\n- Social videos and reels\n- Storyboards, animatics and concept art\n- Character designs and avatars\n- Animation from a single still image\n\nTRUSTED BY THE CREATIVE INDUSTRY\n\nRunway is used by AMC Networks, Lionsgate, The Late Show with Stephen Colbert and millions of creators, filmmakers, designers and marketers worldwide.\n\nSTART ON YOUR PHONE, FINISH ANYWHERE\n\nIf you already have a Runway account, your work syncs between your phone and your computer automatically. New models and features are added regularly, so you always have access to the latest.\n\nFree to start. Subscription plans available for more credits, higher resolution and faster generation.\n\nTerms of Use: https://runwayml.com/terms-of-use\nPrivacy Policy: https://runwayml.com/privacy-policy",
-      "trackCensoredName": "Runway: AI Image & Video",
-      "trackViewUrl": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.48421,
-      "averageUserRatingForCurrentVersion": 4.48421,
       "sellerUrl": "https://runway.com",
+      "averageUserRating": 4.48421,
+      "trackCensoredName": "Runway: AI Image & Video",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "128939008",
       "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 17833,
+      "trackViewUrl": "https://apps.apple.com/us/app/runway-ai-image-video/id1665024375?uo=4",
       "trackContentRating": "4+",
-      "genreIds": [
-        "6008"
-      ],
+      "averageUserRatingForCurrentVersion": 4.48421,
+      "bundleId": "com.runwayml.mobiletest",
       "trackId": 1665024375,
       "trackName": "Runway: AI Image & Video",
       "userRatingCount": 17833,

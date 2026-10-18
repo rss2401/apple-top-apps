@@ -135,6 +135,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "advisories": [
         "Unrestricted Web Access"
       ],
@@ -151,52 +154,49 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/16/a6/d316a6ab-34d4-0744-699d-2ba0a3d44332/ipad-13-002.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/9a/d3/a79ad364-60e5-a2cc-2649-73b3b3c68718/app-icon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/lovable-labs-incorporated/id1867170817?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/9a/d3/a79ad364-60e5-a2cc-2649-73b3b3c68718/app-icon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/9a/d3/a79ad364-60e5-a2cc-2649-73b3b3c68718/app-icon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/9a/d3/a79ad364-60e5-a2cc-2649-73b3b3c68718/app-icon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/lovable-labs-incorporated/id1867170817?uo=4",
+      "releaseNotes": "Project previews now ask for your permission before using your camera or microphone, and you can review and change those choices per site. Plus bug fixes and stability improvements.",
       "minimumOsVersion": "16.4",
       "artistId": 1867170817,
+      "artistName": "Lovable Labs Incorporated",
+      "genres": [
+        "Productivity",
+        "Developer Tools"
+      ],
       "price": 0,
       "releaseDate": "2026-04-27T07:00:00Z",
+      "sellerName": "Lovable Labs Incorporated",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "bundleId": "dev.lovable.build",
       "genreIds": [
         "6007",
         "6026"
       ],
-      "sellerName": "Lovable Labs Incorporated",
-      "trackId": 6757471107,
-      "trackName": "Lovable: Build Apps With AI",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-13T08:50:46Z",
-      "releaseNotes": "Project previews now ask for your permission before using your camera or microphone, and you can review and change those choices per site. Plus bug fixes and stability improvements.",
       "version": "1.2.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Lovable turns your ideas into real, working apps and websites. Just describe what you want to make, and Lovable builds it — design, logic, backend, and all.\n\nYou don't need to know how to code. You don't need a technical co-founder. You don't need to wait months for a developer. If you can describe what you want, you can build it today.\n\nMillions of people are already using Lovable to create things they never thought they could. Founders have launched revenue-generating businesses. Marketing teams have shipped websites in an afternoon instead of waiting six weeks. Product managers bring working prototypes to meetings instead of slide decks.\n\nHere's how it works: open Lovable, describe your idea in plain language — or drop in a screenshot — and watch it come to life. Lovable generates a complete, working app with real code, beautiful design, and everything wired up. Then iterate by chatting: adjust the layout, add features, connect your payment system, refine until it's exactly right. When you're ready, deploy with one click.\n\nWhat people build on Lovable:\n- Web apps and mobile apps\n- Websites and landing pages\n- Internal tools and dashboards\n- SaaS products and marketplaces\n- Custom tools for their team\n\nIt connects to the tools you already use — Stripe for payments, GitHub for code, Notion for docs, Shopify for e-commerce, Slack for notifications, and dozens more. Authentication, database, and hosting are included from the start. No setup, no configuration, no infrastructure decisions.\n\nLovable was built from day one for people with ideas, not just engineers. That's why it feels different from other tools — simple from the first moment, with professional-quality results you'd be proud to share.\n\nOver 25 million projects have been built on the platform. Start building for free.\n\nTerms and policies: https://lovable.dev/terms",
-      "averageUserRatingForCurrentVersion": 4.82476,
+      "sellerUrl": "https://lovable.dev",
+      "averageUserRating": 4.82476,
       "trackCensoredName": "Lovable: Build Apps With AI",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "71525376",
       "formattedPrice": "Free",
+      "contentAdvisoryRating": "17+",
       "userRatingCountForCurrentVersion": 2431,
       "trackViewUrl": "https://apps.apple.com/us/app/lovable-build-apps-with-ai/id6757471107?uo=4",
       "trackContentRating": "17+",
-      "averageUserRating": 4.82476,
-      "sellerUrl": "https://lovable.dev",
-      "contentAdvisoryRating": "17+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistName": "Lovable Labs Incorporated",
-      "genres": [
-        "Productivity",
-        "Developer Tools"
-      ],
+      "averageUserRatingForCurrentVersion": 4.82476,
+      "bundleId": "dev.lovable.build",
+      "trackId": 6757471107,
+      "trackName": "Lovable: Build Apps With AI",
       "userRatingCount": 2431,
       "country": "USA"
     }

@@ -6,36 +6,6 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Realistic Violence"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/36/9a/c9369a68-8002-096b-9b23-1f3fd02bfd38/iOS_Tablet_13_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/4c/16/b84c169e-5d96-78b9-8b45-a417b376705b/iOS_Tablet_13_02.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/2f/fc/ae2ffc7f-70d6-353e-02b4-ecf13ad7c47b/iOS_Tablet_13_03.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/31/9c/d7319c5a-cf21-b9a9-19ed-dc82513a4810/iOS_Tablet_13_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/28/97/a22897a1-abef-2618-d53d-009cf208fffb/iOS_Tablet_13_05.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c5/22/22c52249-ea6f-1410-88c0-b74400a4e30a/iOS_Tablet_13_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/5b/dc/8c5bdc65-c45f-4817-d80b-365133b75935/iOS_Tablet_13_07.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/19/00/8f190061-625f-47c7-3820-06013eec182e/iOS_Tablet_13_08.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/22/58/31225804-b0c5-8f23-d73e-1c2067c8b76d/iOS_Mobile_6.9_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/58/55/815855d3-1ce2-7dfd-ab86-6dabbf741546/iOS_Mobile_6.9_02_Alt_02.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/4f/cf/ea4fcfd6-3b0e-7290-c810-90ceb3ed412b/iOS_Mobile_6.9_03_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/54/21/ed542122-4573-b37c-1c4f-498086073f05/iOS_Mobile_6.9_04_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/40/8f/61408fe2-6cdf-1da1-996c-e6cea1655a39/iOS_Mobile_6.9_05.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/9d/e7/1c9de7ad-8899-b6e2-95f2-ce1c0e4b876d/iOS_Mobile_6.9_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/46/e3/da46e3a5-d0dc-138a-cdd8-d5a3d186543a/iOS_Mobile_6.9_07_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/00/5c/b4005cfa-70de-c398-3170-9977d849548c/iOS_Mobile_6.9_08.jpg/320x480bb.jpg"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -168,17 +138,53 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Realistic Violence"
+      ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/22/58/31225804-b0c5-8f23-d73e-1c2067c8b76d/iOS_Mobile_6.9_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/58/55/815855d3-1ce2-7dfd-ab86-6dabbf741546/iOS_Mobile_6.9_02_Alt_02.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/4f/cf/ea4fcfd6-3b0e-7290-c810-90ceb3ed412b/iOS_Mobile_6.9_03_Alt_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/54/21/ed542122-4573-b37c-1c4f-498086073f05/iOS_Mobile_6.9_04_Alt_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/40/8f/61408fe2-6cdf-1da1-996c-e6cea1655a39/iOS_Mobile_6.9_05.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/9d/e7/1c9de7ad-8899-b6e2-95f2-ce1c0e4b876d/iOS_Mobile_6.9_06.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/46/e3/da46e3a5-d0dc-138a-cdd8-d5a3d186543a/iOS_Mobile_6.9_07_Alt_01.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/00/5c/b4005cfa-70de-c398-3170-9977d849548c/iOS_Mobile_6.9_08.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/36/9a/c9369a68-8002-096b-9b23-1f3fd02bfd38/iOS_Tablet_13_01.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/4c/16/b84c169e-5d96-78b9-8b45-a417b376705b/iOS_Tablet_13_02.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/2f/fc/ae2ffc7f-70d6-353e-02b4-ecf13ad7c47b/iOS_Tablet_13_03.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/31/9c/d7319c5a-cf21-b9a9-19ed-dc82513a4810/iOS_Tablet_13_04.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/28/97/a22897a1-abef-2618-d53d-009cf208fffb/iOS_Tablet_13_05.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c5/22/22c52249-ea6f-1410-88c0-b74400a4e30a/iOS_Tablet_13_06.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/5b/dc/8c5bdc65-c45f-4817-d80b-365133b75935/iOS_Tablet_13_07.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/19/00/8f190061-625f-47c7-3820-06013eec182e/iOS_Tablet_13_08.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "16.0",
-      "releaseNotes": "Thanks for using Leonardo.Ai! This version includes bug fixes and performance improvements.",
+      "artistId": 1662773016,
+      "artistName": "Leonardo Interactive Pty Ltd",
       "genres": [
         "Graphics & Design",
         "Productivity"
       ],
-      "artistId": 1662773016,
-      "artistName": "Leonardo Interactive Pty Ltd",
       "price": 0,
       "bundleId": "ai.leonardo.Leonardo",
+      "trackId": 1662773014,
+      "trackName": "Leonardo.Ai - Image Generator",
+      "releaseNotes": "Thanks for using Leonardo.Ai! This version includes bug fixes and performance improvements.",
       "releaseDate": "2023-08-03T07:00:00Z",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
       "sellerName": "Leonardo Interactive Pty Ltd",
@@ -188,12 +194,7 @@
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to Leonardo.Ai, a full creative platform that lets you play, explore and create with the world's best AI image and video generation models, now on iOS!\n\nMore than just a free AI art generator, Leonardo supports your entire creative journey with powerful yet easy AI art tools, taking you from the first spark of an idea to pro-level assets in just a tap. Now, you can access all these powerful features right from your iPhone or iPad:\n\nAI IMAGE GENERATOR\nOur free AI image maker lets you rapidly iterate concepts and explore aesthetics with complete creative control using top AI image models, including Nano Banana by Google, Seedream, FLUX, and Leonardo's own state of the art models.\n\nAI VIDEO GENERATOR\nLeonardo's free AI Video maker is your storytelling tool for cinematic scenes to social media content with top AI video models such as Veo 3 by Google. Take the director's seat with camera controls and animation effects or bring generated images and real photos to life with motion.\n\nEASY TO USE PRE-DESIGNED BLUEPRINT TEMPLATES\nKick-start your projects or streamline any stage of your creative workflow with easy to use, ready-made templates that deliver pro-level results in a tap.\n\nAI IMAGE EDITING\nOur Ai image editor tools let you tweak your images with ease - just describe the changes you want to make! Powered by intelligent AI image models, you can you enhance, unzoom and remove backgrounds from images to effortlessly refine your AI artwork with ease.\n\nAI UPSCALER\nLeonardo's Universal Upscaler tool is a market leader that can add crisp definition to any image or add creative details to make images stand out in high-definition.\n\nSTART YOUR CREATIVE JOURNEY\nJoin a community of over 60 million creative minds and be inspired by more than 2 billion AI generations using http://Leonardo.Ai. Start creating stunning AI art today!\n\nPlease note: By using this app, you agree to our Privacy Policy (https://leonardo.ai/legal-notice/) and Terms of Service (https://leonardo.ai/terms-of-service/).",
-      "trackCensoredName": "Leonardo.Ai - Image Generator",
-      "trackViewUrl": "https://apps.apple.com/us/app/leonardo-ai-image-generator/id1662773014?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.83152,
       "averageUserRatingForCurrentVersion": 4.83152,
-      "sellerUrl": "https://leonardo.ai/",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -201,12 +202,11 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 11147,
       "trackContentRating": "17+",
-      "genreIds": [
-        "6027",
-        "6007"
-      ],
-      "trackId": 1662773014,
-      "trackName": "Leonardo.Ai - Image Generator",
+      "sellerUrl": "https://leonardo.ai/",
+      "averageUserRating": 4.83152,
+      "trackCensoredName": "Leonardo.Ai - Image Generator",
+      "trackViewUrl": "https://apps.apple.com/us/app/leonardo-ai-image-generator/id1662773014?uo=4",
+      "contentAdvisoryRating": "17+",
       "userRatingCount": 11147,
       "country": "USA"
     }
