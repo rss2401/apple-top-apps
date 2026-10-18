@@ -14,7 +14,7 @@ GitHub Pages site through the relative path `../apple-top-apps/`.
 | `lists/` | Curated app lists in ranking-feed format |
 | `details/<id>.json` | iTunes Lookup responses, one result per country |
 | `archives/<id>.json` | Ranking history of each item across months |
-| `logos/` | Artwork: `<id>.png` (newest) and `<id>-<url-hash>.png` (versions) |
+| `logos/` | Artwork: `<id>-<url-hash>.png`, one file per artwork URL |
 | `rankings.json` | Index of all ranking and list files, used by the website |
 
 Snapshot at migration: 1329 items, 1307 detail files, 2327 artwork files, 1233 archives.
