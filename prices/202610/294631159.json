@@ -1,0 +1,71 @@
+{
+  "id": "294631159",
+  "name": "WeatherPro",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:08:37.509Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Premium 12 Monate",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Premium 3 Monate",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": " Premium Monat",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:34.507Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Europe Premium 12 mois",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Europe Premium 3 mois",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": " Premium Mensuel",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:36.312Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Premium 12 Month",
+          "price": "£8.99",
+          "amount": 8.99
+        },
+        {
+          "name": "Premium 3 Month",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Premium Monthly",
+          "price": "£0.99",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:37.509Z"
+    }
+  }
+}

@@ -2,10 +2,119 @@
   "id": "6448311069",
   "name": "ChatGPT",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:17:00.351Z",
+  "fetchedAt": "2026-10-18T13:52:54.590Z",
   "storefronts": {
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T12:17:00.351Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "ChatGPT Go",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "ChatGPT Pro 100",
+          "price": "102,99 €",
+          "amount": 102.99
+        },
+        {
+          "name": "ChatGPT Pro 200",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Pro 500",
+          "price": "509,99 €",
+          "amount": 509.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:52:51.566Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "ChatGPT Go",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "ChatGPT Pro 100",
+          "price": "102,99 €",
+          "amount": 102.99
+        },
+        {
+          "name": "ChatGPT Pro 200",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Pro 500",
+          "price": "509,99 €",
+          "amount": 509.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:52:53.046Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "ChatGPT Plus",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "ChatGPT Go",
+          "price": "£6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "ChatGPT Pro 100",
+          "price": "£88.90",
+          "amount": 88.9
+        },
+        {
+          "name": "ChatGPT Pro 200",
+          "price": "£200.00",
+          "amount": 200
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "£200.00",
+          "amount": 200
+        },
+        {
+          "name": "ChatGPT Pro 500",
+          "price": "£444.99",
+          "amount": 444.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:52:54.583Z"
     },
     "in": {
       "currency": "INR",
@@ -40,7 +149,8 @@
           "price": "₹ 52,900",
           "amount": 52900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:00.351Z"
     },
     "jp": {
       "currency": "JPY",
@@ -75,7 +185,8 @@
           "price": "¥84,000",
           "amount": 84000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:00.351Z"
     },
     "tr": {
       "currency": "TRY",
@@ -110,7 +221,8 @@
           "price": "₺26.499,00",
           "amount": 26499
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:00.351Z"
     },
     "us": {
       "currency": "USD",
@@ -160,7 +272,8 @@
           "price": "$40.00",
           "amount": 40
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:00.351Z"
     }
   }
 }

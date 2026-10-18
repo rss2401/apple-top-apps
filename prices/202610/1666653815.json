@@ -1,0 +1,101 @@
+{
+  "id": "1666653815",
+  "name": "HBO Max: Stream Movies & TV",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T13:57:52.932Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Basis mit Werbung",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Standard",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Premium",
+          "price": "16,99 €",
+          "amount": 16.99
+        },
+        {
+          "name": "Premium und Sport",
+          "price": "19,99 €",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:49.411Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "TNT Sports",
+          "price": "£30.99",
+          "amount": 30.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:50.915Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Standard Monthly",
+          "price": "$18.49",
+          "amount": 18.49
+        },
+        {
+          "name": "Standard Monthly",
+          "price": "$18.49",
+          "amount": 18.49
+        },
+        {
+          "name": "Basic With Ads Monthly",
+          "price": "$10.99",
+          "amount": 10.99
+        },
+        {
+          "name": "Basic With Ads Monthly",
+          "price": "$10.99",
+          "amount": 10.99
+        },
+        {
+          "name": "Premium Monthly",
+          "price": "$22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Premium Yearly",
+          "price": "$229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Basic With Ads Yearly",
+          "price": "$109.99",
+          "amount": 109.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:52.925Z"
+    }
+  }
+}

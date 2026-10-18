@@ -1,0 +1,41 @@
+{
+  "id": "1519508653",
+  "name": "Nomad Sculpt",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:03:05.998Z",
+  "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "Quad Remesher",
+          "price": "¥98.00",
+          "amount": 98
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:03.027Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Quad Remesher",
+          "price": "17,99 €",
+          "amount": 17.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:04.477Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Quad Remesher",
+          "price": "$15.99",
+          "amount": 15.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:05.997Z"
+    }
+  }
+}

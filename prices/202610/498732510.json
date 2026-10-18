@@ -1,0 +1,55 @@
+{
+  "id": "498732510",
+  "name": "Blitzer.de PRO",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:08:25.485Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Mobile Gefahren",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Mobile Gefahren",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "DriveCast Wochenabo",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "DriveCast Jahresabo",
+          "price": "24,99 €",
+          "amount": 24.99
+        },
+        {
+          "name": "DriveCast Monatsabo",
+          "price": "4,99 €",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:23.985Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Mobile traffic information",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Mobile traffic information",
+          "price": "9,99 €",
+          "amount": 9.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:25.479Z"
+    }
+  }
+}

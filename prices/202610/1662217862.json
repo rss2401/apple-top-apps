@@ -1,0 +1,152 @@
+{
+  "id": "1662217862",
+  "name": "Wipr 2",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:01:08.938Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Filtr",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Filtr",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Monthly Recurring Tip",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Tip",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Yearly Recurring Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Mega Tip",
+          "price": "22,99 €",
+          "amount": 22.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:04.471Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Filtr",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Filtr",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Monthly Recurring Tip",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Tip",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Yearly Recurring Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Mega Tip",
+          "price": "22,99 €",
+          "amount": 22.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:05.997Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Filtr",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Filtr",
+          "price": "£24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Monthly Recurring Tip",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Tip",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Yearly Recurring Tip",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Mega Tip",
+          "price": "£19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:07.613Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Filtr",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Filtr",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Monthly Recurring Tip",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Tip",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Yearly Recurring Tip",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Mega Tip",
+          "price": "$19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:08.937Z"
+    }
+  }
+}

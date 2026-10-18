@@ -1,0 +1,40 @@
+{
+  "id": "6739263703",
+  "name": "Unora",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:12:00.003Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Monthly",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Yearly",
+          "price": "29,00 €",
+          "amount": 29
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:11:58.488Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Monthly",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Yearly",
+          "price": "£25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:12:00.002Z"
+    }
+  }
+}

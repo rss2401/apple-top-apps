@@ -1,11 +1,180 @@
 {
   "id": "6670324846",
-  "name": "Grok AI",
+  "name": "Grok",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:17:18.567Z",
+  "fetchedAt": "2026-10-18T13:58:04.496Z",
   "storefronts": {
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T12:17:18.567Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "SuperGrok",
+          "price": "349,00 €",
+          "amount": 349
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:58:01.483Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "SuperGrok",
+          "price": "349,00 €",
+          "amount": 349
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:58:03.028Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "SuperGrok",
+          "price": "£30.00",
+          "amount": 30
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "£5.00",
+          "amount": 5
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "£20.00",
+          "amount": 20
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "£10.00",
+          "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "£50.00",
+          "amount": 50
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "£300.00",
+          "amount": 300
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "£100.00",
+          "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "£100.00",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok",
+          "price": "£30.00",
+          "amount": 30
+        },
+        {
+          "name": "SuperGrok",
+          "price": "£300.00",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:58:04.490Z"
     },
     "in": {
       "currency": "INR",
@@ -60,7 +229,8 @@
           "price": "₹ 99,900",
           "amount": 99900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:18.567Z"
     },
     "jp": {
       "currency": "JPY",
@@ -115,7 +285,8 @@
           "price": "¥50,000",
           "amount": 50000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:18.567Z"
     },
     "tr": {
       "currency": "TRY",
@@ -170,7 +341,8 @@
           "price": "₺12.999,99",
           "amount": 12999.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:18.567Z"
     },
     "us": {
       "currency": "USD",
@@ -225,7 +397,8 @@
           "price": "$30.00",
           "amount": 30
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:18.567Z"
     }
   }
 }

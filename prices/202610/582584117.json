@@ -1,0 +1,30 @@
+{
+  "id": "582584117",
+  "name": "Solocator - GPS Field Camera",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:01:28.444Z",
+  "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Industry Pack",
+          "price": "£5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:27.035Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Industry Pack",
+          "price": "$5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:28.438Z"
+    }
+  }
+}

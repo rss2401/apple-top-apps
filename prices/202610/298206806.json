@@ -1,0 +1,92 @@
+{
+  "id": "298206806",
+  "name": "iReal Pro",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T13:56:13.488Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Blues Begleitungsstile",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Salsa Begleitungsstile",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Brasilianische Backing Tracks",
+          "price": "7,99 €",
+          "amount": 7.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:56:08.639Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Styles d'accompagnement blues",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Styles d'accompagnement salsa",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Backing Tracks brésiliens",
+          "price": "7,99 €",
+          "amount": 7.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:56:10.577Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "ブルース伴奏スタイル",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
+          "name": "サルサ伴奏スタイル",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
+          "name": "ブラジルの伴奏スタイル",
+          "price": "¥1,100",
+          "amount": 1100
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:56:12.131Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Blues style backing tracks",
+          "price": "$6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Salsa style backing tracks",
+          "price": "$6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Brazilian backing tracks",
+          "price": "$6.99",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:56:13.488Z"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6794501026",
+  "name": "Grok Bot",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:18:04.420Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:18:04.420Z"
+    }
+  }
+}

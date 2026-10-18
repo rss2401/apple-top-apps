@@ -1,0 +1,29 @@
+{
+  "id": "309735670",
+  "name": "Indeed Job Search",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T13:58:35.953Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-18T13:58:32.891Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-10-18T13:58:34.497Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Indeed Pro",
+          "price": "$6.99",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:58:35.952Z"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "908905093",
+  "name": "Lumy",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:02:22.306Z",
+  "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "一点点光 (小额支持)",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "所有的光 (巨额支持)",
+          "price": "¥68.00",
+          "amount": 68
+        },
+        {
+          "name": "更多光 (中等支持)",
+          "price": "¥28.00",
+          "amount": 28
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:02:21.210Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "A Little Light (Small Tip)",
+          "price": "$0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "All the Light (Huge Tip)",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "More Light (Medium Tip)",
+          "price": "$3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:02:22.301Z"
+    }
+  }
+}

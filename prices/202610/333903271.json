@@ -1,0 +1,232 @@
+{
+  "id": "333903271",
+  "name": "X",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T13:53:34.481Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium (Monthly)",
+          "price": "11,00 €",
+          "amount": 11
+        },
+        {
+          "name": "X Premium Basic (Monthly)",
+          "price": "4,00 €",
+          "amount": 4
+        },
+        {
+          "name": "X Premium Plus (Monthly)",
+          "price": "57,00 €",
+          "amount": 57
+        },
+        {
+          "name": "X Premium (Annual)",
+          "price": "107,99 €",
+          "amount": 107.99
+        },
+        {
+          "name": "Promouvoir la publication",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "X Premium Basic (Annual)",
+          "price": "36,00 €",
+          "amount": 36
+        },
+        {
+          "name": " Promouvoir la publication",
+          "price": "29,00 €",
+          "amount": 29
+        },
+        {
+          "name": "@elonmusk Subscription",
+          "price": "4,00 €",
+          "amount": 4
+        },
+        {
+          "name": "Package de Tweet boosté",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "@ActualiteBarca Subscription",
+          "price": "6,00 €",
+          "amount": 6
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:53:30.012Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Ticketed Space ($1.99)",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Ticketed Space ($.99)",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Ticketed Space ($2.99)",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Ticketed Space ($3.99)",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Ticketed Space ($10.99)",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Ticketed Space ($4.99)",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Ticketed Space ($9.99)",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Ticketed Space ($5.99)",
+          "price": "£5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Ticketed Space ($12.99)",
+          "price": "£12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "Ticketed Space ($6.99)",
+          "price": "£6.99",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:53:31.472Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "X Premium (Monthly)",
+          "price": "¥1,270",
+          "amount": 1270
+        },
+        {
+          "name": "X Premium Basic (Monthly)",
+          "price": "¥450",
+          "amount": 450
+        },
+        {
+          "name": "X Premium (Annual)",
+          "price": "¥12,700",
+          "amount": 12700
+        },
+        {
+          "name": "X Premium Plus (Monthly)",
+          "price": "¥8,000",
+          "amount": 8000
+        },
+        {
+          "name": "投稿を1,500円でプロモーションする",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "X Premium Basic (Annual)",
+          "price": "¥4,500",
+          "amount": 4500
+        },
+        {
+          "name": "投稿を3,500円でプロモーションする",
+          "price": "¥4,000",
+          "amount": 4000
+        },
+        {
+          "name": "@goto_finance Subscription",
+          "price": "¥100",
+          "amount": 100
+        },
+        {
+          "name": "ブーストしたツイートパッケージ",
+          "price": "¥8,000",
+          "amount": 8000
+        },
+        {
+          "name": "@hazuma Subscription",
+          "price": "¥700",
+          "amount": 700
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:53:33.001Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium (Monthly)",
+          "price": "$11.00",
+          "amount": 11
+        },
+        {
+          "name": "X Premium Basic (Monthly)",
+          "price": "$4.00",
+          "amount": 4
+        },
+        {
+          "name": "X Premium Plus (Monthly)",
+          "price": "$50.00",
+          "amount": 50
+        },
+        {
+          "name": "@elonmusk Subscription",
+          "price": "$4.00",
+          "amount": 4
+        },
+        {
+          "name": "X Premium (Annual)",
+          "price": "$114.99",
+          "amount": 114.99
+        },
+        {
+          "name": "Promote Post for $25",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
+          "name": "@FatKidDeals Subscription",
+          "price": "$1.00",
+          "amount": 1
+        },
+        {
+          "name": "X Premium Basic (Annual)",
+          "price": "$42.00",
+          "amount": 42
+        },
+        {
+          "name": "Promote Post for $50",
+          "price": "$50.00",
+          "amount": 50
+        },
+        {
+          "name": "X Premium Plus (Annual)",
+          "price": "$490.00",
+          "amount": 490
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:53:34.481Z"
+    }
+  }
+}

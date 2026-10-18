@@ -1,0 +1,34 @@
+{
+  "id": "1288723196",
+  "name": "Microsoft Edge",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:19:43.410Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Microsoft 365 Premium",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Microsoft 365 Premium",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "$99.99",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:19:43.410Z"
+    }
+  }
+}

@@ -2,10 +2,134 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:17:06.347Z",
+  "fetchedAt": "2026-10-18T14:03:39.584Z",
   "storefronts": {
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T12:17:06.347Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:36.536Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:37.930Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "£20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "£119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "£199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "£249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "£20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "£45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "£200.00",
+          "amount": 200
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:03:39.578Z"
     },
     "in": {
       "currency": "INR",
@@ -45,7 +169,8 @@
           "price": "₹ 19,900",
           "amount": 19900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:06.347Z"
     },
     "jp": {
       "currency": "JPY",
@@ -70,7 +195,8 @@
           "price": "¥40,000",
           "amount": 40000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:06.347Z"
     },
     "tr": {
       "currency": "TRY",
@@ -110,7 +236,8 @@
           "price": "₺9.999,99",
           "amount": 9999.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:06.347Z"
     },
     "us": {
       "currency": "USD",
@@ -150,7 +277,8 @@
           "price": "$200.00",
           "amount": 200
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T12:17:06.347Z"
     }
   }
 }

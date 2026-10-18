@@ -1,0 +1,63 @@
+{
+  "id": "1633243177",
+  "name": "Ableton Note",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T13:57:32.898Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Drift In-App Purchase",
+          "price": "3,99 €",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:27.200Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Drift In-App Purchase",
+          "price": "3,99 €",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:28.417Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Drift In-App Purchase",
+          "price": "£3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:29.961Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Drift In-App Purchase",
+          "price": "¥600",
+          "amount": 600
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:31.524Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Drift In-App Purchase",
+          "price": "$3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T13:57:32.894Z"
+    }
+  }
+}

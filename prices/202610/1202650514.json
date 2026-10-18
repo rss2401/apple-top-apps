@@ -1,0 +1,40 @@
+{
+  "id": "1202650514",
+  "name": "HealthFit",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:08:54.048Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Fanatischer Unterstützer",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Toller Unterstützer",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:52.559Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Supporter fanatique",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Supporter fantastique",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:08:54.047Z"
+    }
+  }
+}

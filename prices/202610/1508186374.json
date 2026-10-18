@@ -1,0 +1,54 @@
+{
+  "id": "1508186374",
+  "name": "Peacock TV: Stream TV & Movies",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:00:05.848Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Peacock Premium",
+          "price": "$12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "Peacock Premium Plus",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Peacock Select Monthly",
+          "price": "$8.99",
+          "amount": 8.99
+        },
+        {
+          "name": "Peacock Premium Annual",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Peacock Premium Plus Annual",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Peacock Select Annual",
+          "price": "$89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Apple TV and Peacock Premium",
+          "price": "$17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "Apple TV and Peacock Premium Plus",
+          "price": "$22.99",
+          "amount": 22.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:00:05.848Z"
+    }
+  }
+}

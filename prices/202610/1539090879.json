@@ -1,0 +1,44 @@
+{
+  "id": "1539090879",
+  "name": "TV Remote - Universal Control",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:04:52.616Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Weekly Premium",
+          "price": "$6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Annual Premium",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Weekly Premium",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Monthly Premium",
+          "price": "$8.99",
+          "amount": 8.99
+        },
+        {
+          "name": "Lifetime Premium.",
+          "price": "$44.99",
+          "amount": 44.99
+        },
+        {
+          "name": "Yearly Premium",
+          "price": "$19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:04:52.615Z"
+    }
+  }
+}

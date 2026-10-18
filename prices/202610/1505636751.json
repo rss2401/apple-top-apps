@@ -1,0 +1,232 @@
+{
+  "id": "1505636751",
+  "name": "TeleGuard",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:01:20.969Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "TeleGuard ID",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "5$",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Channel",
+          "price": "8,00 €",
+          "amount": 8
+        },
+        {
+          "name": "Kaffee mit Kuchen",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Kaffee",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "Cappuccino",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "20$",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Erweiterte Anrufe promo",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Erweiterte Anrufe",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "100$",
+          "price": "99,99 €",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:16.548Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "TeleGuard ID",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "5$",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Canal",
+          "price": "8,00 €",
+          "amount": 8
+        },
+        {
+          "name": "Appels avancés",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Appels avancés promo",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "100$",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "20$",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Café et gâteau",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Cappuccino",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Café",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:17.968Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "TeleGuard ID",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Channel",
+          "price": "£7.00",
+          "amount": 7
+        },
+        {
+          "name": "5$",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Advanced calls promo",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Advanced calls",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "100$",
+          "price": "£99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "20$",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Big coffee",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Medium coffee",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Small coffee",
+          "price": "£0.99",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:19.515Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "TeleGuard ID",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "5$",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Channel",
+          "price": "$7.00",
+          "amount": 7
+        },
+        {
+          "name": "20$",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Advanced calls promo",
+          "price": "$2.49",
+          "amount": 2.49
+        },
+        {
+          "name": "Big coffee",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Medium coffee",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Small coffee",
+          "price": "$0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "100$",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Advanced calls",
+          "price": "$3.49",
+          "amount": 3.49
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:20.969Z"
+    }
+  }
+}

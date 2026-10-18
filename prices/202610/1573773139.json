@@ -1,0 +1,40 @@
+{
+  "id": "1573773139",
+  "name": "Le Champion",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:14:49.553Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Événement unique Tracx+",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Tracx+ Illimité",
+          "price": "6,99 €",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:14:48.096Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Tracx+ Single Event",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Tracx+ Unlimited",
+          "price": "£5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:14:49.552Z"
+    }
+  }
+}

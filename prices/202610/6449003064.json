@@ -1,0 +1,56 @@
+{
+  "id": "6449003064",
+  "name": "Goblin Tools",
+  "month": "202610",
+  "fetchedAt": "2026-10-18T14:01:38.915Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Goblin Tools Pro - Monthly",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Goblin Tools Pro - Yearly",
+          "price": "39,99 €",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:35.978Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Goblin Tools Pro - Monthly",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Goblin Tools Pro - Yearly",
+          "price": "£39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:37.453Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Goblin Tools Pro - Monthly",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Goblin Tools Pro - Yearly",
+          "price": "$39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:01:38.914Z"
+    }
+  }
+}
