@@ -2,10 +2,2840 @@
   "id": "6767085653",
   "name": "Cursor",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:19:06.691Z",
+  "fetchedAt": "2026-10-18T16:05:44.404Z",
   "storefronts": {
+    "ae": {
+      "currency": "AED",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "AED 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "AED 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "Pro+",
+          "price": "AED 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Ultra",
+          "price": "AED 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "X Premium",
+          "price": "AED 1,199.99",
+          "amount": 1199.99
+        },
+        {
+          "name": "X Super",
+          "price": "AED 469.99",
+          "amount": 469.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "AED 939.99",
+          "amount": 939.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:23.362Z"
+    },
+    "af": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:24.910Z"
+    },
+    "ag": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:26.338Z"
+    },
+    "ai": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:27.851Z"
+    },
+    "al": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:29.357Z"
+    },
+    "am": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:30.811Z"
+    },
+    "ao": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:32.380Z"
+    },
+    "ar": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:33.821Z"
+    },
+    "at": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:35.336Z"
+    },
+    "au": {
+      "currency": "AUD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$51.99",
+          "amount": 51.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$519.99",
+          "amount": 519.99
+        },
+        {
+          "name": "X Super",
+          "price": "$179.99",
+          "amount": 179.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$359.99",
+          "amount": 359.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:36.882Z"
+    },
+    "az": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:38.310Z"
+    },
+    "ba": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:39.825Z"
+    },
+    "bb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:41.344Z"
+    },
+    "be": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:42.823Z"
+    },
+    "bf": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:44.317Z"
+    },
+    "bg": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:45.822Z"
+    },
+    "bh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$329.99",
+          "amount": 329.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$33.00",
+          "amount": 33
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:47.323Z"
+    },
+    "bj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:48.847Z"
+    },
+    "bm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:50.348Z"
+    },
+    "bn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:51.833Z"
+    },
+    "bo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:53.352Z"
+    },
+    "br": {
+      "currency": "BRL",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "R$ 179,90",
+          "amount": 179.9
+        },
+        {
+          "name": "X Premium",
+          "price": "R$ 169,90",
+          "amount": 169.9
+        },
+        {
+          "name": "Pro+",
+          "price": "R$ 499,90",
+          "amount": 499.9
+        },
+        {
+          "name": "Ultra",
+          "price": "R$ 1.799,90",
+          "amount": 1799.9
+        },
+        {
+          "name": "X Premium",
+          "price": "R$ 1.699,00",
+          "amount": 1699
+        },
+        {
+          "name": "X Super",
+          "price": "R$ 669,90",
+          "amount": 669.9
+        },
+        {
+          "name": "X Ultra",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:54.875Z"
+    },
+    "bs": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 329.99",
+          "amount": 329.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 33.00",
+          "amount": 33
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:56.381Z"
+    },
+    "bt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:57.843Z"
+    },
+    "bw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 339.99",
+          "amount": 339.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 34.00",
+          "amount": 34
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:01:59.418Z"
+    },
+    "by": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:00.819Z"
+    },
+    "bz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:02.330Z"
+    },
+    "ca": {
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$41.99",
+          "amount": 41.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$419.99",
+          "amount": 419.99
+        },
+        {
+          "name": "X Super",
+          "price": "$179.99",
+          "amount": 179.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$359.99",
+          "amount": 359.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:03.898Z"
+    },
+    "cd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:05.403Z"
+    },
+    "cg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:06.861Z"
+    },
+    "ch": {
+      "currency": "CHF",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "CHF 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Ultra",
+          "price": "CHF 220.00",
+          "amount": 220
+        },
+        {
+          "name": "X Premium",
+          "price": "CHF 30.00",
+          "amount": 30
+        },
+        {
+          "name": "Pro+",
+          "price": "CHF 70.00",
+          "amount": 70
+        },
+        {
+          "name": "X Premium",
+          "price": "CHF 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Super",
+          "price": "CHF 105.00",
+          "amount": 105
+        },
+        {
+          "name": "X Ultra",
+          "price": "CHF 215.00",
+          "amount": 215
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:08.377Z"
+    },
+    "ci": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 $US",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "400,00 $US",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "40,00 $US",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "129,99 $US",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "259,99 $US",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "99,99 $US",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 $US",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:09.905Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$29.990",
+          "amount": 29990
+        },
+        {
+          "name": "Pro+",
+          "price": "$79.990",
+          "amount": 79990
+        },
+        {
+          "name": "X Premium",
+          "price": "$349.990",
+          "amount": 349990
+        },
+        {
+          "name": "X Premium",
+          "price": "$34.990",
+          "amount": 34990
+        },
+        {
+          "name": "X Super",
+          "price": "$123.990",
+          "amount": 123990
+        },
+        {
+          "name": "X Ultra",
+          "price": "$244.990",
+          "amount": 244990
+        },
+        {
+          "name": "Ultra",
+          "price": "$299.990",
+          "amount": 299990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:11.352Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 $US",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "99,99 $US",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "400,00 $US",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "40,00 $US",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "129,99 $US",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "259,99 $US",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 $US",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:12.896Z"
+    },
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T16:02:13.998Z"
+    },
+    "co": {
+      "currency": "COP",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$ 119.900,00",
+          "amount": 119900
+        },
+        {
+          "name": "X Premium",
+          "price": "$ 1.299.900,00",
+          "amount": 1299900
+        },
+        {
+          "name": "X Premium",
+          "price": "$ 129.900,00",
+          "amount": 129900
+        },
+        {
+          "name": "X Super",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        },
+        {
+          "name": "X Ultra",
+          "price": "$ 799.900,00",
+          "amount": 799900
+        },
+        {
+          "name": "Pro+",
+          "price": "$ 399.900,00",
+          "amount": 399900
+        },
+        {
+          "name": "Ultra",
+          "price": "$ 1.199.900,00",
+          "amount": 1199900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:15.836Z"
+    },
+    "cr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:17.374Z"
+    },
+    "cv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:18.898Z"
+    },
+    "cy": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:20.367Z"
+    },
+    "cz": {
+      "currency": "CZK",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "699,00 Kč",
+          "amount": 699
+        },
+        {
+          "name": "Pro+",
+          "price": "1 990,00 Kč",
+          "amount": 1990
+        },
+        {
+          "name": "X Premium",
+          "price": "8 490,00 Kč",
+          "amount": 8490
+        },
+        {
+          "name": "X Premium",
+          "price": "849,00 Kč",
+          "amount": 849
+        },
+        {
+          "name": "X Super",
+          "price": "2 790,00 Kč",
+          "amount": 2790
+        },
+        {
+          "name": "X Ultra",
+          "price": "5 390,00 Kč",
+          "amount": 5390
+        },
+        {
+          "name": "Ultra",
+          "price": "6 990,00 Kč",
+          "amount": 6990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:21.882Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:23.353Z"
+    },
+    "dk": {
+      "currency": "DKK",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "229,00 kr",
+          "amount": 229
+        },
+        {
+          "name": "Ultra",
+          "price": "2.299,00 kr",
+          "amount": 2299
+        },
+        {
+          "name": "Pro+",
+          "price": "699,00 kr",
+          "amount": 699
+        },
+        {
+          "name": "X Premium",
+          "price": "2.649,00 kr",
+          "amount": 2649
+        },
+        {
+          "name": "X Premium",
+          "price": "265,00 kr",
+          "amount": 265
+        },
+        {
+          "name": "X Super",
+          "price": "899,00 kr",
+          "amount": 899
+        },
+        {
+          "name": "X Ultra",
+          "price": "1.679,00 kr",
+          "amount": 1679
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:24.856Z"
+    },
+    "dm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:26.353Z"
+    },
+    "do": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:27.852Z"
+    },
+    "dz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:29.332Z"
+    },
+    "ec": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:30.848Z"
+    },
+    "ee": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:32.349Z"
+    },
+    "eg": {
+      "currency": "EGP",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "EGP 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "Pro+",
+          "price": "EGP 3,999.99",
+          "amount": 3999.99
+        },
+        {
+          "name": "X Premium",
+          "price": "EGP 17,499.99",
+          "amount": 17499.99
+        },
+        {
+          "name": "X Premium",
+          "price": "EGP 1,749.99",
+          "amount": 1749.99
+        },
+        {
+          "name": "X Super",
+          "price": "EGP 6,699.99",
+          "amount": 6699.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "EGP 13,499.99",
+          "amount": 13499.99
+        },
+        {
+          "name": "Ultra",
+          "price": "EGP 12,999.99",
+          "amount": 12999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:33.856Z"
+    },
+    "es": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:35.355Z"
+    },
+    "fi": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:36.936Z"
+    },
+    "fj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:38.376Z"
+    },
+    "fm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:39.971Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:41.359Z"
+    },
+    "ga": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 309.99",
+          "amount": 309.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 31.00",
+          "amount": 31
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:42.848Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "£24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "X Premium",
+          "price": "£30.00",
+          "amount": 30
+        },
+        {
+          "name": "Pro+",
+          "price": "£79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Ultra",
+          "price": "£249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "X Premium",
+          "price": "£300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Super",
+          "price": "£100.00",
+          "amount": 100
+        },
+        {
+          "name": "X Ultra",
+          "price": "£194.99",
+          "amount": 194.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:44.451Z"
+    },
+    "gd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:45.852Z"
+    },
+    "ge": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:47.380Z"
+    },
+    "gh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:48.845Z"
+    },
+    "gm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:50.377Z"
+    },
+    "gr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:51.889Z"
+    },
+    "gt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:53.410Z"
+    },
+    "gw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 309.99",
+          "amount": 309.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 31.00",
+          "amount": 31
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:54.953Z"
+    },
+    "gy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:56.364Z"
+    },
+    "hk": {
+      "currency": "HKD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "HK$ 188.00",
+          "amount": 188
+        },
+        {
+          "name": "X Premium",
+          "price": "HK$ 240.00",
+          "amount": 240
+        },
+        {
+          "name": "Pro+",
+          "price": "HK$ 588.00",
+          "amount": 588
+        },
+        {
+          "name": "X Premium",
+          "price": "HK$ 2,400.00",
+          "amount": 2400
+        },
+        {
+          "name": "X Super",
+          "price": "HK$ 1,000.00",
+          "amount": 1000
+        },
+        {
+          "name": "Ultra",
+          "price": "HK$ 1,888.00",
+          "amount": 1888
+        },
+        {
+          "name": "X Ultra",
+          "price": "HK$ 2,000.00",
+          "amount": 2000
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:57.851Z"
+    },
+    "hn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:02:59.374Z"
+    },
+    "hr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:00.937Z"
+    },
+    "hu": {
+      "currency": "HUF",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "HUF11,990.00",
+          "amount": 11990
+        },
+        {
+          "name": "Pro+",
+          "price": "HUF34,990.00",
+          "amount": 34990
+        },
+        {
+          "name": "X Premium",
+          "price": "HUF149,900.00",
+          "amount": 149900
+        },
+        {
+          "name": "X Premium",
+          "price": "HUF14,990.00",
+          "amount": 14990
+        },
+        {
+          "name": "X Super",
+          "price": "HUF44,990.00",
+          "amount": 44990
+        },
+        {
+          "name": "X Ultra",
+          "price": "HUF82,900.00",
+          "amount": 82900
+        },
+        {
+          "name": "Ultra",
+          "price": "HUF119,990.00",
+          "amount": 119990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:02.381Z"
+    },
+    "id": {
+      "currency": "IDR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "Rp 399ribu",
+          "amount": 399
+        },
+        {
+          "name": "Pro+",
+          "price": "Rp 1,299juta",
+          "amount": 1299
+        },
+        {
+          "name": "Ultra",
+          "price": "Rp 3,999juta",
+          "amount": 3999
+        },
+        {
+          "name": "X Premium",
+          "price": "Rp 5,899juta",
+          "amount": 5899
+        },
+        {
+          "name": "X Premium",
+          "price": "Rp 589ribu",
+          "amount": 589
+        },
+        {
+          "name": "X Super",
+          "price": "Rp 2,249juta",
+          "amount": 2249
+        },
+        {
+          "name": "X Ultra",
+          "price": "Rp 4,499juta",
+          "amount": 4499
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:03.874Z"
+    },
+    "ie": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "€35.00",
+          "amount": 35
+        },
+        {
+          "name": "Pro",
+          "price": "€29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "€89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "X Premium",
+          "price": "€349.00",
+          "amount": 349
+        },
+        {
+          "name": "X Super",
+          "price": "€114.99",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "€219.99",
+          "amount": 219.99
+        },
+        {
+          "name": "Ultra",
+          "price": "€299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:05.549Z"
+    },
+    "il": {
+      "currency": "ILS",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "₪99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "X Premium",
+          "price": "₪99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "Pro+",
+          "price": "₪299.90",
+          "amount": 299.9
+        },
+        {
+          "name": "Ultra",
+          "price": "₪999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "X Premium",
+          "price": "₪999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "X Super",
+          "price": "₪384.90",
+          "amount": 384.9
+        },
+        {
+          "name": "X Ultra",
+          "price": "₪789.90",
+          "amount": 789.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:06.997Z"
     },
     "in": {
       "currency": "INR",
@@ -45,7 +2875,213 @@
           "price": "₹ 19,900",
           "amount": 19900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:03:08.563Z"
+    },
+    "iq": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:09.862Z"
+    },
+    "is": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 127.99",
+          "amount": 127.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 254.99",
+          "amount": 254.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:11.440Z"
+    },
+    "it": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:12.904Z"
+    },
+    "jm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:14.333Z"
+    },
+    "jo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:16.393Z"
     },
     "jp": {
       "currency": "JPY",
@@ -85,7 +3121,3247 @@
           "price": "¥40,800",
           "amount": 40800
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:03:17.286Z"
+    },
+    "ke": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:18.929Z"
+    },
+    "kg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 339.99",
+          "amount": 339.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 34.00",
+          "amount": 34
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:20.377Z"
+    },
+    "kh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 33.00",
+          "amount": 33
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 329.99",
+          "amount": 329.99
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:21.876Z"
+    },
+    "kn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:23.367Z"
+    },
+    "kr": {
+      "currency": "KRW",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "￦44,000",
+          "amount": 44000
+        },
+        {
+          "name": "Pro+",
+          "price": "￦129,000",
+          "amount": 129000
+        },
+        {
+          "name": "Ultra",
+          "price": "￦449,000",
+          "amount": 449000
+        },
+        {
+          "name": "X Premium",
+          "price": "￦480,000",
+          "amount": 480000
+        },
+        {
+          "name": "X Premium",
+          "price": "￦48,000",
+          "amount": 48000
+        },
+        {
+          "name": "X Super",
+          "price": "￦175,000",
+          "amount": 175000
+        },
+        {
+          "name": "X Ultra",
+          "price": "￦350,000",
+          "amount": 350000
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:24.847Z"
+    },
+    "kw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:26.349Z"
+    },
+    "ky": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:27.947Z"
+    },
+    "kz": {
+      "currency": "KZT",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "14,990.00₸",
+          "amount": 14990
+        },
+        {
+          "name": "X Premium",
+          "price": "16,990.00₸",
+          "amount": 16990
+        },
+        {
+          "name": "Ultra",
+          "price": "149,990.00₸",
+          "amount": 149990
+        },
+        {
+          "name": "Pro+",
+          "price": "49,990.00₸",
+          "amount": 49990
+        },
+        {
+          "name": "X Premium",
+          "price": "169,990.00₸",
+          "amount": 169990
+        },
+        {
+          "name": "X Super",
+          "price": "59,990.00₸",
+          "amount": 59990
+        },
+        {
+          "name": "X Ultra",
+          "price": "114,990.00₸",
+          "amount": 114990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:29.369Z"
+    },
+    "la": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 329.99",
+          "amount": 329.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 33.00",
+          "amount": 33
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:31.038Z"
+    },
+    "lb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:32.387Z"
+    },
+    "lc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:33.850Z"
+    },
+    "lk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:35.360Z"
+    },
+    "lr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:36.879Z"
+    },
+    "lt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:38.368Z"
+    },
+    "lu": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:39.918Z"
+    },
+    "lv": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:41.403Z"
+    },
+    "ly": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:42.853Z"
+    },
+    "ma": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$359.99",
+          "amount": 359.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$36.00",
+          "amount": 36
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:44.416Z"
+    },
+    "md": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:45.883Z"
+    },
+    "me": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "309,99 €",
+          "amount": 309.99
+        },
+        {
+          "name": "X Premium",
+          "price": "31,00 €",
+          "amount": 31
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro",
+          "price": "24,99 €",
+          "amount": 24.99
+        },
+        {
+          "name": "Pro+",
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
+          "name": "Ultra",
+          "price": "249,99 €",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:47.428Z"
+    },
+    "mg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:48.876Z"
+    },
+    "mk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:50.433Z"
+    },
+    "ml": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 309.99",
+          "amount": 309.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 31.00",
+          "amount": 31
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:51.894Z"
+    },
+    "mm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:53.513Z"
+    },
+    "mn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:54.888Z"
+    },
+    "mo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:56.394Z"
+    },
+    "mr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:57.949Z"
+    },
+    "ms": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:03:59.409Z"
+    },
+    "mt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:00.872Z"
+    },
+    "mu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:02.385Z"
+    },
+    "mv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:03.877Z"
+    },
+    "mw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:05.369Z"
+    },
+    "mx": {
+      "currency": "MXN",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$599.00",
+          "amount": 599
+        },
+        {
+          "name": "Pro+",
+          "price": "$1,799.00",
+          "amount": 1799
+        },
+        {
+          "name": "X Premium",
+          "price": "$7,099.00",
+          "amount": 7099
+        },
+        {
+          "name": "X Premium",
+          "price": "$709.00",
+          "amount": 709
+        },
+        {
+          "name": "X Super",
+          "price": "$2,199.00",
+          "amount": 2199
+        },
+        {
+          "name": "X Ultra",
+          "price": "$4,399.00",
+          "amount": 4399
+        },
+        {
+          "name": "Ultra",
+          "price": "$5,999.00",
+          "amount": 5999
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:06.892Z"
+    },
+    "my": {
+      "currency": "MYR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "RM119.90",
+          "amount": 119.9
+        },
+        {
+          "name": "X Premium",
+          "price": "RM144.90",
+          "amount": 144.9
+        },
+        {
+          "name": "Pro+",
+          "price": "RM349.90",
+          "amount": 349.9
+        },
+        {
+          "name": "Ultra",
+          "price": "RM1,199.90",
+          "amount": 1199.9
+        },
+        {
+          "name": "X Premium",
+          "price": "RM1,449.90",
+          "amount": 1449.9
+        },
+        {
+          "name": "X Super",
+          "price": "RM529.90",
+          "amount": 529.9
+        },
+        {
+          "name": "X Ultra",
+          "price": "RM1,049.90",
+          "amount": 1049.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:08.391Z"
+    },
+    "mz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:09.862Z"
+    },
+    "na": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:11.461Z"
+    },
+    "ne": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 309.99",
+          "amount": 309.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 31.00",
+          "amount": 31
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:12.907Z"
+    },
+    "ng": {
+      "currency": "NGN",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "₦ 49,900.00",
+          "amount": 49900
+        },
+        {
+          "name": "Pro",
+          "price": "₦ 39,900.00",
+          "amount": 39900
+        },
+        {
+          "name": "Pro+",
+          "price": "₦ 129,900.00",
+          "amount": 129900
+        },
+        {
+          "name": "X Premium",
+          "price": "₦ 499,900.00",
+          "amount": 499900
+        },
+        {
+          "name": "X Super",
+          "price": "₦ 174,900.00",
+          "amount": 174900
+        },
+        {
+          "name": "X Ultra",
+          "price": "₦ 349,900.00",
+          "amount": 349900
+        },
+        {
+          "name": "Ultra",
+          "price": "₦ 399,900.00",
+          "amount": 399900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:14.398Z"
+    },
+    "ni": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:15.923Z"
+    },
+    "nl": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "€ 29,99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "€ 35,00",
+          "amount": 35
+        },
+        {
+          "name": "Pro+",
+          "price": "€ 89,99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "€ 299,99",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "€ 349,00",
+          "amount": 349
+        },
+        {
+          "name": "X Super",
+          "price": "€ 114,99",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "€ 219,99",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:17.429Z"
+    },
+    "no": {
+      "currency": "NOK",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "349,00 kr",
+          "amount": 349
+        },
+        {
+          "name": "Pro+",
+          "price": "999,00 kr",
+          "amount": 999
+        },
+        {
+          "name": "Ultra",
+          "price": "3.490,00 kr",
+          "amount": 3490
+        },
+        {
+          "name": "X Premium",
+          "price": "4.190,00 kr",
+          "amount": 4190
+        },
+        {
+          "name": "X Premium",
+          "price": "415,00 kr",
+          "amount": 415
+        },
+        {
+          "name": "X Super",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
+          "name": "X Ultra",
+          "price": "2.399,00 kr",
+          "amount": 2399
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:18.876Z"
+    },
+    "np": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:20.423Z"
+    },
+    "nr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:21.879Z"
+    },
+    "nz": {
+      "currency": "NZD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$599.99",
+          "amount": 599.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "X Super",
+          "price": "$224.99",
+          "amount": 224.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$449.99",
+          "amount": 449.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:23.365Z"
+    },
+    "om": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$319.99",
+          "amount": 319.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$32.00",
+          "amount": 32
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:25.004Z"
+    },
+    "pa": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:26.376Z"
+    },
+    "pe": {
+      "currency": "PEN",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "S/ 119.90",
+          "amount": 119.9
+        },
+        {
+          "name": "X Premium",
+          "price": "S/ 1,199.90",
+          "amount": 1199.9
+        },
+        {
+          "name": "X Premium",
+          "price": "S/ 119.90",
+          "amount": 119.9
+        },
+        {
+          "name": "X Super",
+          "price": "S/ 449.90",
+          "amount": 449.9
+        },
+        {
+          "name": "X Ultra",
+          "price": "S/ 869.90",
+          "amount": 869.9
+        },
+        {
+          "name": "Pro+",
+          "price": "S/ 349.90",
+          "amount": 349.9
+        },
+        {
+          "name": "Ultra",
+          "price": "S/ 1,199.90",
+          "amount": 1199.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:27.901Z"
+    },
+    "pg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:29.473Z"
+    },
+    "ph": {
+      "currency": "PHP",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "₱ 1,790.00",
+          "amount": 1790
+        },
+        {
+          "name": "Ultra",
+          "price": "₱ 14,990.00",
+          "amount": 14990
+        },
+        {
+          "name": "Pro+",
+          "price": "₱ 4,990.00",
+          "amount": 4990
+        },
+        {
+          "name": "X Premium",
+          "price": "₱ 20,900.00",
+          "amount": 20900
+        },
+        {
+          "name": "X Premium",
+          "price": "₱ 2,090.00",
+          "amount": 2090
+        },
+        {
+          "name": "X Super",
+          "price": "₱ 8,090.00",
+          "amount": 8090
+        },
+        {
+          "name": "X Ultra",
+          "price": "₱ 15,990.00",
+          "amount": 15990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:30.893Z"
+    },
+    "pk": {
+      "currency": "PKR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "Rs 6,900.00",
+          "amount": 6900
+        },
+        {
+          "name": "Pro+",
+          "price": "Rs 19,900.00",
+          "amount": 19900
+        },
+        {
+          "name": "X Premium",
+          "price": "Rs 8,400.00",
+          "amount": 8400
+        },
+        {
+          "name": "X Premium",
+          "price": "Rs 83,900.00",
+          "amount": 83900
+        },
+        {
+          "name": "X Super",
+          "price": "Rs 35,999.00",
+          "amount": 35999
+        },
+        {
+          "name": "X Ultra",
+          "price": "Rs 71,999.00",
+          "amount": 71999
+        },
+        {
+          "name": "Ultra",
+          "price": "Rs 69,900.00",
+          "amount": 69900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:32.423Z"
+    },
+    "pl": {
+      "currency": "PLN",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "119,99 zł",
+          "amount": 119.99
+        },
+        {
+          "name": "X Premium",
+          "price": "149,99 zł",
+          "amount": 149.99
+        },
+        {
+          "name": "Pro+",
+          "price": "349,99 zł",
+          "amount": 349.99
+        },
+        {
+          "name": "Ultra",
+          "price": "1 199,99 zł",
+          "amount": 1199.99
+        },
+        {
+          "name": "X Premium",
+          "price": "1 499,99 zł",
+          "amount": 1499.99
+        },
+        {
+          "name": "X Super",
+          "price": "499,99 zł",
+          "amount": 499.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "979,99 zł",
+          "amount": 979.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:33.906Z"
+    },
+    "pt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:35.404Z"
+    },
+    "pw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:36.943Z"
+    },
+    "py": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:38.400Z"
+    },
+    "qa": {
+      "currency": "QAR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "QAR 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "QAR 1,099.99",
+          "amount": 1099.99
+        },
+        {
+          "name": "X Premium",
+          "price": "QAR 109.99",
+          "amount": 109.99
+        },
+        {
+          "name": "X Super",
+          "price": "QAR 464.99",
+          "amount": 464.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "QAR 939.99",
+          "amount": 939.99
+        },
+        {
+          "name": "Pro+",
+          "price": "QAR 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Ultra",
+          "price": "QAR 999.99",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:39.883Z"
+    },
+    "ro": {
+      "currency": "RON",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "149,99 lei",
+          "amount": 149.99
+        },
+        {
+          "name": "Pro+",
+          "price": "399,99 lei",
+          "amount": 399.99
+        },
+        {
+          "name": "X Premium",
+          "price": "1 699,99 lei",
+          "amount": 1699.99
+        },
+        {
+          "name": "X Premium",
+          "price": "169,99 lei",
+          "amount": 169.99
+        },
+        {
+          "name": "X Super",
+          "price": "589,99 lei",
+          "amount": 589.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "1 179,99 lei",
+          "amount": 1179.99
+        },
+        {
+          "name": "Ultra",
+          "price": "1 499,99 lei",
+          "amount": 1499.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:41.391Z"
+    },
+    "rs": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:42.895Z"
+    },
+    "ru": {
+      "currency": "RUB",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "2 290,00 ₽",
+          "amount": 2290
+        },
+        {
+          "name": "Pro+",
+          "price": "6 990,00 ₽",
+          "amount": 6990
+        },
+        {
+          "name": "X Premium",
+          "price": "24 990,00 ₽",
+          "amount": 24990
+        },
+        {
+          "name": "X Premium",
+          "price": "2 490,00 ₽",
+          "amount": 2490
+        },
+        {
+          "name": "X Super",
+          "price": "8 990,00 ₽",
+          "amount": 8990
+        },
+        {
+          "name": "X Ultra",
+          "price": "17 990,00 ₽",
+          "amount": 17990
+        },
+        {
+          "name": "Ultra",
+          "price": "22 990,00 ₽",
+          "amount": 22990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:44.403Z"
+    },
+    "rw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:45.932Z"
+    },
+    "sa": {
+      "currency": "SAR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "SAR 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "SAR 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Pro+",
+          "price": "SAR 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "Ultra",
+          "price": "SAR 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "X Premium",
+          "price": "SAR 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "X Super",
+          "price": "SAR 489.99",
+          "amount": 489.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "SAR 969.99",
+          "amount": 969.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:47.370Z"
+    },
+    "sb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:48.866Z"
+    },
+    "sc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:50.426Z"
+    },
+    "se": {
+      "currency": "SEK",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "349,00 kr",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
+          "name": "Pro+",
+          "price": "999,00 kr",
+          "amount": 999
+        },
+        {
+          "name": "Ultra",
+          "price": "3 495,00 kr",
+          "amount": 3495
+        },
+        {
+          "name": "X Premium",
+          "price": "3 995,00 kr",
+          "amount": 3995
+        },
+        {
+          "name": "X Super",
+          "price": "1 295,00 kr",
+          "amount": 1295
+        },
+        {
+          "name": "X Ultra",
+          "price": "2 499,00 kr",
+          "amount": 2499
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:51.893Z"
+    },
+    "sg": {
+      "currency": "SGD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "S$ 39.98",
+          "amount": 39.98
+        },
+        {
+          "name": "Pro+",
+          "price": "S$ 99.98",
+          "amount": 99.98
+        },
+        {
+          "name": "X Premium",
+          "price": "S$ 43.98",
+          "amount": 43.98
+        },
+        {
+          "name": "Ultra",
+          "price": "S$ 399.98",
+          "amount": 399.98
+        },
+        {
+          "name": "X Premium",
+          "price": "S$ 439.98",
+          "amount": 439.98
+        },
+        {
+          "name": "X Super",
+          "price": "S$ 164.98",
+          "amount": 164.98
+        },
+        {
+          "name": "X Ultra",
+          "price": "S$ 334.98",
+          "amount": 334.98
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:53.427Z"
+    },
+    "si": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:54.875Z"
+    },
+    "sk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:56.425Z"
+    },
+    "sl": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:57.894Z"
+    },
+    "sn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:04:59.413Z"
+    },
+    "sr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 329.99",
+          "amount": 329.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 33.00",
+          "amount": 33
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:00.862Z"
+    },
+    "st": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:02.427Z"
+    },
+    "sv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:03.975Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:05.409Z"
+    },
+    "tc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:06.981Z"
+    },
+    "td": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:08.417Z"
+    },
+    "th": {
+      "currency": "THB",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "฿999.00",
+          "amount": 999
+        },
+        {
+          "name": "X Premium",
+          "price": "฿1,080.00",
+          "amount": 1080
+        },
+        {
+          "name": "Pro+",
+          "price": "฿2,990.00",
+          "amount": 2990
+        },
+        {
+          "name": "Ultra",
+          "price": "฿9,990.00",
+          "amount": 9990
+        },
+        {
+          "name": "X Premium",
+          "price": "฿10,790.00",
+          "amount": 10790
+        },
+        {
+          "name": "X Super",
+          "price": "฿4,250.00",
+          "amount": 4250
+        },
+        {
+          "name": "X Ultra",
+          "price": "฿8,600.00",
+          "amount": 8600
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:09.867Z"
+    },
+    "tj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 339.99",
+          "amount": 339.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 34.00",
+          "amount": 34
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:11.437Z"
+    },
+    "tm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:12.887Z"
+    },
+    "tn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:14.480Z"
+    },
+    "to": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:15.867Z"
     },
     "tr": {
       "currency": "TRY",
@@ -125,7 +6401,213 @@
           "price": "₺12.499,99",
           "amount": 12499.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:05:17.399Z"
+    },
+    "tt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:18.892Z"
+    },
+    "tw": {
+      "currency": "TWD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$890.00",
+          "amount": 890
+        },
+        {
+          "name": "Pro+",
+          "price": "$2,490.00",
+          "amount": 2490
+        },
+        {
+          "name": "X Premium",
+          "price": "$1,090.00",
+          "amount": 1090
+        },
+        {
+          "name": "Ultra",
+          "price": "$8,990.00",
+          "amount": 8990
+        },
+        {
+          "name": "X Premium",
+          "price": "$10,900.00",
+          "amount": 10900
+        },
+        {
+          "name": "X Super",
+          "price": "$4,090.00",
+          "amount": 4090
+        },
+        {
+          "name": "X Ultra",
+          "price": "$8,190.00",
+          "amount": 8190
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:20.433Z"
+    },
+    "tz": {
+      "currency": "TZS",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "939,000.00 TZS",
+          "amount": 939000
+        },
+        {
+          "name": "X Premium",
+          "price": "93,900.00 TZS",
+          "amount": 93900
+        },
+        {
+          "name": "X Super",
+          "price": "329,900.00 TZS",
+          "amount": 329900
+        },
+        {
+          "name": "X Ultra",
+          "price": "679,900.00 TZS",
+          "amount": 679900
+        },
+        {
+          "name": "Pro",
+          "price": "69,900.00 TZS",
+          "amount": 69900
+        },
+        {
+          "name": "Pro+",
+          "price": "229,900.00 TZS",
+          "amount": 229900
+        },
+        {
+          "name": "Ultra",
+          "price": "699,900.00 TZS",
+          "amount": 699900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:22.003Z"
+    },
+    "ua": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 USD",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "99,99 USD",
+          "amount": 99.99
+        },
+        {
+          "name": "X Premium",
+          "price": "400,00 USD",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "40,00 USD",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "129,99 USD",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "259,99 USD",
+          "amount": 259.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 USD",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:23.360Z"
+    },
+    "ug": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:24.929Z"
     },
     "us": {
       "currency": "USD",
@@ -165,7 +6647,500 @@
           "price": "$300.00",
           "amount": 300
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:05:26.451Z"
+    },
+    "uy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 369.99",
+          "amount": 369.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 37.00",
+          "amount": 37
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:27.907Z"
+    },
+    "uz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 339.99",
+          "amount": 339.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 34.00",
+          "amount": 34
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:29.432Z"
+    },
+    "vc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:30.874Z"
+    },
+    "ve": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:32.422Z"
+    },
+    "vg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:34.061Z"
+    },
+    "vn": {
+      "currency": "VND",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "799.000đ",
+          "amount": 799000
+        },
+        {
+          "name": "X Premium",
+          "price": "819.000đ",
+          "amount": 819000
+        },
+        {
+          "name": "Pro+",
+          "price": "2.299.000đ",
+          "amount": 2299000
+        },
+        {
+          "name": "Ultra",
+          "price": "7.999.000đ",
+          "amount": 7999000
+        },
+        {
+          "name": "X Premium",
+          "price": "8.190.000đ",
+          "amount": 8190000
+        },
+        {
+          "name": "X Super",
+          "price": "3.349.000đ",
+          "amount": 3349000
+        },
+        {
+          "name": "X Ultra",
+          "price": "6.699.000đ",
+          "amount": 6699000
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:35.389Z"
+    },
+    "vu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:36.937Z"
+    },
+    "xk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "X Super",
+          "price": "114,99 €",
+          "amount": 114.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "219,99 €",
+          "amount": 219.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:38.420Z"
+    },
+    "ye": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:40.042Z"
+    },
+    "za": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "R499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Pro+",
+          "price": "R1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "Ultra",
+          "price": "R4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "X Premium",
+          "price": "R6,299.99",
+          "amount": 6299.99
+        },
+        {
+          "name": "X Premium",
+          "price": "R629.99",
+          "amount": 629.99
+        },
+        {
+          "name": "X Super",
+          "price": "R2,099.99",
+          "amount": 2099.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "R4,199.99",
+          "amount": 4199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:41.521Z"
+    },
+    "zm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:43.118Z"
+    },
+    "zw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "X Premium",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "X Super",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "USD 259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:44.404Z"
     }
   }
 }

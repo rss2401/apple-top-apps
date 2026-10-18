@@ -2,11 +2,1521 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:03:39.584Z",
+  "fetchedAt": "2026-10-18T15:08:50.347Z",
   "storefronts": {
+    "ae": {
+      "currency": "AED",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "AED 79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "AED 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "AED 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "AED 799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "AED 799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "AED 79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "AED 179.99",
+          "amount": 179.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:29.362Z"
+    },
+    "af": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:04:30.439Z"
+    },
+    "ag": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:32.346Z"
+    },
+    "ai": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:33.789Z"
+    },
+    "al": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:35.129Z"
+    },
+    "am": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:36.684Z"
+    },
+    "ao": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:38.343Z"
+    },
+    "ar": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:40.118Z"
+    },
+    "at": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:41.837Z"
+    },
+    "au": {
+      "currency": "AUD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$69.00",
+          "amount": 69
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$300.00",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:42.913Z"
+    },
+    "az": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:44.144Z"
+    },
+    "ba": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:45.647Z"
+    },
+    "bb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:47.376Z"
+    },
+    "be": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:49.209Z"
+    },
+    "bf": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:50.358Z"
+    },
+    "bg": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:51.675Z"
+    },
+    "bh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:53.282Z"
+    },
+    "bj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:55.003Z"
+    },
+    "bm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:56.348Z"
+    },
+    "bn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:57.924Z"
+    },
+    "bo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:04:59.544Z"
+    },
+    "br": {
+      "currency": "BRL",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "R$ 129,90",
+          "amount": 129.9
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "R$ 799,90",
+          "amount": 799.9
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "R$ 1.499,90",
+          "amount": 1499.9
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "R$ 129,90",
+          "amount": 129.9
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "R$ 299,90",
+          "amount": 299.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:00.612Z"
+    },
+    "bs": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:02.313Z"
+    },
+    "bt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:03.836Z"
+    },
+    "bw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:05.352Z"
+    },
+    "by": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:05:06.235Z"
+    },
+    "bz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:08.617Z"
+    },
+    "ca": {
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$28.00",
+          "amount": 28
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$179.99",
+          "amount": 179.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$59.00",
+          "amount": 59
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$249.00",
+          "amount": 249
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:10.033Z"
+    },
+    "cd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:11.309Z"
+    },
+    "cg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:12.836Z"
+    },
+    "ch": {
+      "currency": "CHF",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "CHF 18.00",
+          "amount": 18
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "CHF 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "CHF 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "CHF 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "CHF 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "CHF 180.00",
+          "amount": 180
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "CHF 18.00",
+          "amount": 18
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:14.945Z"
+    },
+    "ci": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "250,00 $US",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 $US",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "25,00 $US",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 $US",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 $US",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 $US",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "25,00 $US",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:15.939Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$22.990",
+          "amount": 22990
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$149.990",
+          "amount": 149990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$249.990",
+          "amount": 249990
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$299.990",
+          "amount": 299990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$22.990",
+          "amount": 22990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$49.990",
+          "amount": 49990
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$229.990",
+          "amount": 229990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:17.451Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "25,00 $US",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 $US",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 $US",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 $US",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "250,00 $US",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 $US",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "25,00 $US",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:18.865Z"
+    },
     "cn": {
       "available": false,
-      "fetchedAt": "2026-10-18T12:17:06.347Z"
+      "fetchedAt": "2026-10-18T15:05:19.731Z"
+    },
+    "co": {
+      "currency": "COP",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$ 99.900,00",
+          "amount": 99900
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$ 599.900,00",
+          "amount": 599900
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$ 999.900,00",
+          "amount": 999900
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$ 1.199.900,00",
+          "amount": 1199900
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$ 199.900,00",
+          "amount": 199900
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$ 99.900,00",
+          "amount": 99900
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$ 999.900,00",
+          "amount": 999900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:22.015Z"
+    },
+    "cr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:23.527Z"
+    },
+    "cv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:24.842Z"
+    },
+    "cy": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:26.144Z"
+    },
+    "cz": {
+      "currency": "CZK",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "3 490,00 Kč",
+          "amount": 3490
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "6 990,00 Kč",
+          "amount": 6990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "5 990,00 Kč",
+          "amount": 5990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "4 990,00 Kč",
+          "amount": 4990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "1 190,00 Kč",
+          "amount": 1190
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:27.656Z"
     },
     "de": {
       "currency": "EUR",
@@ -47,7 +1557,458 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-18T14:03:36.536Z"
+      "fetchedAt": "2026-10-18T15:05:29.741Z"
+    },
+    "dk": {
+      "currency": "DKK",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "1.799,00 kr",
+          "amount": 1799
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "179,00 kr",
+          "amount": 179
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "1.999,00 kr",
+          "amount": 1999
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "999,00 kr",
+          "amount": 999
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "1.999,00 kr",
+          "amount": 1999
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "179,00 kr",
+          "amount": 179
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:31.213Z"
+    },
+    "dm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:32.365Z"
+    },
+    "do": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:33.957Z"
+    },
+    "dz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:35.373Z"
+    },
+    "ec": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:37.019Z"
+    },
+    "ee": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:38.137Z"
+    },
+    "eg": {
+      "currency": "EGP",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "EGP 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "EGP 6,999.99",
+          "amount": 6999.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "EGP 12,999.99",
+          "amount": 12999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "EGP 2,499.99",
+          "amount": 2499.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "EGP 999.99",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:39.910Z"
+    },
+    "es": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:41.707Z"
+    },
+    "fi": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:43.191Z"
+    },
+    "fj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:44.258Z"
+    },
+    "fm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:45.824Z"
     },
     "fr": {
       "currency": "EUR",
@@ -88,7 +2049,48 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-18T14:03:37.930Z"
+      "fetchedAt": "2026-10-18T15:05:47.773Z"
+    },
+    "ga": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:48.902Z"
     },
     "gb": {
       "currency": "GBP",
@@ -129,7 +2131,585 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T14:03:39.578Z"
+      "fetchedAt": "2026-10-18T15:05:50.773Z"
+    },
+    "gd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:51.880Z"
+    },
+    "ge": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:53.122Z"
+    },
+    "gh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:54.959Z"
+    },
+    "gm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:56.371Z"
+    },
+    "gr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:57.678Z"
+    },
+    "gt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:05:59.612Z"
+    },
+    "gw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:01.163Z"
+    },
+    "gy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:02.479Z"
+    },
+    "hk": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:06:03.231Z"
+    },
+    "hn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:05.363Z"
+    },
+    "hr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:06.594Z"
+    },
+    "hu": {
+      "currency": "HUF",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "HUF59,990.00",
+          "amount": 59990
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "HUF99,990.00",
+          "amount": 99990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "HUF99,990.00",
+          "amount": 99990
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "HUF89,990.00",
+          "amount": 89990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "HUF19,990.00",
+          "amount": 19990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:08.144Z"
+    },
+    "id": {
+      "currency": "IDR",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "Rp 3,999juta",
+          "amount": 3999
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "Rp 899ribu",
+          "amount": 899
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "Rp 399ribu",
+          "amount": 399
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "Rp 3,999juta",
+          "amount": 3999
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "Rp 1,999juta",
+          "amount": 1999
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "Rp 3,999juta",
+          "amount": 3999
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "Rp 349ribu",
+          "amount": 349
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:09.908Z"
+    },
+    "ie": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "€22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "€149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "€249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "€299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "€49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "€22.00",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "€229.00",
+          "amount": 229
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:11.698Z"
+    },
+    "il": {
+      "currency": "ILS",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "₪69.90",
+          "amount": 69.9
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "₪449.90",
+          "amount": 449.9
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "₪799.90",
+          "amount": 799.9
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "₪899.90",
+          "amount": 899.9
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "₪129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "₪59.90",
+          "amount": 59.9
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "₪599.90",
+          "amount": 599.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:13.230Z"
     },
     "in": {
       "currency": "INR",
@@ -170,7 +2750,212 @@
           "amount": 19900
         }
       ],
-      "fetchedAt": "2026-10-18T12:17:06.347Z"
+      "fetchedAt": "2026-10-18T15:06:14.743Z"
+    },
+    "iq": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:15.865Z"
+    },
+    "is": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:17.704Z"
+    },
+    "it": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:19.108Z"
+    },
+    "jm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:20.282Z"
+    },
+    "jo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:21.894Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,7 +2981,3135 @@
           "amount": 40000
         }
       ],
-      "fetchedAt": "2026-10-18T12:17:06.347Z"
+      "fetchedAt": "2026-10-18T15:06:23.293Z"
+    },
+    "ke": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:24.873Z"
+    },
+    "kg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:26.118Z"
+    },
+    "kh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:27.838Z"
+    },
+    "kn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:29.534Z"
+    },
+    "kr": {
+      "currency": "KRW",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "￦33,000",
+          "amount": 33000
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "￦199,000",
+          "amount": 199000
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "￦349,000",
+          "amount": 349000
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "￦449,000",
+          "amount": 449000
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "￦33,000",
+          "amount": 33000
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "￦349,000",
+          "amount": 349000
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "￦77,000",
+          "amount": 77000
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:30.566Z"
+    },
+    "kw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:32.514Z"
+    },
+    "ky": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:33.795Z"
+    },
+    "kz": {
+      "currency": "KZT",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "11,990.00₸",
+          "amount": 11990
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "69,990.00₸",
+          "amount": 69990
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "149,990.00₸",
+          "amount": 149990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "129,990.00₸",
+          "amount": 129990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "24,990.00₸",
+          "amount": 24990
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "119,990.00₸",
+          "amount": 119990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "11,990.00₸",
+          "amount": 11990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:35.173Z"
+    },
+    "la": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:36.985Z"
+    },
+    "lb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:38.346Z"
+    },
+    "lc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:39.788Z"
+    },
+    "lk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:41.498Z"
+    },
+    "lr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:42.830Z"
+    },
+    "lt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:44.186Z"
+    },
+    "lu": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:46.173Z"
+    },
+    "lv": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:47.115Z"
+    },
+    "ly": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:48.812Z"
+    },
+    "ma": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:50.304Z"
+    },
+    "md": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:51.643Z"
+    },
+    "me": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "20,00 €",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "119,99 €",
+          "amount": 119.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "199,99 €",
+          "amount": 199.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "200,00 €",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "20,00 €",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:53.154Z"
+    },
+    "mg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:54.927Z"
+    },
+    "mk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:56.126Z"
+    },
+    "ml": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:06:57.921Z"
+    },
+    "mm": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:06:58.701Z"
+    },
+    "mn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:00.818Z"
+    },
+    "mo": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:07:01.705Z"
+    },
+    "mr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:03.870Z"
+    },
+    "ms": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:05.335Z"
+    },
+    "mt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:06.683Z"
+    },
+    "mu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:08.310Z"
+    },
+    "mv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:09.910Z"
+    },
+    "mw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:11.309Z"
+    },
+    "mx": {
+      "currency": "MXN",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$399.00",
+          "amount": 399
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$2,499.00",
+          "amount": 2499
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$4,999.00",
+          "amount": 4999
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$4,999.00",
+          "amount": 4999
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$999.00",
+          "amount": 999
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$399.00",
+          "amount": 399
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$3,999.00",
+          "amount": 3999
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:13.123Z"
+    },
+    "my": {
+      "currency": "MYR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "RM99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "RM599.90",
+          "amount": 599.9
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "RM999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "RM1,199.90",
+          "amount": 1199.9
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "RM99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "RM999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "RM199.90",
+          "amount": 199.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:14.440Z"
+    },
+    "mz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:15.815Z"
+    },
+    "na": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:17.352Z"
+    },
+    "ne": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:18.872Z"
+    },
+    "ng": {
+      "currency": "NGN",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "₦ 29,900.00",
+          "amount": 29900
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "₦ 199,900.00",
+          "amount": 199900
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "₦ 399,900.00",
+          "amount": 399900
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "₦ 349,900.00",
+          "amount": 349900
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "₦ 299,900.00",
+          "amount": 299900
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "₦ 69,900.00",
+          "amount": 69900
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "₦ 29,900.00",
+          "amount": 29900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:20.410Z"
+    },
+    "ni": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:21.988Z"
+    },
+    "nl": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "€ 22,00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "€ 149,99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "€ 299,99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "€ 249,99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "€ 229,00",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "€ 22,00",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "€ 49,00",
+          "amount": 49
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:23.938Z"
+    },
+    "no": {
+      "currency": "NOK",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "1.490,00 kr",
+          "amount": 1490
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "2.990,00 kr",
+          "amount": 2990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "2.990,00 kr",
+          "amount": 2990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "599,00 kr",
+          "amount": 599
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "2.490,00 kr",
+          "amount": 2490
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "249,00 kr",
+          "amount": 249
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:25.162Z"
+    },
+    "np": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:26.327Z"
+    },
+    "nr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:27.871Z"
+    },
+    "nz": {
+      "currency": "NZD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$40.00",
+          "amount": 40
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$79.00",
+          "amount": 79
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$40.00",
+          "amount": 40
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:29.527Z"
+    },
+    "om": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:30.899Z"
+    },
+    "pa": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:32.571Z"
+    },
+    "pe": {
+      "currency": "PEN",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "S/ 89.90",
+          "amount": 89.9
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "S/ 599.90",
+          "amount": 599.9
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "S/ 999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "S/ 999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "S/ 899.90",
+          "amount": 899.9
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "S/ 199.90",
+          "amount": 199.9
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "S/ 89.90",
+          "amount": 89.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:34.071Z"
+    },
+    "pg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:35.382Z"
+    },
+    "ph": {
+      "currency": "PHP",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "₱ 12,990.00",
+          "amount": 12990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "₱ 2,990.00",
+          "amount": 2990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "₱ 1,290.00",
+          "amount": 1290
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "₱ 14,990.00",
+          "amount": 14990
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "₱ 7,990.00",
+          "amount": 7990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "₱ 12,990.00",
+          "amount": 12990
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "₱ 1,290.00",
+          "amount": 1290
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:36.934Z"
+    },
+    "pk": {
+      "currency": "PKR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "Rs 4,900.00",
+          "amount": 4900
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "Rs 34,900.00",
+          "amount": 34900
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "Rs 69,900.00",
+          "amount": 69900
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "Rs 59,900.00",
+          "amount": 59900
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "Rs 49,900.00",
+          "amount": 49900
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "Rs 11,900.00",
+          "amount": 11900
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "Rs 4,900.00",
+          "amount": 4900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:38.443Z"
+    },
+    "pl": {
+      "currency": "PLN",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "599,99 zł",
+          "amount": 599.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "999,99 zł",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "999,99 zł",
+          "amount": 999.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "199,99 zł",
+          "amount": 199.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "999,99 zł",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:40.167Z"
+    },
+    "pt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:41.687Z"
+    },
+    "pw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:42.889Z"
+    },
+    "py": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:44.551Z"
+    },
+    "qa": {
+      "currency": "QAR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "QAR 69.99",
+          "amount": 69.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "QAR 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "QAR 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "QAR 799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "QAR 699.99",
+          "amount": 699.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "QAR 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "QAR 69.99",
+          "amount": 69.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:45.901Z"
+    },
+    "ro": {
+      "currency": "RON",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "99,99 lei",
+          "amount": 99.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "699,99 lei",
+          "amount": 699.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "1 299,99 lei",
+          "amount": 1299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "1 199,99 lei",
+          "amount": 1199.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "999,99 lei",
+          "amount": 999.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "249,99 lei",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "99,99 lei",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:47.158Z"
+    },
+    "rs": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:48.816Z"
+    },
+    "ru": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:07:49.736Z"
+    },
+    "rw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:51.916Z"
+    },
+    "sa": {
+      "currency": "SAR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "SAR 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "SAR 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "SAR 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "SAR 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "SAR 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "SAR 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "SAR 899.99",
+          "amount": 899.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:53.391Z"
+    },
+    "sb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:54.923Z"
+    },
+    "sc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:56.350Z"
+    },
+    "se": {
+      "currency": "SEK",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "1 495,00 kr",
+          "amount": 1495
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "2 995,00 kr",
+          "amount": 2995
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "2 995,00 kr",
+          "amount": 2995
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "599,00 kr",
+          "amount": 599
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "2 495,00 kr",
+          "amount": 2495
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "249,00 kr",
+          "amount": 249
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:58.393Z"
+    },
+    "sg": {
+      "currency": "SGD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "S$ 29.98",
+          "amount": 29.98
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "S$ 179.98",
+          "amount": 179.98
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "S$ 299.98",
+          "amount": 299.98
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "S$ 349.98",
+          "amount": 349.98
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "S$ 59.98",
+          "amount": 59.98
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "S$ 299.98",
+          "amount": 299.98
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "S$ 29.98",
+          "amount": 29.98
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:07:58.968Z"
+    },
+    "si": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:00.795Z"
+    },
+    "sk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:02.188Z"
+    },
+    "sl": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:03.820Z"
+    },
+    "sn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:05.365Z"
+    },
+    "sr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:06.820Z"
+    },
+    "st": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:08.387Z"
+    },
+    "sv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:10.041Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:11.395Z"
+    },
+    "tc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:12.885Z"
+    },
+    "td": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:14.443Z"
+    },
+    "th": {
+      "currency": "THB",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "฿699.00",
+          "amount": 699
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "฿4,990.00",
+          "amount": 4990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "฿7,990.00",
+          "amount": 7990
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "฿9,990.00",
+          "amount": 9990
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "฿6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "฿1,490.00",
+          "amount": 1490
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "฿699.00",
+          "amount": 699
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:15.857Z"
+    },
+    "tj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:17.228Z"
+    },
+    "tm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:18.625Z"
+    },
+    "tn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:20.305Z"
+    },
+    "to": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:21.884Z"
     },
     "tr": {
       "currency": "TRY",
@@ -237,7 +6150,197 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-18T12:17:06.347Z"
+      "fetchedAt": "2026-10-18T15:08:23.335Z"
+    },
+    "tt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:24.900Z"
+    },
+    "tw": {
+      "currency": "TWD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "$690.00",
+          "amount": 690
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "$3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$7,990.00",
+          "amount": 7990
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "$690.00",
+          "amount": 690
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "$1,490.00",
+          "amount": 1490
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "$6,990.00",
+          "amount": 6990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:26.207Z"
+    },
+    "tz": {
+      "currency": "TZS",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "59,900.00 TZS",
+          "amount": 59900
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "349,900.00 TZS",
+          "amount": 349900
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "599,900.00 TZS",
+          "amount": 599900
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "699,900.00 TZS",
+          "amount": 699900
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "599,900.00 TZS",
+          "amount": 599900
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "129,900.00 TZS",
+          "amount": 129900
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "59,900.00 TZS",
+          "amount": 59900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:28.118Z"
+    },
+    "ua": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "25,00 USD",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 USD",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 USD",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 USD",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:29.156Z"
+    },
+    "ug": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:30.899Z"
     },
     "us": {
       "currency": "USD",
@@ -278,7 +6381,425 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T12:17:06.347Z"
+      "fetchedAt": "2026-10-18T15:08:32.380Z"
+    },
+    "uy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:34.061Z"
+    },
+    "uz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:35.269Z"
+    },
+    "vc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:36.824Z"
+    },
+    "ve": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:08:37.723Z"
+    },
+    "vg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:39.824Z"
+    },
+    "vn": {
+      "currency": "VND",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "599.000đ",
+          "amount": 599000
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "3.999.000đ",
+          "amount": 3999000
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "7.999.000đ",
+          "amount": 7999000
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "6.999.000đ",
+          "amount": 6999000
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "599.000đ",
+          "amount": 599000
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "5.999.000đ",
+          "amount": 5999000
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "1.299.000đ",
+          "amount": 1299000
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:41.476Z"
+    },
+    "vu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:42.817Z"
+    },
+    "xk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "149,99 €",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "22,00 €",
+          "amount": 22
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:44.295Z"
+    },
+    "ye": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:08:45.223Z"
+    },
+    "za": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "R399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "R2,499.99",
+          "amount": 2499.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "R4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "R4,499.99",
+          "amount": 4499.99
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "R399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "R3,999.99",
+          "amount": 3999.99
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "R999.99",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:47.386Z"
+    },
+    "zm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:48.876Z"
+    },
+    "zw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (20)",
+          "price": "USD 25.00",
+          "amount": 25
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:08:50.347Z"
     }
   }
 }

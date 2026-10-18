@@ -2,10 +2,1805 @@
   "id": "1477376905",
   "name": "GitHub",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:19:12.702Z",
+  "fetchedAt": "2026-10-18T16:10:06.988Z",
   "storefronts": {
+    "ae": {
+      "currency": "AED",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "AED 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "AED 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "AED 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "AED 399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:45.950Z"
+    },
+    "af": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:48.057Z"
+    },
+    "ag": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:49.029Z"
+    },
+    "ai": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:50.427Z"
+    },
+    "al": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 4.79",
+          "amount": 4.79
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:52.103Z"
+    },
+    "am": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:53.414Z"
+    },
+    "ao": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:54.949Z"
+    },
+    "ar": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:56.870Z"
+    },
+    "at": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:57.913Z"
+    },
+    "au": {
+      "currency": "AUD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "$149.00",
+          "amount": 149
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$15.00",
+          "amount": 15
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$6.49",
+          "amount": 6.49
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:05:59.591Z"
+    },
+    "az": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:00.934Z"
+    },
+    "ba": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:02.402Z"
+    },
+    "bb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:03.945Z"
+    },
+    "be": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:05.431Z"
+    },
+    "bf": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:06.908Z"
+    },
+    "bg": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,29 €",
+          "amount": 4.29
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,99 €",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:08.485Z"
+    },
+    "bh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:09.958Z"
+    },
+    "bj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:11.418Z"
+    },
+    "bm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:12.952Z"
+    },
+    "bn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:14.490Z"
+    },
+    "bo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:16.132Z"
+    },
+    "br": {
+      "currency": "BRL",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "R$ 16,90",
+          "amount": 16.9
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "R$ 49,90",
+          "amount": 49.9
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "R$ 199,90",
+          "amount": 199.9
+        },
+        {
+          "name": "Copilot Max",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:17.468Z"
+    },
+    "bs": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:18.923Z"
+    },
+    "bt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:20.454Z"
+    },
+    "bw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:21.954Z"
+    },
+    "by": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:23.414Z"
+    },
+    "bz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:24.892Z"
+    },
+    "ca": {
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$5.49",
+          "amount": 5.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$14.00",
+          "amount": 14
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$129.00",
+          "amount": 129
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:26.686Z"
+    },
+    "cd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:27.941Z"
+    },
+    "cg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:29.466Z"
+    },
+    "ch": {
+      "currency": "CHF",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "CHF 4.50",
+          "amount": 4.5
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "CHF 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "CHF 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Copilot Max",
+          "price": "CHF 100.00",
+          "amount": 100
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:30.935Z"
+    },
+    "ci": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "3,99 $US",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 $US",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "49,99 $US",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "119,00 $US",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:32.407Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$2.900",
+          "amount": 2900
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$9.990",
+          "amount": 9990
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$49.990",
+          "amount": 49990
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.990",
+          "amount": 99990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:33.959Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "12,00 $US",
+          "amount": 12
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "3,99 $US",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "119,00 $US",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "49,99 $US",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:35.838Z"
+    },
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T16:06:36.593Z"
+    },
+    "co": {
+      "currency": "COP",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$ 59.900,00",
+          "amount": 59900
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$ 16.900,00",
+          "amount": 16900
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$ 199.900,00",
+          "amount": 199900
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:38.435Z"
+    },
+    "cr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:39.980Z"
+    },
+    "cv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:41.419Z"
+    },
+    "cy": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:42.939Z"
+    },
+    "cz": {
+      "currency": "CZK",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "109,00 Kč",
+          "amount": 109
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "249,00 Kč",
+          "amount": 249
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "999,00 Kč",
+          "amount": 999
+        },
+        {
+          "name": "Copilot Max",
+          "price": "2 790,00 Kč",
+          "amount": 2790
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:44.431Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:45.896Z"
+    },
+    "dk": {
+      "currency": "DKK",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "35,00 kr",
+          "amount": 35
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "89,00 kr",
+          "amount": 89
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "349,00 kr",
+          "amount": 349
+        },
+        {
+          "name": "Copilot Max",
+          "price": "899,00 kr",
+          "amount": 899
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:47.524Z"
+    },
+    "dm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:48.977Z"
+    },
+    "do": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:50.438Z"
+    },
+    "dz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:51.952Z"
+    },
+    "ec": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:53.429Z"
+    },
+    "ee": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:54.913Z"
+    },
+    "eg": {
+      "currency": "EGP",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "EGP 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "EGP 64.99",
+          "amount": 64.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "EGP 1,999.99",
+          "amount": 1999.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:56.470Z"
+    },
+    "es": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:57.915Z"
+    },
+    "fi": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:06:59.422Z"
+    },
+    "fj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:00.898Z"
+    },
+    "fm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:02.443Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:04.032Z"
+    },
+    "ga": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:05.466Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "£10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "£39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "£99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:07.007Z"
+    },
+    "gd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:08.408Z"
+    },
+    "ge": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:09.943Z"
+    },
+    "gh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:11.394Z"
+    },
+    "gm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:12.985Z"
+    },
+    "gr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:14.447Z"
+    },
+    "gt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:15.924Z"
+    },
+    "gw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:17.420Z"
+    },
+    "gy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:18.946Z"
+    },
+    "hk": {
+      "currency": "HKD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "HK$ 88.00",
+          "amount": 88
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "HK$ 33.00",
+          "amount": 33
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "HK$ 288.00",
+          "amount": 288
+        },
+        {
+          "name": "Copilot Max",
+          "price": "HK$ 788.00",
+          "amount": 788
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:20.432Z"
+    },
+    "hn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:21.922Z"
+    },
+    "hr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,38 €",
+          "amount": 4.38
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:23.431Z"
+    },
+    "hu": {
+      "currency": "HUF",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "HUF1,590.00",
+          "amount": 1590
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "HUF4,490.00",
+          "amount": 4490
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "HUF17,990.00",
+          "amount": 17990
+        },
+        {
+          "name": "Copilot Max",
+          "price": "HUF44,990.00",
+          "amount": 44990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:25.059Z"
+    },
+    "id": {
+      "currency": "IDR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "Rp 169ribu",
+          "amount": 169
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "Rp 55ribu",
+          "amount": 55
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "Rp 699ribu",
+          "amount": 699
+        },
+        {
+          "name": "Copilot Max",
+          "price": "Rp 1,699juta",
+          "amount": 1699
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:26.454Z"
+    },
+    "ie": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "€10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "€4.49",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "€44.99",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "€99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:27.982Z"
+    },
+    "il": {
+      "currency": "ILS",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "₪13.90",
+          "amount": 13.9
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "₪34.90",
+          "amount": 34.9
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "₪149.90",
+          "amount": 149.9
+        },
+        {
+          "name": "Copilot Max",
+          "price": "₪349.90",
+          "amount": 349.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:29.435Z"
     },
     "in": {
       "currency": "INR",
@@ -30,7 +1825,138 @@
           "price": "₹ 9,900",
           "amount": 9900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:07:30.976Z"
+    },
+    "iq": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:32.432Z"
+    },
+    "is": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 4.95",
+          "amount": 4.95
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:33.919Z"
+    },
+    "it": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:35.427Z"
+    },
+    "jm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:36.957Z"
+    },
+    "jo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:38.378Z"
     },
     "jp": {
       "currency": "JPY",
@@ -55,7 +1981,2062 @@
           "price": "¥15,000",
           "amount": 15000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:07:39.993Z"
+    },
+    "ke": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:41.451Z"
+    },
+    "kg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:42.938Z"
+    },
+    "kh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:44.456Z"
+    },
+    "kn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:45.931Z"
+    },
+    "kr": {
+      "currency": "KRW",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "￦5,500",
+          "amount": 5500
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "￦14,000",
+          "amount": 14000
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "￦55,000",
+          "amount": 55000
+        },
+        {
+          "name": "Copilot Max",
+          "price": "￦129,000",
+          "amount": 129000
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:47.477Z"
+    },
+    "kw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:48.920Z"
+    },
+    "ky": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:50.522Z"
+    },
+    "kz": {
+      "currency": "KZT",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "1,550.00₸",
+          "amount": 1550
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "4,990.00₸",
+          "amount": 4990
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "19,990.00₸",
+          "amount": 19990
+        },
+        {
+          "name": "Copilot Max",
+          "price": "59,990.00₸",
+          "amount": 59990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:51.952Z"
+    },
+    "la": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:53.470Z"
+    },
+    "lb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:54.950Z"
+    },
+    "lc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:56.446Z"
+    },
+    "lk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:57.996Z"
+    },
+    "lr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:07:59.494Z"
+    },
+    "lt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:00.957Z"
+    },
+    "lu": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:02.465Z"
+    },
+    "lv": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:03.990Z"
+    },
+    "ly": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:05.442Z"
+    },
+    "ma": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:06.918Z"
+    },
+    "md": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:08.485Z"
+    },
+    "me": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "39,99 €",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:09.959Z"
+    },
+    "mg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:11.459Z"
+    },
+    "mk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:12.930Z"
+    },
+    "ml": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:14.462Z"
+    },
+    "mm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:15.933Z"
+    },
+    "mn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:17.459Z"
+    },
+    "mo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:19.122Z"
+    },
+    "mr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:20.453Z"
+    },
+    "ms": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:22.018Z"
+    },
+    "mt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:23.500Z"
+    },
+    "mu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:25.062Z"
+    },
+    "mv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:26.433Z"
+    },
+    "mw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:28.000Z"
+    },
+    "mx": {
+      "currency": "MXN",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$199.00",
+          "amount": 199
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$79.00",
+          "amount": 79
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$899.00",
+          "amount": 899
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$1,999.00",
+          "amount": 1999
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:29.451Z"
+    },
+    "my": {
+      "currency": "MYR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "RM49.90",
+          "amount": 49.9
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "RM17.90",
+          "amount": 17.9
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "RM199.90",
+          "amount": 199.9
+        },
+        {
+          "name": "Copilot Max",
+          "price": "RM499.90",
+          "amount": 499.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:30.983Z"
+    },
+    "mz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:32.465Z"
+    },
+    "na": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:34.029Z"
+    },
+    "ne": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:35.412Z"
+    },
+    "ng": {
+      "currency": "NGN",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "₦ 7,900.00",
+          "amount": 7900
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "₦ 1,400.00",
+          "amount": 1400
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "₦ 69,900.00",
+          "amount": 69900
+        },
+        {
+          "name": "Copilot Max",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:36.979Z"
+    },
+    "ni": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:38.462Z"
+    },
+    "nl": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "€ 4,49",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "€ 10,00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "€ 44,99",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "€ 99,00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:40.028Z"
+    },
+    "no": {
+      "currency": "NOK",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "45,00 kr",
+          "amount": 45
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "129,00 kr",
+          "amount": 129
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
+          "name": "Copilot Max",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:41.440Z"
+    },
+    "np": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:42.977Z"
+    },
+    "nr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:44.442Z"
+    },
+    "nz": {
+      "currency": "NZD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$7.49",
+          "amount": 7.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$69.99",
+          "amount": 69.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$199.00",
+          "amount": 199
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:46.031Z"
+    },
+    "om": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:47.480Z"
+    },
+    "pa": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:48.963Z"
+    },
+    "pe": {
+      "currency": "PEN",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "S/ 13.90",
+          "amount": 13.9
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "S/ 39.90",
+          "amount": 39.9
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "S/ 179.90",
+          "amount": 179.9
+        },
+        {
+          "name": "Copilot Max",
+          "price": "S/ 399.90",
+          "amount": 399.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:50.545Z"
+    },
+    "pg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:51.971Z"
+    },
+    "ph": {
+      "currency": "PHP",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "₱ 499.00",
+          "amount": 499
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "₱ 209.00",
+          "amount": 209
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "₱ 2,290.00",
+          "amount": 2290
+        },
+        {
+          "name": "Copilot Max",
+          "price": "₱ 5,990.00",
+          "amount": 5990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:53.467Z"
+    },
+    "pk": {
+      "currency": "PKR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "Rs 620.00",
+          "amount": 620
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "Rs 2,900.00",
+          "amount": 2900
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "Rs 9,900.00",
+          "amount": 9900
+        },
+        {
+          "name": "Copilot Max",
+          "price": "Rs 24,900.00",
+          "amount": 24900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:55.054Z"
+    },
+    "pl": {
+      "currency": "PLN",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "19,99 zł",
+          "amount": 19.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "49,99 zł",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "199,99 zł",
+          "amount": 199.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "499,99 zł",
+          "amount": 499.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:56.484Z"
+    },
+    "pt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:58.110Z"
+    },
+    "pw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:08:59.794Z"
+    },
+    "py": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:00.966Z"
+    },
+    "qa": {
+      "currency": "QAR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "QAR 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "QAR 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "QAR 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "QAR 399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:02.481Z"
+    },
+    "ro": {
+      "currency": "RON",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "49,99 lei",
+          "amount": 49.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "20,99 lei",
+          "amount": 20.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "199,99 lei",
+          "amount": 199.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "499,99 lei",
+          "amount": 499.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:03.944Z"
+    },
+    "rs": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:05.524Z"
+    },
+    "ru": {
+      "currency": "RUB",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "299,00 ₽",
+          "amount": 299
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "899,00 ₽",
+          "amount": 899
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "3 490,00 ₽",
+          "amount": 3490
+        },
+        {
+          "name": "Copilot Max",
+          "price": "7 990,00 ₽",
+          "amount": 7990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:06.963Z"
+    },
+    "rw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:08.492Z"
+    },
+    "sa": {
+      "currency": "SAR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "SAR 15.99",
+          "amount": 15.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "SAR 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "SAR 179.99",
+          "amount": 179.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "SAR 399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:09.996Z"
+    },
+    "sb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:11.445Z"
+    },
+    "sc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:13.130Z"
+    },
+    "se": {
+      "currency": "SEK",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "49,00 kr",
+          "amount": 49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "129,00 kr",
+          "amount": 129
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
+          "name": "Copilot Max",
+          "price": "1 295,00 kr",
+          "amount": 1295
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:14.431Z"
+    },
+    "sg": {
+      "currency": "SGD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "S$ 5.98",
+          "amount": 5.98
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "S$ 14.98",
+          "amount": 14.98
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "S$ 59.98",
+          "amount": 59.98
+        },
+        {
+          "name": "Copilot Max",
+          "price": "S$ 149.98",
+          "amount": 149.98
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:16.003Z"
+    },
+    "si": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:17.415Z"
+    },
+    "sk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:18.966Z"
+    },
+    "sl": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:20.554Z"
+    },
+    "sn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:21.993Z"
+    },
+    "sr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:23.479Z"
+    },
+    "st": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:24.935Z"
+    },
+    "sv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:26.445Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:27.946Z"
+    },
+    "tc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:29.415Z"
+    },
+    "td": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:30.967Z"
+    },
+    "th": {
+      "currency": "THB",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "฿119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "฿399.00",
+          "amount": 399
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "฿1,490.00",
+          "amount": 1490
+        },
+        {
+          "name": "Copilot Max",
+          "price": "฿3,990.00",
+          "amount": 3990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:32.500Z"
+    },
+    "tj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:34.012Z"
+    },
+    "tm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:35.426Z"
+    },
+    "tn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:36.924Z"
+    },
+    "to": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:38.439Z"
     },
     "tr": {
       "currency": "TRY",
@@ -80,7 +4061,138 @@
           "price": "₺3.999,99",
           "amount": 3999.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:09:39.919Z"
+    },
+    "tt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:41.436Z"
+    },
+    "tw": {
+      "currency": "TWD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "$320.00",
+          "amount": 320
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "$130.00",
+          "amount": 130
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$1,290.00",
+          "amount": 1290
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$2,990.00",
+          "amount": 2990
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:43.018Z"
+    },
+    "tz": {
+      "currency": "TZS",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "29,900.00 TZS",
+          "amount": 29900
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "9,200.00 TZS",
+          "amount": 9200
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "99,900.00 TZS",
+          "amount": 99900
+        },
+        {
+          "name": "Copilot Max",
+          "price": "299,900.00 TZS",
+          "amount": 299900
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:44.522Z"
+    },
+    "ua": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "3,99 USD",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "12,00 USD",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "49,99 USD",
+          "amount": 49.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "119,00 USD",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:46.045Z"
+    },
+    "ug": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:47.447Z"
     },
     "us": {
       "currency": "USD",
@@ -105,7 +4217,320 @@
           "price": "$99.00",
           "amount": 99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T16:09:49.010Z"
+    },
+    "uy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:50.628Z"
+    },
+    "uz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:51.943Z"
+    },
+    "vc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:53.493Z"
+    },
+    "ve": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:54.988Z"
+    },
+    "vg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:56.678Z"
+    },
+    "vn": {
+      "currency": "VND",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "249.000đ",
+          "amount": 249000
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "92.000đ",
+          "amount": 92000
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "999.000đ",
+          "amount": 999000
+        },
+        {
+          "name": "Copilot Max",
+          "price": "2.999.000đ",
+          "amount": 2999000
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:58.244Z"
+    },
+    "vu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:09:59.452Z"
+    },
+    "xk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "4,49 €",
+          "amount": 4.49
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "99,00 €",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:10:01.267Z"
+    },
+    "ye": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:10:02.463Z"
+    },
+    "za": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "R69.99",
+          "amount": 69.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "R199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "R799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "R1,999.99",
+          "amount": 1999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:10:04.044Z"
+    },
+    "zm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:10:05.587Z"
+    },
+    "zw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Copilot Pro",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "GitHub Pro",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T16:10:06.988Z"
     }
   }
 }

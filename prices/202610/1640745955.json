@@ -2,10 +2,1440 @@
   "id": "1640745955",
   "name": "Poe – Fast AI Chat",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:18:11.244Z",
+  "fetchedAt": "2026-10-18T15:39:29.472Z",
   "storefronts": {
+    "ae": {
+      "currency": "AED",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "AED 79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "AED 799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "AED 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "AED 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "AED 79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "AED 799.99",
+          "amount": 799.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:08.433Z"
+    },
+    "af": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:35:09.288Z"
+    },
+    "ag": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:11.241Z"
+    },
+    "ai": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:12.774Z"
+    },
+    "al": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:14.351Z"
+    },
+    "am": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:15.745Z"
+    },
+    "ao": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:17.248Z"
+    },
+    "ar": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:18.783Z"
+    },
+    "at": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:20.535Z"
+    },
+    "au": {
+      "currency": "AUD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$299.99",
+          "amount": 299.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:21.779Z"
+    },
+    "az": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:23.198Z"
+    },
+    "ba": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:24.849Z"
+    },
+    "bb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:26.289Z"
+    },
+    "be": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:27.742Z"
+    },
+    "bf": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:29.174Z"
+    },
+    "bg": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "199,99 €",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:30.820Z"
+    },
+    "bh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:32.312Z"
+    },
+    "bj": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:33.712Z"
+    },
+    "bm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:35.216Z"
+    },
+    "bn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:36.779Z"
+    },
+    "bo": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:38.288Z"
+    },
+    "br": {
+      "currency": "BRL",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "R$ 129,90",
+          "amount": 129.9
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "R$ 29,90",
+          "amount": 29.9
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "R$ 129,90",
+          "amount": 129.9
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "R$ 299,90",
+          "amount": 299.9
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:39.764Z"
+    },
+    "bs": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:41.216Z"
+    },
+    "bt": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:42.680Z"
+    },
+    "bw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:44.314Z"
+    },
+    "by": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:45.985Z"
+    },
+    "bz": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:47.337Z"
+    },
+    "ca": {
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$69.99",
+          "amount": 69.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$249.99",
+          "amount": 249.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:48.770Z"
+    },
+    "cd": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:50.263Z"
+    },
+    "cg": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:51.787Z"
+    },
+    "ch": {
+      "currency": "CHF",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "CHF 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "CHF 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "CHF 18.00",
+          "amount": 18
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "CHF 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "CHF 4.00",
+          "amount": 4
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "CHF 180.00",
+          "amount": 180
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:53.269Z"
+    },
+    "ci": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:35:54.651Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$19.990",
+          "amount": 19990
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$5.990",
+          "amount": 5990
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$199.990",
+          "amount": 199990
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$22.990",
+          "amount": 22990
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$229.990",
+          "amount": 229990
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$59.990",
+          "amount": 59990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:56.306Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 $US",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 $US",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 $US",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 $US",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 $US",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 $US",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:35:57.758Z"
+    },
     "cn": {
-      "available": false
+      "available": false,
+      "fetchedAt": "2026-10-18T15:35:58.794Z"
+    },
+    "co": {
+      "currency": "COP",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$ 99.900,00",
+          "amount": 99900
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$ 24.900,00",
+          "amount": 24900
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$ 999.900,00",
+          "amount": 999900
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$ 99.900,00",
+          "amount": 99900
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$ 999.900,00",
+          "amount": 999900
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$ 229.900,00",
+          "amount": 229900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:00.803Z"
+    },
+    "cr": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:02.308Z"
+    },
+    "cv": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:03.807Z"
+    },
+    "cy": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:05.235Z"
+    },
+    "cz": {
+      "currency": "CZK",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "4 990,00 Kč",
+          "amount": 4990
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "129,00 Kč",
+          "amount": 129
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "4 990,00 Kč",
+          "amount": 4990
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "1 290,00 Kč",
+          "amount": 1290
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:06.753Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:08.227Z"
+    },
+    "dk": {
+      "currency": "DKK",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "179,00 kr",
+          "amount": 179
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "1.799,00 kr",
+          "amount": 1799
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "39,00 kr",
+          "amount": 39
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "179,00 kr",
+          "amount": 179
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "1.799,00 kr",
+          "amount": 1799
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:09.742Z"
+    },
+    "dm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:11.178Z"
+    },
+    "do": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:12.765Z"
+    },
+    "dz": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:14.247Z"
+    },
+    "ec": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:15.899Z"
+    },
+    "ee": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:17.219Z"
+    },
+    "eg": {
+      "currency": "EGP",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "EGP 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "EGP 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "EGP 2,499.99",
+          "amount": 2499.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "EGP 999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:18.802Z"
+    },
+    "es": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:20.309Z"
+    },
+    "fi": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:21.746Z"
+    },
+    "fj": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:23.311Z"
+    },
+    "fm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:24.704Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:26.342Z"
+    },
+    "ga": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:27.765Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "£199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "£49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "£199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:29.432Z"
+    },
+    "gd": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:30.762Z"
+    },
+    "ge": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:32.246Z"
+    },
+    "gh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:33.716Z"
+    },
+    "gm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:35.302Z"
+    },
+    "gr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:36.531Z"
+    },
+    "gt": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:38.264Z"
+    },
+    "gw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:39.713Z"
+    },
+    "gy": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:41.399Z"
+    },
+    "hk": {
+      "currency": "HKD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "HK$ 159.00",
+          "amount": 159
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "HK$ 1,599.00",
+          "amount": 1599
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "HK$ 38.00",
+          "amount": 38
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "HK$ 148.00",
+          "amount": 148
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "HK$ 388.00",
+          "amount": 388
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "HK$ 1,488.00",
+          "amount": 1488
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:42.603Z"
+    },
+    "hn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:44.199Z"
+    },
+    "hr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:45.744Z"
+    },
+    "hu": {
+      "currency": "HUF",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "HUF1,990.00",
+          "amount": 1990
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "HUF89,990.00",
+          "amount": 89990
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "HUF22,990.00",
+          "amount": 22990
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "HUF89,990.00",
+          "amount": 89990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:47.348Z"
+    },
+    "id": {
+      "currency": "IDR",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:48.762Z"
+    },
+    "ie": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "€22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "€229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "€5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "€22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "€229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "€59.99",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:50.265Z"
+    },
+    "il": {
+      "currency": "ILS",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:51.832Z"
     },
     "in": {
       "currency": "INR",
@@ -40,7 +1470,95 @@
           "price": "₹ 19,900",
           "amount": 19900
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T15:36:53.316Z"
+    },
+    "iq": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:54.811Z"
+    },
+    "is": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:56.145Z"
+    },
+    "it": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:36:57.886Z"
+    },
+    "jm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:36:59.308Z"
+    },
+    "jo": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:00.718Z"
     },
     "jp": {
       "currency": "JPY",
@@ -75,7 +1593,1269 @@
           "price": "¥30,000",
           "amount": 30000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T15:37:02.251Z"
+    },
+    "ke": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:03.859Z"
+    },
+    "kg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:05.229Z"
+    },
+    "kh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:06.739Z"
+    },
+    "kn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:08.297Z"
+    },
+    "kr": {
+      "currency": "KRW",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "￦29,000",
+          "amount": 29000
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "￦299,000",
+          "amount": 299000
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "￦6,600",
+          "amount": 6600
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "￦29,000",
+          "amount": 29000
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "￦66,000",
+          "amount": 66000
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "￦299,000",
+          "amount": 299000
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:09.762Z"
+    },
+    "kw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:11.288Z"
+    },
+    "ky": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:12.824Z"
+    },
+    "kz": {
+      "currency": "KZT",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "9,990.00₸",
+          "amount": 9990
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "2,990.00₸",
+          "amount": 2990
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "11,990.00₸",
+          "amount": 11990
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "99,990.00₸",
+          "amount": 99990
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "119,990.00₸",
+          "amount": 119990
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "29,990.00₸",
+          "amount": 29990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:14.221Z"
+    },
+    "la": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:15.845Z"
+    },
+    "lb": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:17.180Z"
+    },
+    "lc": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:18.853Z"
+    },
+    "lk": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:20.251Z"
+    },
+    "lr": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:21.989Z"
+    },
+    "lt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:23.413Z"
+    },
+    "lu": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:24.799Z"
+    },
+    "lv": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:26.340Z"
+    },
+    "ly": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:27.868Z"
+    },
+    "ma": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:37:28.831Z"
+    },
+    "md": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:30.769Z"
+    },
+    "me": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:32.360Z"
+    },
+    "mg": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:33.836Z"
+    },
+    "mk": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:35.122Z"
+    },
+    "ml": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:36.773Z"
+    },
+    "mm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:38.337Z"
+    },
+    "mn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:39.822Z"
+    },
+    "mo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:41.268Z"
+    },
+    "mr": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:42.730Z"
+    },
+    "ms": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:44.279Z"
+    },
+    "mt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:45.784Z"
+    },
+    "mu": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:47.167Z"
+    },
+    "mv": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:48.753Z"
+    },
+    "mw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:50.361Z"
+    },
+    "mx": {
+      "currency": "MXN",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$399.00",
+          "amount": 399
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$399.00",
+          "amount": 399
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$3,999.00",
+          "amount": 3999
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$3,999.00",
+          "amount": 3999
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$999.00",
+          "amount": 999
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:51.699Z"
+    },
+    "my": {
+      "currency": "MYR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "RM99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "RM22.90",
+          "amount": 22.9
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "RM99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "RM999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "RM229.90",
+          "amount": 229.9
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "RM999.90",
+          "amount": 999.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:53.419Z"
+    },
+    "mz": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:54.793Z"
+    },
+    "na": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:56.196Z"
+    },
+    "ne": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:37:57.914Z"
+    },
+    "ng": {
+      "currency": "NGN",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "₦ 29,900.00",
+          "amount": 29900
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "₦ 7,900.00",
+          "amount": 7900
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "₦ 299,900.00",
+          "amount": 299900
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "₦ 29,900.00",
+          "amount": 29900
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "₦ 79,900.00",
+          "amount": 79900
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "₦ 299,900.00",
+          "amount": 299900
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:37:59.499Z"
+    },
+    "ni": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:00.864Z"
+    },
+    "nl": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "€ 22,99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "€ 229,99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "€ 5,99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "€ 22,99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "€ 229,99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "€ 59,99",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:02.489Z"
+    },
+    "no": {
+      "currency": "NOK",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "2.490,00 kr",
+          "amount": 2490
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "59,00 kr",
+          "amount": 59
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "2.490,00 kr",
+          "amount": 2490
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "599,00 kr",
+          "amount": 599
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:03.985Z"
+    },
+    "np": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:05.309Z"
+    },
+    "nr": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:06.757Z"
+    },
+    "nz": {
+      "currency": "NZD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:08.363Z"
+    },
+    "om": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:09.725Z"
+    },
+    "pa": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:11.278Z"
+    },
+    "pe": {
+      "currency": "PEN",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:12.836Z"
+    },
+    "pg": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:14.281Z"
+    },
+    "ph": {
+      "currency": "PHP",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:15.879Z"
+    },
+    "pk": {
+      "currency": "PKR",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:17.286Z"
+    },
+    "pl": {
+      "currency": "PLN",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "999,99 zł",
+          "amount": 999.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "24,99 zł",
+          "amount": 24.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "229,99 zł",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "999,99 zł",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:18.654Z"
+    },
+    "pt": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:20.316Z"
+    },
+    "pw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:21.739Z"
+    },
+    "py": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:23.311Z"
+    },
+    "qa": {
+      "currency": "QAR",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:24.756Z"
+    },
+    "ro": {
+      "currency": "RON",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "99,99 lei",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "29,99 lei",
+          "amount": 29.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "999,99 lei",
+          "amount": 999.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "299,99 lei",
+          "amount": 299.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "99,99 lei",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "999,99 lei",
+          "amount": 999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:26.270Z"
+    },
+    "rs": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:27.872Z"
+    },
+    "ru": {
+      "available": false,
+      "fetchedAt": "2026-10-18T15:38:28.846Z"
+    },
+    "rw": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:30.915Z"
+    },
+    "sa": {
+      "currency": "SAR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "SAR 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "SAR 899.99",
+          "amount": 899.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "SAR 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "SAR 89.99",
+          "amount": 89.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "SAR 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "SAR 899.99",
+          "amount": 899.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:32.484Z"
+    },
+    "sb": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:33.874Z"
+    },
+    "sc": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:35.227Z"
+    },
+    "se": {
+      "currency": "SEK",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "2 495,00 kr",
+          "amount": 2495
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "69,00 kr",
+          "amount": 69
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "599,00 kr",
+          "amount": 599
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "2 495,00 kr",
+          "amount": 2495
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:36.804Z"
+    },
+    "sg": {
+      "currency": "SGD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "S$ 29.98",
+          "amount": 29.98
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "S$ 299.98",
+          "amount": 299.98
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "S$ 6.98",
+          "amount": 6.98
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "S$ 29.98",
+          "amount": 29.98
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "S$ 69.98",
+          "amount": 69.98
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "S$ 299.98",
+          "amount": 299.98
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:38.316Z"
+    },
+    "si": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:39.830Z"
+    },
+    "sk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:41.297Z"
+    },
+    "sl": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:42.923Z"
+    },
+    "sn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:44.357Z"
+    },
+    "sr": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:45.776Z"
+    },
+    "st": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:47.268Z"
+    },
+    "sv": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:48.655Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:50.385Z"
+    },
+    "tc": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:51.751Z"
+    },
+    "td": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:53.319Z"
+    },
+    "th": {
+      "currency": "THB",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "฿699.00",
+          "amount": 699
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "฿199.00",
+          "amount": 199
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "฿699.00",
+          "amount": 699
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "฿6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "฿6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "฿1,990.00",
+          "amount": 1990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:54.804Z"
+    },
+    "tj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:38:56.519Z"
+    },
+    "tm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:58.146Z"
+    },
+    "tn": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:38:59.238Z"
+    },
+    "to": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:00.832Z"
     },
     "tr": {
       "currency": "TRY",
@@ -91,14 +2871,14 @@
           "amount": 249.99
         },
         {
-          "name": "Poe Yearly Subscription",
-          "price": "₺7.999,99",
-          "amount": 7999.99
-        },
-        {
           "name": "Poe Monthly Subscription - Plus",
           "price": "₺999,99",
           "amount": 999.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "₺7.999,99",
+          "amount": 7999.99
         },
         {
           "name": "Poe Annual Subscription - Basic",
@@ -110,7 +2890,126 @@
           "price": "₺9.999,99",
           "amount": 9999.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T15:39:02.367Z"
+    },
+    "tt": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:03.798Z"
+    },
+    "tw": {
+      "currency": "TWD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "$690.00",
+          "amount": 690
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "$6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "$150.00",
+          "amount": 150
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "$1,490.00",
+          "amount": 1490
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$690.00",
+          "amount": 690
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "$6,990.00",
+          "amount": 6990
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:05.304Z"
+    },
+    "tz": {
+      "currency": "TZS",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:06.737Z"
+    },
+    "ua": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 USD",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 USD",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 USD",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 USD",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 USD",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 USD",
+          "amount": 59.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:08.101Z"
+    },
+    "ug": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:09.703Z"
     },
     "us": {
       "currency": "USD",
@@ -145,7 +3044,223 @@
           "price": "$199.99",
           "amount": 199.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T15:39:11.395Z"
+    },
+    "uy": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:12.942Z"
+    },
+    "uz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 49.99",
+          "amount": 49.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:14.309Z"
+    },
+    "vc": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:15.770Z"
+    },
+    "ve": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:17.426Z"
+    },
+    "vg": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:18.881Z"
+    },
+    "vn": {
+      "currency": "VND",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "499.000đ",
+          "amount": 499000
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "4.999.000đ",
+          "amount": 4999000
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "149.000đ",
+          "amount": 149000
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "599.000đ",
+          "amount": 599000
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "1.499.000đ",
+          "amount": 1499000
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "5.999.000đ",
+          "amount": 5999000
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:20.394Z"
+    },
+    "vu": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:22.036Z"
+    },
+    "xk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "229,99 €",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "229,99 €",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:23.278Z"
+    },
+    "ye": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:24.910Z"
+    },
+    "za": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "R399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "R99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "R3,999.99",
+          "amount": 3999.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "R399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "R999.99",
+          "amount": 999.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "R3,999.99",
+          "amount": 3999.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:26.262Z"
+    },
+    "zm": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-18T15:39:27.828Z"
+    },
+    "zw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Poe Monthly Subscription",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Basic",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Poe Yearly Subscription",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Poe Annual Subscription - Basic",
+          "price": "USD 59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "USD 22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Poe Annual Subscription - Plus",
+          "price": "USD 229.99",
+          "amount": 229.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T15:39:29.472Z"
     }
   }
 }

@@ -2,8 +2,1704 @@
   "id": "6450893458",
   "name": "智谱清言 - 一站式解放AI生产力",
   "month": "202610",
-  "fetchedAt": "2026-10-18T12:17:26.260Z",
+  "fetchedAt": "2026-10-18T14:25:04.744Z",
   "storefronts": {
+    "ae": {
+      "currency": "AED",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "AED 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "AED 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "连续包季会员",
+          "price": "AED 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "AED 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "AED 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "AED 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "AED 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "AED 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "AED 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "AED 399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:43.971Z"
+    },
+    "af": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:20:44.831Z"
+    },
+    "ag": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:46.732Z"
+    },
+    "ai": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:48.289Z"
+    },
+    "al": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:49.683Z"
+    },
+    "am": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:51.278Z"
+    },
+    "ao": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:52.725Z"
+    },
+    "ar": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:54.186Z"
+    },
+    "at": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:20:55.310Z"
+    },
+    "au": {
+      "currency": "AUD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言首购VIP",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "连续包年会员",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "连续包季会员",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "清言首购年度会员",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "$29.99",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:57.261Z"
+    },
+    "az": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:20:58.683Z"
+    },
+    "ba": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 €",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "129,99 €",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:00.278Z"
+    },
+    "bb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:01.892Z"
+    },
+    "be": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:02.810Z"
+    },
+    "bf": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:04.769Z"
+    },
+    "bg": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:05.799Z"
+    },
+    "bh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:07.774Z"
+    },
+    "bj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:09.217Z"
+    },
+    "bm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:10.683Z"
+    },
+    "bn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:12.212Z"
+    },
+    "bo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:13.868Z"
+    },
+    "br": {
+      "currency": "BRL",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "R$ 59,90",
+          "amount": 59.9
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "R$ 199,90",
+          "amount": 199.9
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "R$ 2.299,90",
+          "amount": 2299.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "R$ 2.299,90",
+          "amount": 2299.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "R$ 199,90",
+          "amount": 199.9
+        },
+        {
+          "name": "699元积分包",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        },
+        {
+          "name": "29元积分包",
+          "price": "R$ 24,90",
+          "amount": 24.9
+        },
+        {
+          "name": "109元积分包",
+          "price": "R$ 99,90",
+          "amount": 99.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:15.248Z"
+    },
+    "bs": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:16.789Z"
+    },
+    "bt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:18.342Z"
+    },
+    "bw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:19.833Z"
+    },
+    "by": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 11.99",
+          "amount": 11.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "USD 11.99",
+          "amount": 11.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:21.099Z"
+    },
+    "bz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:22.812Z"
+    },
+    "ca": {
+      "currency": "CAD",
+      "items": [
+        {
+          "name": "29元积分包",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "$12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "清言SVIP季卡",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "连续包年会员",
+          "price": "$149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "清言首购SVIP季卡",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "清言首购季度会员",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "连续包季会员",
+          "price": "$39.99",
+          "amount": 39.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:24.376Z"
+    },
+    "cd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:25.775Z"
+    },
+    "cg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:27.343Z"
+    },
+    "ch": {
+      "currency": "CHF",
+      "items": [
+        {
+          "name": "连续包季会员",
+          "price": "CHF 25.00",
+          "amount": 25
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "CHF 25.00",
+          "amount": 25
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "CHF 300.00",
+          "amount": 300
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "CHF 90.00",
+          "amount": 90
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "CHF 300.00",
+          "amount": 300
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "CHF 90.00",
+          "amount": 90
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "CHF 25.00",
+          "amount": 25
+        },
+        {
+          "name": "699元积分包",
+          "price": "CHF 90.00",
+          "amount": 90
+        },
+        {
+          "name": "29元积分包",
+          "price": "CHF 3.00",
+          "amount": 3
+        },
+        {
+          "name": "109元积分包",
+          "price": "CHF 14.00",
+          "amount": 14
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:28.792Z"
+    },
+    "ci": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 $US",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 $US",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 $US",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 $US",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "4,99 $US",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 $US",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "149,99 $US",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:30.358Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "$9.990",
+          "amount": 9990
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "$34.990",
+          "amount": 34990
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$399.990",
+          "amount": 399990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.990",
+          "amount": 99990
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$399.990",
+          "amount": 399990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.990",
+          "amount": 99990
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$34.990",
+          "amount": 34990
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.990",
+          "amount": 99990
+        },
+        {
+          "name": "29元积分包",
+          "price": "$4.990",
+          "amount": 4990
+        },
+        {
+          "name": "109元积分包",
+          "price": "$17.990",
+          "amount": 17990
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:31.864Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 $US",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 $US",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 $US",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 $US",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "119,99 $US",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "4,99 $US",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 $US",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "149,99 $US",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:33.370Z"
+    },
     "cn": {
       "currency": "CNY",
       "items": [
@@ -57,7 +1753,1344 @@
           "price": "¥79.00",
           "amount": 79
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T14:21:34.664Z"
+    },
+    "co": {
+      "currency": "COP",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$ 129.900,00",
+          "amount": 129900
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$ 1.499.900,00",
+          "amount": 1499900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$ 1.499.900,00",
+          "amount": 1499900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$ 129.900,00",
+          "amount": 129900
+        },
+        {
+          "name": "699元积分包",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        },
+        {
+          "name": "29元积分包",
+          "price": "$ 19.900,00",
+          "amount": 19900
+        },
+        {
+          "name": "109元积分包",
+          "price": "$ 69.900,00",
+          "amount": 69900
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$ 599.900,00",
+          "amount": 599900
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:36.183Z"
+    },
+    "cr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:37.732Z"
+    },
+    "cv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:39.173Z"
+    },
+    "cy": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:40.306Z"
+    },
+    "cz": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:41.823Z"
+    },
+    "de": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:43.322Z"
+    },
+    "dk": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:44.818Z"
+    },
+    "dm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:46.841Z"
+    },
+    "do": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:48.324Z"
+    },
+    "dz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:49.710Z"
+    },
+    "ec": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:51.230Z"
+    },
+    "ee": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:52.345Z"
+    },
+    "eg": {
+      "currency": "EGP",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "EGP 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "EGP 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "EGP 19,999.99",
+          "amount": 19999.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "EGP 19,999.99",
+          "amount": 19999.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "EGP 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "EGP 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "EGP 799.99",
+          "amount": 799.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:54.178Z"
+    },
+    "es": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:55.324Z"
+    },
+    "fi": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:21:56.971Z"
+    },
+    "fj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:21:58.816Z"
+    },
+    "fm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:00.174Z"
+    },
+    "fr": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:01.388Z"
+    },
+    "ga": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:03.210Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "连续包季会员",
+          "price": "£29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "£17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "£29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "£349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "£99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "£349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "£99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "£29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "£99.99",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:04.712Z"
+    },
+    "gd": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:06.248Z"
+    },
+    "ge": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:07.866Z"
+    },
+    "gh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:09.297Z"
+    },
+    "gm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:10.735Z"
+    },
+    "gr": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:11.879Z"
+    },
+    "gt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:13.751Z"
+    },
+    "gw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:15.331Z"
+    },
+    "gy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:16.685Z"
+    },
+    "hk": {
+      "currency": "HKD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "HK$ 88.00",
+          "amount": 88
+        },
+        {
+          "name": "连续包年会员",
+          "price": "HK$ 888.00",
+          "amount": 888
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "HK$ 228.00",
+          "amount": 228
+        },
+        {
+          "name": "连续包季会员",
+          "price": "HK$ 228.00",
+          "amount": 228
+        },
+        {
+          "name": "29元积分包",
+          "price": "HK$ 32.00",
+          "amount": 32
+        },
+        {
+          "name": "连续包月会员",
+          "price": "HK$ 88.00",
+          "amount": 88
+        },
+        {
+          "name": "109元积分包",
+          "price": "HK$ 118.00",
+          "amount": 118
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "HK$ 228.00",
+          "amount": 228
+        },
+        {
+          "name": "699元积分包",
+          "price": "HK$ 788.00",
+          "amount": 788
+        },
+        {
+          "name": "清言首购季度会员",
+          "price": "HK$ 288.00",
+          "amount": 288
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:18.271Z"
+    },
+    "hn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:19.717Z"
+    },
+    "hr": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:20.826Z"
+    },
+    "hu": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:22.326Z"
+    },
+    "id": {
+      "currency": "IDR",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "Rp 169ribu",
+          "amount": 169
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "Rp 499ribu",
+          "amount": 499
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "Rp 5,999juta",
+          "amount": 5999
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "Rp 1,699juta",
+          "amount": 1699
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "Rp 5,999juta",
+          "amount": 5999
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "Rp 1,699juta",
+          "amount": 1699
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "Rp 499ribu",
+          "amount": 499
+        },
+        {
+          "name": "699元积分包",
+          "price": "Rp 1,999juta",
+          "amount": 1999
+        },
+        {
+          "name": "29元积分包",
+          "price": "Rp 79ribu",
+          "amount": 79
+        },
+        {
+          "name": "109元积分包",
+          "price": "Rp 299ribu",
+          "amount": 299
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:24.248Z"
+    },
+    "ie": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:25.365Z"
+    },
+    "il": {
+      "currency": "ILS",
+      "items": [
+        {
+          "name": "连续包季会员",
+          "price": "₪99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "连续包年会员",
+          "price": "₪399.90",
+          "amount": 399.9
+        },
+        {
+          "name": "连续包季会员",
+          "price": "₪99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "连续包年会员",
+          "price": "₪399.90",
+          "amount": 399.9
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "₪99.90",
+          "amount": 99.9
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "₪1,199.90",
+          "amount": 1199.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₪349.90",
+          "amount": 349.9
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "₪1,199.90",
+          "amount": 1199.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₪349.90",
+          "amount": 349.9
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "₪99.90",
+          "amount": 99.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:27.183Z"
     },
     "in": {
       "currency": "INR",
@@ -112,7 +3145,236 @@
           "price": "₹ 399",
           "amount": 399
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T14:22:28.843Z"
+    },
+    "iq": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:30.330Z"
+    },
+    "is": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:31.791Z"
+    },
+    "it": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:32.875Z"
+    },
+    "jm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:34.728Z"
+    },
+    "jo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:36.217Z"
     },
     "jp": {
       "currency": "JPY",
@@ -167,7 +3429,3808 @@
           "price": "¥8,000",
           "amount": 8000
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T14:22:37.735Z"
+    },
+    "ke": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:39.323Z"
+    },
+    "kg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:40.753Z"
+    },
+    "kh": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:42.273Z"
+    },
+    "kn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:43.745Z"
+    },
+    "kr": {
+      "currency": "KRW",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "￦14,000",
+          "amount": 14000
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "￦29,000",
+          "amount": 29000
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "￦49,000",
+          "amount": 49000
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "￦599,000",
+          "amount": 599000
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "￦149,000",
+          "amount": 149000
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "￦449,000",
+          "amount": 449000
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "￦149,000",
+          "amount": 149000
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "￦44,000",
+          "amount": 44000
+        },
+        {
+          "name": "699元积分包",
+          "price": "￦149,000",
+          "amount": 149000
+        },
+        {
+          "name": "29元积分包",
+          "price": "￦6,600",
+          "amount": 6600
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:45.252Z"
+    },
+    "kw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:46.901Z"
+    },
+    "ky": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:48.228Z"
+    },
+    "kz": {
+      "currency": "KZT",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "5,990.00₸",
+          "amount": 5990
+        },
+        {
+          "name": "连续包季会员",
+          "price": "17,990.00₸",
+          "amount": 17990
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "17,990.00₸",
+          "amount": 17990
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "199,990.00₸",
+          "amount": 199990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "59,990.00₸",
+          "amount": 59990
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "199,990.00₸",
+          "amount": 199990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "59,990.00₸",
+          "amount": 59990
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "17,990.00₸",
+          "amount": 17990
+        },
+        {
+          "name": "699元积分包",
+          "price": "59,990.00₸",
+          "amount": 59990
+        },
+        {
+          "name": "29元积分包",
+          "price": "2,490.00₸",
+          "amount": 2490
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:49.717Z"
+    },
+    "la": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:51.370Z"
+    },
+    "lb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:52.865Z"
+    },
+    "lc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:54.237Z"
+    },
+    "lk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:55.925Z"
+    },
+    "lr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:22:57.333Z"
+    },
+    "lt": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:58.343Z"
+    },
+    "lu": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:22:59.851Z"
+    },
+    "lv": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:01.333Z"
+    },
+    "ly": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:03.636Z"
+    },
+    "ma": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:04.388Z"
+    },
+    "md": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:06.353Z"
+    },
+    "me": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "99,99 €",
+          "amount": 99.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:08.078Z"
+    },
+    "mg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:09.327Z"
+    },
+    "mk": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:10.685Z"
+    },
+    "ml": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:12.369Z"
+    },
+    "mm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:13.749Z"
+    },
+    "mn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:15.223Z"
+    },
+    "mo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "连续包季会员",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:16.760Z"
+    },
+    "mr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:18.354Z"
+    },
+    "ms": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:19.758Z"
+    },
+    "mt": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:20.884Z"
+    },
+    "mu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:22.766Z"
+    },
+    "mv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:24.217Z"
+    },
+    "mw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:25.855Z"
+    },
+    "mx": {
+      "currency": "MXN",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "$199.00",
+          "amount": 199
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "$599.00",
+          "amount": 599
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$7,999.00",
+          "amount": 7999
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$1,999.00",
+          "amount": 1999
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$7,999.00",
+          "amount": 7999
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$1,999.00",
+          "amount": 1999
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$599.00",
+          "amount": 599
+        },
+        {
+          "name": "699元积分包",
+          "price": "$1,999.00",
+          "amount": 1999
+        },
+        {
+          "name": "29元积分包",
+          "price": "$89.00",
+          "amount": 89
+        },
+        {
+          "name": "109元积分包",
+          "price": "$299.00",
+          "amount": 299
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:27.364Z"
+    },
+    "my": {
+      "currency": "MYR",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "RM49.90",
+          "amount": 49.9
+        },
+        {
+          "name": "连续包月会员",
+          "price": "RM49.90",
+          "amount": 49.9
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "RM129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "RM1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "RM499.90",
+          "amount": 499.9
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "RM1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "RM499.90",
+          "amount": 499.9
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "RM129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "699元积分包",
+          "price": "RM499.90",
+          "amount": 499.9
+        },
+        {
+          "name": "29元积分包",
+          "price": "RM19.90",
+          "amount": 19.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:28.726Z"
+    },
+    "mz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:30.405Z"
+    },
+    "na": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:31.757Z"
+    },
+    "ne": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:33.239Z"
+    },
+    "ng": {
+      "currency": "NGN",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "₦ 14,900.00",
+          "amount": 14900
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "₦ 49,900.00",
+          "amount": 49900
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "₦ 599,900.00",
+          "amount": 599900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "₦ 599,900.00",
+          "amount": 599900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "₦ 49,900.00",
+          "amount": 49900
+        },
+        {
+          "name": "699元积分包",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        },
+        {
+          "name": "29元积分包",
+          "price": "₦ 6,900.00",
+          "amount": 6900
+        },
+        {
+          "name": "109元积分包",
+          "price": "₦ 24,900.00",
+          "amount": 24900
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:34.803Z"
+    },
+    "ni": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:36.216Z"
+    },
+    "nl": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:37.352Z"
+    },
+    "no": {
+      "currency": "NOK",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "4.490,00 kr",
+          "amount": 4490
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "4.490,00 kr",
+          "amount": 4490
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
+          "name": "699元积分包",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
+          "name": "29元积分包",
+          "price": "49,00 kr",
+          "amount": 49
+        },
+        {
+          "name": "109元积分包",
+          "price": "199,00 kr",
+          "amount": 199
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "1.490,00 kr",
+          "amount": 1490
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:39.272Z"
+    },
+    "np": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:40.747Z"
+    },
+    "nr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:42.223Z"
+    },
+    "nz": {
+      "currency": "NZD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "连续包年会员",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$599.99",
+          "amount": 599.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$599.99",
+          "amount": 599.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$6.99",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:43.694Z"
+    },
+    "om": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:45.249Z"
+    },
+    "pa": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:46.854Z"
+    },
+    "pe": {
+      "currency": "PEN",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "S/ 129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "S/ 1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "S/ 449.90",
+          "amount": 449.9
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "S/ 1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "S/ 449.90",
+          "amount": 449.9
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "S/ 129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "699元积分包",
+          "price": "S/ 449.90",
+          "amount": 449.9
+        },
+        {
+          "name": "29元积分包",
+          "price": "S/ 17.90",
+          "amount": 17.9
+        },
+        {
+          "name": "109元积分包",
+          "price": "S/ 69.90",
+          "amount": 69.9
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "S/ 499.90",
+          "amount": 499.9
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:48.269Z"
+    },
+    "pg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:49.844Z"
+    },
+    "ph": {
+      "currency": "PHP",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "₱ 599.00",
+          "amount": 599
+        },
+        {
+          "name": "连续包月会员",
+          "price": "₱ 599.00",
+          "amount": 599
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "₱ 1,990.00",
+          "amount": 1990
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "₱ 22,990.00",
+          "amount": 22990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₱ 5,990.00",
+          "amount": 5990
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "₱ 22,990.00",
+          "amount": 22990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "₱ 5,990.00",
+          "amount": 5990
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "₱ 1,990.00",
+          "amount": 1990
+        },
+        {
+          "name": "699元积分包",
+          "price": "₱ 5,990.00",
+          "amount": 5990
+        },
+        {
+          "name": "29元积分包",
+          "price": "₱ 249.00",
+          "amount": 249
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:51.299Z"
+    },
+    "pk": {
+      "currency": "PKR",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "Rs 2,900.00",
+          "amount": 2900
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "Rs 7,900.00",
+          "amount": 7900
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "Rs 99,900.00",
+          "amount": 99900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "Rs 24,900.00",
+          "amount": 24900
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "Rs 99,900.00",
+          "amount": 99900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "Rs 24,900.00",
+          "amount": 24900
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "Rs 7,900.00",
+          "amount": 7900
+        },
+        {
+          "name": "699元积分包",
+          "price": "Rs 24,900.00",
+          "amount": 24900
+        },
+        {
+          "name": "29元积分包",
+          "price": "Rs 1,100.00",
+          "amount": 1100
+        },
+        {
+          "name": "109元积分包",
+          "price": "Rs 3,900.00",
+          "amount": 3900
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:52.820Z"
+    },
+    "pl": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:53.849Z"
+    },
+    "pt": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:23:55.371Z"
+    },
+    "pw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:57.483Z"
+    },
+    "py": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:23:58.745Z"
+    },
+    "qa": {
+      "currency": "QAR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "QAR 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "QAR 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "QAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "QAR 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "QAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "QAR 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "QAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "QAR 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "QAR 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "QAR 399.99",
+          "amount": 399.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:00.256Z"
+    },
+    "ro": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:24:01.350Z"
+    },
+    "rs": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 €",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "129,99 €",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:03.225Z"
+    },
+    "ru": {
+      "currency": "RUB",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "899,00 ₽",
+          "amount": 899
+        },
+        {
+          "name": "连续包月会员",
+          "price": "899,00 ₽",
+          "amount": 899
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "1 490,00 ₽",
+          "amount": 1490
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "2 490,00 ₽",
+          "amount": 2490
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "29 990,00 ₽",
+          "amount": 29990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "8 990,00 ₽",
+          "amount": 8990
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "29 990,00 ₽",
+          "amount": 29990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "8 990,00 ₽",
+          "amount": 8990
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "2 490,00 ₽",
+          "amount": 2490
+        },
+        {
+          "name": "699元积分包",
+          "price": "8 990,00 ₽",
+          "amount": 8990
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:04.757Z"
+    },
+    "rw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:06.287Z"
+    },
+    "sa": {
+      "currency": "SAR",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "SAR 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "连续包月会员",
+          "price": "SAR 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "SAR 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "SAR 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "SAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "SAR 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "SAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "SAR 129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "SAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "SAR 17.99",
+          "amount": 17.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:07.755Z"
+    },
+    "sb": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:09.405Z"
+    },
+    "sc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:10.765Z"
+    },
+    "se": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:24:11.853Z"
+    },
+    "sg": {
+      "currency": "SGD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "S$ 14.98",
+          "amount": 14.98
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "S$ 39.98",
+          "amount": 39.98
+        },
+        {
+          "name": "连续包月会员",
+          "price": "S$ 14.98",
+          "amount": 14.98
+        },
+        {
+          "name": "连续包季会员",
+          "price": "S$ 39.98",
+          "amount": 39.98
+        },
+        {
+          "name": "连续包年会员",
+          "price": "S$ 179.98",
+          "amount": 179.98
+        },
+        {
+          "name": "连续包季会员",
+          "price": "S$ 39.98",
+          "amount": 39.98
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "S$ 24.98",
+          "amount": 24.98
+        },
+        {
+          "name": "清言首购年度会员",
+          "price": "S$ 199.98",
+          "amount": 199.98
+        },
+        {
+          "name": "连续包年会员",
+          "price": "S$ 179.98",
+          "amount": 179.98
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "S$ 39.98",
+          "amount": 39.98
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:13.730Z"
+    },
+    "si": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:24:14.891Z"
+    },
+    "sk": {
+      "available": false,
+      "fetchedAt": "2026-10-18T14:24:16.356Z"
+    },
+    "sl": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:18.483Z"
+    },
+    "sn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:19.748Z"
+    },
+    "sr": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:21.307Z"
+    },
+    "st": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:22.771Z"
+    },
+    "sv": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:24.265Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:25.729Z"
+    },
+    "tc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:27.249Z"
+    },
+    "td": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:28.703Z"
+    },
+    "th": {
+      "currency": "THB",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "฿399.00",
+          "amount": 399
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "฿999.00",
+          "amount": 999
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "฿999.00",
+          "amount": 999
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "฿12,990.00",
+          "amount": 12990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "฿3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "฿12,990.00",
+          "amount": 12990
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "฿3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "699元积分包",
+          "price": "฿3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "29元积分包",
+          "price": "฿149.00",
+          "amount": 149
+        },
+        {
+          "name": "109元积分包",
+          "price": "฿499.00",
+          "amount": 499
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:30.232Z"
+    },
+    "tj": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:31.872Z"
+    },
+    "tm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:33.216Z"
+    },
+    "tn": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:34.740Z"
+    },
+    "to": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:36.216Z"
     },
     "tr": {
       "currency": "TRY",
@@ -222,7 +7285,288 @@
           "price": "₺4.999,99",
           "amount": 4999.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T14:24:37.741Z"
+    },
+    "tt": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:39.271Z"
+    },
+    "tw": {
+      "currency": "TWD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "$320.00",
+          "amount": 320
+        },
+        {
+          "name": "连续包月会员",
+          "price": "$320.00",
+          "amount": 320
+        },
+        {
+          "name": "连续包年会员",
+          "price": "$3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "连续包季会员",
+          "price": "$990.00",
+          "amount": 990
+        },
+        {
+          "name": "29元积分包",
+          "price": "$120.00",
+          "amount": 120
+        },
+        {
+          "name": "清言月卡会员",
+          "price": "$590.00",
+          "amount": 590
+        },
+        {
+          "name": "清言首购年度会员",
+          "price": "$3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "清言首购季度会员",
+          "price": "$1,290.00",
+          "amount": 1290
+        },
+        {
+          "name": "清言首购SVIP月卡",
+          "price": "$990.00",
+          "amount": 990
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "$990.00",
+          "amount": 990
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:40.773Z"
+    },
+    "tz": {
+      "currency": "TZS",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "29,900.00 TZS",
+          "amount": 29900
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "89,900.00 TZS",
+          "amount": 89900
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "999,900.00 TZS",
+          "amount": 999900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "299,900.00 TZS",
+          "amount": 299900
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "999,900.00 TZS",
+          "amount": 999900
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "299,900.00 TZS",
+          "amount": 299900
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "89,900.00 TZS",
+          "amount": 89900
+        },
+        {
+          "name": "699元积分包",
+          "price": "299,900.00 TZS",
+          "amount": 299900
+        },
+        {
+          "name": "29元积分包",
+          "price": "11,900.00 TZS",
+          "amount": 11900
+        },
+        {
+          "name": "109元积分包",
+          "price": "39,900.00 TZS",
+          "amount": 39900
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:42.279Z"
+    },
+    "ua": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "11,99 USD",
+          "amount": 11.99
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 USD",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 USD",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 USD",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 USD",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "119,99 USD",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 USD",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "119,99 USD",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "4,99 USD",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 USD",
+          "amount": 17.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:43.738Z"
+    },
+    "ug": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:45.269Z"
     },
     "us": {
       "currency": "USD",
@@ -277,7 +7621,680 @@
           "price": "$129.99",
           "amount": 129.99
         }
-      ]
+      ],
+      "fetchedAt": "2026-10-18T14:24:46.791Z"
+    },
+    "uy": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:48.331Z"
+    },
+    "uz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 129.99",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:49.726Z"
+    },
+    "vc": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:51.296Z"
+    },
+    "ve": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:52.824Z"
+    },
+    "vg": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:54.284Z"
+    },
+    "vn": {
+      "currency": "VND",
+      "items": [
+        {
+          "name": "连续包月会员",
+          "price": "299.000đ",
+          "amount": 299000
+        },
+        {
+          "name": "清言SVIP月卡",
+          "price": "999.000đ",
+          "amount": 999000
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "9.999.000đ",
+          "amount": 9999000
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "2.999.000đ",
+          "amount": 2999000
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "9.999.000đ",
+          "amount": 9999000
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "2.999.000đ",
+          "amount": 2999000
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "999.000đ",
+          "amount": 999000
+        },
+        {
+          "name": "699元积分包",
+          "price": "2.999.000đ",
+          "amount": 2999000
+        },
+        {
+          "name": "29元积分包",
+          "price": "119.000đ",
+          "amount": 119000
+        },
+        {
+          "name": "109元积分包",
+          "price": "499.000đ",
+          "amount": 499000
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:55.870Z"
+    },
+    "vu": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:57.223Z"
+    },
+    "xk": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "17,99 €",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "129,99 €",
+          "amount": 129.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:24:58.728Z"
+    },
+    "ye": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "$349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "$119.99",
+          "amount": 119.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:25:00.321Z"
+    },
+    "za": {
+      "currency": "ZAR",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "R599.99",
+          "amount": 599.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "R6,999.99",
+          "amount": 6999.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "R1,999.99",
+          "amount": 1999.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "R6,999.99",
+          "amount": 6999.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "R1,999.99",
+          "amount": 1999.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "R599.99",
+          "amount": 599.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "R1,999.99",
+          "amount": 1999.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "R79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "R299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "R2,499.99",
+          "amount": 2499.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:25:02.075Z"
+    },
+    "zm": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:25:03.241Z"
+    },
+    "zw": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "清言SVIP月卡",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "清言连续包年SVIP",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包年",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "清言SVIP连续包季",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "清言SVIP连续包月",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
+          "name": "699元积分包",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "29元积分包",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "109元积分包",
+          "price": "USD 17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "清言连续包年VIP",
+          "price": "USD 149.99",
+          "amount": 149.99
+        }
+      ],
+      "fetchedAt": "2026-10-18T14:25:04.744Z"
     }
   }
 }
