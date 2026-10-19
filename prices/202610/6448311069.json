@@ -2,7 +2,7 @@
   "id": "6448311069",
   "name": "ChatGPT",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:01:15.380Z",
+  "fetchedAt": "2026-10-19T09:12:45.190Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -38,7 +38,7 @@
           "amount": 1919.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:06.912Z"
+      "fetchedAt": "2026-10-19T09:08:33.062Z"
     },
     "af": {
       "currency": "USD",
@@ -74,7 +74,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:08.402Z"
+      "fetchedAt": "2026-10-19T09:08:34.583Z"
     },
     "ag": {
       "currency": "USD",
@@ -110,7 +110,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:09.897Z"
+      "fetchedAt": "2026-10-19T09:08:36.115Z"
     },
     "ai": {
       "currency": "USD",
@@ -146,7 +146,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:11.524Z"
+      "fetchedAt": "2026-10-19T09:08:37.655Z"
     },
     "al": {
       "currency": "USD",
@@ -182,7 +182,7 @@
           "amount": 599.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:13.305Z"
+      "fetchedAt": "2026-10-19T09:08:39.455Z"
     },
     "am": {
       "currency": "USD",
@@ -218,7 +218,7 @@
           "amount": 599.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:14.715Z"
+      "fetchedAt": "2026-10-19T09:08:40.921Z"
     },
     "ao": {
       "currency": "USD",
@@ -254,7 +254,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:15.984Z"
+      "fetchedAt": "2026-10-19T09:08:42.039Z"
     },
     "ar": {
       "currency": "USD",
@@ -290,7 +290,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:17.607Z"
+      "fetchedAt": "2026-10-19T09:08:43.850Z"
     },
     "at": {
       "currency": "EUR",
@@ -326,7 +326,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:19.216Z"
+      "fetchedAt": "2026-10-19T09:08:45.447Z"
     },
     "au": {
       "currency": "AUD",
@@ -362,7 +362,7 @@
           "amount": 769.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:20.893Z"
+      "fetchedAt": "2026-10-19T09:08:47.082Z"
     },
     "az": {
       "currency": "USD",
@@ -398,7 +398,7 @@
           "amount": 589.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:22.376Z"
+      "fetchedAt": "2026-10-19T09:08:48.426Z"
     },
     "ba": {
       "currency": "EUR",
@@ -434,7 +434,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:23.754Z"
+      "fetchedAt": "2026-10-19T09:08:49.911Z"
     },
     "bb": {
       "currency": "USD",
@@ -470,7 +470,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:25.023Z"
+      "fetchedAt": "2026-10-19T09:08:51.058Z"
     },
     "be": {
       "currency": "EUR",
@@ -479,16 +479,6 @@
           "name": "ChatGPT Plus",
           "price": "22,99 €",
           "amount": 22.99
-        },
-        {
-          "name": "ChatGPT Pro 200",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "ChatGPT Plus",
-          "price": "229,00 €",
-          "amount": 229
         },
         {
           "name": "ChatGPT Go",
@@ -501,12 +491,22 @@
           "amount": 102.99
         },
         {
+          "name": "ChatGPT Pro 200",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
           "name": "ChatGPT Pro 500",
           "price": "509,99 €",
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:26.780Z"
+      "fetchedAt": "2026-10-19T09:08:52.881Z"
     },
     "bf": {
       "currency": "USD",
@@ -542,7 +542,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:27.928Z"
+      "fetchedAt": "2026-10-19T09:08:54.077Z"
     },
     "bg": {
       "currency": "EUR",
@@ -578,7 +578,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:29.998Z"
+      "fetchedAt": "2026-10-19T09:08:55.866Z"
     },
     "bh": {
       "currency": "USD",
@@ -614,7 +614,7 @@
           "amount": 549.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:30.957Z"
+      "fetchedAt": "2026-10-19T09:08:57.044Z"
     },
     "bj": {
       "currency": "USD",
@@ -650,7 +650,7 @@
           "amount": 589.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:32.341Z"
+      "fetchedAt": "2026-10-19T09:08:58.665Z"
     },
     "bm": {
       "currency": "USD",
@@ -686,7 +686,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:33.890Z"
+      "fetchedAt": "2026-10-19T09:09:00.110Z"
     },
     "bn": {
       "currency": "USD",
@@ -722,7 +722,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:35.458Z"
+      "fetchedAt": "2026-10-19T09:09:01.699Z"
     },
     "bo": {
       "currency": "USD",
@@ -758,7 +758,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:37.006Z"
+      "fetchedAt": "2026-10-19T09:09:03.186Z"
     },
     "br": {
       "currency": "BRL",
@@ -794,7 +794,7 @@
           "amount": 2599.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:38.221Z"
+      "fetchedAt": "2026-10-19T09:09:04.345Z"
     },
     "bs": {
       "currency": "USD",
@@ -830,7 +830,7 @@
           "amount": 549.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:40.054Z"
+      "fetchedAt": "2026-10-19T09:09:06.196Z"
     },
     "bt": {
       "currency": "USD",
@@ -866,7 +866,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:41.525Z"
+      "fetchedAt": "2026-10-19T09:09:07.667Z"
     },
     "bw": {
       "currency": "USD",
@@ -902,7 +902,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:43.048Z"
+      "fetchedAt": "2026-10-19T09:09:09.106Z"
     },
     "by": {
       "available": false,
@@ -942,7 +942,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:46.046Z"
+      "fetchedAt": "2026-10-19T09:09:10.643Z"
     },
     "ca": {
       "currency": "CAD",
@@ -978,7 +978,7 @@
           "amount": 759.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:47.944Z"
+      "fetchedAt": "2026-10-19T09:09:12.548Z"
     },
     "cd": {
       "currency": "USD",
@@ -1014,7 +1014,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:49.019Z"
+      "fetchedAt": "2026-10-19T09:09:13.559Z"
     },
     "cg": {
       "currency": "USD",
@@ -1050,7 +1050,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:50.473Z"
+      "fetchedAt": "2026-10-19T09:09:15.085Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1086,7 +1086,7 @@
           "amount": 415
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:52.324Z"
+      "fetchedAt": "2026-10-19T09:09:16.931Z"
     },
     "ci": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:53.414Z"
+      "fetchedAt": "2026-10-19T09:09:18.042Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1158,7 +1158,7 @@
           "amount": 509990
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:55.038Z"
+      "fetchedAt": "2026-10-19T09:09:19.661Z"
     },
     "cm": {
       "currency": "USD",
@@ -1194,7 +1194,7 @@
           "amount": 590
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:56.439Z"
+      "fetchedAt": "2026-10-19T09:09:21.063Z"
     },
     "cn": {
       "available": false,
@@ -1234,7 +1234,7 @@
           "amount": 1819900
         }
       ],
-      "fetchedAt": "2026-10-18T15:00:59.574Z"
+      "fetchedAt": "2026-10-19T09:09:22.660Z"
     },
     "cr": {
       "currency": "USD",
@@ -1270,7 +1270,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:01.023Z"
+      "fetchedAt": "2026-10-19T09:09:24.169Z"
     },
     "cv": {
       "currency": "USD",
@@ -1306,7 +1306,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:02.391Z"
+      "fetchedAt": "2026-10-19T09:09:25.544Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1342,7 +1342,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:04.330Z"
+      "fetchedAt": "2026-10-19T09:09:27.453Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1378,7 +1378,7 @@
           "amount": 12390
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:05.779Z"
+      "fetchedAt": "2026-10-19T09:09:29.217Z"
     },
     "de": {
       "currency": "EUR",
@@ -1414,7 +1414,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:10.370Z"
+      "fetchedAt": "2026-10-19T09:09:30.399Z"
     },
     "dk": {
       "currency": "DKK",
@@ -1450,7 +1450,7 @@
           "amount": 3899
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:08.806Z"
+      "fetchedAt": "2026-10-19T09:09:31.909Z"
     },
     "dm": {
       "currency": "USD",
@@ -1486,7 +1486,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:10.009Z"
+      "fetchedAt": "2026-10-19T09:09:33.198Z"
     },
     "do": {
       "currency": "USD",
@@ -1522,7 +1522,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:11.533Z"
+      "fetchedAt": "2026-10-19T09:09:34.717Z"
     },
     "dz": {
       "currency": "USD",
@@ -1558,7 +1558,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:12.949Z"
+      "fetchedAt": "2026-10-19T09:09:36.203Z"
     },
     "ec": {
       "currency": "USD",
@@ -1594,7 +1594,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:14.723Z"
+      "fetchedAt": "2026-10-19T09:09:37.732Z"
     },
     "ee": {
       "currency": "EUR",
@@ -1630,7 +1630,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:16.459Z"
+      "fetchedAt": "2026-10-19T09:09:39.375Z"
     },
     "eg": {
       "currency": "EGP",
@@ -1666,7 +1666,7 @@
           "amount": 26999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:17.493Z"
+      "fetchedAt": "2026-10-19T09:09:40.613Z"
     },
     "es": {
       "currency": "EUR",
@@ -1692,14 +1692,14 @@
           "amount": 229
         },
         {
-          "name": "ChatGPT Plus",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "100 Credits",
           "price": "4,19 €",
           "amount": 4.19
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "ChatGPT Pro 500",
@@ -1707,7 +1707,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:19.435Z"
+      "fetchedAt": "2026-10-19T09:09:42.513Z"
     },
     "fi": {
       "currency": "EUR",
@@ -1743,7 +1743,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:20.841Z"
+      "fetchedAt": "2026-10-19T09:09:43.856Z"
     },
     "fj": {
       "currency": "USD",
@@ -1779,7 +1779,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:21.937Z"
+      "fetchedAt": "2026-10-19T09:09:45.105Z"
     },
     "fm": {
       "currency": "USD",
@@ -1815,7 +1815,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:23.457Z"
+      "fetchedAt": "2026-10-19T09:09:46.588Z"
     },
     "fr": {
       "currency": "EUR",
@@ -1851,7 +1851,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:11.608Z"
+      "fetchedAt": "2026-10-19T09:09:48.489Z"
     },
     "ga": {
       "currency": "USD",
@@ -1887,7 +1887,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:26.422Z"
+      "fetchedAt": "2026-10-19T09:09:49.592Z"
     },
     "gb": {
       "currency": "GBP",
@@ -1923,7 +1923,7 @@
           "amount": 444.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:13.118Z"
+      "fetchedAt": "2026-10-19T09:09:51.385Z"
     },
     "gd": {
       "currency": "USD",
@@ -1959,7 +1959,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:29.560Z"
+      "fetchedAt": "2026-10-19T09:09:52.625Z"
     },
     "ge": {
       "currency": "USD",
@@ -1995,7 +1995,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:31.599Z"
+      "fetchedAt": "2026-10-19T09:09:54.417Z"
     },
     "gh": {
       "currency": "USD",
@@ -2031,7 +2031,7 @@
           "amount": 569.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:32.410Z"
+      "fetchedAt": "2026-10-19T09:09:55.640Z"
     },
     "gm": {
       "currency": "USD",
@@ -2067,7 +2067,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:34.071Z"
+      "fetchedAt": "2026-10-19T09:09:57.200Z"
     },
     "gr": {
       "currency": "EUR",
@@ -2103,20 +2103,15 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:35.754Z"
+      "fetchedAt": "2026-10-19T09:09:58.909Z"
     },
     "gt": {
       "currency": "USD",
       "items": [
         {
-          "name": "ChatGPT Pro 500",
-          "price": "USD 500.00",
-          "amount": 500
-        },
-        {
-          "name": "ChatGPT Pro 100",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "ChatGPT Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "ChatGPT Go",
@@ -2124,9 +2119,9 @@
           "amount": 5.99
         },
         {
-          "name": "ChatGPT Plus",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "ChatGPT Pro 100",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "ChatGPT Pro 200",
@@ -2135,11 +2130,16 @@
         },
         {
           "name": "ChatGPT Plus",
-          "price": "USD 19.99",
-          "amount": 19.99
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "ChatGPT Pro 500",
+          "price": "USD 500.00",
+          "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:37.048Z"
+      "fetchedAt": "2026-10-19T09:10:00.208Z"
     },
     "gw": {
       "currency": "USD",
@@ -2175,7 +2175,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:38.483Z"
+      "fetchedAt": "2026-10-19T09:10:01.558Z"
     },
     "gy": {
       "currency": "USD",
@@ -2211,7 +2211,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:39.868Z"
+      "fetchedAt": "2026-10-19T09:10:03.064Z"
     },
     "hk": {
       "available": false,
@@ -2251,7 +2251,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:43.019Z"
+      "fetchedAt": "2026-10-19T09:10:04.696Z"
     },
     "hr": {
       "currency": "EUR",
@@ -2287,7 +2287,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:44.771Z"
+      "fetchedAt": "2026-10-19T09:10:06.427Z"
     },
     "hu": {
       "currency": "HUF",
@@ -2323,7 +2323,7 @@
           "amount": 199990
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:46.305Z"
+      "fetchedAt": "2026-10-19T09:10:07.933Z"
     },
     "id": {
       "currency": "IDR",
@@ -2359,7 +2359,7 @@
           "amount": 9399
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:47.546Z"
+      "fetchedAt": "2026-10-19T09:10:09.146Z"
     },
     "ie": {
       "currency": "EUR",
@@ -2395,7 +2395,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:49.319Z"
+      "fetchedAt": "2026-10-19T09:10:10.929Z"
     },
     "il": {
       "currency": "ILS",
@@ -2431,7 +2431,7 @@
           "amount": 1549.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:50.791Z"
+      "fetchedAt": "2026-10-19T09:10:12.468Z"
     },
     "in": {
       "currency": "INR",
@@ -2467,7 +2467,7 @@
           "amount": 52900
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:52.620Z"
+      "fetchedAt": "2026-10-19T09:10:14.340Z"
     },
     "iq": {
       "currency": "USD",
@@ -2503,7 +2503,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:53.355Z"
+      "fetchedAt": "2026-10-19T09:10:15.229Z"
     },
     "is": {
       "currency": "USD",
@@ -2539,7 +2539,7 @@
           "amount": 619.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:54.618Z"
+      "fetchedAt": "2026-10-19T09:10:16.965Z"
     },
     "it": {
       "currency": "EUR",
@@ -2575,7 +2575,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:56.699Z"
+      "fetchedAt": "2026-10-19T09:10:18.596Z"
     },
     "jm": {
       "currency": "USD",
@@ -2611,7 +2611,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:57.772Z"
+      "fetchedAt": "2026-10-19T09:10:19.635Z"
     },
     "jo": {
       "currency": "USD",
@@ -2647,7 +2647,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:01:59.353Z"
+      "fetchedAt": "2026-10-19T09:10:21.186Z"
     },
     "jp": {
       "currency": "JPY",
@@ -2683,7 +2683,7 @@
           "amount": 84000
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:14.158Z"
+      "fetchedAt": "2026-10-19T09:10:22.466Z"
     },
     "ke": {
       "currency": "USD",
@@ -2719,7 +2719,7 @@
           "amount": 579.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:02.454Z"
+      "fetchedAt": "2026-10-19T09:10:24.189Z"
     },
     "kg": {
       "currency": "USD",
@@ -2755,7 +2755,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:04.276Z"
+      "fetchedAt": "2026-10-19T09:10:26.011Z"
     },
     "kh": {
       "currency": "USD",
@@ -2791,20 +2791,15 @@
           "amount": 549.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:05.615Z"
+      "fetchedAt": "2026-10-19T09:10:27.221Z"
     },
     "kn": {
       "currency": "USD",
       "items": [
         {
-          "name": "ChatGPT Plus",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "ChatGPT Go",
-          "price": "USD 8.00",
-          "amount": 8
+          "name": "ChatGPT Pro 500",
+          "price": "USD 500.00",
+          "amount": 500
         },
         {
           "name": "ChatGPT Pro 100",
@@ -2812,22 +2807,27 @@
           "amount": 100
         },
         {
-          "name": "ChatGPT Pro 200",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "ChatGPT Pro 500",
-          "price": "USD 500.00",
-          "amount": 500
+          "name": "ChatGPT Go",
+          "price": "USD 8.00",
+          "amount": 8
         },
         {
           "name": "ChatGPT Plus",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "ChatGPT Pro 200",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "ChatGPT Plus",
+          "price": "USD 19.99",
+          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:06.999Z"
+      "fetchedAt": "2026-10-19T09:10:28.693Z"
     },
     "kr": {
       "currency": "KRW",
@@ -2863,7 +2863,7 @@
           "amount": 790000
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:08.276Z"
+      "fetchedAt": "2026-10-19T09:10:29.990Z"
     },
     "kw": {
       "currency": "USD",
@@ -2899,7 +2899,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:09.957Z"
+      "fetchedAt": "2026-10-19T09:10:31.710Z"
     },
     "ky": {
       "currency": "USD",
@@ -2935,7 +2935,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:11.510Z"
+      "fetchedAt": "2026-10-19T09:10:33.098Z"
     },
     "kz": {
       "currency": "KZT",
@@ -2971,7 +2971,7 @@
           "amount": 274990
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:13.296Z"
+      "fetchedAt": "2026-10-19T09:10:34.999Z"
     },
     "la": {
       "currency": "USD",
@@ -3007,7 +3007,7 @@
           "amount": 549.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:14.518Z"
+      "fetchedAt": "2026-10-19T09:10:36.408Z"
     },
     "lb": {
       "currency": "USD",
@@ -3043,7 +3043,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:15.994Z"
+      "fetchedAt": "2026-10-19T09:10:37.718Z"
     },
     "lc": {
       "currency": "USD",
@@ -3079,7 +3079,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:17.549Z"
+      "fetchedAt": "2026-10-19T09:10:39.195Z"
     },
     "lk": {
       "currency": "USD",
@@ -3115,7 +3115,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:19.106Z"
+      "fetchedAt": "2026-10-19T09:10:40.757Z"
     },
     "lr": {
       "currency": "USD",
@@ -3151,7 +3151,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:20.496Z"
+      "fetchedAt": "2026-10-19T09:10:42.095Z"
     },
     "lt": {
       "currency": "EUR",
@@ -3187,20 +3187,15 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:22.275Z"
+      "fetchedAt": "2026-10-19T09:10:44.032Z"
     },
     "lu": {
       "currency": "EUR",
       "items": [
         {
-          "name": "ChatGPT Pro 500",
-          "price": "509,99 €",
-          "amount": 509.99
-        },
-        {
-          "name": "ChatGPT Pro 100",
-          "price": "102,99 €",
-          "amount": 102.99
+          "name": "ChatGPT Plus",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "ChatGPT Go",
@@ -3208,9 +3203,9 @@
           "amount": 7.99
         },
         {
-          "name": "ChatGPT Plus",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "ChatGPT Pro 100",
+          "price": "102,99 €",
+          "amount": 102.99
         },
         {
           "name": "ChatGPT Pro 200",
@@ -3219,11 +3214,16 @@
         },
         {
           "name": "ChatGPT Plus",
-          "price": "22,99 €",
-          "amount": 22.99
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "ChatGPT Pro 500",
+          "price": "509,99 €",
+          "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:23.758Z"
+      "fetchedAt": "2026-10-19T09:10:45.468Z"
     },
     "lv": {
       "currency": "EUR",
@@ -3259,7 +3259,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:25.300Z"
+      "fetchedAt": "2026-10-19T09:10:46.977Z"
     },
     "ly": {
       "currency": "USD",
@@ -3295,7 +3295,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:26.496Z"
+      "fetchedAt": "2026-10-19T09:10:48.278Z"
     },
     "ma": {
       "currency": "USD",
@@ -3331,7 +3331,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:27.830Z"
+      "fetchedAt": "2026-10-19T09:10:49.735Z"
     },
     "md": {
       "currency": "USD",
@@ -3367,7 +3367,7 @@
           "amount": 599.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:29.150Z"
+      "fetchedAt": "2026-10-19T09:10:51.855Z"
     },
     "me": {
       "currency": "EUR",
@@ -3403,7 +3403,7 @@
           "amount": 424.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:31.268Z"
+      "fetchedAt": "2026-10-19T09:10:53.016Z"
     },
     "mg": {
       "currency": "USD",
@@ -3439,7 +3439,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:32.509Z"
+      "fetchedAt": "2026-10-19T09:10:54.335Z"
     },
     "mk": {
       "currency": "USD",
@@ -3475,7 +3475,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:34.378Z"
+      "fetchedAt": "2026-10-19T09:10:56.034Z"
     },
     "ml": {
       "currency": "USD",
@@ -3511,7 +3511,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:35.349Z"
+      "fetchedAt": "2026-10-19T09:10:57.279Z"
     },
     "mm": {
       "currency": "USD",
@@ -3547,7 +3547,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:37.097Z"
+      "fetchedAt": "2026-10-19T09:10:58.797Z"
     },
     "mn": {
       "currency": "USD",
@@ -3583,7 +3583,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:38.470Z"
+      "fetchedAt": "2026-10-19T09:11:00.185Z"
     },
     "mo": {
       "available": false,
@@ -3608,12 +3608,12 @@
           "amount": 100
         },
         {
-          "name": "ChatGPT Plus",
+          "name": "ChatGPT Pro 200",
           "price": "$200.00",
           "amount": 200
         },
         {
-          "name": "ChatGPT Pro 200",
+          "name": "ChatGPT Plus",
           "price": "$200.00",
           "amount": 200
         },
@@ -3623,7 +3623,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:41.631Z"
+      "fetchedAt": "2026-10-19T09:11:01.654Z"
     },
     "ms": {
       "currency": "USD",
@@ -3659,7 +3659,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:43.021Z"
+      "fetchedAt": "2026-10-19T09:11:03.388Z"
     },
     "mt": {
       "currency": "EUR",
@@ -3695,7 +3695,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:44.814Z"
+      "fetchedAt": "2026-10-19T09:11:05.094Z"
     },
     "mu": {
       "currency": "USD",
@@ -3731,7 +3731,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:46.011Z"
+      "fetchedAt": "2026-10-19T09:11:06.214Z"
     },
     "mv": {
       "currency": "USD",
@@ -3767,7 +3767,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:47.577Z"
+      "fetchedAt": "2026-10-19T09:11:07.849Z"
     },
     "mw": {
       "currency": "USD",
@@ -3803,7 +3803,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:48.934Z"
+      "fetchedAt": "2026-10-19T09:11:09.239Z"
     },
     "mx": {
       "currency": "MXN",
@@ -3839,7 +3839,7 @@
           "amount": 9899
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:50.681Z"
+      "fetchedAt": "2026-10-19T09:11:11.161Z"
     },
     "my": {
       "currency": "MYR",
@@ -3875,7 +3875,7 @@
           "amount": 2099.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:52.078Z"
+      "fetchedAt": "2026-10-19T09:11:12.259Z"
     },
     "mz": {
       "currency": "USD",
@@ -3911,7 +3911,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:53.483Z"
+      "fetchedAt": "2026-10-19T09:11:13.835Z"
     },
     "na": {
       "currency": "USD",
@@ -3947,7 +3947,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:54.990Z"
+      "fetchedAt": "2026-10-19T09:11:15.245Z"
     },
     "ne": {
       "currency": "USD",
@@ -3983,7 +3983,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:56.672Z"
+      "fetchedAt": "2026-10-19T09:11:16.780Z"
     },
     "ng": {
       "currency": "NGN",
@@ -4019,7 +4019,7 @@
           "amount": 699900
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:57.939Z"
+      "fetchedAt": "2026-10-19T09:11:18.145Z"
     },
     "ni": {
       "currency": "USD",
@@ -4055,7 +4055,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:02:59.545Z"
+      "fetchedAt": "2026-10-19T09:11:19.790Z"
     },
     "nl": {
       "currency": "EUR",
@@ -4091,7 +4091,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:01.325Z"
+      "fetchedAt": "2026-10-19T09:11:21.529Z"
     },
     "no": {
       "currency": "NOK",
@@ -4127,7 +4127,7 @@
           "amount": 5899
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:02.807Z"
+      "fetchedAt": "2026-10-19T09:11:22.904Z"
     },
     "np": {
       "currency": "USD",
@@ -4163,7 +4163,7 @@
           "amount": 112.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:03.970Z"
+      "fetchedAt": "2026-10-19T09:11:24.157Z"
     },
     "nr": {
       "currency": "USD",
@@ -4219,7 +4219,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:05.439Z"
+      "fetchedAt": "2026-10-19T09:11:25.634Z"
     },
     "nz": {
       "currency": "NZD",
@@ -4255,7 +4255,7 @@
           "amount": 949.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:07.046Z"
+      "fetchedAt": "2026-10-19T09:11:27.320Z"
     },
     "om": {
       "currency": "USD",
@@ -4291,7 +4291,7 @@
           "amount": 519.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:08.463Z"
+      "fetchedAt": "2026-10-19T09:11:28.696Z"
     },
     "pa": {
       "currency": "USD",
@@ -4327,7 +4327,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:10.109Z"
+      "fetchedAt": "2026-10-19T09:11:30.353Z"
     },
     "pe": {
       "currency": "PEN",
@@ -4363,7 +4363,7 @@
           "amount": 1969.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:11.581Z"
+      "fetchedAt": "2026-10-19T09:11:31.806Z"
     },
     "pg": {
       "currency": "USD",
@@ -4399,7 +4399,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:13.017Z"
+      "fetchedAt": "2026-10-19T09:11:33.205Z"
     },
     "ph": {
       "currency": "PHP",
@@ -4435,7 +4435,7 @@
           "amount": 32490
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:14.535Z"
+      "fetchedAt": "2026-10-19T09:11:34.814Z"
     },
     "pk": {
       "currency": "PKR",
@@ -4471,7 +4471,7 @@
           "amount": 139999
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:15.977Z"
+      "fetchedAt": "2026-10-19T09:11:36.124Z"
     },
     "pl": {
       "currency": "PLN",
@@ -4507,7 +4507,7 @@
           "amount": 2199
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:17.867Z"
+      "fetchedAt": "2026-10-19T09:11:37.985Z"
     },
     "pt": {
       "currency": "EUR",
@@ -4548,7 +4548,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:19.320Z"
+      "fetchedAt": "2026-10-19T09:11:39.498Z"
     },
     "pw": {
       "currency": "USD",
@@ -4584,7 +4584,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:20.458Z"
+      "fetchedAt": "2026-10-19T09:11:40.679Z"
     },
     "py": {
       "currency": "USD",
@@ -4620,7 +4620,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:22.076Z"
+      "fetchedAt": "2026-10-19T09:11:42.355Z"
     },
     "qa": {
       "currency": "QAR",
@@ -4656,7 +4656,7 @@
           "amount": 1819.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:23.421Z"
+      "fetchedAt": "2026-10-19T09:11:43.640Z"
     },
     "ro": {
       "currency": "RON",
@@ -4692,7 +4692,7 @@
           "amount": 2599.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:25.333Z"
+      "fetchedAt": "2026-10-19T09:11:45.445Z"
     },
     "rs": {
       "currency": "EUR",
@@ -4728,7 +4728,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:26.805Z"
+      "fetchedAt": "2026-10-19T09:11:46.961Z"
     },
     "ru": {
       "available": false,
@@ -4768,7 +4768,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:29.450Z"
+      "fetchedAt": "2026-10-19T09:11:48.200Z"
     },
     "sa": {
       "currency": "SAR",
@@ -4804,7 +4804,7 @@
           "amount": 2149.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:30.975Z"
+      "fetchedAt": "2026-10-19T09:11:49.685Z"
     },
     "sb": {
       "currency": "USD",
@@ -4840,7 +4840,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:32.429Z"
+      "fetchedAt": "2026-10-19T09:11:51.461Z"
     },
     "sc": {
       "currency": "USD",
@@ -4876,7 +4876,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:33.851Z"
+      "fetchedAt": "2026-10-19T09:11:52.761Z"
     },
     "se": {
       "currency": "SEK",
@@ -4912,7 +4912,7 @@
           "amount": 5599
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:35.775Z"
+      "fetchedAt": "2026-10-19T09:11:54.511Z"
     },
     "sg": {
       "currency": "SGD",
@@ -4948,7 +4948,7 @@
           "amount": 689.98
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:37.002Z"
+      "fetchedAt": "2026-10-19T09:11:55.796Z"
     },
     "si": {
       "currency": "EUR",
@@ -4984,7 +4984,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:38.786Z"
+      "fetchedAt": "2026-10-19T09:11:57.484Z"
     },
     "sk": {
       "currency": "EUR",
@@ -5020,7 +5020,7 @@
           "amount": 509.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:40.274Z"
+      "fetchedAt": "2026-10-19T09:11:58.977Z"
     },
     "sl": {
       "currency": "USD",
@@ -5056,7 +5056,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:41.439Z"
+      "fetchedAt": "2026-10-19T09:12:00.221Z"
     },
     "sn": {
       "currency": "USD",
@@ -5092,7 +5092,7 @@
           "amount": 589.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:42.982Z"
+      "fetchedAt": "2026-10-19T09:12:01.701Z"
     },
     "sr": {
       "currency": "USD",
@@ -5128,7 +5128,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:44.399Z"
+      "fetchedAt": "2026-10-19T09:12:03.160Z"
     },
     "st": {
       "currency": "USD",
@@ -5164,7 +5164,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:46.073Z"
+      "fetchedAt": "2026-10-19T09:12:04.725Z"
     },
     "sv": {
       "currency": "USD",
@@ -5200,7 +5200,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:47.591Z"
+      "fetchedAt": "2026-10-19T09:12:06.366Z"
     },
     "sz": {
       "currency": "USD",
@@ -5236,7 +5236,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:48.967Z"
+      "fetchedAt": "2026-10-19T09:12:07.631Z"
     },
     "tc": {
       "currency": "USD",
@@ -5272,7 +5272,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:50.441Z"
+      "fetchedAt": "2026-10-19T09:12:09.197Z"
     },
     "td": {
       "currency": "USD",
@@ -5308,7 +5308,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:51.957Z"
+      "fetchedAt": "2026-10-19T09:12:10.696Z"
     },
     "th": {
       "currency": "THB",
@@ -5344,7 +5344,7 @@
           "amount": 16490
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:53.667Z"
+      "fetchedAt": "2026-10-19T09:12:12.301Z"
     },
     "tj": {
       "currency": "USD",
@@ -5380,7 +5380,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:55.278Z"
+      "fetchedAt": "2026-10-19T09:12:14.060Z"
     },
     "tm": {
       "currency": "USD",
@@ -5416,7 +5416,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:56.827Z"
+      "fetchedAt": "2026-10-19T09:12:15.530Z"
     },
     "tn": {
       "currency": "USD",
@@ -5452,7 +5452,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:58.015Z"
+      "fetchedAt": "2026-10-19T09:12:16.735Z"
     },
     "to": {
       "currency": "USD",
@@ -5488,7 +5488,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:03:59.631Z"
+      "fetchedAt": "2026-10-19T09:12:18.215Z"
     },
     "tr": {
       "currency": "TRY",
@@ -5524,7 +5524,7 @@
           "amount": 26499
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:00.914Z"
+      "fetchedAt": "2026-10-19T09:12:19.735Z"
     },
     "tt": {
       "currency": "USD",
@@ -5560,7 +5560,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:02.690Z"
+      "fetchedAt": "2026-10-19T09:12:21.348Z"
     },
     "tw": {
       "currency": "TWD",
@@ -5596,7 +5596,7 @@
           "amount": 16500
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:03.954Z"
+      "fetchedAt": "2026-10-19T09:12:22.695Z"
     },
     "tz": {
       "currency": "TZS",
@@ -5632,7 +5632,7 @@
           "amount": 1500000
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:05.446Z"
+      "fetchedAt": "2026-10-19T09:12:24.174Z"
     },
     "ua": {
       "currency": "USD",
@@ -5668,7 +5668,7 @@
           "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:07.371Z"
+      "fetchedAt": "2026-10-19T09:12:26.066Z"
     },
     "ug": {
       "currency": "USD",
@@ -5704,7 +5704,7 @@
           "amount": 589.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:08.527Z"
+      "fetchedAt": "2026-10-19T09:12:27.196Z"
     },
     "us": {
       "currency": "USD",
@@ -5755,7 +5755,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:15.380Z"
+      "fetchedAt": "2026-10-19T09:12:28.663Z"
     },
     "uy": {
       "currency": "USD",
@@ -5791,7 +5791,7 @@
           "amount": 609.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:11.681Z"
+      "fetchedAt": "2026-10-19T09:12:30.318Z"
     },
     "uz": {
       "currency": "USD",
@@ -5827,7 +5827,7 @@
           "amount": 559.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:13.233Z"
+      "fetchedAt": "2026-10-19T09:12:32.139Z"
     },
     "vc": {
       "currency": "USD",
@@ -5863,7 +5863,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:14.580Z"
+      "fetchedAt": "2026-10-19T09:12:33.235Z"
     },
     "ve": {
       "available": false,
@@ -5903,7 +5903,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:17.426Z"
+      "fetchedAt": "2026-10-19T09:12:34.845Z"
     },
     "vn": {
       "currency": "VND",
@@ -5939,7 +5939,7 @@
           "amount": 14199000
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:19.057Z"
+      "fetchedAt": "2026-10-19T09:12:36.274Z"
     },
     "vu": {
       "currency": "USD",
@@ -5975,7 +5975,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:20.645Z"
+      "fetchedAt": "2026-10-19T09:12:37.852Z"
     },
     "xk": {
       "currency": "EUR",
@@ -6011,7 +6011,7 @@
           "amount": 424.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:22.477Z"
+      "fetchedAt": "2026-10-19T09:12:39.487Z"
     },
     "ye": {
       "currency": "USD",
@@ -6047,7 +6047,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:23.466Z"
+      "fetchedAt": "2026-10-19T09:12:40.727Z"
     },
     "za": {
       "currency": "ZAR",
@@ -6083,7 +6083,7 @@
           "amount": 9199
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:25.060Z"
+      "fetchedAt": "2026-10-19T09:12:42.193Z"
     },
     "zm": {
       "currency": "USD",
@@ -6119,7 +6119,7 @@
           "amount": 579.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:26.635Z"
+      "fetchedAt": "2026-10-19T09:12:43.706Z"
     },
     "zw": {
       "currency": "USD",
@@ -6155,7 +6155,7 @@
           "amount": 569.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:04:27.938Z"
+      "fetchedAt": "2026-10-19T09:12:45.190Z"
     }
   }
 }

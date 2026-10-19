@@ -2,7 +2,7 @@
   "id": "6740024098",
   "name": "Pollo AI: AI Video & Image",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:27:46.871Z",
+  "fetchedAt": "2026-10-19T10:00:09.482Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -58,7 +58,7 @@
           "amount": 599.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:38.323Z"
+      "fetchedAt": "2026-10-19T09:55:49.859Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:39.859Z"
+      "fetchedAt": "2026-10-19T09:55:51.432Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:41.458Z"
+      "fetchedAt": "2026-10-19T09:55:52.934Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:42.932Z"
+      "fetchedAt": "2026-10-19T09:55:54.407Z"
     },
     "al": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:44.342Z"
+      "fetchedAt": "2026-10-19T09:55:55.866Z"
     },
     "am": {
       "currency": "USD",
@@ -338,7 +338,7 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:45.867Z"
+      "fetchedAt": "2026-10-19T09:55:57.376Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:47.392Z"
+      "fetchedAt": "2026-10-19T09:55:58.972Z"
     },
     "ar": {
       "currency": "USD",
@@ -403,6 +403,11 @@
           "name": "Pollo Semanal Premium",
           "price": "USD 5.99",
           "amount": 5.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "USD 15.00",
+          "amount": 15
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -418,11 +423,6 @@
           "name": "100 créditos Pollo",
           "price": "USD 6.99",
           "amount": 6.99
-        },
-        {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "USD 15.00",
-          "amount": 15
         },
         {
           "name": "Monthly Subscription Lite",
@@ -450,7 +450,7 @@
           "amount": 35.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:48.847Z"
+      "fetchedAt": "2026-10-19T09:56:00.337Z"
     },
     "at": {
       "currency": "EUR",
@@ -506,7 +506,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:50.351Z"
+      "fetchedAt": "2026-10-19T09:56:01.914Z"
     },
     "au": {
       "currency": "AUD",
@@ -522,14 +522,14 @@
           "amount": 99.99
         },
         {
-          "name": "300 Pollo Credits",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "100 Pollo credits",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "300 Pollo Credits",
+          "price": "$29.99",
+          "amount": 29.99
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -547,35 +547,35 @@
           "amount": 59.99
         },
         {
-          "name": "10000 Pollo Credits",
-          "price": "$499.99",
-          "amount": 499.99
-        },
-        {
           "name": "Pollo Annual Premium",
           "price": "$149.99",
           "amount": 149.99
         },
         {
-          "name": "5000 Pollo Credits",
-          "price": "$249.99",
-          "amount": 249.99
+          "name": "10000 Pollo Credits",
+          "price": "$499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Pollo Weekly Premium",
+          "price": "$9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:51.841Z"
+      "fetchedAt": "2026-10-19T09:56:03.361Z"
     },
     "az": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "USD 6.99",
           "amount": 6.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "300 Pollo Credits",
@@ -618,7 +618,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:53.387Z"
+      "fetchedAt": "2026-10-19T09:56:04.938Z"
     },
     "ba": {
       "currency": "EUR",
@@ -674,63 +674,63 @@
           "amount": 17
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:54.768Z"
+      "fetchedAt": "2026-10-19T09:56:06.373Z"
     },
     "bb": {
       "currency": "USD",
       "items": [
         {
-          "name": "20000 Pollo Credits",
-          "price": "USD 599.99",
-          "amount": 599.99
+          "name": "Monthly Subscription Lite",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
-          "name": "10000 Pollo Credits",
-          "price": "USD 349.99",
-          "amount": 349.99
+          "name": "Annual Subscription Lite",
+          "price": "USD 179.99",
+          "amount": 179.99
         },
         {
-          "name": "5000 Pollo Credits",
-          "price": "USD 199.99",
-          "amount": 199.99
+          "name": "Annual Subscription Pro",
+          "price": "USD 399.99",
+          "amount": 399.99
         },
         {
-          "name": "Pollo Ultra - Annual Plan",
-          "price": "USD 999.00",
-          "amount": 999
+          "name": "Monthly Subscription Pro",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "USD 99.00",
-          "amount": 99
+          "name": "100 Pollo credits",
+          "price": "USD 7.99",
+          "amount": 7.99
         },
         {
-          "name": "Pollo Pro - Annual Plan",
-          "price": "USD 199.99",
-          "amount": 199.99
+          "name": "800 Pollo Credits",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "USD 35.00",
-          "amount": 35
+          "name": "300 Pollo Credits",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
-          "name": "Pollo Lite - Annual Plan",
-          "price": "USD 149.99",
-          "amount": 149.99
+          "name": "2000 Pollo Credits",
+          "price": "USD 89.99",
+          "amount": 89.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "USD 19.00",
-          "amount": 19
+          "name": "Pollo Weekly Premium",
+          "price": "USD 6.99",
+          "amount": 6.99
         },
         {
           "name": "Pollo Annual Premium",
-          "price": "USD 999.99",
-          "amount": 999.99
+          "price": "USD 119.99",
+          "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:56.386Z"
+      "fetchedAt": "2026-10-19T09:56:07.841Z"
     },
     "be": {
       "currency": "EUR",
@@ -786,7 +786,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:57.842Z"
+      "fetchedAt": "2026-10-19T09:56:09.409Z"
     },
     "bf": {
       "currency": "USD",
@@ -842,7 +842,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:59.338Z"
+      "fetchedAt": "2026-10-19T09:56:10.869Z"
     },
     "bg": {
       "currency": "EUR",
@@ -898,7 +898,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:00.830Z"
+      "fetchedAt": "2026-10-19T09:56:12.459Z"
     },
     "bh": {
       "currency": "USD",
@@ -914,14 +914,14 @@
           "amount": 29
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "$17.00",
-          "amount": 17
-        },
-        {
           "name": "300 Pollo Credits",
           "price": "$19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$17.00",
+          "amount": 17
         },
         {
           "name": "100 Pollo credits",
@@ -954,7 +954,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:02.355Z"
+      "fetchedAt": "2026-10-19T09:56:13.865Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:03.875Z"
+      "fetchedAt": "2026-10-19T09:56:15.371Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,7 +1066,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:05.308Z"
+      "fetchedAt": "2026-10-19T09:56:16.950Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:06.837Z"
+      "fetchedAt": "2026-10-19T09:56:18.372Z"
     },
     "bo": {
       "currency": "USD",
@@ -1178,7 +1178,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:08.348Z"
+      "fetchedAt": "2026-10-19T09:56:20.031Z"
     },
     "br": {
       "currency": "BRL",
@@ -1229,12 +1229,12 @@
           "amount": 599.9
         },
         {
-          "name": "Pollo Pro - Annual Plan",
-          "price": "R$ 999,90",
-          "amount": 999.9
+          "name": "Pollo Weekly Premium",
+          "price": "R$ 39,90",
+          "amount": 39.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:09.878Z"
+      "fetchedAt": "2026-10-19T09:56:21.415Z"
     },
     "bs": {
       "currency": "USD",
@@ -1290,7 +1290,7 @@
           "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:11.349Z"
+      "fetchedAt": "2026-10-19T09:56:22.922Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:12.903Z"
+      "fetchedAt": "2026-10-19T09:56:24.405Z"
     },
     "bw": {
       "currency": "USD",
@@ -1402,7 +1402,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:14.391Z"
+      "fetchedAt": "2026-10-19T09:56:25.864Z"
     },
     "by": {
       "currency": "USD",
@@ -1458,7 +1458,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:15.978Z"
+      "fetchedAt": "2026-10-19T09:56:27.405Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,7 +1514,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:17.393Z"
+      "fetchedAt": "2026-10-19T09:56:28.856Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1525,24 +1525,24 @@
           "amount": 7.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "$19.00",
-          "amount": 19
-        },
-        {
           "name": "300 Pollo Credits",
           "price": "$24.99",
           "amount": 24.99
         },
         {
-          "name": "2000 Pollo Credits",
-          "price": "$99.99",
-          "amount": 99.99
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$19.00",
+          "amount": 19
         },
         {
           "name": "Pollo Pro - Monthly Plan",
           "price": "$39.00",
           "amount": 39
+        },
+        {
+          "name": "2000 Pollo Credits",
+          "price": "$99.99",
+          "amount": 99.99
         },
         {
           "name": "100 Pollo credits",
@@ -1570,7 +1570,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:18.913Z"
+      "fetchedAt": "2026-10-19T09:56:30.493Z"
     },
     "cd": {
       "currency": "USD",
@@ -1626,7 +1626,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:20.321Z"
+      "fetchedAt": "2026-10-19T09:56:31.932Z"
     },
     "cg": {
       "currency": "USD",
@@ -1682,7 +1682,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:21.839Z"
+      "fetchedAt": "2026-10-19T09:56:33.401Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1728,17 +1728,17 @@
           "amount": 140
         },
         {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "CHF 80.00",
-          "amount": 80
-        },
-        {
           "name": "Pollo Jährliches Premium",
           "price": "CHF 100.00",
           "amount": 100
+        },
+        {
+          "name": "Pollo Ultra - Monthly Plan",
+          "price": "CHF 80.00",
+          "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:23.344Z"
+      "fetchedAt": "2026-10-19T09:56:34.878Z"
     },
     "ci": {
       "currency": "USD",
@@ -1794,7 +1794,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:24.852Z"
+      "fetchedAt": "2026-10-19T09:56:36.444Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1810,19 +1810,14 @@
           "amount": 19990
         },
         {
-          "name": "100 créditos Pollo",
-          "price": "$7.990",
-          "amount": 7990
-        },
-        {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "$17.990",
-          "amount": 17990
-        },
-        {
           "name": "800 créditos Pollo",
           "price": "$39.990",
           "amount": 39990
+        },
+        {
+          "name": "100 créditos Pollo",
+          "price": "$7.990",
+          "amount": 7990
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -1830,9 +1825,9 @@
           "amount": 29990
         },
         {
-          "name": "Pollo Premium Anual",
-          "price": "$99.990",
-          "amount": 99990
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$17.990",
+          "amount": 17990
         },
         {
           "name": "2000 créditos Pollo",
@@ -1845,12 +1840,17 @@
           "amount": 19990
         },
         {
+          "name": "Pollo Premium Anual",
+          "price": "$99.990",
+          "amount": 99990
+        },
+        {
           "name": "Monthly Subscription Pro",
           "price": "$39.990",
           "amount": 39990
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:26.416Z"
+      "fetchedAt": "2026-10-19T09:56:37.952Z"
     },
     "cm": {
       "currency": "USD",
@@ -1906,7 +1906,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:27.969Z"
+      "fetchedAt": "2026-10-19T09:56:39.414Z"
     },
     "cn": {
       "available": false,
@@ -1966,18 +1966,18 @@
           "amount": 2299900
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:30.864Z"
+      "fetchedAt": "2026-10-19T09:56:40.939Z"
     },
     "cr": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pollo Weekly Premium",
+          "name": "Pollo Semanal Premium",
           "price": "USD 5.99",
           "amount": 5.99
         },
         {
-          "name": "Pollo Semanal Premium",
+          "name": "Pollo Weekly Premium",
           "price": "USD 5.99",
           "amount": 5.99
         },
@@ -2022,7 +2022,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:32.382Z"
+      "fetchedAt": "2026-10-19T09:56:42.390Z"
     },
     "cv": {
       "currency": "USD",
@@ -2078,20 +2078,20 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:33.909Z"
+      "fetchedAt": "2026-10-19T09:56:43.888Z"
     },
     "cy": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "6,99 €",
           "amount": 6.99
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "Pollo Lite - Monthly Plan",
@@ -2134,7 +2134,7 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:35.446Z"
+      "fetchedAt": "2026-10-19T09:56:45.352Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2190,7 +2190,7 @@
           "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:36.883Z"
+      "fetchedAt": "2026-10-19T09:56:46.869Z"
     },
     "de": {
       "currency": "EUR",
@@ -2246,7 +2246,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:38.420Z"
+      "fetchedAt": "2026-10-19T09:56:48.486Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2302,7 +2302,7 @@
           "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:40.002Z"
+      "fetchedAt": "2026-10-19T09:56:49.926Z"
     },
     "dm": {
       "currency": "USD",
@@ -2358,11 +2358,16 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:41.366Z"
+      "fetchedAt": "2026-10-19T09:56:51.660Z"
     },
     "do": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "USD 15.00",
+          "amount": 15
+        },
         {
           "name": "Pollo Semanal Premium",
           "price": "USD 5.99",
@@ -2374,19 +2379,14 @@
           "amount": 29
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "USD 15.00",
-          "amount": 15
+          "name": "300 créditos Pollo",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": "800 créditos Pollo",
           "price": "USD 35.99",
           "amount": 35.99
-        },
-        {
-          "name": "300 créditos Pollo",
-          "price": "USD 17.99",
-          "amount": 17.99
         },
         {
           "name": "100 créditos Pollo",
@@ -2414,7 +2414,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:43.034Z"
+      "fetchedAt": "2026-10-19T09:56:52.916Z"
     },
     "dz": {
       "currency": "USD",
@@ -2470,7 +2470,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:44.358Z"
+      "fetchedAt": "2026-10-19T09:56:54.363Z"
     },
     "ec": {
       "currency": "USD",
@@ -2526,7 +2526,7 @@
           "amount": 829
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:45.880Z"
+      "fetchedAt": "2026-10-19T09:56:55.861Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2582,7 +2582,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:47.398Z"
+      "fetchedAt": "2026-10-19T09:56:57.395Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2598,14 +2598,14 @@
           "amount": 1999.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "EGP 799.99",
-          "amount": 799.99
-        },
-        {
           "name": "300 Pollo Credits",
           "price": "EGP 999.99",
           "amount": 999.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "EGP 799.99",
+          "amount": 799.99
         },
         {
           "name": "2000 Pollo Credits",
@@ -2638,7 +2638,7 @@
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:48.866Z"
+      "fetchedAt": "2026-10-19T09:56:58.883Z"
     },
     "es": {
       "currency": "EUR",
@@ -2659,14 +2659,14 @@
           "amount": 19.99
         },
         {
-          "name": "100 créditos Pollo",
-          "price": "7,99 €",
-          "amount": 7.99
-        },
-        {
           "name": "Pollo Pro - Monthly Plan",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "100 créditos Pollo",
+          "price": "7,99 €",
+          "amount": 7.99
         },
         {
           "name": "2000 créditos Pollo",
@@ -2694,7 +2694,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:50.495Z"
+      "fetchedAt": "2026-10-19T09:57:00.496Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2705,14 +2705,14 @@
           "amount": 6.99
         },
         {
-          "name": "300 Pollo Credits",
-          "price": "19,99 €",
-          "amount": 19.99
-        },
-        {
           "name": "2000 Pollo Credits",
           "price": "79,99 €",
           "amount": 79.99
+        },
+        {
+          "name": "300 Pollo Credits",
+          "price": "19,99 €",
+          "amount": 19.99
         },
         {
           "name": "100 Pollo credits",
@@ -2750,7 +2750,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:51.825Z"
+      "fetchedAt": "2026-10-19T09:57:01.904Z"
     },
     "fj": {
       "currency": "USD",
@@ -2806,7 +2806,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:53.378Z"
+      "fetchedAt": "2026-10-19T09:57:03.496Z"
     },
     "fm": {
       "currency": "USD",
@@ -2862,7 +2862,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:54.883Z"
+      "fetchedAt": "2026-10-19T09:57:04.904Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2893,14 +2893,14 @@
           "amount": 79.99
         },
         {
-          "name": "100 crédits Pollo",
-          "price": "7,99 €",
-          "amount": 7.99
-        },
-        {
           "name": "800 crédits Pollo",
           "price": "39,99 €",
           "amount": 39.99
+        },
+        {
+          "name": "100 crédits Pollo",
+          "price": "7,99 €",
+          "amount": 7.99
         },
         {
           "name": "Pollo Ultra - Monthly Plan",
@@ -2918,7 +2918,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:56.450Z"
+      "fetchedAt": "2026-10-19T09:57:06.451Z"
     },
     "ga": {
       "currency": "USD",
@@ -2974,7 +2974,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:58.061Z"
+      "fetchedAt": "2026-10-19T09:57:08.006Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3000,14 +3000,14 @@
           "amount": 34.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "£15.00",
-          "amount": 15
-        },
-        {
           "name": "2000 Pollo Credits",
           "price": "£69.99",
           "amount": 69.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "£15.00",
+          "amount": 15
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -3015,22 +3015,22 @@
           "amount": 29
         },
         {
-          "name": "5000 Pollo Credits",
-          "price": "£149.99",
-          "amount": 149.99
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "£5.99",
           "amount": 5.99
         },
         {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "£89.00",
-          "amount": 89
+          "name": "5000 Pollo Credits",
+          "price": "£149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Pollo Annual Premium",
+          "price": "£99.99",
+          "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:53:59.442Z"
+      "fetchedAt": "2026-10-19T09:57:09.433Z"
     },
     "gd": {
       "currency": "USD",
@@ -3086,7 +3086,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:00.878Z"
+      "fetchedAt": "2026-10-19T09:57:10.903Z"
     },
     "ge": {
       "currency": "USD",
@@ -3142,7 +3142,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:02.395Z"
+      "fetchedAt": "2026-10-19T09:57:12.475Z"
     },
     "gh": {
       "currency": "USD",
@@ -3198,7 +3198,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:03.835Z"
+      "fetchedAt": "2026-10-19T09:57:13.946Z"
     },
     "gm": {
       "currency": "USD",
@@ -3254,7 +3254,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:05.397Z"
+      "fetchedAt": "2026-10-19T09:57:15.396Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3310,7 +3310,7 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:06.879Z"
+      "fetchedAt": "2026-10-19T09:57:16.927Z"
     },
     "gt": {
       "currency": "USD",
@@ -3326,14 +3326,14 @@
           "amount": 5.99
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "300 créditos Pollo",
           "price": "USD 17.99",
           "amount": 17.99
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "800 créditos Pollo",
@@ -3366,7 +3366,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:08.393Z"
+      "fetchedAt": "2026-10-19T09:57:18.412Z"
     },
     "gw": {
       "currency": "USD",
@@ -3422,7 +3422,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:10.033Z"
+      "fetchedAt": "2026-10-19T09:57:19.939Z"
     },
     "gy": {
       "currency": "USD",
@@ -3478,7 +3478,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:11.405Z"
+      "fetchedAt": "2026-10-19T09:57:21.515Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3489,14 +3489,14 @@
           "amount": 48
         },
         {
-          "name": "2000 Pollo 積分",
-          "price": "HK$ 588.00",
-          "amount": 588
-        },
-        {
           "name": "300 Pollo 積分",
           "price": "HK$ 148.00",
           "amount": 148
+        },
+        {
+          "name": "2000 Pollo 積分",
+          "price": "HK$ 588.00",
+          "amount": 588
         },
         {
           "name": "800 Pollo 積分",
@@ -3509,14 +3509,14 @@
           "amount": 118
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "HK$ 228.00",
-          "amount": 228
-        },
-        {
           "name": "100 Pollo 積分",
           "price": "HK$ 58.00",
           "amount": 58
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "HK$ 228.00",
+          "amount": 228
         },
         {
           "name": "Pollo Pro - Annual Plan",
@@ -3534,7 +3534,7 @@
           "amount": 788
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:12.835Z"
+      "fetchedAt": "2026-10-19T09:57:22.880Z"
     },
     "hn": {
       "currency": "USD",
@@ -3590,7 +3590,7 @@
           "amount": 829
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:14.425Z"
+      "fetchedAt": "2026-10-19T09:57:24.343Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3646,7 +3646,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:15.846Z"
+      "fetchedAt": "2026-10-19T09:57:25.907Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3657,14 +3657,14 @@
           "amount": 2490
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "HUF12,990.00",
-          "amount": 12990
-        },
-        {
           "name": "100 Pollo credits",
           "price": "HUF2,990.00",
           "amount": 2990
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "HUF12,990.00",
+          "amount": 12990
         },
         {
           "name": "Pollo Weekly Premium",
@@ -3702,7 +3702,7 @@
           "amount": 399990
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:17.414Z"
+      "fetchedAt": "2026-10-19T09:57:27.472Z"
     },
     "id": {
       "currency": "IDR",
@@ -3758,7 +3758,7 @@
           "amount": 1699
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:18.899Z"
+      "fetchedAt": "2026-10-19T09:57:28.890Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3814,7 +3814,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:20.493Z"
+      "fetchedAt": "2026-10-19T09:57:30.418Z"
     },
     "il": {
       "currency": "ILS",
@@ -3855,22 +3855,22 @@
           "amount": 19.9
         },
         {
-          "name": "Monthly Subscription Lite",
-          "price": "₪59.90",
-          "amount": 59.9
-        },
-        {
           "name": "Pollo Ultra - Monthly Plan",
           "price": "₪299.90",
           "amount": 299.9
         },
         {
-          "name": "Pollo Annual Premium",
-          "price": "₪349.90",
-          "amount": 349.9
+          "name": "5000 Pollo Credits",
+          "price": "₪499.90",
+          "amount": 499.9
+        },
+        {
+          "name": "Monthly Subscription Lite",
+          "price": "₪59.90",
+          "amount": 59.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:21.880Z"
+      "fetchedAt": "2026-10-19T09:57:31.911Z"
     },
     "in": {
       "currency": "INR",
@@ -3896,14 +3896,14 @@
           "amount": 2999
         },
         {
-          "name": "2000 Pollo Credits",
-          "price": "₹ 6,900",
-          "amount": 6900
-        },
-        {
           "name": "100 Pollo credits",
           "price": "₹ 699",
           "amount": 699
+        },
+        {
+          "name": "2000 Pollo Credits",
+          "price": "₹ 6,900",
+          "amount": 6900
         },
         {
           "name": "800 Pollo Credits",
@@ -3911,14 +3911,14 @@
           "amount": 3999
         },
         {
-          "name": "Pollo Pro - Annual Plan",
-          "price": "₹ 17,900",
-          "amount": 17900
-        },
-        {
           "name": "Monthly Subscription Lite",
           "price": "₹ 1,999",
           "amount": 1999
+        },
+        {
+          "name": "Pollo Pro - Annual Plan",
+          "price": "₹ 17,900",
+          "amount": 17900
         },
         {
           "name": "Pollo Annual Premium",
@@ -3926,7 +3926,7 @@
           "amount": 9900
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:23.336Z"
+      "fetchedAt": "2026-10-19T09:57:33.420Z"
     },
     "iq": {
       "currency": "USD",
@@ -3937,14 +3937,14 @@
           "amount": 29
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "$15.00",
-          "amount": 15
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "$5.99",
           "amount": 5.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$15.00",
+          "amount": 15
         },
         {
           "name": "300 Pollo Credits",
@@ -3982,7 +3982,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:24.916Z"
+      "fetchedAt": "2026-10-19T09:57:34.926Z"
     },
     "is": {
       "currency": "USD",
@@ -4038,7 +4038,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:26.346Z"
+      "fetchedAt": "2026-10-19T09:57:36.707Z"
     },
     "it": {
       "currency": "EUR",
@@ -4094,7 +4094,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:27.880Z"
+      "fetchedAt": "2026-10-19T09:57:37.919Z"
     },
     "jm": {
       "currency": "USD",
@@ -4150,7 +4150,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:29.510Z"
+      "fetchedAt": "2026-10-19T09:57:39.398Z"
     },
     "jo": {
       "currency": "USD",
@@ -4176,6 +4176,11 @@
           "amount": 17.99
         },
         {
+          "name": "Pollo Ultra - Monthly Plan",
+          "price": "$89.00",
+          "amount": 89
+        },
+        {
           "name": "100 Pollo credits",
           "price": "$6.99",
           "amount": 6.99
@@ -4199,14 +4204,9 @@
           "name": "20000 Pollo Credits",
           "price": "$479.99",
           "amount": 479.99
-        },
-        {
-          "name": "10000 Pollo Credits",
-          "price": "$299.99",
-          "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:30.827Z"
+      "fetchedAt": "2026-10-19T09:57:40.914Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4252,17 +4252,17 @@
           "amount": 25000
         },
         {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "¥14,000",
-          "amount": 14000
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "¥1,000",
           "amount": 1000
+        },
+        {
+          "name": "Pollo Ultra - Monthly Plan",
+          "price": "¥14,000",
+          "amount": 14000
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:32.374Z"
+      "fetchedAt": "2026-10-19T09:57:42.702Z"
     },
     "ke": {
       "currency": "USD",
@@ -4318,7 +4318,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:33.878Z"
+      "fetchedAt": "2026-10-19T09:57:43.882Z"
     },
     "kg": {
       "currency": "USD",
@@ -4374,7 +4374,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:35.295Z"
+      "fetchedAt": "2026-10-19T09:57:45.307Z"
     },
     "kh": {
       "currency": "USD",
@@ -4430,7 +4430,7 @@
           "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:36.918Z"
+      "fetchedAt": "2026-10-19T09:57:46.926Z"
     },
     "kn": {
       "currency": "USD",
@@ -4486,7 +4486,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:38.309Z"
+      "fetchedAt": "2026-10-19T09:57:48.403Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4537,12 +4537,12 @@
           "amount": 25000
         },
         {
-          "name": "20000 Pollo Credits",
-          "price": "￦799,000",
-          "amount": 799000
+          "name": "5000 Pollo Credits",
+          "price": "￦249,000",
+          "amount": 249000
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:39.944Z"
+      "fetchedAt": "2026-10-19T09:57:49.947Z"
     },
     "kw": {
       "currency": "USD",
@@ -4563,14 +4563,14 @@
           "amount": 29
         },
         {
-          "name": "2000 Pollo Credits",
-          "price": "$71.99",
-          "amount": 71.99
-        },
-        {
           "name": "800 Pollo Credits",
           "price": "$35.99",
           "amount": 35.99
+        },
+        {
+          "name": "2000 Pollo Credits",
+          "price": "$71.99",
+          "amount": 71.99
         },
         {
           "name": "Pollo Lite - Monthly Plan",
@@ -4588,17 +4588,17 @@
           "amount": 5.99
         },
         {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "$89.00",
-          "amount": 89
-        },
-        {
           "name": "Monthly Subscription Lite",
           "price": "$17.99",
           "amount": 17.99
+        },
+        {
+          "name": "Pollo Ultra - Monthly Plan",
+          "price": "$89.00",
+          "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:41.488Z"
+      "fetchedAt": "2026-10-19T09:57:51.440Z"
     },
     "ky": {
       "currency": "USD",
@@ -4654,7 +4654,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:42.834Z"
+      "fetchedAt": "2026-10-19T09:57:52.945Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4665,14 +4665,14 @@
           "amount": 2990
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "17,990.00₸",
-          "amount": 17990
-        },
-        {
           "name": "Pollo Lite - Monthly Plan",
           "price": "8,990.00₸",
           "amount": 8990
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "17,990.00₸",
+          "amount": 17990
         },
         {
           "name": "100 Pollo credits",
@@ -4710,7 +4710,7 @@
           "amount": 17990
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:44.442Z"
+      "fetchedAt": "2026-10-19T09:57:54.401Z"
     },
     "la": {
       "currency": "USD",
@@ -4766,7 +4766,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:45.881Z"
+      "fetchedAt": "2026-10-19T09:57:55.879Z"
     },
     "lb": {
       "currency": "USD",
@@ -4822,7 +4822,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:47.515Z"
+      "fetchedAt": "2026-10-19T09:57:57.413Z"
     },
     "lc": {
       "currency": "USD",
@@ -4878,7 +4878,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:48.836Z"
+      "fetchedAt": "2026-10-19T09:57:58.937Z"
     },
     "lk": {
       "currency": "USD",
@@ -4894,14 +4894,14 @@
           "amount": 17.99
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "100 Pollo credits",
           "price": "USD 6.99",
           "amount": 6.99
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "20000 Pollo Credits",
@@ -4934,7 +4934,7 @@
           "amount": 173.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:50.530Z"
+      "fetchedAt": "2026-10-19T09:58:00.527Z"
     },
     "lr": {
       "currency": "USD",
@@ -4990,7 +4990,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:51.901Z"
+      "fetchedAt": "2026-10-19T09:58:01.920Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5046,20 +5046,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:53.422Z"
+      "fetchedAt": "2026-10-19T09:58:03.423Z"
     },
     "lu": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "17,00 €",
-          "amount": 17
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "6,99 €",
           "amount": 6.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "17,00 €",
+          "amount": 17
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -5102,7 +5102,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:54.827Z"
+      "fetchedAt": "2026-10-19T09:58:04.926Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5158,7 +5158,7 @@
           "amount": 17
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:56.395Z"
+      "fetchedAt": "2026-10-19T09:58:06.389Z"
     },
     "ly": {
       "currency": "USD",
@@ -5214,7 +5214,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:57.900Z"
+      "fetchedAt": "2026-10-19T09:58:07.994Z"
     },
     "ma": {
       "currency": "USD",
@@ -5270,7 +5270,7 @@
           "amount": 829
         }
       ],
-      "fetchedAt": "2026-10-18T15:54:59.391Z"
+      "fetchedAt": "2026-10-19T09:58:09.473Z"
     },
     "md": {
       "currency": "USD",
@@ -5326,7 +5326,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:00.838Z"
+      "fetchedAt": "2026-10-19T09:58:10.956Z"
     },
     "me": {
       "currency": "EUR",
@@ -5382,7 +5382,7 @@
           "amount": 14
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:02.402Z"
+      "fetchedAt": "2026-10-19T09:58:12.439Z"
     },
     "mg": {
       "currency": "USD",
@@ -5438,7 +5438,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:03.925Z"
+      "fetchedAt": "2026-10-19T09:58:13.979Z"
     },
     "mk": {
       "currency": "USD",
@@ -5494,7 +5494,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:05.406Z"
+      "fetchedAt": "2026-10-19T09:58:15.581Z"
     },
     "ml": {
       "currency": "USD",
@@ -5550,7 +5550,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:06.886Z"
+      "fetchedAt": "2026-10-19T09:58:16.943Z"
     },
     "mm": {
       "currency": "USD",
@@ -5606,7 +5606,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:08.426Z"
+      "fetchedAt": "2026-10-19T09:58:18.407Z"
     },
     "mn": {
       "currency": "USD",
@@ -5662,7 +5662,7 @@
           "amount": 829
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:09.931Z"
+      "fetchedAt": "2026-10-19T09:58:19.951Z"
     },
     "mo": {
       "currency": "USD",
@@ -5718,7 +5718,7 @@
           "amount": 173.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:11.377Z"
+      "fetchedAt": "2026-10-19T09:58:21.440Z"
     },
     "mr": {
       "currency": "USD",
@@ -5774,7 +5774,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:12.919Z"
+      "fetchedAt": "2026-10-19T09:58:22.930Z"
     },
     "ms": {
       "currency": "USD",
@@ -5830,7 +5830,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:14.531Z"
+      "fetchedAt": "2026-10-19T09:58:24.423Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5886,7 +5886,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:15.971Z"
+      "fetchedAt": "2026-10-19T09:58:25.920Z"
     },
     "mu": {
       "currency": "USD",
@@ -5942,7 +5942,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:17.399Z"
+      "fetchedAt": "2026-10-19T09:58:27.498Z"
     },
     "mv": {
       "currency": "USD",
@@ -5998,7 +5998,7 @@
           "amount": 173.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:18.810Z"
+      "fetchedAt": "2026-10-19T09:58:28.907Z"
     },
     "mw": {
       "currency": "USD",
@@ -6054,40 +6054,15 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:20.416Z"
+      "fetchedAt": "2026-10-19T09:58:30.426Z"
     },
     "mx": {
       "currency": "MXN",
       "items": [
         {
-          "name": "Monthly Subscription Lite",
-          "price": "$399.00",
-          "amount": 399
-        },
-        {
-          "name": "Annual Subscription Lite",
-          "price": "$2,999.00",
-          "amount": 2999
-        },
-        {
-          "name": "Annual Subscription Pro",
-          "price": "$7,999.00",
-          "amount": 7999
-        },
-        {
-          "name": "Monthly Subscription Pro",
-          "price": "$799.00",
-          "amount": 799
-        },
-        {
-          "name": "100 créditos Pollo",
-          "price": "$149.00",
-          "amount": 149
-        },
-        {
-          "name": "800 créditos Pollo",
-          "price": "$799.00",
-          "amount": 799
+          "name": "Pollo Semanal Premium",
+          "price": "$129.00",
+          "amount": 129
         },
         {
           "name": "300 créditos Pollo",
@@ -6095,14 +6070,39 @@
           "amount": 399
         },
         {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$299.00",
+          "amount": 299
+        },
+        {
+          "name": "100 créditos Pollo",
+          "price": "$149.00",
+          "amount": 149
+        },
+        {
           "name": "2000 créditos Pollo",
           "price": "$1,499.00",
           "amount": 1499
         },
         {
-          "name": "Pollo Semanal Premium",
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "$599.00",
+          "amount": 599
+        },
+        {
+          "name": "800 créditos Pollo",
+          "price": "$799.00",
+          "amount": 799
+        },
+        {
+          "name": "Pollo Weekly Premium",
           "price": "$129.00",
           "amount": 129
+        },
+        {
+          "name": "Monthly Subscription Lite",
+          "price": "$399.00",
+          "amount": 399
         },
         {
           "name": "Pollo Premium Anual",
@@ -6110,7 +6110,7 @@
           "amount": 1999
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:21.959Z"
+      "fetchedAt": "2026-10-19T09:58:31.897Z"
     },
     "my": {
       "currency": "MYR",
@@ -6121,14 +6121,14 @@
           "amount": 29.9
         },
         {
-          "name": "300 Pollo Credits",
-          "price": "RM79.90",
-          "amount": 79.9
-        },
-        {
           "name": "100 Pollo credits",
           "price": "RM29.90",
           "amount": 29.9
+        },
+        {
+          "name": "300 Pollo Credits",
+          "price": "RM79.90",
+          "amount": 79.9
         },
         {
           "name": "Pollo Lite - Monthly Plan",
@@ -6166,7 +6166,7 @@
           "amount": 499.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:23.351Z"
+      "fetchedAt": "2026-10-19T09:58:33.499Z"
     },
     "mz": {
       "currency": "USD",
@@ -6222,7 +6222,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:25.568Z"
+      "fetchedAt": "2026-10-19T09:58:34.943Z"
     },
     "na": {
       "currency": "USD",
@@ -6278,7 +6278,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:26.690Z"
+      "fetchedAt": "2026-10-19T09:58:36.403Z"
     },
     "ne": {
       "currency": "USD",
@@ -6334,7 +6334,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:27.887Z"
+      "fetchedAt": "2026-10-19T09:58:38.048Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6345,19 +6345,14 @@
           "amount": 9900
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "₦ 24,900.00",
-          "amount": 24900
-        },
-        {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "₦ 49,900.00",
-          "amount": 49900
-        },
-        {
           "name": "100 Pollo credits",
           "price": "₦ 9,900.00",
           "amount": 9900
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "₦ 24,900.00",
+          "amount": 24900
         },
         {
           "name": "300 Pollo Credits",
@@ -6368,6 +6363,11 @@
           "name": "Monthly Subscription Lite",
           "price": "₦ 29,900.00",
           "amount": 29900
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "₦ 49,900.00",
+          "amount": 49900
         },
         {
           "name": "20000 Pollo Credits",
@@ -6390,7 +6390,7 @@
           "amount": 1299000
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:29.398Z"
+      "fetchedAt": "2026-10-19T09:58:39.436Z"
     },
     "ni": {
       "currency": "USD",
@@ -6446,7 +6446,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:30.884Z"
+      "fetchedAt": "2026-10-19T09:58:40.925Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6477,14 +6477,14 @@
           "amount": 17
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "€ 35,00",
-          "amount": 35
-        },
-        {
           "name": "2000 Pollo credits",
           "price": "€ 79,99",
           "amount": 79.99
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "€ 35,00",
+          "amount": 35
         },
         {
           "name": "Pollo Ultra - Monthly Plan",
@@ -6502,7 +6502,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:32.377Z"
+      "fetchedAt": "2026-10-19T09:58:42.440Z"
     },
     "no": {
       "currency": "NOK",
@@ -6523,14 +6523,14 @@
           "amount": 199
         },
         {
-          "name": "800 Pollo Credits",
-          "price": "499,00 kr",
-          "amount": 499
-        },
-        {
           "name": "100 Pollo credits",
           "price": "89,00 kr",
           "amount": 89
+        },
+        {
+          "name": "800 Pollo Credits",
+          "price": "499,00 kr",
+          "amount": 499
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -6538,14 +6538,14 @@
           "amount": 349
         },
         {
-          "name": "2000 Pollo Credits",
-          "price": "999,00 kr",
-          "amount": 999
-        },
-        {
           "name": "Pollo Weekly Premium",
           "price": "79,00 kr",
           "amount": 79
+        },
+        {
+          "name": "2000 Pollo Credits",
+          "price": "999,00 kr",
+          "amount": 999
         },
         {
           "name": "Monthly Subscription Lite",
@@ -6558,7 +6558,7 @@
           "amount": 1290
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:33.904Z"
+      "fetchedAt": "2026-10-19T09:58:43.976Z"
     },
     "np": {
       "currency": "USD",
@@ -6614,7 +6614,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:35.401Z"
+      "fetchedAt": "2026-10-19T09:58:45.478Z"
     },
     "nr": {
       "currency": "USD",
@@ -6670,7 +6670,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:36.876Z"
+      "fetchedAt": "2026-10-19T09:58:46.936Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6726,7 +6726,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:38.744Z"
+      "fetchedAt": "2026-10-19T09:58:48.468Z"
     },
     "om": {
       "currency": "USD",
@@ -6757,14 +6757,14 @@
           "amount": 35.99
         },
         {
-          "name": "2000 Pollo Credits",
-          "price": "$71.99",
-          "amount": 71.99
-        },
-        {
           "name": "100 Pollo credits",
           "price": "$6.99",
           "amount": 6.99
+        },
+        {
+          "name": "2000 Pollo Credits",
+          "price": "$71.99",
+          "amount": 71.99
         },
         {
           "name": "20000 Pollo Credits",
@@ -6782,7 +6782,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:39.911Z"
+      "fetchedAt": "2026-10-19T09:58:49.962Z"
     },
     "pa": {
       "currency": "USD",
@@ -6838,7 +6838,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:41.382Z"
+      "fetchedAt": "2026-10-19T09:58:51.881Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6847,6 +6847,11 @@
           "name": "Pollo Semanal Premium",
           "price": "S/ 24.90",
           "amount": 24.9
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "S/ 69.90",
+          "amount": 69.9
         },
         {
           "name": "100 créditos Pollo",
@@ -6862,11 +6867,6 @@
           "name": "300 créditos Pollo",
           "price": "S/ 79.90",
           "amount": 79.9
-        },
-        {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "S/ 69.90",
-          "amount": 69.9
         },
         {
           "name": "2000 créditos Pollo",
@@ -6894,7 +6894,7 @@
           "amount": 1299.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:42.868Z"
+      "fetchedAt": "2026-10-19T09:58:53.006Z"
     },
     "pg": {
       "currency": "USD",
@@ -6950,7 +6950,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:44.348Z"
+      "fetchedAt": "2026-10-19T09:58:54.440Z"
     },
     "ph": {
       "currency": "PHP",
@@ -7006,7 +7006,7 @@
           "amount": 1990
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:45.840Z"
+      "fetchedAt": "2026-10-19T09:58:55.912Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7062,7 +7062,7 @@
           "amount": 22900
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:47.432Z"
+      "fetchedAt": "2026-10-19T09:58:57.448Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7078,14 +7078,14 @@
           "amount": 79.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "69,99 zł",
-          "amount": 69.99
-        },
-        {
           "name": "100 Pollo credits",
           "price": "29,99 zł",
           "amount": 29.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "69,99 zł",
+          "amount": 69.99
         },
         {
           "name": "800 Pollo Credits",
@@ -7118,7 +7118,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:48.872Z"
+      "fetchedAt": "2026-10-19T09:58:58.948Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7174,7 +7174,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:50.397Z"
+      "fetchedAt": "2026-10-19T09:59:00.482Z"
     },
     "pw": {
       "currency": "USD",
@@ -7230,7 +7230,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:51.897Z"
+      "fetchedAt": "2026-10-19T09:59:01.933Z"
     },
     "py": {
       "currency": "USD",
@@ -7286,7 +7286,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:53.413Z"
+      "fetchedAt": "2026-10-19T09:59:03.595Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7317,14 +7317,14 @@
           "amount": 49.99
         },
         {
-          "name": "800 Pollo Credits",
-          "price": "QAR 129.99",
-          "amount": 129.99
-        },
-        {
           "name": "100 Pollo credits",
           "price": "QAR 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "800 Pollo Credits",
+          "price": "QAR 129.99",
+          "amount": 129.99
         },
         {
           "name": "Pollo Weekly Premium",
@@ -7342,7 +7342,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:54.886Z"
+      "fetchedAt": "2026-10-19T09:59:04.950Z"
     },
     "ro": {
       "currency": "RON",
@@ -7358,14 +7358,14 @@
           "amount": 99.99
         },
         {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "79,99 lei",
-          "amount": 79.99
-        },
-        {
           "name": "100 Pollo credits",
           "price": "39,99 lei",
           "amount": 39.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "79,99 lei",
+          "amount": 79.99
         },
         {
           "name": "Pollo Pro - Monthly Plan",
@@ -7398,7 +7398,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:56.371Z"
+      "fetchedAt": "2026-10-19T09:59:06.478Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7454,7 +7454,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:57.947Z"
+      "fetchedAt": "2026-10-19T09:59:08.005Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7470,14 +7470,14 @@
           "amount": 599
         },
         {
-          "name": "300 кредитов Pollo",
-          "price": "1 490,00 ₽",
-          "amount": 1490
-        },
-        {
           "name": "Pollo Lite - Monthly Plan",
           "price": "1 290,00 ₽",
           "amount": 1290
+        },
+        {
+          "name": "300 кредитов Pollo",
+          "price": "1 490,00 ₽",
+          "amount": 1490
         },
         {
           "name": "800 кредитов Pollo",
@@ -7490,14 +7490,14 @@
           "amount": 499
         },
         {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "2 490,00 ₽",
-          "amount": 2490
-        },
-        {
           "name": "2000 кредитов Pollo",
           "price": "5 990,00 ₽",
           "amount": 5990
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "2 490,00 ₽",
+          "amount": 2490
         },
         {
           "name": "Pollo Ежегодная Премиум",
@@ -7510,7 +7510,7 @@
           "amount": 1490
         }
       ],
-      "fetchedAt": "2026-10-18T15:55:59.437Z"
+      "fetchedAt": "2026-10-19T09:59:09.552Z"
     },
     "rw": {
       "currency": "USD",
@@ -7566,7 +7566,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:00.930Z"
+      "fetchedAt": "2026-10-19T09:59:10.997Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7607,6 +7607,11 @@
           "amount": 29.99
         },
         {
+          "name": "5000 Pollo Credits",
+          "price": "SAR 699.99",
+          "amount": 699.99
+        },
+        {
           "name": "Pollo Weekly Premium",
           "price": "SAR 24.99",
           "amount": 24.99
@@ -7615,14 +7620,9 @@
           "name": "Pollo Ultra - Monthly Plan",
           "price": "SAR 399.99",
           "amount": 399.99
-        },
-        {
-          "name": "5000 Pollo Credits",
-          "price": "SAR 699.99",
-          "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:02.367Z"
+      "fetchedAt": "2026-10-19T09:59:12.588Z"
     },
     "sb": {
       "currency": "USD",
@@ -7678,7 +7678,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:03.905Z"
+      "fetchedAt": "2026-10-19T09:59:13.969Z"
     },
     "sc": {
       "currency": "USD",
@@ -7734,7 +7734,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:05.385Z"
+      "fetchedAt": "2026-10-19T09:59:15.489Z"
     },
     "se": {
       "currency": "SEK",
@@ -7790,7 +7790,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:06.896Z"
+      "fetchedAt": "2026-10-19T09:59:16.986Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7846,7 +7846,7 @@
           "amount": 24.98
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:08.337Z"
+      "fetchedAt": "2026-10-19T09:59:18.514Z"
     },
     "si": {
       "currency": "EUR",
@@ -7902,7 +7902,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:09.849Z"
+      "fetchedAt": "2026-10-19T09:59:20.008Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7958,7 +7958,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:11.423Z"
+      "fetchedAt": "2026-10-19T09:59:21.485Z"
     },
     "sl": {
       "currency": "USD",
@@ -8014,7 +8014,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:12.890Z"
+      "fetchedAt": "2026-10-19T09:59:22.966Z"
     },
     "sn": {
       "currency": "USD",
@@ -8070,7 +8070,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:14.376Z"
+      "fetchedAt": "2026-10-19T09:59:24.515Z"
     },
     "sr": {
       "currency": "USD",
@@ -8126,7 +8126,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:15.893Z"
+      "fetchedAt": "2026-10-19T09:59:26.027Z"
     },
     "st": {
       "currency": "USD",
@@ -8182,7 +8182,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:17.438Z"
+      "fetchedAt": "2026-10-19T09:59:27.397Z"
     },
     "sv": {
       "currency": "USD",
@@ -8238,7 +8238,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:18.975Z"
+      "fetchedAt": "2026-10-19T09:59:28.985Z"
     },
     "sz": {
       "currency": "USD",
@@ -8294,7 +8294,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:20.518Z"
+      "fetchedAt": "2026-10-19T09:59:30.497Z"
     },
     "tc": {
       "currency": "USD",
@@ -8350,7 +8350,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:21.867Z"
+      "fetchedAt": "2026-10-19T09:59:31.965Z"
     },
     "td": {
       "currency": "USD",
@@ -8406,7 +8406,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:23.362Z"
+      "fetchedAt": "2026-10-19T09:59:33.459Z"
     },
     "th": {
       "currency": "THB",
@@ -8432,6 +8432,11 @@
           "amount": 499
         },
         {
+          "name": "100 Pollo credits",
+          "price": "฿249.00",
+          "amount": 249
+        },
+        {
           "name": "5000 Pollo Credits",
           "price": "฿5,990.00",
           "amount": 5990
@@ -8440,11 +8445,6 @@
           "name": "Pollo Pro - Monthly Plan",
           "price": "฿999.00",
           "amount": 999
-        },
-        {
-          "name": "100 Pollo credits",
-          "price": "฿249.00",
-          "amount": 249
         },
         {
           "name": "800 Pollo Credits",
@@ -8462,7 +8462,7 @@
           "amount": 699
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:24.963Z"
+      "fetchedAt": "2026-10-19T09:59:34.991Z"
     },
     "tj": {
       "currency": "USD",
@@ -8518,7 +8518,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:26.486Z"
+      "fetchedAt": "2026-10-19T09:59:36.579Z"
     },
     "tm": {
       "currency": "USD",
@@ -8574,7 +8574,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:27.900Z"
+      "fetchedAt": "2026-10-19T09:59:37.947Z"
     },
     "tn": {
       "currency": "USD",
@@ -8630,7 +8630,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:29.550Z"
+      "fetchedAt": "2026-10-19T09:59:39.773Z"
     },
     "to": {
       "currency": "USD",
@@ -8686,7 +8686,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:30.937Z"
+      "fetchedAt": "2026-10-19T09:59:40.951Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8712,14 +8712,14 @@
           "amount": 999.99
         },
         {
-          "name": "100 Pollo credits",
-          "price": "₺399,99",
-          "amount": 399.99
-        },
-        {
           "name": "800 Pollo Credits",
           "price": "₺1.999,99",
           "amount": 1999.99
+        },
+        {
+          "name": "100 Pollo credits",
+          "price": "₺399,99",
+          "amount": 399.99
         },
         {
           "name": "2000 Pollo Credits",
@@ -8742,7 +8742,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:32.538Z"
+      "fetchedAt": "2026-10-19T09:59:42.458Z"
     },
     "tt": {
       "currency": "USD",
@@ -8798,7 +8798,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:33.880Z"
+      "fetchedAt": "2026-10-19T09:59:43.973Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8854,7 +8854,7 @@
           "amount": 590
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:35.422Z"
+      "fetchedAt": "2026-10-19T09:59:45.441Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8910,11 +8910,41 @@
           "amount": 39900
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:36.859Z"
+      "fetchedAt": "2026-10-19T09:59:47.078Z"
     },
     "ua": {
       "currency": "USD",
       "items": [
+        {
+          "name": "300 Pollo Credits",
+          "price": "19,99 USD",
+          "amount": 19.99
+        },
+        {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "19,00 USD",
+          "amount": 19
+        },
+        {
+          "name": "Pollo Weekly Premium",
+          "price": "6,99 USD",
+          "amount": 6.99
+        },
+        {
+          "name": "100 Pollo credits",
+          "price": "7,99 USD",
+          "amount": 7.99
+        },
+        {
+          "name": "Pollo Pro - Monthly Plan",
+          "price": "35,00 USD",
+          "amount": 35
+        },
+        {
+          "name": "800 Pollo Credits",
+          "price": "39,99 USD",
+          "amount": 39.99
+        },
         {
           "name": "20000 Pollo Credits",
           "price": "599,99 USD",
@@ -8934,39 +8964,9 @@
           "name": "Pollo Ultra - Annual Plan",
           "price": "999,00 USD",
           "amount": 999
-        },
-        {
-          "name": "Pollo Ultra - Monthly Plan",
-          "price": "99,00 USD",
-          "amount": 99
-        },
-        {
-          "name": "Pollo Pro - Annual Plan",
-          "price": "199,99 USD",
-          "amount": 199.99
-        },
-        {
-          "name": "Pollo Pro - Monthly Plan",
-          "price": "35,00 USD",
-          "amount": 35
-        },
-        {
-          "name": "Pollo Lite - Annual Plan",
-          "price": "149,99 USD",
-          "amount": 149.99
-        },
-        {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "19,00 USD",
-          "amount": 19
-        },
-        {
-          "name": "Pollo Annual Premium",
-          "price": "999,99 USD",
-          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:38.706Z"
+      "fetchedAt": "2026-10-19T09:59:48.460Z"
     },
     "ug": {
       "currency": "USD",
@@ -9022,7 +9022,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:39.877Z"
+      "fetchedAt": "2026-10-19T09:59:49.941Z"
     },
     "us": {
       "currency": "USD",
@@ -9078,7 +9078,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:27:46.871Z"
+      "fetchedAt": "2026-10-19T09:59:51.519Z"
     },
     "uy": {
       "currency": "USD",
@@ -9134,7 +9134,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:42.892Z"
+      "fetchedAt": "2026-10-19T09:59:52.966Z"
     },
     "uz": {
       "currency": "USD",
@@ -9190,7 +9190,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:44.393Z"
+      "fetchedAt": "2026-10-19T09:59:54.435Z"
     },
     "vc": {
       "currency": "USD",
@@ -9246,7 +9246,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:45.852Z"
+      "fetchedAt": "2026-10-19T09:59:55.933Z"
     },
     "ve": {
       "currency": "USD",
@@ -9302,7 +9302,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:47.406Z"
+      "fetchedAt": "2026-10-19T09:59:57.698Z"
     },
     "vg": {
       "currency": "USD",
@@ -9358,7 +9358,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:48.872Z"
+      "fetchedAt": "2026-10-19T09:59:59.005Z"
     },
     "vn": {
       "currency": "VND",
@@ -9414,7 +9414,7 @@
           "amount": 9999000
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:50.409Z"
+      "fetchedAt": "2026-10-19T10:00:00.460Z"
     },
     "vu": {
       "currency": "USD",
@@ -9470,7 +9470,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:51.843Z"
+      "fetchedAt": "2026-10-19T10:00:02.263Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9526,7 +9526,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:53.381Z"
+      "fetchedAt": "2026-10-19T10:00:03.392Z"
     },
     "ye": {
       "currency": "USD",
@@ -9582,7 +9582,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:54.936Z"
+      "fetchedAt": "2026-10-19T10:00:04.948Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9608,14 +9608,14 @@
           "amount": 599.99
         },
         {
-          "name": "800 Pollo Credits",
-          "price": "R699.99",
-          "amount": 699.99
-        },
-        {
           "name": "Pollo Lite - Monthly Plan",
           "price": "R299.99",
           "amount": 299.99
+        },
+        {
+          "name": "800 Pollo Credits",
+          "price": "R699.99",
+          "amount": 699.99
         },
         {
           "name": "300 Pollo Credits",
@@ -9638,7 +9638,7 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:56.497Z"
+      "fetchedAt": "2026-10-19T10:00:06.473Z"
     },
     "zm": {
       "currency": "USD",
@@ -9694,7 +9694,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:57.935Z"
+      "fetchedAt": "2026-10-19T10:00:07.906Z"
     },
     "zw": {
       "currency": "USD",
@@ -9750,7 +9750,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T15:56:59.374Z"
+      "fetchedAt": "2026-10-19T10:00:09.482Z"
     }
   }
 }

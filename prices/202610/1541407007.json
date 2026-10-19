@@ -2,7 +2,7 @@
   "id": "1541407007",
   "name": "Captions: AI Edits Your Video",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:27:44.978Z",
+  "fetchedAt": "2026-10-19T09:55:48.381Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -58,7 +58,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:15.994Z"
+      "fetchedAt": "2026-10-19T09:51:28.852Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:17.377Z"
+      "fetchedAt": "2026-10-19T09:51:30.350Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:18.854Z"
+      "fetchedAt": "2026-10-19T09:51:31.778Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:20.364Z"
+      "fetchedAt": "2026-10-19T09:51:33.337Z"
     },
     "al": {
       "currency": "USD",
@@ -257,6 +257,11 @@
           "amount": 6.99
         },
         {
+          "name": "Captions Basic - weekly",
+          "price": "USD 6.99",
+          "amount": 6.99
+        },
+        {
           "name": "Caption Basic - yearly",
           "price": "USD 79.99",
           "amount": 79.99
@@ -265,11 +270,6 @@
           "name": "Captions Basic - monthly",
           "price": "USD 11.99",
           "amount": 11.99
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "USD 6.99",
-          "amount": 6.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -282,7 +282,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:21.837Z"
+      "fetchedAt": "2026-10-19T09:51:34.803Z"
     },
     "am": {
       "currency": "USD",
@@ -313,6 +313,11 @@
           "amount": 6.99
         },
         {
+          "name": "Captions Max",
+          "price": "USD 34.99",
+          "amount": 34.99
+        },
+        {
           "name": "Caption Basic - yearly",
           "price": "USD 79.99",
           "amount": 79.99
@@ -328,17 +333,12 @@
           "amount": 11.99
         },
         {
-          "name": "Captions Max",
-          "price": "USD 34.99",
-          "amount": 34.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "USD 79.99",
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:23.440Z"
+      "fetchedAt": "2026-10-19T09:51:36.341Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:24.974Z"
+      "fetchedAt": "2026-10-19T09:51:37.787Z"
     },
     "ar": {
       "currency": "USD",
@@ -450,7 +450,7 @@
           "amount": 64.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:26.375Z"
+      "fetchedAt": "2026-10-19T09:51:39.359Z"
     },
     "at": {
       "currency": "EUR",
@@ -506,7 +506,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:27.869Z"
+      "fetchedAt": "2026-10-19T09:51:40.829Z"
     },
     "au": {
       "currency": "AUD",
@@ -562,7 +562,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:29.358Z"
+      "fetchedAt": "2026-10-19T09:51:42.289Z"
     },
     "az": {
       "currency": "USD",
@@ -618,7 +618,7 @@
           "amount": 34.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:30.893Z"
+      "fetchedAt": "2026-10-19T09:51:43.831Z"
     },
     "ba": {
       "currency": "EUR",
@@ -669,12 +669,12 @@
           "amount": 69.99
         },
         {
-          "name": "Captions Max",
-          "price": "34,99 €",
-          "amount": 34.99
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:32.365Z"
+      "fetchedAt": "2026-10-19T09:51:45.461Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:33.883Z"
+      "fetchedAt": "2026-10-19T09:51:46.892Z"
     },
     "be": {
       "currency": "EUR",
@@ -761,14 +761,14 @@
           "amount": 69.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "6,99 €",
           "amount": 6.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -786,7 +786,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:35.419Z"
+      "fetchedAt": "2026-10-19T09:51:48.343Z"
     },
     "bf": {
       "currency": "USD",
@@ -842,7 +842,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:36.821Z"
+      "fetchedAt": "2026-10-19T09:51:49.845Z"
     },
     "bg": {
       "currency": "EUR",
@@ -888,17 +888,17 @@
           "amount": 74.99
         },
         {
-          "name": "Caption Basic - yearly",
-          "price": "74,99 €",
-          "amount": 74.99
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "9,99 €",
           "amount": 9.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "74,99 €",
+          "amount": 74.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:38.370Z"
+      "fetchedAt": "2026-10-19T09:51:51.298Z"
     },
     "bh": {
       "currency": "USD",
@@ -954,7 +954,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:39.838Z"
+      "fetchedAt": "2026-10-19T09:51:52.844Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 64.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:41.387Z"
+      "fetchedAt": "2026-10-19T09:51:54.608Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,7 +1066,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:42.901Z"
+      "fetchedAt": "2026-10-19T09:51:55.799Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:44.461Z"
+      "fetchedAt": "2026-10-19T09:51:57.491Z"
     },
     "bo": {
       "currency": "USD",
@@ -1148,14 +1148,14 @@
           "amount": 24.99
         },
         {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "USD 5.99",
           "amount": 5.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -1178,7 +1178,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:45.972Z"
+      "fetchedAt": "2026-10-19T09:51:58.907Z"
     },
     "br": {
       "currency": "BRL",
@@ -1234,7 +1234,7 @@
           "amount": 29.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:47.400Z"
+      "fetchedAt": "2026-10-19T09:52:00.360Z"
     },
     "bs": {
       "currency": "USD",
@@ -1290,7 +1290,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:49.006Z"
+      "fetchedAt": "2026-10-19T09:52:01.788Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:50.358Z"
+      "fetchedAt": "2026-10-19T09:52:03.368Z"
     },
     "bw": {
       "currency": "USD",
@@ -1402,7 +1402,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:51.883Z"
+      "fetchedAt": "2026-10-19T09:52:04.799Z"
     },
     "by": {
       "currency": "USD",
@@ -1418,19 +1418,19 @@
           "amount": 11.99
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "USD 6.99",
-          "amount": 6.99
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "USD 6.99",
-          "amount": 6.99
-        },
-        {
           "name": "Captions Max",
           "price": "USD 29.99",
           "amount": 29.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "USD 6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "USD 6.99",
+          "amount": 6.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -1458,7 +1458,7 @@
           "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:53.356Z"
+      "fetchedAt": "2026-10-19T09:52:06.292Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,7 +1514,7 @@
           "amount": 279.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:54.864Z"
+      "fetchedAt": "2026-10-19T09:52:07.863Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1570,7 +1570,7 @@
           "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:56.524Z"
+      "fetchedAt": "2026-10-19T09:52:09.353Z"
     },
     "cd": {
       "currency": "USD",
@@ -1596,14 +1596,14 @@
           "amount": 24.99
         },
         {
-          "name": "Captions Max",
-          "price": "USD 29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "USD 64.99",
           "amount": 64.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Captions Basic - weekly",
@@ -1626,7 +1626,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:57.884Z"
+      "fetchedAt": "2026-10-19T09:52:10.796Z"
     },
     "cg": {
       "currency": "USD",
@@ -1637,52 +1637,52 @@
           "amount": 9.99
         },
         {
+          "name": "Caption Basic - yearly",
+          "price": "USD 64.99",
+          "amount": 64.99
+        },
+        {
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
         },
         {
+          "name": "Caption Basic - yearly",
+          "price": "USD 64.99",
+          "amount": 64.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Captions Max",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 224.99",
+          "amount": 224.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "Captions Basic - monthly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "USD 64.99",
-          "amount": 64.99
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "USD 64.99",
-          "amount": 64.99
-        },
-        {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
-        {
-          "name": "Captions Basic - monthly",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "USD 5.99",
-          "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:59.425Z"
+      "fetchedAt": "2026-10-19T09:52:12.272Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1738,7 +1738,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:00.844Z"
+      "fetchedAt": "2026-10-19T09:52:13.878Z"
     },
     "ci": {
       "currency": "USD",
@@ -1769,14 +1769,14 @@
           "amount": 64.99
         },
         {
-          "name": "Captions Max",
-          "price": "34,99 $US",
-          "amount": 34.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "5,99 $US",
           "amount": 5.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "34,99 $US",
+          "amount": 34.99
         },
         {
           "name": "Captions Basic - weekly",
@@ -1794,7 +1794,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:02.402Z"
+      "fetchedAt": "2026-10-19T09:52:15.399Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1815,11 +1815,6 @@
           "amount": 22990
         },
         {
-          "name": "Captions Max",
-          "price": "$29.990",
-          "amount": 29990
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "$59.990",
           "amount": 59990
@@ -1828,6 +1823,11 @@
           "name": "Captions Basic - weekly",
           "price": "$5.990",
           "amount": 5990
+        },
+        {
+          "name": "Captions Max",
+          "price": "$29.990",
+          "amount": 29990
         },
         {
           "name": "Captions Basic - weekly",
@@ -1850,7 +1850,7 @@
           "amount": 9990
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:04.042Z"
+      "fetchedAt": "2026-10-19T09:52:16.776Z"
     },
     "cm": {
       "currency": "USD",
@@ -1906,7 +1906,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:05.493Z"
+      "fetchedAt": "2026-10-19T09:52:18.291Z"
     },
     "cn": {
       "available": false,
@@ -1961,12 +1961,12 @@
           "amount": 399900
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "$ 49.900,00",
-          "amount": 49900
+          "name": "Captions Max",
+          "price": "$ 129.900,00",
+          "amount": 129900
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:08.492Z"
+      "fetchedAt": "2026-10-19T09:52:19.830Z"
     },
     "cr": {
       "currency": "USD",
@@ -2022,7 +2022,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:09.876Z"
+      "fetchedAt": "2026-10-19T09:52:21.313Z"
     },
     "cv": {
       "currency": "USD",
@@ -2078,7 +2078,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:11.369Z"
+      "fetchedAt": "2026-10-19T09:52:22.897Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2114,14 +2114,14 @@
           "amount": 69.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "69,99 €",
           "amount": 69.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Captions Basic - weekly",
@@ -2134,7 +2134,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:12.946Z"
+      "fetchedAt": "2026-10-19T09:52:24.331Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2190,7 +2190,7 @@
           "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:14.359Z"
+      "fetchedAt": "2026-10-19T09:52:25.804Z"
     },
     "de": {
       "currency": "EUR",
@@ -2246,7 +2246,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:15.913Z"
+      "fetchedAt": "2026-10-19T09:52:27.409Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2282,14 +2282,14 @@
           "amount": 599
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "49,00 kr",
-          "amount": 49
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "599,00 kr",
           "amount": 599
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "49,00 kr",
+          "amount": 49
         },
         {
           "name": "Captions Basic - weekly",
@@ -2302,7 +2302,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:17.392Z"
+      "fetchedAt": "2026-10-19T09:52:28.793Z"
     },
     "dm": {
       "currency": "USD",
@@ -2358,7 +2358,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:18.969Z"
+      "fetchedAt": "2026-10-19T09:52:30.316Z"
     },
     "do": {
       "currency": "USD",
@@ -2409,12 +2409,12 @@
           "amount": 9.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Captions Max",
+          "price": "USD 29.99",
+          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:20.372Z"
+      "fetchedAt": "2026-10-19T09:52:31.883Z"
     },
     "dz": {
       "currency": "USD",
@@ -2470,7 +2470,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:21.848Z"
+      "fetchedAt": "2026-10-19T09:52:33.313Z"
     },
     "ec": {
       "currency": "USD",
@@ -2526,7 +2526,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:23.449Z"
+      "fetchedAt": "2026-10-19T09:52:34.845Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2582,20 +2582,30 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:24.961Z"
+      "fetchedAt": "2026-10-19T09:52:36.322Z"
     },
     "eg": {
       "currency": "EGP",
       "items": [
         {
-          "name": "Captions Max",
-          "price": "EGP 1,499.99",
-          "amount": 1499.99
+          "name": "Captions Basic - monthly",
+          "price": "EGP 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "EGP 189.99",
+          "amount": 189.99
         },
         {
           "name": "Captions Max",
-          "price": "EGP 1,499.99",
-          "amount": 1499.99
+          "price": "EGP 899.99",
+          "amount": 899.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "EGP 1,299.99",
+          "amount": 1299.99
         },
         {
           "name": "Captions Basic - monthly",
@@ -2603,42 +2613,32 @@
           "amount": 499.99
         },
         {
-          "name": "Captions Basic",
+          "name": "Caption Basic - yearly",
+          "price": "EGP 2,299.99",
+          "amount": 2299.99
+        },
+        {
+          "name": "Captions Basic - monthly",
           "price": "EGP 599.99",
           "amount": 599.99
         },
         {
-          "name": "Captions Basic",
-          "price": "EGP 4,999.99",
-          "amount": 4999.99
+          "name": "Captions Basic - monthly",
+          "price": "EGP 599.99",
+          "amount": 599.99
         },
         {
-          "name": "Captions Max",
-          "price": "EGP 1,499.99",
-          "amount": 1499.99
+          "name": "Captions Basic - weekly",
+          "price": "EGP 199.99",
+          "amount": 199.99
         },
         {
-          "name": "Captions Scale",
-          "price": "EGP 3,999.99",
-          "amount": 3999.99
-        },
-        {
-          "name": "Captions Frontier 4x",
-          "price": "EGP 14,999.99",
-          "amount": 14999.99
-        },
-        {
-          "name": "Captions Frontier 2x",
-          "price": "EGP 6,999.99",
-          "amount": 6999.99
-        },
-        {
-          "name": "Captions Max",
-          "price": "EGP 1,299.99",
-          "amount": 1299.99
+          "name": "Caption Basic - yearly",
+          "price": "EGP 2,299.99",
+          "amount": 2299.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:26.357Z"
+      "fetchedAt": "2026-10-19T09:52:37.820Z"
     },
     "es": {
       "currency": "EUR",
@@ -2694,7 +2694,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:27.878Z"
+      "fetchedAt": "2026-10-19T09:52:39.339Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2705,29 +2705,9 @@
           "amount": 12.49
         },
         {
-          "name": "Caption Basic - yearly",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "12,49 €",
           "amount": 12.49
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "100,00 €",
-          "amount": 100
         },
         {
           "name": "Captions Max",
@@ -2735,22 +2715,42 @@
           "amount": 29.99
         },
         {
-          "name": "Captions Max",
-          "price": "249,99 €",
-          "amount": 249.99
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Caption Basic - yearly",
-          "price": "90,00 €",
-          "amount": 90
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "6,99 €",
+          "amount": 6.99
         },
         {
           "name": "Captions Basic - monthly",
-          "price": "10,00 €",
-          "amount": 10
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "6,99 €",
+          "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:29.375Z"
+      "fetchedAt": "2026-10-19T09:52:40.839Z"
     },
     "fj": {
       "currency": "USD",
@@ -2806,7 +2806,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:30.867Z"
+      "fetchedAt": "2026-10-19T09:52:42.348Z"
     },
     "fm": {
       "currency": "USD",
@@ -2862,7 +2862,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:32.337Z"
+      "fetchedAt": "2026-10-19T09:52:43.877Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2918,7 +2918,7 @@
           "amount": 34.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:33.833Z"
+      "fetchedAt": "2026-10-19T09:52:45.370Z"
     },
     "ga": {
       "currency": "USD",
@@ -2974,7 +2974,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:35.549Z"
+      "fetchedAt": "2026-10-19T09:52:46.848Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3030,7 +3030,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:36.913Z"
+      "fetchedAt": "2026-10-19T09:52:48.404Z"
     },
     "gd": {
       "currency": "USD",
@@ -3086,7 +3086,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:38.439Z"
+      "fetchedAt": "2026-10-19T09:52:49.811Z"
     },
     "ge": {
       "currency": "USD",
@@ -3142,7 +3142,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:39.912Z"
+      "fetchedAt": "2026-10-19T09:52:51.328Z"
     },
     "gh": {
       "currency": "USD",
@@ -3198,7 +3198,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:41.522Z"
+      "fetchedAt": "2026-10-19T09:52:52.949Z"
     },
     "gm": {
       "currency": "USD",
@@ -3254,7 +3254,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:42.851Z"
+      "fetchedAt": "2026-10-19T09:52:54.333Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3295,14 +3295,14 @@
           "amount": 69.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "69,99 €",
           "amount": 69.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Captions Basic - weekly",
@@ -3310,7 +3310,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:44.416Z"
+      "fetchedAt": "2026-10-19T09:52:55.814Z"
     },
     "gt": {
       "currency": "USD",
@@ -3366,7 +3366,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:46.009Z"
+      "fetchedAt": "2026-10-19T09:52:57.404Z"
     },
     "gw": {
       "currency": "USD",
@@ -3422,20 +3422,20 @@
           "amount": 139.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:47.710Z"
+      "fetchedAt": "2026-10-19T09:52:58.827Z"
     },
     "gy": {
       "currency": "USD",
       "items": [
         {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Captions Basic - monthly",
@@ -3478,7 +3478,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:49.013Z"
+      "fetchedAt": "2026-10-19T09:53:00.332Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3534,7 +3534,7 @@
           "amount": 588
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:50.410Z"
+      "fetchedAt": "2026-10-19T09:53:02.027Z"
     },
     "hn": {
       "currency": "USD",
@@ -3590,7 +3590,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:51.885Z"
+      "fetchedAt": "2026-10-19T09:53:03.296Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3636,17 +3636,17 @@
           "amount": 6.99
         },
         {
-          "name": "Caption Basic - yearly",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "6,99 €",
           "amount": 6.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "69,99 €",
+          "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:53.435Z"
+      "fetchedAt": "2026-10-19T09:53:04.820Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3702,7 +3702,7 @@
           "amount": 29990
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:54.852Z"
+      "fetchedAt": "2026-10-19T09:53:06.361Z"
     },
     "id": {
       "currency": "IDR",
@@ -3758,7 +3758,7 @@
           "amount": 169
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:56.394Z"
+      "fetchedAt": "2026-10-19T09:53:08.055Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3794,14 +3794,14 @@
           "amount": 6.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "€9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "€6.99",
           "amount": 6.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "€9.99",
+          "amount": 9.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -3814,7 +3814,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:57.858Z"
+      "fetchedAt": "2026-10-19T09:53:09.373Z"
     },
     "il": {
       "currency": "ILS",
@@ -3840,14 +3840,14 @@
           "amount": 89.9
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "₪34.90",
-          "amount": 34.9
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "₪229.90",
           "amount": 229.9
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "₪34.90",
+          "amount": 34.9
         },
         {
           "name": "Captions Basic - weekly",
@@ -3870,7 +3870,7 @@
           "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:49:59.390Z"
+      "fetchedAt": "2026-10-19T09:53:10.835Z"
     },
     "in": {
       "currency": "INR",
@@ -3926,7 +3926,7 @@
           "amount": 2999
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:00.869Z"
+      "fetchedAt": "2026-10-19T09:53:12.331Z"
     },
     "iq": {
       "currency": "USD",
@@ -3972,17 +3972,17 @@
           "amount": 64.99
         },
         {
-          "name": "Captions Max",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "$29.99",
+          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:02.360Z"
+      "fetchedAt": "2026-10-19T09:53:13.827Z"
     },
     "is": {
       "currency": "USD",
@@ -4038,7 +4038,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:03.860Z"
+      "fetchedAt": "2026-10-19T09:53:15.497Z"
     },
     "it": {
       "currency": "EUR",
@@ -4094,7 +4094,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:05.347Z"
+      "fetchedAt": "2026-10-19T09:53:16.912Z"
     },
     "jm": {
       "currency": "USD",
@@ -4150,7 +4150,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:06.843Z"
+      "fetchedAt": "2026-10-19T09:53:18.307Z"
     },
     "jo": {
       "currency": "USD",
@@ -4206,7 +4206,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:08.491Z"
+      "fetchedAt": "2026-10-19T09:53:19.866Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4227,6 +4227,11 @@
           "amount": 10000
         },
         {
+          "name": "Captions Basic - weekly",
+          "price": "¥900",
+          "amount": 900
+        },
+        {
           "name": "Captions Max",
           "price": "¥3,500",
           "amount": 3500
@@ -4237,14 +4242,14 @@
           "amount": 4000
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "¥900",
-          "amount": 900
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "¥1,500",
           "amount": 1500
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "¥900",
+          "amount": 900
         },
         {
           "name": "Caption Basic - yearly",
@@ -4252,17 +4257,12 @@
           "amount": 10000
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "¥900",
-          "amount": 900
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "¥1,500",
           "amount": 1500
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:09.902Z"
+      "fetchedAt": "2026-10-19T09:53:21.343Z"
     },
     "ke": {
       "currency": "USD",
@@ -4318,7 +4318,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:11.361Z"
+      "fetchedAt": "2026-10-19T09:53:22.784Z"
     },
     "kg": {
       "currency": "USD",
@@ -4374,7 +4374,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:12.966Z"
+      "fetchedAt": "2026-10-19T09:53:24.361Z"
     },
     "kh": {
       "currency": "USD",
@@ -4430,7 +4430,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:14.586Z"
+      "fetchedAt": "2026-10-19T09:53:25.936Z"
     },
     "kn": {
       "currency": "USD",
@@ -4486,7 +4486,7 @@
           "amount": 279.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:15.845Z"
+      "fetchedAt": "2026-10-19T09:53:27.333Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4542,7 +4542,7 @@
           "amount": 14000
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:17.355Z"
+      "fetchedAt": "2026-10-19T09:53:28.842Z"
     },
     "kw": {
       "currency": "USD",
@@ -4593,12 +4593,12 @@
           "amount": 64.99
         },
         {
-          "name": "Captions Frontier",
-          "price": "$69.99",
-          "amount": 69.99
+          "name": "Captions Basic - monthly",
+          "price": "$9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:18.895Z"
+      "fetchedAt": "2026-10-19T09:53:30.304Z"
     },
     "ky": {
       "currency": "USD",
@@ -4654,7 +4654,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:20.384Z"
+      "fetchedAt": "2026-10-19T09:53:31.801Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4710,7 +4710,7 @@
           "amount": 4990
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:21.897Z"
+      "fetchedAt": "2026-10-19T09:53:33.388Z"
     },
     "la": {
       "currency": "USD",
@@ -4766,7 +4766,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:23.325Z"
+      "fetchedAt": "2026-10-19T09:53:34.862Z"
     },
     "lb": {
       "currency": "USD",
@@ -4817,12 +4817,12 @@
           "amount": 5.99
         },
         {
-          "name": "Captions Max",
-          "price": "$29.99",
-          "amount": 29.99
+          "name": "Captions Basic - monthly",
+          "price": "$9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:24.957Z"
+      "fetchedAt": "2026-10-19T09:53:36.358Z"
     },
     "lc": {
       "currency": "USD",
@@ -4878,7 +4878,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:26.430Z"
+      "fetchedAt": "2026-10-19T09:53:37.837Z"
     },
     "lk": {
       "currency": "USD",
@@ -4934,7 +4934,7 @@
           "amount": 64.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:27.828Z"
+      "fetchedAt": "2026-10-19T09:53:39.403Z"
     },
     "lr": {
       "currency": "USD",
@@ -4950,14 +4950,14 @@
           "amount": 24.99
         },
         {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Caption Basic - yearly",
@@ -4990,7 +4990,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:29.331Z"
+      "fetchedAt": "2026-10-19T09:53:40.854Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5036,17 +5036,17 @@
           "amount": 9.99
         },
         {
-          "name": "Caption Basic - yearly",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "6,99 €",
           "amount": 6.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "69,99 €",
+          "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:31.045Z"
+      "fetchedAt": "2026-10-19T09:53:42.348Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5102,7 +5102,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:32.418Z"
+      "fetchedAt": "2026-10-19T09:53:43.840Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5143,11 +5143,6 @@
           "amount": 6.99
         },
         {
-          "name": "Caption Basic - yearly",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "6,99 €",
           "amount": 6.99
@@ -5156,9 +5151,14 @@
           "name": "Caption Basic - yearly",
           "price": "69,99 €",
           "amount": 69.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "69,99 €",
+          "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:33.971Z"
+      "fetchedAt": "2026-10-19T09:53:45.312Z"
     },
     "ly": {
       "currency": "USD",
@@ -5214,7 +5214,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:35.401Z"
+      "fetchedAt": "2026-10-19T09:53:46.855Z"
     },
     "ma": {
       "currency": "USD",
@@ -5260,17 +5260,17 @@
           "amount": 9.99
         },
         {
+          "name": "Captions Max",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
           "name": "Caption Basic - yearly",
           "price": "$64.99",
           "amount": 64.99
-        },
-        {
-          "name": "Captions Basic - monthly",
-          "price": "$9.99",
-          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:36.898Z"
+      "fetchedAt": "2026-10-19T09:53:48.371Z"
     },
     "md": {
       "currency": "USD",
@@ -5326,7 +5326,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:38.414Z"
+      "fetchedAt": "2026-10-19T09:53:49.824Z"
     },
     "me": {
       "currency": "EUR",
@@ -5382,7 +5382,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:39.875Z"
+      "fetchedAt": "2026-10-19T09:53:51.374Z"
     },
     "mg": {
       "currency": "USD",
@@ -5438,7 +5438,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:41.369Z"
+      "fetchedAt": "2026-10-19T09:53:52.904Z"
     },
     "mk": {
       "currency": "USD",
@@ -5469,32 +5469,32 @@
           "amount": 24.99
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "USD 64.99",
-          "amount": 64.99
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "USD 64.99",
-          "amount": 64.99
-        },
-        {
           "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 64.99",
+          "amount": 64.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 64.99",
+          "amount": 64.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:42.848Z"
+      "fetchedAt": "2026-10-19T09:53:54.382Z"
     },
     "ml": {
       "currency": "USD",
@@ -5550,7 +5550,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:44.436Z"
+      "fetchedAt": "2026-10-19T09:53:55.798Z"
     },
     "mm": {
       "currency": "USD",
@@ -5606,7 +5606,7 @@
           "amount": 279.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:45.878Z"
+      "fetchedAt": "2026-10-19T09:53:57.349Z"
     },
     "mn": {
       "currency": "USD",
@@ -5617,14 +5617,14 @@
           "amount": 9.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Captions Max",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "Captions Max",
@@ -5662,7 +5662,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:47.399Z"
+      "fetchedAt": "2026-10-19T09:53:58.921Z"
     },
     "mo": {
       "currency": "USD",
@@ -5718,7 +5718,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:48.904Z"
+      "fetchedAt": "2026-10-19T09:54:00.310Z"
     },
     "mr": {
       "currency": "USD",
@@ -5774,7 +5774,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:50.384Z"
+      "fetchedAt": "2026-10-19T09:54:01.819Z"
     },
     "ms": {
       "currency": "USD",
@@ -5830,7 +5830,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:51.900Z"
+      "fetchedAt": "2026-10-19T09:54:03.720Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5886,7 +5886,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:53.369Z"
+      "fetchedAt": "2026-10-19T09:54:04.820Z"
     },
     "mu": {
       "currency": "USD",
@@ -5942,7 +5942,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:54.896Z"
+      "fetchedAt": "2026-10-19T09:54:06.476Z"
     },
     "mv": {
       "currency": "USD",
@@ -5998,7 +5998,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:56.348Z"
+      "fetchedAt": "2026-10-19T09:54:08.158Z"
     },
     "mw": {
       "currency": "USD",
@@ -6014,14 +6014,14 @@
           "amount": 9.99
         },
         {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "USD 64.99",
           "amount": 64.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Captions Max",
@@ -6054,7 +6054,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:57.933Z"
+      "fetchedAt": "2026-10-19T09:54:09.578Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6110,7 +6110,7 @@
           "amount": 199
         }
       ],
-      "fetchedAt": "2026-10-18T15:50:59.368Z"
+      "fetchedAt": "2026-10-19T09:54:10.864Z"
     },
     "my": {
       "currency": "MYR",
@@ -6126,14 +6126,14 @@
           "amount": 47.9
         },
         {
-          "name": "Captions Max",
-          "price": "RM119.90",
-          "amount": 119.9
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "RM29.90",
           "amount": 29.9
+        },
+        {
+          "name": "Captions Max",
+          "price": "RM119.90",
+          "amount": 119.9
         },
         {
           "name": "Caption Basic - yearly",
@@ -6161,12 +6161,12 @@
           "amount": 299.9
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "RM49.90",
-          "amount": 49.9
+          "name": "Captions Max",
+          "price": "RM129.90",
+          "amount": 129.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:01.089Z"
+      "fetchedAt": "2026-10-19T09:54:12.336Z"
     },
     "mz": {
       "currency": "USD",
@@ -6222,7 +6222,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:02.386Z"
+      "fetchedAt": "2026-10-19T09:54:13.778Z"
     },
     "na": {
       "currency": "USD",
@@ -6278,7 +6278,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:03.897Z"
+      "fetchedAt": "2026-10-19T09:54:15.412Z"
     },
     "ne": {
       "currency": "USD",
@@ -6334,7 +6334,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:05.394Z"
+      "fetchedAt": "2026-10-19T09:54:16.865Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6375,6 +6375,11 @@
           "amount": 49900
         },
         {
+          "name": "Captions Max",
+          "price": "₦ 19,900.00",
+          "amount": 19900
+        },
+        {
           "name": "Captions Basic - monthly",
           "price": "₦ 14,900.00",
           "amount": 14900
@@ -6383,14 +6388,9 @@
           "name": "Captions Max",
           "price": "₦ 179,900.00",
           "amount": 179900
-        },
-        {
-          "name": "Captions Basic - weekly",
-          "price": "₦ 4,900.00",
-          "amount": 4900
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:06.886Z"
+      "fetchedAt": "2026-10-19T09:54:18.394Z"
     },
     "ni": {
       "currency": "USD",
@@ -6446,7 +6446,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:08.392Z"
+      "fetchedAt": "2026-10-19T09:54:19.895Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6462,14 +6462,14 @@
           "amount": 11.99
         },
         {
-          "name": "Captions Max",
-          "price": "€ 29,99",
-          "amount": 29.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "€ 69,99",
           "amount": 69.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "€ 29,99",
+          "amount": 29.99
         },
         {
           "name": "Captions Max",
@@ -6502,7 +6502,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:09.839Z"
+      "fetchedAt": "2026-10-19T09:54:21.524Z"
     },
     "no": {
       "currency": "NOK",
@@ -6558,7 +6558,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:11.503Z"
+      "fetchedAt": "2026-10-19T09:54:22.867Z"
     },
     "np": {
       "currency": "USD",
@@ -6614,7 +6614,7 @@
           "amount": 34.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:12.867Z"
+      "fetchedAt": "2026-10-19T09:54:24.319Z"
     },
     "nr": {
       "currency": "USD",
@@ -6670,7 +6670,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:14.417Z"
+      "fetchedAt": "2026-10-19T09:54:25.890Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6691,14 +6691,14 @@
           "amount": 9.99
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "$9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Captions Max",
           "price": "$49.99",
           "amount": 49.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
           "name": "Captions Max",
@@ -6726,7 +6726,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:15.902Z"
+      "fetchedAt": "2026-10-19T09:54:27.361Z"
     },
     "om": {
       "currency": "USD",
@@ -6782,7 +6782,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:17.387Z"
+      "fetchedAt": "2026-10-19T09:54:28.904Z"
     },
     "pa": {
       "currency": "USD",
@@ -6838,7 +6838,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:18.873Z"
+      "fetchedAt": "2026-10-19T09:54:30.447Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6894,7 +6894,7 @@
           "amount": 39.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:20.402Z"
+      "fetchedAt": "2026-10-19T09:54:31.866Z"
     },
     "pg": {
       "currency": "USD",
@@ -6950,7 +6950,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:22.105Z"
+      "fetchedAt": "2026-10-19T09:54:33.374Z"
     },
     "ph": {
       "currency": "PHP",
@@ -7006,7 +7006,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:23.420Z"
+      "fetchedAt": "2026-10-19T09:54:34.835Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7062,7 +7062,7 @@
           "amount": 7900
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:24.889Z"
+      "fetchedAt": "2026-10-19T09:54:36.457Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7118,7 +7118,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:26.394Z"
+      "fetchedAt": "2026-10-19T09:54:37.871Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7174,7 +7174,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:27.831Z"
+      "fetchedAt": "2026-10-19T09:54:39.346Z"
     },
     "pw": {
       "currency": "USD",
@@ -7230,7 +7230,7 @@
           "amount": 279.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:29.371Z"
+      "fetchedAt": "2026-10-19T09:54:40.855Z"
     },
     "py": {
       "currency": "USD",
@@ -7286,7 +7286,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:30.908Z"
+      "fetchedAt": "2026-10-19T09:54:42.409Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7342,7 +7342,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:32.355Z"
+      "fetchedAt": "2026-10-19T09:54:43.938Z"
     },
     "ro": {
       "currency": "RON",
@@ -7398,7 +7398,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:33.885Z"
+      "fetchedAt": "2026-10-19T09:54:45.366Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7454,7 +7454,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:35.362Z"
+      "fetchedAt": "2026-10-19T09:54:46.872Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7510,7 +7510,7 @@
           "amount": 899
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:36.914Z"
+      "fetchedAt": "2026-10-19T09:54:48.432Z"
     },
     "rw": {
       "currency": "USD",
@@ -7566,7 +7566,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:38.368Z"
+      "fetchedAt": "2026-10-19T09:54:49.853Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7597,14 +7597,14 @@
           "amount": 99.99
         },
         {
-          "name": "Captions Max",
-          "price": "SAR 99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "SAR 299.99",
           "amount": 299.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "SAR 99.99",
+          "amount": 99.99
         },
         {
           "name": "Captions Basic - monthly",
@@ -7622,7 +7622,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:39.882Z"
+      "fetchedAt": "2026-10-19T09:54:51.529Z"
     },
     "sb": {
       "currency": "USD",
@@ -7678,7 +7678,7 @@
           "amount": 139.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:41.389Z"
+      "fetchedAt": "2026-10-19T09:54:52.849Z"
     },
     "sc": {
       "currency": "USD",
@@ -7734,7 +7734,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:42.874Z"
+      "fetchedAt": "2026-10-19T09:54:54.530Z"
     },
     "se": {
       "currency": "SEK",
@@ -7790,7 +7790,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:44.337Z"
+      "fetchedAt": "2026-10-19T09:54:55.841Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7846,7 +7846,7 @@
           "amount": 14.98
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:45.897Z"
+      "fetchedAt": "2026-10-19T09:54:57.387Z"
     },
     "si": {
       "currency": "EUR",
@@ -7897,12 +7897,12 @@
           "amount": 6.99
         },
         {
-          "name": "Captions Max",
-          "price": "34,99 €",
-          "amount": 34.99
+          "name": "Captions Basic - monthly",
+          "price": "9,99 €",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:47.473Z"
+      "fetchedAt": "2026-10-19T09:54:58.929Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7958,7 +7958,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:48.896Z"
+      "fetchedAt": "2026-10-19T09:55:00.371Z"
     },
     "sl": {
       "currency": "USD",
@@ -8014,7 +8014,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:50.366Z"
+      "fetchedAt": "2026-10-19T09:55:01.945Z"
     },
     "sn": {
       "currency": "USD",
@@ -8070,7 +8070,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:51.853Z"
+      "fetchedAt": "2026-10-19T09:55:03.347Z"
     },
     "sr": {
       "currency": "USD",
@@ -8126,7 +8126,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:53.430Z"
+      "fetchedAt": "2026-10-19T09:55:05.027Z"
     },
     "st": {
       "currency": "USD",
@@ -8182,7 +8182,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:55.168Z"
+      "fetchedAt": "2026-10-19T09:55:06.378Z"
     },
     "sv": {
       "currency": "USD",
@@ -8218,6 +8218,11 @@
           "amount": 64.99
         },
         {
+          "name": "Captions Basic - monthly",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
           "name": "Captions Basic - weekly",
           "price": "USD 5.99",
           "amount": 5.99
@@ -8231,18 +8236,33 @@
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T09:55:07.895Z"
+    },
+    "sz": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Captions Basic - monthly",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
-        }
-      ],
-      "fetchedAt": "2026-10-18T15:51:56.401Z"
-    },
-    "sz": {
-      "currency": "USD",
-      "items": [
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Caption Basic - yearly",
+          "price": "USD 64.99",
+          "amount": 64.99
+        },
         {
           "name": "Captions Max",
           "price": "USD 29.99",
@@ -8272,29 +8292,9 @@
           "name": "Captions Max",
           "price": "USD 29.99",
           "amount": 29.99
-        },
-        {
-          "name": "Captions Scale",
-          "price": "USD 69.99",
-          "amount": 69.99
-        },
-        {
-          "name": "Captions Frontier 4x",
-          "price": "USD 279.99",
-          "amount": 279.99
-        },
-        {
-          "name": "Captions Frontier 2x",
-          "price": "USD 139.99",
-          "amount": 139.99
-        },
-        {
-          "name": "Captions Max",
-          "price": "USD 24.99",
-          "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:58.202Z"
+      "fetchedAt": "2026-10-19T09:55:09.361Z"
     },
     "tc": {
       "currency": "USD",
@@ -8350,7 +8350,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:51:59.341Z"
+      "fetchedAt": "2026-10-19T09:55:10.872Z"
     },
     "td": {
       "currency": "USD",
@@ -8406,7 +8406,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:00.919Z"
+      "fetchedAt": "2026-10-19T09:55:12.423Z"
     },
     "th": {
       "currency": "THB",
@@ -8462,7 +8462,7 @@
           "amount": 399
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:02.393Z"
+      "fetchedAt": "2026-10-19T09:55:13.880Z"
     },
     "tj": {
       "currency": "USD",
@@ -8471,6 +8471,11 @@
           "name": "Captions Basic - monthly",
           "price": "USD 11.49",
           "amount": 11.49
+        },
+        {
+          "name": "Captions Max",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Captions Max",
@@ -8511,14 +8516,9 @@
           "name": "Captions Basic - monthly",
           "price": "USD 9.99",
           "amount": 9.99
-        },
-        {
-          "name": "Caption Basic - yearly",
-          "price": "USD 79.99",
-          "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:03.820Z"
+      "fetchedAt": "2026-10-19T09:55:15.355Z"
     },
     "tm": {
       "currency": "USD",
@@ -8574,7 +8574,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:05.419Z"
+      "fetchedAt": "2026-10-19T09:55:16.843Z"
     },
     "tn": {
       "currency": "USD",
@@ -8615,14 +8615,14 @@
           "amount": 64.99
         },
         {
-          "name": "Captions Max",
-          "price": "$24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Captions Basic - weekly",
           "price": "$5.99",
           "amount": 5.99
+        },
+        {
+          "name": "Captions Max",
+          "price": "$24.99",
+          "amount": 24.99
         },
         {
           "name": "Captions Basic - monthly",
@@ -8630,7 +8630,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:06.941Z"
+      "fetchedAt": "2026-10-19T09:55:18.377Z"
     },
     "to": {
       "currency": "USD",
@@ -8686,7 +8686,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:08.346Z"
+      "fetchedAt": "2026-10-19T09:55:19.879Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8737,12 +8737,12 @@
           "amount": 1999.99
         },
         {
-          "name": "Captions Frontier",
-          "price": "₺2.499,99",
-          "amount": 2499.99
+          "name": "Captions Max",
+          "price": "₺1.499,99",
+          "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:09.918Z"
+      "fetchedAt": "2026-10-19T09:55:21.408Z"
     },
     "tt": {
       "currency": "USD",
@@ -8798,7 +8798,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:11.421Z"
+      "fetchedAt": "2026-10-19T09:55:22.875Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8854,7 +8854,7 @@
           "amount": 390
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:13.243Z"
+      "fetchedAt": "2026-10-19T09:55:24.404Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8910,7 +8910,7 @@
           "amount": 17900
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:14.522Z"
+      "fetchedAt": "2026-10-19T09:55:25.861Z"
     },
     "ua": {
       "currency": "USD",
@@ -8966,7 +8966,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:15.919Z"
+      "fetchedAt": "2026-10-19T09:55:27.387Z"
     },
     "ug": {
       "currency": "USD",
@@ -9022,7 +9022,7 @@
           "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:17.387Z"
+      "fetchedAt": "2026-10-19T09:55:28.858Z"
     },
     "us": {
       "currency": "USD",
@@ -9078,7 +9078,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:27:44.972Z"
+      "fetchedAt": "2026-10-19T09:55:30.398Z"
     },
     "uy": {
       "currency": "USD",
@@ -9134,7 +9134,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:20.493Z"
+      "fetchedAt": "2026-10-19T09:55:31.880Z"
     },
     "uz": {
       "currency": "USD",
@@ -9190,7 +9190,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:21.869Z"
+      "fetchedAt": "2026-10-19T09:55:33.397Z"
     },
     "vc": {
       "currency": "USD",
@@ -9246,7 +9246,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:23.400Z"
+      "fetchedAt": "2026-10-19T09:55:34.938Z"
     },
     "ve": {
       "currency": "USD",
@@ -9277,14 +9277,14 @@
           "amount": 5.99
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
           "name": "Caption Basic - yearly",
           "price": "USD 64.99",
           "amount": 64.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "USD 5.99",
+          "amount": 5.99
         },
         {
           "name": "Captions Basic - monthly",
@@ -9302,7 +9302,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:24.869Z"
+      "fetchedAt": "2026-10-19T09:55:36.412Z"
     },
     "vg": {
       "currency": "USD",
@@ -9358,7 +9358,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:26.398Z"
+      "fetchedAt": "2026-10-19T09:55:37.863Z"
     },
     "vn": {
       "currency": "VND",
@@ -9414,7 +9414,7 @@
           "amount": 999000
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:27.837Z"
+      "fetchedAt": "2026-10-19T09:55:39.344Z"
     },
     "vu": {
       "currency": "USD",
@@ -9470,7 +9470,7 @@
           "amount": 279.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:29.341Z"
+      "fetchedAt": "2026-10-19T09:55:40.887Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9526,7 +9526,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:30.872Z"
+      "fetchedAt": "2026-10-19T09:55:42.329Z"
     },
     "ye": {
       "currency": "USD",
@@ -9582,7 +9582,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:32.477Z"
+      "fetchedAt": "2026-10-19T09:55:43.862Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9628,17 +9628,17 @@
           "amount": 119.99
         },
         {
-          "name": "Captions Basic - weekly",
-          "price": "R119.99",
-          "amount": 119.99
-        },
-        {
           "name": "Captions Max",
           "price": "R599.99",
           "amount": 599.99
+        },
+        {
+          "name": "Captions Basic - weekly",
+          "price": "R119.99",
+          "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:33.971Z"
+      "fetchedAt": "2026-10-19T09:55:45.438Z"
     },
     "zm": {
       "currency": "USD",
@@ -9694,7 +9694,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:35.395Z"
+      "fetchedAt": "2026-10-19T09:55:46.859Z"
     },
     "zw": {
       "currency": "USD",
@@ -9705,14 +9705,14 @@
           "amount": 11.99
         },
         {
-          "name": "Captions Basic - monthly",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
           "name": "Captions Max",
           "price": "USD 29.99",
           "amount": 29.99
+        },
+        {
+          "name": "Captions Basic - monthly",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "Captions Max",
@@ -9750,7 +9750,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:52:36.930Z"
+      "fetchedAt": "2026-10-19T09:55:48.381Z"
     }
   }
 }

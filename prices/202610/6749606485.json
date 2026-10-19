@@ -2,7 +2,7 @@
   "id": "6749606485",
   "name": "Dreamina AI: Image&Video Maker",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:27:43.593Z",
+  "fetchedAt": "2026-10-19T09:51:27.343Z",
   "storefronts": {
     "ae": {
       "available": false,
@@ -69,14 +69,14 @@
           "amount": 22.9
         },
         {
-          "name": "Credits Pack",
-          "price": "$84.00",
-          "amount": 84
-        },
-        {
           "name": "Basic Monthly Subscription",
           "price": "$22.90",
           "amount": 22.9
+        },
+        {
+          "name": "Credits Pack",
+          "price": "$84.00",
+          "amount": 84
         },
         {
           "name": "Basic Member_One - Month",
@@ -94,7 +94,7 @@
           "amount": 51
         }
       ],
-      "fetchedAt": "2026-10-18T15:44:07.091Z"
+      "fetchedAt": "2026-10-19T09:51:06.383Z"
     },
     "az": {
       "available": false,
@@ -194,7 +194,7 @@
           "amount": 182.9
         }
       ],
-      "fetchedAt": "2026-10-18T15:44:25.367Z"
+      "fetchedAt": "2026-10-19T09:51:08.070Z"
     },
     "bs": {
       "available": false,
@@ -226,13 +226,13 @@
         },
         {
           "name": "Credits Pack",
-          "price": "$18.90",
-          "amount": 18.9
+          "price": "$12.49",
+          "amount": 12.49
         },
         {
           "name": "Credits Pack",
-          "price": "$12.49",
-          "amount": 12.49
+          "price": "$18.90",
+          "amount": 18.9
         },
         {
           "name": "Basic Monthly Subscription",
@@ -255,14 +255,14 @@
           "amount": 24.49
         },
         {
-          "name": "Advanced Monthly Subscription",
-          "price": "$94.90",
-          "amount": 94.9
-        },
-        {
           "name": "Credits Pack",
           "price": "$37.49",
           "amount": 37.49
+        },
+        {
+          "name": "Advanced Monthly Subscription",
+          "price": "$94.90",
+          "amount": 94.9
         },
         {
           "name": "Credits Pack",
@@ -270,7 +270,7 @@
           "amount": 224.99
         }
       ],
-      "fetchedAt": "2026-10-18T15:44:34.185Z"
+      "fetchedAt": "2026-10-19T09:51:09.358Z"
     },
     "cd": {
       "available": false,
@@ -354,9 +354,9 @@
           "amount": 13.99
         },
         {
-          "name": "Advanced Monthly Subscription",
-          "price": "68,00 €",
-          "amount": 68
+          "name": "Standard Monthly Subscription",
+          "price": "31,00 €",
+          "amount": 31
         },
         {
           "name": "Advanced Member One Month",
@@ -364,17 +364,17 @@
           "amount": 77
         },
         {
+          "name": "Advanced Monthly Subscription",
+          "price": "68,00 €",
+          "amount": 68
+        },
+        {
           "name": "Credits Pack",
           "price": "30,00 €",
           "amount": 30
-        },
-        {
-          "name": "Standard Monthly Subscription",
-          "price": "31,00 €",
-          "amount": 31
         }
       ],
-      "fetchedAt": "2026-10-18T15:44:53.705Z"
+      "fetchedAt": "2026-10-19T09:51:10.877Z"
     },
     "dk": {
       "available": false,
@@ -449,14 +449,14 @@
           "amount": 16.49
         },
         {
-          "name": "Basic Monthly Subscription",
-          "price": "13,99 €",
-          "amount": 13.99
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "31,00 €",
           "amount": 31
+        },
+        {
+          "name": "Basic Monthly Subscription",
+          "price": "13,99 €",
+          "amount": 13.99
         },
         {
           "name": "Credits Pack",
@@ -474,7 +474,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T15:45:11.602Z"
+      "fetchedAt": "2026-10-19T09:51:12.491Z"
     },
     "ga": {
       "available": false,
@@ -510,11 +510,6 @@
         },
         {
           "name": "Credits Pack",
-          "price": "£39.49",
-          "amount": 39.49
-        },
-        {
-          "name": "Credits Pack",
           "price": "£26.49",
           "amount": 26.49
         },
@@ -524,17 +519,22 @@
           "amount": 11.9
         },
         {
-          "name": "Basic Member_One - Month",
-          "price": "£14.49",
-          "amount": 14.49
+          "name": "Credits Pack",
+          "price": "£39.49",
+          "amount": 39.49
         },
         {
           "name": "Credits Pack",
           "price": "£78.90",
           "amount": 78.9
+        },
+        {
+          "name": "Basic Member_One - Month",
+          "price": "£14.49",
+          "amount": 14.49
         }
       ],
-      "fetchedAt": "2026-10-18T15:45:14.496Z"
+      "fetchedAt": "2026-10-19T09:51:13.807Z"
     },
     "gd": {
       "available": false,
@@ -588,11 +588,6 @@
       "currency": "IDR",
       "items": [
         {
-          "name": "Basic Monthly Subscription",
-          "price": "Rp 265ribu",
-          "amount": 265
-        },
-        {
           "name": "Credits Pack",
           "price": "Rp 188ribu",
           "amount": 188
@@ -604,6 +599,11 @@
         },
         {
           "name": "Basic Monthly Subscription",
+          "price": "Rp 265ribu",
+          "amount": 265
+        },
+        {
+          "name": "Basic Monthly Subscription",
           "price": "Rp 235ribu",
           "amount": 235
         },
@@ -613,14 +613,14 @@
           "amount": 280
         },
         {
-          "name": "Advanced Monthly Subscription",
-          "price": "Rp 1,399juta",
-          "amount": 1399
-        },
-        {
           "name": "Basic Member_One - Month",
           "price": "Rp 280ribu",
           "amount": 280
+        },
+        {
+          "name": "Advanced Monthly Subscription",
+          "price": "Rp 1,399juta",
+          "amount": 1399
         },
         {
           "name": "Credits Pack",
@@ -633,12 +633,12 @@
           "amount": 549
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "Rp 639ribu",
-          "amount": 639
+          "name": "Advanced Monthly Subscription",
+          "price": "Rp 1,099juta",
+          "amount": 1099
         }
       ],
-      "fetchedAt": "2026-10-18T15:45:34.096Z"
+      "fetchedAt": "2026-10-19T09:51:15.334Z"
     },
     "ie": {
       "available": false,
@@ -691,14 +691,14 @@
           "amount": 2380
         },
         {
-          "name": "Credits Pack",
-          "price": "¥2,800",
-          "amount": 2800
-        },
-        {
           "name": "Advanced Monthly Subscription",
           "price": "¥10,400",
           "amount": 10400
+        },
+        {
+          "name": "Credits Pack",
+          "price": "¥2,800",
+          "amount": 2800
         },
         {
           "name": "Basic Monthly Subscription",
@@ -716,17 +716,17 @@
           "amount": 5600
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "¥5,200",
-          "amount": 5200
-        },
-        {
           "name": "Advanced Monthly Subscription",
           "price": "¥12,600",
           "amount": 12600
+        },
+        {
+          "name": "Standard Monthly Subscription",
+          "price": "¥5,200",
+          "amount": 5200
         }
       ],
-      "fetchedAt": "2026-10-18T15:45:47.453Z"
+      "fetchedAt": "2026-10-19T09:51:16.874Z"
     },
     "ke": {
       "available": false,
@@ -759,8 +759,8 @@
         },
         {
           "name": "Credits Pack",
-          "price": "￦22,000",
-          "amount": 22000
+          "price": "￦44,000",
+          "amount": 44000
         },
         {
           "name": "Basic Monthly Subscription",
@@ -769,8 +769,8 @@
         },
         {
           "name": "Credits Pack",
-          "price": "￦44,000",
-          "amount": 44000
+          "price": "￦22,000",
+          "amount": 22000
         },
         {
           "name": "Standard Monthly Subscription",
@@ -798,7 +798,7 @@
           "amount": 25000
         }
       ],
-      "fetchedAt": "2026-10-18T15:45:54.986Z"
+      "fetchedAt": "2026-10-19T09:51:18.374Z"
     },
     "kw": {
       "available": false,
@@ -932,6 +932,11 @@
           "amount": 599
         },
         {
+          "name": "Advanced Monthly Subscription",
+          "price": "$1,499.00",
+          "amount": 1499
+        },
+        {
           "name": "Basic Monthly Subscription",
           "price": "$299.00",
           "amount": 299
@@ -947,11 +952,6 @@
           "amount": 319
         },
         {
-          "name": "Advanced Monthly Subscription",
-          "price": "$1,499.00",
-          "amount": 1499
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "$619.00",
           "amount": 619
@@ -962,7 +962,7 @@
           "amount": 1350
         }
       ],
-      "fetchedAt": "2026-10-18T15:46:36.986Z"
+      "fetchedAt": "2026-10-19T09:51:19.942Z"
     },
     "my": {
       "currency": "MYR",
@@ -988,14 +988,14 @@
           "amount": 70
         },
         {
-          "name": "Basic Member_One - Month",
-          "price": "RM85.00",
-          "amount": 85
-        },
-        {
           "name": "Credits Pack",
           "price": "RM75.00",
           "amount": 75
+        },
+        {
+          "name": "Basic Member_One - Month",
+          "price": "RM85.00",
+          "amount": 85
         },
         {
           "name": "Standard Monthly Subscription",
@@ -1008,17 +1008,17 @@
           "amount": 165.9
         },
         {
-          "name": "Credits Pack",
-          "price": "RM150.00",
-          "amount": 150
+          "name": "Basic Member_One - Month",
+          "price": "RM85.00",
+          "amount": 85
         },
         {
           "name": "Credits Pack",
-          "price": "RM224.90",
-          "amount": 224.9
+          "price": "RM150.00",
+          "amount": 150
         }
       ],
-      "fetchedAt": "2026-10-18T15:46:38.453Z"
+      "fetchedAt": "2026-10-19T09:51:21.417Z"
     },
     "mz": {
       "available": false,
@@ -1130,7 +1130,7 @@
           "amount": 3900
         }
       ],
-      "fetchedAt": "2026-10-18T15:47:00.973Z"
+      "fetchedAt": "2026-10-19T09:51:22.873Z"
     },
     "pk": {
       "available": false,
@@ -1236,11 +1236,6 @@
       "currency": "THB",
       "items": [
         {
-          "name": "Basic Monthly Subscription",
-          "price": "฿540.00",
-          "amount": 540
-        },
-        {
           "name": "Credits Pack",
           "price": "฿375.00",
           "amount": 375
@@ -1259,6 +1254,11 @@
           "name": "Credits Pack",
           "price": "฿560.00",
           "amount": 560
+        },
+        {
+          "name": "Basic Monthly Subscription",
+          "price": "฿540.00",
+          "amount": 540
         },
         {
           "name": "Standard Monthly Subscription",
@@ -1286,7 +1286,7 @@
           "amount": 640
         }
       ],
-      "fetchedAt": "2026-10-18T15:47:40.153Z"
+      "fetchedAt": "2026-10-19T09:51:24.361Z"
     },
     "tj": {
       "available": false,
@@ -1382,7 +1382,7 @@
           "amount": 79
         }
       ],
-      "fetchedAt": "2026-10-19T08:27:43.593Z"
+      "fetchedAt": "2026-10-19T09:51:25.879Z"
     },
     "uy": {
       "available": false,
@@ -1443,14 +1443,14 @@
           "amount": 1129000
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "939.000đ",
-          "amount": 939000
-        },
-        {
           "name": "Basic Annual Subscription",
           "price": "3.549.000đ",
           "amount": 3549000
+        },
+        {
+          "name": "Standard Monthly Subscription",
+          "price": "939.000đ",
+          "amount": 939000
         },
         {
           "name": "Credits Pack",
@@ -1458,7 +1458,7 @@
           "amount": 750000
         }
       ],
-      "fetchedAt": "2026-10-18T15:48:05.572Z"
+      "fetchedAt": "2026-10-19T09:51:27.342Z"
     },
     "vu": {
       "available": false,

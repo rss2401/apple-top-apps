@@ -2,7 +2,7 @@
   "id": "541164041",
   "name": "Microsoft Copilot",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:25:18.377Z",
+  "fetchedAt": "2026-10-19T08:37:56.674Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -58,7 +58,7 @@
           "amount": 36.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:06.551Z"
+      "fetchedAt": "2026-10-19T08:33:43.274Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 10.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:07.980Z"
+      "fetchedAt": "2026-10-19T08:33:44.693Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:09.714Z"
+      "fetchedAt": "2026-10-19T08:33:46.314Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:11.033Z"
+      "fetchedAt": "2026-10-19T08:33:47.721Z"
     },
     "al": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:12.575Z"
+      "fetchedAt": "2026-10-19T08:33:49.274Z"
     },
     "am": {
       "currency": "USD",
@@ -338,7 +338,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:13.999Z"
+      "fetchedAt": "2026-10-19T08:33:50.873Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:15.504Z"
+      "fetchedAt": "2026-10-19T08:33:52.251Z"
     },
     "ar": {
       "currency": "USD",
@@ -450,7 +450,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:17.032Z"
+      "fetchedAt": "2026-10-19T08:33:53.781Z"
     },
     "at": {
       "currency": "EUR",
@@ -476,6 +476,11 @@
           "amount": 1.99
         },
         {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "10,00 €",
           "amount": 10
@@ -499,14 +504,9 @@
           "name": "Microsoft 365 Family",
           "price": "13,00 €",
           "amount": 13
-        },
-        {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "22,00 €",
-          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:18.500Z"
+      "fetchedAt": "2026-10-19T08:33:55.233Z"
     },
     "au": {
       "currency": "AUD",
@@ -562,7 +562,7 @@
           "amount": 179
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:20.556Z"
+      "fetchedAt": "2026-10-19T08:33:57.222Z"
     },
     "az": {
       "currency": "USD",
@@ -618,7 +618,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:21.562Z"
+      "fetchedAt": "2026-10-19T08:33:58.567Z"
     },
     "ba": {
       "currency": "EUR",
@@ -674,7 +674,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:23.112Z"
+      "fetchedAt": "2026-10-19T08:33:59.750Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:24.624Z"
+      "fetchedAt": "2026-10-19T08:34:01.579Z"
     },
     "be": {
       "currency": "EUR",
@@ -786,7 +786,7 @@
           "amount": 13
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:25.975Z"
+      "fetchedAt": "2026-10-19T08:34:02.698Z"
     },
     "bf": {
       "currency": "USD",
@@ -842,7 +842,7 @@
           "amount": 114.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:27.532Z"
+      "fetchedAt": "2026-10-19T08:34:04.390Z"
     },
     "bg": {
       "currency": "EUR",
@@ -898,7 +898,7 @@
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:28.938Z"
+      "fetchedAt": "2026-10-19T08:34:05.849Z"
     },
     "bh": {
       "currency": "USD",
@@ -954,7 +954,7 @@
           "amount": 10.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:30.502Z"
+      "fetchedAt": "2026-10-19T08:34:07.282Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:32.003Z"
+      "fetchedAt": "2026-10-19T08:34:08.740Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,7 +1066,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:33.505Z"
+      "fetchedAt": "2026-10-19T08:34:10.287Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:34.982Z"
+      "fetchedAt": "2026-10-19T08:34:11.970Z"
     },
     "bo": {
       "currency": "USD",
@@ -1178,7 +1178,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:36.487Z"
+      "fetchedAt": "2026-10-19T08:34:13.249Z"
     },
     "br": {
       "currency": "BRL",
@@ -1234,7 +1234,7 @@
           "amount": 59.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:38.479Z"
+      "fetchedAt": "2026-10-19T08:34:15.261Z"
     },
     "bs": {
       "currency": "USD",
@@ -1290,7 +1290,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:39.582Z"
+      "fetchedAt": "2026-10-19T08:34:16.217Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:41.016Z"
+      "fetchedAt": "2026-10-19T08:34:17.816Z"
     },
     "bw": {
       "currency": "USD",
@@ -1402,7 +1402,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:42.572Z"
+      "fetchedAt": "2026-10-19T08:34:19.251Z"
     },
     "by": {
       "available": false,
@@ -1462,7 +1462,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:45.505Z"
+      "fetchedAt": "2026-10-19T08:34:20.684Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1503,14 +1503,14 @@
           "amount": 11.49
         },
         {
-          "name": "Microsoft 365 Personal",
-          "price": "$11.49",
-          "amount": 11.49
-        },
-        {
           "name": " Microsoft 365 Personal",
           "price": "$114.99",
           "amount": 114.99
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "$11.49",
+          "amount": 11.49
         },
         {
           "name": "Microsoft 365 Premium Annual",
@@ -1518,7 +1518,7 @@
           "amount": 269.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:46.948Z"
+      "fetchedAt": "2026-10-19T08:34:22.294Z"
     },
     "cd": {
       "available": false,
@@ -1533,14 +1533,14 @@
           "amount": 8.49
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Microsoft 365 Family",
           "price": "USD 10.49",
           "amount": 10.49
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "Microsoft 365 Basic",
@@ -1578,7 +1578,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:50.120Z"
+      "fetchedAt": "2026-10-19T08:34:23.831Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1604,6 +1604,11 @@
           "amount": 2
         },
         {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "CHF 19.95",
+          "amount": 19.95
+        },
+        {
           "name": " Microsoft 365 Personal",
           "price": "CHF 99.95",
           "amount": 99.95
@@ -1619,11 +1624,6 @@
           "amount": 140
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "CHF 19.95",
-          "amount": 19.95
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "CHF 9.95",
           "amount": 9.95
@@ -1634,7 +1634,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:51.468Z"
+      "fetchedAt": "2026-10-19T08:34:25.120Z"
     },
     "ci": {
       "currency": "USD",
@@ -1690,7 +1690,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:53.046Z"
+      "fetchedAt": "2026-10-19T08:34:26.749Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1726,6 +1726,11 @@
           "amount": 21490
         },
         {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "$21.490",
+          "amount": 21490
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "$8.490",
           "amount": 8490
@@ -1739,14 +1744,9 @@
           "name": " Microsoft 365 Personal",
           "price": "$84.990",
           "amount": 84990
-        },
-        {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "$21.490",
-          "amount": 21490
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:54.519Z"
+      "fetchedAt": "2026-10-19T08:34:28.264Z"
     },
     "cm": {
       "currency": "USD",
@@ -1762,14 +1762,14 @@
           "amount": 14.49
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "19,99 $US",
-          "amount": 19.99
-        },
-        {
           "name": "Microsoft 365 Basic",
           "price": "1,99 $US",
           "amount": 1.99
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "19,99 $US",
+          "amount": 19.99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -1802,7 +1802,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:56.030Z"
+      "fetchedAt": "2026-10-19T08:34:29.754Z"
     },
     "cn": {
       "currency": "CNY",
@@ -1828,7 +1828,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T08:25:14.042Z"
+      "fetchedAt": "2026-10-19T08:34:31.099Z"
     },
     "co": {
       "currency": "COP",
@@ -1884,7 +1884,7 @@
           "amount": 369900
         }
       ],
-      "fetchedAt": "2026-10-18T14:25:59.066Z"
+      "fetchedAt": "2026-10-19T08:34:32.759Z"
     },
     "cr": {
       "currency": "USD",
@@ -1940,7 +1940,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:00.507Z"
+      "fetchedAt": "2026-10-19T08:34:34.306Z"
     },
     "cv": {
       "currency": "USD",
@@ -1996,7 +1996,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:02.026Z"
+      "fetchedAt": "2026-10-19T08:34:35.786Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2052,7 +2052,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:03.524Z"
+      "fetchedAt": "2026-10-19T08:34:37.187Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2108,7 +2108,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:04.936Z"
+      "fetchedAt": "2026-10-19T08:34:38.698Z"
     },
     "de": {
       "currency": "EUR",
@@ -2154,17 +2154,17 @@
           "amount": 10
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:05.824Z"
+      "fetchedAt": "2026-10-19T08:34:40.290Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2220,7 +2220,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:07.984Z"
+      "fetchedAt": "2026-10-19T08:34:41.788Z"
     },
     "dm": {
       "currency": "USD",
@@ -2276,7 +2276,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:09.532Z"
+      "fetchedAt": "2026-10-19T08:34:43.260Z"
     },
     "do": {
       "currency": "USD",
@@ -2332,7 +2332,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:11.088Z"
+      "fetchedAt": "2026-10-19T08:34:44.738Z"
     },
     "dz": {
       "currency": "USD",
@@ -2388,7 +2388,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:12.506Z"
+      "fetchedAt": "2026-10-19T08:34:46.278Z"
     },
     "ec": {
       "currency": "USD",
@@ -2419,6 +2419,11 @@
           "amount": 10.49
         },
         {
+          "name": "Microsoft 365 Family",
+          "price": "USD 104.99",
+          "amount": 104.99
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "USD 8.49",
           "amount": 8.49
@@ -2427,11 +2432,6 @@
           "name": " Microsoft 365 Personal",
           "price": "USD 84.99",
           "amount": 84.99
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "USD 104.99",
-          "amount": 104.99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -2444,7 +2444,7 @@
           "amount": 10.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:14.016Z"
+      "fetchedAt": "2026-10-19T08:34:47.776Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2500,7 +2500,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:15.483Z"
+      "fetchedAt": "2026-10-19T08:34:49.153Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2556,7 +2556,7 @@
           "amount": 239
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:17.095Z"
+      "fetchedAt": "2026-10-19T08:34:50.730Z"
     },
     "es": {
       "currency": "EUR",
@@ -2612,7 +2612,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:18.521Z"
+      "fetchedAt": "2026-10-19T08:34:52.200Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2633,14 +2633,14 @@
           "amount": 23
         },
         {
-          "name": "Microsoft 365 Basic",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "23,00 €",
           "amount": 23
+        },
+        {
+          "name": "Microsoft 365 Basic",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Microsoft 365 Family",
@@ -2668,7 +2668,7 @@
           "amount": 13
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:19.985Z"
+      "fetchedAt": "2026-10-19T08:34:53.769Z"
     },
     "fj": {
       "currency": "USD",
@@ -2724,7 +2724,7 @@
           "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:21.527Z"
+      "fetchedAt": "2026-10-19T08:34:55.229Z"
     },
     "fm": {
       "currency": "USD",
@@ -2780,7 +2780,7 @@
           "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:23.373Z"
+      "fetchedAt": "2026-10-19T08:34:56.911Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2826,17 +2826,17 @@
           "amount": 99
         },
         {
+          "name": "Microsoft 365 Premium Annual",
+          "price": "219,00 €",
+          "amount": 219
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "7,49 €",
           "amount": 7.49
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "129,00 €",
-          "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:24.526Z"
+      "fetchedAt": "2026-10-19T08:34:58.249Z"
     },
     "ga": {
       "currency": "USD",
@@ -2892,7 +2892,7 @@
           "amount": 114.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:26.056Z"
+      "fetchedAt": "2026-10-19T08:34:59.753Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2948,7 +2948,7 @@
           "amount": 18.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:25:15.153Z"
+      "fetchedAt": "2026-10-19T08:35:01.227Z"
     },
     "gd": {
       "currency": "USD",
@@ -3004,7 +3004,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:29.045Z"
+      "fetchedAt": "2026-10-19T08:35:02.713Z"
     },
     "ge": {
       "currency": "USD",
@@ -3060,7 +3060,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:30.483Z"
+      "fetchedAt": "2026-10-19T08:35:04.222Z"
     },
     "gh": {
       "currency": "USD",
@@ -3116,7 +3116,7 @@
           "amount": 144.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:31.924Z"
+      "fetchedAt": "2026-10-19T08:35:05.925Z"
     },
     "gm": {
       "currency": "USD",
@@ -3172,7 +3172,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:33.466Z"
+      "fetchedAt": "2026-10-19T08:35:07.312Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3198,14 +3198,14 @@
           "amount": 1.99
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "23,00 €",
-          "amount": 23
-        },
-        {
           "name": "Microsoft 365 Family",
           "price": "13,00 €",
           "amount": 13
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "23,00 €",
+          "amount": 23
         },
         {
           "name": "Microsoft 365 Personal",
@@ -3228,7 +3228,7 @@
           "amount": 13
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:34.957Z"
+      "fetchedAt": "2026-10-19T08:35:08.719Z"
     },
     "gt": {
       "currency": "USD",
@@ -3284,7 +3284,7 @@
           "amount": 10.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:36.544Z"
+      "fetchedAt": "2026-10-19T08:35:10.343Z"
     },
     "gw": {
       "currency": "USD",
@@ -3340,7 +3340,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:38.024Z"
+      "fetchedAt": "2026-10-19T08:35:11.888Z"
     },
     "gy": {
       "currency": "USD",
@@ -3396,7 +3396,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:39.534Z"
+      "fetchedAt": "2026-10-19T08:35:13.632Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3427,6 +3427,11 @@
           "amount": 158
         },
         {
+          "name": "Microsoft 365 Premium Annual",
+          "price": "HK$ 1,588.00",
+          "amount": 1588
+        },
+        {
           "name": " Microsoft 365 Personal",
           "price": "HK$ 780.00",
           "amount": 780
@@ -3445,14 +3450,9 @@
           "name": "Microsoft 365 Personal",
           "price": "HK$ 53.00",
           "amount": 53
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "HK$ 1,020.00",
-          "amount": 1020
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:41.055Z"
+      "fetchedAt": "2026-10-19T08:35:14.694Z"
     },
     "hn": {
       "currency": "USD",
@@ -3508,7 +3508,7 @@
           "amount": 10.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:42.587Z"
+      "fetchedAt": "2026-10-19T08:35:16.285Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3564,7 +3564,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:44.008Z"
+      "fetchedAt": "2026-10-19T08:35:17.691Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3590,14 +3590,14 @@
           "amount": 499
         },
         {
-          "name": "Microsoft 365 Family",
-          "price": "HUF4,650.00",
-          "amount": 4650
-        },
-        {
           "name": " Microsoft 365 Personal",
           "price": "HUF35,900.00",
           "amount": 35900
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "HUF4,650.00",
+          "amount": 4650
         },
         {
           "name": "Microsoft 365 Personal",
@@ -3620,7 +3620,7 @@
           "amount": 46490
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:45.572Z"
+      "fetchedAt": "2026-10-19T08:35:19.183Z"
     },
     "id": {
       "currency": "IDR",
@@ -3676,7 +3676,7 @@
           "amount": 1699
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:46.989Z"
+      "fetchedAt": "2026-10-19T08:35:20.688Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3702,14 +3702,14 @@
           "amount": 1.99
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "€99.00",
-          "amount": 99
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "€22.00",
           "amount": 22
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "€99.00",
+          "amount": 99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -3732,7 +3732,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:48.502Z"
+      "fetchedAt": "2026-10-19T08:35:22.206Z"
     },
     "il": {
       "currency": "ILS",
@@ -3788,7 +3788,7 @@
           "amount": 53
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:50.074Z"
+      "fetchedAt": "2026-10-19T08:35:23.826Z"
     },
     "in": {
       "currency": "INR",
@@ -3814,14 +3814,14 @@
           "amount": 149
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "₹ 6,899",
-          "amount": 6899
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "₹ 1,999",
           "amount": 1999
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "₹ 6,899",
+          "amount": 6899
         },
         {
           "name": "Microsoft 365 Premium Monthly",
@@ -3835,8 +3835,8 @@
         },
         {
           "name": "Microsoft 365 Personal",
-          "price": "₹ 589",
-          "amount": 589
+          "price": "₹ 689",
+          "amount": 689
         },
         {
           "name": "Microsoft 365 Family",
@@ -3844,7 +3844,7 @@
           "amount": 8199
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:51.463Z"
+      "fetchedAt": "2026-10-19T08:35:25.222Z"
     },
     "iq": {
       "currency": "USD",
@@ -3900,7 +3900,7 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:53.013Z"
+      "fetchedAt": "2026-10-19T08:35:26.739Z"
     },
     "is": {
       "currency": "USD",
@@ -3956,7 +3956,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:54.596Z"
+      "fetchedAt": "2026-10-19T08:35:28.255Z"
     },
     "it": {
       "currency": "EUR",
@@ -4012,7 +4012,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:55.997Z"
+      "fetchedAt": "2026-10-19T08:35:29.716Z"
     },
     "jm": {
       "currency": "USD",
@@ -4068,7 +4068,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:57.530Z"
+      "fetchedAt": "2026-10-19T08:35:31.247Z"
     },
     "jo": {
       "currency": "USD",
@@ -4124,7 +4124,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:26:58.988Z"
+      "fetchedAt": "2026-10-19T08:35:32.672Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4180,7 +4180,7 @@
           "amount": 2100
         }
       ],
-      "fetchedAt": "2026-10-19T08:25:16.956Z"
+      "fetchedAt": "2026-10-19T08:35:34.256Z"
     },
     "ke": {
       "currency": "USD",
@@ -4236,7 +4236,7 @@
           "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:02.034Z"
+      "fetchedAt": "2026-10-19T08:35:35.742Z"
     },
     "kg": {
       "currency": "USD",
@@ -4292,7 +4292,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:03.551Z"
+      "fetchedAt": "2026-10-19T08:35:37.363Z"
     },
     "kh": {
       "currency": "USD",
@@ -4348,7 +4348,7 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:04.998Z"
+      "fetchedAt": "2026-10-19T08:35:38.737Z"
     },
     "kn": {
       "currency": "USD",
@@ -4404,7 +4404,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:06.660Z"
+      "fetchedAt": "2026-10-19T08:35:40.341Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4435,19 +4435,14 @@
           "amount": 29000
         },
         {
-          "name": "Microsoft 365 Family",
-          "price": "￦15,500",
-          "amount": 15500
-        },
-        {
           "name": " Microsoft 365 Personal",
           "price": "￦125,000",
           "amount": 125000
         },
         {
-          "name": "Microsoft 365 Personal",
-          "price": "￦12,500",
-          "amount": 12500
+          "name": "Microsoft 365 Family",
+          "price": "￦15,500",
+          "amount": 15500
         },
         {
           "name": "Microsoft 365 Personal",
@@ -4455,12 +4450,17 @@
           "amount": 9500
         },
         {
+          "name": "Microsoft 365 Personal",
+          "price": "￦12,500",
+          "amount": 12500
+        },
+        {
           "name": "Microsoft 365 Family",
-          "price": "￦15,500",
-          "amount": 15500
+          "price": "￦155,000",
+          "amount": 155000
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:08.008Z"
+      "fetchedAt": "2026-10-19T08:35:41.709Z"
     },
     "kw": {
       "currency": "USD",
@@ -4516,7 +4516,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:09.479Z"
+      "fetchedAt": "2026-10-19T08:35:43.245Z"
     },
     "ky": {
       "currency": "USD",
@@ -4572,7 +4572,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:11.001Z"
+      "fetchedAt": "2026-10-19T08:35:44.780Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4628,7 +4628,7 @@
           "amount": 5090
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:12.658Z"
+      "fetchedAt": "2026-10-19T08:35:46.141Z"
     },
     "la": {
       "currency": "USD",
@@ -4684,7 +4684,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:13.951Z"
+      "fetchedAt": "2026-10-19T08:35:47.684Z"
     },
     "lb": {
       "currency": "USD",
@@ -4710,7 +4710,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:15.521Z"
+      "fetchedAt": "2026-10-19T08:35:49.195Z"
     },
     "lc": {
       "currency": "USD",
@@ -4766,7 +4766,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:17.042Z"
+      "fetchedAt": "2026-10-19T08:35:50.735Z"
     },
     "lk": {
       "currency": "USD",
@@ -4822,7 +4822,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:18.484Z"
+      "fetchedAt": "2026-10-19T08:35:52.149Z"
     },
     "lr": {
       "currency": "USD",
@@ -4878,7 +4878,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:20.060Z"
+      "fetchedAt": "2026-10-19T08:35:54.004Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4904,14 +4904,14 @@
           "amount": 1.99
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -4934,7 +4934,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:21.516Z"
+      "fetchedAt": "2026-10-19T08:35:55.187Z"
     },
     "lu": {
       "currency": "EUR",
@@ -4990,7 +4990,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:22.982Z"
+      "fetchedAt": "2026-10-19T08:35:56.641Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5046,7 +5046,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:24.558Z"
+      "fetchedAt": "2026-10-19T08:35:58.225Z"
     },
     "ly": {
       "currency": "USD",
@@ -5102,7 +5102,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:26.009Z"
+      "fetchedAt": "2026-10-19T08:35:59.820Z"
     },
     "ma": {
       "currency": "USD",
@@ -5158,7 +5158,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:27.470Z"
+      "fetchedAt": "2026-10-19T08:36:01.233Z"
     },
     "md": {
       "currency": "USD",
@@ -5214,7 +5214,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:29.016Z"
+      "fetchedAt": "2026-10-19T08:36:02.800Z"
     },
     "me": {
       "currency": "EUR",
@@ -5270,7 +5270,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:30.521Z"
+      "fetchedAt": "2026-10-19T08:36:04.220Z"
     },
     "mg": {
       "currency": "USD",
@@ -5326,7 +5326,7 @@
           "amount": 10.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:32.059Z"
+      "fetchedAt": "2026-10-19T08:36:05.715Z"
     },
     "mk": {
       "currency": "USD",
@@ -5382,7 +5382,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:33.506Z"
+      "fetchedAt": "2026-10-19T08:36:07.230Z"
     },
     "ml": {
       "currency": "USD",
@@ -5438,7 +5438,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:35.031Z"
+      "fetchedAt": "2026-10-19T08:36:08.853Z"
     },
     "mm": {
       "currency": "USD",
@@ -5494,7 +5494,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:36.550Z"
+      "fetchedAt": "2026-10-19T08:36:10.105Z"
     },
     "mn": {
       "currency": "USD",
@@ -5550,7 +5550,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:38.483Z"
+      "fetchedAt": "2026-10-19T08:36:11.702Z"
     },
     "mo": {
       "currency": "USD",
@@ -5576,7 +5576,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:39.450Z"
+      "fetchedAt": "2026-10-19T08:36:13.213Z"
     },
     "mr": {
       "currency": "USD",
@@ -5632,7 +5632,7 @@
           "amount": 134.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:41.134Z"
+      "fetchedAt": "2026-10-19T08:36:14.675Z"
     },
     "ms": {
       "currency": "USD",
@@ -5688,7 +5688,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:42.538Z"
+      "fetchedAt": "2026-10-19T08:36:16.332Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5744,7 +5744,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:43.992Z"
+      "fetchedAt": "2026-10-19T08:36:17.693Z"
     },
     "mu": {
       "currency": "USD",
@@ -5800,7 +5800,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:45.538Z"
+      "fetchedAt": "2026-10-19T08:36:19.196Z"
     },
     "mv": {
       "currency": "USD",
@@ -5856,7 +5856,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:47.005Z"
+      "fetchedAt": "2026-10-19T08:36:20.755Z"
     },
     "mw": {
       "currency": "USD",
@@ -5912,7 +5912,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:48.469Z"
+      "fetchedAt": "2026-10-19T08:36:22.227Z"
     },
     "mx": {
       "currency": "MXN",
@@ -5953,14 +5953,14 @@
           "amount": 184
         },
         {
-          "name": "Microsoft 365 Family",
-          "price": "$2,299.00",
-          "amount": 2299
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "$375.00",
           "amount": 375
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "$2,299.00",
+          "amount": 2299
         },
         {
           "name": "Microsoft 365 Personal",
@@ -5968,7 +5968,7 @@
           "amount": 184
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:50.035Z"
+      "fetchedAt": "2026-10-19T08:36:23.985Z"
     },
     "my": {
       "currency": "MYR",
@@ -6024,7 +6024,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:51.483Z"
+      "fetchedAt": "2026-10-19T08:36:25.149Z"
     },
     "mz": {
       "currency": "USD",
@@ -6080,7 +6080,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:53.057Z"
+      "fetchedAt": "2026-10-19T08:36:26.922Z"
     },
     "na": {
       "currency": "USD",
@@ -6136,7 +6136,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:54.708Z"
+      "fetchedAt": "2026-10-19T08:36:28.210Z"
     },
     "ne": {
       "currency": "USD",
@@ -6192,7 +6192,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:56.035Z"
+      "fetchedAt": "2026-10-19T08:36:29.810Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6218,14 +6218,14 @@
           "amount": 1200
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "₦ 71,900.00",
-          "amount": 71900
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "₦ 17,000.00",
           "amount": 17000
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "₦ 71,900.00",
+          "amount": 71900
         },
         {
           "name": "Microsoft 365 Family",
@@ -6248,7 +6248,7 @@
           "amount": 7200
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:57.521Z"
+      "fetchedAt": "2026-10-19T08:36:31.184Z"
     },
     "ni": {
       "currency": "USD",
@@ -6304,7 +6304,7 @@
           "amount": 8.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:27:59.065Z"
+      "fetchedAt": "2026-10-19T08:36:32.805Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6360,7 +6360,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:00.504Z"
+      "fetchedAt": "2026-10-19T08:36:34.158Z"
     },
     "no": {
       "currency": "NOK",
@@ -6416,7 +6416,7 @@
           "amount": 1559
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:02.023Z"
+      "fetchedAt": "2026-10-19T08:36:35.549Z"
     },
     "np": {
       "currency": "USD",
@@ -6472,7 +6472,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:03.539Z"
+      "fetchedAt": "2026-10-19T08:36:37.268Z"
     },
     "nr": {
       "currency": "USD",
@@ -6528,7 +6528,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:04.999Z"
+      "fetchedAt": "2026-10-19T08:36:38.874Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6584,7 +6584,7 @@
           "amount": 17
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:06.635Z"
+      "fetchedAt": "2026-10-19T08:36:39.780Z"
     },
     "om": {
       "currency": "USD",
@@ -6640,7 +6640,7 @@
           "amount": 109.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:07.955Z"
+      "fetchedAt": "2026-10-19T08:36:41.723Z"
     },
     "pa": {
       "currency": "USD",
@@ -6666,6 +6666,11 @@
           "amount": 1.99
         },
         {
+          "name": "Microsoft 365 Personal",
+          "price": "USD 8.49",
+          "amount": 8.49
+        },
+        {
           "name": " Microsoft 365 Personal",
           "price": "USD 84.99",
           "amount": 84.99
@@ -6689,14 +6694,9 @@
           "name": "Microsoft 365 Family",
           "price": "USD 10.49",
           "amount": 10.49
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "USD 104.99",
-          "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:09.546Z"
+      "fetchedAt": "2026-10-19T08:36:43.222Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6727,6 +6727,11 @@
           "amount": 37.99
         },
         {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "S/ 74.99",
+          "amount": 74.99
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "S/ 30.99",
           "amount": 30.99
@@ -6745,14 +6750,9 @@
           "name": "Microsoft 365 Personal",
           "price": "S/ 23.90",
           "amount": 23.9
-        },
-        {
-          "name": "Microsoft 365 Personal",
-          "price": "S/ 30.99",
-          "amount": 30.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:11.022Z"
+      "fetchedAt": "2026-10-19T08:36:44.733Z"
     },
     "pg": {
       "currency": "USD",
@@ -6808,7 +6808,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:12.551Z"
+      "fetchedAt": "2026-10-19T08:36:46.233Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6844,14 +6844,14 @@
           "amount": 609
         },
         {
-          "name": "Microsoft 365 Personal",
-          "price": "₱ 489.00",
-          "amount": 489
-        },
-        {
           "name": "Microsoft 365 Premium Annual",
           "price": "₱ 10,990.00",
           "amount": 10990
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "₱ 489.00",
+          "amount": 489
         },
         {
           "name": "Microsoft 365 Premium Monthly",
@@ -6864,7 +6864,7 @@
           "amount": 6090
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:14.021Z"
+      "fetchedAt": "2026-10-19T08:36:48.036Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6920,7 +6920,7 @@
           "amount": 2299
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:15.485Z"
+      "fetchedAt": "2026-10-19T08:36:49.245Z"
     },
     "pl": {
       "currency": "PLN",
@@ -6976,7 +6976,7 @@
           "amount": 429.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:16.989Z"
+      "fetchedAt": "2026-10-19T08:36:50.686Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7032,7 +7032,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:18.466Z"
+      "fetchedAt": "2026-10-19T08:36:52.185Z"
     },
     "pw": {
       "currency": "USD",
@@ -7088,7 +7088,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:20.039Z"
+      "fetchedAt": "2026-10-19T08:36:53.808Z"
     },
     "py": {
       "currency": "USD",
@@ -7144,7 +7144,7 @@
           "amount": 8.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:21.575Z"
+      "fetchedAt": "2026-10-19T08:36:55.226Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7200,7 +7200,7 @@
           "amount": 46.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:23.016Z"
+      "fetchedAt": "2026-10-19T08:36:56.816Z"
     },
     "ro": {
       "currency": "RON",
@@ -7256,7 +7256,7 @@
           "amount": 619.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:24.516Z"
+      "fetchedAt": "2026-10-19T08:36:58.214Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7272,14 +7272,14 @@
           "amount": 12.99
         },
         {
-          "name": "Microsoft 365 Basic",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Microsoft 365 Premium Monthly",
           "price": "21,99 €",
           "amount": 21.99
+        },
+        {
+          "name": "Microsoft 365 Basic",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Microsoft 365 Family",
@@ -7312,7 +7312,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:26.045Z"
+      "fetchedAt": "2026-10-19T08:36:59.976Z"
     },
     "ru": {
       "available": false,
@@ -7372,7 +7372,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:28.923Z"
+      "fetchedAt": "2026-10-19T08:37:01.244Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7428,7 +7428,7 @@
           "amount": 27.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:30.486Z"
+      "fetchedAt": "2026-10-19T08:37:02.437Z"
     },
     "sb": {
       "currency": "USD",
@@ -7484,7 +7484,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:31.997Z"
+      "fetchedAt": "2026-10-19T08:37:04.199Z"
     },
     "sc": {
       "currency": "USD",
@@ -7540,7 +7540,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:33.606Z"
+      "fetchedAt": "2026-10-19T08:37:05.715Z"
     },
     "se": {
       "currency": "SEK",
@@ -7596,7 +7596,7 @@
           "amount": 115
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:35.037Z"
+      "fetchedAt": "2026-10-19T08:37:07.181Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7652,7 +7652,7 @@
           "amount": 289.98
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:36.459Z"
+      "fetchedAt": "2026-10-19T08:37:08.685Z"
     },
     "si": {
       "currency": "EUR",
@@ -7708,7 +7708,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:38.066Z"
+      "fetchedAt": "2026-10-19T08:37:10.180Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7764,7 +7764,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:39.527Z"
+      "fetchedAt": "2026-10-19T08:37:11.692Z"
     },
     "sl": {
       "currency": "USD",
@@ -7820,7 +7820,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:41.008Z"
+      "fetchedAt": "2026-10-19T08:37:13.158Z"
     },
     "sn": {
       "currency": "USD",
@@ -7846,14 +7846,14 @@
           "amount": 1.99
         },
         {
-          "name": "Microsoft 365 Family",
-          "price": "USD 14.49",
-          "amount": 14.49
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "USD 11.49",
           "amount": 11.49
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "USD 14.49",
+          "amount": 14.49
         },
         {
           "name": "Microsoft 365 Personal",
@@ -7876,7 +7876,7 @@
           "amount": 144.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:42.620Z"
+      "fetchedAt": "2026-10-19T08:37:14.768Z"
     },
     "sr": {
       "currency": "USD",
@@ -7932,7 +7932,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:44.044Z"
+      "fetchedAt": "2026-10-19T08:37:16.260Z"
     },
     "st": {
       "currency": "USD",
@@ -7988,7 +7988,7 @@
           "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:45.727Z"
+      "fetchedAt": "2026-10-19T08:37:17.705Z"
     },
     "sv": {
       "currency": "USD",
@@ -8044,7 +8044,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:47.033Z"
+      "fetchedAt": "2026-10-19T08:37:19.208Z"
     },
     "sz": {
       "currency": "USD",
@@ -8100,7 +8100,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:48.547Z"
+      "fetchedAt": "2026-10-19T08:37:20.765Z"
     },
     "tc": {
       "currency": "USD",
@@ -8156,7 +8156,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:50.123Z"
+      "fetchedAt": "2026-10-19T08:37:22.235Z"
     },
     "td": {
       "currency": "USD",
@@ -8167,6 +8167,31 @@
           "amount": 8.49
         },
         {
+          "name": "Microsoft 365 Family",
+          "price": "USD 10.49",
+          "amount": 10.49
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Microsoft 365 Basic",
+          "price": "USD 1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "USD 104.99",
+          "amount": 104.99
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "USD 8.49",
+          "amount": 8.49
+        },
+        {
           "name": "Microsoft 365 Personal",
           "price": "USD 84.99",
           "amount": 84.99
@@ -8185,34 +8210,9 @@
           "name": "Microsoft 365 Personal",
           "price": "USD 8.49",
           "amount": 8.49
-        },
-        {
-          "name": "Microsoft 365 Personal",
-          "price": "USD 84.99",
-          "amount": 84.99
-        },
-        {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Microsoft 365 Premium Annual",
-          "price": "USD 199.99",
-          "amount": 199.99
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "USD 10.49",
-          "amount": 10.49
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "USD 104.99",
-          "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:51.517Z"
+      "fetchedAt": "2026-10-19T08:37:23.740Z"
     },
     "th": {
       "currency": "THB",
@@ -8248,6 +8248,11 @@
           "amount": 299
         },
         {
+          "name": "Microsoft 365 Personal",
+          "price": "฿299.00",
+          "amount": 299
+        },
+        {
           "name": " Microsoft 365 Personal",
           "price": "฿2,999.00",
           "amount": 2999
@@ -8261,14 +8266,9 @@
           "name": "Microsoft 365 Family",
           "price": "฿369.00",
           "amount": 369
-        },
-        {
-          "name": "Microsoft 365 Personal",
-          "price": "฿299.00",
-          "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:53.173Z"
+      "fetchedAt": "2026-10-19T08:37:25.299Z"
     },
     "tj": {
       "currency": "USD",
@@ -8324,7 +8324,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:54.574Z"
+      "fetchedAt": "2026-10-19T08:37:26.698Z"
     },
     "tm": {
       "currency": "USD",
@@ -8380,7 +8380,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:56.036Z"
+      "fetchedAt": "2026-10-19T08:37:28.285Z"
     },
     "tn": {
       "currency": "USD",
@@ -8436,7 +8436,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:57.484Z"
+      "fetchedAt": "2026-10-19T08:37:29.760Z"
     },
     "to": {
       "currency": "USD",
@@ -8492,7 +8492,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:28:59.033Z"
+      "fetchedAt": "2026-10-19T08:37:31.216Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8523,6 +8523,11 @@
           "amount": 719.99
         },
         {
+          "name": " Microsoft 365 Personal",
+          "price": "₺3.299,99",
+          "amount": 3299.99
+        },
+        {
           "name": "Microsoft 365 Family",
           "price": "₺4.099,99",
           "amount": 4099.99
@@ -8538,17 +8543,12 @@
           "amount": 329.99
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "₺3.299,99",
-          "amount": 3299.99
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "₺329,99",
           "amount": 329.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:00.566Z"
+      "fetchedAt": "2026-10-19T08:37:32.287Z"
     },
     "tt": {
       "currency": "USD",
@@ -8604,7 +8604,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:02.025Z"
+      "fetchedAt": "2026-10-19T08:37:34.259Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8660,7 +8660,7 @@
           "amount": 4190
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:03.534Z"
+      "fetchedAt": "2026-10-19T08:37:36.231Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8686,14 +8686,14 @@
           "amount": 4900
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "50,900.00 TZS",
-          "amount": 50900
-        },
-        {
           "name": " Microsoft 365 Personal",
           "price": "309,900.00 TZS",
           "amount": 309900
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "50,900.00 TZS",
+          "amount": 50900
         },
         {
           "name": "Microsoft 365 Personal",
@@ -8716,7 +8716,7 @@
           "amount": 390000
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:05.153Z"
+      "fetchedAt": "2026-10-19T08:37:37.147Z"
     },
     "ua": {
       "currency": "USD",
@@ -8772,7 +8772,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:06.510Z"
+      "fetchedAt": "2026-10-19T08:37:38.687Z"
     },
     "ug": {
       "currency": "USD",
@@ -8828,7 +8828,7 @@
           "amount": 11.49
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:08.081Z"
+      "fetchedAt": "2026-10-19T08:37:40.198Z"
     },
     "us": {
       "currency": "USD",
@@ -8884,7 +8884,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:25:18.377Z"
+      "fetchedAt": "2026-10-19T08:37:41.903Z"
     },
     "uy": {
       "currency": "USD",
@@ -8940,7 +8940,7 @@
           "amount": 8.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:11.208Z"
+      "fetchedAt": "2026-10-19T08:37:43.168Z"
     },
     "uz": {
       "currency": "USD",
@@ -8996,7 +8996,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:12.601Z"
+      "fetchedAt": "2026-10-19T08:37:44.725Z"
     },
     "vc": {
       "currency": "USD",
@@ -9052,7 +9052,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:14.048Z"
+      "fetchedAt": "2026-10-19T08:37:46.322Z"
     },
     "ve": {
       "available": false,
@@ -9112,7 +9112,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:16.974Z"
+      "fetchedAt": "2026-10-19T08:37:47.729Z"
     },
     "vn": {
       "currency": "VND",
@@ -9158,17 +9158,17 @@
           "amount": 2599000
         },
         {
-          "name": "Microsoft 365 Family",
-          "price": "260.000đ",
-          "amount": 260000
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "159.000đ",
           "amount": 159000
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "260.000đ",
+          "amount": 260000
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:18.428Z"
+      "fetchedAt": "2026-10-19T08:37:49.114Z"
     },
     "vu": {
       "currency": "USD",
@@ -9224,7 +9224,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:20.057Z"
+      "fetchedAt": "2026-10-19T08:37:50.665Z"
     },
     "xk": {
       "available": false,
@@ -9284,7 +9284,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:23.186Z"
+      "fetchedAt": "2026-10-19T08:37:52.241Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9340,7 +9340,7 @@
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:24.511Z"
+      "fetchedAt": "2026-10-19T08:37:53.655Z"
     },
     "zm": {
       "currency": "USD",
@@ -9396,7 +9396,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:26.038Z"
+      "fetchedAt": "2026-10-19T08:37:55.362Z"
     },
     "zw": {
       "currency": "USD",
@@ -9452,7 +9452,7 @@
           "amount": 84.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:29:27.538Z"
+      "fetchedAt": "2026-10-19T08:37:56.674Z"
     }
   }
 }

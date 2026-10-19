@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Suno - AI Songs & Music",
+  "name": "Music & Song Creator: Suno",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:15:00.941Z",
+  "fetchedAt": "2026-10-19T08:55:23.770Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -48,9 +48,9 @@
           "amount": 19.99
         },
         {
-          "name": "3 Download Credits",
-          "price": "AED 34.99",
-          "amount": 34.99
+          "name": "10 Download Credits",
+          "price": "AED 119.99",
+          "amount": 119.99
         },
         {
           "name": "4000 Credits",
@@ -58,7 +58,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:36.491Z"
+      "fetchedAt": "2026-10-19T08:51:05.569Z"
     },
     "af": {
       "available": false,
@@ -118,7 +118,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:39.443Z"
+      "fetchedAt": "2026-10-19T08:51:07.224Z"
     },
     "ai": {
       "currency": "USD",
@@ -139,42 +139,42 @@
           "amount": 96
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 29.90",
-          "amount": 29.9
+          "name": "Premier Plan",
+          "price": "USD 289.00",
+          "amount": 289
         },
         {
-          "name": "5 Download Credits",
-          "price": "USD 14.95",
-          "amount": 14.95
+          "name": "1000 Credits",
+          "price": "USD 8.00",
+          "amount": 8
         },
         {
-          "name": "3 Download Credits",
-          "price": "USD 8.95",
-          "amount": 8.95
+          "name": "4000 Credits",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 2.99",
-          "amount": 2.99
+          "name": "2000 Credits",
+          "price": "USD 16.00",
+          "amount": 16
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 49.90",
-          "amount": 49.9
+          "name": "500 Credits",
+          "price": "USD 4.00",
+          "amount": 4
         },
         {
-          "name": "5 Download Credits",
-          "price": "USD 24.95",
-          "amount": 24.95
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
-          "name": "3 Download Credits",
-          "price": "USD 14.95",
-          "amount": 14.95
+          "name": "Premier Plan",
+          "price": "USD 289.00",
+          "amount": 289
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:40.986Z"
+      "fetchedAt": "2026-10-19T08:51:08.548Z"
     },
     "al": {
       "currency": "USD",
@@ -230,7 +230,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:42.455Z"
+      "fetchedAt": "2026-10-19T08:51:10.096Z"
     },
     "am": {
       "currency": "USD",
@@ -246,14 +246,14 @@
           "amount": 40
         },
         {
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
+        },
+        {
           "name": "1000 Credits",
           "price": "USD 9.00",
           "amount": 9
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "USD 3.99",
-          "amount": 3.99
         },
         {
           "name": "Pro Plan",
@@ -261,9 +261,9 @@
           "amount": 119
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
+          "name": "1 Download Credit",
+          "price": "USD 3.99",
+          "amount": 3.99
         },
         {
           "name": "1 Download Credit",
@@ -286,7 +286,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:44.050Z"
+      "fetchedAt": "2026-10-19T08:51:11.565Z"
     },
     "ao": {
       "currency": "USD",
@@ -342,7 +342,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:45.429Z"
+      "fetchedAt": "2026-10-19T08:51:13.082Z"
     },
     "ar": {
       "currency": "USD",
@@ -373,11 +373,6 @@
           "amount": 4
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 29.90",
-          "amount": 29.9
-        },
-        {
           "name": "1 Download Credit",
           "price": "USD 2.99",
           "amount": 2.99
@@ -386,6 +381,11 @@
           "name": "3 Download Credits",
           "price": "USD 8.95",
           "amount": 8.95
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 29.90",
+          "amount": 29.9
         },
         {
           "name": "1000 Credits",
@@ -398,7 +398,7 @@
           "amount": 289
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:47.074Z"
+      "fetchedAt": "2026-10-19T08:51:14.564Z"
     },
     "at": {
       "currency": "EUR",
@@ -449,12 +449,12 @@
           "amount": 9.95
         },
         {
-          "name": "2000 Credits",
-          "price": "18,00 €",
-          "amount": 18
+          "name": "5 Download Credits",
+          "price": "17,95 €",
+          "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:48.444Z"
+      "fetchedAt": "2026-10-19T08:51:16.047Z"
     },
     "au": {
       "currency": "AUD",
@@ -500,17 +500,17 @@
           "amount": 14.95
         },
         {
-          "name": "5 Download Credits",
-          "price": "$22.99",
-          "amount": 22.99
-        },
-        {
           "name": "2000 Credits",
           "price": "$25.00",
           "amount": 25
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "$22.99",
+          "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:49.999Z"
+      "fetchedAt": "2026-10-19T08:51:17.616Z"
     },
     "az": {
       "currency": "USD",
@@ -526,14 +526,14 @@
           "amount": 40
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
@@ -541,14 +541,14 @@
           "amount": 5.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 3.99",
-          "amount": 3.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 119.00",
           "amount": 119
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 3.99",
+          "amount": 3.99
         },
         {
           "name": "2000 Credits",
@@ -566,7 +566,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:51.473Z"
+      "fetchedAt": "2026-10-19T08:51:19.088Z"
     },
     "ba": {
       "currency": "EUR",
@@ -587,14 +587,14 @@
           "amount": 99
         },
         {
-          "name": "1 Download Credit",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
           "name": "500 Credits",
           "price": "5,00 €",
           "amount": 5
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "1000 Credits",
@@ -622,7 +622,7 @@
           "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:52.940Z"
+      "fetchedAt": "2026-10-19T08:51:20.635Z"
     },
     "bb": {
       "currency": "USD",
@@ -678,7 +678,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:54.510Z"
+      "fetchedAt": "2026-10-19T08:51:22.230Z"
     },
     "be": {
       "currency": "EUR",
@@ -719,14 +719,14 @@
           "amount": 5.99
         },
         {
-          "name": "3 Download Credits",
-          "price": "9,95 €",
-          "amount": 9.95
-        },
-        {
           "name": "Premier Plan",
           "price": "299,00 €",
           "amount": 299
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
         },
         {
           "name": "2000 Credits",
@@ -734,7 +734,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:55.972Z"
+      "fetchedAt": "2026-10-19T08:51:23.651Z"
     },
     "bf": {
       "currency": "USD",
@@ -745,14 +745,14 @@
           "amount": 10
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 96.00",
-          "amount": 96
-        },
-        {
           "name": "Premier Plan",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 96.00",
+          "amount": 96
         },
         {
           "name": "500 Credits",
@@ -790,7 +790,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:57.481Z"
+      "fetchedAt": "2026-10-19T08:51:25.163Z"
     },
     "bg": {
       "currency": "EUR",
@@ -806,14 +806,14 @@
           "amount": 35
         },
         {
-          "name": "Pro Plan",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "500 Credits",
           "price": "4,00 €",
           "amount": 4
+        },
+        {
+          "name": "Pro Plan",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "1000 Credits",
@@ -846,7 +846,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:42:58.910Z"
+      "fetchedAt": "2026-10-19T08:51:26.641Z"
     },
     "bh": {
       "currency": "USD",
@@ -867,14 +867,14 @@
           "amount": 99
         },
         {
-          "name": "1000 Credits",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
           "name": "500 Credits",
           "price": "$4.00",
           "amount": 4
+        },
+        {
+          "name": "1000 Credits",
+          "price": "$9.00",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
@@ -902,7 +902,7 @@
           "amount": 29.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:00.455Z"
+      "fetchedAt": "2026-10-19T08:51:28.158Z"
     },
     "bj": {
       "currency": "USD",
@@ -958,7 +958,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:01.948Z"
+      "fetchedAt": "2026-10-19T08:51:29.637Z"
     },
     "bm": {
       "currency": "USD",
@@ -1014,7 +1014,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:03.480Z"
+      "fetchedAt": "2026-10-19T08:51:31.069Z"
     },
     "bn": {
       "currency": "USD",
@@ -1023,6 +1023,11 @@
           "name": "Pro Plan",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 4.99",
+          "amount": 4.99
         },
         {
           "name": "Premier Plan",
@@ -1063,14 +1068,9 @@
           "name": "3 Download Credits",
           "price": "USD 8.95",
           "amount": 8.95
-        },
-        {
-          "name": "10 Download Credits",
-          "price": "USD 49.90",
-          "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:04.994Z"
+      "fetchedAt": "2026-10-19T08:51:32.619Z"
     },
     "bo": {
       "currency": "USD",
@@ -1126,7 +1126,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:06.494Z"
+      "fetchedAt": "2026-10-19T08:51:34.117Z"
     },
     "br": {
       "currency": "BRL",
@@ -1182,7 +1182,7 @@
           "amount": 99.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:07.973Z"
+      "fetchedAt": "2026-10-19T08:51:35.641Z"
     },
     "bs": {
       "currency": "USD",
@@ -1238,7 +1238,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:09.464Z"
+      "fetchedAt": "2026-10-19T08:51:37.097Z"
     },
     "bt": {
       "currency": "USD",
@@ -1294,7 +1294,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:11.011Z"
+      "fetchedAt": "2026-10-19T08:51:38.687Z"
     },
     "bw": {
       "currency": "USD",
@@ -1350,7 +1350,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:12.552Z"
+      "fetchedAt": "2026-10-19T08:51:40.079Z"
     },
     "by": {
       "currency": "USD",
@@ -1366,24 +1366,24 @@
           "amount": 40
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 5.99",
-          "amount": 5.99
+          "name": "1000 Credits",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Pro Plan",
           "price": "USD 119.00",
           "amount": 119
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 5.99",
+          "amount": 5.99
         },
         {
           "name": "Premier Plan",
@@ -1406,7 +1406,7 @@
           "amount": 6
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:13.937Z"
+      "fetchedAt": "2026-10-19T08:51:41.641Z"
     },
     "bz": {
       "currency": "USD",
@@ -1462,7 +1462,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:15.519Z"
+      "fetchedAt": "2026-10-19T08:51:43.093Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1518,7 +1518,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:16.983Z"
+      "fetchedAt": "2026-10-19T08:51:44.620Z"
     },
     "cd": {
       "currency": "USD",
@@ -1537,6 +1537,11 @@
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 14.95",
+          "amount": 14.95
         },
         {
           "name": "1 Download Credit",
@@ -1567,14 +1572,9 @@
           "name": "Pro Plan",
           "price": "USD 119.99",
           "amount": 119.99
-        },
-        {
-          "name": "2000 Credits",
-          "price": "USD 16.00",
-          "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:18.545Z"
+      "fetchedAt": "2026-10-19T08:51:46.131Z"
     },
     "cg": {
       "currency": "USD",
@@ -1588,6 +1588,11 @@
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Premier Plan",
@@ -1610,11 +1615,6 @@
           "amount": 19
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
@@ -1630,7 +1630,7 @@
           "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:19.944Z"
+      "fetchedAt": "2026-10-19T08:51:47.658Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1656,14 +1656,14 @@
           "amount": 3
         },
         {
-          "name": "1 Download Credit",
-          "price": "CHF 3.00",
-          "amount": 3
-        },
-        {
           "name": "1000 Credits",
           "price": "CHF 7.00",
           "amount": 7
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "CHF 3.00",
+          "amount": 3
         },
         {
           "name": "1 Download Credit",
@@ -1676,17 +1676,17 @@
           "amount": 250
         },
         {
-          "name": "4000 Credits",
+          "name": "10 Download Credits",
           "price": "CHF 25.00",
           "amount": 25
         },
         {
-          "name": "10 Download Credits",
+          "name": "4000 Credits",
           "price": "CHF 25.00",
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:21.550Z"
+      "fetchedAt": "2026-10-19T08:51:49.141Z"
     },
     "ci": {
       "currency": "USD",
@@ -1707,14 +1707,14 @@
           "amount": 5.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "3,99 $US",
-          "amount": 3.99
-        },
-        {
           "name": "500 Credits",
           "price": "5,00 $US",
           "amount": 5
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "3,99 $US",
+          "amount": 3.99
         },
         {
           "name": "Pro Plan",
@@ -1742,7 +1742,7 @@
           "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:22.953Z"
+      "fetchedAt": "2026-10-19T08:51:50.648Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1773,6 +1773,11 @@
           "amount": 4990
         },
         {
+          "name": "1000 Credits",
+          "price": "$9.990",
+          "amount": 9990
+        },
+        {
           "name": "Premier Plan",
           "price": "$299.990",
           "amount": 299990
@@ -1781,11 +1786,6 @@
           "name": "1 Download Credit",
           "price": "$2.990",
           "amount": 2990
-        },
-        {
-          "name": "1000 Credits",
-          "price": "$9.990",
-          "amount": 9990
         },
         {
           "name": "2000 Credits",
@@ -1798,7 +1798,7 @@
           "amount": 34990
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:24.413Z"
+      "fetchedAt": "2026-10-19T08:51:52.087Z"
     },
     "cm": {
       "currency": "USD",
@@ -1809,14 +1809,19 @@
           "amount": 12
         },
         {
-          "name": "1 Download Credit",
-          "price": "3,99 $US",
-          "amount": 3.99
-        },
-        {
           "name": "Premier Plan",
           "price": "40,00 $US",
           "amount": 40
+        },
+        {
+          "name": "1000 Credits",
+          "price": "9,00 $US",
+          "amount": 9
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "3,99 $US",
+          "amount": 3.99
         },
         {
           "name": "3 Download Credits",
@@ -1827,11 +1832,6 @@
           "name": "1 Download Credit",
           "price": "5,99 $US",
           "amount": 5.99
-        },
-        {
-          "name": "1000 Credits",
-          "price": "9,00 $US",
-          "amount": 9
         },
         {
           "name": "500 Credits",
@@ -1854,7 +1854,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:25.969Z"
+      "fetchedAt": "2026-10-19T08:51:53.691Z"
     },
     "cn": {
       "currency": "CNY",
@@ -1910,7 +1910,7 @@
           "amount": 58
         }
       ],
-      "fetchedAt": "2026-10-19T08:14:56.915Z"
+      "fetchedAt": "2026-10-19T08:51:55.264Z"
     },
     "co": {
       "currency": "COP",
@@ -1926,14 +1926,14 @@
           "amount": 129900
         },
         {
-          "name": "Pro Plan",
-          "price": "$ 449.900,00",
-          "amount": 449900
-        },
-        {
           "name": "1 Download Credit",
           "price": "$ 24.900,00",
           "amount": 24900
+        },
+        {
+          "name": "Pro Plan",
+          "price": "$ 449.900,00",
+          "amount": 449900
         },
         {
           "name": "500 Credits",
@@ -1946,6 +1946,11 @@
           "amount": 14900
         },
         {
+          "name": "3 Download Credits",
+          "price": "$ 69.900,00",
+          "amount": 69900
+        },
+        {
           "name": "1000 Credits",
           "price": "$ 39.900,00",
           "amount": 39900
@@ -1956,17 +1961,12 @@
           "amount": 1299900
         },
         {
-          "name": "10 Download Credits",
-          "price": "$ 129.900,00",
-          "amount": 129900
-        },
-        {
           "name": "3 Download Credits",
           "price": "$ 39.900,00",
           "amount": 39900
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:29.080Z"
+      "fetchedAt": "2026-10-19T08:51:56.895Z"
     },
     "cr": {
       "currency": "USD",
@@ -2007,14 +2007,14 @@
           "amount": 8
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 289.00",
-          "amount": 289
-        },
-        {
           "name": "2000 Credits",
           "price": "USD 16.00",
           "amount": 16
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 289.00",
+          "amount": 289
         },
         {
           "name": "3 Download Credits",
@@ -2022,7 +2022,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:30.477Z"
+      "fetchedAt": "2026-10-19T08:51:58.116Z"
     },
     "cv": {
       "currency": "USD",
@@ -2078,7 +2078,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:32.020Z"
+      "fetchedAt": "2026-10-19T08:51:59.610Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2114,6 +2114,11 @@
           "amount": 5.99
         },
         {
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
+        },
+        {
           "name": "1 Download Credit",
           "price": "2,99 €",
           "amount": 2.99
@@ -2127,14 +2132,9 @@
           "name": "Premier Plan",
           "price": "299,00 €",
           "amount": 299
-        },
-        {
-          "name": "4000 Credits",
-          "price": "34,00 €",
-          "amount": 34
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:33.473Z"
+      "fetchedAt": "2026-10-19T08:52:01.147Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2175,11 +2175,6 @@
           "amount": 199
         },
         {
-          "name": "3 Download Credits",
-          "price": "249,00 Kč",
-          "amount": 249
-        },
-        {
           "name": "Premier Plan",
           "price": "7 990,00 Kč",
           "amount": 7990
@@ -2188,9 +2183,14 @@
           "name": "10 Download Credits",
           "price": "799,00 Kč",
           "amount": 799
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "249,00 Kč",
+          "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:35.021Z"
+      "fetchedAt": "2026-10-19T08:52:02.832Z"
     },
     "de": {
       "currency": "EUR",
@@ -2246,7 +2246,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-19T08:14:58.466Z"
+      "fetchedAt": "2026-10-19T08:52:04.101Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2297,12 +2297,12 @@
           "amount": 79
         },
         {
-          "name": "10 Download Credits",
-          "price": "249,00 kr",
-          "amount": 249
+          "name": "Premier Plan",
+          "price": "2.499,00 kr",
+          "amount": 2499
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:37.971Z"
+      "fetchedAt": "2026-10-19T08:52:05.641Z"
     },
     "dm": {
       "currency": "USD",
@@ -2358,7 +2358,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:39.460Z"
+      "fetchedAt": "2026-10-19T08:52:07.103Z"
     },
     "do": {
       "currency": "USD",
@@ -2379,14 +2379,14 @@
           "amount": 96
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 8.00",
-          "amount": 8
-        },
-        {
           "name": "1 Download Credit",
           "price": "USD 2.99",
           "amount": 2.99
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 8.00",
+          "amount": 8
         },
         {
           "name": "500 Credits",
@@ -2414,7 +2414,7 @@
           "amount": 289
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:40.940Z"
+      "fetchedAt": "2026-10-19T08:52:08.605Z"
     },
     "dz": {
       "currency": "USD",
@@ -2470,7 +2470,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:42.493Z"
+      "fetchedAt": "2026-10-19T08:52:10.145Z"
     },
     "ec": {
       "currency": "USD",
@@ -2526,7 +2526,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:43.948Z"
+      "fetchedAt": "2026-10-19T08:52:11.617Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2547,14 +2547,14 @@
           "amount": 99
         },
         {
-          "name": "1000 Credits",
-          "price": "9,00 €",
-          "amount": 9
-        },
-        {
           "name": "500 Credits",
           "price": "5,00 €",
           "amount": 5
+        },
+        {
+          "name": "1000 Credits",
+          "price": "9,00 €",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
@@ -2582,7 +2582,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:45.526Z"
+      "fetchedAt": "2026-10-19T08:52:13.130Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2618,14 +2618,14 @@
           "amount": 399.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "EGP 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Premier Plan",
           "price": "EGP 14,999.99",
           "amount": 14999.99
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "EGP 249.99",
+          "amount": 249.99
         },
         {
           "name": "2000 Credits",
@@ -2638,7 +2638,7 @@
           "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:46.954Z"
+      "fetchedAt": "2026-10-19T08:52:14.599Z"
     },
     "es": {
       "currency": "EUR",
@@ -2664,14 +2664,14 @@
           "amount": 2.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
           "name": "500 Credits",
           "price": "5,00 €",
           "amount": 5
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "1000 Credits",
@@ -2689,12 +2689,12 @@
           "amount": 299
         },
         {
-          "name": "2000 Credits",
-          "price": "18,00 €",
-          "amount": 18
+          "name": "5 Download Credits",
+          "price": "17,95 €",
+          "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:48.475Z"
+      "fetchedAt": "2026-10-19T08:52:16.091Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2745,12 +2745,12 @@
           "amount": 299
         },
         {
-          "name": "2000 Credits",
-          "price": "18,00 €",
-          "amount": 18
+          "name": "10 Download Credits",
+          "price": "34,90 €",
+          "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:50.000Z"
+      "fetchedAt": "2026-10-19T08:52:17.681Z"
     },
     "fj": {
       "currency": "USD",
@@ -2806,7 +2806,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:51.854Z"
+      "fetchedAt": "2026-10-19T08:52:19.121Z"
     },
     "fm": {
       "currency": "USD",
@@ -2862,7 +2862,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:53.033Z"
+      "fetchedAt": "2026-10-19T08:52:20.601Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2918,7 +2918,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-19T08:14:59.930Z"
+      "fetchedAt": "2026-10-19T08:52:22.160Z"
     },
     "ga": {
       "currency": "USD",
@@ -2944,14 +2944,14 @@
           "amount": 16
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 96.00",
-          "amount": 96
-        },
-        {
           "name": "500 Credits",
           "price": "USD 4.00",
           "amount": 4
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 96.00",
+          "amount": 96
         },
         {
           "name": "4000 Credits",
@@ -2974,7 +2974,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:56.060Z"
+      "fetchedAt": "2026-10-19T08:52:23.608Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3000,14 +3000,14 @@
           "amount": 4
         },
         {
-          "name": "1 Download Credit",
-          "price": "£2.99",
-          "amount": 2.99
-        },
-        {
           "name": "1000 Credits",
           "price": "£8.00",
           "amount": 8
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "£2.99",
+          "amount": 2.99
         },
         {
           "name": "1 Download Credit",
@@ -3030,7 +3030,7 @@
           "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:57.544Z"
+      "fetchedAt": "2026-10-19T08:52:25.117Z"
     },
     "gd": {
       "currency": "USD",
@@ -3086,7 +3086,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:43:58.966Z"
+      "fetchedAt": "2026-10-19T08:52:26.613Z"
     },
     "ge": {
       "currency": "USD",
@@ -3097,19 +3097,14 @@
           "amount": 12
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Premier Plan",
           "price": "USD 40.00",
           "amount": 40
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "3 Download Credits",
@@ -3117,14 +3112,19 @@
           "amount": 9.95
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "1000 Credits",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
           "price": "USD 3.99",
           "amount": 3.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "1 Download Credit",
@@ -3142,7 +3142,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:00.513Z"
+      "fetchedAt": "2026-10-19T08:52:28.072Z"
     },
     "gh": {
       "currency": "USD",
@@ -3158,34 +3158,14 @@
           "amount": 119
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "3 Download Credits",
-          "price": "USD 9.95",
-          "amount": 9.95
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
           "name": "Premier Plan",
-          "price": "USD 349.00",
-          "amount": 349
-        },
-        {
-          "name": "10 Download Credits",
-          "price": "USD 34.90",
-          "amount": 34.9
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "1 Download Credit",
@@ -3193,12 +3173,32 @@
           "amount": 3.99
         },
         {
+          "name": "3 Download Credits",
+          "price": "USD 9.95",
+          "amount": 9.95
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 349.00",
+          "amount": 349
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 34.90",
+          "amount": 34.9
+        },
+        {
           "name": "1000 Credits",
           "price": "USD 9.00",
           "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:01.984Z"
+      "fetchedAt": "2026-10-19T08:52:29.617Z"
     },
     "gm": {
       "currency": "USD",
@@ -3254,7 +3254,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:03.467Z"
+      "fetchedAt": "2026-10-19T08:52:31.111Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3310,7 +3310,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:05.016Z"
+      "fetchedAt": "2026-10-19T08:52:32.635Z"
     },
     "gt": {
       "currency": "USD",
@@ -3366,7 +3366,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:06.661Z"
+      "fetchedAt": "2026-10-19T08:52:34.124Z"
     },
     "gw": {
       "currency": "USD",
@@ -3422,7 +3422,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:08.006Z"
+      "fetchedAt": "2026-10-19T08:52:35.620Z"
     },
     "gy": {
       "currency": "USD",
@@ -3478,7 +3478,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:09.586Z"
+      "fetchedAt": "2026-10-19T08:52:37.160Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3534,7 +3534,7 @@
           "amount": 128
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:10.988Z"
+      "fetchedAt": "2026-10-19T08:52:38.632Z"
     },
     "hn": {
       "currency": "USD",
@@ -3550,14 +3550,14 @@
           "amount": 96
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "1 Download Credit",
           "price": "USD 4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "1 Download Credit",
@@ -3590,7 +3590,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:12.442Z"
+      "fetchedAt": "2026-10-19T08:52:40.133Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3616,24 +3616,14 @@
           "amount": 99
         },
         {
-          "name": "500 Credits",
-          "price": "4,00 €",
-          "amount": 4
-        },
-        {
           "name": "1000 Credits",
           "price": "9,00 €",
           "amount": 9
         },
         {
-          "name": "1 Download Credit",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
-          "name": "3 Download Credits",
-          "price": "9,95 €",
-          "amount": 9.95
+          "name": "500 Credits",
+          "price": "4,00 €",
+          "amount": 4
         },
         {
           "name": "Premier Plan",
@@ -3641,12 +3631,22 @@
           "amount": 299
         },
         {
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
           "name": "2000 Credits",
           "price": "19,00 €",
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:14.063Z"
+      "fetchedAt": "2026-10-19T08:52:41.664Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3667,24 +3667,24 @@
           "amount": 39990
         },
         {
-          "name": "1000 Credits",
-          "price": "HUF3,490.00",
-          "amount": 3490
-        },
-        {
           "name": "500 Credits",
           "price": "HUF1,790.00",
           "amount": 1790
         },
         {
-          "name": "1 Download Credit",
-          "price": "HUF1,990.00",
-          "amount": 1990
+          "name": "1000 Credits",
+          "price": "HUF3,490.00",
+          "amount": 3490
         },
         {
           "name": "1 Download Credit",
           "price": "HUF1,490.00",
           "amount": 1490
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "HUF1,990.00",
+          "amount": 1990
         },
         {
           "name": "3 Download Credits",
@@ -3702,7 +3702,7 @@
           "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:15.537Z"
+      "fetchedAt": "2026-10-19T08:52:43.131Z"
     },
     "id": {
       "currency": "IDR",
@@ -3758,7 +3758,7 @@
           "amount": 4999
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:16.972Z"
+      "fetchedAt": "2026-10-19T08:52:44.669Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3799,14 +3799,14 @@
           "amount": 5.99
         },
         {
-          "name": "4000 Credits",
-          "price": "€34.00",
-          "amount": 34
-        },
-        {
           "name": "Premier Plan",
           "price": "€299.00",
           "amount": 299
+        },
+        {
+          "name": "4000 Credits",
+          "price": "€34.00",
+          "amount": 34
         },
         {
           "name": "3 Download Credits",
@@ -3814,7 +3814,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:18.714Z"
+      "fetchedAt": "2026-10-19T08:52:46.158Z"
     },
     "il": {
       "currency": "ILS",
@@ -3865,12 +3865,12 @@
           "amount": 99.9
         },
         {
-          "name": "10 Download Credits",
-          "price": "₪99.90",
-          "amount": 99.9
+          "name": "2000 Credits",
+          "price": "₪49.90",
+          "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:20.031Z"
+      "fetchedAt": "2026-10-19T08:52:47.674Z"
     },
     "in": {
       "currency": "INR",
@@ -3926,7 +3926,7 @@
           "amount": 1499
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:21.504Z"
+      "fetchedAt": "2026-10-19T08:52:49.223Z"
     },
     "iq": {
       "currency": "USD",
@@ -3937,14 +3937,14 @@
           "amount": 10
         },
         {
-          "name": "1 Download Credit",
-          "price": "$2.99",
-          "amount": 2.99
-        },
-        {
           "name": "Premier Plan",
           "price": "$30.00",
           "amount": 30
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "$2.99",
+          "amount": 2.99
         },
         {
           "name": "1000 Credits",
@@ -3982,7 +3982,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:22.975Z"
+      "fetchedAt": "2026-10-19T08:52:50.735Z"
     },
     "is": {
       "currency": "USD",
@@ -4003,14 +4003,14 @@
           "amount": 119
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
@@ -4018,14 +4018,14 @@
           "amount": 5.99
         },
         {
-          "name": "5 Download Credits",
-          "price": "USD 17.95",
-          "amount": 17.95
-        },
-        {
           "name": "3 Download Credits",
           "price": "USD 9.95",
           "amount": 9.95
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 17.95",
+          "amount": 17.95
         },
         {
           "name": "1 Download Credit",
@@ -4038,7 +4038,7 @@
           "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:24.479Z"
+      "fetchedAt": "2026-10-19T08:52:52.048Z"
     },
     "it": {
       "currency": "EUR",
@@ -4094,7 +4094,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:25.976Z"
+      "fetchedAt": "2026-10-19T08:52:53.644Z"
     },
     "jm": {
       "currency": "USD",
@@ -4105,14 +4105,14 @@
           "amount": 10
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "500 Credits",
@@ -4150,7 +4150,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:27.489Z"
+      "fetchedAt": "2026-10-19T08:52:55.166Z"
     },
     "jo": {
       "currency": "USD",
@@ -4186,14 +4186,14 @@
           "amount": 2.99
         },
         {
-          "name": "2000 Credits",
-          "price": "$16.00",
-          "amount": 16
-        },
-        {
           "name": "1 Download Credit",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "2000 Credits",
+          "price": "$16.00",
+          "amount": 16
         },
         {
           "name": "Premier Plan",
@@ -4206,7 +4206,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:28.989Z"
+      "fetchedAt": "2026-10-19T08:52:56.739Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4262,7 +4262,7 @@
           "amount": 1500
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:30.508Z"
+      "fetchedAt": "2026-10-19T08:52:58.180Z"
     },
     "ke": {
       "currency": "USD",
@@ -4278,14 +4278,19 @@
           "amount": 40
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Pro Plan",
           "price": "USD 119.00",
           "amount": 119
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "1 Download Credit",
@@ -4296,11 +4301,6 @@
           "name": "1 Download Credit",
           "price": "USD 5.99",
           "amount": 5.99
-        },
-        {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
         },
         {
           "name": "3 Download Credits",
@@ -4318,7 +4318,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:32.001Z"
+      "fetchedAt": "2026-10-19T08:52:59.613Z"
     },
     "kg": {
       "currency": "USD",
@@ -4349,14 +4349,14 @@
           "amount": 9
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
           "name": "3 Download Credits",
           "price": "USD 9.95",
           "amount": 9.95
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 99.00",
+          "amount": 99
         },
         {
           "name": "1 Download Credit",
@@ -4374,7 +4374,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:33.508Z"
+      "fetchedAt": "2026-10-19T08:53:01.154Z"
     },
     "kh": {
       "currency": "USD",
@@ -4410,14 +4410,14 @@
           "amount": 9
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 29.90",
-          "amount": 29.9
-        },
-        {
           "name": "4000 Credits",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 29.90",
+          "amount": 29.9
         },
         {
           "name": "Premier Plan",
@@ -4430,7 +4430,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:35.040Z"
+      "fetchedAt": "2026-10-19T08:53:02.660Z"
     },
     "kn": {
       "currency": "USD",
@@ -4486,7 +4486,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:36.474Z"
+      "fetchedAt": "2026-10-19T08:53:04.275Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4542,7 +4542,7 @@
           "amount": 49000
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:38.015Z"
+      "fetchedAt": "2026-10-19T08:53:05.750Z"
     },
     "kw": {
       "currency": "USD",
@@ -4598,7 +4598,7 @@
           "amount": 289
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:39.412Z"
+      "fetchedAt": "2026-10-19T08:53:07.090Z"
     },
     "ky": {
       "currency": "USD",
@@ -4654,7 +4654,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:41.021Z"
+      "fetchedAt": "2026-10-19T08:53:08.641Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4710,36 +4710,11 @@
           "amount": 179990
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:42.496Z"
+      "fetchedAt": "2026-10-19T08:53:10.176Z"
     },
     "la": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "500 Credits",
-          "price": "USD 4.00",
-          "amount": 4
-        },
-        {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
-        },
         {
           "name": "10 Download Credits",
           "price": "USD 29.90",
@@ -4764,9 +4739,34 @@
           "name": "10 Download Credits",
           "price": "USD 49.90",
           "amount": 49.9
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 29.95",
+          "amount": 29.95
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 14.95",
+          "amount": 14.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 129.99",
+          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:44.016Z"
+      "fetchedAt": "2026-10-19T08:53:11.688Z"
     },
     "lb": {
       "currency": "USD",
@@ -4797,19 +4797,14 @@
           "amount": 96
         },
         {
-          "name": "4000 Credits",
-          "price": "$30.00",
-          "amount": 30
-        },
-        {
           "name": "1 Download Credit",
           "price": "$4.99",
           "amount": 4.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "$2.99",
-          "amount": 2.99
+          "name": "4000 Credits",
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "Premier Plan",
@@ -4817,12 +4812,17 @@
           "amount": 289
         },
         {
+          "name": "1 Download Credit",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
           "name": "2000 Credits",
           "price": "$16.00",
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:45.494Z"
+      "fetchedAt": "2026-10-19T08:53:13.139Z"
     },
     "lc": {
       "currency": "USD",
@@ -4878,7 +4878,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:47.011Z"
+      "fetchedAt": "2026-10-19T08:53:14.714Z"
     },
     "lk": {
       "currency": "USD",
@@ -4934,7 +4934,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:48.480Z"
+      "fetchedAt": "2026-10-19T08:53:16.158Z"
     },
     "lr": {
       "currency": "USD",
@@ -4990,7 +4990,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:50.125Z"
+      "fetchedAt": "2026-10-19T08:53:17.625Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5046,7 +5046,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:51.489Z"
+      "fetchedAt": "2026-10-19T08:53:19.307Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5068,13 +5068,13 @@
         },
         {
           "name": "1 Download Credit",
-          "price": "2,99 €",
-          "amount": 2.99
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "1 Download Credit",
-          "price": "5,99 €",
-          "amount": 5.99
+          "price": "2,99 €",
+          "amount": 2.99
         },
         {
           "name": "1000 Credits",
@@ -5102,7 +5102,7 @@
           "amount": 34
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:52.960Z"
+      "fetchedAt": "2026-10-19T08:53:20.629Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5123,6 +5123,11 @@
           "amount": 5
         },
         {
+          "name": "1 Download Credit",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
           "name": "1000 Credits",
           "price": "9,00 €",
           "amount": 9
@@ -5136,11 +5141,6 @@
           "name": "1 Download Credit",
           "price": "5,99 €",
           "amount": 5.99
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "2,99 €",
-          "amount": 2.99
         },
         {
           "name": "2000 Credits",
@@ -5158,7 +5158,7 @@
           "amount": 34
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:54.476Z"
+      "fetchedAt": "2026-10-19T08:53:22.271Z"
     },
     "ly": {
       "currency": "USD",
@@ -5214,7 +5214,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:55.993Z"
+      "fetchedAt": "2026-10-19T08:53:23.635Z"
     },
     "ma": {
       "available": false,
@@ -5254,14 +5254,14 @@
           "amount": 5
         },
         {
-          "name": "2000 Credits",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "1 Download Credit",
           "price": "USD 3.99",
           "amount": 3.99
+        },
+        {
+          "name": "2000 Credits",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Premier Plan",
@@ -5274,7 +5274,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-18T14:44:58.991Z"
+      "fetchedAt": "2026-10-19T08:53:25.185Z"
     },
     "me": {
       "currency": "EUR",
@@ -5330,7 +5330,7 @@
           "amount": 12.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:00.494Z"
+      "fetchedAt": "2026-10-19T08:53:26.656Z"
     },
     "mg": {
       "currency": "USD",
@@ -5346,14 +5346,14 @@
           "amount": 30
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 8.00",
-          "amount": 8
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 8.00",
+          "amount": 8
         },
         {
           "name": "500 Credits",
@@ -5386,7 +5386,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:02.116Z"
+      "fetchedAt": "2026-10-19T08:53:28.330Z"
     },
     "mk": {
       "currency": "USD",
@@ -5402,24 +5402,24 @@
           "amount": 30
         },
         {
-          "name": "500 Credits",
-          "price": "USD 4.00",
-          "amount": 4
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
         },
         {
-          "name": "1000 Credits",
-          "price": "USD 8.00",
-          "amount": 8
+          "name": "500 Credits",
+          "price": "USD 4.00",
+          "amount": 4
         },
         {
           "name": "1 Download Credit",
           "price": "USD 2.99",
           "amount": 2.99
+        },
+        {
+          "name": "1000 Credits",
+          "price": "USD 8.00",
+          "amount": 8
         },
         {
           "name": "Premier Plan",
@@ -5442,7 +5442,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:03.468Z"
+      "fetchedAt": "2026-10-19T08:53:29.622Z"
     },
     "ml": {
       "currency": "USD",
@@ -5498,7 +5498,7 @@
           "amount": 29.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:04.991Z"
+      "fetchedAt": "2026-10-19T08:53:31.196Z"
     },
     "mm": {
       "currency": "USD",
@@ -5554,7 +5554,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:06.621Z"
+      "fetchedAt": "2026-10-19T08:53:32.802Z"
     },
     "mn": {
       "currency": "USD",
@@ -5575,14 +5575,14 @@
           "amount": 96
         },
         {
-          "name": "500 Credits",
-          "price": "USD 4.00",
-          "amount": 4
-        },
-        {
           "name": "1000 Credits",
           "price": "USD 8.00",
           "amount": 8
+        },
+        {
+          "name": "500 Credits",
+          "price": "USD 4.00",
+          "amount": 4
         },
         {
           "name": "1 Download Credit",
@@ -5610,7 +5610,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:08.036Z"
+      "fetchedAt": "2026-10-19T08:53:34.153Z"
     },
     "mo": {
       "currency": "USD",
@@ -5666,7 +5666,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:09.468Z"
+      "fetchedAt": "2026-10-19T08:53:35.686Z"
     },
     "mr": {
       "currency": "USD",
@@ -5722,7 +5722,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:10.958Z"
+      "fetchedAt": "2026-10-19T08:53:37.119Z"
     },
     "ms": {
       "currency": "USD",
@@ -5778,7 +5778,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:12.486Z"
+      "fetchedAt": "2026-10-19T08:53:38.672Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5789,16 +5789,6 @@
           "amount": 10
         },
         {
-          "name": "1 Download Credit",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "Premier Plan",
           "price": "35,00 €",
           "amount": 35
@@ -5807,6 +5797,16 @@
           "name": "500 Credits",
           "price": "5,00 €",
           "amount": 5
+        },
+        {
+          "name": "Pro Plan",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "1000 Credits",
@@ -5834,7 +5834,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:14.313Z"
+      "fetchedAt": "2026-10-19T08:53:40.126Z"
     },
     "mu": {
       "currency": "USD",
@@ -5890,7 +5890,7 @@
           "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:15.584Z"
+      "fetchedAt": "2026-10-19T08:53:41.729Z"
     },
     "mv": {
       "currency": "USD",
@@ -5906,14 +5906,14 @@
           "amount": 96
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Premier Plan",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 4.99",
+          "amount": 4.99
         },
         {
           "name": "500 Credits",
@@ -5946,7 +5946,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:16.985Z"
+      "fetchedAt": "2026-10-19T08:53:43.127Z"
     },
     "mw": {
       "currency": "USD",
@@ -6002,7 +6002,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:18.502Z"
+      "fetchedAt": "2026-10-19T08:53:44.895Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6024,8 +6024,8 @@
         },
         {
           "name": "1 Download Credit",
-          "price": "$99.00",
-          "amount": 99
+          "price": "$69.00",
+          "amount": 69
         },
         {
           "name": "500 Credits",
@@ -6034,8 +6034,8 @@
         },
         {
           "name": "1 Download Credit",
-          "price": "$69.00",
-          "amount": 69
+          "price": "$99.00",
+          "amount": 99
         },
         {
           "name": "1000 Credits",
@@ -6053,12 +6053,12 @@
           "amount": 199
         },
         {
-          "name": "5 Download Credits",
-          "price": "$299.00",
-          "amount": 299
+          "name": "2000 Credits",
+          "price": "$349.00",
+          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:19.949Z"
+      "fetchedAt": "2026-10-19T08:53:46.698Z"
     },
     "my": {
       "currency": "MYR",
@@ -6104,17 +6104,17 @@
           "amount": 39.9
         },
         {
-          "name": "2000 Credits",
+          "name": "3 Download Credits",
           "price": "RM69.90",
           "amount": 69.9
         },
         {
-          "name": "Premier Plan",
-          "price": "RM1,299.90",
-          "amount": 1299.9
+          "name": "2000 Credits",
+          "price": "RM69.90",
+          "amount": 69.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:21.513Z"
+      "fetchedAt": "2026-10-19T08:53:47.753Z"
     },
     "mz": {
       "currency": "USD",
@@ -6125,14 +6125,14 @@
           "amount": 10
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 29.90",
-          "amount": 29.9
-        },
-        {
           "name": "Premier Plan",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 29.90",
+          "amount": 29.9
         },
         {
           "name": "500 Credits",
@@ -6170,25 +6170,45 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:23.023Z"
+      "fetchedAt": "2026-10-19T08:53:49.133Z"
     },
     "na": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pro Plan",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "10 Download Credits",
+          "price": "USD 29.90",
+          "amount": 29.9
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "5 Download Credits",
+          "price": "USD 14.95",
+          "amount": 14.95
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 96.00",
-          "amount": 96
+          "name": "3 Download Credits",
+          "price": "USD 8.95",
+          "amount": 8.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 49.90",
+          "amount": 49.9
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 24.95",
+          "amount": 24.95
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 14.95",
+          "amount": 14.95
         },
         {
           "name": "1 Download Credit",
@@ -6196,37 +6216,17 @@
           "amount": 4.99
         },
         {
-          "name": "500 Credits",
-          "price": "USD 4.00",
-          "amount": 4
-        },
-        {
-          "name": "1000 Credits",
-          "price": "USD 8.00",
-          "amount": 8
-        },
-        {
           "name": "Premier Plan",
-          "price": "USD 289.00",
-          "amount": 289
-        },
-        {
-          "name": "2000 Credits",
-          "price": "USD 16.00",
-          "amount": 16
-        },
-        {
-          "name": "4000 Credits",
           "price": "USD 30.00",
           "amount": 30
         },
         {
-          "name": "10 Download Credits",
-          "price": "USD 29.90",
-          "amount": 29.9
+          "name": "Pro Plan",
+          "price": "USD 119.99",
+          "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:24.485Z"
+      "fetchedAt": "2026-10-19T08:53:50.660Z"
     },
     "ne": {
       "currency": "USD",
@@ -6282,7 +6282,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:25.996Z"
+      "fetchedAt": "2026-10-19T08:53:52.226Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6299,13 +6299,13 @@
         },
         {
           "name": "1 Download Credit",
-          "price": "₦ 7,900.00",
-          "amount": 7900
+          "price": "₦ 4,900.00",
+          "amount": 4900
         },
         {
           "name": "1 Download Credit",
-          "price": "₦ 4,900.00",
-          "amount": 4900
+          "price": "₦ 7,900.00",
+          "amount": 7900
         },
         {
           "name": "Pro Plan",
@@ -6338,7 +6338,7 @@
           "amount": 14900
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:27.465Z"
+      "fetchedAt": "2026-10-19T08:53:53.710Z"
     },
     "ni": {
       "currency": "USD",
@@ -6394,7 +6394,7 @@
           "amount": 8.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:28.981Z"
+      "fetchedAt": "2026-10-19T08:53:55.234Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6450,7 +6450,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:30.511Z"
+      "fetchedAt": "2026-10-19T08:53:56.603Z"
     },
     "no": {
       "currency": "NOK",
@@ -6506,36 +6506,11 @@
           "amount": 3990
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:31.998Z"
+      "fetchedAt": "2026-10-19T08:53:58.180Z"
     },
     "np": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
-          "name": "Premier Plan",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
-          "name": "1000 Credits",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 119.00",
-          "amount": 119
-        },
-        {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
         {
           "name": "10 Download Credits",
           "price": "USD 34.90",
@@ -6560,9 +6535,34 @@
           "name": "10 Download Credits",
           "price": "USD 59.90",
           "amount": 59.9
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 29.95",
+          "amount": 29.95
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 17.95",
+          "amount": 17.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 149.99",
+          "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:33.489Z"
+      "fetchedAt": "2026-10-19T08:53:59.654Z"
     },
     "nr": {
       "currency": "USD",
@@ -6618,7 +6618,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:35.041Z"
+      "fetchedAt": "2026-10-19T08:54:01.160Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6664,17 +6664,17 @@
           "amount": 14.95
         },
         {
-          "name": "5 Download Credits",
-          "price": "$29.95",
-          "amount": 29.95
-        },
-        {
           "name": "2000 Credits",
           "price": "$29.00",
           "amount": 29
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "$29.95",
+          "amount": 29.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:36.525Z"
+      "fetchedAt": "2026-10-19T08:54:02.736Z"
     },
     "om": {
       "currency": "USD",
@@ -6705,6 +6705,11 @@
           "amount": 4
         },
         {
+          "name": "3 Download Credits",
+          "price": "$8.95",
+          "amount": 8.95
+        },
+        {
           "name": "Premier Plan",
           "price": "$289.00",
           "amount": 289
@@ -6713,11 +6718,6 @@
           "name": "1 Download Credit",
           "price": "$4.99",
           "amount": 4.99
-        },
-        {
-          "name": "3 Download Credits",
-          "price": "$8.95",
-          "amount": 8.95
         },
         {
           "name": "1 Download Credit",
@@ -6730,7 +6730,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:37.977Z"
+      "fetchedAt": "2026-10-19T08:54:04.142Z"
     },
     "pa": {
       "currency": "USD",
@@ -6761,6 +6761,11 @@
           "amount": 4
         },
         {
+          "name": "1 Download Credit",
+          "price": "USD 2.99",
+          "amount": 2.99
+        },
+        {
           "name": "Premier Plan",
           "price": "USD 289.00",
           "amount": 289
@@ -6776,17 +6781,12 @@
           "amount": 16
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 2.99",
-          "amount": 2.99
-        },
-        {
           "name": "4000 Credits",
           "price": "USD 30.00",
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:39.459Z"
+      "fetchedAt": "2026-10-19T08:54:05.716Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6797,14 +6797,14 @@
           "amount": 44.9
         },
         {
-          "name": "Premier Plan",
-          "price": "S/ 129.90",
-          "amount": 129.9
-        },
-        {
           "name": "Pro Plan",
           "price": "S/ 399.90",
           "amount": 399.9
+        },
+        {
+          "name": "Premier Plan",
+          "price": "S/ 129.90",
+          "amount": 129.9
         },
         {
           "name": "1 Download Credit",
@@ -6842,7 +6842,7 @@
           "amount": 39.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:41.007Z"
+      "fetchedAt": "2026-10-19T08:54:07.175Z"
     },
     "pg": {
       "currency": "USD",
@@ -6898,7 +6898,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:42.572Z"
+      "fetchedAt": "2026-10-19T08:54:08.744Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6944,17 +6944,17 @@
           "amount": 1990
         },
         {
-          "name": "5 Download Credits",
-          "price": "₱ 999.00",
-          "amount": 999
+          "name": "3 Download Credits",
+          "price": "₱ 599.00",
+          "amount": 599
         },
         {
-          "name": "2000 Credits",
-          "price": "₱ 999.00",
-          "amount": 999
+          "name": "Premier Plan",
+          "price": "₱ 19,990.00",
+          "amount": 19990
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:44.037Z"
+      "fetchedAt": "2026-10-19T08:54:10.128Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6980,9 +6980,9 @@
           "amount": 1100
         },
         {
-          "name": "1000 Credits",
-          "price": "Rs 2,200.00",
-          "amount": 2200
+          "name": "1 Download Credit",
+          "price": "Rs 1,300.00",
+          "amount": 1300
         },
         {
           "name": "5 Download Credits",
@@ -6990,9 +6990,9 @@
           "amount": 3900
         },
         {
-          "name": "1 Download Credit",
-          "price": "Rs 1,300.00",
-          "amount": 1300
+          "name": "1000 Credits",
+          "price": "Rs 2,200.00",
+          "amount": 2200
         },
         {
           "name": "Premier Plan",
@@ -7010,7 +7010,7 @@
           "amount": 7900
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:45.463Z"
+      "fetchedAt": "2026-10-19T08:54:11.737Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7066,7 +7066,7 @@
           "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:47.132Z"
+      "fetchedAt": "2026-10-19T08:54:13.139Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7112,17 +7112,17 @@
           "amount": 299
         },
         {
+          "name": "2000 Credits",
+          "price": "18,00 €",
+          "amount": 18
+        },
+        {
           "name": "3 Download Credits",
           "price": "9,95 €",
           "amount": 9.95
-        },
-        {
-          "name": "10 Download Credits",
-          "price": "34,90 €",
-          "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:48.556Z"
+      "fetchedAt": "2026-10-19T08:54:14.743Z"
     },
     "pw": {
       "currency": "USD",
@@ -7178,51 +7178,11 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:50.037Z"
+      "fetchedAt": "2026-10-19T08:54:16.093Z"
     },
     "py": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 96.00",
-          "amount": 96
-        },
-        {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "USD 2.99",
-          "amount": 2.99
-        },
-        {
-          "name": "500 Credits",
-          "price": "USD 4.00",
-          "amount": 4
-        },
-        {
-          "name": "Premier Plan",
-          "price": "USD 289.00",
-          "amount": 289
-        },
-        {
-          "name": "1000 Credits",
-          "price": "USD 8.00",
-          "amount": 8
-        },
         {
           "name": "10 Download Credits",
           "price": "USD 29.90",
@@ -7232,9 +7192,49 @@
           "name": "5 Download Credits",
           "price": "USD 14.95",
           "amount": 14.95
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 8.95",
+          "amount": 8.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "USD 49.90",
+          "amount": 49.9
+        },
+        {
+          "name": "5 Download Credits",
+          "price": "USD 24.95",
+          "amount": 24.95
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 14.95",
+          "amount": 14.95
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 119.99",
+          "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:51.596Z"
+      "fetchedAt": "2026-10-19T08:54:17.746Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7255,6 +7255,11 @@
           "amount": 349.99
         },
         {
+          "name": "1000 Credits",
+          "price": "QAR 29.99",
+          "amount": 29.99
+        },
+        {
           "name": "500 Credits",
           "price": "QAR 14.99",
           "amount": 14.99
@@ -7265,19 +7270,14 @@
           "amount": 99.99
         },
         {
-          "name": "1 Download Credit",
-          "price": "QAR 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Premier Plan",
           "price": "QAR 999.99",
           "amount": 999.99
         },
         {
-          "name": "1000 Credits",
-          "price": "QAR 29.99",
-          "amount": 29.99
+          "name": "1 Download Credit",
+          "price": "QAR 9.99",
+          "amount": 9.99
         },
         {
           "name": "2000 Credits",
@@ -7290,7 +7290,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:52.988Z"
+      "fetchedAt": "2026-10-19T08:54:19.150Z"
     },
     "ro": {
       "currency": "RON",
@@ -7336,17 +7336,17 @@
           "amount": 1499.99
         },
         {
-          "name": "3 Download Credits",
-          "price": "49,99 lei",
-          "amount": 49.99
-        },
-        {
           "name": "4000 Credits",
           "price": "149,99 lei",
           "amount": 149.99
+        },
+        {
+          "name": "2000 Credits",
+          "price": "89,99 lei",
+          "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:54.484Z"
+      "fetchedAt": "2026-10-19T08:54:20.594Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7367,14 +7367,14 @@
           "amount": 99
         },
         {
-          "name": "1000 Credits",
-          "price": "9,00 €",
-          "amount": 9
-        },
-        {
           "name": "1 Download Credit",
           "price": "2,99 €",
           "amount": 2.99
+        },
+        {
+          "name": "1000 Credits",
+          "price": "9,00 €",
+          "amount": 9
         },
         {
           "name": "500 Credits",
@@ -7402,7 +7402,7 @@
           "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:56.026Z"
+      "fetchedAt": "2026-10-19T08:54:22.151Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7438,14 +7438,14 @@
           "amount": 249
         },
         {
-          "name": "2000 Credits",
-          "price": "1 490,00 ₽",
-          "amount": 1490
-        },
-        {
           "name": "1 Download Credit",
           "price": "449,00 ₽",
           "amount": 449
+        },
+        {
+          "name": "2000 Credits",
+          "price": "1 490,00 ₽",
+          "amount": 1490
         },
         {
           "name": "4000 Credits",
@@ -7458,7 +7458,7 @@
           "amount": 24990
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:57.518Z"
+      "fetchedAt": "2026-10-19T08:54:23.725Z"
     },
     "rw": {
       "currency": "USD",
@@ -7514,7 +7514,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:45:59.125Z"
+      "fetchedAt": "2026-10-19T08:54:25.148Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7550,27 +7550,27 @@
           "amount": 12.99
         },
         {
-          "name": "2000 Credits",
-          "price": "SAR 69.99",
-          "amount": 69.99
-        },
-        {
           "name": "1 Download Credit",
           "price": "SAR 19.99",
           "amount": 19.99
         },
         {
-          "name": "Premier Plan",
-          "price": "SAR 1,299.99",
-          "amount": 1299.99
+          "name": "2000 Credits",
+          "price": "SAR 69.99",
+          "amount": 69.99
         },
         {
           "name": "3 Download Credits",
           "price": "SAR 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "SAR 1,299.99",
+          "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:00.515Z"
+      "fetchedAt": "2026-10-19T08:54:26.724Z"
     },
     "sb": {
       "currency": "USD",
@@ -7581,6 +7581,11 @@
           "amount": 10
         },
         {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
@@ -7589,11 +7594,6 @@
           "name": "1000 Credits",
           "price": "USD 8.00",
           "amount": 8
-        },
-        {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "Basic Plan",
@@ -7626,7 +7626,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:02.007Z"
+      "fetchedAt": "2026-10-19T08:54:28.242Z"
     },
     "sc": {
       "currency": "USD",
@@ -7647,14 +7647,14 @@
           "amount": 2.99
         },
         {
-          "name": "3 Download Credits",
-          "price": "USD 8.95",
-          "amount": 8.95
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 96.00",
           "amount": 96
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "USD 8.95",
+          "amount": 8.95
         },
         {
           "name": "500 Credits",
@@ -7682,7 +7682,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:03.489Z"
+      "fetchedAt": "2026-10-19T08:54:29.652Z"
     },
     "se": {
       "currency": "SEK",
@@ -7738,7 +7738,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:05.023Z"
+      "fetchedAt": "2026-10-19T08:54:31.149Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7764,6 +7764,11 @@
           "amount": 9.98
         },
         {
+          "name": "1 Download Credit",
+          "price": "S$ 3.98",
+          "amount": 3.98
+        },
+        {
           "name": "500 Credits",
           "price": "S$ 5.98",
           "amount": 5.98
@@ -7774,27 +7779,22 @@
           "amount": 6.98
         },
         {
-          "name": "1 Download Credit",
-          "price": "S$ 3.98",
-          "amount": 3.98
-        },
-        {
           "name": "Premier Plan",
           "price": "S$ 399.98",
           "amount": 399.98
         },
         {
           "name": "3 Download Credits",
-          "price": "S$ 12.98",
-          "amount": 12.98
+          "price": "S$ 19.98",
+          "amount": 19.98
         },
         {
-          "name": "10 Download Credits",
-          "price": "S$ 39.98",
-          "amount": 39.98
+          "name": "3 Download Credits",
+          "price": "S$ 12.98",
+          "amount": 12.98
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:06.471Z"
+      "fetchedAt": "2026-10-19T08:54:32.747Z"
     },
     "si": {
       "currency": "EUR",
@@ -7850,7 +7850,7 @@
           "amount": 34
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:08.267Z"
+      "fetchedAt": "2026-10-19T08:54:34.135Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7881,14 +7881,19 @@
           "amount": 5.99
         },
         {
+          "name": "500 Credits",
+          "price": "5,00 €",
+          "amount": 5
+        },
+        {
           "name": "1 Download Credit",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "500 Credits",
-          "price": "5,00 €",
-          "amount": 5
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
         },
         {
           "name": "Premier Plan",
@@ -7899,14 +7904,9 @@
           "name": "3 Download Credits",
           "price": "17,95 €",
           "amount": 17.95
-        },
-        {
-          "name": "2000 Credits",
-          "price": "18,00 €",
-          "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:09.492Z"
+      "fetchedAt": "2026-10-19T08:54:35.668Z"
     },
     "sl": {
       "currency": "USD",
@@ -7962,7 +7962,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:11.063Z"
+      "fetchedAt": "2026-10-19T08:54:37.219Z"
     },
     "sn": {
       "currency": "USD",
@@ -7983,14 +7983,14 @@
           "amount": 40
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 5.99",
-          "amount": 5.99
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 5.99",
+          "amount": 5.99
         },
         {
           "name": "1000 Credits",
@@ -8018,7 +8018,7 @@
           "amount": 17.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:12.454Z"
+      "fetchedAt": "2026-10-19T08:54:38.824Z"
     },
     "sr": {
       "currency": "USD",
@@ -8029,14 +8029,14 @@
           "amount": 10
         },
         {
-          "name": "Premier Plan",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 99.00",
           "amount": 99
+        },
+        {
+          "name": "Premier Plan",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "1000 Credits",
@@ -8074,7 +8074,7 @@
           "amount": 29.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:13.988Z"
+      "fetchedAt": "2026-10-19T08:54:40.153Z"
     },
     "st": {
       "currency": "USD",
@@ -8130,7 +8130,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:15.481Z"
+      "fetchedAt": "2026-10-19T08:54:41.665Z"
     },
     "sv": {
       "currency": "USD",
@@ -8186,7 +8186,7 @@
           "amount": 29.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:17.131Z"
+      "fetchedAt": "2026-10-19T08:54:43.121Z"
     },
     "sz": {
       "currency": "USD",
@@ -8242,7 +8242,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:18.523Z"
+      "fetchedAt": "2026-10-19T08:54:44.808Z"
     },
     "tc": {
       "currency": "USD",
@@ -8298,7 +8298,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:19.985Z"
+      "fetchedAt": "2026-10-19T08:54:46.104Z"
     },
     "td": {
       "currency": "USD",
@@ -8354,7 +8354,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:21.624Z"
+      "fetchedAt": "2026-10-19T08:54:47.644Z"
     },
     "th": {
       "currency": "THB",
@@ -8380,14 +8380,14 @@
           "amount": 149
         },
         {
-          "name": "1 Download Credit",
-          "price": "฿99.00",
-          "amount": 99
-        },
-        {
           "name": "1000 Credits",
           "price": "฿299.00",
           "amount": 299
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "฿99.00",
+          "amount": 99
         },
         {
           "name": "1 Download Credit",
@@ -8405,12 +8405,12 @@
           "amount": 9990
         },
         {
-          "name": "5 Download Credits",
-          "price": "฿499.00",
-          "amount": 499
+          "name": "2000 Credits",
+          "price": "฿599.00",
+          "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:23.021Z"
+      "fetchedAt": "2026-10-19T08:54:49.225Z"
     },
     "tj": {
       "currency": "USD",
@@ -8466,7 +8466,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:24.516Z"
+      "fetchedAt": "2026-10-19T08:54:50.634Z"
     },
     "tm": {
       "currency": "USD",
@@ -8522,7 +8522,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:26.045Z"
+      "fetchedAt": "2026-10-19T08:54:52.149Z"
     },
     "tn": {
       "currency": "USD",
@@ -8578,7 +8578,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:27.494Z"
+      "fetchedAt": "2026-10-19T08:54:53.678Z"
     },
     "to": {
       "currency": "USD",
@@ -8634,7 +8634,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:29.011Z"
+      "fetchedAt": "2026-10-19T08:54:55.165Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8690,7 +8690,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:30.542Z"
+      "fetchedAt": "2026-10-19T08:54:56.756Z"
     },
     "tt": {
       "currency": "USD",
@@ -8701,14 +8701,14 @@
           "amount": 10
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 96.00",
-          "amount": 96
-        },
-        {
           "name": "Premier Plan",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 96.00",
+          "amount": 96
         },
         {
           "name": "1000 Credits",
@@ -8746,7 +8746,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:32.001Z"
+      "fetchedAt": "2026-10-19T08:54:58.219Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8797,12 +8797,12 @@
           "amount": 9990
         },
         {
-          "name": "2000 Credits",
+          "name": "3 Download Credits",
           "price": "$490.00",
           "amount": 490
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:33.540Z"
+      "fetchedAt": "2026-10-19T08:54:59.707Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8818,11 +8818,6 @@
           "amount": 89900
         },
         {
-          "name": "Pro Plan",
-          "price": "299,900.00 TZS",
-          "amount": 299900
-        },
-        {
           "name": "500 Credits",
           "price": "11,900.00 TZS",
           "amount": 11900
@@ -8831,6 +8826,11 @@
           "name": "3 Download Credits",
           "price": "24,900.00 TZS",
           "amount": 24900
+        },
+        {
+          "name": "Pro Plan",
+          "price": "299,900.00 TZS",
+          "amount": 299900
         },
         {
           "name": "1000 Credits",
@@ -8858,7 +8858,7 @@
           "amount": 89900
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:35.104Z"
+      "fetchedAt": "2026-10-19T08:55:01.169Z"
     },
     "ua": {
       "currency": "USD",
@@ -8914,7 +8914,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:36.548Z"
+      "fetchedAt": "2026-10-19T08:55:02.628Z"
     },
     "ug": {
       "currency": "USD",
@@ -8970,7 +8970,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:38.057Z"
+      "fetchedAt": "2026-10-19T08:55:04.328Z"
     },
     "us": {
       "currency": "USD",
@@ -9026,7 +9026,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-19T08:15:00.940Z"
+      "fetchedAt": "2026-10-19T08:55:05.693Z"
     },
     "uy": {
       "currency": "USD",
@@ -9052,14 +9052,14 @@
           "amount": 4
         },
         {
-          "name": "1 Download Credit",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
           "name": "1000 Credits",
           "price": "USD 8.00",
           "amount": 8
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "USD 4.99",
+          "amount": 4.99
         },
         {
           "name": "1 Download Credit",
@@ -9082,7 +9082,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:40.991Z"
+      "fetchedAt": "2026-10-19T08:55:07.170Z"
     },
     "uz": {
       "currency": "USD",
@@ -9138,7 +9138,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:42.500Z"
+      "fetchedAt": "2026-10-19T08:55:08.861Z"
     },
     "vc": {
       "currency": "USD",
@@ -9194,7 +9194,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:44.052Z"
+      "fetchedAt": "2026-10-19T08:55:10.164Z"
     },
     "ve": {
       "currency": "USD",
@@ -9250,7 +9250,7 @@
           "amount": 49.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:45.494Z"
+      "fetchedAt": "2026-10-19T08:55:11.637Z"
     },
     "vg": {
       "currency": "USD",
@@ -9306,7 +9306,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:46.980Z"
+      "fetchedAt": "2026-10-19T08:55:13.147Z"
     },
     "vn": {
       "currency": "VND",
@@ -9322,9 +9322,9 @@
           "amount": 999000
         },
         {
-          "name": "1 Download Credit",
-          "price": "99.000đ",
-          "amount": 99000
+          "name": "Pro Plan",
+          "price": "2.999.000đ",
+          "amount": 2999000
         },
         {
           "name": "500 Credits",
@@ -9332,9 +9332,9 @@
           "amount": 119000
         },
         {
-          "name": "Pro Plan",
-          "price": "2.999.000đ",
-          "amount": 2999000
+          "name": "1 Download Credit",
+          "price": "99.000đ",
+          "amount": 99000
         },
         {
           "name": "1 Download Credit",
@@ -9347,14 +9347,14 @@
           "amount": 249000
         },
         {
-          "name": "10 Download Credits",
-          "price": "999.000đ",
-          "amount": 999000
-        },
-        {
           "name": "3 Download Credits",
           "price": "299.000đ",
           "amount": 299000
+        },
+        {
+          "name": "10 Download Credits",
+          "price": "999.000đ",
+          "amount": 999000
         },
         {
           "name": "Premier Plan",
@@ -9362,7 +9362,7 @@
           "amount": 8999000
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:48.534Z"
+      "fetchedAt": "2026-10-19T08:55:14.670Z"
     },
     "vu": {
       "currency": "USD",
@@ -9418,7 +9418,7 @@
           "amount": 24.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:50.040Z"
+      "fetchedAt": "2026-10-19T08:55:16.124Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9474,7 +9474,7 @@
           "amount": 34.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:51.531Z"
+      "fetchedAt": "2026-10-19T08:55:17.666Z"
     },
     "ye": {
       "currency": "USD",
@@ -9530,7 +9530,7 @@
           "amount": 14.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:53.005Z"
+      "fetchedAt": "2026-10-19T08:55:19.175Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9551,14 +9551,14 @@
           "amount": 1999.99
         },
         {
-          "name": "500 Credits",
-          "price": "R79.99",
-          "amount": 79.99
-        },
-        {
           "name": "1 Download Credit",
           "price": "R99.99",
           "amount": 99.99
+        },
+        {
+          "name": "500 Credits",
+          "price": "R79.99",
+          "amount": 79.99
         },
         {
           "name": "1000 Credits",
@@ -9586,7 +9586,7 @@
           "amount": 5999.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:54.486Z"
+      "fetchedAt": "2026-10-19T08:55:20.669Z"
     },
     "zm": {
       "currency": "USD",
@@ -9642,7 +9642,7 @@
           "amount": 59.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:56.026Z"
+      "fetchedAt": "2026-10-19T08:55:22.216Z"
     },
     "zw": {
       "currency": "USD",
@@ -9698,7 +9698,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-10-18T14:46:57.455Z"
+      "fetchedAt": "2026-10-19T08:55:23.770Z"
     }
   }
 }
