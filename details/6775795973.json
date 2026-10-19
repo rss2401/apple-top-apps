@@ -2,7 +2,17 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3a/1c/d03a1c1a-7475-47c4-d09f-4cd7592e018b/prope.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a6/7e/31a67ef2-17eb-dee2-a681-ee8e0858c71f/propie.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/3c/5b/693c5b9b-5915-e3a9-f411-248915d7c3c1/priepi.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,46 +145,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/mika-edelijn/id6775541086?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/3a/1c/d03a1c1a-7475-47c4-d09f-4cd7592e018b/prope.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/a6/7e/31a67ef2-17eb-dee2-a681-ee8e0858c71f/propie.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/3c/5b/693c5b9b-5915-e3a9-f411-248915d7c3c1/priepi.png/320x480bb.jpg"
-      ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/mika-edelijn/id6775541086?uo=4",
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/8a/fa/508afaea-0e04-038d-92cb-385e4eb0da58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "minimumOsVersion": "17.0",
-      "currentVersionReleaseDate": "2026-10-12T10:44:24Z",
-      "artistId": 6775541086,
-      "artistName": "Mika Edelijn",
-      "genres": [
-        "Musik"
-      ],
-      "bundleId": "AumChord.mikaedelijn.AumChordBeta",
-      "genreIds": [
-        "6011"
-      ],
-      "sellerName": "Mika Edelijn",
-      "trackName": "AumChord",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "AumChord is an Ambient Chord Synthesizer with seven pads, a joystick and instant sound. Pick a key and every pad plays a chord that fits, so you can make music without knowing any theory.\n\nSEVEN PADS, ONE JOYSTICK\nSeven chord pads, one for each step of the scale, in all 12 keys, major or minor. Hold a pad and push the joystick to change the chord: add a 7th or a 9th, suspend it, strip it down to a power chord, open up the voicing or jump an octave. Switch to mono for single-note lines, or let the arpeggiator play the notes of a held chord in a shuffled order.\n\nAumChord is an instrument. Anyone can play it in a minute, and the more you learn its moves, the more it gives back.\n\nSOUND ENGINE\n17 built-in sounds from AumChord's own synth engine, each with its own filter, reverb and delay. Switch between them at any time. New sounds arrive with updates, so there is always something new to play with.\n\nRECORD, LAYER, KEEP\nPick a length of 1, 2, 4 or 8 bars, turn on the metronome and record. Stack up to three loop layers, each with its own volume adjustment. Save loops to your library or share them as WAV files to use in your own projects.\n\nPLAY EVERYTHING ELSE\nAumChord is also a controller. Every chord you play goes out as a MIDI signal, so the same seven pads and joystick can play any synth you own: another app on your iPhone, or a full studio setup on your computer over USB. One finger, full chords, in your own sounds.\n\nBUY ONCE, KEEPS GROWING\nNo subscription, no in-app purchases, no account. Improvements and new sounds arrive as free updates.",
-      "trackViewUrl": "https://apps.apple.com/de/app/aumchord/id6775795973?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackCensoredName": "AumChord",
       "sellerUrl": "https://circuitsandleaves.com",
-      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -182,9 +159,32 @@
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "releaseDate": "2026-10-12T07:00:00Z",
+      "genres": [
+        "Musik"
+      ],
       "price": 4.99,
+      "artistId": 6775541086,
+      "artistName": "Mika Edelijn",
+      "releaseDate": "2026-10-12T07:00:00Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6775795973,
+      "trackName": "AumChord",
+      "currentVersionReleaseDate": "2026-10-12T10:44:24Z",
+      "genreIds": [
+        "6011"
+      ],
+      "version": "1.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "AumChord is an Ambient Chord Synthesizer with seven pads, a joystick and instant sound. Pick a key and every pad plays a chord that fits, so you can make music without knowing any theory.\n\nSEVEN PADS, ONE JOYSTICK\nSeven chord pads, one for each step of the scale, in all 12 keys, major or minor. Hold a pad and push the joystick to change the chord: add a 7th or a 9th, suspend it, strip it down to a power chord, open up the voicing or jump an octave. Switch to mono for single-note lines, or let the arpeggiator play the notes of a held chord in a shuffled order.\n\nAumChord is an instrument. Anyone can play it in a minute, and the more you learn its moves, the more it gives back.\n\nSOUND ENGINE\n17 built-in sounds from AumChord's own synth engine, each with its own filter, reverb and delay. Switch between them at any time. New sounds arrive with updates, so there is always something new to play with.\n\nRECORD, LAYER, KEEP\nPick a length of 1, 2, 4 or 8 bars, turn on the metronome and record. Stack up to three loop layers, each with its own volume adjustment. Save loops to your library or share them as WAV files to use in your own projects.\n\nPLAY EVERYTHING ELSE\nAumChord is also a controller. Every chord you play goes out as a MIDI signal, so the same seven pads and joystick can play any synth you own: another app on your iPhone, or a full studio setup on your computer over USB. One finger, full chords, in your own sounds.\n\nBUY ONCE, KEEPS GROWING\nNo subscription, no in-app purchases, no account. Improvements and new sounds arrive as free updates.",
+      "trackCensoredName": "AumChord",
+      "trackViewUrl": "https://apps.apple.com/de/app/aumchord/id6775795973?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "sellerName": "Mika Edelijn",
+      "bundleId": "AumChord.mikaedelijn.AumChordBeta",
       "userRatingCount": 0,
       "country": "DEU"
     }

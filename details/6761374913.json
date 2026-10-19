@@ -5,6 +5,7 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/tencent-technology-shanghai-company-limited/id473924491?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/15/36/221536fc-3443-6d9b-d210-2a04c0d8b67a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/15/36/221536fc-3443-6d9b-d210-2a04c0d8b67a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/c7/6f/92c76f3c-78f1-24f3-c698-08a1b24a4c55/20261009103633-2d75969b-a3bc-4183-b6dd-0304aa25c066-fe85b9f4b526395f4bbcfc6bbb89df7d317fd142-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/b4/c4/abb4c4cb-a432-0c64-a21c-40e4d719ba09/20261009103639-2d75969b-a3bc-4183-b6dd-0304aa25c066-5383ddc9613cfedec4e7b571753c437a93e8d035-1.png/320x480bb.jpg",
@@ -23,14 +24,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/15/36/221536fc-3443-6d9b-d210-2a04c0d8b67a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [
-        "无限制网页访问"
-      ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,47 +156,54 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 3.33333,
+      "advisories": [
+        "无限制网页访问"
+      ],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "WorkBuddy - AI 办公我帮你",
       "trackViewUrl": "https://apps.apple.com/cn/app/workbuddy-ai-%E5%8A%9E%E5%85%AC%E6%88%91%E5%B8%AE%E4%BD%A0/id6761374913?uo=4",
       "contentAdvisoryRating": "17+",
+      "averageUserRating": 3.32333,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 3.32333,
+      "fileSizeBytes": "366782464",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 1033,
+      "trackContentRating": "17+",
       "languageCodesISO2A": [
         "EN",
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "366782464",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 1023,
-      "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 3.33333,
+      "artistId": 473924491,
+      "artistName": "Tencent Technology (Shanghai) Company Limited",
       "genres": [
         "工具",
         "效率"
       ],
       "price": 0,
-      "releaseDate": "2026-05-20T07:00:00Z",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- 体验优化",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Tencent Technology (Shanghai) Company Limited",
+      "trackId": 6761374913,
+      "trackName": "WorkBuddy - AI 办公我帮你",
+      "releaseDate": "2026-05-20T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-09T06:36:33Z",
-      "releaseNotes": "- 体验优化",
       "version": "2.6.1",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "WorkBuddy是腾讯云推出的AI智能工作助理。微信扫码即用，覆盖12个行业、140+AI顾问、2.2万技能插件。支持云上、本机双模式运行，通过对话即可完成各类工作产物，提供丰富的技能和专家资源。\n\n\n自动续费产品说明\n订阅服务\n a. WorkBuddy 标准版连续包月 (1个月)\n b. WorkBuddy 标准版连续包年 (12个月)\n c. WorkBuddy 高级版连续包月 (1个月)\n d. WorkBuddy 高级版连续包年 (12个月)\n e. WorkBuddy 旗舰版连续包月 (1个月)\n f. WorkBuddy 旗舰版连续包年 (12个月)\n订阅的价格\n a. WorkBuddy 标准版连续包月 (1个月) 为 70元/月\n b. WorkBuddy 标准版连续包年 (12个月) 为 678元/年\n c. WorkBuddy 高级版连续包月 (1个月) 为 140元/月\n d. WorkBuddy 高级版连续包年 (12个月) 为 1348元/年\n e. WorkBuddy 旗舰版连续包月 (1个月) 为 708元/月\n f. WorkBuddy 旗舰版连续包年 (12个月) 为 6788元/年\n自动续费规则\n购买连续包月/连续包年 WorkBuddy 套餐的账号，会在到期前24小时，自动在iTunes账号扣费并延长1个月或12个月会员有效期。\n取消订阅方式\n如需取消订阅，请手动打开iOS的\"设置\" --> 进入\"iTunes Store与App Store\" --> 点击\"AppleID\"，选择\"查看Apple ID\"，进入\"账户设置\"页面，点击\"订阅\"，选择对应的 WorkBuddy 订阅取消即可。\n如未在订阅结束的至少24小时前关闭订阅，此订阅将会自动续订。\n\n服务协议（含自动续费服务规则）：https://rule.tencent.com/rule/202606290002\n隐私协议：https://privacy.qq.com/document/preview/b0979553fd8b434096478adf9f7c521e",
-      "minimumOsVersion": "15.0",
-      "artistId": 473924491,
-      "artistName": "Tencent Technology (Shanghai) Company Limited",
       "bundleId": "com.tencent.workbuddy.app",
-      "trackId": 6761374913,
-      "trackName": "WorkBuddy - AI 办公我帮你",
-      "userRatingCount": 1023,
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "sellerName": "Tencent Technology (Shanghai) Company Limited",
+      "userRatingCount": 1033,
       "country": "CHN"
     }
   ]

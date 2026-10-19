@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/kennedy-development-group-llc/id478462404?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/29/b8ee29e2-281c-c056-d8b2-c4c65b9f039a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/29/b8ee29e2-281c-c056-d8b2-c4c65b9f039a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -158,22 +161,21 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/29/b8ee29e2-281c-c056-d8b2-c4c65b9f039a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/kennedy-development-group-llc/id478462404?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/29/b8ee29e2-281c-c056-d8b2-c4c65b9f039a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ee/29/b8ee29e2-281c-c056-d8b2-c4c65b9f039a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "averageUserRating": 4.73076,
+      "trackCensoredName": "Shooter: Ballistic Calculator",
+      "trackViewUrl": "https://apps.apple.com/us/app/shooter-ballistic-calculator/id478462401?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "17.6",
-      "artistId": 478462404,
-      "artistName": "Kennedy Development Group, LLC",
+      "price": 19.99,
       "genres": [
         "Sports",
         "Utilities"
       ],
-      "price": 19.99,
-      "bundleId": "net.kndy.Shooter",
+      "artistId": 478462404,
+      "artistName": "Kennedy Development Group, LLC",
+      "releaseDate": "2011-11-11T16:11:39Z",
       "trackId": 478462401,
       "trackName": "Shooter: Ballistic Calculator",
-      "releaseNotes": "- Can now acquire weather station atmosphere from the main screen\n- Auto-atmosphere (from station) is back (look in Settings->Weather Station->Acquire on Load).\n- Can now acquire station pressure from your device (if your device has an altimeter, most do)",
-      "releaseDate": "2011-11-11T16:11:39Z",
       "genreIds": [
         "6004",
         "6002"
@@ -183,11 +185,13 @@
       "sellerName": "Kennedy Development Group, LLC",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-04-09T16:03:19Z",
+      "releaseNotes": "- Can now acquire weather station atmosphere from the main screen\n- Auto-atmosphere (from station) is back (look in Settings->Weather Station->Acquire on Load).\n- Can now acquire station pressure from your device (if your device has an altimeter, most do)",
       "version": "2.3.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Precision external ballistics for hunters, competitive shooters, and tactical professionals.  For over 15 years, Shooter has delivered fast, accurate trajectory solutions you can trust from the range to the field.\n\nKey Features:\n\n  • Save Your Data — Store unlimited firearm and ammunition profiles. Enter your specs once, then calculate on the fly.\n\n  • Bluetooth Weather Integration — Import live atmospherics from Kestrel 5000-series, Kestrel DROP, or WeatherFlow meters.\n\n  • Weather from Station — Import atmospheric inputs from a nearby weather station.\n\n  • Truing / Calibration — Determine your true muzzle velocity or automatically calibrate drag using observed field data for improved solution accuracy.\n\n  • Advanced Corrections — Support for Coriolis effect, spin drift, and aerodynamic jump.\n\n  • Zero Atmosphere — Shooter accounts for atmospheric differences between your zero conditions and current environment.\n\n  • Target Cards — Get solutions for multiple targets at once, and save target cards for use across your firearm/ammo profiles.\n\n  • Built-in Sensors — Use your device's camera, compass, and GPS to capture look angle, azimuth, and location.\n\n  • Extensive Bullet Library — Pre-loaded ballistic data from major manufacturers to speed up profile setup.\n\n  • Cloud Backup & Sync — Manage profiles from your PC at manage.shooterapp.net and sync to your device, no monthly cost.\n\n  • Full Metric Support — Switch seamlessly between imperial and metric units.\n\n  • Export & Share — Email formatted trajectory tables directly from the app.",
       "averageUserRatingForCurrentVersion": 4.73076,
+      "sellerUrl": "https://www.shooterapp.net",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -195,11 +199,7 @@
       "formattedPrice": "$19.99",
       "userRatingCountForCurrentVersion": 52,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.shooterapp.net",
-      "averageUserRating": 4.73076,
-      "trackCensoredName": "Shooter: Ballistic Calculator",
-      "trackViewUrl": "https://apps.apple.com/us/app/shooter-ballistic-calculator/id478462401?uo=4",
-      "contentAdvisoryRating": "4+",
+      "bundleId": "net.kndy.Shooter",
       "userRatingCount": 52,
       "country": "USA"
     }

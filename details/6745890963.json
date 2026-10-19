@@ -211,10 +211,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/f7/2f/c3f72f33-aa8c-0857-1965-7b2fd20fb5df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/hainan-yuyue-technology-co-ltd/id1809351497?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/f7/2f/c3f72f33-aa8c-0857-1965-7b2fd20fb5df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/f7/2f/c3f72f33-aa8c-0857-1965-7b2fd20fb5df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -356,47 +359,44 @@
         "偶尔/轻微的亵渎或低俗幽默"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/hainan-yuyue-technology-co-ltd/id1809351497?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/f7/2f/c3f72f33-aa8c-0857-1965-7b2fd20fb5df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/f7/2f/c3f72f33-aa8c-0857-1965-7b2fd20fb5df/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "averageUserRating": 4.47722,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
       "fileSizeBytes": "701919232",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 24524,
+      "userRatingCountForCurrentVersion": 24636,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.47774,
+      "contentAdvisoryRating": "17+",
+      "trackCensoredName": "红果漫剧 - 热门精彩漫剧",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7-%E7%83%AD%E9%97%A8%E7%B2%BE%E5%BD%A9%E6%BC%AB%E5%89%A7/id6745890963?uo=4",
+      "averageUserRatingForCurrentVersion": 4.47722,
       "releaseNotes": "基础体验优化，看漫剧更流畅！",
       "minimumOsVersion": "14.0",
-      "price": 0,
       "artistId": 1809351497,
       "artistName": "Hainan Yuyue Technology Co., Ltd.",
       "genres": [
         "娱乐"
       ],
+      "price": 0,
       "releaseDate": "2025-12-08T08:00:00Z",
-      "bundleId": "com.kylin.readnew",
       "trackId": 6745890963,
       "trackName": "红果漫剧 - 热门精彩漫剧",
+      "genreIds": [
+        "6016"
+      ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "Hainan Yuyue Technology Co., Ltd.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6016"
-      ],
       "currentVersionReleaseDate": "2026-09-29T03:44:53Z",
       "version": "7.3.9",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "【红果旗下】作为红果品牌下专注于漫剧内容的独立消费场景，为您带来更丰富、更精彩的漫剧内容\n【精彩漫剧】丰富类型免费畅看，沙雕动画、悬疑探案、末世重生等多题材任你选\n【沉浸体验】竖屏沉浸式观看，支持上下滑动切集、倍速播放，操作顺滑零门槛\n【懂你所爱】智能追踪观影偏好，专属推荐 + 实时热榜，新鲜好剧绝不漏网",
-      "trackCensoredName": "红果漫剧 - 热门精彩漫剧",
-      "averageUserRating": 4.47774,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%BA%A2%E6%9E%9C%E6%BC%AB%E5%89%A7-%E7%83%AD%E9%97%A8%E7%B2%BE%E5%BD%A9%E6%BC%AB%E5%89%A7/id6745890963?uo=4",
-      "contentAdvisoryRating": "17+",
-      "userRatingCount": 24524,
+      "bundleId": "com.kylin.readnew",
+      "userRatingCount": 24636,
       "country": "CHN"
     }
   ]

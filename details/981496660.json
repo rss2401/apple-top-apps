@@ -194,8 +194,6 @@
       "userRatingCount": 130886
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
-      "appletvScreenshotUrls": [],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/1a/00/c71a0030-c75c-10db-25fd-422c50eb73be/iOS_de_screen1_2026-09.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/a5/2a/b7a52a46-569b-5e92-baef-24c21d1f4fe3/iOS_de_screen2_2026-09.png/320x480bb.jpg",
@@ -212,23 +210,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/77/cb/ca77cb56-cc84-aa1d-456b-85c1cc9f1354/iOS-tablet_de_screen5_2026-06.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/60/65/b2606538-3728-ca5a-8f05-d055bc806b05/iOS-tablet_de_screen6_2026-06.png/360x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
-        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/sudwestrundfunk-anstalt-des-offentlichen-rechts/id610313722?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/de/developer/sudwestrundfunk-anstalt-des-offentlichen-rechts/id610313722?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/16/a0/9316a0fd-ac8f-c45d-d7d5-0eb118ed807b/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,46 +351,56 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen",
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor"
+      ],
+      "kind": "software",
       "languageCodesISO2A": [
         "DE"
       ],
       "fileSizeBytes": "81557504",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 149093,
+      "userRatingCountForCurrentVersion": 149312,
       "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.59008,
+      "averageUserRating": 4.59008,
+      "bundleId": "de.swr.avp.ard.tablet",
+      "contentAdvisoryRating": "12+",
       "sellerUrl": "https://www.ardmediathek.de",
-      "averageUserRatingForCurrentVersion": 4.59011,
-      "minimumOsVersion": "17.0",
-      "price": 0,
-      "artistId": 610313722,
-      "artistName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "trackCensoredName": "ARD Mediathek",
+      "trackViewUrl": "https://apps.apple.com/de/app/ard-mediathek/id981496660?uo=4",
       "genres": [
         "Unterhaltung",
         "Nachrichten"
       ],
-      "bundleId": "de.swr.avp.ard.tablet",
-      "releaseDate": "2015-06-29T08:33:39Z",
+      "artistId": 610313722,
+      "artistName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "price": 0,
+      "sellerName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "trackId": 981496660,
+      "trackName": "ARD Mediathek",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "genreIds": [
         "6016",
         "6009"
       ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Sudwestrundfunk, Anstalt des offentlichen Rechts",
+      "releaseDate": "2015-06-29T08:33:39Z",
+      "currentVersionReleaseDate": "2026-10-12T10:09:17Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "Bereit für das iPhone Duo: Wir haben die Darstellung der ARD Mediathek für das neue Gerät optimiert. Außerdem unterstützt die App jetzt die Bedienungshilfe „Fetter Text“. Dazu kommen Verbesserungen bei Downloads und im Programm sowie technische Optimierungen im Hintergrund.",
       "version": "11.1.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ARD MEDIATHEK: STREAMING FÜR ALLE\nNachrichten, Dokus, Serien, Filme, Shows, Sportevents und Live-TV – mit der ARD Mediathek streamst du jederzeit und überall das Beste der ARD.\n\nWie wär’s mit dem Sonntagabend-Kult-Krimi „Tatort“? Guck die Folge, die du willst, wann du willst. Oder lieber Comedy? Bei „Falsch, aber anders lustig“ liefern sich Comedians einen Wettkampf mit Impro-Gags und One-Liner.\n\nUnsere Doku-Soaps „Feuer & Flamme“ und „In höchster Not – Bergretter im Einsatz“ bringen dich ganz nah dran an Alltag und Notfalleinsätze von realen Rettungsteams. \n\nNachrichten und Informationen aus deiner Region bekommst du jederzeit bei der „Tagesschau“ oder den Regionalmagazinen.\n\nWEITERSCHAUEN, MERKLISTEN UND EMPFEHLUNGEN\nMit deinem persönlichen Profil in der ARD Mediathek streamst du noch komfortabler. Schau Videos da weiter, wo du sie beim letzten Mal pausiert hast.\nLeg dir eine Merkliste mit deinen Lieblingsvideos an, sodass du nicht vergisst, was du gucken wolltest.\n\nDu wechselst beim Streaming von Smartphone auf TV? Guck auf dem neuen Gerät da weiter, wo du aufgehört hast.\n\nMit deinem Profil bekommst du außerdem persönliche Empfehlungen. So entdeckst du mehr von dem, was du am liebsten magst.\n\nALLE LIVE-SENDER DER ARD JEDERZEIT STREAMEN\nMit der ARD Mediathek kannst du natürlich auch alle TV-Programme der ARD live sehen.  Streame jederzeit und überall:\n• Das Erste\n• BR\n• hr\n• mdr\n• NDR\n• radiobremen\n• rbb\n• SR\n• SWR\n• WDR\n• one\n• arte\n• KiKA\n• 3sat\n• ARD alpha\n• tagesschau 24\n• phoenix\n• Deutsche Welle\n\nDAS KINDERPROFIL - EINFACH, KINDGERECHT UND SICHER\nAb sofort kannst du für Kinder ein eigenes Profil in der ARD Mediathek anlegen.\n\nDas Kinderprofil ist nicht nur kunterbunt. Einfache Navigation und mehr Übersicht helfen Kindern, ihr Profil spielerisch und selbstständig zu erkunden.\n\nIm Kinderprofil haben Kinder nur Zugriff auf Inhalte, die zu ihrem Alter passen – von „Die Sendung mit der Maus“ über „Die Pfefferkörner“ bis zu „Unser Sandmännchen“. Das Verlassen des Kinderprofils ist durch eine Sicherung geschützt.\n\nFRAGEN, HINWEISE, KRITIK\nWeitere Informationen und Antworten findest du in der App unter Hilfe oder unter: https://hilfe.ard.de/mediathek/\nNutzungsbedingungen: https://www.ardmediathek.de/nutzungsbedingungen \nDatenschutz: https://www.ardmediathek.de/datenschutz \nImpressum: https://www.ardmediathek.de/impressum \n\nARD. WIR SIND DEINS.",
-      "averageUserRating": 4.59011,
-      "trackCensoredName": "ARD Mediathek",
-      "trackViewUrl": "https://apps.apple.com/de/app/ard-mediathek/id981496660?uo=4",
-      "contentAdvisoryRating": "12+",
-      "currentVersionReleaseDate": "2026-10-12T10:09:17Z",
-      "trackId": 981496660,
-      "trackName": "ARD Mediathek",
-      "userRatingCount": 149093,
+      "minimumOsVersion": "17.0",
+      "userRatingCount": 149312,
       "country": "DEU"
     }
   ]

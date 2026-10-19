@@ -2,7 +2,7 @@
   "id": "1062022008",
   "name": "LumaFusion",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:57:07.593Z",
+  "fetchedAt": "2026-10-19T08:06:06.597Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -38,7 +38,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:03.024Z"
+      "fetchedAt": "2026-10-19T08:06:00.608Z"
     },
     "fr": {
       "currency": "EUR",
@@ -74,7 +74,43 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:04.469Z"
+      "fetchedAt": "2026-10-19T08:06:02.178Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Creator Pass Monthly",
+          "price": "£6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Creator Pass Yearly",
+          "price": "£51.99",
+          "amount": 51.99
+        },
+        {
+          "name": "Speed Ramping & Keyframing",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Multicam Studio",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "FCPXML Export",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "CoreMelt PaintX Plug-In",
+          "price": "£19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:06:03.587Z"
     },
     "jp": {
       "currency": "JPY",
@@ -110,7 +146,7 @@
           "amount": 3000
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:05.985Z"
+      "fetchedAt": "2026-10-19T08:06:04.907Z"
     },
     "us": {
       "currency": "USD",
@@ -146,7 +182,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:07.591Z"
+      "fetchedAt": "2026-10-19T08:06:06.597Z"
     }
   }
 }

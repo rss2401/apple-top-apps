@@ -229,7 +229,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -362,13 +364,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a9/4c/23a94c72-1586-5379-bd70-c9e05f3d2668/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "11.0",
       "languageCodesISO2A": [
         "BG",
         "HR",
@@ -405,20 +404,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 172,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.13372,
       "sellerUrl": "https://www.microsoft.com/p/surface-earbuds/920bnghqjshs",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "11.0",
+      "averageUserRatingForCurrentVersion": 3.13372,
+      "currentVersionReleaseDate": "2025-01-23T03:40:52Z",
+      "price": 0,
       "trackName": "Microsoft Surface",
       "trackId": 1476329686,
-      "releaseNotes": "Thanks for using Microsoft Surface app! This release includes bug fixes and performance improvements.",
       "releaseDate": "2020-05-07T07:00:00Z",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2025-01-23T03:40:52Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.1059.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -428,14 +429,13 @@
       "trackCensoredName": "Microsoft Surface",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-surface/id1476329686?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Thanks for using Microsoft Surface app! This release includes bug fixes and performance improvements.",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
       "userRatingCount": 172,
       "country": "USA"
     }

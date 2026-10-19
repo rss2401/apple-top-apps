@@ -245,7 +245,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/b1/af/b2b1af10-b080-3693-f314-b3a397a4f0a9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -378,15 +382,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/b1/af/b2b1af10-b080-3693-f314-b3a397a4f0a9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/b1/af/b2b1af10-b080-3693-f314-b3a397a4f0a9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.6",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -425,20 +424,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 4092,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.55401,
       "sellerUrl": "https://about.yammer.com/",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "17.6",
+      "averageUserRatingForCurrentVersion": 4.55401,
+      "currentVersionReleaseDate": "2026-10-05T16:49:40Z",
+      "price": 0,
       "trackName": "Viva Engage",
       "trackId": 289559439,
-      "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
       "releaseDate": "2019-02-12T08:00:00Z",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2026-10-05T16:49:40Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "11.59.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -448,14 +449,13 @@
       "trackCensoredName": "Viva Engage",
       "trackViewUrl": "https://apps.apple.com/us/app/viva-engage/id289559439?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "This update includes stability enhancements and bug fixes to improve your overall experience.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
       "userRatingCount": 4092,
       "country": "USA"
     }

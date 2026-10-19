@@ -203,7 +203,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,13 +338,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "18.0",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -350,18 +349,20 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 323,
       "trackContentRating": "4+",
+      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 3.5356,
-      "genres": [
-        "Business"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "currentVersionReleaseDate": "2026-09-17T13:08:42Z",
+      "price": 0,
       "trackName": "Microsoft MyHub",
       "trackId": 1476326475,
-      "releaseNotes": "A couple of bug fixes",
       "releaseDate": "2020-07-01T07:00:00Z",
+      "genreIds": [
+        "6000"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2026-09-17T13:08:42Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.1.7",
       "wrapperType": "software",
       "currency": "USD",
@@ -371,13 +372,12 @@
       "trackCensoredName": "Microsoft MyHub",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-myhub/id1476326475?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "A couple of bug fixes",
+      "genres": [
+        "Business"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6000"
-      ],
       "userRatingCount": 323,
       "country": "USA"
     }

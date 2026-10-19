@@ -225,7 +225,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -358,15 +362,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -395,22 +394,24 @@
       ],
       "fileSizeBytes": "26831872",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 158093,
+      "userRatingCountForCurrentVersion": 158090,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.7506,
       "sellerUrl": "https://translator.microsoft.com/",
-      "genres": [
-        "Productivity",
-        "Travel"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 4.7506,
+      "currentVersionReleaseDate": "2026-06-30T19:10:12Z",
+      "price": 0,
       "trackName": "Microsoft Translator",
       "trackId": 1018949559,
-      "releaseNotes": "• The multi-device conversation feature has been retired.\n• Bug fixes and general improvements.",
       "releaseDate": "2015-08-06T06:08:19Z",
+      "genreIds": [
+        "6007",
+        "6003"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "currentVersionReleaseDate": "2026-06-30T19:10:12Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "26.7.1",
       "wrapperType": "software",
       "currency": "USD",
@@ -420,15 +421,14 @@
       "trackCensoredName": "Microsoft Translator",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-translator/id1018949559?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "• The multi-device conversation feature has been retired.\n• Bug fixes and general improvements.",
+      "genres": [
+        "Productivity",
+        "Travel"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6007",
-        "6003"
-      ],
-      "userRatingCount": 158093,
+      "userRatingCount": 158090,
       "country": "USA"
     }
   ]

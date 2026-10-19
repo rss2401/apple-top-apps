@@ -2,7 +2,7 @@
   "id": "284882215",
   "name": "Facebook",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:59:17.720Z",
+  "fetchedAt": "2026-10-19T08:08:33.365Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:13.838Z"
+      "fetchedAt": "2026-10-19T08:08:27.709Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:15.126Z"
+      "fetchedAt": "2026-10-19T08:08:29.198Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,63 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:16.720Z"
+      "fetchedAt": "2026-10-19T08:08:30.762Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "45 Stars",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "145 Stars",
+          "price": "¥500",
+          "amount": 500
+        },
+        {
+          "name": "99 Stars",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "310 Stars",
+          "price": "¥1,000",
+          "amount": 1000
+        },
+        {
+          "name": "530 Stars",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "1200 Stars",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "29 Stars",
+          "price": "¥50",
+          "amount": 50
+        },
+        {
+          "name": "95 Stars",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Supporter",
+          "price": "¥240",
+          "amount": 240
+        },
+        {
+          "name": "Supporter",
+          "price": "¥550",
+          "amount": 550
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:08:32.223Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +282,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:17.720Z"
+      "fetchedAt": "2026-10-19T08:08:33.361Z"
     }
   }
 }

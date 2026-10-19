@@ -231,7 +231,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -376,13 +378,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
-      "minimumOsVersion": "8.0",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -413,20 +412,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 386,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.20725,
       "sellerUrl": "http://aka.ms/selfiepromo",
-      "genres": [
-        "Photo & Video",
-        "Entertainment"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "8.0",
+      "averageUserRatingForCurrentVersion": 3.20725,
+      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
+      "price": 0,
       "trackName": "Microsoft Selfie",
       "trackId": 1064676206,
-      "releaseNotes": "GDPR compliance fix",
       "releaseDate": "2015-12-28T05:51:35Z",
+      "genreIds": [
+        "6008",
+        "6016"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.2.6",
       "wrapperType": "software",
       "currency": "USD",
@@ -436,14 +437,13 @@
       "trackCensoredName": "Microsoft Selfie",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-selfie/id1064676206?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "GDPR compliance fix",
+      "genres": [
+        "Photo & Video",
+        "Entertainment"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6008",
-        "6016"
-      ],
       "userRatingCount": 386,
       "country": "USA"
     }

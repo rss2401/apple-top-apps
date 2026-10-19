@@ -2,7 +2,7 @@
   "id": "650684932",
   "name": "OBD Fusion",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:02:08.952Z",
+  "fetchedAt": "2026-10-19T08:11:15.029Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -69,17 +69,12 @@
           "amount": 14.99
         },
         {
-          "name": "Toyota 2008 Enhanced Diagnostics",
-          "price": "$14.99",
-          "amount": 14.99
-        },
-        {
           "name": "Toyota 2021 Enhanced",
           "price": "$14.99",
           "amount": 14.99
         },
         {
-          "name": "Ford 2005 Enhanced Diagnostics",
+          "name": "Toyota 2008 Enhanced Diagnostics",
           "price": "$14.99",
           "amount": 14.99
         },
@@ -89,7 +84,7 @@
           "amount": 14.99
         },
         {
-          "name": "Ford 2006 Enhanced Diagnostics",
+          "name": "Ford 2005 Enhanced Diagnostics",
           "price": "$14.99",
           "amount": 14.99
         },
@@ -99,7 +94,7 @@
           "amount": 14.99
         },
         {
-          "name": "Toyota 2017 Enhanced Diagnostics",
+          "name": "Ford 2006 Enhanced Diagnostics",
           "price": "$14.99",
           "amount": 14.99
         },
@@ -112,9 +107,14 @@
           "name": "Toyota 2005 Enhanced Diagnostics",
           "price": "$14.99",
           "amount": 14.99
+        },
+        {
+          "name": "Toyota 2017 Enhanced Diagnostics",
+          "price": "$14.99",
+          "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:02:08.946Z"
+      "fetchedAt": "2026-10-19T08:11:15.029Z"
     }
   }
 }

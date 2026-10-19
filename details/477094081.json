@@ -202,15 +202,8 @@
       "userRatingCount": 779
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/valnova/id312297700?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/5c/c4/b75cc4bf-f7f5-0750-5da1-662ae9f28df6/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/87/22/68/87226820-afa4-d20a-f898-11d52af38d30/pr_source.png/392x696bb.png",
@@ -228,7 +221,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fe/bc/03/febc0345-e7c1-46b4-454b-0be571855d4b/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2c/57/8e2c57b9-c79c-f555-b006-c76b80ef68c2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/valnova/id312297700?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,36 +361,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "trackCensoredName": "MapOut",
-      "trackViewUrl": "https://apps.apple.com/de/app/mapout/id477094081?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.83835,
-      "genres": [
-        "Navigation",
-        "Reisen"
-      ],
-      "price": 5.99,
-      "genreIds": [
-        "6010",
-        "6003"
-      ],
-      "artistName": "Valnova",
-      "artistId": 312297700,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "trackId": 477094081,
-      "trackName": "MapOut",
-      "bundleId": "ch.valnova.MapOut",
-      "sellerName": "Valnova GmbH",
-      "releaseDate": "2012-03-20T02:22:13Z",
       "currentVersionReleaseDate": "2026-09-19T18:00:22Z",
-      "releaseNotes": "- Behebt auf dem iPad einen Fehler beim Speichern selbstgezeichneter Touren\n- Verschiedene Fehlerbehebungen und Optimierungen",
-      "version": "3.4.14",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "«Ein Hingucker ist auch die 3-D-Ansicht, bei der die Berge quasi plastisch hervortreten.» – Tages-Anzeiger\n\n«MapOut saves the day by using a simple interface to draw routes, and check out elevation profiles… I’m pretty blown away by its capabilities.» – Alee from cyclingabout.com\n\nOffline Landkarte der Welt für iPhone und iPad. Fast so schön wie eine Papierkarte – nur vielfältiger.\n- für Wanderer: mit gut lesbarer Darstellung der Geländeform, auch im hintersten Winkel ohne Internet \n- für Velofahrer: mit Velorouten-Netz, Geschwindigkeits- und Distanzanzeige\n- für Stadtreisende: Stadtpläne mit Touristik-Informationen\n- für Geniesser: einfach schön anzuschauen\n\n3D Neige-Ansicht\n- Neige das Gerät in beliebige Richtungen um einen besseren Eindruck des Geländes zu erhalten. Mehr Info auf https://mapout.app.\n\nSuchfunktion\n- Suche nach Orten, Strassen, Berge, usw. Es wird dazu keine Internetverbindung benötigt.\n\nKartenmaterial\n- MapOut basiert auf dem OpenStreetMap-Projekt, dem «Wikipedia der Karten» – Korrekturen und Ergänzungen kannst Du selber auf OpenStreetMap.org vornehmen. Mit periodischen Updates werden jeweils aktuelle Karten ausgeliefert.\n- Lade die Regionen Deiner Wahl herunter - die Karten sind nun ohne Internetverbindung anzeigbar (Offline-Karte).\n\nTouren\n- Zeichnen: Zeichne Deine eigenen Touren und Wegpunkte direkt auf die Karte. Retuschiere existierende Touren und importierte GPX Dateien oder lass sie direkt auf das Wegnetz schnappen\n- Importieren: mit einem gratis «MapOut.me» Konto können «Wegbeschreibungen» per Email an dein Gerät gesendet werden. GPS-Touren findest du als gpx or kml Dateien auf vielen Webseiten mit Tipps zum Wandern oder Biken (z.B. auf www.gpsies.com)\n- Aufnehmen: mache «Aufnahmen» deiner eigenen Touren und teile sie mit Freunden. \n- Informationen: schnelle Übersicht zu jeder Tour – Länge, Höhendifferenz, Kartenausschnitt und Streckenprofil\n\nKartenbild\n- Schnelle Kartendarstellung (OpenGL beschleunigt)\n- Stufenfreier Zoom, immer eine pixelperfekte Karte\n- Topographische Karte mit Höhenlinien und Schattierung\n- Wählbare Overlays: Velo/Wander/Ski Routen, Sehenswürdigkeiten, öffentlicher Verkehr\n\nFinde alle Antworten auf Deine Fragen in unserem Benutzerhandbuch: https://mapout.app/manual\n\nKartendaten © OpenStreetMap Mitwirkende (http://www.openstreetmap.org/copyright)",
       "sellerUrl": "https://mapout.app",
+      "averageUserRating": 4.83835,
+      "trackCensoredName": "MapOut",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -398,10 +372,36 @@
       ],
       "fileSizeBytes": "71928832",
       "formattedPrice": "5,99 €",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 798,
+      "trackViewUrl": "https://apps.apple.com/de/app/mapout/id477094081?uo=4",
       "trackContentRating": "4+",
+      "genres": [
+        "Navigation",
+        "Reisen"
+      ],
+      "artistId": 312297700,
+      "artistName": "Valnova",
+      "price": 5.99,
+      "bundleId": "ch.valnova.MapOut",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
       "averageUserRatingForCurrentVersion": 4.83835,
+      "sellerName": "Valnova GmbH",
+      "version": "3.4.14",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "«Ein Hingucker ist auch die 3-D-Ansicht, bei der die Berge quasi plastisch hervortreten.» – Tages-Anzeiger\n\n«MapOut saves the day by using a simple interface to draw routes, and check out elevation profiles… I’m pretty blown away by its capabilities.» – Alee from cyclingabout.com\n\nOffline Landkarte der Welt für iPhone und iPad. Fast so schön wie eine Papierkarte – nur vielfältiger.\n- für Wanderer: mit gut lesbarer Darstellung der Geländeform, auch im hintersten Winkel ohne Internet \n- für Velofahrer: mit Velorouten-Netz, Geschwindigkeits- und Distanzanzeige\n- für Stadtreisende: Stadtpläne mit Touristik-Informationen\n- für Geniesser: einfach schön anzuschauen\n\n3D Neige-Ansicht\n- Neige das Gerät in beliebige Richtungen um einen besseren Eindruck des Geländes zu erhalten. Mehr Info auf https://mapout.app.\n\nSuchfunktion\n- Suche nach Orten, Strassen, Berge, usw. Es wird dazu keine Internetverbindung benötigt.\n\nKartenmaterial\n- MapOut basiert auf dem OpenStreetMap-Projekt, dem «Wikipedia der Karten» – Korrekturen und Ergänzungen kannst Du selber auf OpenStreetMap.org vornehmen. Mit periodischen Updates werden jeweils aktuelle Karten ausgeliefert.\n- Lade die Regionen Deiner Wahl herunter - die Karten sind nun ohne Internetverbindung anzeigbar (Offline-Karte).\n\nTouren\n- Zeichnen: Zeichne Deine eigenen Touren und Wegpunkte direkt auf die Karte. Retuschiere existierende Touren und importierte GPX Dateien oder lass sie direkt auf das Wegnetz schnappen\n- Importieren: mit einem gratis «MapOut.me» Konto können «Wegbeschreibungen» per Email an dein Gerät gesendet werden. GPS-Touren findest du als gpx or kml Dateien auf vielen Webseiten mit Tipps zum Wandern oder Biken (z.B. auf www.gpsies.com)\n- Aufnehmen: mache «Aufnahmen» deiner eigenen Touren und teile sie mit Freunden. \n- Informationen: schnelle Übersicht zu jeder Tour – Länge, Höhendifferenz, Kartenausschnitt und Streckenprofil\n\nKartenbild\n- Schnelle Kartendarstellung (OpenGL beschleunigt)\n- Stufenfreier Zoom, immer eine pixelperfekte Karte\n- Topographische Karte mit Höhenlinien und Schattierung\n- Wählbare Overlays: Velo/Wander/Ski Routen, Sehenswürdigkeiten, öffentlicher Verkehr\n\nFinde alle Antworten auf Deine Fragen in unserem Benutzerhandbuch: https://mapout.app/manual\n\nKartendaten © OpenStreetMap Mitwirkende (http://www.openstreetmap.org/copyright)",
       "minimumOsVersion": "13",
+      "releaseDate": "2012-03-20T02:22:13Z",
+      "trackId": 477094081,
+      "trackName": "MapOut",
+      "genreIds": [
+        "6010",
+        "6003"
+      ],
+      "releaseNotes": "- Behebt auf dem iPad einen Fehler beim Speichern selbstgezeichneter Touren\n- Verschiedene Fehlerbehebungen und Optimierungen",
       "userRatingCount": 798,
       "country": "DEU"
     },

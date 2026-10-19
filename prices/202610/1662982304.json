@@ -2,7 +2,7 @@
   "id": "1662982304",
   "name": "Partiful: Party Invite Maker",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:18:02.261Z",
+  "fetchedAt": "2026-10-19T08:26:42.700Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -13,14 +13,14 @@
           "amount": 1.99
         },
         {
-          "name": "Premium Add-On",
-          "price": "$4.95",
-          "amount": 4.95
-        },
-        {
           "name": "Partiful Plus",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Premium Add-On",
+          "price": "$4.95",
+          "amount": 4.95
         },
         {
           "name": "Premium App Icon",
@@ -33,7 +33,7 @@
           "amount": 9.9
         }
       ],
-      "fetchedAt": "2026-10-18T14:18:02.261Z"
+      "fetchedAt": "2026-10-19T08:26:42.700Z"
     }
   }
 }

@@ -201,7 +201,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b0/a4/abb0a465-a8f2-a942-28a3-3047a2e98340/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,15 +338,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b0/a4/abb0a465-a8f2-a942-28a3-3047a2e98340/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b0/a4/abb0a465-a8f2-a942-28a3-3047a2e98340/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.1",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -350,18 +349,20 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 11,
       "trackContentRating": "17+",
+      "minimumOsVersion": "15.1",
       "averageUserRatingForCurrentVersion": 4.45455,
-      "genres": [
-        "Business"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "currentVersionReleaseDate": "2026-09-08T05:38:41Z",
+      "price": 0,
       "trackName": "Microsoft Events",
       "trackId": 6761068230,
-      "releaseNotes": "Thank you for using Microsoft Events.\n\nThis update improves the past event experience, making it easier to access and explore available event content.",
       "releaseDate": "2026-05-04T07:00:00Z",
+      "genreIds": [
+        "6000"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2026-09-08T05:38:41Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1.8",
       "wrapperType": "software",
       "currency": "USD",
@@ -371,13 +372,12 @@
       "trackCensoredName": "Microsoft Events",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-events/id6761068230?uo=4",
       "contentAdvisoryRating": "17+",
+      "releaseNotes": "Thank you for using Microsoft Events.\n\nThis update improves the past event experience, making it easier to access and explore available event content.",
+      "genres": [
+        "Business"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6000"
-      ],
       "userRatingCount": 11,
       "country": "USA"
     }

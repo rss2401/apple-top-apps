@@ -6,11 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/d8/7b/b9d87b6d-d737-27e9-8d9f-4289b0d28146/1_ios_iphone6Plus_en-US_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/8d/6a/758d6aed-b25a-f2fc-502d-38b271c40dfd/7_ios_iphone6Plus_en-US_screen_7.png/392x696bb.png",
@@ -31,6 +26,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/c0/6f/9bc06fa3-8e85-ab3c-34e6-cae10f3e119c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,29 +162,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 4.90374,
+      "kind": "software",
       "trackCensoredName": "Great Run: Running Events",
       "trackViewUrl": "https://apps.apple.com/gb/app/great-run-running-events/id1617132623?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "- Updated app branding\n- Update to latest tracking build",
-      "artistId": 799017229,
-      "artistName": "Dilltree Inc",
-      "bundleId": "me.rtrt.app.gra",
-      "releaseDate": "2022-04-09T07:00:00Z",
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
-      "sellerName": "Dilltree Inc",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6004",
-        "6013"
-      ],
-      "currentVersionReleaseDate": "2026-09-06T09:14:55Z",
-      "version": "8.3.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "The official event day app of the AJ Bell Great Run Series. Get the most out of your race day experience with live tracking, access to split times and results, interactive course maps and the important information you need on the day.",
-      "averageUserRatingForCurrentVersion": 4.90374,
+      "averageUserRating": 4.90374,
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -206,13 +188,31 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 1413,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.0",
-      "trackName": "Great Run: Running Events",
-      "trackId": 1617132623,
+      "averageUserRatingForCurrentVersion": 4.90374,
+      "releaseDate": "2022-04-09T07:00:00Z",
+      "artistId": 799017229,
+      "artistName": "Dilltree Inc",
       "genres": [
         "Sports",
         "Health & Fitness"
       ],
+      "sellerName": "Dilltree Inc",
+      "trackId": 1617132623,
+      "trackName": "Great Run: Running Events",
+      "genreIds": [
+        "6004",
+        "6013"
+      ],
+      "currentVersionReleaseDate": "2026-09-06T09:14:55Z",
+      "version": "8.3.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "The official event day app of the AJ Bell Great Run Series. Get the most out of your race day experience with live tracking, access to split times and results, interactive course maps and the important information you need on the day.",
+      "bundleId": "me.rtrt.app.gra",
+      "releaseNotes": "- Updated app branding\n- Update to latest tracking build",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
       "price": 0,
       "userRatingCount": 1413,
       "country": "GBR"

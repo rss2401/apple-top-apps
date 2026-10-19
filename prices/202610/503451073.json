@@ -1,13 +1,23 @@
 {
   "id": "503451073",
-  "name": "Commerce B2B avec Alibaba",
+  "name": "Alibaba.com",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:10:07.586Z",
+  "fetchedAt": "2026-10-19T08:09:22.234Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-18T14:10:07.585Z"
+      "fetchedAt": "2026-10-19T08:09:19.192Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:09:20.571Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:09:22.234Z"
     }
   }
 }

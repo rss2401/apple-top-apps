@@ -2,8 +2,120 @@
   "id": "403684733",
   "name": "Badoo Premium",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:17:01.589Z",
+  "fetchedAt": "2026-10-19T08:19:41.839Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Paket mit 100 Punkten",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Super Powers",
+          "price": "8,99 €",
+          "amount": 8.99
+        },
+        {
+          "name": "Paket mit 550 Punkten",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "Badoo Premium",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Super Powers",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Super Powers",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Badoo Premium",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Paket mit 1250 Punkten",
+          "price": "24,99 €",
+          "amount": 24.99
+        },
+        {
+          "name": "Erweiterung, Kontakt-Limit",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Super Powers",
+          "price": "20,99 €",
+          "amount": 20.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:19:40.450Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pack de 100 crédits",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Super Pouvoirs",
+          "price": "8,99 €",
+          "amount": 8.99
+        },
+        {
+          "name": "Super Pouvoirs",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Pack de 550 crédits",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "Augmentation de la limite de contacts",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Super Pouvoirs",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "passage dans la bannière Spotlight ",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Badoo Premium",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Super Pouvoirs",
+          "price": "20,99 €",
+          "amount": 20.99
+        },
+        {
+          "name": "Rise Up (Remonter votre profil en tête des résultats)",
+          "price": "1,99 €",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:19:41.832Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [

@@ -2,7 +2,7 @@
   "id": "432850619",
   "name": "FL Studio Mobile",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:57:17.635Z",
+  "fetchedAt": "2026-10-19T08:06:27.590Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -58,7 +58,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:13.437Z"
+      "fetchedAt": "2026-10-19T08:06:21.509Z"
     },
     "fr": {
       "currency": "EUR",
@@ -74,6 +74,11 @@
           "amount": 3.99
         },
         {
+          "name": "Voices",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
           "name": "Amped Guitar & Bass",
           "price": "2,99 €",
           "amount": 2.99
@@ -82,11 +87,6 @@
           "name": "Synth Lead",
           "price": "1,99 €",
           "amount": 1.99
-        },
-        {
-          "name": "Voices",
-          "price": "0,99 €",
-          "amount": 0.99
         },
         {
           "name": "Sliced Beats",
@@ -114,7 +114,63 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:14.914Z"
+      "fetchedAt": "2026-10-19T08:06:23.041Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Tuned 808 Bass",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Varazdin Orchestral Mobile",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Sliced Beats",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Synth Lead",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Amped Guitar & Bass",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Voices",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Groove Machine Synth",
+          "price": "£0.00",
+          "amount": 0
+        },
+        {
+          "name": "Drumaxx",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Acoustic Guitars",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Synth Plucks",
+          "price": "£1.99",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:06:24.572Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +226,7 @@
           "amount": 0
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:16.470Z"
+      "fetchedAt": "2026-10-19T08:06:26.096Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +282,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:57:17.631Z"
+      "fetchedAt": "2026-10-19T08:06:27.589Z"
     }
   }
 }

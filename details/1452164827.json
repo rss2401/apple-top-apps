@@ -447,7 +447,6 @@
       "country": "JPN"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/e2/51/7fe251e7-1609-5949-ba66-9ee44318d228/inspire_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/73/f4/8573f4e3-88f5-326c-5a52-1919751dd7bc/rewards_5.5.png/392x696bb.png",
@@ -473,7 +472,10 @@
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
+      "artistViewUrl": "https://apps.apple.com/de/developer/inter-ikea-systems-b-v/id339722471?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -606,12 +608,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/inter-ikea-systems-b-v/id339722471?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "16.0",
-      "sellerUrl": "http://www.ikea.com",
       "languageCodesISO2A": [
         "EU",
         "CA",
@@ -640,18 +638,32 @@
       ],
       "fileSizeBytes": "237145088",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 100152,
+      "userRatingCountForCurrentVersion": 100284,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.72009,
-      "price": 0,
+      "averageUserRatingForCurrentVersion": 4.7201,
+      "averageUserRating": 4.7201,
+      "bundleId": "com.ingka.ikea.app",
+      "contentAdvisoryRating": "4+",
+      "sellerUrl": "http://www.ikea.com",
+      "trackCensoredName": "IKEA",
+      "trackViewUrl": "https://apps.apple.com/de/app/ikea/id1452164827?uo=4",
+      "genres": [
+        "Shopping",
+        "Lifestyle"
+      ],
       "artistId": 339722471,
       "artistName": "Inter IKEA Systems B.V.",
+      "price": 0,
+      "sellerName": "Inter IKEA Systems B.V.",
+      "trackId": 1452164827,
+      "trackName": "IKEA",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "genreIds": [
         "6024",
         "6012"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
+      "releaseDate": "2020-06-01T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-16T06:38:27Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseNotes": "Fehlerbehebungen und Leistungsverbesserungen.",
@@ -659,20 +671,8 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Lass dich inspirieren und mach das Beste aus deinem Zuhause. Entdecke neue Produkte, visualisiere deinen Traum und genieße einfacheres Einkaufen – von überall aus. \n\nIn der IKEA App findest du mehr als du dir vorstellen kannst:\n\n•\tEntdecke Angebote, neue Produkteinführungen und personalisierte Empfehlungen\n•\tSpeichere deine Lieblingsartikel in Merkzetteln, damit du alles an einem Ort findest\n•\tFinde dich mit einer leicht verständlichen Navigation im Einrichtungshaus zurecht\n•\tSammle Punkte, um Treueboni zu aktivieren und zu genießen\n•\tScanne Produkte selbst und bezahle schneller im Einrichtungshaus\n•\tGestalte deine Traumküche mit interaktiven Planern\n•\tScanne deinen Raum und füge Produkte hinzu, um sie in deinem Raum zu visualisieren\n•\tBezahle schnell und sicher beim Einkaufen in der App\n•\tVerfolge und verwalte deine Bestellung von überall aus\n•\tPrüfe die Verfügbarkeit und erhalte Benachrichtigungen, wenn ein Artikel wieder auf Lager ist\n•\tFinde digitale Belege und deine Kaufhistorie an einem Ort\n•\tÜberprüfe die Stoßzeiten im Einrichtungshaus und bereite dich auf deinen nächsten Besuch vor\n•\tSchau dir IKEA Live an und hol dir Tipps von unseren Expert:innen für Innenarchitektur\n\nEinige Funktionen sind möglicherweise nicht in jedem Land verfügbar, aber sie sind für die Veröffentlichung geplant. Wir empfehlen, die IKEA App auf dem neuesten Stand zu halten, damit du neue Funktionen nutzen kannst, wenn sie verfügbar sind.\n\nWir legen Wert auf deinen Datenschutz und glauben an die ethische Verwendung von Kundendaten. Deshalb hast du jederzeit die Kontrolle über deine Daten.",
-      "averageUserRating": 4.72009,
-      "trackCensoredName": "IKEA",
-      "trackViewUrl": "https://apps.apple.com/de/app/ikea/id1452164827?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.ingka.ikea.app",
-      "releaseDate": "2020-06-01T07:00:00Z",
-      "trackId": 1452164827,
-      "trackName": "IKEA",
-      "sellerName": "Inter IKEA Systems B.V.",
-      "genres": [
-        "Shopping",
-        "Lifestyle"
-      ],
-      "userRatingCount": 100152,
+      "minimumOsVersion": "16.0",
+      "userRatingCount": 100284,
       "country": "DEU"
     },
     {
@@ -680,11 +680,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/07/8b/d9078be1-c543-56d4-e935-59b0764d12a0/inspire_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/db/24/c5db244c-c0e4-dea5-e415-94b1660a95a7/rewards_5.5.png/392x696bb.png",
@@ -708,6 +703,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/7b/eb417bce-713a-fe3f-5b8e-62c82c901cb8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -840,30 +839,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 4.74559,
+      "kind": "software",
       "trackCensoredName": "IKEA",
       "trackViewUrl": "https://apps.apple.com/gb/app/ikea/id1452164827?uo=4",
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "artistId": 339722471,
-      "artistName": "Inter IKEA Systems B.V.",
-      "bundleId": "com.ingka.ikea.app",
-      "releaseDate": "2019-11-06T08:00:00Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Inter IKEA Systems B.V.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6024",
-        "6012"
-      ],
-      "currentVersionReleaseDate": "2026-10-16T06:38:27Z",
-      "version": "5.12.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Get inspired and make the most of your home. Discover new products, visualise your dream space and enjoy easier shopping — from anywhere. \n\nFind more than you'd imagine in the IKEA app:\n\n•\tDiscover offers, new product launches and personalised recommendations\n•\tSave your favourite products to lists, so you can find everything in one place\n•\tFind your way through the store with easy-to-follow navigation\n•\tCollect points to unlock and enjoy rewards\n•\tScan as you shop in-store and enjoy a faster checkout\n•\tDesign your dream kitchen with interactive planners\n•\tScan your room and add products to visualise them in your space\n•\tEnjoy speedy and secure payments when you shop in the app\n•\tTrack and manage your order from anywhere\n•\tCheck availability and get notified when an product is back in stock\n•\tFind digital receipts and purchase history in one place\n•\tCheck busy store times and prepare for your next visit\n•\tWatch IKEA Live and get tips from our interior design experts\n\nSome features may not be available in every country, but they are planned for release. We recommend keeping the IKEA app updated so you can experience new features when they're available.\n\nWe value your data privacy and believe in ethical use of customer data. That's why you're in control of your data at all times.",
-      "averageUserRatingForCurrentVersion": 4.74559,
-      "sellerUrl": "https://www.ikea.com",
+      "averageUserRating": 4.74562,
+      "minimumOsVersion": "16.0",
       "languageCodesISO2A": [
         "EU",
         "CA",
@@ -892,17 +873,36 @@
       ],
       "fileSizeBytes": "237145088",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 64998,
+      "userRatingCountForCurrentVersion": 65037,
       "trackContentRating": "4+",
-      "minimumOsVersion": "16.0",
-      "trackName": "IKEA",
-      "trackId": 1452164827,
+      "averageUserRatingForCurrentVersion": 4.74562,
+      "sellerUrl": "https://www.ikea.com",
+      "releaseDate": "2019-11-06T08:00:00Z",
+      "artistId": 339722471,
+      "artistName": "Inter IKEA Systems B.V.",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
+      "sellerName": "Inter IKEA Systems B.V.",
+      "trackId": 1452164827,
+      "trackName": "IKEA",
+      "genreIds": [
+        "6024",
+        "6012"
+      ],
+      "currentVersionReleaseDate": "2026-10-16T06:38:27Z",
+      "version": "5.12.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Get inspired and make the most of your home. Discover new products, visualise your dream space and enjoy easier shopping — from anywhere. \n\nFind more than you'd imagine in the IKEA app:\n\n•\tDiscover offers, new product launches and personalised recommendations\n•\tSave your favourite products to lists, so you can find everything in one place\n•\tFind your way through the store with easy-to-follow navigation\n•\tCollect points to unlock and enjoy rewards\n•\tScan as you shop in-store and enjoy a faster checkout\n•\tDesign your dream kitchen with interactive planners\n•\tScan your room and add products to visualise them in your space\n•\tEnjoy speedy and secure payments when you shop in the app\n•\tTrack and manage your order from anywhere\n•\tCheck availability and get notified when an product is back in stock\n•\tFind digital receipts and purchase history in one place\n•\tCheck busy store times and prepare for your next visit\n•\tWatch IKEA Live and get tips from our interior design experts\n\nSome features may not be available in every country, but they are planned for release. We recommend keeping the IKEA app updated so you can experience new features when they're available.\n\nWe value your data privacy and believe in ethical use of customer data. That's why you're in control of your data at all times.",
+      "bundleId": "com.ingka.ikea.app",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "price": 0,
-      "userRatingCount": 64998,
+      "userRatingCount": 65037,
       "country": "GBR"
     }
   ]

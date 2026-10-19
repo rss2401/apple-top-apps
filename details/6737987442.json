@@ -205,7 +205,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,17 +344,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -359,20 +358,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 18,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 3.61111,
       "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
-      "genres": [
-        "Medical",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 3.61111,
+      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
+      "price": 0,
       "trackName": "Microsoft Dragon Copilot",
       "trackId": 6737987442,
-      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
       "releaseDate": "2025-01-10T08:00:00Z",
+      "genreIds": [
+        "6020",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.0.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -382,14 +383,13 @@
       "trackCensoredName": "Microsoft Dragon Copilot",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
       "contentAdvisoryRating": "17+",
+      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
+      "genres": [
+        "Medical",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6020",
-        "6007"
-      ],
       "userRatingCount": 18,
       "country": "USA"
     }

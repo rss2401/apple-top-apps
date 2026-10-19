@@ -240,7 +240,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -373,15 +377,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -419,20 +418,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 16255,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.3108,
       "sellerUrl": "http://www.microsoft.com/lync",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.3108,
+      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
+      "price": 0,
       "trackName": "Skype for Business",
       "trackId": 605841731,
-      "releaseNotes": "Bug fixes and performance improvements.",
       "releaseDate": "2013-03-12T07:00:00Z",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "6.34.119",
       "wrapperType": "software",
       "currency": "USD",
@@ -442,14 +443,13 @@
       "trackCensoredName": "Skype for Business",
       "trackViewUrl": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
       "userRatingCount": 16255,
       "country": "USA"
     }

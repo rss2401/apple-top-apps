@@ -1,9 +1,14 @@
 {
   "id": "1470214600",
-  "name": "2Do: To Do List & Task Manager",
+  "name": "2Do: To-Do Liste & Aufgaben",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:17:13.717Z",
+  "fetchedAt": "2026-10-19T08:23:18.117Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:23:16.465Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
@@ -12,7 +17,7 @@
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-18T14:17:13.716Z"
+      "fetchedAt": "2026-10-19T08:23:18.116Z"
     }
   }
 }

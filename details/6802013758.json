@@ -206,6 +206,9 @@
       "country": "USA"
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/5f/18/bb5f18b1-7f3e-3254-c795-5e96a7a46fa9/00b_open_turns.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/6d/cd/526dcda6-ac9a-ad1c-ec7f-a392a8e89fcd/03_wide.png/320x480bb.jpg",
@@ -229,7 +232,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/eb/37/21eb3731-bb2f-ac34-465d-5ed9975a389e/17_extra_tall.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/ian-johnston/id1886071653?uo=4",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -365,48 +371,42 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/gb/developer/ian-johnston/id1886071653?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/72/cb/aa72cb3d-f7cd-b93d-c64a-aa041ba8feb0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "bundleId": "com.ijoaudio.undersong",
+      "sellerUrl": "https://ijoaudio.com/undersong",
+      "trackCensoredName": "Undersong",
       "languageCodesISO2A": [],
       "fileSizeBytes": "19407872",
       "formattedPrice": "£5.99",
-      "userRatingCountForCurrentVersion": 0,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 1,
+      "trackViewUrl": "https://apps.apple.com/gb/app/undersong/id6802013758?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://ijoaudio.com/undersong",
-      "averageUserRatingForCurrentVersion": 0,
+      "averageUserRatingForCurrentVersion": 5,
+      "averageUserRating": 5,
+      "minimumOsVersion": "17.0",
       "artistId": 1886071653,
       "artistName": "ian johnston",
       "genres": [
         "Music"
       ],
       "price": 5.99,
-      "currentVersionReleaseDate": "2026-10-16T01:57:05Z",
-      "releaseNotes": "- Slight tweaks to the default patch\n- Updates to the manual",
-      "sellerName": "ian johnston",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "genreIds": [
+        "6011"
+      ],
       "trackId": 6802013758,
       "trackName": "Undersong",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "genreIds": [
-        "6011"
-      ],
-      "releaseDate": "2026-10-15T07:00:00Z",
+      "sellerName": "ian johnston",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-16T01:57:05Z",
+      "releaseNotes": "- Slight tweaks to the default patch\n- Updates to the manual",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Undersong is an AUv3 audio effect that plays along with whatever audio you send it. It's technically an audio effect, but it acts more like an instrument.\n\nIt's based on an idea I had for a live performance that ended up taking on a life of its own. The short version is that everything Undersong plays comes from the audio coming in. It listens to your track for \"action\", like a pluck, a drum hit or a swell, and each of those can spawn a particle. A particle is one small synthesized note, often a pluck but not always, and it's always in key. Soft playing gets soft and lower responses, and digging in gets you brighter ones.\n\nI feel like Undersong is something that wishes to be the main focus of a composition, but how you use it is totally up to you. I really enjoy using it as the centerpiece of ambient jams with a bit of percussion or a slow moving bassline alongside. If you're not sure where to start, send in a drum loop (even just a series of blips or clicks will work...), turn up the Mix to 100% and just experiment for a while. Twist some knobs and see what you find. You can't break it.\n\nThe particles can be one of 12 materials, mostly inspired by modular synthesis techniques. Each material can then be performed and shaped by one of 10 modes and 10 patterns. That makes for 1200 combinations before you turn a single dial. One of the modes, Aurora, stops making particles altogether and turns into a self-generating ambient pad that your playing strikes. It's one of my favorite things in the device.\n\nI tried to build this like a playground for ambient performances.  It's maybe a bit like sitting down at someone else's modular rig... it takes some exploration. I've set up an environment that I think is inspiring and I hope you can find your way around and enjoy it as well.  There's various ideas and features hidden throughout (in plain sight) that work nicely together or on their own. Gravity, an idea I brought over from my Augur device, pulls the notes toward your root so the melodies sound like they're actually in your key. With Ear on, Undersong listens for the pitch you're playing and answers in unison, grain plays tiny pieces of your own audio back as notes, and Input lets little glimpses of your audio through, so you hear the thwack of your pick or your snare, but ringing at the particle's note.\n\nStep puts everything on a steady rhythm, one note per step, with Density deciding how busy it is. Step plus the Loop pattern is a fun little corner to jam in. Freeze holds whatever's currently ringing out so you can play over it. There's a Drone dial that builds a bed under everything, and 35 scales plus your own custom ones. Plus a quick one-knob reverb, because I really like reverb and I think almost every one of my devices has received at least a little reverb, just in case you need it quickly.\n\nTo sum up, I'm proud of this and I have been consistently getting lost in it while building and testing.  I feel it's the kind of device that you have to get to know a bit.  It's pretty dense.   It's maybe not for everyone, but for the people who it resonates with, I'm glad you're here and I hope it brings you some inspiration. \n\nIf you run into any issues or have some feature requests for a later update, don't hesitate to reach out at ian@ijoaudio.com. I appreciate you very much. Cheers!\n\nian - ijo audio",
-      "averageUserRating": 0,
-      "bundleId": "com.ijoaudio.undersong",
-      "minimumOsVersion": "17.0",
-      "trackCensoredName": "Undersong",
-      "trackViewUrl": "https://apps.apple.com/gb/app/undersong/id6802013758?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 0,
+      "userRatingCount": 1,
       "country": "GBR"
     }
   ]

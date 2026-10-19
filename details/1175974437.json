@@ -15,11 +15,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/f8/da/baf8da45-1efc-4ada-ab76-188a913d380c/pr_source.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/lawson-entertainment-inc/id406635514?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/2a/18/e52a18a3-df61-dacd-7acd-1b2bd2a69164/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/lawson-entertainment-inc/id406635514?uo=4",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -157,19 +157,21 @@
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.52228,
+      "minimumOsVersion": "16.0",
+      "sellerUrl": "https://l-tike.com/",
+      "averageUserRating": 4.52224,
+      "userRatingCountForCurrentVersion": 89832,
+      "releaseNotes": "いつもローソンチケットをご利用いただきありがとうございます。\n以下のアップデートを行いました。\n\n・一部、アプリ内部処理の調整を行いました。",
+      "averageUserRatingForCurrentVersion": 4.52224,
+      "trackCensoredName": "ローチケ電子チケット",
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "68745216",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 89829,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://l-tike.com/",
-      "averageUserRating": 4.52228,
-      "trackCensoredName": "ローチケ電子チケット",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%BC%E3%83%81%E3%82%B1%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id1175974437?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%AD%E3%83%BC%E3%83%81%E3%82%B1%E9%9B%BB%E5%AD%90%E3%83%81%E3%82%B1%E3%83%83%E3%83%88/id1175974437?uo=4",
+      "trackContentRating": "4+",
       "artistId": 406635514,
       "artistName": "Lawson Entertainment, Inc.",
       "genres": [
@@ -177,24 +179,22 @@
       ],
       "price": 0,
       "bundleId": "jp.lhe.ebillet.TicketApp",
-      "releaseNotes": "いつもローソンチケットをご利用いただきありがとうございます。\n以下のアップデートを行いました。\n\n・一部、アプリ内部処理の調整を行いました。",
       "currentVersionReleaseDate": "2026-09-09T02:01:32Z",
       "trackId": 1175974437,
       "trackName": "ローチケ電子チケット",
       "releaseDate": "2017-01-10T06:34:29Z",
+      "genreIds": [
+        "6016"
+      ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "Lawson Entertainment, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6016"
-      ],
       "version": "2.1.48",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "ローチケ電子チケットアプリであなたのスマホがチケットになる\n\n紙のチケットの発券不要！\nいつも利用するスマホでチケット表示！\n公演当日にチケットを忘れることもなく安心!!\n\n◆同行者のスマホに電子チケットを簡単受け渡し\n　複数枚購入した場合は同行者に分配（受け渡し）も可能です。\n\n◆スマホを見せてらくらく入場\n　ご入場はアプリ内のチケットを係員に見せるだけ！\n\n\n【操作がわからない等でお困りのお客様へ】\nチケットの表示開始日時や、分配方法などに関しましては、チケットお申込みサイト、マイページ、または電子チケットガイドページをご確認ください。",
-      "minimumOsVersion": "16.0",
-      "userRatingCount": 89829,
+      "userRatingCount": 89832,
       "country": "JPN"
     }
   ]

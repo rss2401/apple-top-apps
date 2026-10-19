@@ -208,6 +208,7 @@
       "userRatingCount": 100
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/af/a5/36afa564-ac72-f970-5237-a154166a2815/APP_IPHONE_55-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f5/ed/b4f5ed24-6936-4c01-dc6e-f437d592d3d2/APP_IPHONE_55-2.png/392x696bb.png",
@@ -224,7 +225,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -359,12 +362,10 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/d5/8b/84d58b98-d519-c647-513f-0c31667964c8/logo_google_cloud_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 107,
       "averageUserRatingForCurrentVersion": 3.33645,
       "sellerUrl": "https://cloud.google.com/",
       "languageCodesISO2A": [
@@ -382,38 +383,37 @@
       ],
       "fileSizeBytes": "123087872",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 107,
       "trackContentRating": "4+",
+      "artistId": 281956209,
+      "artistName": "Google",
       "genres": [
         "Productivity",
         "Utilities"
       ],
-      "artistId": 281956209,
-      "artistName": "Google",
+      "price": 0,
+      "bundleId": "com.google.Vespa",
+      "trackName": "Google Cloud",
+      "trackId": 1005120814,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6002"
       ],
-      "trackId": 1005120814,
-      "trackName": "Google Cloud",
-      "currentVersionReleaseDate": "2026-10-06T15:12:51Z",
-      "sellerName": "Google LLC",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2015-07-23T18:43:36Z",
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-06T15:12:51Z",
       "releaseNotes": "• Bug fixes and performance improvements.",
       "version": "26.09.300800",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The app helps you manage your services running on Google Cloud directly from your Apple iPhone or iPad:\n\n• Stay connected to the cloud and check billing, status, and critical issues.\n• Create your own custom dashboard to produce an overview of your Google Cloud services.\n• Monitor the state of your Compute Engine and App Engine resources with the ability to SSH into your VMs.\n• Access to Cloud Shell to perform any Google Cloud (gcloud) operation.\n• View and respond to incidents, errors, and logging.\n\nWe plan to ship new features regularly and continually improve your user experience. Please give us your feedback in the app by tapping the menu button in the upper-left corner, selecting Help & Feedback, and then Send feedback.",
-      "bundleId": "com.google.Vespa",
-      "minimumOsVersion": "17.0",
       "trackCensoredName": "Google Cloud",
       "trackViewUrl": "https://apps.apple.com/us/app/google-cloud/id1005120814?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.33645,
-      "price": 0,
+      "minimumOsVersion": "17.0",
       "userRatingCount": 107,
       "country": "USA"
     }

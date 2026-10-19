@@ -2,8 +2,29 @@
   "id": "1113153706",
   "name": "Microsoft Teams",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:58:19.268Z",
+  "fetchedAt": "2026-10-19T08:03:51.368Z",
   "storefronts": {
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "¥2,100",
+          "amount": 2100
+        },
+        {
+          "name": "Microsoft 365 Family (Monthly)",
+          "price": "¥2,700",
+          "amount": 2700
+        },
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "¥1,500",
+          "amount": 1500
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:03:50.438Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -23,7 +44,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:58:19.268Z"
+      "fetchedAt": "2026-10-19T08:03:51.367Z"
     }
   }
 }

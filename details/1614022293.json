@@ -3,6 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -135,11 +139,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/replit/id1614022295?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/45/eb/b945eba5-d198-c6fa-e417-0f09ddfd8f51/iOS_iPhone_0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/84/eb/0d84ebaa-5063-e364-3e8e-ddc65d9b5f6b/iOS_iPhone_1.png/320x480bb.jpg",
@@ -162,36 +165,28 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/85/8d/88858dd1-a15a-de59-07e8-105a21db86be/iOS_iPad_7.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/replit/id1614022295?uo=4",
-      "releaseNotes": "Bug fixes & improvements",
       "minimumOsVersion": "16.4",
-      "artistId": 1614022295,
+      "releaseNotes": "Bug fixes & improvements",
       "artistName": "Replit",
-      "genres": [
-        "Developer Tools",
-        "Productivity"
-      ],
+      "artistId": 1614022295,
       "price": 0,
-      "releaseDate": "2022-10-18T07:00:00Z",
       "sellerName": "Replit, Inc",
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "genreIds": [
-        "6026",
-        "6007"
-      ],
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2022-10-18T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-08T17:58:54Z",
+      "trackId": 1614022293,
+      "trackName": "Replit: Vibe Code with AI Fast",
       "version": "2.203.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Describe what you want. Replit builds it — websites, web apps, slides, videos, data dashboards, and more.\n\nNo coding. No tools to learn. Just describe what you need in plain language, and Replit handles the building, testing, debugging, and hosting — all in one place. It's like having an entire team of engineers and designers on demand, available through a simple chat.\n\nTrusted by 50 million creators and builders worldwide.\n\nBUILD ANYTHING\n\nOne platform for everything you want to make:\n\n- Web apps — live in minutes with a public URL\n- Websites and prototypes\n- Slide decks and presentations\n- Videos and animations\n- Data apps and dashboards\n\nDESIGN FREELY\n\nDesign directly on a live canvas. No handoff. No gap between what you picture and what ships.\n\nBUILD TOGETHER\n\nEvery request becomes a structured task your team can track. Add tasks anytime, see progress in real-time, and stay focused on what matters — while Replit handles the maintenance, updates, and complexity in the background.\n\nMOVE FASTER\n\nMultiple AI agents work across your project simultaneously — building infrastructure, integrating services, and refining features at once. What used to take cycles now happens in parallel.\n\nEVERYTHING BUILT IN — ZERO SETUP\n\nAuthentication, database, hosting, and monitoring are all included from day one. No configuration, no infrastructure decisions. Build fully scalable web apps securely from the start.\n\n100+ INTEGRATIONS, NO API KEYS NEEDED\n\nConnect to Google Drive, Gmail, Google Workspace, enterprise data warehouses, and more. Turn your project into a fully connected system in minutes, not days.\n\nSECURE BY DEFAULT\n\nPre-deployment security screening, secure built-in services, and enterprise-grade controls — including SSO/SAML and SOC2 — so what you build stays protected.\n\nWHO USES REPLIT:\n\n- Founders and entrepreneurs building their first product or MVP\n- Designers who want to ship without depending on a developer\n- Product managers building internal tools and prototypes\n- Marketers who need campaign tools and dashboards\n- Students creating real projects for their portfolio\n- Anyone with an idea and no time to waste\n\nCreativity runs on Replit.\n\nGet started for free. Download and build something today.",
-      "sellerUrl": "https://replit.com/",
-      "averageUserRating": 4.71759,
       "trackCensoredName": "Replit: Vibe Code with AI Fast",
+      "trackViewUrl": "https://apps.apple.com/us/app/replit-vibe-code-with-ai-fast/id1614022293?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.71767,
+      "averageUserRatingForCurrentVersion": 4.71767,
+      "sellerUrl": "https://replit.com/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -204,27 +199,26 @@
       ],
       "fileSizeBytes": "66160640",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 21320,
-      "trackViewUrl": "https://apps.apple.com/us/app/replit-vibe-code-with-ai-fast/id1614022293?uo=4",
+      "userRatingCountForCurrentVersion": 21327,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.71759,
       "bundleId": "com.replit.app",
-      "trackId": 1614022293,
-      "trackName": "Replit: Vibe Code with AI Fast",
-      "userRatingCount": 21320,
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "genres": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "genreIds": [
+        "6026",
+        "6007"
+      ],
+      "userRatingCount": 21327,
       "country": "USA"
     },
     {
       "artistViewUrl": "https://apps.apple.com/cn/developer/replit/id1614022295?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/45/eb/b945eba5-d198-c6fa-e417-0f09ddfd8f51/iOS_iPhone_0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/84/eb/0d84ebaa-5063-e364-3e8e-ddc65d9b5f6b/iOS_iPhone_1.png/320x480bb.jpg",
@@ -248,6 +242,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/58/97/a75897a8-0a36-ab85-e903-749600bdbcb3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -380,30 +378,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Replit: Vibe Code with AI Fast",
-      "trackViewUrl": "https://apps.apple.com/cn/app/replit-vibe-code-with-ai-fast/id1614022293?uo=4",
-      "averageUserRating": 4.54762,
-      "currentVersionReleaseDate": "2026-10-08T17:58:54Z",
-      "genres": [
-        "软件开发工具",
-        "效率"
-      ],
-      "artistId": 1614022295,
-      "artistName": "Replit",
-      "price": 0,
-      "genreIds": [
-        "6026",
-        "6007"
-      ],
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "sellerName": "Replit, Inc",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.203.2",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Describe what you want. Replit builds it — websites, web apps, slides, videos, data dashboards, and more.\n\nNo coding. No tools to learn. Just describe what you need in plain language, and Replit handles the building, testing, debugging, and hosting — all in one place. It's like having an entire team of engineers and designers on demand, available through a simple chat.\n\nTrusted by 50 million creators and builders worldwide.\n\nBUILD ANYTHING\n\nOne platform for everything you want to make:\n\n- Web apps — live in minutes with a public URL\n- Websites and prototypes\n- Slide decks and presentations\n- Videos and animations\n- Data apps and dashboards\n\nDESIGN FREELY\n\nDesign directly on a live canvas. No handoff. No gap between what you picture and what ships.\n\nBUILD TOGETHER\n\nEvery request becomes a structured task your team can track. Add tasks anytime, see progress in real-time, and stay focused on what matters — while Replit handles the maintenance, updates, and complexity in the background.\n\nMOVE FASTER\n\nMultiple AI agents work across your project simultaneously — building infrastructure, integrating services, and refining features at once. What used to take cycles now happens in parallel.\n\nEVERYTHING BUILT IN — ZERO SETUP\n\nAuthentication, database, hosting, and monitoring are all included from day one. No configuration, no infrastructure decisions. Build fully scalable web apps securely from the start.\n\n100+ INTEGRATIONS, NO API KEYS NEEDED\n\nConnect to Google Drive, Gmail, Google Workspace, enterprise data warehouses, and more. Turn your project into a fully connected system in minutes, not days.\n\nSECURE BY DEFAULT\n\nPre-deployment security screening, secure built-in services, and enterprise-grade controls — including SSO/SAML and SOC2 — so what you build stays protected.\n\nWHO USES REPLIT:\n\n- Founders and entrepreneurs building their first product or MVP\n- Designers who want to ship without depending on a developer\n- Product managers building internal tools and prototypes\n- Marketers who need campaign tools and dashboards\n- Students creating real projects for their portfolio\n- Anyone with an idea and no time to waste\n\nCreativity runs on Replit.\n\nGet started for free. Download and build something today.",
+      "advisories": [],
+      "kind": "software",
+      "sellerUrl": "https://replit.com/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -418,14 +395,37 @@
       "formattedPrice": "免费",
       "userRatingCountForCurrentVersion": 84,
       "trackContentRating": "4+",
-      "sellerUrl": "https://replit.com/",
+      "averageUserRating": 4.54762,
+      "trackCensoredName": "Replit: Vibe Code with AI Fast",
+      "trackViewUrl": "https://apps.apple.com/cn/app/replit-vibe-code-with-ai-fast/id1614022293?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRatingForCurrentVersion": 4.54762,
-      "minimumOsVersion": "16.4",
-      "bundleId": "com.replit.app",
-      "trackName": "Replit: Vibe Code with AI Fast",
-      "trackId": 1614022293,
       "releaseNotes": "Bug fixes & improvements",
+      "artistId": 1614022295,
+      "artistName": "Replit",
+      "genres": [
+        "软件开发工具",
+        "效率"
+      ],
+      "price": 0,
       "releaseDate": "2022-10-18T07:00:00Z",
+      "bundleId": "com.replit.app",
+      "genreIds": [
+        "6026",
+        "6007"
+      ],
+      "trackId": 1614022293,
+      "trackName": "Replit: Vibe Code with AI Fast",
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "sellerName": "Replit, Inc",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-08T17:58:54Z",
+      "version": "2.203.2",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Describe what you want. Replit builds it — websites, web apps, slides, videos, data dashboards, and more.\n\nNo coding. No tools to learn. Just describe what you need in plain language, and Replit handles the building, testing, debugging, and hosting — all in one place. It's like having an entire team of engineers and designers on demand, available through a simple chat.\n\nTrusted by 50 million creators and builders worldwide.\n\nBUILD ANYTHING\n\nOne platform for everything you want to make:\n\n- Web apps — live in minutes with a public URL\n- Websites and prototypes\n- Slide decks and presentations\n- Videos and animations\n- Data apps and dashboards\n\nDESIGN FREELY\n\nDesign directly on a live canvas. No handoff. No gap between what you picture and what ships.\n\nBUILD TOGETHER\n\nEvery request becomes a structured task your team can track. Add tasks anytime, see progress in real-time, and stay focused on what matters — while Replit handles the maintenance, updates, and complexity in the background.\n\nMOVE FASTER\n\nMultiple AI agents work across your project simultaneously — building infrastructure, integrating services, and refining features at once. What used to take cycles now happens in parallel.\n\nEVERYTHING BUILT IN — ZERO SETUP\n\nAuthentication, database, hosting, and monitoring are all included from day one. No configuration, no infrastructure decisions. Build fully scalable web apps securely from the start.\n\n100+ INTEGRATIONS, NO API KEYS NEEDED\n\nConnect to Google Drive, Gmail, Google Workspace, enterprise data warehouses, and more. Turn your project into a fully connected system in minutes, not days.\n\nSECURE BY DEFAULT\n\nPre-deployment security screening, secure built-in services, and enterprise-grade controls — including SSO/SAML and SOC2 — so what you build stays protected.\n\nWHO USES REPLIT:\n\n- Founders and entrepreneurs building their first product or MVP\n- Designers who want to ship without depending on a developer\n- Product managers building internal tools and prototypes\n- Marketers who need campaign tools and dashboards\n- Students creating real projects for their portfolio\n- Anyone with an idea and no time to waste\n\nCreativity runs on Replit.\n\nGet started for free. Download and build something today.",
+      "minimumOsVersion": "16.4",
       "userRatingCount": 84,
       "country": "CHN"
     }

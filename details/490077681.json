@@ -209,6 +209,10 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,8 +345,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/tappytaps-s-r-o/id326082490?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/71/49/ff71493b-164d-ac15-d06c-6d9403a27729/pr_source.png/640x1136bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/08/54/0e085436-0b44-49af-dd1d-862c5c72a66d/pr_source.png/640x1136bb.png",
@@ -358,39 +364,39 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/a6/47/26a64762-58b2-36fe-2be9-322c8913d08c/3_APP_IPAD_PRO_3GEN_129_3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/tappytaps-s-r-o/id326082490?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
       "releaseNotes": "Neu in dieser Version:\n● Ein frisches neues Design – die App nutzt jetzt das moderne Liquid-Glass-Design von iOS 26\n● Intelligentere Benachrichtigungen – wählen Sie getrennt, ob Sie benachrichtigt werden möchten, wenn Ihr Baby aufwacht und wenn es einschläft\n● Viele Fehlerbehebungen und zuverlässigere Überwachung\n● Unterstützung für die neueste iOS-Version\n\nVielen Dank, dass Sie unsere App nutzen. Wir freuen uns auf Ihr Feedback!",
+      "artistId": 326082490,
+      "artistName": "TappyTaps s.r.o.",
       "genres": [
         "Lifestyle",
         "Gesundheit und Fitness"
       ],
       "price": 7.99,
-      "releaseDate": "2012-01-17T21:29:19Z",
-      "trackId": 490077681,
-      "trackName": "Babyphone 3G",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.tappytaps.Baby-Monitor-3G",
       "genreIds": [
         "6012",
         "6013"
       ],
+      "releaseDate": "2012-01-17T21:29:19Z",
+      "trackId": 490077681,
+      "trackName": "Babyphone 3G",
+      "sellerName": "TappyTaps s.r.o.",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "sellerName": "TappyTaps s.r.o.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-15T06:19:40Z",
       "version": "6.0.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Kein Abo. Keine monatlichen Gebühren.\nBabyphone 3G kaufen Sie einmal – und nutzen es immer dann, wenn Sie es brauchen.\n\nMachen Sie aus zwei iPhones/iPads ein zuverlässiges Video- und Audio-Babyphone. Es funktioniert über WLAN und Mobilfunk (LTE/5G), ist in wenigen Minuten eingerichtet und begleitet Sie überall – zu Hause und unterwegs.\n\nDarum Babyphone 3G\n\t•\tEinmal zahlen – kein Abo, keine laufenden Kosten\n\t•\tÜberall erreichbar – WLAN oder Mobilfunk, unbegrenzte Reichweite\n\t•\tSicher & privat – verschlüsselte Verbindung zwischen Ihren Geräten\n\t•\tSchnell startklar – einfache Kopplung, einfache Bedienung\n\t•\tZuverlässige Alarme – hören Sie jedes Geräusch, erhalten Sie Benachrichtigungen\n\nFür den Alltag gemacht\n\nZu Hause\nNutzen Sie ein altes iPhone/iPad als Baby-Gerät und Ihr aktuelles Smartphone als Eltern-Gerät.\n\nUnterwegs\nHotel, Ferienwohnung, Besuch bei Familie – wenn WLAN schwach ist, hilft Mobilfunk.\n\nMehr Ruhe\nLive-Bild und Ton, Nachtmodus und Benachrichtigungen geben Ihnen Sicherheit, wenn Ihr Baby schläft.\n\nWichtige Funktionen\n\t•\tLive-HD-Video und klarer Ton\n\t•\tNachtmodus und Bildschirm dimmen\n\t•\tPush-Benachrichtigungen und Vibrationsalarm\n\t•\tGegensprechen (beruhigen Sie Ihr Baby aus der Ferne)\n\t•\tAudio im Hintergrund (während Sie andere Apps nutzen)\n\t•\tMehrere Eltern-Geräte (teilen mit Partner/Familie)\n\t•\tEinstellbare Empfindlichkeit und Alarm-Optionen\n\nDatenschutz & Sicherheit\n\t•\tVerschlüsselte Verbindung zwischen Ihren Geräten\n\t•\tKein öffentliches Streaming\n\t•\tKeine Registrierung erforderlich (kein Konto nötig)\n\nKompatibilität\n\nFunktioniert auf iPhone und iPad.\nHinweis: iOS- und macOS-Version werden separat verkauft.",
-      "minimumOsVersion": "15.0",
-      "bundleId": "com.tappytaps.Baby-Monitor-3G",
       "averageUserRating": 4.71619,
       "trackCensoredName": "Babyphone 3G",
+      "trackViewUrl": "https://apps.apple.com/de/app/babyphone-3g/id490077681?uo=4",
+      "contentAdvisoryRating": "4+",
+      "sellerUrl": "https://www.babymonitor3g.com/de/",
+      "userRatingCountForCurrentVersion": 11758,
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -413,14 +419,8 @@
       ],
       "fileSizeBytes": "73606144",
       "formattedPrice": "7,99 €",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 11758,
-      "trackViewUrl": "https://apps.apple.com/de/app/babyphone-3g/id490077681?uo=4",
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.71619,
-      "sellerUrl": "https://www.babymonitor3g.com/de/",
-      "artistId": 326082490,
-      "artistName": "TappyTaps s.r.o.",
       "userRatingCount": 11758,
       "country": "DEU"
     },
@@ -432,7 +432,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/68/61/8d/68618d50-16c3-e1c4-9a51-1e6a33e4add5/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/03/95/05/039505bd-98e2-a5e2-fff7-d0c2d78ca9dc/pr_source.png/392x696bb.png"
       ],
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1d/65/87/1d65870d-f3f1-20c8-76b6-384ff79f53e7/pr_source.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/c6/27/0ec627ae-b00b-9027-a102-ee6fbe3ebf1a/pr_source.png/576x768bb.png",
@@ -442,9 +441,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -582,9 +579,10 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/tappytaps-s-r-o/id326082490?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d9/90/8ed99057-63b1-d95f-cb68-9d061eb2bc54/BabyMonitor3GIcon-0-0-1x_U007epad-0-1-P3-0-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Nouveautés de cette version :\n● Un tout nouveau look — l’app adopte le design moderne Liquid Glass d’iOS 26\n● Des notifications plus intelligentes — choisissez séparément d’être averti lorsque bébé se réveille et lorsqu’il s’endort\n● De nombreuses corrections de bugs et une surveillance plus fiable\n● Prise en charge de la dernière version d’iOS\n\nMerci d’utiliser notre application. Nous serons ravis de recevoir vos retours !",
-      "averageUserRatingForCurrentVersion": 4.76043,
-      "sellerUrl": "https://www.babymonitor3g.com/fr/",
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -609,6 +607,8 @@
       "formattedPrice": "7,99 €",
       "userRatingCountForCurrentVersion": 2037,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.76043,
+      "sellerUrl": "https://www.babymonitor3g.com/fr/",
       "artistId": 326082490,
       "artistName": "TappyTaps s.r.o.",
       "genres": [
@@ -617,27 +617,27 @@
       ],
       "price": 7.99,
       "bundleId": "com.tappytaps.Baby-Monitor-3G",
-      "trackId": 490077681,
-      "trackName": "Baby Phone 3G",
-      "sellerName": "TappyTaps s.r.o.",
       "genreIds": [
         "6012",
         "6013"
       ],
+      "sellerName": "TappyTaps s.r.o.",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
       "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2012-01-17T21:29:19Z",
+      "trackName": "Baby Phone 3G",
+      "trackId": 490077681,
       "currentVersionReleaseDate": "2026-09-15T06:19:40Z",
+      "releaseNotes": "Nouveautés de cette version :\n● Un tout nouveau look — l’app adopte le design moderne Liquid Glass d’iOS 26\n● Des notifications plus intelligentes — choisissez séparément d’être averti lorsque bébé se réveille et lorsqu’il s’endort\n● De nombreuses corrections de bugs et une surveillance plus fiable\n● Prise en charge de la dernière version d’iOS\n\nMerci d’utiliser notre application. Nous serons ravis de recevoir vos retours !",
       "version": "6.0.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Sans abonnement. Sans frais mensuels.\nAchetez Baby Phone 3G une seule fois – et utilisez-le chaque fois que vous en avez besoin.\n\nTransformez deux iPhone ou iPad en un babyphone vidéo et audio fiable. Il fonctionne aussi bien en Wi-Fi qu’en réseau mobile (4G/5G), s’installe en quelques minutes et vous suit partout – à la maison comme en déplacement.\n\nPourquoi les parents choisissent Baby Phone 3G\n\t•\tPayez une fois, utilisez à vie – sans abonnement ni frais récurrents\n\t•\tFonctionne partout – Wi-Fi ou réseau mobile, portée illimitée\n\t•\tSécurisé et confidentiel – connexion chiffrée entre vos appareils\n\t•\tPrêt en un instant – appairage simple, utilisation intuitive\n\t•\tAlertes fiables – entendez chaque bruit et recevez une notification au bon moment\n\nPensé pour la vie de tous les jours\n\nÀ la maison\nUtilisez un ancien iPhone ou iPad comme unité bébé et gardez votre téléphone actuel comme unité parents.\n\nEn déplacement\nHôtel, location de vacances, week-end chez les grands-parents – quand le Wi-Fi est faible, le réseau mobile prend le relais.\n\nL’esprit tranquille\nLa vidéo et le son en direct, le mode nuit et les notifications vous rassurent pendant que votre bébé dort.\n\nFonctions principales\n\t•\tVidéo HD en direct et son clair\n\t•\tMode nuit et luminosité réduite\n\t•\tNotifications push et alertes par vibration\n\t•\tFonction talkie-walkie (parlez à votre bébé pour l’apaiser à distance)\n\t•\tAudio en arrière-plan (pendant que vous utilisez d’autres applications)\n\t•\tPlusieurs unités parents (partagez l’accès avec votre partenaire ou vos proches)\n\t•\tSensibilité du micro et alertes réglables\n\nConfidentialité et sécurité\n\t•\tConnexion chiffrée entre vos appareils\n\t•\tAucune diffusion publique\n\t•\tAucun compte requis\n\nCompatibilité\n\nFonctionne sur iPhone et iPad.\nÀ noter : les versions iOS et macOS sont vendues séparément.",
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.76043,
       "trackCensoredName": "Baby Phone 3G",
       "trackViewUrl": "https://apps.apple.com/fr/app/baby-phone-3g/id490077681?uo=4",
-      "averageUserRating": 4.76043,
       "contentAdvisoryRating": "4+",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
       "userRatingCount": 2037,
       "country": "FRA"
     }

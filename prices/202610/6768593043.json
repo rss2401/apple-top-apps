@@ -2,7 +2,7 @@
   "id": "6768593043",
   "name": "BlinkDrama: Drames Courts TV",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:15:19.631Z",
+  "fetchedAt": "2026-10-19T08:24:06.332Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -43,14 +43,14 @@
           "amount": 22.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "29,99 €",
-          "amount": 29.99
-        },
-        {
           "name": "Weekly Pass Pro",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "29,99 €",
+          "amount": 29.99
         },
         {
           "name": "Weekly Pass Pro",
@@ -58,7 +58,7 @@
           "amount": 8.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:15:16.613Z"
+      "fetchedAt": "2026-10-19T08:24:03.014Z"
     },
     "gb": {
       "currency": "GBP",
@@ -114,7 +114,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:15:18.043Z"
+      "fetchedAt": "2026-10-19T08:24:04.560Z"
     },
     "us": {
       "currency": "USD",
@@ -156,11 +156,6 @@
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "Weekly Pass Pro",
           "price": "$19.99",
           "amount": 19.99
         },
@@ -168,9 +163,14 @@
           "name": "Weekly Pass Pro",
           "price": "$24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Weekly Pass Pro",
+          "price": "$7.99",
+          "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:15:19.630Z"
+      "fetchedAt": "2026-10-19T08:24:06.331Z"
     }
   }
 }

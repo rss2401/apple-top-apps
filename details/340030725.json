@@ -5,8 +5,20 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/bild/id340030728?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/b9/01/cdb90119-2c35-93f9-986d-095a56f457ae/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/b9/01/cdb90119-2c35-93f9-986d-095a56f457ae/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
+      ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: simuliertes Glücksspiel",
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
+        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen",
+        "Häufig/stark ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -140,17 +152,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: simuliertes Glücksspiel",
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
-        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen",
-        "Häufig/stark ausgeprägt: Szenen mit erotischen Anspielungen",
-        "Selten/schwach ausgeprägt: Zeichentrick- oder Fantasy-Gewalt",
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
-      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/ab/76/99ab76f8-dd21-2b76-5ca6-593e70286a83/C_1_iPhone_5_U002c5__Display_1242_x_2208_pixels__U0028portrait_U0029.jpg/392x696bb.jpg",
@@ -176,47 +177,46 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/b9/01/cdb90119-2c35-93f9-986d-095a56f457ae/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "averageUserRating": 4.2423,
+      "trackCensoredName": "BILD News - Live Nachrichten",
       "trackViewUrl": "https://apps.apple.com/de/app/bild-news-live-nachrichten/id340030725?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.24244,
-      "trackCensoredName": "BILD News - Live Nachrichten",
       "minimumOsVersion": "17.0",
-      "price": 0,
+      "artistId": 340030728,
+      "artistName": "BILD",
       "genres": [
         "Nachrichten",
         "Zeitungen und Zeitschriften"
       ],
-      "artistId": 340030728,
-      "artistName": "BILD",
-      "bundleId": "de.bild.newsapp",
-      "releaseNotes": "Einige Fehler wurden behoben und die Leistung verbessert",
+      "price": 0,
+      "trackId": 340030725,
+      "sellerName": "BILD",
+      "trackName": "BILD News - Live Nachrichten",
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "releaseDate": "2009-12-09T03:12:53Z",
+      "currentVersionReleaseDate": "2026-10-12T08:51:25Z",
       "genreIds": [
         "6009",
         "6021"
       ],
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "sellerName": "BILD",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-12T08:51:25Z",
+      "releaseNotes": "Einige Fehler wurden behoben und die Leistung verbessert",
       "version": "7.4.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "ALLE BREAKING NEWS. NEWS LIVE-TICKER. IMMER AKTUELLE NACHRICHTEN.\n\nAlle Nachrichten & Breaking News von heute, sowie die ganze Welt von BILD – live, immer und überall! Überzeugen Sie sich selbst - jetzt die BILD News App herunterladen!\n\n\n\nBREAKING NEWS & AKTUELLE NACHRICHTEN\n- Alle exklusiven und aktuellen News, Artikel, Schlagzeilen & Nachrichten von heute – BILD ist dank über 500 Reportern immer live für Sie vor Ort. So geht Zeitung im digitalen Zeitalter!\n- Alle aktuellen Nachrichten und Schlagzeilen zu Politik, Wirtschaft, Unterhaltung, Sport, Finanzen, Lifestyle, Reisen und vielen weiteren Themenfeldern. \n- Der aktuellste Sport-Liveticker: Ihr Verein aus der Bundesliga spielt und Sie verpassen kein News-Update. Fällt ein Tor, werden Sie umgehend per Push-Nachricht informiert.\n- Alle Regional-Nachrichten und Schlagzeilen! Hier erfahren Sie alles Wichtige, was in Ihrer unmittelbaren Umgebung passiert.\n\n\nDIE NEUESTEN SCHLAGZEILEN UND AKTUELLEN NACHRICHTEN IM VIDEOFORMAT\nExklusive Videos: Dank der großen Anzahl an mobilen Reportern ist BILD fast immer vor Ort und zeigt Ihnen alle Geschehnisse im Video-Format. So sind Sie jederzeit live dabei! \nSeit neustem bieten wir tolle exklusive Video-Dokumentationen mit mehreren spannenden Episoden! Unbedingt reinschauen!\n\n\nBILDplus. EXKLUSIVE NEWS.\n- Alle exklusiven BILDplus-Nachrichten von heute. Mit gültigem BILDplus Abo erfahren Sie alle Exklusiv-Nachrichten, Artikel und Neuigkeiten vor allen anderen!\n\nSobald Sie das Abo bestätigt haben, wird Ihr iTunes-Konto mit dem entsprechenden Betrag belastet, so wie bei Fortführung des Abos jeweils 24 Stunden vor Beginn der folgenden Mindestlaufzeit. Sollten Sie ein Abo während Ihrer kostenlosen Testphase abschließen, verfallen ungenutzte Testtage. Sie können Ihr Abo jederzeit 7 Tage vor Ende der Mindestlaufzeit kündigen. Ihr Abonnement verlängert sich sonst jeweils automatisch um einen Monat. Sie können die automatische Verlängerung jederzeit bis 24 Stunden vor Ablauf der aktuellen Vertragsperiode deaktivieren.\n\n\nBILD Pur\nMit BILD Pur nutzen Sie die App ohne Tracking, personalisierte Werbung oder zusätzliche Cookies – ausschließlich unbedingt erforderliche Cookies werden gesetzt. BILD Pur und BILDplus sind eigenständige Abonnements und müssen separat erworben werden.\n\n\n*** Schon gewusst? ***\nMit gültigem Abo haben Sie ebenfalls Zugriff auf alle Inhalte der „Sport BILD“ Smartphone App. Los gehts!\n\nInformationen zu unseren AGBs und Datenschutzrichtlinien finden Sie unter: \nhttp://datenschutz.bildplus.de\nhttp://agb.bildplus.de\n\nWeitergehende Informationen zu nutzungsbasierter Werbung durch Facebook erhalten Sie unter: https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen\n\n\nSprachen: Deutsch\n\nVoraussetzungen:\nKompatibel mit iPhone\nErfordert iOS 17.0 oder höher.",
+      "averageUserRatingForCurrentVersion": 4.2423,
       "languageCodesISO2A": [
         "DE"
       ],
       "fileSizeBytes": "150176768",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 47377,
+      "userRatingCountForCurrentVersion": 47379,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.24244,
       "sellerUrl": "https://www.bild.de",
-      "releaseDate": "2009-12-09T03:12:53Z",
-      "trackId": 340030725,
-      "trackName": "BILD News - Live Nachrichten",
-      "userRatingCount": 47377,
+      "bundleId": "de.bild.newsapp",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 47379,
       "country": "DEU"
     }
   ]

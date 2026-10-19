@@ -2,7 +2,7 @@
   "id": "6446482834",
   "name": "MiniMax - 通用AI Agent",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:18:30.164Z",
+  "fetchedAt": "2026-10-19T08:27:28.517Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -28,19 +28,14 @@
           "amount": 150
         },
         {
-          "name": "Go会员 - 连续包年",
-          "price": "¥490.00",
-          "amount": 490
-        },
-        {
-          "name": "超级包",
-          "price": "¥500.00",
-          "amount": 500
-        },
-        {
           "name": "Build会员 - 连续包月",
           "price": "¥469.00",
           "amount": 469
+        },
+        {
+          "name": "Go会员 - 连续包年",
+          "price": "¥490.00",
+          "amount": 490
         },
         {
           "name": "Explore会员 - 连续包年",
@@ -48,12 +43,17 @@
           "amount": 1188
         },
         {
+          "name": "超级包",
+          "price": "¥500.00",
+          "amount": 500
+        },
+        {
           "name": "Build会员 - 连续包年",
           "price": "¥4,688.00",
           "amount": 4688
         }
       ],
-      "fetchedAt": "2026-10-18T14:18:30.161Z"
+      "fetchedAt": "2026-10-19T08:27:28.517Z"
     }
   }
 }

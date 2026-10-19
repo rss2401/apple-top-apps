@@ -2,7 +2,7 @@
   "id": "639343132",
   "name": "iConnectHue für Philips Hue",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:09:18.086Z",
+  "fetchedAt": "2026-10-19T08:18:18.143Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,63 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:18.081Z"
+      "fetchedAt": "2026-10-19T08:18:16.495Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Loin de la maison",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Adhésion Pro 12 mois",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
+          "name": "Discotainment",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Niveau des animations",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Adhésion Basic 12 mois",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "Watch Plus",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Éditeur de widget classique",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Multi Bridge",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
+          "name": "Christmas animation package",
+          "price": "2,69 €",
+          "amount": 2.69
+        },
+        {
+          "name": "Summer delights",
+          "price": "2,69 €",
+          "amount": 2.69
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:18:18.143Z"
     }
   }
 }

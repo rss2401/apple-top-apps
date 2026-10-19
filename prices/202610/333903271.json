@@ -2,7 +2,7 @@
   "id": "333903271",
   "name": "X",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:53:34.481Z",
+  "fetchedAt": "2026-10-19T08:01:57.561Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -58,63 +58,63 @@
           "amount": 6
         }
       ],
-      "fetchedAt": "2026-10-18T13:53:30.012Z"
+      "fetchedAt": "2026-10-19T08:01:53.143Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [
         {
-          "name": "Ticketed Space ($1.99)",
-          "price": "£1.99",
-          "amount": 1.99
+          "name": "X Premium (Monthly)",
+          "price": "£11.00",
+          "amount": 11
         },
         {
-          "name": "Ticketed Space ($.99)",
-          "price": "£0.99",
-          "amount": 0.99
+          "name": "X Premium Basic (Monthly)",
+          "price": "£4.00",
+          "amount": 4
         },
         {
-          "name": "Ticketed Space ($2.99)",
-          "price": "£2.99",
-          "amount": 2.99
+          "name": "X Premium Plus (Monthly)",
+          "price": "£47.00",
+          "amount": 47
         },
         {
-          "name": "Ticketed Space ($3.99)",
-          "price": "£3.99",
-          "amount": 3.99
+          "name": "@ROUNDTHEBEND__ Subscription",
+          "price": "£5.00",
+          "amount": 5
         },
         {
-          "name": "Ticketed Space ($10.99)",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "X Premium (Annual)",
+          "price": "£107.99",
+          "amount": 107.99
         },
         {
-          "name": "Ticketed Space ($4.99)",
-          "price": "£4.99",
-          "amount": 4.99
+          "name": "Promote Post",
+          "price": "£10.00",
+          "amount": 10
         },
         {
-          "name": "Ticketed Space ($9.99)",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "@elonmusk Subscription",
+          "price": "£4.00",
+          "amount": 4
         },
         {
-          "name": "Ticketed Space ($5.99)",
-          "price": "£5.99",
-          "amount": 5.99
+          "name": "Promote Post for $25",
+          "price": "£25.00",
+          "amount": 25
         },
         {
-          "name": "Ticketed Space ($12.99)",
-          "price": "£12.99",
-          "amount": 12.99
+          "name": "@NiallHarbison Subscription",
+          "price": "£5.00",
+          "amount": 5
         },
         {
-          "name": "Ticketed Space ($6.99)",
-          "price": "£6.99",
-          "amount": 6.99
+          "name": "X Premium Basic (Annual)",
+          "price": "£36.00",
+          "amount": 36
         }
       ],
-      "fetchedAt": "2026-10-18T13:53:31.472Z"
+      "fetchedAt": "2026-10-19T08:01:54.758Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +170,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-18T13:53:33.001Z"
+      "fetchedAt": "2026-10-19T08:01:56.104Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 490
         }
       ],
-      "fetchedAt": "2026-10-18T13:53:34.481Z"
+      "fetchedAt": "2026-10-19T08:01:57.556Z"
     }
   }
 }

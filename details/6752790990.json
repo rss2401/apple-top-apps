@@ -196,7 +196,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/89/4f/3b894f2d-c092-1a3f-a474-dde67f92199d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -330,32 +334,29 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/89/4f/3b894f2d-c092-1a3f-a474-dde67f92199d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/89/4f/3b894f2d-c092-1a3f-a474-dde67f92199d/appicon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "18.0",
       "languageCodesISO2A": [],
       "fileSizeBytes": "60133376",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
+      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 5,
-      "genres": [
-        "Utilities"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "currentVersionReleaseDate": "2026-10-01T11:58:57Z",
+      "price": 0,
       "trackName": "Microsoft Cloud Switcher",
       "trackId": 6752790990,
-      "releaseNotes": "Performance & .net 10 patches",
       "releaseDate": "2026-03-17T07:00:00Z",
+      "genreIds": [
+        "6002"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-10-01T11:58:57Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.6",
       "wrapperType": "software",
       "currency": "USD",
@@ -365,13 +366,12 @@
       "trackCensoredName": "Microsoft Cloud Switcher",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-cloud-switcher/id6752790990?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Performance & .net 10 patches",
+      "genres": [
+        "Utilities"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002"
-      ],
       "userRatingCount": 1,
       "country": "USA"
     }

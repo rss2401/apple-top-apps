@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -165,22 +168,21 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "averageUserRating": 4.83168,
+      "trackCensoredName": "Leonardo.Ai - Image Generator",
+      "trackViewUrl": "https://apps.apple.com/us/app/leonardo-ai-image-generator/id1662773014?uo=4",
+      "contentAdvisoryRating": "17+",
       "minimumOsVersion": "16.0",
-      "artistId": 1662773016,
-      "artistName": "Leonardo Interactive Pty Ltd",
+      "price": 0,
       "genres": [
         "Graphics & Design",
         "Productivity"
       ],
-      "price": 0,
-      "bundleId": "ai.leonardo.Leonardo",
+      "artistId": 1662773016,
+      "artistName": "Leonardo Interactive Pty Ltd",
+      "releaseDate": "2023-08-03T07:00:00Z",
       "trackId": 1662773014,
       "trackName": "Leonardo.Ai - Image Generator",
-      "releaseNotes": "Thanks for using Leonardo.Ai! This version includes bug fixes and performance improvements.",
-      "releaseDate": "2023-08-03T07:00:00Z",
       "genreIds": [
         "6027",
         "6007"
@@ -190,24 +192,22 @@
       "sellerName": "Leonardo Interactive Pty Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-13T21:00:17Z",
+      "releaseNotes": "Thanks for using Leonardo.Ai! This version includes bug fixes and performance improvements.",
       "version": "2.0.44",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Welcome to Leonardo.Ai, a full creative platform that lets you play, explore and create with the world's best AI image and video generation models, now on iOS!\n\nMore than just a free AI art generator, Leonardo supports your entire creative journey with powerful yet easy AI art tools, taking you from the first spark of an idea to pro-level assets in just a tap. Now, you can access all these powerful features right from your iPhone or iPad:\n\nAI IMAGE GENERATOR\nOur free AI image maker lets you rapidly iterate concepts and explore aesthetics with complete creative control using top AI image models, including Nano Banana by Google, Seedream, FLUX, and Leonardo's own state of the art models.\n\nAI VIDEO GENERATOR\nLeonardo's free AI Video maker is your storytelling tool for cinematic scenes to social media content with top AI video models such as Veo 3 by Google. Take the director's seat with camera controls and animation effects or bring generated images and real photos to life with motion.\n\nEASY TO USE PRE-DESIGNED BLUEPRINT TEMPLATES\nKick-start your projects or streamline any stage of your creative workflow with easy to use, ready-made templates that deliver pro-level results in a tap.\n\nAI IMAGE EDITING\nOur Ai image editor tools let you tweak your images with ease - just describe the changes you want to make! Powered by intelligent AI image models, you can you enhance, unzoom and remove backgrounds from images to effortlessly refine your AI artwork with ease.\n\nAI UPSCALER\nLeonardo's Universal Upscaler tool is a market leader that can add crisp definition to any image or add creative details to make images stand out in high-definition.\n\nSTART YOUR CREATIVE JOURNEY\nJoin a community of over 60 million creative minds and be inspired by more than 2 billion AI generations using http://Leonardo.Ai. Start creating stunning AI art today!\n\nPlease note: By using this app, you agree to our Privacy Policy (https://leonardo.ai/legal-notice/) and Terms of Service (https://leonardo.ai/terms-of-service/).",
-      "averageUserRatingForCurrentVersion": 4.83152,
+      "averageUserRatingForCurrentVersion": 4.83168,
+      "sellerUrl": "https://leonardo.ai/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "112897024",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 11147,
+      "userRatingCountForCurrentVersion": 11157,
       "trackContentRating": "17+",
-      "sellerUrl": "https://leonardo.ai/",
-      "averageUserRating": 4.83152,
-      "trackCensoredName": "Leonardo.Ai - Image Generator",
-      "trackViewUrl": "https://apps.apple.com/us/app/leonardo-ai-image-generator/id1662773014?uo=4",
-      "contentAdvisoryRating": "17+",
-      "userRatingCount": 11147,
+      "bundleId": "ai.leonardo.Leonardo",
+      "userRatingCount": 11157,
       "country": "USA"
     }
   ]

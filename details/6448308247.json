@@ -230,7 +230,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d8/2a/88d82afc-c47c-02c4-6701-74e08cbec6cc/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -363,13 +365,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d8/2a/88d82afc-c47c-02c4-6701-74e08cbec6cc/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d8/2a/88d82afc-c47c-02c4-6701-74e08cbec6cc/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -409,20 +408,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 557,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.53142,
       "sellerUrl": "https://designer.microsoft.com",
-      "genres": [
-        "Graphics & Design",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "17.0",
+      "averageUserRatingForCurrentVersion": 4.53142,
+      "currentVersionReleaseDate": "2026-10-06T08:24:21Z",
+      "price": 0,
       "trackName": "Microsoft Designer",
       "trackId": 6448308247,
-      "releaseNotes": "We are constantly working on making the App faster and more reliable for you!",
       "releaseDate": "2024-06-11T07:00:00Z",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
-      "currentVersionReleaseDate": "2026-10-06T08:24:21Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0.36",
       "wrapperType": "software",
       "currency": "USD",
@@ -432,14 +433,13 @@
       "trackCensoredName": "Microsoft Designer",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-designer/id6448308247?uo=4",
       "contentAdvisoryRating": "12+",
+      "releaseNotes": "We are constantly working on making the App faster and more reliable for you!",
+      "genres": [
+        "Graphics & Design",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6027",
-        "6007"
-      ],
       "userRatingCount": 557,
       "country": "USA"
     }

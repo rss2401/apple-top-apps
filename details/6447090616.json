@@ -384,9 +384,10 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/smashmelon-llc/id1895995887?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhoneXS-iPhoneXS",
@@ -483,12 +484,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/smashmelon-llc/id1895995887?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d7/7e/eed77e45-8c61-f140-ab3d-ab1ae4fdfd28/German-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/12/e4/5512e45a-1d86-3702-8df3-65194327775f/German-2.png/320x480bb.jpg",
@@ -501,11 +500,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/92/39/1a9239d8-164f-686c-777f-19a83b615026/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.10.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "averageUserRating": 4.41199,
-      "trackCensoredName": "Whisper Notes: Sprache zu Text",
-      "trackViewUrl": "https://apps.apple.com/de/app/whisper-notes-sprache-zu-text/id6447090616?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "18.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/fb/77/88fb779a-7200-0def-15bf-797ed3ff414f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Neue Funktionen\n\n- Apple Speech — auf iOS 26 kannst du neben Parakeet, SenseVoice und Whisper auch Apples Sprach-Engine wählen. Lade nur die Sprachen, die du brauchst; alles bleibt auf deinem Gerät.\n- Aufnahmen laufen nach einem Anruf oder einer anderen Unterbrechung automatisch weiter (bis zu zwei Minuten).\n- Ein Menü „Teilen“ für alles — Text, Zeitstempel, Text + Audio, TXT/SRT/VTT — auf der Notiz und in der Detailansicht identisch, plus „Alles als Text teilen“ für mehrere Notizen.\n\nVerbesserungen\n\n- Schneller: Modelle sind nach dem Start früher bereit, die Notiz erscheint sofort, wenn du die Aufnahme beendest, und das Speichern von Änderungen blockiert die Oberfläche nicht mehr.\n- Sehr lange Transkripte öffnen sich sofort — zuerst der Text, die Zeitstempel werden im Hintergrund erzeugt.\n- Modell-Downloads werden dort fortgesetzt, wo sie unterbrochen wurden, versuchen es automatisch erneut und nennen den Grund, wenn sie fehlschlagen.\n- „Sprecher erkennen“ steht im Menü jeder Notiz und funktioniert jetzt auch bei langen Aufnahmen zuverlässig.\n- VoiceOver: Jedes Bedienelement ist beschriftet, Ergebnisse werden angesagt, Notizen werden als ein Satz vorgelesen, und „Bewegung reduzieren“ wird berücksichtigt.\n\nFehlerbehebungen\n\n- App mitten in der Aufnahme weggewischt? Beim nächsten Öffnen ist die Aufnahme in deiner Liste und wird automatisch transkribiert.\n- Fehlgeschlagene Transkriptionen und Importe zeigen den tatsächlichen Grund, und eine unterbrochene Transkription behält den bereits erzeugten Text.\n- Whisper: Leise oder entfernte Sprache geht nicht mehr verloren, und erfundene Phrasen in stillen Passagen werden herausgefiltert.\n- Stumme Aufnahmen mit Bluetooth- oder Kabel-Headset? Aktiviere „Integriertes Mikrofon bevorzugen“ unter „Aufnahme & Audio“.\n- Stabilitätsverbesserungen überall, besonders bei SenseVoice, beim Teilen und im eigenen Wörterbuch. Änderungen und Löschungen können nicht mehr verloren gehen oder wieder auftauchen.",
       "artistId": 1895995887,
       "artistName": "SmashMelon LLC",
       "genres": [
@@ -513,26 +509,30 @@
         "Dienst­programme"
       ],
       "price": 8.99,
+      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.mazzystar.WhisperMemo",
-      "releaseDate": "2023-04-04T07:00:00Z",
-      "trackId": 6447090616,
-      "trackName": "Whisper Notes: Sprache zu Text",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "releaseDate": "2023-04-04T07:00:00Z",
+      "trackId": 6447090616,
+      "trackName": "Whisper Notes: Sprache zu Text",
+      "sellerName": "SmashMelon LLC",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "SmashMelon LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-18T23:05:35Z",
-      "releaseNotes": "Neue Funktionen\n\n- Apple Speech — auf iOS 26 kannst du neben Parakeet, SenseVoice und Whisper auch Apples Sprach-Engine wählen. Lade nur die Sprachen, die du brauchst; alles bleibt auf deinem Gerät.\n- Aufnahmen laufen nach einem Anruf oder einer anderen Unterbrechung automatisch weiter (bis zu zwei Minuten).\n- Ein Menü „Teilen“ für alles — Text, Zeitstempel, Text + Audio, TXT/SRT/VTT — auf der Notiz und in der Detailansicht identisch, plus „Alles als Text teilen“ für mehrere Notizen.\n\nVerbesserungen\n\n- Schneller: Modelle sind nach dem Start früher bereit, die Notiz erscheint sofort, wenn du die Aufnahme beendest, und das Speichern von Änderungen blockiert die Oberfläche nicht mehr.\n- Sehr lange Transkripte öffnen sich sofort — zuerst der Text, die Zeitstempel werden im Hintergrund erzeugt.\n- Modell-Downloads werden dort fortgesetzt, wo sie unterbrochen wurden, versuchen es automatisch erneut und nennen den Grund, wenn sie fehlschlagen.\n- „Sprecher erkennen“ steht im Menü jeder Notiz und funktioniert jetzt auch bei langen Aufnahmen zuverlässig.\n- VoiceOver: Jedes Bedienelement ist beschriftet, Ergebnisse werden angesagt, Notizen werden als ein Satz vorgelesen, und „Bewegung reduzieren“ wird berücksichtigt.\n\nFehlerbehebungen\n\n- App mitten in der Aufnahme weggewischt? Beim nächsten Öffnen ist die Aufnahme in deiner Liste und wird automatisch transkribiert.\n- Fehlgeschlagene Transkriptionen und Importe zeigen den tatsächlichen Grund, und eine unterbrochene Transkription behält den bereits erzeugten Text.\n- Whisper: Leise oder entfernte Sprache geht nicht mehr verloren, und erfundene Phrasen in stillen Passagen werden herausgefiltert.\n- Stumme Aufnahmen mit Bluetooth- oder Kabel-Headset? Aktiviere „Integriertes Mikrofon bevorzugen“ unter „Aufnahme & Audio“.\n- Stabilitätsverbesserungen überall, besonders bei SenseVoice, beim Teilen und im eigenen Wörterbuch. Änderungen und Löschungen können nicht mehr verloren gehen oder wieder auftauchen.",
       "version": "1.8.8",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die Offline-Transkriptions-App, der über 70.000 Journalisten, Forscher und Profis vertrauen.\n\nVerwandle Meetings, Vorlesungen und Sprachmemos in präzisen Text mit Sprecher-Labels – schnell, 100 % offline, auf deinem Gerät. Kein Abo. Einmal kaufen, für immer deins.\n\n■ Kernfunktionen\n- Sprachmemos aufnehmen, Ideen sofort festhalten – über Sperrbildschirm, Widgets, Aktionstaste oder per „Hey Siri“\n- Audio und Video aus jeder App importieren (WhatsApp, Fotos, Sprachmemos usw.) – sogar Untertitel extrahieren\n- Aus Meetings, Vorlesungen und Interviews werden Transkripte mit Sprecher-Labels – wer sagte was, Sprecher umbenennbar, ohne Längenlimit\n- 101 Sprachen, automatisch erkannt (für Deutsch optimiert) – drei Modelle (Parakeet, Whisper, SenseVoice), frei wählbar\n- Export als SRT, VTT oder TXT – Zeitstempel und Sprecher-Labels inklusive\n\n■ Privatsphäre & Tempo\nWeil alles auf deinem Gerät läuft, wird nichts hochgeladen – und nichts kann durchsickern. Aktiviere vor der Aufnahme den Flugmodus und lass ihn an: Whisper Notes funktioniert genau gleich. Wichtig, wenn die Aufnahme ein Interview ist, ein Kundengespräch – oder etwas, das nie auf einen fremden Server gehört.\n\n5 Minuten Audio auf dem iPhone 15: ca. 18 Sekunden mit Parakeet, ca. 1 Minute mit Whisper. SenseVoice ist deutlich schneller als Whisper und am stärksten bei Chinesisch, Japanisch und Koreanisch. Jedes Modell hat seine Stärken – wähle frei nach Sprache und Einsatz. Ältere Geräte sind langsamer, funktionieren aber gut.\n\n■ Ehrliche Preise\nWeil die Transkription auf deinem Gerät läuft, haben wir keine Serverkosten – und damit keinen Grund für Monatsgebühren. Ähnliche Apps kosten meist $100+/Jahr; bei uns zahlst du einmal.\nKeine Abos, keine In-App-Käufe, keine Werbung.\nNicht zufrieden? Tippe auf Einstellungen → Rückerstattung anfordern.\n\n■ Häufige Fragen\n\nFunktioniert die App komplett offline?\nJa. Dein Audio verlässt nie dein Gerät. Funktioniert im Flugzeug, im Funkloch, überall.\n\nKann ich WhatsApp-Sprachnachrichten oder Videos transkribieren?\nJa. Teile oder sichere Audio/Video aus WhatsApp in Whisper Notes und transkribiere offline. Perfekt, um Untertitel ohne Cloud-Upload zu extrahieren.\n\nGibt es ein Zeitlimit für Aufnahmen?\nNein. Nimm stundenlang auf, wenn du willst. Längere Aufnahmen brauchen zum Transkribieren auf dem Gerät nur mehr Zeit.\n\nGibt es Echtzeit-Transkription während der Aufnahme?\nNicht während der Aufnahme, aber bei der Transkription: Danach siehst du das Transkript in Echtzeit entstehen.\n\nUnterstützt ihr Sprecher-Labels (diarization)?\nJa – komplett offline. Tippe im Transkript aufs Sprecher-Symbol und sieh, wer was gesagt hat – direkt auf deinem Gerät. Genauigkeit und Tempo verbessern wir laufend.\n\nWo werden meine Daten gespeichert?\nNur auf deinem Gerät. Wir haben keinerlei Zugriff. Hinweis: Löschst du die App, werden auch deine Aufnahmen gelöscht (wir behalten keine heimlichen Backups). Exportiere wichtige Dateien regelmäßig.\n\nKann ich ein Transkript zusammenfassen?\nJa — kopiere es in ein KI-Tool deiner Wahl. Whisper Notes selbst lädt nie etwas hoch; deine Audios und Texte bleiben auf deinem Gerät.\n\nWarum stoppt die Transkription beim App-Wechsel?\niOS begrenzt die GPU-Nutzung von Dritt-Apps im Hintergrund. Kehre einfach zur App zurück und tippe auf „Erneut transkribieren“ – sie startet neu.\n\nWelche Geräte werden empfohlen?\niPhone 12 und neuer. Ältere Geräte (iPhone 11, iPhone SE 2. Generation) werden nicht empfohlen – dort funktioniert die App nicht richtig.\n\nWelche Sprachen werden unterstützt?\nDeutsch, English, Español, Français, Português, Italiano, Nederlands, 简体中文, 繁體中文, 日本語, 한국어, Hindi, Arabic, Русский, Türkçe, Polski, Українська, Tiếng Việt, Thai, Tagalog, Bahasa Indonesia, Svenska, Norsk, Dansk, Suomi, Čeština, Greek, Hebrew, Română, Magyar, Persian, Urdu und über 65 weitere Sprachen.\n\n■ Kontakt\nFragen? Schreib an support@whispernotes.app\nMehr Infos: whispernotes.app",
-      "averageUserRatingForCurrentVersion": 4.41199,
+      "averageUserRating": 4.41199,
+      "trackCensoredName": "Whisper Notes: Sprache zu Text",
+      "trackViewUrl": "https://apps.apple.com/de/app/whisper-notes-sprache-zu-text/id6447090616?uo=4",
+      "contentAdvisoryRating": "4+",
       "sellerUrl": "https://whispernotes.app",
+      "userRatingCountForCurrentVersion": 267,
+      "minimumOsVersion": "18.0",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -574,8 +574,8 @@
       ],
       "fileSizeBytes": "532537344",
       "formattedPrice": "8,99 €",
-      "userRatingCountForCurrentVersion": 267,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.41199,
       "userRatingCount": 267,
       "country": "DEU"
     },

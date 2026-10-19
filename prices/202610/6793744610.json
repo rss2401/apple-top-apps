@@ -2,7 +2,7 @@
   "id": "6793744610",
   "name": "2AM CAM",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:14:20.992Z",
+  "fetchedAt": "2026-10-19T08:23:26.915Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 17.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:14:16.821Z"
+      "fetchedAt": "2026-10-19T08:23:23.876Z"
     },
     "fr": {
       "currency": "EUR",
@@ -170,7 +170,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:14:19.539Z"
+      "fetchedAt": "2026-10-19T08:23:25.548Z"
     },
     "us": {
       "currency": "USD",
@@ -181,14 +181,14 @@
           "amount": 1.99
         },
         {
-          "name": "128 GB · Annual",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "64 GB · Annual",
           "price": "$19.99",
           "amount": 19.99
+        },
+        {
+          "name": "128 GB · Annual",
+          "price": "$29.99",
+          "amount": 29.99
         },
         {
           "name": "128 GB · Monthly",
@@ -226,7 +226,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:14:20.991Z"
+      "fetchedAt": "2026-10-19T08:23:26.914Z"
     }
   }
 }

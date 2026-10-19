@@ -356,6 +356,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/80/12/4b/80124b72-3f9e-eee4-2273-1c404c98e819/afe6da07-c1f9-4f24-814a-54a7590564a7_09.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/3f/49/4f/3f494f84-fa4a-f78e-d988-5adec2dcdc40/a2e5eb5a-bdc8-4567-ac40-91a09d9cd36f_10.png/392x696bb.png"
       ],
+      "features": [
+        "iosUniversal"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/d8/47/90/d8479081-4a92-ebae-c882-82fb0eaf3c12/6577ef61-0d6c-41ff-8f2d-36850fdca5ab_01.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/df/3a/18/df3a183f-b02e-0aa3-b0d6-f16f11cad2be/4fb4e812-656c-4e14-a5ed-8669bcebc4d1_02.png/360x480bb.jpg",
@@ -373,36 +376,31 @@
       "artistViewUrl": "https://apps.apple.com/jp/developer/ollix/id374932200?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/53/3a/5a533aa0-5672-5536-59cd-0ad4c1c38ee0/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistId": 374932200,
-      "artistName": "Ollix",
+      "minimumOsVersion": "13.0",
       "genres": [
         "旅行",
         "ライフスタイル"
       ],
-      "price": 3000,
-      "trackName": "世界の霧 (Fog of World)",
-      "trackId": 505367096,
+      "artistId": 374932200,
+      "artistName": "Ollix",
       "releaseNotes": "全く新しい「トラック編集」機能が登場！\n\n「トラック編集」機能が新登場！この機能を使えば、記録されたトラックを手動で編集し、あなたの旅の軌跡をより忠実かつ正確にマップへ反映させることができます。\n\n新しいエディタで、以下のことが可能になります：\n• GPSのズレによって生じた不正確な記録ポイントを消去。\n• トンネルや地下鉄など、GPS信号を失った区間のトラックを追加。\n• 電波干渉が多い都市部での蛇行したルートを修正。\n\nさあ、今すぐ編集を始めましょう：設定 > データベース > トラック編集\n\n--\n\nv3.7.4 の新機能：\n• 地図の1本指ズームの方向設定を追加しました。\"上にスライドして拡大\" または \"上にスライドして縮小\" を切り替えられます\n• Nutstore の認証後に App に戻れない問題を修正しました",
-      "releaseDate": "2012-09-18T13:31:51Z",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Ollix",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.ollix.FogOfWorld",
+      "trackId": 505367096,
+      "trackName": "世界の霧 (Fog of World)",
       "genreIds": [
         "6003",
         "6012"
       ],
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "sellerName": "Ollix",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-05-23T14:41:29Z",
       "version": "3.7.4",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "世界の霧で、あなたはそれらの目的地とそこにあなたを導く道を追体験します。それをマップします。あなたが見るために各ストライドを引き出します。あなたが作成した芸術の作品を見て-ちょうど旅行によって。知ることによって、あなたは封じ込められない。\n\n参加してください。あなたの冒険を体験するユニークな方法を受け入れます!探検、訪問し、世界地図上のあなたの旅を暗記。世界を Unfog、今日のあなたの人生をより華麗にしてください！\n\n• 世界の霧ほど楽しいアプリに出会ったのは久しぶりだ - GIZMODO\n• 最後に世界の霧のような面白いアプリに遭遇したのはいつだったか思い出せない - Business Insider\n• 世界の霧は、街や自分の世界を移動するのを探検ゲームに変える - AppStorm\n• 街のあらゆる通りや、もっと遠いところを探検したくなるような、オリジナルの世界的位置追跡ゲーム - LITTLE APP REVIEW\n• 世界の霧は、ビデオゲームの戦争の霧を応用して、旅をゲーム化している - The Awesomer\n• ハッカー・ニュースで、注目ニュースの第一位を維持！\n\n● 特徴\n\n• （アプリがバックグラウンドで作動しているときも）あなたが通った跡を記録します。\n• 地図上の行ったことのある場所をすべて同時に表示します。\n• 世界中、すべての大陸、すべての国、地域にまたがるあなたの統計データを分析します。\n• 世界をもっと探検したくなる、たくさんのバッジ。\n• さまざまなトラッキング目的のための複数のデータベースとスナップショットによるデータ保護のサポート。\n• GPX や KML ファイルで通った跡をインポートするのをサポートします。\n• データを Dropbox や OneDrive へ同期化するのをサポートします。\n\n● プライバシーポリシー\n\n要するに我々はあなたのいかなる探索データも収集していません。あなたのデータはクラウドストレージと同期した際にアップロードされますが、アクセスできるのはあなただけです。我々にはできません。\n\n● 世界の霧の魅力は何？\n\n• 世界の霧は、2012年にリアルワールドマップに「戦争の霧」のアイデアを初めて取り入れ、その後も無料でアップデートを提供しています。\n• 世界の霧は霧オーバーレイをレンダリングする最高のアプリであり、高解像度のトラックを表示する唯一のアプリです。信じられない場合は、コピーアプリのアプリをダウンロードして、世界の霧のスクリーンショットと比較してみてください。\n• 他のコピーアプリは、地図をズームインまたはズームアウトするとシームレスな太さの変更でトラックを表示できない。\n• 世界の霧にはユーザーアカウントがなく、すべてのデータはデバイスに保存されます。100%のプライバシーがあります。\n• iCloud、Dropbox、Google Drive、OneDrive、Nutstoreにデータを同期またはバックアップできますが、アクセスできるのはあなただけです。私たちではありません。\n• データベースは、高いパフォーマンスを提供しながら可能な限り少ないストレージを使用するように設計されています。\n• 世界の霧は、中国が政治的理由でGCJ-02座標系を使用しているため、世界中で実際に動作する唯一のアプリです。他のコピーアプリは、中国または世界のどちらかでは正常に動作しますが、両方ではありません。\n• 世界の霧は、137カ国でApp of the Dayに選ばれました。\n\n\nFacebookでいいね！\nhttps://www.facebook.com/OllixIO/\n\nTwitterでフォローする\nhttps://twitter.com/OllixIO",
-      "averageUserRatingForCurrentVersion": 4.71523,
       "averageUserRating": 4.71523,
-      "sellerUrl": "https://fogofworld.app",
       "languageCodesISO2A": [
         "DA",
         "NL",
@@ -422,11 +420,13 @@
       "formattedPrice": "¥3,000",
       "userRatingCountForCurrentVersion": 2093,
       "trackContentRating": "4+",
+      "sellerUrl": "https://fogofworld.app",
+      "averageUserRatingForCurrentVersion": 4.71523,
       "trackCensoredName": "世界の霧 (Fog of World)",
-      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%96%E7%95%8C%E3%81%AE%E9%9C%A7-fog-of-world/id505367096?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.ollix.FogOfWorld",
-      "minimumOsVersion": "13.0",
+      "trackViewUrl": "https://apps.apple.com/jp/app/%E4%B8%96%E7%95%8C%E3%81%AE%E9%9C%A7-fog-of-world/id505367096?uo=4",
+      "releaseDate": "2012-09-18T13:31:51Z",
+      "price": 3000,
       "userRatingCount": 2093,
       "country": "JPN"
     }

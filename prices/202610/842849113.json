@@ -1,13 +1,18 @@
 {
   "id": "842849113",
-  "name": "Google Sheets",
+  "name": "Google スプレッドシート",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:59:40.659Z",
+  "fetchedAt": "2026-10-19T08:03:17.225Z",
   "storefronts": {
+    "jp": {
+      "currency": "JPY",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:03:15.673Z"
+    },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-18T13:59:40.659Z"
+      "fetchedAt": "2026-10-19T08:03:17.225Z"
     }
   }
 }

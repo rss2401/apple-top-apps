@@ -2,12 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "advisories": [
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt"
+      ],
       "artistViewUrl": "https://apps.apple.com/de/developer/mms-e-commerce-gmbh/id386304607?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e5/c1/ade5c19b-095e-5e5d-4291-b99dbcf73a38/AppIcon-mmde-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e5/c1/ade5c19b-095e-5e5d-4291-b99dbcf73a38/AppIcon-mmde-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,9 +141,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt"
-      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/c9/22/f2c92259-2191-507d-dba0-e5478120655a/catalogue_1.png/392x696bb.png",
@@ -168,21 +166,25 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e5/c1/ade5c19b-095e-5e5d-4291-b99dbcf73a38/AppIcon-mmde-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "trackCensoredName": "MediaMarkt Deutschland",
       "trackViewUrl": "https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.74836,
-      "trackCensoredName": "MediaMarkt Deutschland",
-      "minimumOsVersion": "15.6",
-      "price": 0,
+      "averageUserRating": 4.74837,
+      "artistId": 386304607,
+      "artistName": "MMS E-Commerce GmbH",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
-      "artistId": 386304607,
-      "artistName": "MMS E-Commerce GmbH",
-      "bundleId": "de.mediamarkt.app",
+      "price": 0,
+      "releaseDate": "2010-08-11T23:53:31Z",
+      "currentVersionReleaseDate": "2026-10-12T09:04:08Z",
       "releaseNotes": "Liebe Kunden,\n\nmit diesem Update erhaltet ihr allgemeine Fehlerbehebungen und Verbesserungen in der App.\n\nWenn euch die App gefällt oder wenn ihr ein Feedback für uns habt, schickt es uns gerne oder nutzt die Ratings.\n\nWir freuen uns, euch bald weitere tolle Funktionen zur Verfügung stellen zu können!\n\nViele Grüße\n\neuer MediaMarkt App Team",
+      "trackId": 386304604,
+      "trackName": "MediaMarkt Deutschland",
       "genreIds": [
         "6024",
         "6012"
@@ -191,24 +193,22 @@
       "primaryGenreId": 6024,
       "sellerName": "MMS E-Commerce GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-12T09:04:08Z",
       "version": "4.128.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "MediaMarkt Deutschland App – Smart shoppen & sparen!\n\nMit der MediaMarkt App hast du die gesamte Technik-Vielfalt von MediaMarkt jederzeit und einfach in deiner Hand: Alle Produkte, alle Services, alle Angebote. Ob Waschmaschine, Smartphone, Notebook oder Spielekonsole, mit der kostenlosen MediaMarkt App kannst du die neuesten Elektronik-Trends von überall bestellen. Profitiere von vielen Vorteilen:\n\n+ Clever sparen mit exklusiven Coupons*\n+ Punkte* sammeln bei jeder Bestellung\n+ Schnell bestellen, bequem in 90 Minuten geliefert**\n+ Up-to-date bleiben mit Push-Benachrichtigungen\n+ Alle Bestellungen immer im Blick behalten\n+ Produkte im Markt scannen\n\n▶ MIT EXKLUSIVEN COUPONS SPAREN\nMit der MediaMarkt App verpasst du keine Coupons* und Angebote mehr! Einfach kostenlos für das myMediaMarkt-Programm anmelden und die Coupons im Markt oder direkt über die App einlösen. Es warten wöchentlich neue Coupons exklusiv in der App auf dich.\n\n▶ BEI JEDEM EINKAUF PUNKTEN\nRegistriere dich für das myMediaMarkt-Programm und punkte bei jedem Einkauf – egal, ob du im Markt mit deiner digitalen myMediaMarkt-Karte einkaufst oder direkt in der App bestellst. Wenn du genug Punkte gesammelt hast, kannst du sie in Wert-Coupons umwandeln und beim nächsten Kauf sparen.\n\n▶ SCHNELL UND BEQUEM SHOPPEN\nDu hast es eilig? Kaufe dein Wunschprodukt bequem von überall. Mit der Sofort-Lieferung** wird deine Bestellung in unter 90 Minuten zu dir nach Hause geliefert. Mit der Express-Abholung ist deine Bestellung in 30 Minuten im MediaMarkt abholbereit.\n\n▶ KEINE NEUHEITEN UND ANGEBOTE VERPASSEN\nAlles, was dein Technik-Herz begehrt: Entdecke die neuesten Technik-Trends in der MediaMarkt App. Außerdem warten regelmäßig Aktionen und Angebote auf dich. Aktiviere Push-Benachrichtigungen, um nichts mehr zu verpassen!\n\n▶ DEIN DIGITALER SHOPPING BUDDY IM MARKT\nMit der MediaMarkt App geht mehr im Markt! Scanne mit der App vor Ort die Produktschilder, um alle technischen Informationen zu einem Produkt zu erhalten. Außerdem hast du deine digitale myMediaMarkt-Karte* und deine digitalen Coupons* immer dabei. Einfach bei deinem Einkauf im Markt an der Kasse vorzeigen und profitieren!\n\n▶ ALLE BESTELLUNGEN IMMER IM BLICK\nDu kannst es kaum erwarten, bis deine Bestellung ankommt? Verfolge den aktuellen Lieferstatus einfach in der App. Garantie, Gewährleistung oder Retoure? Alle Kaufbelege sind digital archiviert und jederzeit abrufbar – umweltfreundlich und stressfrei.\n\n▶ ALLE PRODUKTE, SERVICES UND MÄRKTE\nDein Elektronik-Experte in deiner Nähe: Mit der App hast du alle Informationen zu Produkten und Services immer zur Hand. Finde sekundenschnell den nächsten MediaMarkt und prüfe die Verfügbarkeit von Produkten.\n\nJetzt MediaMarkt App downloaden und alle Vorteile sichern!\n\n*Mitgliedschaft im myMediaMarkt-Programm erforderlich.\n**Sofort-Lieferung für ausgewählte Produkte in teilnehmenden Märkten innerhalb des Liefergebietes während der Öffnungszeiten verfügbar.",
+      "minimumOsVersion": "15.6",
+      "averageUserRatingForCurrentVersion": 4.74837,
+      "sellerUrl": "https://www.mediamarkt.de/de/about-us/app",
+      "userRatingCountForCurrentVersion": 203694,
       "languageCodesISO2A": [
         "DE"
       ],
       "fileSizeBytes": "222798848",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 203135,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.74836,
-      "sellerUrl": "https://www.mediamarkt.de/de/about-us/app",
-      "releaseDate": "2010-08-11T23:53:31Z",
-      "trackId": 386304604,
-      "trackName": "MediaMarkt Deutschland",
-      "userRatingCount": 203135,
+      "bundleId": "de.mediamarkt.app",
+      "userRatingCount": 203694,
       "country": "DEU"
     }
   ]

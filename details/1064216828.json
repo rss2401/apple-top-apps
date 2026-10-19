@@ -243,25 +243,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/reddit-inc/id808295587?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/d2/92/14d2923b-8243-be42-e0c1-76e660184c6d/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/50/b7/6f50b7d4-0bb3-b99a-a46a-747ed1c1c654/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ca/da/09cada1e-9453-cb69-7839-dd6a025c0aac/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/53/ba/1353ba3e-7f06-e93c-16ec-d463c42237ac/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/01/27/b20127ae-a75d-23cc-07da-b8923a4393f8/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/c5/b3/55c5b3ee-46f6-4d8a-e623-bc1fe5184b5e/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/57/65/8c5765ce-3781-f161-e42b-cde9290fc916/1122d97a-8471-41fd-915b-04cb6c32d511_Reddit_SS_Brand_Update_Colorful_Set_Ipad_1.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/a6/30/35a630e3-f059-f8c4-4552-b5cc57487ccf/31f0982f-974d-4e27-82ac-b7dd0e8e0d39_Reddit_SS_Brand_Update_Colorful_Set_Ipad_2.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/0f/cb/140fcb26-db35-b7e9-dfab-987162bf25a2/398367b8-d75f-4efe-852e-290fe029e8c4_Reddit_SS_Brand_Update_Colorful_Set_Ipad_3.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4a/fe/bf4afec9-5dc3-5176-394f-0417aa8a8f92/c2af4ff9-66bd-4339-954e-0e622e9961af_Reddit_SS_Brand_Update_Colorful_Set_Ipad_4.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/a9/eb/6ea9ebc8-9fe1-1161-a8bd-8db88ed58243/2351baac-f5ac-4aa9-8430-4edc7892b246_Reddit_SS_Brand_Update_Colorful_Set_Ipad_5.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/6c/2c/526c2c47-4ecb-db64-6266-4b37363796df/7f7f77c3-acfb-4411-a0eb-de2818ef8285_Reddit_SS_Brand_Update_Colorful_Set_Ipad_6.jpg/576x768bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "advisories": [
         "Infrequent/Mild Cartoon or Fantasy Violence",
         "Infrequent/Mild Sexual Content and Nudity",
@@ -272,7 +253,7 @@
         "Frequent/Intense Profanity or Crude Humor",
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -408,10 +389,54 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 4.75528,
+      "kind": "software",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/57/65/8c5765ce-3781-f161-e42b-cde9290fc916/1122d97a-8471-41fd-915b-04cb6c32d511_Reddit_SS_Brand_Update_Colorful_Set_Ipad_1.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/a6/30/35a630e3-f059-f8c4-4552-b5cc57487ccf/31f0982f-974d-4e27-82ac-b7dd0e8e0d39_Reddit_SS_Brand_Update_Colorful_Set_Ipad_2.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/0f/cb/140fcb26-db35-b7e9-dfab-987162bf25a2/398367b8-d75f-4efe-852e-290fe029e8c4_Reddit_SS_Brand_Update_Colorful_Set_Ipad_3.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/4a/fe/bf4afec9-5dc3-5176-394f-0417aa8a8f92/c2af4ff9-66bd-4339-954e-0e622e9961af_Reddit_SS_Brand_Update_Colorful_Set_Ipad_4.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/a9/eb/6ea9ebc8-9fe1-1161-a8bd-8db88ed58243/2351baac-f5ac-4aa9-8430-4edc7892b246_Reddit_SS_Brand_Update_Colorful_Set_Ipad_5.jpg/576x768bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/6c/2c/526c2c47-4ecb-db64-6266-4b37363796df/7f7f77c3-acfb-4411-a0eb-de2818ef8285_Reddit_SS_Brand_Update_Colorful_Set_Ipad_6.jpg/576x768bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/d2/92/14d2923b-8243-be42-e0c1-76e660184c6d/375c47d8-0adc-4e6d-8b1f-63cad0fd81cd_Reddit_SS_Brand_Update_Colorful_Set_5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/50/b7/6f50b7d4-0bb3-b99a-a46a-747ed1c1c654/b58a74df-0fe7-4816-be96-153438344906_Reddit_SS_Brand_Update_Colorful_Set_5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/09/ca/da/09cada1e-9453-cb69-7839-dd6a025c0aac/aa03a0e1-d00d-42ae-ba45-f419bbc04c70_Reddit_SS_Brand_Update_Colorful_Set_5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/53/ba/1353ba3e-7f06-e93c-16ec-d463c42237ac/c754066e-6338-43b4-8b15-b995646437f9_Reddit_SS_Brand_Update_Colorful_Set_5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/01/27/b20127ae-a75d-23cc-07da-b8923a4393f8/a73f6e8d-ba7d-4d90-b411-acab9fb721ac_Reddit_SS_Brand_Update_Colorful_Set_5.5_5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/c5/b3/55c5b3ee-46f6-4d8a-e623-bc1fe5184b5e/de45bccb-b483-45e3-ad77-3e493242c6ff_Reddit_SS_Brand_Update_Colorful_Set_5.5_6.png/392x696bb.png"
+      ],
       "trackCensoredName": "Reddit",
       "trackViewUrl": "https://apps.apple.com/us/app/reddit/id1064216828?uo=4",
       "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.75525,
+      "currentVersionReleaseDate": "2026-10-12T19:44:29Z",
+      "artistId": 808295587,
+      "artistName": "REDDIT, INC.",
+      "genres": [
+        "News",
+        "Social Networking"
+      ],
+      "price": 0,
+      "bundleId": "com.reddit.Reddit",
+      "genreIds": [
+        "6009",
+        "6005"
+      ],
+      "primaryGenreName": "News",
+      "primaryGenreId": 6009,
+      "trackId": 1064216828,
+      "trackName": "Reddit",
+      "releaseDate": "2016-04-07T08:12:27Z",
+      "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "REDDIT, INC.",
+      "version": "2026.41.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Reddit is where millions of real people gather to talk, ask and debate across 100,000+ communities, from breaking news and sports to gaming, finance, and every hobby in between. Trending topics, deep-dive discussions and comment threads where real people go deeper than you'd expect on the stuff they love. Whatever you're into, there's a community that gets it. \nWhat can you do on Reddit? \nReddit is built around communities, or subreddits, which are forums where real people post, comment, ask questions, and reply. You'll find gaming communities, meme-makers, travel enthusiasts, support groups, AI forums, news followers, artists, sports fans, exciting AMAs , and creators of every kind. \nEverything on Reddit happens inside subreddits — What are Subreddits?  \nCommunities built around a specific topic, from r/worldnews to r/TodayILearned, where real people post, comment, and discuss. There are more than 100,000 subreddits, so whatever you're into, there are real people already talking about it.\n- r/AskReddit, where 50M people are ready to answer anything on your mind — real people who've been there too. \n - r/sports, the ultimate front-row seat for game-winning plays, daily sports talk, and major league updates \n - r/funny, full of humor, memes, and content made to make you laugh\n - r/science, for real scientific discussion and news \n- r/gaming, join 46M gamers to swap tips and share what you're playing\n\nWhat do people use Reddit for? People come to Reddit to: \n- Find communities for everything. \nBreaking news, sports highlights, TV fan theories, open AI discussions, and personalized content. There really is a community for everyone. \n- Get loads of laughs. \nMemes, oddly satisfying clips, and funny videos to help you happily lose track of time. \n- Join AMAs, or \"\"Ask Me Anything\"\".\nCelebrities, series creators, and experts answer real questions from real people in live sessions. \n- Follow honest discussions on any topic. \nPop culture, sports, entertainment, finance. People jump in with humor and insight on just about anything. \n- Get answers to your questions. \nAsk communities about relationships, mental health, parenting, careers, fitness, and more. \n- Find your people. \nJump into threads, connect over any topic, and chat with redditors who share your interests. \n\nGot questions? We've got you \nIs Reddit free? Yes. Reddit is free to download and use. Reddit Premium is an optional paid upgrade. \n\nHow do upvotes and karma work? \nInstead of likes and hearts, Reddit runs on upvotes and downvotes. Voting raises or lowers a post's visibility, so relevant, high-quality posts rise to the top while low-effort ones fade out. Voting also affects karma, a running score tied to your posts and comments. Karma doesn't limit what you can do, but more of it can help your posts get noticed, and some communities ask for a little karma before you post or comment to help keep out spam. \nReddit Premium: Purchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more. Payment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device's Account Settings. No partial refunds. \n\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy \nUser Agreement: https://www.redditinc.com/policies/user-agreement \nReddit Rules: https://redditinc.com/policies/reddit-rules \nIf you have any problems with the app, get support at RedditHelp.com",
       "sellerUrl": "https://www.reddit.com/mobile/download",
       "languageCodesISO2A": [
         "BN",
@@ -450,36 +475,11 @@
       ],
       "fileSizeBytes": "455813120",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 3509049,
+      "userRatingCountForCurrentVersion": 3509286,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.75528,
-      "artistId": 808295587,
-      "artistName": "REDDIT, INC.",
-      "genres": [
-        "News",
-        "Social Networking"
-      ],
-      "price": 0,
-      "genreIds": [
-        "6009",
-        "6005"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "News",
-      "primaryGenreId": 6009,
-      "sellerName": "REDDIT, INC.",
-      "releaseDate": "2016-04-07T08:12:27Z",
-      "currentVersionReleaseDate": "2026-10-12T19:44:29Z",
-      "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
-      "version": "2026.41.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Reddit is where millions of real people gather to talk, ask and debate across 100,000+ communities, from breaking news and sports to gaming, finance, and every hobby in between. Trending topics, deep-dive discussions and comment threads where real people go deeper than you'd expect on the stuff they love. Whatever you're into, there's a community that gets it. \nWhat can you do on Reddit? \nReddit is built around communities, or subreddits, which are forums where real people post, comment, ask questions, and reply. You'll find gaming communities, meme-makers, travel enthusiasts, support groups, AI forums, news followers, artists, sports fans, exciting AMAs , and creators of every kind. \nEverything on Reddit happens inside subreddits — What are Subreddits?  \nCommunities built around a specific topic, from r/worldnews to r/TodayILearned, where real people post, comment, and discuss. There are more than 100,000 subreddits, so whatever you're into, there are real people already talking about it.\n- r/AskReddit, where 50M people are ready to answer anything on your mind — real people who've been there too. \n - r/sports, the ultimate front-row seat for game-winning plays, daily sports talk, and major league updates \n - r/funny, full of humor, memes, and content made to make you laugh\n - r/science, for real scientific discussion and news \n- r/gaming, join 46M gamers to swap tips and share what you're playing\n\nWhat do people use Reddit for? People come to Reddit to: \n- Find communities for everything. \nBreaking news, sports highlights, TV fan theories, open AI discussions, and personalized content. There really is a community for everyone. \n- Get loads of laughs. \nMemes, oddly satisfying clips, and funny videos to help you happily lose track of time. \n- Join AMAs, or \"\"Ask Me Anything\"\".\nCelebrities, series creators, and experts answer real questions from real people in live sessions. \n- Follow honest discussions on any topic. \nPop culture, sports, entertainment, finance. People jump in with humor and insight on just about anything. \n- Get answers to your questions. \nAsk communities about relationships, mental health, parenting, careers, fitness, and more. \n- Find your people. \nJump into threads, connect over any topic, and chat with redditors who share your interests. \n\nGot questions? We've got you \nIs Reddit free? Yes. Reddit is free to download and use. Reddit Premium is an optional paid upgrade. \n\nHow do upvotes and karma work? \nInstead of likes and hearts, Reddit runs on upvotes and downvotes. Voting raises or lowers a post's visibility, so relevant, high-quality posts rise to the top while low-effort ones fade out. Voting also affects karma, a running score tied to your posts and comments. Karma doesn't limit what you can do, but more of it can help your posts get noticed, and some communities ask for a little karma before you post or comment to help keep out spam. \nReddit Premium: Purchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more. Payment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device's Account Settings. No partial refunds. \n\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy \nUser Agreement: https://www.redditinc.com/policies/user-agreement \nReddit Rules: https://redditinc.com/policies/reddit-rules \nIf you have any problems with the app, get support at RedditHelp.com",
-      "bundleId": "com.reddit.Reddit",
       "minimumOsVersion": "16.0",
-      "trackId": 1064216828,
-      "trackName": "Reddit",
-      "userRatingCount": 3509049,
+      "averageUserRatingForCurrentVersion": 4.75525,
+      "userRatingCount": 3509286,
       "country": "USA"
     },
     {
@@ -726,6 +726,10 @@
       "country": "DEU"
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -869,6 +873,9 @@
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/reddit-inc/id808295587?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/4b/53/b54b5327-21a6-8edb-e501-1cad4de9be0f/2f5e42be-b39e-4832-afa2-35480ddeab3c_Reddit_SS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/e5/67/06e5675b-2ac9-726d-d3f5-e4a01e99b280/a69a9c76-db1f-4d3e-8c8a-14728d2a7302_Reddit_SS_5.5_2.jpg/392x696bb.jpg",
@@ -887,36 +894,39 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/reddit-inc/id808295587?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/fd/74/74fd7490-afa3-510b-ea17-bfc25f4ecff3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
       "minimumOsVersion": "16.0",
-      "averageUserRating": 4.71229,
       "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
-      "price": 0,
+      "genres": [
+        "News",
+        "Social Networking"
+      ],
+      "artistId": 808295587,
+      "artistName": "REDDIT, INC.",
       "bundleId": "com.reddit.Reddit",
-      "releaseDate": "2016-04-07T08:12:27Z",
+      "price": 0,
+      "currentVersionReleaseDate": "2026-10-12T19:44:29Z",
       "genreIds": [
         "6009",
         "6005"
       ],
-      "sellerName": "REDDIT, INC.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Reddit",
-      "trackId": 1064216828,
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
-      "currentVersionReleaseDate": "2026-10-12T19:44:29Z",
+      "sellerName": "REDDIT, INC.",
+      "releaseDate": "2016-04-07T08:12:27Z",
+      "trackId": 1064216828,
+      "trackName": "Reddit",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2026.41.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Welcome to Reddit — where authentic conversations bring real people together.\nReddit is the world's largest community-driven platform to ask questions, connect with real people, share ideas and discover what matters across thousands of communities.\nWith over 100,000 communities covering every interest, Reddit is where genuine conversations happen. From breaking news and Premier League debates to personal finance advice, memes and pub culture chats, Reddit connects you with real people sharing real opinions across the UK.\n\nWhy Choose Reddit?\n■ Find communities and forums for every interest\nWhether you're into pop culture, Premier League sports, tech or personal finance, Reddit has thoughtful discussions on every topic. Dive into trending posts and talk with people who share your interests.\n■ Ask questions and get real answers\nReddit is for real talk with real people. Get advice, honest answers and recommendations from communities who've been there.\n■ Talk about anything that matters\nMeet people who share your passions, get advice or just find something new. Find communities dedicated to the things you care about and connect across the UK and beyond.\n\nBest UK Communities to Join on Reddit\n■ r/AskReddit & r/todayilearned\nAsk questions and get genuine answers from communities who care. Whether exploring personal goals or reacting to current events, there's always something new to discover.\n■ r/News and r/unitedkingdom\nDiscover breaking news, discuss real events and stay informed about everything happening across the UK and around the world.\n■ r/Funny and r/CasualUK\nLooking for laughs? Find communities dedicated to clever memes, daily jokes and the kind of dry British humour you won't find anywhere else.\n■ r/Gaming\nMeet experienced gamers, ask for advice and explore gaming content across thoughtful discussions.\n■ r/Music & r/Movies\nTalk about your favourite films and music. Find new things to love and share your perspectives on everything from classic British cinema to the latest hits.\nHow Does Reddit's Voting System Work?\nInstead of likes and hearts, Reddit's community-driven platform runs on upvotes and downvotes. Voting helps the best discussions and threads rise to the top of every community. Karma boosts your visibility and unlocks access to specific forums.\n\nJoin millions of Brits and discover everything that piques your interest, only on Reddit.\nReddit Premium \nPurchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more.\nPayment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device's Account Settings. No partial refunds.\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy\nUser Agreement: https://www.redditinc.com/policies/user-agreement\nReddit Rules: https://redditinc.com/policies/reddit-rules\nIf you have any problems with the app, get support at RedditHelp.com",
+      "averageUserRating": 4.71225,
+      "trackContentRating": "17+",
+      "trackCensoredName": "Reddit",
+      "trackViewUrl": "https://apps.apple.com/gb/app/reddit/id1064216828?uo=4",
+      "contentAdvisoryRating": "17+",
       "sellerUrl": "https://www.reddit.com/mobile/download",
-      "averageUserRatingForCurrentVersion": 4.71229,
+      "averageUserRatingForCurrentVersion": 4.71225,
       "languageCodesISO2A": [
         "BN",
         "BG",
@@ -954,18 +964,8 @@
       ],
       "fileSizeBytes": "455813120",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 385662,
-      "trackContentRating": "17+",
-      "trackCensoredName": "Reddit",
-      "trackViewUrl": "https://apps.apple.com/gb/app/reddit/id1064216828?uo=4",
-      "contentAdvisoryRating": "17+",
-      "genres": [
-        "News",
-        "Social Networking"
-      ],
-      "artistId": 808295587,
-      "artistName": "REDDIT, INC.",
-      "userRatingCount": 385662,
+      "userRatingCountForCurrentVersion": 385696,
+      "userRatingCount": 385696,
       "country": "GBR"
     }
   ]

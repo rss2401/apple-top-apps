@@ -2,17 +2,22 @@
   "id": "282614216",
   "name": "eBay online shopping & selling",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:00:10.538Z",
+  "fetchedAt": "2026-10-19T08:09:26.669Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:09:23.784Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-18T14:00:09.071Z"
+      "fetchedAt": "2026-10-19T08:09:25.176Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-18T14:00:10.538Z"
+      "fetchedAt": "2026-10-19T08:09:26.668Z"
     }
   }
 }

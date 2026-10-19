@@ -190,6 +190,7 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%8D%9A%E5%AE%87-%E5%A7%9A/id6786924730?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/b6/30/8eb630b7-6f74-98bd-a771-ea02e2257eed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/b6/30/8eb630b7-6f74-98bd-a771-ea02e2257eed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/ab/3c/a3ab3c42-9b26-c17b-06d0-89cccc63df08/Screenshot_iPhone_18_Pro_2026-10-08_at_21.15.51.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/2b/08/cb2b08b1-3f08-7598-07ed-3a7a7157a007/Screenshot_iPhone_18_Pro_2026-10-08_at_21.15.15.png/320x480bb.jpg",
@@ -203,12 +204,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/b6/30/8eb630b7-6f74-98bd-a771-ea02e2257eed/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,45 +336,50 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "15.6",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "UnionApp",
       "trackViewUrl": "https://apps.apple.com/cn/app/unionapp/id6787034553?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.70833,
-      "averageUserRatingForCurrentVersion": 4.70833,
+      "minimumOsVersion": "15.6",
       "sellerUrl": "https://union.godserver.cn/",
-      "languageCodesISO2A": [
-        "EN"
-      ],
+      "averageUserRatingForCurrentVersion": 4.70833,
       "fileSizeBytes": "152518656",
       "formattedPrice": "¥3.00",
       "userRatingCountForCurrentVersion": 24,
       "trackContentRating": "4+",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "artistId": 6786924730,
+      "artistName": "博宇 姚",
       "genres": [
         "工具",
         "效率"
       ],
       "price": 3,
-      "trackId": 6787034553,
-      "trackName": "UnionApp",
-      "artistId": 6786924730,
-      "artistName": "博宇 姚",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "适配了全套Alpha语法，并且谱面播放器游玩支持alpha内容,支持adx/ma2格式\n完全修改了谱面编辑器，使用AE方案完全重构，完全支持alpha元素\n优化了账号绑定，sdgb任务，下埋任务，首页即可看到进度，任务中心也可以实时看到进度\n新增了更多ui选择方案，重新提供了MD的谷歌风格ui方案",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6787034553,
+      "trackName": "UnionApp",
+      "releaseDate": "2026-07-19T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-16T21:57:05Z",
       "version": "1.1.5",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "UnionApp 是面向 maimai DX 玩家的全能工具。支持收藏品与牌子查询、区域跑图进度、KaleidxScope，以及国服、国际服、日服和私服成绩查询；支持多账号、Best 50、PC 50、附近机厅搜索、Aime 读卡、谱面播放与制谱。",
       "bundleId": "org.ast.unionapp",
-      "currentVersionReleaseDate": "2026-10-16T21:57:05Z",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
       "sellerName": "博宇 姚",
-      "releaseNotes": "适配了全套Alpha语法，并且谱面播放器游玩支持alpha内容,支持adx/ma2格式\n完全修改了谱面编辑器，使用AE方案完全重构，完全支持alpha元素\n优化了账号绑定，sdgb任务，下埋任务，首页即可看到进度，任务中心也可以实时看到进度\n新增了更多ui选择方案，重新提供了MD的谷歌风格ui方案",
-      "releaseDate": "2026-07-19T07:00:00Z",
       "userRatingCount": 24,
       "country": "CHN"
     }

@@ -2,7 +2,7 @@
   "id": "1064216828",
   "name": "Reddit",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:06:01.245Z",
+  "fetchedAt": "2026-10-19T08:15:04.412Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
@@ -18,14 +18,14 @@
           "amount": 1.99
         },
         {
-          "name": "Reddit Gold",
-          "price": "£5.99",
-          "amount": 5.99
-        },
-        {
           "name": "Collectible Avatar - Tier 499",
           "price": "£4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Reddit Gold",
+          "price": "£5.99",
+          "amount": 5.99
         },
         {
           "name": "Reddit Annual Premium",
@@ -48,17 +48,17 @@
           "amount": 9.99
         },
         {
-          "name": "Reddit Gold",
+          "name": "Collectible Avatar - Tier 999",
           "price": "£9.99",
           "amount": 9.99
         },
         {
-          "name": "Collectible Avatar - Tier 999",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "Collectible Avatar - Tier 499",
+          "price": "£4.99",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:06:00.046Z"
+      "fetchedAt": "2026-10-19T08:15:02.941Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:06:01.242Z"
+      "fetchedAt": "2026-10-19T08:15:04.405Z"
     }
   }
 }

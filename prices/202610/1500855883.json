@@ -2,7 +2,7 @@
   "id": "1500855883",
   "name": "CapCut - 動画編集アプリ",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:54:54.301Z",
+  "fetchedAt": "2026-10-19T08:03:36.501Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:48.703Z"
+      "fetchedAt": "2026-10-19T08:03:31.293Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 23.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:50.047Z"
+      "fetchedAt": "2026-10-19T08:03:32.628Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:51.603Z"
+      "fetchedAt": "2026-10-19T08:03:34.216Z"
     },
     "jp": {
       "currency": "JPY",
@@ -226,7 +226,7 @@
           "amount": 1080
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:52.567Z"
+      "fetchedAt": "2026-10-19T08:03:35.102Z"
     },
     "us": {
       "currency": "USD",
@@ -262,14 +262,14 @@
           "amount": 9.99
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "$9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Yearly Subscription",
           "price": "$89.99",
           "amount": 89.99
+        },
+        {
+          "name": "Standard Monthly Subscription",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
           "name": "Monthly Subscription",
@@ -282,7 +282,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:54.296Z"
+      "fetchedAt": "2026-10-19T08:03:36.501Z"
     }
   }
 }

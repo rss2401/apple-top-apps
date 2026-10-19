@@ -204,6 +204,13 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,11 +343,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
-      ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/weissfly-ug-haftungsbeschrankt/id1615223295?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d1/a5/00d1a5e8-7e95-9e67-c56f-f6c170e2bfdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d1/a5/00d1a5e8-7e95-9e67-c56f-f6c170e2bfdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f6/c1/6d/f6c16de1-daf4-f413-1741-8e515cc915eb/327d1cbd-7cfe-4a04-a223-203e3ad89628_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-04_at_23.45.29.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/6d/37/1d6d376f-de8b-d354-43b1-6f3c385ae0c1/702844fa-32d2-453d-8728-7d6946364492_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2023-01-04_at_23.51.16.png/392x696bb.png",
@@ -358,53 +364,47 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3a/df/a4/3adfa4c6-4749-646d-2393-e3258f526407/fa1726ab-df73-4323-b69f-1d6c1ec32148_simulator_screenshot_1D8527AF-0BDB-4477-9CD6-EF4251C4D801.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d1/a5/00d1a5e8-7e95-9e67-c56f-f6c170e2bfdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d1/a5/00d1a5e8-7e95-9e67-c56f-f6c170e2bfdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/d1/a5/00d1a5e8-7e95-9e67-c56f-f6c170e2bfdb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/weissfly-ug-haftungsbeschrankt/id1615223295?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
       "releaseNotes": "- Neuer wandernder Stempelkasten 2026-04: Pferdebahn, Riestedt (16.10. bis 15.12.2026).",
+      "artistId": 1615223295,
+      "artistName": "weissfly UG (haftungsbeschrankt)",
       "genres": [
         "Reisen",
         "Gesundheit und Fitness"
       ],
       "price": 5.99,
-      "releaseDate": "2022-09-05T07:00:00Z",
-      "trackId": 1620616675,
-      "trackName": "Harzer Wandernadel Community",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.hwn.community",
       "genreIds": [
         "6003",
         "6013"
       ],
+      "releaseDate": "2022-09-05T07:00:00Z",
+      "trackId": 1620616675,
+      "trackName": "Harzer Wandernadel Community",
+      "sellerName": "weissfly UG",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "sellerName": "weissfly UG",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-17T00:28:09Z",
       "version": "1.17.643",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Alle Stempelhefte der Harzer Wandernadel in einer App: Stempelstellen finden, vor Ort per GPS stempeln, Stempel aus dem Papierheft nachtragen und sehen, was dir bis zur nächsten Wandernadel fehlt.\n\nPARTNER DER HARZER WANDERNADEL\nDeine GPS-Stempel aus dieser App werden zum Nachstempeln ins Papierheft anerkannt, falls das Stempeln vor Ort einmal nicht möglich ist. Für die Leistungsabzeichen brauchst du weiterhin dein Papierheft. Mit dem Kauf der App hilfst du mit: Ein Teil des Kaufpreises fließt als Lizenzgebühr an die Harzer Wandernadel und trägt zur Instandhaltung des analogen Stempelsystems bei.\n\nAUTOMATISCH STEMPELN\nAuf Wunsch stempelt die App für dich, sobald du eine Stempelstelle erreichst. Dein Handy kann dabei in der Tasche bleiben. Dafür braucht die App deinen Standort „Immer“, also auch im Hintergrund. Du kannst die Automatik jederzeit ausschalten.\n\nDEINE STEMPEL UND HEFTE\n• Vor Ort per GPS stempeln\n• Stempel aus deinem Papierheft nachtragen\n• Mehrere Wanderpässe und Themenhefte parallel führen\n• Deinen Fortschritt je Heft und auf dem Weg zu den Leistungsabzeichen verfolgen\n\nDEINE NÄCHSTEN STEMPELZIELE FINDEN\n• Alle Stempelstellen aus Wanderpass, Sonderstempeln, wandernden Stempelkästen und Themenheften wie Harzer Hexenstieg, Burgen und Schlösser, Talsperren, Goethe oder Nationalpark Harz, uvm.\n• Beschreibungen, Bilder, Koordinaten und Parkhinweise zu den Stempelstellen\n• Suche nach HWN-Nummer, Name oder Ort, dazu Stempelstellen in deiner Nähe\n• Die Karte zeigt auf einen Blick, was du schon hast und was noch fehlt\n• Anfahrt mit einem Tipp an deine Navi-App übergeben\n\nGEMEINSAM UNTERWEGS\n• Weghinweise aus der Community: umgestürzte Bäume, Sperrungen und andere Hindernisse sehen und melden\n• Entwarnung geben, wenn ein Hindernis beseitigt ist\n• Defekte Stempelkästen mit Foto direkt an die Harzer Wandernadel melden\n\nMIT PRO (optionales Abo)\nOffline-Karte des Harzes, Routenplaner, Parkplatzsammlung und Erlebnisgeschichten. Stempeln, Hefte, Fortschritt und Automatik funktionieren ohne Abo.\n\nDEINE DATEN\n• Deine Stempeldaten als Datei sichern und auf dem neuen Handy wieder einspielen\n• Abstempelungen aus der früheren App der Harzer Wandernadel übernehmen\n\nIn Abstimmung mit der Harzer Wandernadel laufend gepflegt: Neue Stempelstellen, versetzte Kästen und Sonderstempel kommen per Update.\n\nNutzungsbedingungen:\nhttps://www.iubenda.com/nutzungsbedingungen/80444859\n\nDatenschutz:\nhttps://www.iubenda.com/privacy-policy/80444859",
-      "minimumOsVersion": "15.1",
-      "bundleId": "com.hwn.community",
-      "averageUserRating": 4.48175,
+      "averageUserRating": 4.5034,
       "trackCensoredName": "Harzer Wandernadel Community",
+      "trackViewUrl": "https://apps.apple.com/de/app/harzer-wandernadel-community/id1620616675?uo=4",
+      "contentAdvisoryRating": "12+",
+      "sellerUrl": "https://harzer-wandernadel-community.web.app",
+      "userRatingCountForCurrentVersion": 147,
+      "minimumOsVersion": "15.1",
       "languageCodesISO2A": [
         "DE"
       ],
       "fileSizeBytes": "159750144",
       "formattedPrice": "5,99 €",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 137,
-      "trackViewUrl": "https://apps.apple.com/de/app/harzer-wandernadel-community/id1620616675?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.48175,
-      "sellerUrl": "https://harzer-wandernadel-community.web.app",
-      "artistId": 1615223295,
-      "artistName": "weissfly UG (haftungsbeschrankt)",
-      "userRatingCount": 137,
+      "averageUserRatingForCurrentVersion": 4.5034,
+      "userRatingCount": 147,
       "country": "DEU"
     }
   ]

@@ -202,6 +202,7 @@
       "artistViewUrl": "https://apps.apple.com/cn/developer/moonshot-ai/id1721116051?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/97/5b/95975b80-1aba-5202-7e4f-b0f7297f0c20/iOS-6.5-1242x2688-0_U9996_U9875.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/de/8c/c6/de8cc62f-4998-46c7-cd03-9b7165c79a71/iOS-6.5-1242x2688-1.png/320x480bb.jpg",
@@ -222,12 +223,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,12 +355,21 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "15.0",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "Kimi",
       "trackViewUrl": "https://apps.apple.com/cn/app/kimi/id6474233312?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.89584,
-      "averageUserRatingForCurrentVersion": 4.89584,
+      "averageUserRating": 4.89571,
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 4.89571,
+      "fileSizeBytes": "148670464",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 194898,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -384,40 +388,42 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "148670464",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 194882,
-      "trackContentRating": "4+",
+      "artistId": 1721116051,
+      "artistName": "Moonshot AI",
       "genres": [
         "效率",
         "工具"
       ],
       "price": 0,
-      "trackId": 6474233312,
-      "trackName": "Kimi",
-      "artistId": 1721116051,
-      "artistName": "Moonshot AI",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "现在，这个立体完成了。\n\n- 修复了一些bug，优化了一些交互",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6474233312,
+      "trackName": "Kimi",
+      "releaseDate": "2024-01-12T08:00:00Z",
+      "currentVersionReleaseDate": "2026-10-14T17:01:38Z",
       "version": "3.1.4",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "# Kimi 能帮你做什么？\n- K3模型：总参数2.8T，支持百万上下文，具备领先的编程、Agent、长程推理、视觉理解和 Agent 集群能力。\n- PPT：支持直接上传视觉参考，Kimi 即可定制你需要的视觉风格。一键生成排版专业、高度个性化的PPT。\n- 游戏生成：输入一句话，就能生成3A级多人3D游戏。能自主开发世界观、角色、关卡与战斗系统，反复试玩、迭代打磨，光影与打击感全面在线。\n- Agent 集群：无论是海量文献综述、全网深度调研，还是超长行业研报撰写，它都能根据任务需求，现场调度多达 300 个分身，并行处理 4000 个步骤，将原本耗时的工作压缩至分钟级交付，实现 10 倍以上的效率提升。\n- 插件：接入万得、同花顺、标普等权威插件，专业数据随调随用，分析结果更可信。\n- Claw龙虾群聊：现在你可以直接给龙虾们拉个群聊了，还可以邀请你的真人朋友们在群内实时交互与并行协作。真实还原一人公司的协同工作流，让复杂项目的交付效率再次实现跃升。\n- 多端同步：手机、电脑、网页无缝衔接，对话、文件与工作进度实时同步。\n- Office办公：不仅支持 PPT、Word、Excel 与 PDF 的无损互转，更具备人类专家级处理能力：自动编写 Excel 复杂公式与图表，能够胜任Word/PDF 的专业排版与批注。 \n- 视觉编程： 支持上传设计稿、手绘图甚至操作录屏，K3 能精准识别视觉细节，自动生成结构清晰、可维护的专业代码。从复杂的交互布局到细腻的滚动动效，均可像素级还原\n- 深度搜索：高效搜索并整合全网信息，并提供精准信息来源\n- 专业解读文件：可一次性处理多个文档，快速摘要、翻译、答疑。\n- 整理资料：智能整理发票、会议记录等杂乱资料，自动提取关键信息，一目了然。\n拍照答疑：拍照上传数理化难题或手稿，即使照片模糊、角度刁钻，也能迅速搞定。\n\n\n用户协议:\nhttps://kimi.moonshot.cn/user/agreement/modeluse?version=v2\n\nKimi 隐私政策:\nhttps://kimi.moonshot.cn/user/agreement/userprivacy?version=v2",
       "bundleId": "com.moonshot.kimichat",
-      "currentVersionReleaseDate": "2026-10-14T17:01:38Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
       "sellerName": "Beijing Moonshot Technology Co., Ltd",
-      "releaseNotes": "现在，这个立体完成了。\n\n- 修复了一些bug，优化了一些交互",
-      "releaseDate": "2024-01-12T08:00:00Z",
-      "userRatingCount": 194882,
+      "userRatingCount": 194898,
       "country": "CHN"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/moonshot-ai/id1721116051?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -549,9 +555,6 @@
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
-      ],
-      "features": [
-        "iosUniversal"
       ],
       "advisories": [],
       "kind": "software",
@@ -574,35 +577,37 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/87/c6/7a87c6e0-6b81-8c08-666f-61278d4a7a7c/_U82f1_U6587-iOS-12.9-2048x2732-6.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/a3/4a/a6a34a69-0bd9-e7f0-3513-1f65d6bd5cbc/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/moonshot-ai/id1721116051?uo=4",
-      "releaseNotes": "Now the Solid is complete.\n\n- Bug fixes and performance improvements.",
+      "averageUserRating": 4.74306,
+      "trackCensoredName": "Kimi - Kimi K3 is Live",
+      "trackViewUrl": "https://apps.apple.com/us/app/kimi-kimi-k3-is-live/id6474233312?uo=4",
+      "contentAdvisoryRating": "4+",
       "minimumOsVersion": "15.0",
-      "artistId": 1721116051,
-      "artistName": "Moonshot AI",
+      "price": 0,
       "genres": [
         "Productivity",
         "Utilities"
       ],
-      "price": 0,
+      "artistId": 1721116051,
+      "artistName": "Moonshot AI",
       "releaseDate": "2024-02-04T08:00:00Z",
-      "sellerName": "Beijing Moonshot Technology Co., Ltd",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "trackId": 6474233312,
+      "trackName": "Kimi - Kimi K3 is Live",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Beijing Moonshot Technology Co., Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-14T17:01:38Z",
+      "releaseNotes": "Now the Solid is complete.\n\n- Bug fixes and performance improvements.",
       "version": "3.1.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "# Key Features:\n- Kimi K3: 2.8T parameters. 1M context. It leads the field in coding, agentic tasks, long-horizon reasoning, visual understanding, and agent swarm capabilities.\n- Visual Agentic Slides: Upload your visual references, and Kimi will customize the exact visual style you need. Generate professionally formatted, highly personalized presentations with just one click.\n- Game Generation: One prompt in, an AAA multiplayer 3D game out. It can build the world, characters, levels, and combat on its own — playtesting and polishing until the visuals stun and every hit lands.\n- Agent Swarm: Whether it's massive literature reviews, wide research, or ultra-long industry report writing, it can dynamically deploy up to 300 sub-agents to execute 4000 steps, compressing work that once took hours into minute-level delivery, achieving over 10x efficiency gains.\n- Plugins: Connect to authoritative data sources like Wind and S&P. Professional data at your fingertips, for trustworthy analysis.\n- Multi-Claw Group Chat: You can now pull the Claws into a group chat and invite human friends for real-time interaction and parallel collaboration. \n- Sync Across Devices: Seamlessly switch between phone, computer, and web. Your conversations stay in sync in real time.\n- Office Agent: Kimi Agent is now with Office Pilot. It not only supports lossless swaps across PPT, Word, Excel, and PDF, but also delivers human-expert level processing. \n- Vibe Coding: Deliver a production-ready website with cinematic visuals in just one prompt. \n- Intelligent Vision: Analyze images and photos, making sense of visual data and providing instant feedback.\n\n\nUser Agreement:\nhttps://kimi.moonshot.cn/user/agreement/modeluse?version=v2\n\nKimi Privacy Policy:\nhttps://kimi.moonshot.cn/user/agreement/userprivacy?version=v2",
-      "averageUserRating": 4.74372,
-      "trackCensoredName": "Kimi - Kimi K3 is Live",
+      "averageUserRatingForCurrentVersion": 4.74306,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -623,15 +628,10 @@
       ],
       "fileSizeBytes": "148670464",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 5295,
-      "trackViewUrl": "https://apps.apple.com/us/app/kimi-kimi-k3-is-live/id6474233312?uo=4",
+      "userRatingCountForCurrentVersion": 5297,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.74372,
       "bundleId": "com.moonshot.kimichat",
-      "trackId": 6474233312,
-      "trackName": "Kimi - Kimi K3 is Live",
-      "userRatingCount": 5295,
+      "userRatingCount": 5297,
       "country": "USA"
     }
   ]

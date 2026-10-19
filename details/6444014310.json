@@ -218,7 +218,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d3/39/bcd33904-52d2-33c9-b47b-17b5cf404211/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -351,15 +355,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d3/39/bcd33904-52d2-33c9-b47b-17b5cf404211/AppIcon-0-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/d3/39/bcd33904-52d2-33c9-b47b-17b5cf404211/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "16.4",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -367,20 +366,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 10,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.8,
       "sellerUrl": "https://go.microsoft.com/fwlink/?linkid=2195553",
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "16.4",
+      "averageUserRatingForCurrentVersion": 4.8,
+      "currentVersionReleaseDate": "2026-10-12T16:24:31Z",
+      "price": 0,
       "trackName": "Microsoft Warehouse Management",
       "trackId": 6444014310,
-      "releaseNotes": "Release notes: version 4.2.0.0\nHighlights\nMedia capture\nWorkers can take photos and videos and attach them to records. For example, a worker who finds damaged goods during receiving can photograph the damage and attach it to the license plate or item, so the damage is on record. The app automatically makes files smaller before upload, so uploads are fast and reliable.\n\nNote: This feature is included in this version of the app, and you can try it now in demo mode. To use it with your own data, you need server version 10.0.50.0 or later.\n\nEasier connection setup\nA step-by-step setup that asks one question at a time replaces the long connection form. It includes help text and shows only the options that apply. The previous form is still available.\n\nSign in with a QR code\nFrontline workers can sign in by scanning their badge and entering a PIN, instead of typing a username and password. On shared devices, each worker always signs in with their own account.\n\nMore control for administrators\nWith your device management tool, you can now:\n\nGive each device a name so it's easier to identify (DeviceName).\nPrevent users from changing the app settings (LockClientSettings) or the connection settings (LockConnectionSettings).\nThe app also checks for policy updates less often, which saves battery.\n\nFixed issues\nSwitching environments: Users can now switch between environments that use different accounts. Signing out of one connection no longer signs the user out of the others.\nMissing information on menu items: Fixed empty cards when all the fields on a card were hidden.\nPopup messages: When a worker chooses not to see a step instruction again, it now stays hidden.\nWorker sign-in: Tapping the sign-in button several times no longer causes a \"session busy\" error.\nReconnect loop: When a session expires, Reconnect now asks the user to sign in again instead of retrying without end.\nConnection list: Long connection lists now have a search field.\nScanner camera: The scanner camera image is no longer mirrored. Workers can also change this setting on each device.\nPanels during loading: Panels that slide over the screen now close when a new page starts loading.\nPhysical numeric keypad: Quantities typed on a physical numeric keypad now appear correctly.\nSuggested quantity: Suggested quantities above 20 now appear when the quantity spinner is set to automatic.",
       "releaseDate": "2023-04-20T07:00:00Z",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
-      "currentVersionReleaseDate": "2026-10-12T16:24:31Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "4.2.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -390,14 +391,13 @@
       "trackCensoredName": "Microsoft Warehouse Management",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-warehouse-management/id6444014310?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Release notes: version 4.2.0.0\nHighlights\nMedia capture\nWorkers can take photos and videos and attach them to records. For example, a worker who finds damaged goods during receiving can photograph the damage and attach it to the license plate or item, so the damage is on record. The app automatically makes files smaller before upload, so uploads are fast and reliable.\n\nNote: This feature is included in this version of the app, and you can try it now in demo mode. To use it with your own data, you need server version 10.0.50.0 or later.\n\nEasier connection setup\nA step-by-step setup that asks one question at a time replaces the long connection form. It includes help text and shows only the options that apply. The previous form is still available.\n\nSign in with a QR code\nFrontline workers can sign in by scanning their badge and entering a PIN, instead of typing a username and password. On shared devices, each worker always signs in with their own account.\n\nMore control for administrators\nWith your device management tool, you can now:\n\nGive each device a name so it's easier to identify (DeviceName).\nPrevent users from changing the app settings (LockClientSettings) or the connection settings (LockConnectionSettings).\nThe app also checks for policy updates less often, which saves battery.\n\nFixed issues\nSwitching environments: Users can now switch between environments that use different accounts. Signing out of one connection no longer signs the user out of the others.\nMissing information on menu items: Fixed empty cards when all the fields on a card were hidden.\nPopup messages: When a worker chooses not to see a step instruction again, it now stays hidden.\nWorker sign-in: Tapping the sign-in button several times no longer causes a \"session busy\" error.\nReconnect loop: When a session expires, Reconnect now asks the user to sign in again instead of retrying without end.\nConnection list: Long connection lists now have a search field.\nScanner camera: The scanner camera image is no longer mirrored. Workers can also change this setting on each device.\nPanels during loading: Panels that slide over the screen now close when a new page starts loading.\nPhysical numeric keypad: Quantities typed on a physical numeric keypad now appear correctly.\nSuggested quantity: Suggested quantities above 20 now appear when the quantity spinner is set to automatic.",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
       "userRatingCount": 10,
       "country": "USA"
     }

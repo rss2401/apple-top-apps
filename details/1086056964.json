@@ -2,15 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/sainsburys/id976550044?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/b9/b7/ebb9b780-1171-dec4-27f7-e0216b0590af/1iOS_1290_x_2796.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/b1/b0/94b1b05d-69b1-4e60-80ed-fc0f7072c633/2iOS_1290_x_2796.jpg/320x480bb.jpg",
@@ -31,6 +22,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/gb/developer/sainsburys/id976550044?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/8a/61/828a61d7-ddeb-4a78-2b6c-fda2068088a2/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,46 +161,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRating": 4.71835,
-      "trackCensoredName": "Sainsbury's",
-      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "We've made a few behind the scenes improvements to keep your shopping experience smooth and reliable. This update includes general bug fixes and performance enhancements to help you get your groceries faster and easier.\n\nWe'd love to hear your feedback as we continue to improve. \n\nThanks for shopping with us!",
-      "artistId": 976550044,
-      "artistName": "Sainsbury's",
-      "bundleId": "uk.co.sainsburys.groceries",
-      "releaseDate": "2016-05-12T09:23:17Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Sainsburys Supermarkets Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6024",
-        "6012"
-      ],
-      "currentVersionReleaseDate": "2026-10-14T16:53:53Z",
-      "version": "4.2.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Save time. Save money. Shop your way. \n \nThe Sainsbury’s app brings together everything you need to shop with Sainsbury’s, whether you’re planning your weekly shop, shopping in-store, collecting Nectar rewards or getting groceries delivered fast. \n \nWith the Sainsbury’s app you can: \n \n• Shop groceries online and book delivery or Click & Collect slots \n• Unlock personalised offers, Nectar Prices and rewards \n• Use SmartShop to scan as you shop and stay in control of your spend \n• Create shopping lists and save favourites for quicker repeat shops \n• Get groceries delivered in as little as 60 minutes with Chop Chop \n• Find products and locate them in selected stores with Search Your Store \n \nOne app. Multiple ways to shop.",
-      "averageUserRatingForCurrentVersion": 4.71835,
-      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
+      "advisories": [],
+      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.71834,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "115554304",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 229511,
+      "userRatingCountForCurrentVersion": 229603,
       "trackContentRating": "4+",
-      "minimumOsVersion": "15.6",
-      "trackName": "Sainsbury's",
-      "trackId": 1086056964,
+      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.71834,
+      "trackCensoredName": "Sainsbury's",
+      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
+      "artistId": 976550044,
+      "artistName": "Sainsbury's",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
       "price": 0,
-      "userRatingCount": 229511,
+      "bundleId": "uk.co.sainsburys.groceries",
+      "trackName": "Sainsbury's",
+      "trackId": 1086056964,
+      "releaseDate": "2016-05-12T09:23:17Z",
+      "genreIds": [
+        "6024",
+        "6012"
+      ],
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "sellerName": "Sainsburys Supermarkets Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-14T16:53:53Z",
+      "releaseNotes": "We've made a few behind the scenes improvements to keep your shopping experience smooth and reliable. This update includes general bug fixes and performance enhancements to help you get your groceries faster and easier.\n\nWe'd love to hear your feedback as we continue to improve. \n\nThanks for shopping with us!",
+      "version": "4.2.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Save time. Save money. Shop your way. \n \nThe Sainsbury’s app brings together everything you need to shop with Sainsbury’s, whether you’re planning your weekly shop, shopping in-store, collecting Nectar rewards or getting groceries delivered fast. \n \nWith the Sainsbury’s app you can: \n \n• Shop groceries online and book delivery or Click & Collect slots \n• Unlock personalised offers, Nectar Prices and rewards \n• Use SmartShop to scan as you shop and stay in control of your spend \n• Create shopping lists and save favourites for quicker repeat shops \n• Get groceries delivered in as little as 60 minutes with Chop Chop \n• Find products and locate them in selected stores with Search Your Store \n \nOne app. Multiple ways to shop.",
+      "minimumOsVersion": "15.6",
+      "userRatingCount": 229603,
       "country": "GBR"
     }
   ]

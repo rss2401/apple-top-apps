@@ -2,22 +2,27 @@
   "id": "335709058",
   "name": "Stylebook",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:01:43.529Z",
+  "fetchedAt": "2026-10-19T08:10:49.823Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:10:45.233Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-18T14:01:40.579Z"
+      "fetchedAt": "2026-10-19T08:10:46.929Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-18T14:01:42.031Z"
+      "fetchedAt": "2026-10-19T08:10:48.221Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-18T14:01:43.523Z"
+      "fetchedAt": "2026-10-19T08:10:49.822Z"
     }
   }
 }

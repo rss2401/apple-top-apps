@@ -2,7 +2,7 @@
   "id": "1636235979",
   "name": "ReelShort - Stream Drama & TV",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:09:40.323Z",
+  "fetchedAt": "2026-10-19T08:18:49.156Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -18,14 +18,14 @@
           "amount": 22.99
         },
         {
-          "name": "Subscription",
-          "price": "17,99 €",
-          "amount": 17.99
-        },
-        {
           "name": "One-time Purchase",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "Subscription",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "One-time Purchase",
@@ -58,7 +58,7 @@
           "amount": 8.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:36.134Z"
+      "fetchedAt": "2026-10-19T08:18:45.077Z"
     },
     "gb": {
       "currency": "GBP",
@@ -99,14 +99,14 @@
           "amount": 19.99
         },
         {
-          "name": "Subscription",
-          "price": "£14.99",
-          "amount": 14.99
-        },
-        {
           "name": "One-time Purchase",
           "price": "£0.99",
           "amount": 0.99
+        },
+        {
+          "name": "Subscription",
+          "price": "£14.99",
+          "amount": 14.99
         },
         {
           "name": "One-time Purchase",
@@ -114,7 +114,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:37.621Z"
+      "fetchedAt": "2026-10-19T08:18:46.629Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +170,7 @@
           "amount": 2500
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:39.159Z"
+      "fetchedAt": "2026-10-19T08:18:47.976Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:40.320Z"
+      "fetchedAt": "2026-10-19T08:18:49.153Z"
     }
   }
 }

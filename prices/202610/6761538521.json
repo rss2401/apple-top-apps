@@ -2,7 +2,7 @@
   "id": "6761538521",
   "name": "StoryReel: Exclusive Drama",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:10:58.593Z",
+  "fetchedAt": "2026-10-19T08:20:07.510Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -19,13 +19,13 @@
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "22,99 €",
-          "amount": 22.99
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "17,99 €",
-          "amount": 17.99
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "Weekly Pass Pro",
@@ -48,17 +48,17 @@
           "amount": 22.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "29,99 €",
-          "amount": 29.99
-        },
-        {
           "name": "Weekly Pass Pro",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "29,99 €",
+          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:10:54.068Z"
+      "fetchedAt": "2026-10-19T08:20:04.458Z"
     },
     "fr": {
       "currency": "EUR",
@@ -145,14 +145,14 @@
           "amount": 14.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "£19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Weekly Pass Pro",
           "price": "£14.99",
           "amount": 14.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "£19.99",
+          "amount": 19.99
         },
         {
           "name": "Weekly Pass Pro",
@@ -170,7 +170,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:10:57.043Z"
+      "fetchedAt": "2026-10-19T08:20:05.923Z"
     },
     "us": {
       "currency": "USD",
@@ -202,13 +202,13 @@
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "$24.99",
-          "amount": 24.99
+          "price": "$14.99",
+          "amount": 14.99
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "$14.99",
-          "amount": 14.99
+          "price": "$24.99",
+          "amount": 24.99
         },
         {
           "name": "Weekly Pass Pro",
@@ -226,7 +226,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:10:58.586Z"
+      "fetchedAt": "2026-10-19T08:20:07.509Z"
     }
   }
 }

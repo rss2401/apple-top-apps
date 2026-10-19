@@ -2,17 +2,27 @@
   "id": "309735670",
   "name": "Indeed Job Search",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:58:35.953Z",
+  "fetchedAt": "2026-10-19T08:07:43.884Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:07:38.017Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-18T13:58:32.891Z"
+      "fetchedAt": "2026-10-19T08:07:39.463Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-18T13:58:34.497Z"
+      "fetchedAt": "2026-10-19T08:07:41.090Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:07:42.551Z"
     },
     "us": {
       "currency": "USD",
@@ -23,7 +33,7 @@
           "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:58:35.952Z"
+      "fetchedAt": "2026-10-19T08:07:43.883Z"
     }
   }
 }

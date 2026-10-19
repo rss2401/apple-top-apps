@@ -2,8 +2,64 @@
   "id": "284942719",
   "name": "Universalis",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:11:45.039Z",
+  "fetchedAt": "2026-10-19T08:20:52.462Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "All Hours",
+          "price": "3,49 €",
+          "amount": 3.49
+        },
+        {
+          "name": "Daily Mass Readings",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Daytime Hours",
+          "price": "3,49 €",
+          "amount": 3.49
+        },
+        {
+          "name": "All Hours",
+          "price": "31,99 €",
+          "amount": 31.99
+        },
+        {
+          "name": "Daily Mass Readings",
+          "price": "21,49 €",
+          "amount": 21.49
+        },
+        {
+          "name": "Sung Latin Compline",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Add-on translation: RSV Hours",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Danish Mass Readings",
+          "price": "24,99 €",
+          "amount": 24.99
+        },
+        {
+          "name": "Journey into Light",
+          "price": "6,99 €",
+          "amount": 6.99
+        },
+        {
+          "name": "Revelations of Divine Love",
+          "price": "6,99 €",
+          "amount": 6.99
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:20:50.792Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:11:45.033Z"
+      "fetchedAt": "2026-10-19T08:20:52.462Z"
     }
   }
 }

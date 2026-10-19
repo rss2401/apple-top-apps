@@ -234,7 +234,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fc/a6/7efca6a8-70d1-6b39-7443-2010382da196/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -367,15 +371,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fc/a6/7efca6a8-70d1-6b39-7443-2010382da196/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/fc/a6/7efca6a8-70d1-6b39-7443-2010382da196/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "16.0",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -389,19 +388,21 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 5836,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.64649,
       "sellerUrl": "https://marketingsites-prod.microsoft.com/en-us/business/manage-office-365-admin-app?preview=inprogress&changesetid=RWusGF&item=canonicalhostnameoverride:products.office.com&variationChoices=*:default",
-      "genres": [
-        "Productivity"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "16.0",
+      "averageUserRatingForCurrentVersion": 4.64649,
+      "currentVersionReleaseDate": "2026-09-09T09:25:23Z",
+      "price": 0,
       "trackName": "Microsoft 365 Admin",
       "trackId": 761397963,
-      "releaseNotes": "Bug fixes for a more reliable experience.",
       "releaseDate": "2013-12-12T17:30:12Z",
+      "genreIds": [
+        "6007"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "currentVersionReleaseDate": "2026-09-09T09:25:23Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "6.1.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -411,13 +412,12 @@
       "trackCensoredName": "Microsoft 365 Admin",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-365-admin/id761397963?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Bug fixes for a more reliable experience.",
+      "genres": [
+        "Productivity"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6007"
-      ],
       "userRatingCount": 5836,
       "country": "USA"
     }

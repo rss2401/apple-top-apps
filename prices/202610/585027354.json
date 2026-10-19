@@ -2,7 +2,7 @@
   "id": "585027354",
   "name": "Google マップ",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:54:34.806Z",
+  "fetchedAt": "2026-10-19T08:03:14.189Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:28.703Z"
+      "fetchedAt": "2026-10-19T08:03:08.364Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:30.212Z"
+      "fetchedAt": "2026-10-19T08:03:09.828Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:31.718Z"
+      "fetchedAt": "2026-10-19T08:03:11.287Z"
     },
     "jp": {
       "currency": "JPY",
@@ -211,14 +211,14 @@
           "amount": 440
         },
         {
-          "name": "200 GB",
-          "price": "¥440",
-          "amount": 440
-        },
-        {
           "name": "100 GB",
           "price": "¥2,900",
           "amount": 2900
+        },
+        {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
         },
         {
           "name": "30 GB",
@@ -226,7 +226,7 @@
           "amount": 130
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:33.485Z"
+      "fetchedAt": "2026-10-19T08:03:12.795Z"
     },
     "us": {
       "currency": "USD",
@@ -277,12 +277,12 @@
           "amount": 2.99
         },
         {
-          "name": "100 GB",
-          "price": "$19.99",
-          "amount": 19.99
+          "name": "Google AI Plus (2 TB)",
+          "price": "$9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:54:34.806Z"
+      "fetchedAt": "2026-10-19T08:03:14.188Z"
     }
   }
 }

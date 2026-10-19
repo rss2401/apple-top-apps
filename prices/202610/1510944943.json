@@ -2,7 +2,7 @@
   "id": "1510944943",
   "name": "Cleanup: Nettoyeur de stockage",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:15:10.932Z",
+  "fetchedAt": "2026-10-19T08:23:58.851Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -53,12 +53,12 @@
           "amount": 24.99
         },
         {
-          "name": "Cleanup Pro 1 semaine",
-          "price": "12,99 €",
-          "amount": 12.99
+          "name": "Cleanup Pro à vie",
+          "price": "34,99 €",
+          "amount": 34.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:15:09.445Z"
+      "fetchedAt": "2026-10-19T08:23:57.418Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:15:10.931Z"
+      "fetchedAt": "2026-10-19T08:23:58.851Z"
     }
   }
 }

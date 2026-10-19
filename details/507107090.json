@@ -137,9 +137,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/da/99/4bda991e-02c0-1c17-1ed1-6b86939d47e2/Apple_App_Store-6.9-Screenshot01-FR.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/92/f9/8c92f9d5-64d2-536a-5fe5-d7f1fea496be/Apple_App_Store-6.9-Screenshot02-FR.png/320x480bb.jpg",
@@ -164,15 +161,17 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/ratp-smart-systems/id456989491?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/23/4a/77234a5b-30ea-e060-f43e-885c76d01b85/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/23/4a/77234a5b-30ea-e060-f43e-885c76d01b85/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "minimumOsVersion": "17.6",
       "genres": [
         "Navigation",
         "Voyages"
       ],
+      "artistId": 456989491,
+      "artistName": "RATP Smart Systems",
       "price": 0,
-      "bundleId": "com.ratp.ratp",
-      "trackName": "Bonjour RATP",
-      "trackId": 507107090,
       "releaseDate": "2012-05-15T04:35:18Z",
       "genreIds": [
         "6010",
@@ -188,8 +187,6 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Bonjour RATP, l’application n°1 sur les transports en commun en Île-de-France.\n\nPlanifiez vos trajets, vérifiez le trafic en temps réel, achetez vos titres et découvrez toutes les alternatives de mobilité autour de vous - métro, RER, bus, tram, Transilien et vélos en libre-service.\n\nVos itinéraires sur tous les réseaux.\nMétro, RER, bus, tramway, trains Transilien SNCF, Optile… Où que vous soyez, Bonjour RATP trouve le meilleur trajet pour vous déplacer dans toute la région.\n\nDes trajets qui s’adaptent à vous. \nPersonnalisez votre recherche en fonction de vos préférences :\n- Évitez certaines lignes ou stations\n- Privilégiez vos modes préférés (métro, RER, Transilien, Bus…)\n- Réduisez les correspondances ou favorisez les trajets accessibles.\nParce que chaque Francilien a sa façon de voyager.\n\nTrafic en temps réel et alertes personnalisées.\nConsultez l’état du réseau en un coup d’œil et recevez des alertes en temps réel en cas de perturbation sur vos lignes favorites en Île-de-France.\n\nTous vos titres dans la poche. \nFini les files d’attente ! Achetez les titres suivants dans l’application et retrouvez-les directement dans votre iPhone ou sur votre passe Navigo :\n- Navigo Mois\n- Navigo Semaine\n- Navigo jour\n- Tickets Métro-Train-RER\n- Tickets Bus-Tram\n- Tickets Paris Région Aéroports\n- Titres spéciaux (Fête de la musique, Forfait antipollution...)\n- Forfait Paris Visite\n\nToujours à l’heure.\nConsultez les horaires des prochains passages en temps réel sur toutes vos lignes. Ne ratez plus jamais votre métro, votre RER ou votre Transilien. Un incident sur vos lignes ? Grâce aux alertes vous serez immédiatement informé et l’application vous proposera une alternative.\n\nParlez et partez ! (Beta)\nDites simplement où vous allez, et Bonjour RATP s’occupe du reste. La recherche vocale rend vos déplacements encore plus simples.\n\nLa mobilité douce intégrée\nEnvie de pédaler ? Trouvez et réservez un vélo Vélib’, Lime, Dott et Voi en quelques secondes pour des trajets rapides.\n\nPourquoi choisir Bonjour RATP ?\n- Couverture complète sur toute l’Île-de-France\n- Itinéraires personnalisables selon vos préférences et vos habitudes\n- Trafic et alertes en temps réel\n- Tous les titres et forfaits directement dans l’application\n- Tous les vélos en libre-service disponibles\n- Interface fluide, claire et intuitive\n\nPour plus d'informations sur nos services, n'hésitez pas à nous contacter par email à clients@bonjour-ratp.fr\n\nSource application n°1 sur les transports en commun : Classement Mediametrie // NetRatings Avril 2026.",
-      "formattedPrice": "Gratuit",
-      "fileSizeBytes": "206342144",
       "sellerUrl": "https://www.bonjour-ratp.fr",
       "languageCodesISO2A": [
         "NL",
@@ -200,16 +197,19 @@
         "PT",
         "ES"
       ],
-      "userRatingCountForCurrentVersion": 60743,
+      "fileSizeBytes": "206342144",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 60758,
       "trackContentRating": "4+",
-      "averageUserRating": 4.70069,
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.70069,
+      "averageUserRatingForCurrentVersion": 4.70063,
+      "averageUserRating": 4.70063,
+      "bundleId": "com.ratp.ratp",
       "trackCensoredName": "Bonjour RATP",
       "trackViewUrl": "https://apps.apple.com/fr/app/bonjour-ratp/id507107090?uo=4",
-      "artistId": 456989491,
-      "artistName": "RATP Smart Systems",
-      "userRatingCount": 60743,
+      "contentAdvisoryRating": "4+",
+      "trackId": 507107090,
+      "trackName": "Bonjour RATP",
+      "userRatingCount": 60758,
       "country": "FRA"
     }
   ]

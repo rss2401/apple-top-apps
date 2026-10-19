@@ -212,7 +212,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c9/f5/bfc9f537-b8e0-01ab-a066-3ed5e9a28a1d/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,15 +349,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c9/f5/bfc9f537-b8e0-01ab-a066-3ed5e9a28a1d/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/c9/f5/bfc9f537-b8e0-01ab-a066-3ed5e9a28a1d/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "minimumOsVersion": "16",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -361,20 +360,22 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 6349,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.04284,
       "sellerUrl": "https://www.xbox.com/en-US/apps/family-settings-app",
-      "genres": [
-        "Lifestyle",
-        "Entertainment"
-      ],
-      "sellerName": "Microsoft Corporation",
+      "minimumOsVersion": "16",
+      "averageUserRatingForCurrentVersion": 4.04284,
+      "currentVersionReleaseDate": "2026-10-16T13:36:19Z",
+      "price": 0,
       "trackName": "XBOX Family Settings",
       "trackId": 1507406707,
-      "releaseNotes": "Minor bug fixes and Enhancements.",
       "releaseDate": "2020-09-23T07:00:00Z",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "sellerName": "Microsoft Corporation",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "currentVersionReleaseDate": "2026-10-16T13:36:19Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2026.10.16",
       "wrapperType": "software",
       "currency": "USD",
@@ -384,14 +385,13 @@
       "trackCensoredName": "XBOX Family Settings",
       "trackViewUrl": "https://apps.apple.com/us/app/xbox-family-settings/id1507406707?uo=4",
       "contentAdvisoryRating": "4+",
+      "releaseNotes": "Minor bug fixes and Enhancements.",
+      "genres": [
+        "Lifestyle",
+        "Entertainment"
+      ],
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6012",
-        "6016"
-      ],
       "userRatingCount": 6349,
       "country": "USA"
     }

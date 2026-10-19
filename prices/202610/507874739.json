@@ -1,8 +1,8 @@
 {
   "id": "507874739",
-  "name": "Google Drive",
+  "name": "Google ドライブ - 安全なオンライン ストレージ",
   "month": "202610",
-  "fetchedAt": "2026-10-18T13:59:43.281Z",
+  "fetchedAt": "2026-10-19T08:03:06.442Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -58,7 +58,63 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:42.223Z"
+      "fetchedAt": "2026-10-19T08:03:03.829Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "¥1,450",
+          "amount": 1450
+        },
+        {
+          "name": "100 GB",
+          "price": "¥2,900",
+          "amount": 2900
+        },
+        {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:03:05.305Z"
     },
     "us": {
       "currency": "USD",
@@ -84,14 +140,14 @@
           "amount": 9.99
         },
         {
-          "name": "100 GB",
-          "price": "$1.99",
-          "amount": 1.99
-        },
-        {
           "name": "200 GB",
           "price": "$2.99",
           "amount": 2.99
+        },
+        {
+          "name": "100 GB",
+          "price": "$1.99",
+          "amount": 1.99
         },
         {
           "name": "100 GB",
@@ -114,7 +170,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-18T13:59:43.281Z"
+      "fetchedAt": "2026-10-19T08:03:06.441Z"
     }
   }
 }

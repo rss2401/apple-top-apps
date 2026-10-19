@@ -2,22 +2,27 @@
   "id": "6796775271",
   "name": "Stay On Target 1138",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:15:34.492Z",
+  "fetchedAt": "2026-10-19T08:22:40.410Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-19T08:22:35.457Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-18T14:15:31.572Z"
+      "fetchedAt": "2026-10-19T08:22:37.291Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-18T14:15:33.029Z"
+      "fetchedAt": "2026-10-19T08:22:38.864Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-18T14:15:34.492Z"
+      "fetchedAt": "2026-10-19T08:22:40.410Z"
     }
   }
 }

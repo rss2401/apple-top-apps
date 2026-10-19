@@ -232,6 +232,7 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -365,7 +366,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/apple/id284417353?mt=12&uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/6c/6c/c86c6c53-c1aa-37a2-580b-092b3cff7f80/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/60x60bb.jpg",
@@ -386,33 +386,27 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/6c/6c/c86c6c53-c1aa-37a2-580b-092b3cff7f80/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/512x512bb.jpg",
-      "currentVersionReleaseDate": "2026-09-24T21:10:34Z",
-      "artistId": 284417353,
+      "minimumOsVersion": "16.0",
+      "releaseNotes": "With this update, TestFlight includes:\n• Landscape orientation on iPhone.\n• Resizing when using iPhone Mirroring on Mac, on devices running OS version 27 or later (available in supported countries and regions).\n• Stability improvements and bug fixes.",
       "artistName": "Apple",
-      "genres": [
-        "Developer Tools"
-      ],
+      "artistId": 284417353,
       "price": 0,
-      "bundleId": "com.apple.TestFlight",
+      "sellerName": "Apple Inc.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2014-07-23T19:48:08Z",
+      "currentVersionReleaseDate": "2026-09-24T21:10:34Z",
       "trackId": 899247664,
       "trackName": "TestFlight",
-      "releaseNotes": "With this update, TestFlight includes:\n• Landscape orientation on iPhone.\n• Resizing when using iPhone Mirroring on Mac, on devices running OS version 27 or later (available in supported countries and regions).\n• Stability improvements and bug fixes.",
-      "releaseDate": "2014-07-23T19:48:08Z",
-      "sellerName": "Apple Inc.",
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6026"
-      ],
       "version": "4.4.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.\n\nWhen you test a beta app or App Clip, Apple collects and sends crash logs, usage information, and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.\n\nFor instructions on installation, testing, and feedback submission and for details on how your data is handled, see testflight.apple.com.",
+      "trackCensoredName": "TestFlight",
+      "trackViewUrl": "https://apps.apple.com/us/app/testflight/id899247664?uo=4",
       "contentAdvisoryRating": "12+",
       "averageUserRating": 4.74547,
       "averageUserRatingForCurrentVersion": 4.74547,
-      "minimumOsVersion": "16.0",
+      "sellerUrl": "https://developer.apple.com/testflight/",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -461,12 +455,18 @@
       ],
       "fileSizeBytes": "22818816",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 791620,
+      "userRatingCountForCurrentVersion": 791660,
       "trackContentRating": "12+",
-      "sellerUrl": "https://developer.apple.com/testflight/",
-      "trackCensoredName": "TestFlight",
-      "trackViewUrl": "https://apps.apple.com/us/app/testflight/id899247664?uo=4",
-      "userRatingCount": 791620,
+      "bundleId": "com.apple.TestFlight",
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "genres": [
+        "Developer Tools"
+      ],
+      "genreIds": [
+        "6026"
+      ],
+      "userRatingCount": 791660,
       "country": "USA"
     }
   ]

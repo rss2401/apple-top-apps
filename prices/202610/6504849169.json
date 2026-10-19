@@ -2,7 +2,7 @@
   "id": "6504849169",
   "name": "NetShort - Dramas populaires",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:09:34.628Z",
+  "fetchedAt": "2026-10-19T08:18:43.558Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -58,7 +58,63 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:09:34.628Z"
+      "fetchedAt": "2026-10-19T08:18:41.961Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "週間VIP",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "コインチャージ",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥3,500",
+          "amount": 3500
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "コインチャージ",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥4,000",
+          "amount": 4000
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥4,500",
+          "amount": 4500
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "週間VIP",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "コインチャージ",
+          "price": "¥2,000",
+          "amount": 2000
+        }
+      ],
+      "fetchedAt": "2026-10-19T08:18:43.557Z"
     }
   }
 }

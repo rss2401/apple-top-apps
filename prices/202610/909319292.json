@@ -2,7 +2,7 @@
   "id": "909319292",
   "name": "Google Calendar: Get Organized",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:18:56.956Z",
+  "fetchedAt": "2026-10-19T08:28:15.411Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -43,6 +43,11 @@
           "amount": 2.99
         },
         {
+          "name": "Google AI Plus (2 TB)",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
           "name": "200 GB",
           "price": "$2.99",
           "amount": 2.99
@@ -51,14 +56,9 @@
           "name": "Google AI Plus (2 TB)",
           "price": "$9.99",
           "amount": 9.99
-        },
-        {
-          "name": "Google AI Plus (400 GB)",
-          "price": "$4.99",
-          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:18:56.950Z"
+      "fetchedAt": "2026-10-19T08:28:15.409Z"
     }
   }
 }
