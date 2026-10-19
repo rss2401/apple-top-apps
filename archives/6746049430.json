@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -14,6 +14,32 @@
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/83/7b/5a837b7a-728a-586d-b580-89941dab29e5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
       "genres": [],
+      "url": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 98,
+      "artistName": "Fox Digital Services, LLC",
+      "id": "6746049430",
+      "name": "FOX One: Live News, Sports, TV",
+      "releaseDate": "2025-08-20",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2b/ac/002bac35-6013-6cd1-937b-55b83157c05b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        },
+        {
+          "genreId": "6009",
+          "name": "News",
+          "url": "https://itunes.apple.com/us/genre/id6009"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/fox-one-live-news-sports-tv/id6746049430"
     }
   ]

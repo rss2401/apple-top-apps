@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "month": "202604",
@@ -76,6 +76,27 @@
       "releaseDate": "2024-11-07",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/7d/9b/5d7d9b5b-41d8-43a8-ca99-4dc116682606/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/us/genre/id6024"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/fsd-hunter/id6737280679"
+    },
+    {
+      "month": "202610",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 76,
+      "artistName": "David Hugenberg",
+      "id": "6737280679",
+      "name": "FSD Hunter",
+      "releaseDate": "2024-11-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/6b/0a/586b0aab-2cc4-09fa-2760-74d40ae99137/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6024",

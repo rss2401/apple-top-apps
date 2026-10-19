@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 7,
   "results": [
     {
       "month": "202512",
@@ -136,7 +136,7 @@
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 12,
+      "rank": 13,
       "artistName": "Oleksandr Hamlii",
       "id": "1661419573",
       "name": "atvTools",
@@ -159,36 +159,10 @@
     },
     {
       "month": "202610",
-      "country": "de",
+      "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 71,
-      "artistName": "Oleksandr Hamlii",
-      "id": "1661419573",
-      "name": "atvTools",
-      "releaseDate": "2023-01-08",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/eb/7c/94eb7ca7-b324-3f6a-94af-9a180ffa74b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6002",
-          "name": "Dienst­programme",
-          "url": "https://itunes.apple.com/de/genre/id6002"
-        },
-        {
-          "genreId": "6026",
-          "name": "Entwickler-Tools",
-          "url": "https://itunes.apple.com/de/genre/id6026"
-        }
-      ],
-      "url": "https://apps.apple.com/de/app/atvtools/id1661419573"
-    },
-    {
-      "month": "202610",
-      "country": "gb",
-      "mediaType": "apps",
-      "feed": "top-paid",
-      "rank": 78,
+      "rank": 75,
       "artistName": "Oleksandr Hamlii",
       "id": "1661419573",
       "name": "atvTools",
@@ -199,15 +173,15 @@
         {
           "genreId": "6002",
           "name": "Utilities",
-          "url": "https://itunes.apple.com/gb/genre/id6002"
+          "url": "https://itunes.apple.com/us/genre/id6002"
         },
         {
           "genreId": "6026",
           "name": "Developer Tools",
-          "url": "https://itunes.apple.com/gb/genre/id6026"
+          "url": "https://itunes.apple.com/us/genre/id6026"
         }
       ],
-      "url": "https://apps.apple.com/gb/app/atvtools/id1661419573"
+      "url": "https://apps.apple.com/us/app/atvtools/id1661419573"
     }
   ]
 }

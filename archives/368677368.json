@@ -203,7 +203,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 4,
+      "rank": 5,
       "artistName": "Uber Technologies, Inc.",
       "id": "368677368",
       "name": "Uber: Ride-Hailing & Taxis",
@@ -218,14 +218,25 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 9,
+      "rank": 13,
       "artistName": "Uber Technologies, Inc.",
       "id": "368677368",
       "name": "Uber - VTC, repas et plus",
       "releaseDate": "2010-05-21",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/42/7a3f424c-d273-a56c-059d-8f6c32359d88/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Voyages",
+          "url": "https://itunes.apple.com/fr/genre/id6003"
+        },
+        {
+          "genreId": "6012",
+          "name": "Style de vie",
+          "url": "https://itunes.apple.com/fr/genre/id6012"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/uber-vtc-repas-et-plus/id368677368"
     },
     {
@@ -233,7 +244,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 11,
+      "rank": 13,
       "artistName": "Uber Technologies, Inc.",
       "id": "368677368",
       "name": "Uber: Rides, eats, and more",
@@ -259,7 +270,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 15,
+      "rank": 30,
       "artistName": "Uber Technologies, Inc.",
       "id": "368677368",
       "name": "Uber - Rides, Eats, Hotels",

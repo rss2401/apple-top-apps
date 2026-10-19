@@ -1,12 +1,38 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
+    {
+      "month": "202610",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 93,
+      "artistName": "Joseph Musselman",
+      "id": "6818844637",
+      "name": "GLIMR: Strum Any Sound",
+      "releaseDate": "2026-10-12",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/fa/6a/c1fa6a08-07ce-e1f3-44c0-4649b1075ba9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musik",
+          "url": "https://itunes.apple.com/de/genre/id6011"
+        },
+        {
+          "genreId": "6016",
+          "name": "Unterhaltung",
+          "url": "https://itunes.apple.com/de/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/glimr-strum-any-sound/id6818844637"
+    },
     {
       "month": "202610",
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 56,
+      "rank": 97,
       "artistName": "Joseph Musselman",
       "id": "6818844637",
       "name": "GLIMR: Strum Any Sound",
@@ -32,7 +58,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 31,
+      "rank": 46,
       "artistName": "Joseph Musselman",
       "id": "6818844637",
       "name": "GLIMR: Strum Any Sound",

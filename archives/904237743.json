@@ -1,5 +1,5 @@
 {
-  "resultCount": 19,
+  "resultCount": 20,
   "results": [
     {
       "month": "202512",
@@ -385,7 +385,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 55,
+      "rank": 50,
       "artistName": "Cultured Code GmbH & Co. KG",
       "id": "904237743",
       "name": "Things 3",
@@ -411,7 +411,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 90,
+      "rank": 42,
       "artistName": "Cultured Code GmbH & Co. KG",
       "id": "904237743",
       "name": "Things 3",
@@ -437,7 +437,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 51,
+      "rank": 70,
       "artistName": "Cultured Code GmbH & Co. KG",
       "id": "904237743",
       "name": "Things 3",
@@ -460,10 +460,36 @@
     },
     {
       "month": "202610",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 81,
+      "artistName": "Cultured Code GmbH & Co. KG",
+      "id": "904237743",
+      "name": "Things 3",
+      "releaseDate": "2017-05-18",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/39/00/bc390000-e90b-3368-d6ab-ea242e18a1ec/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "仕事効率化",
+          "url": "https://itunes.apple.com/jp/genre/id6007"
+        },
+        {
+          "genreId": "6000",
+          "name": "ビジネス",
+          "url": "https://itunes.apple.com/jp/genre/id6000"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/things-3/id904237743"
+    },
+    {
+      "month": "202610",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 42,
+      "rank": 29,
       "artistName": "Cultured Code GmbH & Co. KG",
       "id": "904237743",
       "name": "Things 3",
