@@ -2,13 +2,32 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/ff/f7/63fff7d1-6fd2-6203-f7ae-20a4df25711e/01.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d6/82/c2/d682c2bd-c32a-6d7a-942c-83f3c2f70dfe/02.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/e6/f0/5ce6f019-cf56-59cf-5ec9-e8af4cdf488a/03.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/b7/e5/2db7e5a1-165f-0e33-00b2-9048e6f8fbb9/04.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/65/ec/c765ec86-897f-e11e-911b-33dfa45f2803/05.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/69/e8/7e69e899-8d62-323e-a301-add489d507e1/06.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/b6/da/dab6da70-ca01-088d-98b3-905d9cb071b9/07.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/de/df/16dedf04-d311-bda0-388f-37ee37d55520/08.png/320x480bb.jpg"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/17/35/0c173564-7459-04c6-d924-50eed5352920/01.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/aa/67/d2aa672b-cbb7-ce2f-56a1-22f4faa118c8/02.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/4b/49/064b49d7-40eb-fe1f-5666-96db5f9a14e9/03.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/90/d0/0e90d059-8b1a-4370-de51-ef3aff8f7ecc/04.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/2d/22/a02d2269-b5e1-c3e2-9670-6f091dfe8622/05.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/5f/75/eb5f7532-4c3b-03b4-89bf-feff8110fbe6/06.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/15/52/5a15529d-4ab0-6409-eb75-ab34cde5eb8e/07.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e2/23/be/e223bef7-244e-3e4e-cc34-927d08d54a0d/08.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/be/9917bece-f76f-eb59-1709-0575d9a0dc64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/leonardo-interactive-pty-ltd/id1662773016?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/be/9917bece-f76f-eb59-1709-0575d9a0dc64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/17/be/9917bece-f76f-eb59-1709-0575d9a0dc64/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -142,72 +161,53 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Realistic Violence"
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Cartoon or Fantasy Violence"
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/22/58/31225804-b0c5-8f23-d73e-1c2067c8b76d/iOS_Mobile_6.9_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/58/55/815855d3-1ce2-7dfd-ab86-6dabbf741546/iOS_Mobile_6.9_02_Alt_02.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/4f/cf/ea4fcfd6-3b0e-7290-c810-90ceb3ed412b/iOS_Mobile_6.9_03_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/54/21/ed542122-4573-b37c-1c4f-498086073f05/iOS_Mobile_6.9_04_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/40/8f/61408fe2-6cdf-1da1-996c-e6cea1655a39/iOS_Mobile_6.9_05.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/9d/e7/1c9de7ad-8899-b6e2-95f2-ce1c0e4b876d/iOS_Mobile_6.9_06.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/46/e3/da46e3a5-d0dc-138a-cdd8-d5a3d186543a/iOS_Mobile_6.9_07_Alt_01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b4/00/5c/b4005cfa-70de-c398-3170-9977d849548c/iOS_Mobile_6.9_08.jpg/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/36/9a/c9369a68-8002-096b-9b23-1f3fd02bfd38/iOS_Tablet_13_01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/4c/16/b84c169e-5d96-78b9-8b45-a417b376705b/iOS_Tablet_13_02.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/2f/fc/ae2ffc7f-70d6-353e-02b4-ecf13ad7c47b/iOS_Tablet_13_03.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/31/9c/d7319c5a-cf21-b9a9-19ed-dc82513a4810/iOS_Tablet_13_04.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/28/97/a22897a1-abef-2618-d53d-009cf208fffb/iOS_Tablet_13_05.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c5/22/22c52249-ea6f-1410-88c0-b74400a4e30a/iOS_Tablet_13_06.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/5b/dc/8c5bdc65-c45f-4817-d80b-365133b75935/iOS_Tablet_13_07.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/19/00/8f190061-625f-47c7-3820-06013eec182e/iOS_Tablet_13_08.jpg/360x480bb.jpg"
+      "languageCodesISO2A": [
+        "EN"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/9a/f5/119af5f7-414f-6875-5022-4e15014c0707/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.83168,
+      "fileSizeBytes": "114068480",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 11222,
+      "trackContentRating": "17+",
+      "sellerUrl": "https://leonardo.ai/",
+      "averageUserRatingForCurrentVersion": 4.83229,
+      "contentAdvisoryRating": "17+",
       "trackCensoredName": "Leonardo.Ai - Image Generator",
       "trackViewUrl": "https://apps.apple.com/us/app/leonardo-ai-image-generator/id1662773014?uo=4",
-      "contentAdvisoryRating": "17+",
-      "minimumOsVersion": "16.0",
-      "price": 0,
+      "averageUserRating": 4.83229,
+      "artistId": 1662773016,
+      "artistName": "Leonardo Interactive Pty Ltd",
       "genres": [
         "Graphics & Design",
         "Productivity"
       ],
-      "artistId": 1662773016,
-      "artistName": "Leonardo Interactive Pty Ltd",
+      "price": 0,
       "releaseDate": "2023-08-03T07:00:00Z",
-      "trackId": 1662773014,
-      "trackName": "Leonardo.Ai - Image Generator",
+      "minimumOsVersion": "16.0",
       "genreIds": [
         "6027",
         "6007"
       ],
+      "trackId": 1662773014,
+      "trackName": "Leonardo.Ai - Image Generator",
       "primaryGenreName": "Graphics & Design",
       "primaryGenreId": 6027,
       "sellerName": "Leonardo Interactive Pty Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-13T21:00:17Z",
+      "currentVersionReleaseDate": "2026-10-23T23:15:51Z",
       "releaseNotes": "Thanks for using Leonardo.Ai! This version includes bug fixes and performance improvements.",
-      "version": "2.0.44",
+      "version": "2.0.47",
       "wrapperType": "software",
       "currency": "USD",
-      "description": "Welcome to Leonardo.Ai, a full creative platform that lets you play, explore and create with the world's best AI image and video generation models, now on iOS!\n\nMore than just a free AI art generator, Leonardo supports your entire creative journey with powerful yet easy AI art tools, taking you from the first spark of an idea to pro-level assets in just a tap. Now, you can access all these powerful features right from your iPhone or iPad:\n\nAI IMAGE GENERATOR\nOur free AI image maker lets you rapidly iterate concepts and explore aesthetics with complete creative control using top AI image models, including Nano Banana by Google, Seedream, FLUX, and Leonardo's own state of the art models.\n\nAI VIDEO GENERATOR\nLeonardo's free AI Video maker is your storytelling tool for cinematic scenes to social media content with top AI video models such as Veo 3 by Google. Take the director's seat with camera controls and animation effects or bring generated images and real photos to life with motion.\n\nEASY TO USE PRE-DESIGNED BLUEPRINT TEMPLATES\nKick-start your projects or streamline any stage of your creative workflow with easy to use, ready-made templates that deliver pro-level results in a tap.\n\nAI IMAGE EDITING\nOur Ai image editor tools let you tweak your images with ease - just describe the changes you want to make! Powered by intelligent AI image models, you can you enhance, unzoom and remove backgrounds from images to effortlessly refine your AI artwork with ease.\n\nAI UPSCALER\nLeonardo's Universal Upscaler tool is a market leader that can add crisp definition to any image or add creative details to make images stand out in high-definition.\n\nSTART YOUR CREATIVE JOURNEY\nJoin a community of over 60 million creative minds and be inspired by more than 2 billion AI generations using http://Leonardo.Ai. Start creating stunning AI art today!\n\nPlease note: By using this app, you agree to our Privacy Policy (https://leonardo.ai/legal-notice/) and Terms of Service (https://leonardo.ai/terms-of-service/).",
-      "averageUserRatingForCurrentVersion": 4.83168,
-      "sellerUrl": "https://leonardo.ai/",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "112897024",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 11157,
-      "trackContentRating": "17+",
+      "description": "Welcome to Leonardo.Ai, a full creative platform that lets you play, explore and create with the world's best AI image and video generation models, now on iOS!\n\nMore than just a free AI art generator, Leonardo supports your entire creative journey with powerful yet easy AI art tools, taking you from the first spark of an idea to pro-level assets in just a tap. Now, you can access all these powerful features right from your iPhone or iPad:\n\nAI IMAGE GENERATOR\nOur free AI image maker lets you rapidly iterate concepts and explore aesthetics with complete creative control using top AI image models, including Nano Banana by Google, Seedream, FLUX, and Leonardo's own state of the art models.\n\nAI VIDEO GENERATOR\nLeonardo's free AI Video maker is your storytelling tool for cinematic scenes to social media content with top AI video models such as Veo 3 by Google. Take the director's seat with camera controls and animation effects or bring generated images and real photos to life with motion.\n\nEASY TO USE PRE-DESIGNED BLUEPRINT TEMPLATES\nKick-start your projects or streamline any stage of your creative workflow with easy to use, ready-made templates that deliver pro-level results in a tap.\n\nAI IMAGE EDITING\nOur Ai image editor tools let you tweak your images with ease - just describe the changes you want to make! Powered by intelligent AI image models, you can you enhance, unzoom and remove backgrounds from images to effortlessly refine your AI artwork with ease.\n\nSTART YOUR CREATIVE JOURNEY\nJoin a community of over 60 million creative minds and be inspired by more than 2 billion AI generations using https://leonardo.ai. Start creating stunning AI art today!\n\nPlease note: By using this app, you agree to our Privacy Policy (https://leonardo.ai/legal-notice/) and Terms of Service (https://leonardo.ai/terms-of-service/).",
       "bundleId": "ai.leonardo.Leonardo",
-      "userRatingCount": 11157,
+      "userRatingCount": 11222,
       "country": "USA"
     }
   ]

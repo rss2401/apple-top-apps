@@ -2,7 +2,7 @@
   "id": "6446901002",
   "name": "Threads",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:01:24.470Z",
+  "fetchedAt": "2026-10-26T08:00:57.889Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -13,6 +13,36 @@
           "amount": 7.99
         },
         {
+          "name": "No ads (2 accounts)",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "No ads (3 accounts)",
+          "price": "17,99 €",
+          "amount": 17.99
+        },
+        {
+          "name": "No ads (4 accounts)",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "No ads (1 account)",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "No ads (2 accounts)",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "No ads (2 accounts)",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
           "name": "No ads (3 accounts)",
           "price": "17,99 €",
           "amount": 17.99
@@ -26,52 +56,22 @@
           "name": "No ads (2 accounts)",
           "price": "12,99 €",
           "amount": 12.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (1 account)",
-          "price": "7,99 €",
-          "amount": 7.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (1 account)",
-          "price": "7,99 €",
-          "amount": 7.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (3 accounts)",
-          "price": "17,99 €",
-          "amount": 17.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:18.786Z"
+      "fetchedAt": "2026-10-26T08:00:51.899Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [
         {
-          "name": "No ads (3 accounts)",
-          "price": "17,99 €",
-          "amount": 17.99
-        },
-        {
           "name": "No ads (2 accounts)",
           "price": "12,99 €",
           "amount": 12.99
+        },
+        {
+          "name": "No ads (3 accounts)",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "No ads (2 accounts)",
@@ -114,7 +114,7 @@
           "amount": 21.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:20.131Z"
+      "fetchedAt": "2026-10-26T08:00:53.322Z"
     },
     "gb": {
       "currency": "GBP",
@@ -125,21 +125,6 @@
           "amount": 6.99
         },
         {
-          "name": "No ads (3 accounts)",
-          "price": "£9.99",
-          "amount": 9.99
-        },
-        {
-          "name": "No ads (6 accounts)",
-          "price": "£18.99",
-          "amount": 18.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "£6.99",
-          "amount": 6.99
-        },
-        {
           "name": "No ads (2 accounts)",
           "price": "£6.99",
           "amount": 6.99
@@ -150,9 +135,9 @@
           "amount": 9.99
         },
         {
-          "name": "No ads (3 accounts)",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "No ads (2 accounts)",
+          "price": "£6.99",
+          "amount": 6.99
         },
         {
           "name": "No ads (5 accounts)",
@@ -160,9 +145,24 @@
           "amount": 15.99
         },
         {
+          "name": "No ads (3 accounts)",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
           "name": "No ads (2 accounts)",
           "price": "£6.99",
           "amount": 6.99
+        },
+        {
+          "name": "No ads (3 accounts)",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "No ads (3 accounts)",
+          "price": "£9.99",
+          "amount": 9.99
         },
         {
           "name": "No ads (1 account)",
@@ -170,7 +170,7 @@
           "amount": 3.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:21.736Z"
+      "fetchedAt": "2026-10-26T08:00:54.811Z"
     },
     "jp": {
       "currency": "JPY",
@@ -226,11 +226,26 @@
           "amount": 4500
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:23.164Z"
+      "fetchedAt": "2026-10-26T08:00:56.308Z"
     },
     "us": {
       "currency": "USD",
       "items": [
+        {
+          "name": "No ads (3 accounts)",
+          "price": "$17.99",
+          "amount": 17.99
+        },
+        {
+          "name": "No ads (2 accounts)",
+          "price": "$12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "No ads (2 accounts)",
+          "price": "$12.99",
+          "amount": 12.99
+        },
         {
           "name": "No ads (3 accounts)",
           "price": "$17.99",
@@ -247,42 +262,27 @@
           "amount": 7.99
         },
         {
-          "name": "No ads (2 accounts)",
-          "price": "$12.99",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "$12.99",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "$12.99",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (2 accounts)",
-          "price": "$12.99",
-          "amount": 12.99
-        },
-        {
-          "name": "No ads (1 account)",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "No ads (1 account)",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
           "name": "No ads (4 accounts)",
           "price": "$22.99",
           "amount": 22.99
+        },
+        {
+          "name": "No ads (2 accounts)",
+          "price": "$12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "No ads (1 account)",
+          "price": "$7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "No ads (7 accounts)",
+          "price": "$37.99",
+          "amount": 37.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:24.469Z"
+      "fetchedAt": "2026-10-26T08:00:57.889Z"
     }
   }
 }

@@ -2,7 +2,7 @@
   "id": "686449807",
   "name": "Telegram Messenger",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:07:51.300Z",
+  "fetchedAt": "2026-10-26T08:07:00.644Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:07:47.035Z"
+      "fetchedAt": "2026-10-26T08:06:56.462Z"
     },
     "fr": {
       "currency": "EUR",
@@ -109,12 +109,12 @@
           "amount": 7.49
         },
         {
-          "name": "1500 Telegram Stars",
-          "price": "31,99 €",
-          "amount": 31.99
+          "name": "2500 Telegram Stars",
+          "price": "53,90 €",
+          "amount": 53.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:07:48.554Z"
+      "fetchedAt": "2026-10-26T08:06:57.854Z"
     },
     "gb": {
       "currency": "GBP",
@@ -135,14 +135,14 @@
           "amount": 9.09
         },
         {
-          "name": "1x Telegram Premium (One Week)",
-          "price": "£0.99",
-          "amount": 0.99
-        },
-        {
           "name": "250 Telegram Stars",
           "price": "£4.59",
           "amount": 4.59
+        },
+        {
+          "name": "1x Telegram Premium (One Week)",
+          "price": "£0.99",
+          "amount": 0.99
         },
         {
           "name": "750 Telegram Stars",
@@ -170,7 +170,7 @@
           "amount": 45.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:07:50.070Z"
+      "fetchedAt": "2026-10-26T08:06:59.379Z"
     },
     "us": {
       "currency": "USD",
@@ -211,14 +211,14 @@
           "amount": 14.99
         },
         {
-          "name": "Telegram Premium Annual",
-          "price": "$35.99",
-          "amount": 35.99
-        },
-        {
           "name": "2500 Telegram Stars",
           "price": "$50.90",
           "amount": 50.9
+        },
+        {
+          "name": "Telegram Premium Annual",
+          "price": "$35.99",
+          "amount": 35.99
         },
         {
           "name": "1500 Telegram Stars",
@@ -226,7 +226,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:07:51.299Z"
+      "fetchedAt": "2026-10-26T08:07:00.639Z"
     }
   }
 }

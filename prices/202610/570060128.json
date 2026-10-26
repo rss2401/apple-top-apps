@@ -2,7 +2,7 @@
   "id": "570060128",
   "name": "Duolingo-英語/韓国語などのリスニングや英単語の練習",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:02:50.018Z",
+  "fetchedAt": "2026-10-26T08:02:24.621Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -24,6 +24,16 @@
         },
         {
           "name": "Super Duolingo",
+          "price": "¥738.00",
+          "amount": 738
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥588.00",
+          "amount": 588
+        },
+        {
+          "name": "Super Duolingo",
           "price": "¥588.00",
           "amount": 588
         },
@@ -43,22 +53,12 @@
           "amount": 738
         },
         {
-          "name": "Super Duolingo",
-          "price": "¥588.00",
-          "amount": 588
-        },
-        {
-          "name": "Super Duolingo",
-          "price": "¥738.00",
-          "amount": 738
-        },
-        {
-          "name": "Super Duolingo",
-          "price": "¥738.00",
-          "amount": 738
+          "name": "Super Duolingo - Family Plan",
+          "price": "¥958.00",
+          "amount": 958
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:42.800Z"
+      "fetchedAt": "2026-10-26T08:02:17.885Z"
     },
     "de": {
       "currency": "EUR",
@@ -79,6 +79,11 @@
           "amount": 110.99
         },
         {
+          "name": "Super Duolingo",
+          "price": "89,99 €",
+          "amount": 89.99
+        },
+        {
           "name": "Juwelenkarre (3000)",
           "price": "9,99 €",
           "amount": 9.99
@@ -95,11 +100,6 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "89,99 €",
-          "amount": 89.99
-        },
-        {
-          "name": "Super Duolingo",
           "price": "110,99 €",
           "amount": 110.99
         },
@@ -110,24 +110,24 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "89,99 €",
-          "amount": 89.99
+          "price": "110,99 €",
+          "amount": 110.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:44.717Z"
+      "fetchedAt": "2026-10-26T08:02:19.541Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [
         {
           "name": "Super Duolingo",
-          "price": "94,99 €",
-          "amount": 94.99
+          "price": "137,99 €",
+          "amount": 137.99
         },
         {
           "name": "Super Duolingo",
-          "price": "137,99 €",
-          "amount": 137.99
+          "price": "94,99 €",
+          "amount": 94.99
         },
         {
           "name": "Super Duolingo",
@@ -165,12 +165,12 @@
           "amount": 122.99
         },
         {
-          "name": "Tonneau de gemmes (1200)",
-          "price": "5,99 €",
-          "amount": 5.99
+          "name": "Super Duolingo",
+          "price": "137,99 €",
+          "amount": 137.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:46.234Z"
+      "fetchedAt": "2026-10-26T08:02:20.898Z"
     },
     "gb": {
       "currency": "GBP",
@@ -197,23 +197,23 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "£86.99",
-          "amount": 86.99
-        },
-        {
-          "name": "Super Duolingo",
           "price": "£12.49",
           "amount": 12.49
         },
         {
-          "name": "Cart of Gems (3000)",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "Super Duolingo",
+          "price": "£86.99",
+          "amount": 86.99
         },
         {
           "name": "Chest of Gems",
           "price": "£0.99",
           "amount": 0.99
+        },
+        {
+          "name": "Cart of Gems (3000)",
+          "price": "£9.99",
+          "amount": 9.99
         },
         {
           "name": "Chest of Gems (1200)",
@@ -226,7 +226,7 @@
           "amount": 68.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:47.882Z"
+      "fetchedAt": "2026-10-26T08:02:22.563Z"
     },
     "jp": {
       "currency": "JPY",
@@ -238,13 +238,13 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "¥11,400",
-          "amount": 11400
+          "price": "¥14,200",
+          "amount": 14200
         },
         {
           "name": "Super Duolingo",
-          "price": "¥14,200",
-          "amount": 14200
+          "price": "¥11,400",
+          "amount": 11400
         },
         {
           "name": "ジェムいっぱいのタル (1200)",
@@ -282,7 +282,7 @@
           "amount": 3000
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:48.942Z"
+      "fetchedAt": "2026-10-26T08:02:23.446Z"
     },
     "us": {
       "currency": "USD",
@@ -308,14 +308,14 @@
           "amount": 9.99
         },
         {
-          "name": "Cart of Gems (6500)",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Super Duolingo",
           "price": "$12.99",
           "amount": 12.99
+        },
+        {
+          "name": "Cart of Gems (6500)",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Super Duolingo",
@@ -323,14 +323,14 @@
           "amount": 119.99
         },
         {
-          "name": "Chest of Gems",
-          "price": "$0.99",
-          "amount": 0.99
-        },
-        {
           "name": "Super Duolingo",
           "price": "$95.99",
           "amount": 95.99
+        },
+        {
+          "name": "Chest of Gems",
+          "price": "$0.99",
+          "amount": 0.99
         },
         {
           "name": "Chest of Gems (1200)",
@@ -338,7 +338,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:02:50.017Z"
+      "fetchedAt": "2026-10-26T08:02:24.621Z"
     }
   }
 }

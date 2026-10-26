@@ -1,9 +1,65 @@
 {
   "id": "460177396",
-  "name": "Twitch: Live Streaming",
+  "name": "Twitch : streaming en live",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:04:50.714Z",
+  "fetchedAt": "2026-10-26T08:23:18.021Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "1 jeton d'abonnement",
+          "price": "6,99 €",
+          "amount": 6.99
+        },
+        {
+          "name": "1 jeton d'abonnement",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "95 Bits",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "5 jetons d'abonnement",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "245 Bits",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "1050 Bits",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "510 Bits",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "5 jetons d'abonnement",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "500 Bits",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "10 jetons d'abonnement",
+          "price": "69,99 €",
+          "amount": 69.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:23:18.015Z"
+    },
     "us": {
       "currency": "USD",
       "items": [

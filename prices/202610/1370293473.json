@@ -2,8 +2,64 @@
   "id": "1370293473",
   "name": "VPN - Super Unlimited Proxy ™",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:11:09.052Z",
+  "fetchedAt": "2026-10-26T08:18:09.943Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "1-Month Plan",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "1-Month Plan Discount",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "12-Month Plan",
+          "price": "79,99 €",
+          "amount": 79.99
+        },
+        {
+          "name": "1-Week Plan",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "1-Week Plan Discount",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "12-Month Plan Discount",
+          "price": "79,99 €",
+          "amount": 79.99
+        },
+        {
+          "name": "6-Month Plan",
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
+          "name": "3-Month Plan",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "3-Month Plan Discount",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "3-Month Plan SG-2",
+          "price": "29,99 €",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:18:08.386Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-18T14:11:09.046Z"
+      "fetchedAt": "2026-10-26T08:18:09.942Z"
     }
   }
 }

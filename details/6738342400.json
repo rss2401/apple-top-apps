@@ -226,13 +226,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -368,7 +362,12 @@
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRating": 3.67544,
+      "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -401,12 +400,7 @@
       "formattedPrice": "¥15.00",
       "userRatingCountForCurrentVersion": 114,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
       "averageUserRatingForCurrentVersion": 3.67544,
-      "releaseNotes": "修复切换时编辑器菜单无法正确关闭的问题\n修复脚本和站点图标未显示在仪表板中的问题\n修复在 iOS 上保存导出文件的问题\n修复 @require data: URI 的处理",
-      "minimumOsVersion": "15.0",
       "artistId": 1482490088,
       "artistName": "Jan Biniok",
       "genres": [
@@ -415,26 +409,35 @@
       ],
       "price": 15,
       "releaseDate": "2024-11-18T08:00:00Z",
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "minimumOsVersion": "15.0",
       "trackId": 6738342400,
       "trackName": "Tampermonkey",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genreIds": [
         "6007",
         "6026"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "sellerName": "Jan Biniok",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
+      "releaseNotes": "修复切换时编辑器菜单无法正确关闭的问题\n修复脚本和站点图标未显示在仪表板中的问题\n修复在 iOS 上保存导出文件的问题\n修复 @require data: URI 的处理",
       "version": "5.6.6243",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
-      "bundleId": "net.tampermonkey.SafariWebExt",
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.67544,
       "userRatingCount": 114,
       "country": "CHN"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
@@ -451,11 +454,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -592,8 +590,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.6875,
+      "advisories": [],
+      "kind": "software",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.6875,
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/jp/app/tampermonkey/id6738342400?uo=4",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -622,39 +624,37 @@
         "UK",
         "VI"
       ],
+      "averageUserRatingForCurrentVersion": 4.6875,
       "fileSizeBytes": "7003136",
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 16,
       "trackContentRating": "4+",
       "artistId": 1482490088,
       "artistName": "Jan Biniok",
+      "genres": [
+        "仕事効率化",
+        "開発ツール"
+      ],
       "price": 500,
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "minimumOsVersion": "15.0",
+      "trackName": "Tampermonkey",
       "sellerName": "Jan Biniok",
       "trackId": 6738342400,
-      "trackName": "Tampermonkey",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007",
+        "6026"
+      ],
       "releaseDate": "2024-11-18T08:00:00Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
       "releaseNotes": "トグル時にエディターメニューが正しく閉じられない問題を修正\nダッシュボードにスクリプトとサイトのアイコンが表示されない問題を修正\niOSでのエクスポートファイルの保存問題を修正\n@require の data: URI 処理を修正",
       "version": "5.6.6243",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Tampermonkeyは、すべての主要なブラウザと互換性のある非常に人気のあるブラウザー拡張機能です。\nユーザースクリプト—機能を追加または変更する小さなJavaScriptプログラム—を使用してウェブページをカスタマイズし、強化できます。\nTampermonkeyを使えば、これらのスクリプトを簡単に作成、管理、実行できます。",
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/jp/app/tampermonkey/id6738342400?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.6875,
-      "genres": [
-        "仕事効率化",
-        "開発ツール"
-      ],
       "bundleId": "net.tampermonkey.SafariWebExt",
-      "genreIds": [
-        "6007",
-        "6026"
-      ],
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 16,
       "country": "JPN"
     },

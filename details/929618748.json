@@ -197,11 +197,16 @@
       "userRatingCount": 1121
     },
     {
-      "features": [],
-      "artistViewUrl": "https://apps.apple.com/gb/developer/living-with-ltd/id1407197501?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/living-with-ltd/id1407197501?uo=4",
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Sexual Content and Nudity"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,11 +339,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Sexual Content and Nudity"
-      ],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e5/8f/df/e58fdfd0-5660-182a-1f7b-98b4a15e1ada/9b97a601-6248-4ca3-a267-665f0dca0f4c_squeezy-m-appstore-5.5-1.png/392x696bb.png",
@@ -352,31 +352,27 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/9b/11929b16-cb1f-1845-648e-b153dff0569c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "12+",
       "averageUserRating": 4.76643,
-      "releaseNotes": "• Fixed an issue where the app would crash when changing the exercise plan\n• Resolved a bug causing the exercise graph to render incorrectly",
       "trackCensoredName": "Squeezy Men",
       "trackViewUrl": "https://apps.apple.com/gb/app/squeezy-men/id929618748?uo=4",
-      "contentAdvisoryRating": "12+",
-      "artistId": 1407197501,
-      "artistName": "Living With Ltd",
-      "genres": [
-        "Medical",
-        "Health & Fitness"
-      ],
-      "price": 3.99,
-      "bundleId": "com.propagata.squeezyformen",
-      "releaseDate": "2014-10-31T07:00:00Z",
       "genreIds": [
         "6020",
         "6013"
       ],
-      "trackId": 929618748,
-      "trackName": "Squeezy Men",
+      "releaseNotes": "• Fixed an issue where the app would crash when changing the exercise plan\n• Resolved a bug causing the exercise graph to render incorrectly",
+      "genres": [
+        "Medical",
+        "Health & Fitness"
+      ],
+      "minimumOsVersion": "15.5",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "sellerName": "Living With Ltd",
+      "releaseDate": "2014-10-31T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-07-03T08:28:29Z",
+      "trackId": 929618748,
+      "trackName": "Squeezy Men",
       "version": "10.1.5",
       "wrapperType": "software",
       "currency": "GBP",
@@ -390,8 +386,12 @@
       "formattedPrice": "£3.99",
       "userRatingCountForCurrentVersion": 1126,
       "trackContentRating": "12+",
-      "minimumOsVersion": "15.5",
       "averageUserRatingForCurrentVersion": 4.76643,
+      "sellerName": "Living With Ltd",
+      "artistId": 1407197501,
+      "artistName": "Living With Ltd",
+      "bundleId": "com.propagata.squeezyformen",
+      "price": 3.99,
       "userRatingCount": 1126,
       "country": "GBR"
     },

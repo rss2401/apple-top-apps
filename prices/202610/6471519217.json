@@ -2,12 +2,28 @@
   "id": "6471519217",
   "name": "Bump（旧Zenly）",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:26:03.004Z",
+  "fetchedAt": "2026-10-26T08:25:08.621Z",
   "storefronts": {
     "jp": {
       "currency": "JPY",
-      "items": [],
-      "fetchedAt": "2026-10-19T08:26:03.003Z"
+      "items": [
+        {
+          "name": "Bump Club",
+          "price": "¥4,000",
+          "amount": 4000
+        },
+        {
+          "name": "Bump Club",
+          "price": "¥600",
+          "amount": 600
+        },
+        {
+          "name": "Bump Club",
+          "price": "¥300",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:25:08.621Z"
     }
   }
 }

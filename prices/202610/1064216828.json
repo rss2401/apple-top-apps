@@ -2,8 +2,64 @@
   "id": "1064216828",
   "name": "Reddit",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:15:04.412Z",
+  "fetchedAt": "2026-10-26T08:13:53.200Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Reddit Premium",
+          "price": "7,49 €",
+          "amount": 7.49
+        },
+        {
+          "name": "Reddit Gold",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 499",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Reddit Annual Premium",
+          "price": "66,99 €",
+          "amount": 66.99
+        },
+        {
+          "name": "Reddit Gold",
+          "price": "5,90 €",
+          "amount": 5.9
+        },
+        {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 499",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Reddit Gold",
+          "price": "3,95 €",
+          "amount": 3.95
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:13:50.416Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:15:02.941Z"
+      "fetchedAt": "2026-10-26T08:13:51.906Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +170,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:15:04.405Z"
+      "fetchedAt": "2026-10-26T08:13:53.199Z"
     }
   }
 }

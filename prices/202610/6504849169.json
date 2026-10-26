@@ -1,8 +1,8 @@
 {
   "id": "6504849169",
-  "name": "NetShort - Dramas populaires",
+  "name": "NetShort - Popular Dramas & TV",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:18:43.558Z",
+  "fetchedAt": "2026-10-26T08:12:17.216Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -33,9 +33,9 @@
           "amount": 22.99
         },
         {
-          "name": "VIP Hebdomadaire",
-          "price": "29,99 €",
-          "amount": 29.99
+          "name": "Achat unique",
+          "price": "6,99 €",
+          "amount": 6.99
         },
         {
           "name": "VIP Hebdomadaire",
@@ -43,9 +43,9 @@
           "amount": 22.99
         },
         {
-          "name": "Achat unique",
-          "price": "6,99 €",
-          "amount": 6.99
+          "name": "VIP Hebdomadaire",
+          "price": "29,99 €",
+          "amount": 29.99
         },
         {
           "name": "VIP Hebdomadaire",
@@ -58,7 +58,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:18:41.961Z"
+      "fetchedAt": "2026-10-26T08:12:14.526Z"
     },
     "jp": {
       "currency": "JPY",
@@ -79,14 +79,19 @@
           "amount": 3500
         },
         {
+          "name": "コインチャージ",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
           "name": "週間VIP",
           "price": "¥3,000",
           "amount": 3000
         },
         {
-          "name": "コインチャージ",
-          "price": "¥1,100",
-          "amount": 1100
+          "name": "週間VIP",
+          "price": "¥3,000",
+          "amount": 3000
         },
         {
           "name": "週間VIP",
@@ -104,17 +109,68 @@
           "amount": 3000
         },
         {
-          "name": "週間VIP",
-          "price": "¥3,000",
-          "amount": 3000
-        },
-        {
           "name": "コインチャージ",
           "price": "¥2,000",
           "amount": 2000
         }
       ],
-      "fetchedAt": "2026-10-19T08:18:43.557Z"
+      "fetchedAt": "2026-10-26T08:12:16.001Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Weekly VIP",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Weekly VIP",
+          "price": "$24.99",
+          "amount": 24.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "$19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:12:17.215Z"
     }
   }
 }

@@ -2,17 +2,22 @@
   "id": "1452164827",
   "name": "IKEA",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:17:04.558Z",
+  "fetchedAt": "2026-10-26T08:15:53.342Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-19T08:17:02.882Z"
+      "fetchedAt": "2026-10-26T08:15:50.432Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-26T08:15:51.932Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-19T08:17:04.555Z"
+      "fetchedAt": "2026-10-26T08:15:53.341Z"
     }
   }
 }

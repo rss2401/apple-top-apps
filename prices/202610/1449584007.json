@@ -2,7 +2,7 @@
   "id": "1449584007",
   "name": "Koala Sampler",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:05:07.929Z",
+  "fetchedAt": "2026-10-26T08:04:50.307Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,12 +18,12 @@
           "amount": 5.99
         },
         {
-          "name": "Analog Astronaut Samplepack",
+          "name": "Cirrus Cuts Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "Cirrus Cuts Sample Pack",
+          "name": "Analog Astronaut Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         },
@@ -43,7 +43,48 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:05:03.566Z"
+      "fetchedAt": "2026-10-26T08:04:44.357Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Édition Samouraï",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Mixer",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Cirrus Cuts Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Ese-O's Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Analog Astronaut Samplepack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Soon Come Dub Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Solar Studies Samplepack",
+          "price": "2,99 €",
+          "amount": 2.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:04:45.874Z"
     },
     "gb": {
       "currency": "GBP",
@@ -59,12 +100,12 @@
           "amount": 4.99
         },
         {
-          "name": "Cirrus Cuts Sample Pack",
+          "name": "Analog Astronaut Samplepack",
           "price": "£2.99",
           "amount": 2.99
         },
         {
-          "name": "Analog Astronaut Samplepack",
+          "name": "Cirrus Cuts Sample Pack",
           "price": "£2.99",
           "amount": 2.99
         },
@@ -84,7 +125,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:05:04.938Z"
+      "fetchedAt": "2026-10-26T08:04:47.302Z"
     },
     "jp": {
       "currency": "JPY",
@@ -105,12 +146,12 @@
           "amount": 500
         },
         {
-          "name": "Solar Studies Samplepack",
+          "name": "Soon Come Dub Sample Pack",
           "price": "¥500",
           "amount": 500
         },
         {
-          "name": "Soon Come Dub Sample Pack",
+          "name": "Solar Studies Samplepack",
           "price": "¥500",
           "amount": 500
         },
@@ -125,7 +166,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-19T08:05:06.550Z"
+      "fetchedAt": "2026-10-26T08:04:48.849Z"
     },
     "us": {
       "currency": "USD",
@@ -151,12 +192,12 @@
           "amount": 2.99
         },
         {
-          "name": "Solar Studies Samplepack",
+          "name": "Soon Come Dub Sample Pack",
           "price": "$2.99",
           "amount": 2.99
         },
         {
-          "name": "Soon Come Dub Sample Pack",
+          "name": "Solar Studies Samplepack",
           "price": "$2.99",
           "amount": 2.99
         },
@@ -166,7 +207,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:05:07.928Z"
+      "fetchedAt": "2026-10-26T08:04:50.300Z"
     }
   }
 }

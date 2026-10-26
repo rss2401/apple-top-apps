@@ -2,7 +2,7 @@
   "id": "1665024375",
   "name": "Runway: AI Image & Video",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:46:41.469Z",
+  "fetchedAt": "2026-10-26T08:26:18.972Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -1937,11 +1937,6 @@
           "amount": 98
         },
         {
-          "name": "Standard - Yearly",
-          "price": "¥998.00",
-          "amount": 998
-        },
-        {
           "name": "Unlimited - Monthly",
           "price": "¥698.00",
           "amount": 698
@@ -1952,17 +1947,22 @@
           "amount": 198
         },
         {
-          "name": "4000 Credits",
-          "price": "¥298.00",
-          "amount": 298
+          "name": "Standard - Yearly",
+          "price": "¥998.00",
+          "amount": 998
         },
         {
           "name": "10000 Generation Credits",
           "price": "¥698.00",
           "amount": 698
+        },
+        {
+          "name": "4000 Credits",
+          "price": "¥298.00",
+          "amount": 298
         }
       ],
-      "fetchedAt": "2026-10-19T08:43:11.406Z"
+      "fetchedAt": "2026-10-26T08:26:17.414Z"
     },
     "co": {
       "currency": "COP",
@@ -9130,7 +9130,7 @@
           "amount": 95
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:23.213Z"
+      "fetchedAt": "2026-10-26T08:26:18.971Z"
     },
     "uy": {
       "currency": "USD",

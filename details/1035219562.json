@@ -226,13 +226,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/1f/79/0e1f7927-db89-7428-78de-77c7835ecc7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/ordinaryfactory-inc/id415452973?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/1f/79/0e1f7927-db89-7428-78de-77c7835ecc7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/1f/79/0e1f7927-db89-7428-78de-77c7835ecc7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -379,8 +373,13 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/ordinaryfactory-inc/id415452973?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/1f/79/0e1f7927-db89-7428-78de-77c7835ecc7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/1f/79/0e1f7927-db89-7428-78de-77c7835ecc7c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "sellerUrl": "https://www.facebook.com/analogfilmapp",
-      "averageUserRating": 3.91983,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -388,12 +387,7 @@
       "formattedPrice": "¥8.00",
       "userRatingCountForCurrentVersion": 2657,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Analog Paris",
-      "trackViewUrl": "https://apps.apple.com/cn/app/analog-paris/id1035219562?uo=4",
       "averageUserRatingForCurrentVersion": 3.91983,
-      "releaseNotes": "- iOS 13 Support\n- Menu reorganization\n- More features will be available in future updates",
-      "minimumOsVersion": "9.3",
       "artistId": 415452973,
       "artistName": "ordinaryfactory Inc.",
       "genres": [
@@ -402,22 +396,28 @@
       ],
       "price": 8,
       "releaseDate": "2016-03-17T07:22:56Z",
+      "bundleId": "com.ordinaryfactory.analogparis",
+      "minimumOsVersion": "9.3",
       "trackId": 1035219562,
       "trackName": "Analog Paris",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "genreIds": [
         "6008",
         "6012"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "sellerName": "ordinaryfactory Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2019-10-12T21:01:11Z",
+      "releaseNotes": "- iOS 13 Support\n- Menu reorganization\n- More features will be available in future updates",
       "version": "1.0.992",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "■ #1 for 100 Weeks, Overall, Korea ■\n■ #1 Photo & Video app in 26 Countries ■\n\nAnalog Paris is the seventh app of Analog Film City Series.\nWith the specially created Analog Paris photo filters and color filters, you can edit your pictures as if they were taken in Paris.\n\n[ CONTACT ]\nfacebook.com/analogfilmapp",
-      "bundleId": "com.ordinaryfactory.analogparis",
+      "trackCensoredName": "Analog Paris",
+      "trackViewUrl": "https://apps.apple.com/cn/app/analog-paris/id1035219562?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.91983,
       "userRatingCount": 2657,
       "country": "CHN"
     },

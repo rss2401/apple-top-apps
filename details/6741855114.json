@@ -196,14 +196,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/21/83/6d218390-e0ff-7fe3-8dfa-308a18f8afc2/empfohlen-designA_Apple_Appstore_landscape_2064x2752_04__U00281_U0029.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/88/84/ce8884b5-30a8-982e-7f9e-a20e6d007862/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c6/e8/5ec6e873-cf07-8d1e-9ad0-d21c7da50bfc/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/unium-gmbh/id1807067202?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c6/e8/5ec6e873-cf07-8d1e-9ad0-d21c7da50bfc/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/c6/e8/5ec6e873-cf07-8d1e-9ad0-d21c7da50bfc/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "artistViewUrl": "https://apps.apple.com/de/developer/unium-gmbh/id1807067202?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/88/84/ce8884b5-30a8-982e-7f9e-a20e6d007862/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/88/84/ce8884b5-30a8-982e-7f9e-a20e6d007862/empfohlenAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,45 +338,43 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.35787,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "45680640",
+      "fileSizeBytes": "45195264",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 25588,
+      "userRatingCountForCurrentVersion": 25744,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.35958,
-      "averageUserRating": 4.35958,
-      "bundleId": "de.emex.empsurveys",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "empfohlen.de: Geld verdienen",
-      "trackViewUrl": "https://apps.apple.com/de/app/empfohlen-de-geld-verdienen/id6741855114?uo=4",
       "genres": [
         "Lifestyle"
       ],
       "artistId": 1807067202,
       "artistName": "Unium GmbH",
-      "price": 0,
+      "genreIds": [
+        "6012"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2025-02-26T08:00:00Z",
+      "currentVersionReleaseDate": "2026-10-22T17:29:29Z",
+      "releaseNotes": "Verbesserungen und kleinere Fehlerbehebungen",
+      "version": "3.3.10",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Geld verdienen mit Umfragen und Tests? So oft und wann du willst? Jetzt bei empfohlen.de anmelden und durchstarten!\n\nWerde Mitglied auf einer der führenden Plattformen für bezahlte Online-Umfragen & Tests in Deutschland.\n\nNach der kostenlosen Anmeldung hast du sofort Zugang zu unzähligen Online-Umfragen.\n\nWähle aus einer großen Auswahl an Aufträgen, die genau zu dir passen — flexibel von unterwegs oder von zu Hause aus.\nDu wirst regelmäßig zu den neuesten Umfragen eingeladen.\nAufträge mit mehreren Zielen ermöglichen es dir, durch kontinuierliches Testen höhere Gewinne zu erzielen.\nSchnelle und sichere Auszahlung: Werde innerhalb von 48 Stunden ausgezahlt.\nBewertet mit \"Excellent\" — 4,3 Sterne bei Trustpilot aus über 130.000 Bewertungen.\n\nMelde dich jetzt an und starte durch!",
+      "averageUserRating": 4.35787,
+      "trackCensoredName": "empfohlen.de: Geld verdienen",
+      "trackViewUrl": "https://apps.apple.com/de/app/empfohlen-de-geld-verdienen/id6741855114?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "de.emex.empsurveys",
       "sellerName": "Unium GmbH",
       "trackId": 6741855114,
       "trackName": "empfohlen.de: Geld verdienen",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
-      "genreIds": [
-        "6012"
-      ],
-      "releaseDate": "2025-02-26T08:00:00Z",
-      "currentVersionReleaseDate": "2026-09-25T14:35:38Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Fehlerbehebungen und Optimierungen.",
-      "version": "3.3.9",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Geld verdienen mit Umfragen und Tests? So oft und wann du willst? Jetzt bei empfohlen.de anmelden und durchstarten!\n\nWerde Mitglied auf einer der führenden Plattformen für bezahlte Online-Umfragen & Tests in Deutschland.\n\nNach der kostenlosen Anmeldung hast du sofort Zugang zu unzähligen Online-Umfragen.\n\nWähle aus einer großen Auswahl an Aufträgen, die genau zu dir passen — flexibel von unterwegs oder von zu Hause aus.\nDu wirst regelmäßig zu den neuesten Umfragen eingeladen.\nAufträge mit mehreren Zielen ermöglichen es dir, durch kontinuierliches Testen höhere Gewinne zu erzielen.\nSchnelle und sichere Auszahlung: Werde innerhalb von 48 Stunden ausgezahlt.\nBewertet mit \"Excellent\" — 4,3 Sterne bei Trustpilot aus über 130.000 Bewertungen.\n\nMelde dich jetzt an und starte durch!",
-      "minimumOsVersion": "15.0",
-      "userRatingCount": 25588,
+      "price": 0,
+      "userRatingCount": 25744,
       "country": "DEU"
     }
   ]

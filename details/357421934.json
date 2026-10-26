@@ -625,13 +625,7 @@
       "country": "JPN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/peakfinder-gmbh/id357421937?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -766,12 +760,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
+      "artistViewUrl": "https://apps.apple.com/us/developer/peakfinder-gmbh/id357421937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/93/44/2c/93442c17-4288-7bc0-2400-6a1ced2456f5/370fb089-09e7-447c-b439-d7becc698f8f_iPad_Pro__U00289.7-inch_U0029-screenshot1.png/552x414bb.png",
@@ -782,31 +775,39 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.70662,
-      "trackCensoredName": "PeakFinder",
-      "trackViewUrl": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
-      "releaseNotes": "PeakFinder uses a new elevation model. It contains more terrain details while the data size stays the same, so the mountains are displayed even more precisely.",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
+      ],
+      "artistId": 357421937,
       "artistName": "PeakFinder GmbH",
       "genres": [
         "Travel",
         "Navigation"
       ],
-      "bundleId": "ch.peakfinder.peakfinder-alps",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "releaseDate": "2010-03-12T08:00:00Z",
+      "minimumOsVersion": "15.0",
       "trackId": 357421934,
       "trackName": "PeakFinder",
+      "releaseDate": "2010-03-12T08:00:00Z",
       "sellerName": "PeakFinder GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
+      "releaseNotes": "PeakFinder uses a new elevation model. It contains more terrain details while the data size stays the same, so the mountains are displayed even more precisely.",
       "version": "4.9.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The mountains are calling! Explore more mountains than any mountaineer! PeakFinder makes it possible… and shows the names of all mountains and peaks with a 360° panorama display.\nThis functions completely offline - and worldwide!\n\nPeakFinder knows more than 1'000'000 peaks - from Mount Everest to the little hill around the corner.\n\n•••••••••\nWinner of several prizes like 'Best of AppStore', 'App of the Week', …\nHighly recommended by macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, themetaq.com, digital-geography.com, …\n•••••••••\n\n\n••• Features •••\n\n• Works offline and worldwide\n• Includes more than 1'000'000 peak names\n• Overlays the camera image with the panorama drawing\n• Realtime rendering of the surrounding landscapes in a range of 300km/200mil\n• Digital telescope to select less prominent peaks\n• 'Show me'-function for visible peaks\n• Selection of the viewpoint by GPS, the peak directory or an (online) map\n• Can fly like a bird from peak to peak and vertically upwards\n• Mark mountains and places you like\n• Shows the solar and lunar orbit with rise and set times\n• Uses compass and motion sensors\n• Daily updates of the peak directory\n• Does not contain any recurring costs. You pay only once\n• Is free of advertising\n\n\n••• Ratings •••\n\nEvery good rating (including those following updates) makes me happy. The positive ratings and reviews make it possible for me to continue to improve the app for you. Many thanks!\n\n\n••• Support •••\n\nIn case of questions, problems, mistakes, missing mountain names and ideas for future expansion, I am happy to help you. Please write to support@peakfinder.com.",
-      "averageUserRatingForCurrentVersion": 4.70662,
+      "averageUserRating": 4.70667,
+      "trackCensoredName": "PeakFinder",
+      "trackViewUrl": "https://apps.apple.com/us/app/peakfinder/id357421934?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "ch.peakfinder.peakfinder-alps",
+      "sellerUrl": "https://www.peakfinder.com/mobile/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -821,24 +822,43 @@
       ],
       "fileSizeBytes": "44539904",
       "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 11531,
+      "userRatingCountForCurrentVersion": 11533,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.peakfinder.com/mobile/",
+      "averageUserRatingForCurrentVersion": 4.70667,
       "genreIds": [
         "6003",
         "6010"
       ],
-      "artistId": 357421937,
       "price": 4.99,
-      "userRatingCount": 11531,
+      "userRatingCount": 11533,
       "country": "USA"
     },
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/93/44/2c/93442c17-4288-7bc0-2400-6a1ced2456f5/370fb089-09e7-447c-b439-d7becc698f8f_iPad_Pro__U00289.7-inch_U0029-screenshot1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e2/e1/98/e2e198c4-009c-67b4-e0bf-5da10115f8a6/5788477c-a2a8-40bb-a00c-fab1867c5be8_iPad_Pro__U00289.7-inch_U0029-screenshot2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ca/6a/c7/ca6ac722-7e7e-91a9-e71d-88d26496e3e8/13625c85-44bb-498f-b5df-572821c0cd21_iPad_Pro__U00289.7-inch_U0029-screenshot3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/7d/69/3d7d69bd-732b-e9ca-a34c-b871f9545b85/054e683e-4321-4f73-ab00-4bcd940744b2_iPad_Pro__U00289.7-inch_U0029-screenshot4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/ec/e9/77ece9e7-a3a7-c294-f7fc-aedda883ed9f/d2403fb4-9009-4228-aed2-64d049eeaa10_iPad_Pro__U00289.7-inch_U0029-screenshot5.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/peakfinder-gmbh/id357421937?uo=4",
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -971,58 +991,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/peakfinder-gmbh/id357421937?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/93/44/2c/93442c17-4288-7bc0-2400-6a1ced2456f5/370fb089-09e7-447c-b439-d7becc698f8f_iPad_Pro__U00289.7-inch_U0029-screenshot1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e2/e1/98/e2e198c4-009c-67b4-e0bf-5da10115f8a6/5788477c-a2a8-40bb-a00c-fab1867c5be8_iPad_Pro__U00289.7-inch_U0029-screenshot2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ca/6a/c7/ca6ac722-7e7e-91a9-e71d-88d26496e3e8/13625c85-44bb-498f-b5df-572821c0cd21_iPad_Pro__U00289.7-inch_U0029-screenshot3.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/7d/69/3d7d69bd-732b-e9ca-a34c-b871f9545b85/054e683e-4321-4f73-ab00-4bcd940744b2_iPad_Pro__U00289.7-inch_U0029-screenshot4.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/ec/e9/77ece9e7-a3a7-c294-f7fc-aedda883ed9f/d2403fb4-9009-4228-aed2-64d049eeaa10_iPad_Pro__U00289.7-inch_U0029-screenshot5.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "PeakFinder verwendet ein neues Höhenmodell. Es enthält mehr Geländedetails bei gleicher Datengrösse, sodass die Berge noch präziser dargestellt werden.",
-      "artistId": 357421937,
-      "artistName": "PeakFinder GmbH",
-      "genres": [
-        "Reisen",
-        "Navigation"
-      ],
-      "price": 5.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "bundleId": "ch.peakfinder.peakfinder-alps",
-      "genreIds": [
-        "6003",
-        "6010"
-      ],
-      "releaseDate": "2010-03-12T08:00:00Z",
-      "trackId": 357421934,
-      "trackName": "PeakFinder",
-      "sellerName": "PeakFinder GmbH",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
-      "version": "4.9.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Der Berg ruft! Mehr Berge kennen als jeder Bergler? PeakFinder machts möglich. Die App zeigt von jedem beliebigen Ort ein 360° Panorama mit den Namen aller Berge.\nUnd dies funktioniert komplett offline - weltweit!\n\nPeakFinder kennt mehr als 1'000'000 Berge - vom Mount Everest bis zum Hügel um die Ecke.\n\n•••••••••\nGewinner von diversen Preisen wie 'Best of AppStore', 'App of the Week', …\nEmpfohlen von macnewsworld.com, nationalgeographic.com, chip.de, outdoor-magazin.com, appsundco.de, spiegel.de, focus.de, macwelt.de, iphone-blog.ch, …\n•••••••••\n\n\n••• Funktionen •••\n\n• Funktioniert offline und weltweit\n• Kennt über 1'000'000 Bergnamen\n• Überlagert das Kamerabild mit der Panoramadarstellung\n• Darstellung der 360° Bergpanoramen im Umkreis von 300km\n• Digitales Fernrohr für die Ansicht weniger prominenter Berge\n• 'Show Me'-Funktion für das Auffinden aller sichtbaren Berge\n• Standortwahl über GPS, das Gipfelverzeichnis oder eine Karte\n• Kann fliegen wie ein Vogel von Berg zu Berg und senkrecht hoch\n• Markiere Berge und Orte, die du magst\n• Zeigt die Sonnen- und Mondbahn mit den Auf- und Untergangszeiten an\n• Nutzt Kompass und Bewegungssensoren\n• Tägliche Updates des Gipfelverzeichnisses\n• Enthält keine wiederkehrende Kosten. Du bezahlst nur einmal\n• Ist frei von Werbung\n\n\n••• Bewertungen •••\n\nIch freue mich über jedes gute Rating (auch nach jedem Update). Die positiven Ratings und Reviews ermöglichen es mir, die App weiter zu verbessern. Vielen Dank!\n\n\n••• Support •••\n\nBei Fragen, Problemen, Fehlern, fehlenden Bergnamen und Ideen für Erweiterungen helfe ich gerne weiter. Bitte schreibe an support@peakfinder.com.",
-      "averageUserRating": 4.7424,
-      "trackCensoredName": "PeakFinder",
-      "trackViewUrl": "https://apps.apple.com/de/app/peakfinder/id357421934?uo=4",
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.74239,
       "sellerUrl": "https://www.peakfinder.com/de/mobile/",
-      "userRatingCountForCurrentVersion": 14026,
-      "minimumOsVersion": "15.0",
+      "averageUserRating": 4.74239,
+      "trackCensoredName": "PeakFinder",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -1037,16 +1009,40 @@
       ],
       "fileSizeBytes": "44539904",
       "formattedPrice": "5,99 €",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 14025,
+      "trackViewUrl": "https://apps.apple.com/de/app/peakfinder/id357421934?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.7424,
-      "userRatingCount": 14026,
+      "genres": [
+        "Reisen",
+        "Navigation"
+      ],
+      "sellerName": "PeakFinder GmbH",
+      "genreIds": [
+        "6003",
+        "6010"
+      ],
+      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
+      "releaseDate": "2010-03-12T08:00:00Z",
+      "releaseNotes": "PeakFinder verwendet ein neues Höhenmodell. Es enthält mehr Geländedetails bei gleicher Datengrösse, sodass die Berge noch präziser dargestellt werden.",
+      "version": "4.9.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Der Berg ruft! Mehr Berge kennen als jeder Bergler? PeakFinder machts möglich. Die App zeigt von jedem beliebigen Ort ein 360° Panorama mit den Namen aller Berge.\nUnd dies funktioniert komplett offline - weltweit!\n\nPeakFinder kennt mehr als 1'000'000 Berge - vom Mount Everest bis zum Hügel um die Ecke.\n\n•••••••••\nGewinner von diversen Preisen wie 'Best of AppStore', 'App of the Week', …\nEmpfohlen von macnewsworld.com, nationalgeographic.com, chip.de, outdoor-magazin.com, appsundco.de, spiegel.de, focus.de, macwelt.de, iphone-blog.ch, …\n•••••••••\n\n\n••• Funktionen •••\n\n• Funktioniert offline und weltweit\n• Kennt über 1'000'000 Bergnamen\n• Überlagert das Kamerabild mit der Panoramadarstellung\n• Darstellung der 360° Bergpanoramen im Umkreis von 300km\n• Digitales Fernrohr für die Ansicht weniger prominenter Berge\n• 'Show Me'-Funktion für das Auffinden aller sichtbaren Berge\n• Standortwahl über GPS, das Gipfelverzeichnis oder eine Karte\n• Kann fliegen wie ein Vogel von Berg zu Berg und senkrecht hoch\n• Markiere Berge und Orte, die du magst\n• Zeigt die Sonnen- und Mondbahn mit den Auf- und Untergangszeiten an\n• Nutzt Kompass und Bewegungssensoren\n• Tägliche Updates des Gipfelverzeichnisses\n• Enthält keine wiederkehrende Kosten. Du bezahlst nur einmal\n• Ist frei von Werbung\n\n\n••• Bewertungen •••\n\nIch freue mich über jedes gute Rating (auch nach jedem Update). Die positiven Ratings und Reviews ermöglichen es mir, die App weiter zu verbessern. Vielen Dank!\n\n\n••• Support •••\n\nBei Fragen, Problemen, Fehlern, fehlenden Bergnamen und Ideen für Erweiterungen helfe ich gerne weiter. Bitte schreibe an support@peakfinder.com.",
+      "bundleId": "ch.peakfinder.peakfinder-alps",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "trackId": 357421934,
+      "trackName": "PeakFinder",
+      "artistId": 357421937,
+      "artistName": "PeakFinder GmbH",
+      "price": 5.99,
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "userRatingCount": 14025,
       "country": "DEU"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/peakfinder-gmbh/id357421937?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
@@ -1063,6 +1059,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1195,15 +1192,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/peakfinder-gmbh/id357421937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "trackCensoredName": "PeakFinder",
-      "trackViewUrl": "https://apps.apple.com/fr/app/peakfinder/id357421934?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "15.0",
       "averageUserRatingForCurrentVersion": 4.75992,
       "sellerUrl": "https://www.peakfinder.com/fr/mobile/",
       "languageCodesISO2A": [
@@ -1224,38 +1220,58 @@
       "trackContentRating": "4+",
       "artistId": 357421937,
       "artistName": "PeakFinder GmbH",
-      "genres": [
-        "Voyages",
-        "Navigation"
-      ],
       "price": 5.99,
-      "releaseNotes": "PeakFinder utilise un nouveau modèle d'élévation. Il contient plus de détails du terrain pour une taille de données identique, ce qui permet d'afficher les montagnes encore plus précisément.",
-      "bundleId": "ch.peakfinder.peakfinder-alps",
-      "releaseDate": "2010-03-12T08:00:00Z",
       "trackId": 357421934,
       "trackName": "PeakFinder",
+      "releaseDate": "2010-03-12T08:00:00Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6003",
         "6010"
       ],
+      "releaseNotes": "PeakFinder utilise un nouveau modèle d'élévation. Il contient plus de détails du terrain pour une taille de données identique, ce qui permet d'afficher les montagnes encore plus précisément.",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
       "sellerName": "PeakFinder GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
       "version": "4.9.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Les montagnes vous appellent ! Explorez plus de montagnes que n'importe quel alpiniste ! PeakFinder le rend possible… et affiche les noms de toutes les montagnes et pics avec un panorama à 360°.\nCes fonctions sont totalement hors ligne, et dans le monde entier !\n\nL'app connaît plus de 1'000'000 pics, depuis le Mont Everest jusqu'à la petite colline du coin.\n\n•••••••••\nLauréate de plusieurs prix tels que 'Meilleure de l'AppStore', 'App de la semaine', …\nExtrêmement recommandée par macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, digital-geography.com, …\n•••••••••\n\n\n••• Fonctions •••\n\n• Fonctionne complètement hors ligne dans le monde entier\n• Inclut plus de 1'000'000 noms de sommets\n• Superposez l'image de l'appareil photo avec le dessin panoramique\n• Rendu rapide des paysages environnants dans un rayon de 300km\n• Jumelles numériques pour choisir des pics moins proéminents\n• Fonction 'Montrez-moi' pour les sommets visibles\n• Sélection du point de vue par GPS, au moyen du répertoire des sommets ou sur une carte (en ligne)\n• Peut voler comme un oiseau de sommet en sommet et verticalement vers le haut\n• Marquez les montagnes et les endroits que vous aimez\n• Affiche les orbites solaire et lunaire et les heures de lever et de coucher\n• Utilise une boussole et des capteurs d'accéléromètre\n• Mises à jour quotidiennes du répertoire des sommets\n• Ne comprend pas de frais récurrents. Vous ne paierez qu'une fois\n• Sans publicité\n\n\n••• Notes •••\n\nToute bonne note (y compris les mises à jour suivantes) me fait plaisir. Les notes et les évaluations positives me permettent de continuer à améliorer l'app pour vous. Merci beaucoup !\n\n\n••• Assistance •••\n\nEn cas de questions, de problèmes, d'erreurs, de noms de montagnes manquants et d'idées pour des expansions futures, je suis heureux de vous aider. Veuillez écrire à support@peakfinder.com.",
       "averageUserRating": 4.75992,
+      "trackCensoredName": "PeakFinder",
+      "trackViewUrl": "https://apps.apple.com/fr/app/peakfinder/id357421934?uo=4",
+      "contentAdvisoryRating": "4+",
+      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
+      "genres": [
+        "Voyages",
+        "Navigation"
+      ],
+      "bundleId": "ch.peakfinder.peakfinder-alps",
       "userRatingCount": 5244,
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/93/44/2c/93442c17-4288-7bc0-2400-6a1ced2456f5/370fb089-09e7-447c-b439-d7becc698f8f_iPad_Pro__U00289.7-inch_U0029-screenshot1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e2/e1/98/e2e198c4-009c-67b4-e0bf-5da10115f8a6/5788477c-a2a8-40bb-a00c-fab1867c5be8_iPad_Pro__U00289.7-inch_U0029-screenshot2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ca/6a/c7/ca6ac722-7e7e-91a9-e71d-88d26496e3e8/13625c85-44bb-498f-b5df-572821c0cd21_iPad_Pro__U00289.7-inch_U0029-screenshot3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/7d/69/3d7d69bd-732b-e9ca-a34c-b871f9545b85/054e683e-4321-4f73-ab00-4bcd940744b2_iPad_Pro__U00289.7-inch_U0029-screenshot4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/ec/e9/77ece9e7-a3a7-c294-f7fc-aedda883ed9f/d2403fb4-9009-4228-aed2-64d049eeaa10_iPad_Pro__U00289.7-inch_U0029-screenshot5.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/peakfinder-gmbh/id357421937?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1390,54 +1406,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b8/e6/d5/b8e6d554-2fed-9af1-be4b-11eec0a4a38f/1e3001dc-491d-4d71-81f1-dcfd9c0753b6_iPhone_6s_Plus-screenshot1.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/aa/18/ea/aa18ea92-8c1e-eb22-72ec-824759ddccb6/2dd215d4-8a31-4c18-a966-a05a4e93a837_iPhone_6s_Plus-screenshot2.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cb/d0/98/cbd098a7-d5d1-ebed-0788-204e8752449b/22106f1a-cc4e-4eda-bf5f-69bb0847f7c3_iPhone_6s_Plus-screenshot3.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ca/ee/dacaee3f-6a50-8c7a-7694-59e427be2921/b2cf7c56-1d75-447f-81bf-87e4f9f45bc4_iPhone_6s_Plus-screenshot4.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/37/f0/ce/37f0ce18-fa7a-7ba6-7482-a0e4fa75514a/f75fa185-b003-4559-9f0e-0f658c6b3da7_iPhone_6s_Plus-screenshot5.png/406x228bb.png"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/93/44/2c/93442c17-4288-7bc0-2400-6a1ced2456f5/370fb089-09e7-447c-b439-d7becc698f8f_iPad_Pro__U00289.7-inch_U0029-screenshot1.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e2/e1/98/e2e198c4-009c-67b4-e0bf-5da10115f8a6/5788477c-a2a8-40bb-a00c-fab1867c5be8_iPad_Pro__U00289.7-inch_U0029-screenshot2.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ca/6a/c7/ca6ac722-7e7e-91a9-e71d-88d26496e3e8/13625c85-44bb-498f-b5df-572821c0cd21_iPad_Pro__U00289.7-inch_U0029-screenshot3.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/7d/69/3d7d69bd-732b-e9ca-a34c-b871f9545b85/054e683e-4321-4f73-ab00-4bcd940744b2_iPad_Pro__U00289.7-inch_U0029-screenshot4.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/ec/e9/77ece9e7-a3a7-c294-f7fc-aedda883ed9f/d2403fb4-9009-4228-aed2-64d049eeaa10_iPad_Pro__U00289.7-inch_U0029-screenshot5.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/dd/ab/66ddab45-f2ff-b38c-3a9f-413e64da5584/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/peakfinder-gmbh/id357421937?uo=4",
-      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
-      "minimumOsVersion": "15.0",
-      "artistId": 357421937,
-      "artistName": "PeakFinder GmbH",
-      "genres": [
-        "Travel",
-        "Navigation"
-      ],
-      "price": 4.99,
-      "bundleId": "ch.peakfinder.peakfinder-alps",
-      "releaseDate": "2010-03-12T08:00:00Z",
-      "releaseNotes": "PeakFinder uses a new elevation model. It contains more terrain details while the data size stays the same, so the mountains are displayed even more precisely.",
-      "trackId": 357421934,
-      "trackName": "PeakFinder",
-      "genreIds": [
-        "6003",
-        "6010"
-      ],
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "PeakFinder GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "4.9.2",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "The mountains are calling! Explore more mountains than any mountaineer! PeakFinder makes it possible… and shows the names of all mountains and peaks with a 360° panorama display.\nThis functions completely offline - and worldwide!\n\nPeakFinder knows more than 1'000'000 peaks - from Mount Everest to the little hill around the corner.\n\n•••••••••\nWinner of several prizes like 'Best of AppStore', 'App of the Week', …\nHighly recommended by macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, themetaq.com, digital-geography.com, …\n•••••••••\n\n\n••• Features •••\n\n• Works offline and worldwide\n• Includes more than 1'000'000 peak names\n• Overlays the camera image with the panorama drawing\n• Realtime rendering of the surrounding landscapes in a range of 300km/200mil\n• Digital telescope to select less prominent peaks\n• 'Show me'-function for visible peaks\n• Selection of the viewpoint by GPS, the peak directory or an (online) map\n• Can fly like a bird from peak to peak and vertically upwards\n• Mark mountains and places you like\n• Shows the solar and lunar orbit with rise and set times\n• Uses compass and motion sensors\n• Daily updates of the peak directory\n• Does not contain any recurring costs. You pay only once\n• Is free of advertising\n\n\n••• Ratings •••\n\nEvery good rating (including those following updates) makes me happy. The positive ratings and reviews make it possible for me to continue to improve the app for you. Many thanks!\n\n\n••• Support •••\n\nIn case of questions, problems, mistakes, missing mountain names and ideas for future expansion, I am happy to help you. Please write to support@peakfinder.com.",
+      "sellerUrl": "https://www.peakfinder.com/mobile/",
       "averageUserRatingForCurrentVersion": 4.77266,
-      "averageUserRating": 4.77266,
-      "trackCensoredName": "PeakFinder",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -1452,11 +1425,38 @@
       ],
       "fileSizeBytes": "44539904",
       "formattedPrice": "£4.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 1412,
-      "trackViewUrl": "https://apps.apple.com/gb/app/peakfinder/id357421934?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.peakfinder.com/mobile/",
+      "trackCensoredName": "PeakFinder",
+      "trackViewUrl": "https://apps.apple.com/gb/app/peakfinder/id357421934?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77266,
+      "artistName": "PeakFinder GmbH",
+      "genres": [
+        "Travel",
+        "Navigation"
+      ],
+      "artistId": 357421937,
+      "price": 4.99,
+      "currentVersionReleaseDate": "2026-10-07T13:03:56Z",
+      "trackId": 357421934,
+      "trackName": "PeakFinder",
+      "sellerName": "PeakFinder GmbH",
+      "releaseDate": "2010-03-12T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "genreIds": [
+        "6003",
+        "6010"
+      ],
+      "releaseNotes": "PeakFinder uses a new elevation model. It contains more terrain details while the data size stays the same, so the mountains are displayed even more precisely.",
+      "version": "4.9.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "The mountains are calling! Explore more mountains than any mountaineer! PeakFinder makes it possible… and shows the names of all mountains and peaks with a 360° panorama display.\nThis functions completely offline - and worldwide!\n\nPeakFinder knows more than 1'000'000 peaks - from Mount Everest to the little hill around the corner.\n\n•••••••••\nWinner of several prizes like 'Best of AppStore', 'App of the Week', …\nHighly recommended by macnewsworld.com, nationalgeographic.com, smokinapps.com, outdoor-magazin.com, themetaq.com, digital-geography.com, …\n•••••••••\n\n\n••• Features •••\n\n• Works offline and worldwide\n• Includes more than 1'000'000 peak names\n• Overlays the camera image with the panorama drawing\n• Realtime rendering of the surrounding landscapes in a range of 300km/200mil\n• Digital telescope to select less prominent peaks\n• 'Show me'-function for visible peaks\n• Selection of the viewpoint by GPS, the peak directory or an (online) map\n• Can fly like a bird from peak to peak and vertically upwards\n• Mark mountains and places you like\n• Shows the solar and lunar orbit with rise and set times\n• Uses compass and motion sensors\n• Daily updates of the peak directory\n• Does not contain any recurring costs. You pay only once\n• Is free of advertising\n\n\n••• Ratings •••\n\nEvery good rating (including those following updates) makes me happy. The positive ratings and reviews make it possible for me to continue to improve the app for you. Many thanks!\n\n\n••• Support •••\n\nIn case of questions, problems, mistakes, missing mountain names and ideas for future expansion, I am happy to help you. Please write to support@peakfinder.com.",
+      "minimumOsVersion": "15.0",
+      "bundleId": "ch.peakfinder.peakfinder-alps",
       "userRatingCount": 1412,
       "country": "GBR"
     }

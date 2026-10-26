@@ -1,13 +1,34 @@
 {
   "id": "503451073",
-  "name": "Alibaba.com",
+  "name": "Commerce B2B avec Alibaba",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:09:22.234Z",
+  "fetchedAt": "2026-10-26T08:18:05.468Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
-      "items": [],
-      "fetchedAt": "2026-10-19T08:09:19.192Z"
+      "items": [
+        {
+          "name": "Elite (Annuel)",
+          "price": "990,00 €",
+          "amount": 990
+        },
+        {
+          "name": "Elite (Mensuel)",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Pro (Annuel)",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Pro (Mensuel)",
+          "price": "22,90 €",
+          "amount": 22.9
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:18:05.468Z"
     },
     "gb": {
       "currency": "GBP",

@@ -2,7 +2,7 @@
   "id": "447188370",
   "name": "Snapchat",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:09:31.617Z",
+  "fetchedAt": "2026-10-26T08:08:29.283Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,14 +18,14 @@
           "amount": 3.99
         },
         {
-          "name": "Memories Storage",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Snapchat+ Monthly Plan",
           "price": "3,99 €",
           "amount": 3.99
+        },
+        {
+          "name": "Memories Storage",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Snapchat+ (Monthly Plan)",
@@ -58,7 +58,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:09:29.044Z"
+      "fetchedAt": "2026-10-26T08:08:28.513Z"
     },
     "fr": {
       "currency": "EUR",
@@ -160,17 +160,17 @@
           "amount": 1.49
         },
         {
-          "name": "Snapchat+ (Monthly Plan)",
-          "price": "$4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Snapstreak Restore",
           "price": "$0.49",
           "amount": 0.49
+        },
+        {
+          "name": "Snapchat+ (Monthly Plan)",
+          "price": "$4.99",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:09:31.612Z"
+      "fetchedAt": "2026-10-26T08:08:29.283Z"
     }
   }
 }

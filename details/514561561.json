@@ -183,8 +183,13 @@
       "userRatingCount": 246562
     },
     {
-      "advisories": [],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/hmrc/id514561564?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/95/250e9568-5417-7ffc-3b45-9344beaf3583/AppIcon-Release-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/95/250e9568-5417-7ffc-3b45-9344beaf3583/AppIcon-Release-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -317,13 +322,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/hmrc/id514561564?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/95/250e9568-5417-7ffc-3b45-9344beaf3583/AppIcon-Release-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/95/250e9568-5417-7ffc-3b45-9344beaf3583/AppIcon-Release-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/e0/11/3ae011b5-8090-8ba8-766d-bd5b262f351d/iOS_6.9_phone_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/b5/81/0bb58119-367f-35f0-05c3-3f4dba4cef47/iOS_6.9_phone_2.png/320x480bb.jpg",
@@ -342,43 +342,43 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/0e/95/250e9568-5417-7ffc-3b45-9344beaf3583/AppIcon-Release-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "15.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-01T19:36:29Z",
+      "trackCensoredName": "HMRC",
+      "trackViewUrl": "https://apps.apple.com/gb/app/hmrc/id514561561?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.77805,
       "releaseNotes": "This release includes improvements to onboarding and the tax calculator.\nWork also continues to improve accessibility for users using screen readers. This improves their use on the sign in, tax calculator, help and settings pages.",
       "artistId": 514561564,
       "artistName": "HMRC",
       "genres": [
         "Finance"
       ],
+      "price": 0,
       "bundleId": "uk.gov.hmrc.TaxCalc",
-      "releaseDate": "2012-05-28T07:00:00Z",
       "trackId": 514561561,
       "trackName": "HMRC",
+      "releaseDate": "2012-05-28T07:00:00Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6015"
       ],
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
       "sellerName": "HMRC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-01T19:36:29Z",
       "version": "19.6.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Take control of your money and tax with the HMRC app\n\nIt’s secure, free to download, and easy to use. Get on it, and join millions of people already saving time with the HMRC app.\n\nKey Features: \n- Quick setup: sign in using face recognition, fingerprint scan, or a six-digit PIN \n- Stay in control: check your tax code and see your pay before it even shows in your bank, so you know you're paying the right amount\n- Claim a tax refund: find out if you’re due any tax back from us and quickly claim a refund if you’re owed one \n- Check your State Pension: see how much State Pension you could get, when you can get it and how to increase it, if you can \n- Self Assessment: a safe and secure way to make Self Assessment payments and get information you'll need to file \n- Child Benefit support: claim, manage, and update your Child Benefit details \n- National Insurance: find and save your National Insurance number so you have it when you need it \n- Go paperless: opt to receive key messages from HMRC online\n\nDownload the HMRC app today and stay on top of your money and taxes",
-      "averageUserRating": 4.77819,
-      "trackCensoredName": "HMRC",
-      "trackViewUrl": "https://apps.apple.com/gb/app/hmrc/id514561561?uo=4",
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.77805,
+      "fileSizeBytes": "36022272",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 259732,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "36022272",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 258970,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.77819,
-      "price": 0,
-      "userRatingCount": 258970,
+      "userRatingCount": 259732,
       "country": "GBR"
     }
   ]

@@ -2,7 +2,7 @@
   "id": "544007664",
   "name": "YouTube",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:08:41.618Z",
+  "fetchedAt": "2026-10-26T08:07:45.904Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -48,17 +48,17 @@
           "amount": 3.49
         },
         {
-          "name": "Super Chat",
-          "price": "2,49 €",
-          "amount": 2.49
-        },
-        {
           "name": "Movies & Shows",
           "price": "3,49 €",
           "amount": 3.49
+        },
+        {
+          "name": "Super Chat",
+          "price": "2,49 €",
+          "amount": 2.49
         }
       ],
-      "fetchedAt": "2026-10-19T08:08:37.406Z"
+      "fetchedAt": "2026-10-26T08:07:42.130Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 2.49
         }
       ],
-      "fetchedAt": "2026-10-19T08:08:38.685Z"
+      "fetchedAt": "2026-10-26T08:07:43.598Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:08:40.561Z"
+      "fetchedAt": "2026-10-26T08:07:45.329Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:08:41.617Z"
+      "fetchedAt": "2026-10-26T08:07:45.903Z"
     }
   }
 }

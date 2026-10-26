@@ -2,9 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/crowncards/id1892442686?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/crowncards/id1892442686?uo=4",
+      "advisories": [],
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/64/98/a664988b-65f8-8c64-c6a1-048aae85fa07/1-rip-packs-for-real-money-n3on-edited.png/320x480bb.jpg",
@@ -27,8 +27,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/89/41/36894161-e19f-18c1-7282-352205bc3ea4/8-instant-buyback-c-sell-button.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a5/dd/10a5dd8a-7b1b-8748-81b1-dc75d91dc0b2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -165,46 +165,46 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
+      "sellerUrl": "https://crowncards.io/",
+      "averageUserRating": 4.7038,
       "trackCensoredName": "CrownCards - Trading Cards",
-      "trackViewUrl": "https://apps.apple.com/gb/app/crowncards-trading-cards/id6762010774?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.6932,
-      "minimumOsVersion": "16.4",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "408014848",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 6493,
+      "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 9085,
+      "trackViewUrl": "https://apps.apple.com/gb/app/crowncards-trading-cards/id6762010774?uo=4",
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.6932,
-      "sellerUrl": "https://crowncards.io/",
-      "releaseDate": "2026-06-03T07:00:00Z",
       "artistId": 1892442686,
       "artistName": "CrownCards",
       "genres": [
         "Shopping",
         "Entertainment"
       ],
-      "sellerName": "Crown Cards LLC",
-      "trackId": 6762010774,
-      "trackName": "CrownCards - Trading Cards",
+      "price": 0,
+      "bundleId": "io.crowncards.app",
       "genreIds": [
         "6024",
         "6016"
       ],
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "averageUserRatingForCurrentVersion": 4.7038,
       "currentVersionReleaseDate": "2026-10-12T06:46:59Z",
+      "sellerName": "Crown Cards LLC",
+      "trackId": 6762010774,
+      "trackName": "CrownCards - Trading Cards",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-06-03T07:00:00Z",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "minimumOsVersion": "16.4",
       "version": "1.1.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Pull genuine trading cards from your phone. Build your collection or ship the real card home.\n\nCrown Cards is a digital pack-opening experience built around real collectibles. Every card in every pack is a genuine trading card, from popular TCG singles to graded slabs and rare chase cards every card's market value is listed before you open. No mystery on what a pull is worth. Just the thrill of the reveal, and your choice of what to do next.\n\nHow it works\n\n1. Pick a pack. Browse packs with clearly labeled card pools, rarity tiers, value ranges, and pull rates. Pick the one matching the chase you're after.\n\n2. Open and reveal. Watch each card turn one by one. You might pull everyday collectibles, sought-after singles, professionally graded slabs, or a rare hit.\n\n3. Decide per card. Two options for every card you pull:\n- Collect and keep it in your in-app collection\n- Ship it, request physical delivery of the real card\n\nReal cards, real values\n\nEvery card available in Crown Cards is a genuine, physical collectible. Listed values are tied to market data so you understand exactly what you pulled and what it's worth in the wider collecting market.\n\nPhysical shipping\n\nWant to hold the real thing? Request delivery and we'll ship your selected cards to your address with secure, tracked handling.",
-      "bundleId": "io.crowncards.app",
-      "releaseNotes": "Bug fixes and performance improvements.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "price": 0,
-      "userRatingCount": 6493,
+      "userRatingCount": 9085,
       "country": "GBR"
     }
   ]

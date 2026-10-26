@@ -1,0 +1,39 @@
+{
+  "id": "6781699989",
+  "name": "SportVitals: Daily Readiness",
+  "month": "202610",
+  "fetchedAt": "2026-10-26T08:24:04.136Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Massive Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Fanatical Tip",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Generous Tip",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Very Generous Tip",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Small Tip",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:24:04.136Z"
+    }
+  }
+}

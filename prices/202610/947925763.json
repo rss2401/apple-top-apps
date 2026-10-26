@@ -2,7 +2,7 @@
   "id": "947925763",
   "name": "Polarsteps",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:18:58.433Z",
+  "fetchedAt": "2026-10-26T08:17:48.925Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -16,9 +16,14 @@
           "name": "Plus Mensuel",
           "price": "8,99 €",
           "amount": 8.99
+        },
+        {
+          "name": "Plus Annuel",
+          "price": "39,99 €",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:18:58.432Z"
+      "fetchedAt": "2026-10-26T08:17:48.925Z"
     }
   }
 }

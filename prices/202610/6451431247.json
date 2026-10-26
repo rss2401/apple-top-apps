@@ -2,15 +2,15 @@
   "id": "6451431247",
   "name": "Dola: Smart AI Assistant",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:19:53.981Z",
+  "fetchedAt": "2026-10-26T08:18:51.989Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
       "items": [
         {
           "name": "Dola Plus - Monthly subscription",
-          "price": "£7.49",
-          "amount": 7.49
+          "price": "£19.90",
+          "amount": 19.9
         },
         {
           "name": "Dola Pro - Monthly subscription",
@@ -19,8 +19,13 @@
         },
         {
           "name": "Dola Plus - Annual subscription",
-          "price": "£74.99",
-          "amount": 74.99
+          "price": "£199.00",
+          "amount": 199
+        },
+        {
+          "name": "Image and video pack",
+          "price": "£14.90",
+          "amount": 14.9
         },
         {
           "name": "Dola Max - Monthly subscription",
@@ -28,7 +33,7 @@
           "amount": 109.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:19:53.975Z"
+      "fetchedAt": "2026-10-26T08:18:51.982Z"
     }
   }
 }

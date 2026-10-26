@@ -2,7 +2,7 @@
   "id": "284815942",
   "name": "Google アプリ",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:01:51.725Z",
+  "fetchedAt": "2026-10-26T08:01:24.678Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -23,14 +23,14 @@
           "amount": 21.99
         },
         {
-          "name": "Google AI Pro (5 TB)",
-          "price": "21,99 €",
-          "amount": 21.99
-        },
-        {
           "name": "200 GB (Monat)",
           "price": "2,99 €",
           "amount": 2.99
+        },
+        {
+          "name": "Google AI Pro (5 TB)",
+          "price": "21,99 €",
+          "amount": 21.99
         },
         {
           "name": "Google AI Plus (400 GB)",
@@ -53,12 +53,12 @@
           "amount": 0.89
         },
         {
-          "name": "Google AI Pro (5 TB)",
-          "price": "219,99 €",
-          "amount": 219.99
+          "name": "Google AI Plus (400 GB)",
+          "price": "49,99 €",
+          "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:45.748Z"
+      "fetchedAt": "2026-10-26T08:01:19.046Z"
     },
     "fr": {
       "currency": "EUR",
@@ -99,11 +99,6 @@
           "amount": 21.99
         },
         {
-          "name": "Google AI Plus (400 GB)",
-          "price": "4,99 €",
-          "amount": 4.99
-        },
-        {
           "name": "100 Go – Forfait mensuel",
           "price": "1,99 €",
           "amount": 1.99
@@ -112,9 +107,14 @@
           "name": "Google AI Plus (400 GB)",
           "price": "4,99 €",
           "amount": 4.99
+        },
+        {
+          "name": "30 GB",
+          "price": "0,89 €",
+          "amount": 0.89
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:47.189Z"
+      "fetchedAt": "2026-10-26T08:01:20.584Z"
     },
     "gb": {
       "currency": "GBP",
@@ -165,12 +165,12 @@
           "amount": 0.69
         },
         {
-          "name": "Google AI Plus (2 TB)",
-          "price": "£79.99",
-          "amount": 79.99
+          "name": "Google AI Plus (400 GB)",
+          "price": "£44.99",
+          "amount": 44.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:48.707Z"
+      "fetchedAt": "2026-10-26T08:01:21.999Z"
     },
     "jp": {
       "currency": "JPY",
@@ -226,7 +226,7 @@
           "amount": 2900
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:50.239Z"
+      "fetchedAt": "2026-10-26T08:01:23.543Z"
     },
     "us": {
       "currency": "USD",
@@ -272,17 +272,17 @@
           "amount": 19.99
         },
         {
-          "name": "Google AI Plus (400 GB)",
-          "price": "$49.99",
-          "amount": 49.99
-        },
-        {
           "name": "30 GB",
           "price": "$0.89",
           "amount": 0.89
+        },
+        {
+          "name": "Google AI Plus (400 GB)",
+          "price": "$49.99",
+          "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:01:51.724Z"
+      "fetchedAt": "2026-10-26T08:01:24.677Z"
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Music & Song Creator: Suno",
+  "name": "Suno - AI Songs & Music",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:55:23.770Z",
+  "fetchedAt": "2026-10-26T08:13:48.904Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -1875,19 +1875,24 @@
           "amount": 698
         },
         {
-          "name": "Premier Plan",
-          "price": "¥1,998.00",
-          "amount": 1998
-        },
-        {
           "name": "500 Credits",
           "price": "¥28.00",
           "amount": 28
         },
         {
+          "name": "Premier Plan",
+          "price": "¥1,998.00",
+          "amount": 1998
+        },
+        {
           "name": "1000 Credits",
           "price": "¥58.00",
           "amount": 58
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "¥38.00",
+          "amount": 38
         },
         {
           "name": "4000 Credits",
@@ -1900,17 +1905,12 @@
           "amount": 98
         },
         {
-          "name": "1 Download Credit",
-          "price": "¥38.00",
-          "amount": 38
-        },
-        {
           "name": "3 Download Credits",
           "price": "¥58.00",
           "amount": 58
         }
       ],
-      "fetchedAt": "2026-10-19T08:51:55.264Z"
+      "fetchedAt": "2026-10-26T08:13:44.423Z"
     },
     "co": {
       "currency": "COP",
@@ -2211,6 +2211,11 @@
           "amount": 99
         },
         {
+          "name": "1000 Credits",
+          "price": "9,00 €",
+          "amount": 9
+        },
+        {
           "name": "1 Download Credit",
           "price": "2,99 €",
           "amount": 2.99
@@ -2221,19 +2226,9 @@
           "amount": 5
         },
         {
-          "name": "1000 Credits",
-          "price": "9,00 €",
-          "amount": 9
-        },
-        {
           "name": "1 Download Credit",
           "price": "5,99 €",
           "amount": 5.99
-        },
-        {
-          "name": "3 Download Credits",
-          "price": "9,95 €",
-          "amount": 9.95
         },
         {
           "name": "Premier Plan",
@@ -2241,12 +2236,17 @@
           "amount": 299
         },
         {
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
+        },
+        {
           "name": "2000 Credits",
           "price": "18,00 €",
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-19T08:52:04.101Z"
+      "fetchedAt": "2026-10-26T08:13:45.883Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2903,14 +2903,14 @@
           "amount": 5.99
         },
         {
-          "name": "3 Download Credits",
-          "price": "9,95 €",
-          "amount": 9.95
-        },
-        {
           "name": "Premier Plan",
           "price": "299,00 €",
           "amount": 299
+        },
+        {
+          "name": "3 Download Credits",
+          "price": "9,95 €",
+          "amount": 9.95
         },
         {
           "name": "2000 Credits",
@@ -2918,7 +2918,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-19T08:52:22.160Z"
+      "fetchedAt": "2026-10-26T08:13:47.506Z"
     },
     "ga": {
       "currency": "USD",
@@ -9026,7 +9026,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-10-19T08:55:05.693Z"
+      "fetchedAt": "2026-10-26T08:13:48.903Z"
     },
     "uy": {
       "currency": "USD",

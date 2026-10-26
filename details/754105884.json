@@ -774,13 +774,8 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/c0/b39dc03a-a25b-139d-71c9-4e1618124545/config-1_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/21/48/93214865-5896-faf4-cbd0-26164df73fc8/config-2_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/f1/cd/d4f1cd9f-4e02-dbf9-ebde-f9771a95da23/config-3_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/7c/64/c87c6428-6ead-2777-aa33-84d6b381443c/config-4_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/9f/2f/a49f2f48-5045-5a41-529c-f2b213488790/config-5_framed.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/62/5e/28625e8f-778b-8215-1eb1-797ad67a259d/config-6_framed.png/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/3d/ff/7e3dffc3-cb3c-4f6b-9895-084d11f19930/config-1.png/360x480bb.jpg",
@@ -791,37 +786,39 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/d2/cb/60d2cbb7-30bb-8bae-e547-ca13f3479b58/config-6.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/us/developer/rtd/id1804158489?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "averageUserRating": 4.35002,
+      "artistViewUrl": "https://apps.apple.com/us/developer/rtd/id1804158489?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/9d/c0/b39dc03a-a25b-139d-71c9-4e1618124545/config-1_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/21/48/93214865-5896-faf4-cbd0-26164df73fc8/config-2_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/f1/cd/d4f1cd9f-4e02-dbf9-ebde-f9771a95da23/config-3_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/7c/64/c87c6428-6ead-2777-aa33-84d6b381443c/config-4_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/9f/2f/a49f2f48-5045-5a41-529c-f2b213488790/config-5_framed.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/62/5e/28625e8f-778b-8215-1eb1-797ad67a259d/config-6_framed.png/320x480bb.jpg"
+      ],
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "releaseNotes": "10.1.1 fixes a photo metadata issue on iOS 26.\n\n10.1 adds manual aperture control on iPhone 18 Pro and iPhone 18 Pro Max.\n\n- Choose your f-stop alongside shutter speed and ISO, for control over depth of field.\n- Automatic exposure now opens the lens as wide as it will go, to gather the most light at night.\n- Other fixes and improvements.",
       "artistId": 1804158489,
       "artistName": "RTD",
-      "genres": [
-        "Photo & Video",
-        "Utilities"
-      ],
-      "price": 2.99,
       "bundleId": "com.interealtime.LightBoost",
-      "trackId": 754105884,
-      "trackName": "NightCap Camera: Long Exposure",
-      "sellerName": "RTD",
-      "releaseNotes": "10.1.1 fixes a photo metadata issue on iOS 26.\n\n10.1 adds manual aperture control on iPhone 18 Pro and iPhone 18 Pro Max.\n\n- Choose your f-stop alongside shutter speed and ISO, for control over depth of field.\n- Automatic exposure now opens the lens as wide as it will go, to gather the most light at night.\n- Other fixes and improvements.",
-      "releaseDate": "2013-12-12T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-12-12T08:00:00Z",
+      "trackId": 754105884,
+      "trackName": "NightCap Camera: Long Exposure",
       "currentVersionReleaseDate": "2026-09-19T07:01:49Z",
+      "minimumOsVersion": "18.6",
       "version": "10.1.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Photograph star trails or stunning smooth waterfalls. Capture a meteor mid-streak or traffic with light trails. And clear, detailed photos where there’s barely any light at all. One-time purchase, no subscription.\n\nASTROPHOTOGRAPHY\nFour modes that automatically set the camera up for you.\n- Star Trails: watch the stars draw circles overhead\n- Meteors: automatic capture of shooting stars\n- ISS: the International Space Station passing over\n- Stars: starry skies and the Milky Way\n- New in version 10: Aurora, a time-lapse mode for the Northern and Southern Lights\n\nLONG EXPOSURE\nHold the shutter open for seconds or minutes and movement becomes light.\n- Long Exposure: motion blur, or a cleaner shot when you hold still\n- Light Trails: traffic at night, fireworks, light painting\n- Both as time-lapse too, up to 4K with adjustable speed\n\nLOW LIGHT\n- ISO Boost for up to 4x beyond the standard camera range\n- Light Boost\n- Noise Reduction\n- Night Mode video and timelapse\n\nHANDHELD\nNew in version 10. NightCap steadies and aligns every frame as you shoot, so long exposures no longer need a tripod.\n\nMANUAL CONTROL\n- Swipe to adjust exposure, ISO, focus and white balance\n- Camera Control on iPhone 16 and later\n- Zoom to 16x\n- Black and white mode\n\nAlso includes an interval programmer, self-timer, and an Apple Watch app with live preview and remote control.",
-      "averageUserRatingForCurrentVersion": 4.35002,
-      "sellerUrl": "https://nightcapcamera.com",
+      "trackCensoredName": "NightCap Camera: Long Exposure",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -838,29 +835,26 @@
       ],
       "fileSizeBytes": "10352640",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 2957,
-      "trackContentRating": "4+",
-      "minimumOsVersion": "18.6",
-      "trackCensoredName": "NightCap Camera: Long Exposure",
-      "trackViewUrl": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884?uo=4",
       "contentAdvisoryRating": "4+",
-      "genreIds": [
-        "6008",
-        "6002"
+      "userRatingCountForCurrentVersion": 2958,
+      "trackViewUrl": "https://apps.apple.com/us/app/nightcap-camera-long-exposure/id754105884?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.34888,
+      "sellerUrl": "https://nightcapcamera.com",
+      "averageUserRating": 4.34888,
+      "sellerName": "RTD",
+      "price": 2.99,
+      "genres": [
+        "Photo & Video",
+        "Utilities"
       ],
-      "userRatingCount": 2957,
+      "userRatingCount": 2958,
       "country": "USA"
     },
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/rtd/id1804158489?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/c2/51/c3c2515b-42ae-be50-2a42-e6568c589d38/config-1_framed.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/33/a1/da33a199-674d-ca62-c6f4-47047a107d9b/config-2_framed.png/320x480bb.jpg",
@@ -879,6 +873,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ac/b3/5dacb35c-baf8-4a53-9b56-79b9c8db672c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1012,35 +1007,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "NightCap Kamera",
       "trackViewUrl": "https://apps.apple.com/de/app/nightcap-kamera/id754105884?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.33165,
-      "genres": [
-        "Foto und Video",
-        "Dienst­programme"
-      ],
-      "price": 2.99,
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
-      "artistName": "RTD",
-      "artistId": 1804158489,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "trackId": 754105884,
-      "trackName": "NightCap Kamera",
-      "bundleId": "com.interealtime.LightBoost",
-      "sellerName": "RTD",
-      "releaseDate": "2013-12-12T08:00:00Z",
-      "currentVersionReleaseDate": "2026-09-19T07:01:49Z",
-      "releaseNotes": "10.1.1 behebt ein Problem mit den Foto-Metadaten unter iOS 26.\n\n10.1 bringt die manuelle Blendensteuerung auf iPhone 18 Pro und iPhone 18 Pro Max.\n\n- Wählen Sie den Blendenwert zusätzlich zu Belichtungszeit und ISO und steuern Sie so die Schärfentiefe.\n- Die automatische Belichtung öffnet die Blende jetzt so weit wie möglich, um nachts das meiste Licht einzufangen.\n- Weitere Fehlerbehebungen und Verbesserungen.",
-      "version": "10.1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Fotografieren Sie Sternspuren oder atemberaubende, sanft fließende Wasserfälle. Fangen Sie einen Meteor mitten in seiner Flugbahn oder den Verkehr mit seinen Lichtspuren ein. Machen Sie klare, detailreiche Fotos selbst bei extrem wenig Licht. Einmaliger Kauf, kein Abonnement.\n\nASTROFOTOGRAFIE\nVier Modi, die die Kamera automatisch für Sie konfigurieren.\n- Sternspuren: Beobachten Sie, wie die Sterne am Himmel Kreise zeichnen\n- Meteore: automatisches Einfangen von Sternschnuppen\n- ISS: die Internationale Raumstation im Vorbeiflug\n- Sterne: Sternenhimmel und die Milchstraße\n- Neu in Version 10: Polarlicht, ein Zeitraffermodus für Nord- und Südlichter\n\nLANGZEITBELICHTUNG\nHalten Sie den Verschluss für Sekunden oder Minuten offen, und aus Bewegung wird Licht.\n- Langzeitbelichtung: Bewegungsunschärfe oder ein schärferes Bild, wenn Sie stillhalten\n- Lichtspuren: Verkehr bei Nacht, Feuerwerk, Lichtmalerei\n- Beides auch im Zeitraffer, bis zu 4K mit einstellbarer Geschwindigkeit\n\nWENIG LICHT\n- ISO-Boost für eine bis zu 4-fache Erweiterung des Standard-ISO-Bereichs der Kamera\n- Lichtverstärkung\n- Körnigkeitsreduzierung\n- Nachtmodus für Videos und Zeitrafferaufnahmen\n\nAUS DER HAND\nNeu in Version 10. NightCap stabilisiert und richtet jedes Einzelbild während der Aufnahme aus: Sie benötigen für Langzeitbelichtungen kein Stativ mehr.\n\nMANUELLE STEUERUNG\n- Wischen Sie, um Belichtung, ISO, Fokus und Weißabgleich anzupassen\n- Kamerasteuerung auf iPhone 16 und neueren Modellen\n- Zoom bis zu 16-fach\n- Schwarzweißmodus\n\nBietet außerdem einen Intervallprogrammierer, Selbstauslöser sowie eine Apple Watch-App mit Live-Vorschau und Fernsteuerung.",
       "sellerUrl": "http://www.nightcapcamera.com",
       "languageCodesISO2A": [
         "EN",
@@ -1061,7 +1036,32 @@
       "userRatingCountForCurrentVersion": 594,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.33165,
+      "genres": [
+        "Foto und Video",
+        "Dienst­programme"
+      ],
+      "bundleId": "com.interealtime.LightBoost",
+      "releaseDate": "2013-12-12T08:00:00Z",
       "minimumOsVersion": "18.6",
+      "trackId": 754105884,
+      "trackName": "NightCap Kamera",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "RTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-19T07:01:49Z",
+      "releaseNotes": "10.1.1 behebt ein Problem mit den Foto-Metadaten unter iOS 26.\n\n10.1 bringt die manuelle Blendensteuerung auf iPhone 18 Pro und iPhone 18 Pro Max.\n\n- Wählen Sie den Blendenwert zusätzlich zu Belichtungszeit und ISO und steuern Sie so die Schärfentiefe.\n- Die automatische Belichtung öffnet die Blende jetzt so weit wie möglich, um nachts das meiste Licht einzufangen.\n- Weitere Fehlerbehebungen und Verbesserungen.",
+      "version": "10.1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Fotografieren Sie Sternspuren oder atemberaubende, sanft fließende Wasserfälle. Fangen Sie einen Meteor mitten in seiner Flugbahn oder den Verkehr mit seinen Lichtspuren ein. Machen Sie klare, detailreiche Fotos selbst bei extrem wenig Licht. Einmaliger Kauf, kein Abonnement.\n\nASTROFOTOGRAFIE\nVier Modi, die die Kamera automatisch für Sie konfigurieren.\n- Sternspuren: Beobachten Sie, wie die Sterne am Himmel Kreise zeichnen\n- Meteore: automatisches Einfangen von Sternschnuppen\n- ISS: die Internationale Raumstation im Vorbeiflug\n- Sterne: Sternenhimmel und die Milchstraße\n- Neu in Version 10: Polarlicht, ein Zeitraffermodus für Nord- und Südlichter\n\nLANGZEITBELICHTUNG\nHalten Sie den Verschluss für Sekunden oder Minuten offen, und aus Bewegung wird Licht.\n- Langzeitbelichtung: Bewegungsunschärfe oder ein schärferes Bild, wenn Sie stillhalten\n- Lichtspuren: Verkehr bei Nacht, Feuerwerk, Lichtmalerei\n- Beides auch im Zeitraffer, bis zu 4K mit einstellbarer Geschwindigkeit\n\nWENIG LICHT\n- ISO-Boost für eine bis zu 4-fache Erweiterung des Standard-ISO-Bereichs der Kamera\n- Lichtverstärkung\n- Körnigkeitsreduzierung\n- Nachtmodus für Videos und Zeitrafferaufnahmen\n\nAUS DER HAND\nNeu in Version 10. NightCap stabilisiert und richtet jedes Einzelbild während der Aufnahme aus: Sie benötigen für Langzeitbelichtungen kein Stativ mehr.\n\nMANUELLE STEUERUNG\n- Wischen Sie, um Belichtung, ISO, Fokus und Weißabgleich anzupassen\n- Kamerasteuerung auf iPhone 16 und neueren Modellen\n- Zoom bis zu 16-fach\n- Schwarzweißmodus\n\nBietet außerdem einen Intervallprogrammierer, Selbstauslöser sowie eine Apple Watch-App mit Live-Vorschau und Fernsteuerung.",
+      "price": 2.99,
+      "artistId": 1804158489,
+      "artistName": "RTD",
       "userRatingCount": 594,
       "country": "DEU"
     },

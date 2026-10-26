@@ -2,22 +2,27 @@
   "id": "283646709",
   "name": "PayPal - Pay, Send, Save",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:07:36.253Z",
+  "fetchedAt": "2026-10-26T08:06:47.094Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-19T08:07:33.604Z"
+      "fetchedAt": "2026-10-26T08:06:42.812Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-10-19T08:07:34.960Z"
+      "fetchedAt": "2026-10-26T08:06:44.321Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-10-26T08:06:45.833Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-19T08:07:36.246Z"
+      "fetchedAt": "2026-10-26T08:06:47.088Z"
     }
   }
 }

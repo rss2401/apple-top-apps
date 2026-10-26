@@ -196,8 +196,7 @@
       "userRatingCount": 7074
     },
     {
-      "ipadScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b5/a0/02b5a030-34a9-7cec-dc97-4418c1f15939/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/b6/75/b5b6754b-6031-6ac5-2bc1-7dc8640bfd14/f44bc0f9-fb01-475e-b337-13cf8f235fe7__U7f16_U7ec4_35_2.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/e5/d4/c2e5d4bb-fc1b-6e22-8fc9-9d1a1665750a/b592163a-8b4b-4a92-a4df-587e5a6dc923_WatchCN.png/406x228bb.png",
@@ -210,9 +209,17 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/52/7bc45273-99f5-3e89-45fa-105bf9336680/b239928c-ba1e-4f0b-adf0-75836685f27e_image_010_000000h18m.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/94/ff/9594ff46-9388-3c44-c5cd-0a3a442e128d/4c81bc70-63b7-4deb-a83a-4007d9de2eea_image_013_000000h18m.png/406x228bb.png"
       ],
+      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "features": [],
+      "advisories": [
+        "偶尔/轻微的现实暴力"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%89%BF%E8%BF%9C-%E6%9D%8E/id1491801494?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,51 +353,44 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "偶尔/轻微的现实暴力"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%89%BF%E8%BF%9C-%E6%9D%8E/id1491801494?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b5/a0/02b5a030-34a9-7cec-dc97-4418c1f15939/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/b5/a0/02b5a030-34a9-7cec-dc97-4418c1f15939/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "fileSizeBytes": "139400192",
-      "trackContentRating": "12+",
+      "releaseNotes": "1.支持iOS 27\n2.新增“一颗鸭梨”拍案音效\n3.手表支持向前翻动",
+      "averageUserRatingForCurrentVersion": 4.74146,
       "languageCodesISO2A": [
         "EN",
         "ZH"
       ],
-      "minimumOsVersion": "15.0",
-      "averageUserRatingForCurrentVersion": 4.74295,
+      "fileSizeBytes": "139400192",
       "formattedPrice": "¥6.00",
-      "userRatingCountForCurrentVersion": 7201,
-      "releaseNotes": "1.支持iOS 27\n2.新增“一颗鸭梨”拍案音效\n3.手表支持向前翻动",
+      "userRatingCountForCurrentVersion": 7214,
+      "trackContentRating": "12+",
+      "genreIds": [
+        "6016"
+      ],
       "genres": [
         "娱乐"
       ],
       "artistId": 1491801494,
       "artistName": "承远 李",
       "price": 6,
-      "bundleId": "com.tofusoup.biubiubiu",
-      "releaseDate": "2023-05-13T07:00:00Z",
-      "genreIds": [
-        "6016"
-      ],
+      "sellerName": "承远 李",
+      "minimumOsVersion": "15.0",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "trackId": 6448477521,
-      "trackName": "BiuBiuBiu - 空气枪",
-      "sellerName": "承远 李",
+      "releaseDate": "2023-05-13T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-09-25T13:42:17Z",
       "version": "1.0.20",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "1.爽快的枪械音效\n抬手就是一枪，抖抖就能突突突\n\n\n\n2.手机和手表都可以使用\n支持AppleWatch，摆出手势！BiuBiuBiu！\n手表手机共用，化身双枪勇士\n\n\n\n3.多种武器供您挑选：\n手枪、步枪、霰弹枪、狙击枪甚至还有手榴弹。\n上弹声音也一应俱全，仿佛置身真实枪战！\n\n\n\n4.无法拒绝的奇妙体验\n做出端枪的姿势，然后Biu的一声！\n\n\n\n免费更新了新年的礼花，点燃新年的焰火吧！",
-      "averageUserRating": 4.74295,
+      "bundleId": "com.tofusoup.biubiubiu",
+      "averageUserRating": 4.74146,
       "trackCensoredName": "BiuBiuBiu - 空气枪",
       "trackViewUrl": "https://apps.apple.com/cn/app/biubiubiu-%E7%A9%BA%E6%B0%94%E6%9E%AA/id6448477521?uo=4",
       "contentAdvisoryRating": "12+",
-      "userRatingCount": 7201,
+      "trackId": 6448477521,
+      "trackName": "BiuBiuBiu - 空气枪",
+      "userRatingCount": 7214,
       "country": "CHN"
     }
   ]

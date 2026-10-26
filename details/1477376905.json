@@ -2,11 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/github/id429758986?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/27/2d/d2272d28-81e2-f24d-d767-2e158eca3694/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/27/2d/d2272d28-81e2-f24d-d767-2e158eca3694/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -139,10 +141,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/github/id429758986?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b9/dd/1cb9dd57-9f88-8ea0-09ac-37dd553a0c7e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b9/dd/1cb9dd57-9f88-8ea0-09ac-37dd553a0c7e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/7f/b9/897fb905-77c5-838d-e684-e5c155cf6191/iPhone_17_Pro_Max-0-Home.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/6d/bf/5d6dbf80-c92a-da4f-68f1-cc38d333226c/iPhone_17_Pro_Max-1-Inbox.png/320x480bb.jpg",
@@ -156,28 +156,35 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/d6/53/a5d653b0-6751-8162-938f-c1b0b9e491a7/iPad_Pro_13-inch__U0028M4_U0029-3-FilesChanged.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/b9/dd/1cb9dd57-9f88-8ea0-09ac-37dd553a0c7e/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
-      "releaseNotes": "Bug fixes:\n\n- Draft pull requests support branch updates without being marked ready for review.\n- Editing an issue or pull request title returns VoiceOver focus to the More menu.\n- Filters on the Copilot agent sessions screen announce their names in VoiceOver.\n- Selecting a repository filter on the Copilot agent sessions screen returns VoiceOver focus to the filter.",
-      "artistName": "GitHub",
-      "artistId": 429758986,
-      "price": 0,
-      "sellerName": "GitHub",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2020-03-17T07:00:00Z",
-      "currentVersionReleaseDate": "2026-10-15T13:34:29Z",
-      "trackId": 1477376905,
-      "trackName": "GitHub",
-      "version": "1.281.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.\n\nYou can use GitHub for iOS to:\n\n• Browse your latest notifications\n• Read, react, and reply to Issues and Pull Requests\n• Review and merge Pull Requests\n• Organize Issues with labels, assignees, projects, and more\n• Browse your files and code\n• Discover new and trending repositories\n\n———\n\nTerms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service\nPrivacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/27/2d/d2272d28-81e2-f24d-d767-2e158eca3694/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
       "trackCensoredName": "GitHub",
       "trackViewUrl": "https://apps.apple.com/us/app/github/id1477376905?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.82989,
-      "averageUserRatingForCurrentVersion": 4.82989,
-      "sellerUrl": "http://github.com/mobile",
+      "releaseNotes": "Bug fixes:\n\n- Pull requests that are behind their base branch show the Update branch button, even while waiting on a required review.",
+      "averageUserRating": 4.83035,
+      "genres": [
+        "Developer Tools",
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.github.stormbreaker.prod",
+      "releaseDate": "2020-03-17T07:00:00Z",
+      "minimumOsVersion": "17.0",
+      "genreIds": [
+        "6026",
+        "6007"
+      ],
+      "primaryGenreName": "Developer Tools",
+      "primaryGenreId": 6026,
+      "trackId": 1477376905,
+      "trackName": "GitHub",
+      "sellerName": "GitHub",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-23T09:51:42Z",
+      "version": "1.282.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.\n\nYou can use GitHub for iOS to:\n\n• Browse your latest notifications\n• Read, react, and reply to Issues and Pull Requests\n• Review and merge Pull Requests\n• Organize Issues with labels, assignees, projects, and more\n• Browse your files and code\n• Discover new and trending repositories\n\n———\n\nTerms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service\nPrivacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -187,22 +194,15 @@
         "ZH",
         "ES"
       ],
-      "fileSizeBytes": "184485888",
+      "fileSizeBytes": "188413952",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 38376,
+      "userRatingCountForCurrentVersion": 38733,
       "trackContentRating": "12+",
-      "bundleId": "com.github.stormbreaker.prod",
-      "primaryGenreName": "Developer Tools",
-      "primaryGenreId": 6026,
-      "genres": [
-        "Developer Tools",
-        "Productivity"
-      ],
-      "genreIds": [
-        "6026",
-        "6007"
-      ],
-      "userRatingCount": 38376,
+      "sellerUrl": "http://github.com/mobile",
+      "averageUserRatingForCurrentVersion": 4.83035,
+      "artistId": 429758986,
+      "artistName": "GitHub",
+      "userRatingCount": 38733,
       "country": "USA"
     }
   ]

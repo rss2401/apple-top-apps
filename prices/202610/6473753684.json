@@ -2,7 +2,7 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202610",
-  "fetchedAt": "2026-10-19T09:16:54.093Z",
+  "fetchedAt": "2026-10-26T08:11:24.729Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -1542,22 +1542,37 @@
           "amount": 299.99
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "49,00 €",
-          "amount": 49
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "22,00 €",
           "amount": 22
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:42.433Z"
+      "fetchedAt": "2026-10-26T08:11:19.491Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2044,12 +2059,27 @@
           "amount": 49
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:00.497Z"
+      "fetchedAt": "2026-10-26T08:11:21.087Z"
     },
     "ga": {
       "currency": "USD",
@@ -2129,9 +2159,24 @@
           "name": "Usage Credits (250)",
           "price": "£200.00",
           "amount": 200
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "£349.00",
+          "amount": 349
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "£90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "£700.00",
+          "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:03.482Z"
+      "fetchedAt": "2026-10-26T08:11:22.416Z"
     },
     "gd": {
       "currency": "USD",
@@ -2981,7 +3026,7 @@
           "amount": 40000
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:34.395Z"
+      "fetchedAt": "2026-10-26T08:11:23.389Z"
     },
     "ke": {
       "currency": "USD",
@@ -6379,9 +6424,24 @@
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:38.774Z"
+      "fetchedAt": "2026-10-26T08:11:24.729Z"
     },
     "uy": {
       "currency": "USD",

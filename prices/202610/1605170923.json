@@ -2,17 +2,22 @@
   "id": "1605170923",
   "name": "GoWish - Your Digital Wishlist",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:08:00.560Z",
+  "fetchedAt": "2026-10-26T08:07:11.330Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-10-26T08:07:08.336Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-10-19T08:07:59.042Z"
+      "fetchedAt": "2026-10-26T08:07:09.791Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-10-19T08:08:00.560Z"
+      "fetchedAt": "2026-10-26T08:07:11.329Z"
     }
   }
 }

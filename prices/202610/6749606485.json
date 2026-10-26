@@ -2,7 +2,7 @@
   "id": "6749606485",
   "name": "Dreamina AI: Image&Video Maker",
   "month": "202610",
-  "fetchedAt": "2026-10-19T09:51:27.343Z",
+  "fetchedAt": "2026-10-26T08:26:53.509Z",
   "storefronts": {
     "ae": {
       "available": false,
@@ -1362,11 +1362,6 @@
           "amount": 36
         },
         {
-          "name": "Credits Pack",
-          "price": "$90.00",
-          "amount": 90
-        },
-        {
           "name": "Basic Monthly Subscription",
           "price": "$15.00",
           "amount": 15
@@ -1380,9 +1375,14 @@
           "name": "Advanced Monthly Subscription",
           "price": "$79.00",
           "amount": 79
+        },
+        {
+          "name": "Credits Pack",
+          "price": "$90.00",
+          "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:51:25.879Z"
+      "fetchedAt": "2026-10-26T08:26:53.509Z"
     },
     "uy": {
       "available": false,

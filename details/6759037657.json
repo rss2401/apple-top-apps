@@ -202,6 +202,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/bundesagentur-f%C3%BCr-arbeit/id573486057?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -334,15 +338,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/bundesagentur-f%C3%BCr-arbeit/id573486057?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/21/e9/1121e9d1-3d31-8bd2-ae02-0e0b0d7960a2/AppIcon-Prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 2.49955,
       "sellerUrl": "https://www.arbeitsagentur.de/ba-secure-app",
       "languageCodesISO2A": [
         "EN",
@@ -351,40 +352,39 @@
       ],
       "fileSizeBytes": "74030080",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 3191,
+      "userRatingCountForCurrentVersion": 3319,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.48104,
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-09-02T08:05:54Z",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
-      "artistId": 573486057,
-      "artistName": "Bundesagentur für Arbeit",
-      "bundleId": "de.arbeitsagentur.authenticator",
-      "trackId": 6759037657,
-      "trackName": "BA-Secure",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-04-13T07:00:00Z",
-      "sellerName": "Bundesagentur fuer Arbeit",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "version": "1.0.4",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Mit BA-Secure melden Sie sich sicher bei Ihren Konten der Bundesagentur für Arbeit an.\n\nBei Anmeldeversuchen erhalten Sie – wenn aktiviert – eine Push-Nachricht.\n\nBestätigen Sie Ihre Anmeldung einfach in der App.\n\nSo funktioniert’s:\nANMELDUNG IM PORTAL\nMelden Sie sich mit Ihrem Benutzernamen und Passwort im Portal der Bundesagentur für Arbeit an.\n\nANMELDUNG IN DER APP BESTÄTIGEN\nBestätigen Sie die Anmeldung direkt in der App.\nDanach sind Sie angemeldet und können die BA-Services nutzen.\n\nBENACHRICHTIGUNGEN\nAktivieren Sie Push-Nachrichten, dann werden Sie bei Anmeldeversuchen sofort benachrichtigt.\n\nCODE ZUM ENTSPERREN DES GERÄTS\nDamit Sie Anmeldungen bestätigen können, muss ein Code zum entsperren Ihres Geräts eingerichtet sein. Mit TouchID oder FaceID können Sie die App komfortabler bedienen.\n\nKONTOVERKNÜPFUNG\nAktuell kann nur ein Konto mit der App verknüpft werden.\n\nHINWEISE\nWir entwickeln die App laufend weiter und freuen uns über Ihr Feedback.\nBei Fragen hilft Ihnen unsere Nutzungshilfe (https://www.arbeitsagentur.de/ba-secure-app) oder Support-Hotline.\n\nErklärung zur Barrierefreiheit: https://www.arbeitsagentur.de/erklaerung-barrierefreiheit",
+      "averageUserRating": 2.49955,
+      "releaseNotes": "- Anzeige der App auf Englisch und Spanisch\n- Weitere Verbesserungen und Fehlerbehebungen",
       "trackCensoredName": "BA-Secure",
       "trackViewUrl": "https://apps.apple.com/de/app/ba-secure/id6759037657?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.48104,
-      "releaseNotes": "- Anzeige der App auf Englisch und Spanisch\n- Weitere Verbesserungen und Fehlerbehebungen",
+      "artistId": 573486057,
+      "artistName": "Bundesagentur für Arbeit",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "trackId": 6759037657,
+      "trackName": "BA-Secure",
+      "sellerName": "Bundesagentur fuer Arbeit",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseDate": "2026-04-13T07:00:00Z",
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-02T08:05:54Z",
+      "version": "1.0.4",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Mit BA-Secure melden Sie sich sicher bei Ihren Konten der Bundesagentur für Arbeit an.\n\nBei Anmeldeversuchen erhalten Sie – wenn aktiviert – eine Push-Nachricht.\n\nBestätigen Sie Ihre Anmeldung einfach in der App.\n\nSo funktioniert’s:\nANMELDUNG IM PORTAL\nMelden Sie sich mit Ihrem Benutzernamen und Passwort im Portal der Bundesagentur für Arbeit an.\n\nANMELDUNG IN DER APP BESTÄTIGEN\nBestätigen Sie die Anmeldung direkt in der App.\nDanach sind Sie angemeldet und können die BA-Services nutzen.\n\nBENACHRICHTIGUNGEN\nAktivieren Sie Push-Nachrichten, dann werden Sie bei Anmeldeversuchen sofort benachrichtigt.\n\nCODE ZUM ENTSPERREN DES GERÄTS\nDamit Sie Anmeldungen bestätigen können, muss ein Code zum entsperren Ihres Geräts eingerichtet sein. Mit TouchID oder FaceID können Sie die App komfortabler bedienen.\n\nKONTOVERKNÜPFUNG\nAktuell kann nur ein Konto mit der App verknüpft werden.\n\nHINWEISE\nWir entwickeln die App laufend weiter und freuen uns über Ihr Feedback.\nBei Fragen hilft Ihnen unsere Nutzungshilfe (https://www.arbeitsagentur.de/ba-secure-app) oder Support-Hotline.\n\nErklärung zur Barrierefreiheit: https://www.arbeitsagentur.de/erklaerung-barrierefreiheit",
+      "bundleId": "de.arbeitsagentur.authenticator",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
       "price": 0,
-      "userRatingCount": 3191,
+      "userRatingCount": 3319,
       "country": "DEU"
     }
   ]

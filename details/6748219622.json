@@ -2,18 +2,10 @@
   "resultCount": 1,
   "results": [
     {
-      "ipadScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3b/f3/8b3bf3fc-3eb7-0999-5899-67f7177f5b9e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "appletvScreenshotUrls": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/91/e6/b291e625-4f5f-0143-4cff-5e6246522c91/resized_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e7/ca/81e7caa3-4dd3-8125-4191-0c94e88924c9/resized_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/16/0c/e5160c42-ac62-ed83-2182-c5c4a7fe5b37/resized_image.png/320x480bb.jpg"
-      ],
-      "artistViewUrl": "https://apps.apple.com/fr/developer/permissionless-tech-llc/id1824145893?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3b/f3/8b3bf3fc-3eb7-0999-5899-67f7177f5b9e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/3b/f3/8b3bf3fc-3eb7-0999-5899-67f7177f5b9e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/fr/developer/permissionless-tech-llc/id1824145893?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -147,10 +139,46 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
       "advisories": [],
-      "averageUserRatingForCurrentVersion": 4.76087,
-      "formattedPrice": "Gratuit",
+      "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fa/f3/b6faf3c8-dfa4-eb54-3ebe-bf775dadb04c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/91/e6/b291e625-4f5f-0143-4cff-5e6246522c91/resized_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e7/ca/81e7caa3-4dd3-8125-4191-0c94e88924c9/resized_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/16/0c/e5160c42-ac62-ed83-2182-c5c4a7fe5b37/resized_image.png/320x480bb.jpg"
+      ],
+      "releaseNotes": "What's New in bitchat 1.8.0:\n- Busy location channels are fast again. The people list opens instantly even with hundreds of people nearby, and the chat no longer jumps back while you scroll through a fast conversation.\n- Your drafts are kept when you switch between mesh, location channels and private chats.\n- Join a nearby location channel with one tap, and share channel invites from the share sheet.\n- Give someone a local alias on their fingerprint screen. Verified contacts now show a seal in private chats.\n- A recent chats section keeps every private conversation within reach.\n- A banner tells you when Bluetooth is off or Tor is stalled.\n- Panic wipe now asks for confirmation and tells you when it's done.\n- On Mac, scan verification QR codes with the camera. @-mention suggestions now work from the keyboard.\n- Messages from someone who shares your name are no longer treated as your own.\n- Security hardening and fixes throughout, and the app is now fully localized in all 30 supported languages.",
+      "averageUserRating": 4.6729,
+      "trackCensoredName": "bitchat mesh",
+      "trackViewUrl": "https://apps.apple.com/fr/app/bitchat-mesh/id6748219622?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 1824145893,
+      "artistName": "permissionless tech, llc",
+      "genres": [
+        "Réseaux sociaux"
+      ],
+      "price": 0,
+      "bundleId": "chat.bitchat",
+      "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6005"
+      ],
+      "releaseDate": "2025-07-28T07:00:00Z",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "trackId": 6748219622,
+      "trackName": "bitchat mesh",
+      "sellerName": "permissionless tech, llc",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-24T09:41:11Z",
+      "version": "1.8.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "chat with people around you.\ndon't need their phone # or email.\nthe sidegroupchat for any function.\n\nuses bluetooth mesh, no internet needed.\nrelays messages to go the distance!\nencrypted private messages.",
+      "averageUserRatingForCurrentVersion": 4.6729,
+      "sellerUrl": "http://bitchat.free",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -181,39 +209,11 @@
         "UR",
         "VI"
       ],
+      "fileSizeBytes": "13686784",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 107,
       "trackContentRating": "4+",
-      "fileSizeBytes": "13441024",
-      "userRatingCountForCurrentVersion": 92,
-      "sellerUrl": "http://bitchat.free",
-      "trackCensoredName": "bitchat mesh",
-      "trackViewUrl": "https://apps.apple.com/fr/app/bitchat-mesh/id6748219622?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.76087,
-      "minimumOsVersion": "16.0",
-      "genres": [
-        "Réseaux sociaux"
-      ],
-      "artistId": 1824145893,
-      "artistName": "permissionless tech, llc",
-      "price": 0,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6005"
-      ],
-      "currentVersionReleaseDate": "2026-07-31T15:12:12Z",
-      "sellerName": "permissionless tech, llc",
-      "releaseDate": "2025-07-28T07:00:00Z",
-      "releaseNotes": "bitchat 1.7.1 is a security and reliability release.\n- private photos and voice notes are now encrypted before they travel over bluetooth\n- stronger identity verification during encrypted handshakes stops impersonation\n- identity keys are now bound to this device and never sync or transfer — a seized backup or cloned storage no longer yields your keys. your identity stays with the device: switching phones or reinstalling starts fresh\n- panic wipe is faster, more thorough, and behaves the same every time\n- a locked phone gives away less\n- direct messages reliably survive reconnects, bluetooth toggles, and app restarts\n- persian localization (فارسی) and an in-app language picker\n- verified badge next to names you've verified; blocked people no longer appear in @-mention suggestions",
-      "version": "1.7.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "chat with people around you.\ndon't need their phone # or email.\nthe sidegroupchat for any function.\n\nuses bluetooth mesh, no internet needed.\nrelays messages to go the distance!\nencrypted private messages.",
-      "bundleId": "chat.bitchat",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "trackName": "bitchat mesh",
-      "trackId": 6748219622,
-      "userRatingCount": 92,
+      "userRatingCount": 107,
       "country": "FRA"
     }
   ]

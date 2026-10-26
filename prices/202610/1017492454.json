@@ -2,7 +2,7 @@
   "id": "1017492454",
   "name": "YouTube Music",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:13:45.178Z",
+  "fetchedAt": "2026-10-26T08:12:31.141Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -33,14 +33,14 @@
           "amount": 15.99
         },
         {
-          "name": "YouTube Premium",
-          "price": "$20.99",
-          "amount": 20.99
-        },
-        {
           "name": "YouTube Music Family",
           "price": "$24.99",
           "amount": 24.99
+        },
+        {
+          "name": "YouTube Premium",
+          "price": "$20.99",
+          "amount": 20.99
         },
         {
           "name": "YouTube Music Family",
@@ -58,7 +58,7 @@
           "amount": 20.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:13:45.177Z"
+      "fetchedAt": "2026-10-26T08:12:31.140Z"
     }
   }
 }

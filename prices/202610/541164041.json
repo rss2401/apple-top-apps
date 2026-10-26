@@ -2,7 +2,7 @@
   "id": "541164041",
   "name": "Microsoft Copilot",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:37:56.674Z",
+  "fetchedAt": "2026-10-26T08:24:29.759Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -1828,7 +1828,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T08:34:31.099Z"
+      "fetchedAt": "2026-10-26T08:24:25.318Z"
     },
     "co": {
       "currency": "COP",
@@ -2933,22 +2933,22 @@
           "amount": 8.49
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "£84.99",
-          "amount": 84.99
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "£8.49",
           "amount": 8.49
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "£18.99",
-          "amount": 18.99
+          "name": " Microsoft 365 Personal",
+          "price": "£84.99",
+          "amount": 84.99
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "£104.99",
+          "amount": 104.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:35:01.227Z"
+      "fetchedAt": "2026-10-26T08:24:26.688Z"
     },
     "gd": {
       "currency": "USD",
@@ -4160,6 +4160,11 @@
           "amount": 3200
         },
         {
+          "name": "Microsoft 365 Personal",
+          "price": "¥2,100",
+          "amount": 2100
+        },
+        {
           "name": " Microsoft 365 Personal",
           "price": "¥21,000",
           "amount": 21000
@@ -4173,14 +4178,9 @@
           "name": "Microsoft 365 Family",
           "price": "¥2,700",
           "amount": 2700
-        },
-        {
-          "name": "Microsoft 365 Personal",
-          "price": "¥2,100",
-          "amount": 2100
         }
       ],
-      "fetchedAt": "2026-10-19T08:35:34.256Z"
+      "fetchedAt": "2026-10-26T08:24:28.287Z"
     },
     "ke": {
       "currency": "USD",
@@ -8859,19 +8859,14 @@
           "amount": 19.99
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "$99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Microsoft 365 Family",
           "price": "$12.99",
           "amount": 12.99
         },
         {
-          "name": "Microsoft 365 Personal",
-          "price": "$9.99",
-          "amount": 9.99
+          "name": " Microsoft 365 Personal",
+          "price": "$99.99",
+          "amount": 99.99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -8879,12 +8874,17 @@
           "amount": 9.99
         },
         {
-          "name": "Microsoft 365 Premium Monthly",
-          "price": "$19.99",
-          "amount": 19.99
+          "name": "Microsoft 365 Personal",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Microsoft 365 Premium Annual",
+          "price": "$199.99",
+          "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:37:41.903Z"
+      "fetchedAt": "2026-10-26T08:24:29.752Z"
     },
     "uy": {
       "currency": "USD",

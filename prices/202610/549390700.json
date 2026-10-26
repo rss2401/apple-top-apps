@@ -2,7 +2,7 @@
   "id": "549390700",
   "name": "PerfExpert",
   "month": "202610",
-  "fetchedAt": "2026-10-18T14:10:33.052Z",
+  "fetchedAt": "2026-10-26T08:18:35.637Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -13,14 +13,14 @@
           "amount": 12.99
         },
         {
-          "name": "PerfExpert Pro",
-          "price": "99,99 €",
-          "amount": 99.99
-        },
-        {
           "name": "GPS externe",
           "price": "24,99 €",
           "amount": 24.99
+        },
+        {
+          "name": "PerfExpert Pro",
+          "price": "99,99 €",
+          "amount": 99.99
         },
         {
           "name": "PerfExpert Pro Max",
@@ -48,7 +48,7 @@
           "amount": 16.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:10:33.051Z"
+      "fetchedAt": "2026-10-26T08:18:35.637Z"
     }
   }
 }

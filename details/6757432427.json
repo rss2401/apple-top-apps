@@ -2,14 +2,12 @@
   "resultCount": 2,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/base44/id1874966377?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Unrestricted Web Access",
-        "Infrequent/Mild Horror/Fear Themes"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -143,10 +141,12 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Unrestricted Web Access"
+      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/base44/id1874966377?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/5f/03/865f034e-bd89-15e9-b128-375d8f2e55c0/Cover.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/16/f5/8616f540-472e-aa77-a7bf-429177653fe1/iPhone_6.9_Apple_-_9.png/320x480bb.jpg",
@@ -164,57 +164,68 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/de/e4/50dee45e-fe59-3380-ea78-99114e8d71f6/iPad_Apple_screenshots_-_14.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.4",
-      "releaseNotes": "Bug fix, ui change",
-      "artistName": "Base44",
-      "artistId": 1874966377,
-      "price": 0,
-      "sellerName": "BASE44 LTD",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-04-10T07:00:00Z",
-      "currentVersionReleaseDate": "2026-10-13T22:10:21Z",
-      "trackId": 6757432427,
-      "trackName": "Base44: Build with AI",
-      "version": "3.3.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Base44 is an AI-powered builder that lets you create fully functional software using just your words in minutes. No code required.\n\nBuild at the speed of thought: Describe your idea in plain language and watch it turn into working software with interface, backend, data models, and logic generated in real time. No setup or infrastructure required - Base44 handles the technology so you can focus on your ideas.\n\nManage everything in one place: Invite teammates, track analytics and user activity, control access, connect a custom domain, and more.\n\nGo from idea to something live instantly: Publish in one click and share it with your community or customers.\n\nDesign it your way: Customize colors, fonts, layouts, and visuals to shape the look and feel.\n\nBuild smarter with AI chat: Refine and expand your project with an intelligent assistant that suggests next steps, automations, and integrations.\n\nStart faster with templates: Browse ready-to-use templates from the community and customize them for your needs.\n\nIf you can describe it, you can build it - with Base44.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Base44: Build with AI",
       "trackViewUrl": "https://apps.apple.com/us/app/base44-build-with-ai/id6757432427?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.15789,
-      "averageUserRatingForCurrentVersion": 3.15789,
-      "languageCodesISO2A": [
-        "EN",
-        "FR",
-        "DE",
-        "JA",
-        "PT",
-        "ES"
-      ],
-      "fileSizeBytes": "73315328",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 76,
-      "trackContentRating": "17+",
-      "bundleId": "com.base44.ios",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "releaseNotes": "bug fix, ui change",
+      "averageUserRating": 3.12658,
       "genres": [
         "Productivity",
         "Utilities"
       ],
+      "price": 0,
+      "bundleId": "com.base44.ios",
+      "releaseDate": "2026-04-10T07:00:00Z",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "userRatingCount": 76,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 6757432427,
+      "trackName": "Base44: Build with AI",
+      "sellerName": "BASE44 LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-22T21:45:45Z",
+      "version": "3.5.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Base44 is an AI-powered builder that lets you create fully functional software using just your words in minutes. No code required.\n\nBuild at the speed of thought: Describe your idea in plain language and watch it turn into working software with interface, backend, data models, and logic generated in real time. No setup or infrastructure required - Base44 handles the technology so you can focus on your ideas.\n\nManage everything in one place: Invite teammates, track analytics and user activity, control access, connect a custom domain, and more.\n\nGo from idea to something live instantly: Publish in one click and share it with your community or customers.\n\nDesign it your way: Customize colors, fonts, layouts, and visuals to shape the look and feel.\n\nBuild smarter with AI chat: Refine and expand your project with an intelligent assistant that suggests next steps, automations, and integrations.\n\nStart faster with templates: Browse ready-to-use templates from the community and customize them for your needs.\n\nIf you can describe it, you can build it - with Base44.",
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "JA",
+        "PT",
+        "ES"
+      ],
+      "fileSizeBytes": "75545600",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 79,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 3.12658,
+      "artistId": 1874966377,
+      "artistName": "Base44",
+      "userRatingCount": 79,
       "country": "USA"
     },
     {
       "artistViewUrl": "https://apps.apple.com/cn/developer/base44/id1874966377?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "偶尔/轻微的亵渎或低俗幽默",
+        "偶尔/轻微的惊悚或恐怖题材",
+        "无限制网页访问"
+      ],
+      "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/d5/7e/85d57e29-9fcf-2053-284e-c8cc0dfe280d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/5f/03/865f034e-bd89-15e9-b128-375d8f2e55c0/Cover.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/16/f5/8616f540-472e-aa77-a7bf-429177653fe1/iPhone_6.9_Apple_-_9.png/320x480bb.jpg",
@@ -232,11 +243,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/de/e4/50dee45e-fe59-3380-ea78-99114e8d71f6/iPad_Apple_screenshots_-_14.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/f9/ef/65f9ef4d-2326-1844-8bf1-749361c0b204/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -369,12 +375,41 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "偶尔/轻微的亵渎或低俗幽默",
-        "无限制网页访问",
-        "偶尔/轻微的惊悚或恐怖题材"
+      "averageUserRating": 0,
+      "trackCensoredName": "Base44: Build with AI",
+      "trackViewUrl": "https://apps.apple.com/cn/app/base44-build-with-ai/id6757432427?uo=4",
+      "contentAdvisoryRating": "17+",
+      "releaseNotes": "bug fix, ui change",
+      "genres": [
+        "效率",
+        "工具"
       ],
-      "kind": "software",
+      "bundleId": "com.base44.ios",
+      "artistId": 1874966377,
+      "artistName": "Base44",
+      "price": 0,
+      "trackName": "Base44: Build with AI",
+      "trackId": 6757432427,
+      "minimumOsVersion": "16.4",
+      "currentVersionReleaseDate": "2026-10-22T21:45:45Z",
+      "releaseDate": "2026-04-10T07:00:00Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "BASE44 LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "3.5.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Base44 is an AI-powered builder that lets you create fully functional software using just your words in minutes. No code required.\n\nBuild at the speed of thought: Describe your idea in plain language and watch it turn into working software with interface, backend, data models, and logic generated in real time. No setup or infrastructure required - Base44 handles the technology so you can focus on your ideas.\n\nManage everything in one place: Invite teammates, track analytics and user activity, control access, connect a custom domain, and more.\n\nGo from idea to something live instantly: Publish in one click and share it with your community or customers.\n\nDesign it your way: Customize colors, fonts, layouts, and visuals to shape the look and feel.\n\nBuild smarter with AI chat: Refine and expand your project with an intelligent assistant that suggests next steps, automations, and integrations.\n\nStart faster with templates: Browse ready-to-use templates from the community and customize them for your needs.\n\nIf you can describe it, you can build it - with Base44.",
+      "fileSizeBytes": "75545600",
+      "formattedPrice": "免费",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -383,41 +418,6 @@
         "PT",
         "ES"
       ],
-      "fileSizeBytes": "73315328",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "17+",
-      "averageUserRating": 0,
-      "trackCensoredName": "Base44: Build with AI",
-      "trackViewUrl": "https://apps.apple.com/cn/app/base44-build-with-ai/id6757432427?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRatingForCurrentVersion": 0,
-      "releaseNotes": "Bug fix, ui change",
-      "artistId": 1874966377,
-      "artistName": "Base44",
-      "genres": [
-        "效率",
-        "工具"
-      ],
-      "price": 0,
-      "releaseDate": "2026-04-10T07:00:00Z",
-      "bundleId": "com.base44.ios",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "trackId": 6757432427,
-      "trackName": "Base44: Build with AI",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "BASE44 LTD",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-13T22:10:21Z",
-      "version": "3.3.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Base44 is an AI-powered builder that lets you create fully functional software using just your words in minutes. No code required.\n\nBuild at the speed of thought: Describe your idea in plain language and watch it turn into working software with interface, backend, data models, and logic generated in real time. No setup or infrastructure required - Base44 handles the technology so you can focus on your ideas.\n\nManage everything in one place: Invite teammates, track analytics and user activity, control access, connect a custom domain, and more.\n\nGo from idea to something live instantly: Publish in one click and share it with your community or customers.\n\nDesign it your way: Customize colors, fonts, layouts, and visuals to shape the look and feel.\n\nBuild smarter with AI chat: Refine and expand your project with an intelligent assistant that suggests next steps, automations, and integrations.\n\nStart faster with templates: Browse ready-to-use templates from the community and customize them for your needs.\n\nIf you can describe it, you can build it - with Base44.",
-      "minimumOsVersion": "16.4",
       "userRatingCount": 0,
       "country": "CHN"
     }

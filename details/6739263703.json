@@ -567,11 +567,12 @@
       "country": "FRA"
     },
     {
-      "features": [],
-      "artistViewUrl": "https://apps.apple.com/gb/developer/beyond-logic-ab/id1896664450?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/41/0d/20410d6f-dd81-87c7-7079-e4cfcc2fa898/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/41/0d/20410d6f-dd81-87c7-7079-e4cfcc2fa898/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/beyond-logic-ab/id1896664450?uo=4",
       "isGameCenterEnabled": false,
+      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -704,7 +705,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/29/71/a82971f1-8a05-8f07-cd41-5e7cf7b413e8/00_en-2.png/320x480bb.jpg",
@@ -717,29 +717,25 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/41/0d/20410d6f-dd81-87c7-7079-e4cfcc2fa898/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 0,
-      "releaseNotes": "Bug fixes",
       "trackCensoredName": "Unora",
       "trackViewUrl": "https://apps.apple.com/gb/app/unora/id6739263703?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1896664450,
-      "artistName": "Beyond Logic AB",
-      "genres": [
-        "Productivity"
-      ],
-      "price": 2.99,
-      "bundleId": "se.unoraab.unora",
-      "releaseDate": "2025-05-02T07:00:00Z",
       "genreIds": [
         "6007"
       ],
-      "trackId": 6739263703,
-      "trackName": "Unora",
+      "releaseNotes": "Bug fixes",
+      "genres": [
+        "Productivity"
+      ],
+      "minimumOsVersion": "18.0",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "sellerName": "Beyond Logic AB",
+      "releaseDate": "2025-05-02T07:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-11T23:40:39Z",
+      "trackId": 6739263703,
+      "trackName": "Unora",
       "version": "1.9.1",
       "wrapperType": "software",
       "currency": "GBP",
@@ -753,8 +749,12 @@
       "formattedPrice": "£2.99",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "minimumOsVersion": "18.0",
       "averageUserRatingForCurrentVersion": 0,
+      "sellerName": "Beyond Logic AB",
+      "artistId": 1896664450,
+      "artistName": "Beyond Logic AB",
+      "bundleId": "se.unoraab.unora",
+      "price": 2.99,
       "userRatingCount": 0,
       "country": "GBR"
     }

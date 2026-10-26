@@ -2,7 +2,7 @@
   "id": "6447616432",
   "name": "天工",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:27:27.034Z",
+  "fetchedAt": "2026-10-26T08:26:38.473Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -38,27 +38,27 @@
           "amount": 91
         },
         {
-          "name": "Plus月度会员",
-          "price": "¥88.00",
-          "amount": 88
-        },
-        {
           "name": "50000积分",
           "price": "¥200.00",
           "amount": 200
         },
         {
-          "name": "15,000 积分",
-          "price": "¥117.00",
-          "amount": 117
+          "name": "Plus月度会员",
+          "price": "¥88.00",
+          "amount": 88
         },
         {
           "name": "天工Ultra会员",
           "price": "¥188.00",
           "amount": 188
+        },
+        {
+          "name": "15,000 积分",
+          "price": "¥117.00",
+          "amount": 117
         }
       ],
-      "fetchedAt": "2026-10-19T08:27:27.033Z"
+      "fetchedAt": "2026-10-26T08:26:38.473Z"
     }
   }
 }

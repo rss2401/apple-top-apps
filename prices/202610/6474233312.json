@@ -2,7 +2,7 @@
   "id": "6474233312",
   "name": "Kimi",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:42:18.909Z",
+  "fetchedAt": "2026-10-26T08:14:36.888Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -1942,14 +1942,14 @@
           "amount": 199
         },
         {
-          "name": "Allegro",
-          "price": "¥699.00",
-          "amount": 699
-        },
-        {
           "name": "Go 年卡",
           "price": "¥468.00",
           "amount": 468
+        },
+        {
+          "name": "Allegro",
+          "price": "¥699.00",
+          "amount": 699
         },
         {
           "name": "Andante 年卡",
@@ -1962,7 +1962,7 @@
           "amount": 948
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:48.966Z"
+      "fetchedAt": "2026-10-26T08:14:35.417Z"
     },
     "co": {
       "currency": "COP",
@@ -9085,14 +9085,19 @@
           "amount": 19
         },
         {
+          "name": "Plus",
+          "price": "$19.00",
+          "amount": 19
+        },
+        {
           "name": "Allegretto",
           "price": "$39.00",
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "$19.00",
-          "amount": 19
+          "name": "Pro",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "Allegro",
@@ -9105,19 +9110,14 @@
           "amount": 199
         },
         {
-          "name": "Pro",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
           "name": "Max",
           "price": "$99.00",
           "amount": 99
         },
         {
-          "name": "Moderato Annual Pass",
-          "price": "$180.99",
-          "amount": 180.99
+          "name": "Ultra",
+          "price": "$199.00",
+          "amount": 199
         },
         {
           "name": "Plus Annual Pass",
@@ -9125,12 +9125,12 @@
           "amount": 180.99
         },
         {
-          "name": "Ultra",
-          "price": "$199.00",
-          "amount": 199
+          "name": "Moderato Annual Pass",
+          "price": "$180.99",
+          "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:01.055Z"
+      "fetchedAt": "2026-10-26T08:14:36.887Z"
     },
     "uy": {
       "currency": "USD",

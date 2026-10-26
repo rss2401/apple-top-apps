@@ -2,7 +2,7 @@
   "id": "6670430706",
   "name": "DramaWave - Drama & Reel",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:16:26.722Z",
+  "fetchedAt": "2026-10-26T08:15:17.682Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -54,11 +54,11 @@
         },
         {
           "name": "Weekly VIP Membership",
-          "price": "22,99 €",
-          "amount": 22.99
+          "price": "9,99 €",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:16:21.266Z"
+      "fetchedAt": "2026-10-26T08:15:13.133Z"
     },
     "fr": {
       "currency": "EUR",
@@ -94,14 +94,14 @@
           "amount": 2.99
         },
         {
-          "name": "Purchase offer",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Weekly VIP Membership",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "Purchase offer",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Purchase offer",
@@ -114,7 +114,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:16:22.664Z"
+      "fetchedAt": "2026-10-26T08:15:14.710Z"
     },
     "gb": {
       "currency": "GBP",
@@ -123,16 +123,6 @@
           "name": "Weekly VIP Membership",
           "price": "£19.99",
           "amount": 19.99
-        },
-        {
-          "name": "Weekly VIP Membership",
-          "price": "£19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Purchase offer",
-          "price": "£9.99",
-          "amount": 9.99
         },
         {
           "name": "Weekly VIP",
@@ -145,14 +135,24 @@
           "amount": 19.99
         },
         {
-          "name": "Purchase offer A",
-          "price": "£2.99",
-          "amount": 2.99
+          "name": "Purchase offer",
+          "price": "£9.99",
+          "amount": 9.99
         },
         {
           "name": "Weekly VIP Membership",
           "price": "£19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Weekly VIP Membership",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Purchase offer A",
+          "price": "£2.99",
+          "amount": 2.99
         },
         {
           "name": "Weekly VIP Membership",
@@ -170,7 +170,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:16:24.157Z"
+      "fetchedAt": "2026-10-26T08:15:16.099Z"
     },
     "jp": {
       "currency": "JPY",
@@ -267,11 +267,6 @@
           "amount": 19.99
         },
         {
-          "name": "Purchase offer B",
-          "price": "$6.99",
-          "amount": 6.99
-        },
-        {
           "name": "Weekly VIP Membership",
           "price": "$9.99",
           "amount": 9.99
@@ -280,9 +275,14 @@
           "name": "Weekly VIP",
           "price": "$7.99",
           "amount": 7.99
+        },
+        {
+          "name": "Purchase offer B",
+          "price": "$6.99",
+          "amount": 6.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:16:26.722Z"
+      "fetchedAt": "2026-10-26T08:15:17.681Z"
     }
   }
 }

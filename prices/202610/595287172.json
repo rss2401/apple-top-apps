@@ -2,11 +2,16 @@
   "id": "595287172",
   "name": "Hinge Dating App: Date & Meet",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:17:22.941Z",
+  "fetchedAt": "2026-10-26T08:16:10.495Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "Hinge+ Subscription",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
         {
           "name": "Hinge+ Subscription",
           "price": "12,99 €",
@@ -28,17 +33,12 @@
           "amount": 17.99
         },
         {
-          "name": "Hinge+ Subscription",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
           "name": "One Superboost",
           "price": "14,99 €",
           "amount": 14.99
         },
         {
-          "name": "3 Roses",
+          "name": "Roses 3-Pack",
           "price": "7,99 €",
           "amount": 7.99
         },
@@ -53,12 +53,12 @@
           "amount": 7.99
         },
         {
-          "name": "Roses 3-Pack",
-          "price": "7,99 €",
-          "amount": 7.99
+          "name": "Hinge+ Subscription",
+          "price": "25,99 €",
+          "amount": 25.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:17:21.517Z"
+      "fetchedAt": "2026-10-26T08:16:08.980Z"
     },
     "fr": {
       "currency": "EUR",
@@ -74,14 +74,14 @@
           "amount": 16.99
         },
         {
-          "name": "Hinge+ Subscription",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
           "name": "Bundle of three Roses",
           "price": "7,99 €",
           "amount": 7.99
+        },
+        {
+          "name": "Hinge+ Subscription",
+          "price": "12,99 €",
+          "amount": 12.99
         },
         {
           "name": "Hinge+ Subscription",
@@ -94,27 +94,27 @@
           "amount": 14.99
         },
         {
+          "name": "Hinge+ Subscription",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "Roses 3-Pack",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
           "name": "One Boost",
           "price": "7,99 €",
           "amount": 7.99
         },
         {
           "name": "Hinge+ Subscription",
-          "price": "12,99 €",
-          "amount": 12.99
-        },
-        {
-          "name": "Hinge+ Subscription",
           "price": "23,99 €",
           "amount": 23.99
-        },
-        {
-          "name": "3 Roses",
-          "price": "7,99 €",
-          "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:17:22.941Z"
+      "fetchedAt": "2026-10-26T08:16:10.494Z"
     }
   }
 }

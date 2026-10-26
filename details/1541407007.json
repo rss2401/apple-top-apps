@@ -2,9 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/captions-llc-us/id418641551?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/40/af/3040afce-ef17-200c-da6e-53d2e4930ad3/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/40/af/3040afce-ef17-200c-da6e-53d2e4930ad3/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
-      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -138,10 +140,8 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/captions-llc-us/id418641551?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/ff/7d/92ff7d2a-521b-f0f6-56dc-59efb25d086a/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/ff/7d/92ff7d2a-521b-f0f6-56dc-59efb25d086a/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5b/87/b05b8741-4960-1913-3f58-eb3cf3bff922/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/2a/a6/942aa6f7-e910-aab9-be7f-1ff8d5de1a95/3.png/392x696bb.png",
@@ -152,28 +152,35 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/ff/7d/92ff7d2a-521b-f0f6-56dc-59efb25d086a/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "16.0",
-      "releaseNotes": "bug fixes and improvements",
-      "artistName": "Captions, LLC (US)",
-      "artistId": 418641551,
-      "price": 0,
-      "sellerName": "Captions, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2020-12-01T08:00:00Z",
-      "currentVersionReleaseDate": "2026-10-17T00:26:32Z",
-      "trackId": 1541407007,
-      "trackName": "Captions: AI Edits Your Video",
-      "version": "13.39.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "AI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again. \n\nFrom there, skip the hours spent toggling and tweaking manual edits. Our AI video editor applies editorial discernment to cut scenes, overlay B-roll, and integrate sounds based on your video. Whether you polish your video with our AI edit feature or describe desired changes to our chat-based editor, Captions’ intuitive video maker makes it easy to bring your vision to life.\n\n\nLET AI EDIT FOR YOU\n\n- One-tap AI video editing: Transform raw footage into ready-to-post content instantly with curated effects and trending aesthetics.\n- Edit like you text: Just describe your vision in plain language; our chat-based editor will apply effects, transitions, B-roll, and pacing per your direction.\n\n\nCREATE A PERSONAL AI AVATAR\n\n- AI Twin: Turn a single selfie into a high-quality video of yourself using our AI video generator.\n- AI Actors: Generate talking videos with engaging AI avatars, giving you a digital on-brand spokesperson.\n- Adjust looks: Change outfits, add objects, and switch backgrounds to feature the same AI avatar across unlimited videos.\n\n\n AI-POWERED EDITING TOOLS\n\n- AI Denoise: Automatically remove background noise from talking videos.\n- AI Zoom: Instantly add relevant zooms to your content.\n- AI Scale: Quickly resize videos for whatever aspect ratio you need.\n- AI Hashtags: Automatically generate video captions and hashtags.\n- AI Teleprompter: Read directly from your script while recording in-app.\n- Multiple AI models: Choose from 20+ models to generate music, sounds, and visuals.\n\n\nCAPTIONS AND DUBBING\n\n- AI Dubbing: Dub your content into 29 languages with just a tap of a button.\n- AI Subtitles: Automatically generate accurate captions or subtitles in 91+ languages. You can choose specific fonts and colors too.\n\nCaptions, LLC (US) Developer",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/40/af/3040afce-ef17-200c-da6e-53d2e4930ad3/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Captions: AI Edits Your Video",
       "trackViewUrl": "https://apps.apple.com/us/app/captions-ai-edits-your-video/id1541407007?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.74437,
-      "averageUserRatingForCurrentVersion": 4.74437,
-      "sellerUrl": "https://captions.ai/",
+      "releaseNotes": "bug fixes and improvements",
+      "averageUserRating": 4.74481,
+      "genres": [
+        "Photo & Video",
+        "Graphics & Design"
+      ],
+      "price": 0,
+      "bundleId": "boomer.Smart-Video",
+      "releaseDate": "2020-12-01T08:00:00Z",
+      "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6008",
+        "6027"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "trackId": 1541407007,
+      "trackName": "Captions: AI Edits Your Video",
+      "sellerName": "Captions, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-23T18:16:51Z",
+      "version": "13.40.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "AI EDIT THAT EDITS LIKE A PROFESSIONAL VIDEO EDITOR\n\nBuilt by Mirage™, Captions is an AI video generator and video editor that makes it easy to go from idea to ready-to-share content, no experience needed.\n\nGet started by importing a video or generating engaging content from scratch using text to video. You can create an AI actor or upload a selfie to create a personal avatar, allowing you to produce polished footage of yourself without ever needing to record again. \n\nFrom there, skip the hours spent toggling and tweaking manual edits. Our AI video editor applies editorial discernment to cut scenes, overlay B-roll, and integrate sounds based on your video. Whether you polish your video with our AI edit feature or describe desired changes to our chat-based editor, Captions’ intuitive video maker makes it easy to bring your vision to life.\n\n\nLET AI EDIT FOR YOU\n\n- One-tap AI video editing: Transform raw footage into ready-to-post content instantly with curated effects and trending aesthetics.\n- Edit like you text: Just describe your vision in plain language; our chat-based editor will apply effects, transitions, B-roll, and pacing per your direction.\n\n\nCREATE A PERSONAL AI AVATAR\n\n- AI Twin: Turn a single selfie into a high-quality video of yourself using our AI video generator.\n- AI Actors: Generate talking videos with engaging AI avatars, giving you a digital on-brand spokesperson.\n- Adjust looks: Change outfits, add objects, and switch backgrounds to feature the same AI avatar across unlimited videos.\n\n\n AI-POWERED EDITING TOOLS\n\n- AI Denoise: Automatically remove background noise from talking videos.\n- AI Zoom: Instantly add relevant zooms to your content.\n- AI Scale: Quickly resize videos for whatever aspect ratio you need.\n- AI Hashtags: Automatically generate video captions and hashtags.\n- AI Teleprompter: Read directly from your script while recording in-app.\n- Multiple AI models: Choose from 20+ models to generate music, sounds, and visuals.\n\n\nCAPTIONS AND DUBBING\n\n- AI Dubbing: Dub your content into 29 languages with just a tap of a button.\n- AI Subtitles: Automatically generate accurate captions or subtitles in 91+ languages. You can choose specific fonts and colors too.\n\nCaptions, LLC (US) Developer",
       "languageCodesISO2A": [
         "AR",
         "CS",
@@ -209,22 +216,15 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "252227584",
+      "fileSizeBytes": "255834112",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 38616,
+      "userRatingCountForCurrentVersion": 38791,
       "trackContentRating": "17+",
-      "bundleId": "boomer.Smart-Video",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "genres": [
-        "Photo & Video",
-        "Graphics & Design"
-      ],
-      "genreIds": [
-        "6008",
-        "6027"
-      ],
-      "userRatingCount": 38616,
+      "sellerUrl": "https://captions.ai/",
+      "averageUserRatingForCurrentVersion": 4.74481,
+      "artistId": 418641551,
+      "artistName": "Captions, LLC (US)",
+      "userRatingCount": 38791,
       "country": "USA"
     }
   ]

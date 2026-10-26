@@ -2,7 +2,7 @@
   "id": "1500855883",
   "name": "CapCut - 動画編集アプリ",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:03:36.501Z",
+  "fetchedAt": "2026-10-26T08:03:09.856Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -43,14 +43,14 @@
           "amount": 11.99
         },
         {
-          "name": "Yearly Subscription",
-          "price": "109,99 €",
-          "amount": 109.99
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "11,99 €",
           "amount": 11.99
+        },
+        {
+          "name": "Yearly Subscription",
+          "price": "109,99 €",
+          "amount": 109.99
         },
         {
           "name": "Monatsabonnement",
@@ -58,22 +58,22 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-10-19T08:03:31.293Z"
+      "fetchedAt": "2026-10-26T08:03:04.611Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "Abonnement mensuel",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
         {
           "name": "Abonnement Standard mensuel",
           "price": "11,99 €",
           "amount": 11.99
         },
         {
-          "name": "Abonnement mensuel",
-          "price": "11,99 €",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Monthly Subscription",
           "price": "23,99 €",
           "amount": 23.99
@@ -95,6 +95,11 @@
         },
         {
           "name": "Abonnement mensuel",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Standard Monthly Subscription",
           "price": "11,99 €",
           "amount": 11.99
         },
@@ -104,17 +109,12 @@
           "amount": 109.99
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "11,99 €",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Monthly Subscription",
           "price": "23,99 €",
           "amount": 23.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:03:32.628Z"
+      "fetchedAt": "2026-10-26T08:03:06.004Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T08:03:34.216Z"
+      "fetchedAt": "2026-10-26T08:03:06.947Z"
     },
     "jp": {
       "currency": "JPY",
@@ -216,17 +216,17 @@
           "amount": 9900
         },
         {
-          "name": "Monthly Subscription",
+          "name": "Standard Monthly Subscription",
           "price": "¥1,080",
           "amount": 1080
         },
         {
-          "name": "Standard Monthly Subscription",
+          "name": "Monthly Subscription",
           "price": "¥1,080",
           "amount": 1080
         }
       ],
-      "fetchedAt": "2026-10-19T08:03:35.102Z"
+      "fetchedAt": "2026-10-26T08:03:08.260Z"
     },
     "us": {
       "currency": "USD",
@@ -262,6 +262,11 @@
           "amount": 9.99
         },
         {
+          "name": "Standard Monthly Subscription",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
           "name": "Yearly Subscription",
           "price": "$89.99",
           "amount": 89.99
@@ -275,14 +280,9 @@
           "name": "Monthly Subscription",
           "price": "$7.99",
           "amount": 7.99
-        },
-        {
-          "name": "Standard Monthly Subscription",
-          "price": "$9.99",
-          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:03:36.501Z"
+      "fetchedAt": "2026-10-26T08:03:09.855Z"
     }
   }
 }

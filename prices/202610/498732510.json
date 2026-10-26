@@ -2,7 +2,7 @@
   "id": "498732510",
   "name": "Blitzer.de PRO",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:17:26.795Z",
+  "fetchedAt": "2026-10-26T08:16:14.331Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -23,17 +23,17 @@
           "amount": 2.99
         },
         {
-          "name": "DriveCast Jahresabo",
-          "price": "24,99 €",
-          "amount": 24.99
-        },
-        {
           "name": "DriveCast Monatsabo",
           "price": "4,99 €",
           "amount": 4.99
+        },
+        {
+          "name": "DriveCast Jahresabo",
+          "price": "24,99 €",
+          "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:17:23.440Z"
+      "fetchedAt": "2026-10-26T08:16:11.404Z"
     },
     "fr": {
       "currency": "EUR",
@@ -49,7 +49,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:17:25.435Z"
+      "fetchedAt": "2026-10-26T08:16:12.923Z"
     },
     "gb": {
       "currency": "GBP",
@@ -65,7 +65,7 @@
           "amount": 8.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:17:26.794Z"
+      "fetchedAt": "2026-10-26T08:16:14.330Z"
     }
   }
 }

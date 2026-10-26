@@ -2,7 +2,7 @@
   "id": "730712409",
   "name": "ProCam - 专业相机",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:00:08.144Z",
+  "fetchedAt": "2026-10-26T07:59:38.401Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -53,7 +53,58 @@
           "amount": 38
         }
       ],
-      "fetchedAt": "2026-10-19T08:00:08.143Z"
+      "fetchedAt": "2026-10-26T07:59:36.893Z"
+    },
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "ZERO: Direkte Sensoraufnahme",
+          "price": "0,00 €",
+          "amount": 0
+        },
+        {
+          "name": "4K ULTRA HD Video",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Die Master Collection",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "KI Räumlich",
+          "price": "0,00 €",
+          "amount": 0
+        },
+        {
+          "name": "4K Ultra HD Time Lapse",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Die Urban Collection",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "Batchweise Fotoaktionen",
+          "price": "0,00 €",
+          "amount": 0
+        },
+        {
+          "name": "Die Elemental Collection",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "8K Max Time Lapse",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T07:59:38.400Z"
     },
     "fr": {
       "currency": "EUR",

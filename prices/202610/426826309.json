@@ -2,7 +2,7 @@
   "id": "426826309",
   "name": "Strava : course, vélo, rando",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:18:54.558Z",
+  "fetchedAt": "2026-10-26T08:17:44.026Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -13,12 +13,12 @@
           "amount": 59.99
         },
         {
-          "name": "Strava Subscription",
+          "name": "Subscription",
           "price": "9,99 €",
           "amount": 9.99
         },
         {
-          "name": "Subscription",
+          "name": "Strava Subscription",
           "price": "9,99 €",
           "amount": 9.99
         },
@@ -48,17 +48,17 @@
           "amount": 6.99
         },
         {
-          "name": "Runna Standalone Subscription",
-          "price": "19,99 €",
-          "amount": 19.99
-        },
-        {
           "name": "1 an",
           "price": "69,99 €",
           "amount": 69.99
+        },
+        {
+          "name": "Runna Standalone Subscription",
+          "price": "19,99 €",
+          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:18:54.554Z"
+      "fetchedAt": "2026-10-26T08:17:44.025Z"
     }
   }
 }

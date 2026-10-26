@@ -2,7 +2,7 @@
   "id": "6498623389",
   "name": "Folium",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:19:46.423Z",
+  "fetchedAt": "2026-10-26T08:12:50.364Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -13,7 +13,18 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:19:46.423Z"
+      "fetchedAt": "2026-10-26T08:12:48.901Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Extra Features",
+          "price": "$1.99",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-10-26T08:12:50.364Z"
     }
   }
 }

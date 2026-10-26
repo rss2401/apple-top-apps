@@ -203,13 +203,7 @@
       "userRatingCount": 33
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/aleksei-savin/id892347086?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,12 +338,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a4/a6/eea4a64e-5c7d-2717-c583-af63bd84df6a/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/25/0d/33250dda-3e6f-0e67-f233-25a74374c501/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/90/44/ac904466-cccc-7012-6ce2-719ed86c6879/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7e/ec/cd7eec0f-3694-e384-77e6-2c67c2c06b15/pr_source.png/392x696bb.png"
+      "artistViewUrl": "https://apps.apple.com/us/developer/aleksei-savin/id892347086?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a9/5e/3da95ece-dfda-96a4-4971-7ee1543bbe6d/pr_source.png/552x414bb.png",
@@ -360,31 +353,38 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 2.98485,
-      "trackCensoredName": "FORScan Lite - for Ford, Mazda",
-      "trackViewUrl": "https://apps.apple.com/us/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
-      "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "9.0",
-      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
-      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a4/a6/eea4a64e-5c7d-2717-c583-af63bd84df6a/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/25/0d/33250dda-3e6f-0e67-f233-25a74374c501/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/90/44/ac904466-cccc-7012-6ce2-719ed86c6879/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7e/ec/cd7eec0f-3694-e384-77e6-2c67c2c06b15/pr_source.png/392x696bb.png"
+      ],
+      "artistId": 892347086,
       "artistName": "Aleksei Savin",
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "bundleId": "com.astech.FORScan-Lite",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseDate": "2014-11-02T23:26:12Z",
+      "minimumOsVersion": "9.0",
       "trackId": 892347083,
       "trackName": "FORScan Lite - for Ford, Mazda",
+      "releaseDate": "2014-11-02T23:26:12Z",
       "sellerName": "Aleksei Savin",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
+      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
       "version": "1.5.31",
       "wrapperType": "software",
       "currency": "USD",
       "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
-      "averageUserRatingForCurrentVersion": 2.98485,
+      "averageUserRating": 2.98485,
+      "trackCensoredName": "FORScan Lite - for Ford, Mazda",
+      "trackViewUrl": "https://apps.apple.com/us/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "com.astech.FORScan-Lite",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -398,18 +398,19 @@
       "formattedPrice": "$6.99",
       "userRatingCountForCurrentVersion": 198,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.98485,
       "genreIds": [
         "6002",
         "6007"
       ],
-      "artistId": 892347086,
       "price": 6.99,
       "userRatingCount": 198,
       "country": "USA"
     },
     {
-      "advisories": [],
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/aleksei-savin/id892347086?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a4/a6/eea4a64e-5c7d-2717-c583-af63bd84df6a/pr_source.png/392x696bb.png",
@@ -425,14 +426,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d2/e3/92d2e3bb-cfc0-d830-87ec-c14daa9efa45/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/aleksei-savin/id892347086?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -565,9 +560,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
-      "averageUserRating": 4.15151,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "FORScan Lite - for Ford, Mazda",
+      "trackViewUrl": "https://apps.apple.com/de/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.15151,
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -579,61 +580,43 @@
       ],
       "fileSizeBytes": "83197952",
       "formattedPrice": "7,99 €",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 33,
-      "trackViewUrl": "https://apps.apple.com/de/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.15151,
       "genres": [
         "Dienst­programme",
         "Produktivität"
       ],
-      "artistId": 892347086,
-      "artistName": "Aleksei Savin",
-      "price": 7.99,
       "bundleId": "com.astech.FORScan-Lite",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "averageUserRatingForCurrentVersion": 4.15151,
-      "sellerName": "Aleksei Savin",
-      "version": "1.5.31",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
-      "minimumOsVersion": "9.0",
       "releaseDate": "2014-11-02T23:26:12Z",
+      "minimumOsVersion": "9.0",
       "trackId": 892347083,
       "trackName": "FORScan Lite - for Ford, Mazda",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Aleksei Savin",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
       "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
+      "version": "1.5.31",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
+      "price": 7.99,
+      "artistId": 892347086,
+      "artistName": "Aleksei Savin",
       "userRatingCount": 33,
       "country": "DEU"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/aleksei-savin/id892347086?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a4/a6/eea4a64e-5c7d-2717-c583-af63bd84df6a/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/25/0d/33250dda-3e6f-0e67-f233-25a74374c501/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/90/44/ac904466-cccc-7012-6ce2-719ed86c6879/pr_source.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7e/ec/cd7eec0f-3694-e384-77e6-2c67c2c06b15/pr_source.png/392x696bb.png"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a9/5e/3da95ece-dfda-96a4-4971-7ee1543bbe6d/pr_source.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/90/a2/e690a202-4c1c-1edf-053a-514274661b3f/pr_source.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/32/10/ec32100b-9403-a15e-f3ac-41a10bae3d65/pr_source.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/db/b3/44dbb393-bf37-7faf-0879-9d76e60e82cf/pr_source.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d2/e3/92d2e3bb-cfc0-d830-87ec-c14daa9efa45/pr_source.png/552x414bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -766,16 +749,56 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "artistViewUrl": "https://apps.apple.com/fr/developer/aleksei-savin/id892347086?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/a4/a6/eea4a64e-5c7d-2717-c583-af63bd84df6a/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/25/0d/33250dda-3e6f-0e67-f233-25a74374c501/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/90/44/ac904466-cccc-7012-6ce2-719ed86c6879/pr_source.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/7e/ec/cd7eec0f-3694-e384-77e6-2c67c2c06b15/pr_source.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/a9/5e/3da95ece-dfda-96a4-4971-7ee1543bbe6d/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/90/a2/e690a202-4c1c-1edf-053a-514274661b3f/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/32/10/ec32100b-9403-a15e-f3ac-41a10bae3d65/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/db/b3/44dbb393-bf37-7faf-0879-9d76e60e82cf/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d2/e3/92d2e3bb-cfc0-d830-87ec-c14daa9efa45/pr_source.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "averageUserRating": 3.875,
+      "price": 7.99,
+      "genres": [
+        "Utilitaires",
+        "Productivité"
+      ],
+      "artistId": 892347086,
+      "artistName": "Aleksei Savin",
+      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
+      "minimumOsVersion": "9.0",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackId": 892347083,
+      "releaseDate": "2014-11-02T23:26:12Z",
+      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
+      "trackName": "FORScan Lite - for Ford, Mazda",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Aleksei Savin",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.5.31",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
       "trackCensoredName": "FORScan Lite - for Ford, Mazda",
       "trackViewUrl": "https://apps.apple.com/fr/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.875,
-      "minimumOsVersion": "9.0",
-      "averageUserRatingForCurrentVersion": 3.875,
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -789,38 +812,15 @@
       "formattedPrice": "7,99 €",
       "userRatingCountForCurrentVersion": 8,
       "trackContentRating": "4+",
-      "artistId": 892347086,
-      "artistName": "Aleksei Savin",
-      "releaseDate": "2014-11-02T23:26:12Z",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Aleksei Savin",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
-      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
-      "version": "1.5.31",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
       "bundleId": "com.astech.FORScan-Lite",
-      "trackName": "FORScan Lite - for Ford, Mazda",
-      "trackId": 892347083,
-      "genres": [
-        "Utilitaires",
-        "Productivité"
-      ],
-      "price": 7.99,
+      "averageUserRatingForCurrentVersion": 3.875,
       "userRatingCount": 8,
       "country": "FRA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/aleksei-savin/id892347086?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/aleksei-savin/id892347086?uo=4",
+      "advisories": [],
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/49/54/8049549b-61ba-7efe-1c87-7a7fdce700e7/pr_source.png/392x696bb.png",
@@ -837,8 +837,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/d2/e3/92d2e3bb-cfc0-d830-87ec-c14daa9efa45/pr_source.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/4b/59/054b5916-9ac4-578e-f0b7-06730ecf0e83/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -975,11 +975,8 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "trackCensoredName": "FORScan Lite - for Ford, Mazda",
-      "trackViewUrl": "https://apps.apple.com/gb/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
-      "contentAdvisoryRating": "4+",
       "averageUserRating": 2.91892,
-      "minimumOsVersion": "9.0",
+      "trackCensoredName": "FORScan Lite - for Ford, Mazda",
       "languageCodesISO2A": [
         "EN",
         "DE",
@@ -991,34 +988,37 @@
       ],
       "fileSizeBytes": "83197952",
       "formattedPrice": "£6.99",
+      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 37,
+      "trackViewUrl": "https://apps.apple.com/gb/app/forscan-lite-for-ford-mazda/id892347083?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.91892,
-      "releaseDate": "2014-11-02T23:26:12Z",
       "artistId": 892347086,
       "artistName": "Aleksei Savin",
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "sellerName": "Aleksei Savin",
-      "trackId": 892347083,
-      "trackName": "FORScan Lite - for Ford, Mazda",
+      "price": 6.99,
+      "bundleId": "com.astech.FORScan-Lite",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
+      "averageUserRatingForCurrentVersion": 2.91892,
       "currentVersionReleaseDate": "2026-05-09T08:18:37Z",
+      "sellerName": "Aleksei Savin",
+      "trackId": 892347083,
+      "trackName": "FORScan Lite - for Ford, Mazda",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2014-11-02T23:26:12Z",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "minimumOsVersion": "9.0",
       "version": "1.5.31",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "FORScan Lite application was developed specially for a computer diagnostics of Ford, Mazda, Lincoln and Mercury vehicles. \n\nSupported adapters:\n- OBDLink MX+ (recommended)\n- vLinker FS Bluetooth (recommended)\n- vLinker FD BLE (recommended)\n- other ELM327-compatible WiFi or BLE adapter (not recommended). Attention: this application may not work properly in case of bad quality ELM327 adapter used!\n\nSupported cars:\n- Ford, Lincoln, Mercury models of 1996 - 2022MY (some models of 1994-1995MY are also supported)\n- Mazda 1996-2022MY. Attention: Mazda 7G models (new Mazda 3, CX-30, MX-30, CX-50 etc) are supported partially or not supported!\n- Vehicles other than Ford, Mazda, Lincoln, Mercury are not supported!\n\nFeatures:\n- Analyzing an on-board network configuration of the connected vehicle\n- Read and reset DTC for all modules\n- Read sensors and other data (PIDs) from all modules\n- Execute tests\n- Execute majority of service functions\n\nNote: Configuration and Programming functions, as well as some of service functions, are not available in FORScan Lite.",
-      "bundleId": "com.astech.FORScan-Lite",
-      "releaseNotes": "- Vehicle database update\n- Migration to core 2.3.71",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "price": 6.99,
       "userRatingCount": 37,
       "country": "GBR"
     }

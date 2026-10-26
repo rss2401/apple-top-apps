@@ -200,12 +200,6 @@
       "artistViewUrl": "https://apps.apple.com/de/developer/ch-software/id327754664?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/8b/b6/a38bb6b0-1300-369a-4749-c029c7b732f8/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/25/d3/1a25d3e5-2d70-c77d-144a-5d00645296bb/pr_source.png/392x696bb.png",
@@ -221,6 +215,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/86/69/e7/8669e71f-e9c6-d072-bc3d-5333f70f3915/AppIconPro-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,35 +348,15 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "trackCensoredName": "RegenVorschau Pro",
       "trackViewUrl": "https://apps.apple.com/de/app/regenvorschau-pro/id327754661?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.78505,
-      "genres": [
-        "Wetter",
-        "Dienst­programme"
-      ],
-      "price": 6.99,
-      "genreIds": [
-        "6001",
-        "6002"
-      ],
-      "artistName": "CH-Software",
-      "artistId": 327754664,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
-      "trackId": 327754661,
-      "trackName": "RegenVorschau Pro",
-      "bundleId": "com.ch-software.RegenVorschau",
-      "sellerName": "Christian Huebner",
-      "releaseDate": "2009-08-29T18:19:40Z",
-      "currentVersionReleaseDate": "2022-01-04T21:57:22Z",
-      "releaseNotes": "- Windböen auf Windkarte bei Höhe 10 m\n- Erläuterungen zur Bedeutung der Windhöhen\n- Serverkommunikation ausschließlich TLS verschlüsselt\n- Hinzufügen neuer Orte verbessert\n- Datenschutzerklärung aktualisiert",
-      "version": "3.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "RegenVorschau bietet eine kurzfristige Vorhersage der Niederschlagsentwicklung für beliebige Standorte in Deutschland basierend auf Radar-Messungen.\n\nNach dem Start der Applikation wird zunächst der Standort gewählt und danach die entsprechende Vorhersage geladen mit Regen-Wahrscheinlichkeit und -intensität für die nächsten zwei Stunden.\n\nAußerdem kann eine Radar-Karte geladen werden, die den aktuellen Regen und dessen Bewegungsrichtung zeigt.\n\nNeu: Eine Wind-Karte zeigt die Windströmung in unterschiedlichen Höhen (10 m, 1500 m und 3000 m). Damit können Sie das Wetter noch besser einschätzen. Niederschlagswolken bewegen sich typischerweise in Höhen zwischen 1500 und 3000 Metern.\n\nZum Ausprobieren vor dem Kauf können Sie die kostenlose Variante der App installieren (\"RegenVorschau - RegenRadar\"). Der Unterschied zwischen diesen Varianten besteht momentan lediglich darin, dass die kostenlose Variante Werbung enthält. In Zukunft wird die Pro Variante zusätzliche Funktionen enthalten.\n\nHinweis zur freien Standort-Auswahl: \nBeim Hinzufügen eines neuen Standorts muss die Karte verschoben werden bis der gewünschte Ort unter dem schwarzen Kreuz erscheint. Der blaue Punkt markiert lediglich den aktuellen Standort und dient nur zur Orientierung.",
       "sellerUrl": "https://www.regenvorschau.de",
       "languageCodesISO2A": [
         "DE"
@@ -391,7 +366,32 @@
       "userRatingCountForCurrentVersion": 428,
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 4.78505,
+      "genres": [
+        "Wetter",
+        "Dienst­programme"
+      ],
+      "bundleId": "com.ch-software.RegenVorschau",
+      "releaseDate": "2009-08-29T18:19:40Z",
       "minimumOsVersion": "12.0",
+      "trackId": 327754661,
+      "trackName": "RegenVorschau Pro",
+      "genreIds": [
+        "6001",
+        "6002"
+      ],
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
+      "sellerName": "Christian Huebner",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2022-01-04T21:57:22Z",
+      "releaseNotes": "- Windböen auf Windkarte bei Höhe 10 m\n- Erläuterungen zur Bedeutung der Windhöhen\n- Serverkommunikation ausschließlich TLS verschlüsselt\n- Hinzufügen neuer Orte verbessert\n- Datenschutzerklärung aktualisiert",
+      "version": "3.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "RegenVorschau bietet eine kurzfristige Vorhersage der Niederschlagsentwicklung für beliebige Standorte in Deutschland basierend auf Radar-Messungen.\n\nNach dem Start der Applikation wird zunächst der Standort gewählt und danach die entsprechende Vorhersage geladen mit Regen-Wahrscheinlichkeit und -intensität für die nächsten zwei Stunden.\n\nAußerdem kann eine Radar-Karte geladen werden, die den aktuellen Regen und dessen Bewegungsrichtung zeigt.\n\nNeu: Eine Wind-Karte zeigt die Windströmung in unterschiedlichen Höhen (10 m, 1500 m und 3000 m). Damit können Sie das Wetter noch besser einschätzen. Niederschlagswolken bewegen sich typischerweise in Höhen zwischen 1500 und 3000 Metern.\n\nZum Ausprobieren vor dem Kauf können Sie die kostenlose Variante der App installieren (\"RegenVorschau - RegenRadar\"). Der Unterschied zwischen diesen Varianten besteht momentan lediglich darin, dass die kostenlose Variante Werbung enthält. In Zukunft wird die Pro Variante zusätzliche Funktionen enthalten.\n\nHinweis zur freien Standort-Auswahl: \nBeim Hinzufügen eines neuen Standorts muss die Karte verschoben werden bis der gewünschte Ort unter dem schwarzen Kreuz erscheint. Der blaue Punkt markiert lediglich den aktuellen Standort und dient nur zur Orientierung.",
+      "price": 6.99,
+      "artistId": 327754664,
+      "artistName": "CH-Software",
       "userRatingCount": 428,
       "country": "DEU"
     }

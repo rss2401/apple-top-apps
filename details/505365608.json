@@ -188,10 +188,6 @@
       "userRatingCount": 152
     },
     {
-      "advisories": [
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor"
-      ],
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/02/6b/e4026b72-51ce-b090-7b29-f51f9dba9c54/M.15_-_AU_-_iOS_-_2796x1290_-_01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d2/0c/49d20c87-704c-883c-f67f-cde4579ca93c/M.15_-_AU_-_iOS_-_2796x1290_-_02.png/320x480bb.jpg",
@@ -216,14 +212,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/c8/6e/c5c86eb1-ff29-15f8-913d-8cdcf60b99b1/iPad_-_13In_-_2732x2048_-_09.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/wikicamps-pty-ltd/id469872262?uo=4",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor"
+      ],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -356,14 +356,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-10-01T04:01:15Z",
+      "averageUserRatingForCurrentVersion": 4.08497,
       "sellerUrl": "https://www.wikicamps.com.au",
-      "averageUserRating": 4.0915,
+      "averageUserRating": 4.08497,
       "trackCensoredName": "WikiCamps Australia",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "160674816",
+      "fileSizeBytes": "162123776",
       "formattedPrice": "6,99 €",
       "contentAdvisoryRating": "9+",
       "userRatingCountForCurrentVersion": 153,
@@ -373,32 +373,33 @@
         "Reisen",
         "Nachschlagewerke"
       ],
-      "artistId": 469872262,
-      "artistName": "WikiCamps pty ltd",
-      "price": 6.99,
-      "bundleId": "au.com.angryrobot.wikicamps",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "averageUserRatingForCurrentVersion": 4.0915,
       "sellerName": "WikiCamps pty ltd",
-      "version": "6.2.5",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "The app for knowing where you’re going.\n\n\n--- Explore over 60,000 sites across Australia --- \nWhether you're heading away for a weekend camping trip or planning an outback adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.  \n\n\n--- Plan your journey from here to there or anywhere --- \nWikiCamps has the ultimate tools to plan your next journey. \n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures. \n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your adventure mapped out. \n\n\n--- No signal? No worries! Use offline mode --- \nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go! \n\n\n--- New! Book and Save with WikiCamps --- \nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your adventures with our travel partners. \n\n\n--- Why not download the ultimate travel companion today? ---",
-      "minimumOsVersion": "14.0",
-      "releaseDate": "2012-03-01T20:30:39Z",
-      "trackId": 505365608,
-      "trackName": "WikiCamps Australia",
       "genreIds": [
         "6003",
         "6006"
       ],
-      "releaseNotes": "Added:\n- Sorting options are reset when resetting filters\n- Clarified sorting option behaviour\n\nFixed:\n- Resolved a bug causing sorting options to persist and apply incorrectly",
+      "currentVersionReleaseDate": "2026-10-19T23:57:33Z",
+      "releaseDate": "2012-03-01T20:30:39Z",
+      "releaseNotes": "Added:\n- Home sites are filtered to the tourist region you (or your search pin) are currently in\n- Home sites are better sorted to show places with recent reviews and ratings\n- The map key contains more information about available site types \n\nFixed:\n- Reduced permissions requested and required for certain features",
+      "version": "6.3.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "The app for knowing where you’re going.\n\n\n--- Explore over 60,000 sites across Australia --- \nWhether you're heading away for a weekend camping trip or planning an outback adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.  \n\n\n--- Plan your journey from here to there or anywhere --- \nWikiCamps has the ultimate tools to plan your next journey. \n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures. \n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your adventure mapped out. \n\n\n--- No signal? No worries! Use offline mode --- \nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go! \n\n\n--- New! Book and Save with WikiCamps --- \nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your adventures with our travel partners. \n\n\n--- Why not download the ultimate travel companion today? ---",
+      "bundleId": "au.com.angryrobot.wikicamps",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "trackId": 505365608,
+      "trackName": "WikiCamps Australia",
+      "artistId": 469872262,
+      "artistName": "WikiCamps pty ltd",
+      "price": 6.99,
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
       "userRatingCount": 153,
       "country": "DEU"
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/02/6b/e4026b72-51ce-b090-7b29-f51f9dba9c54/M.15_-_AU_-_iOS_-_2796x1290_-_01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d2/0c/49d20c87-704c-883c-f67f-cde4579ca93c/M.15_-_AU_-_iOS_-_2796x1290_-_02.png/320x480bb.jpg",
@@ -423,8 +424,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/c8/6e/c5c86eb1-ff29-15f8-913d-8cdcf60b99b1/iPad_-_13In_-_2732x2048_-_09.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -562,57 +565,56 @@
       ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/wikicamps-pty-ltd/id469872262?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "14.0",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 3.97647,
+      "sellerUrl": "https://www.wikicamps.com.au",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "160674816",
+      "fileSizeBytes": "162123776",
       "formattedPrice": "6,99 €",
       "userRatingCountForCurrentVersion": 85,
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 3.97647,
-      "sellerUrl": "https://www.wikicamps.com.au",
-      "artistId": 469872262,
-      "artistName": "WikiCamps pty ltd",
-      "genres": [
-        "Voyages",
-        "Références"
-      ],
-      "price": 6.99,
-      "bundleId": "au.com.angryrobot.wikicamps",
       "genreIds": [
         "6003",
         "6006"
       ],
-      "sellerName": "WikiCamps pty ltd",
+      "price": 6.99,
+      "artistId": 469872262,
+      "artistName": "WikiCamps pty ltd",
+      "releaseDate": "2012-03-01T20:30:39Z",
+      "trackId": 505365608,
+      "trackName": "WikiCamps Australia",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
+      "sellerName": "WikiCamps pty ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2012-03-01T20:30:39Z",
-      "trackName": "WikiCamps Australia",
-      "trackId": 505365608,
-      "currentVersionReleaseDate": "2026-10-01T04:01:15Z",
-      "releaseNotes": "Added:\n- Sorting options are reset when resetting filters\n- Clarified sorting option behaviour\n\nFixed:\n- Resolved a bug causing sorting options to persist and apply incorrectly",
-      "version": "6.2.5",
+      "currentVersionReleaseDate": "2026-10-19T23:57:33Z",
+      "releaseNotes": "Added:\n- Home sites are filtered to the tourist region you (or your search pin) are currently in\n- Home sites are better sorted to show places with recent reviews and ratings\n- The map key contains more information about available site types \n\nFixed:\n- Reduced permissions requested and required for certain features",
+      "version": "6.3.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "The app for knowing where you’re going.\n\n\n--- Explore over 60,000 sites across Australia --- \nWhether you're heading away for a weekend camping trip or planning an outback adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.  \n\n\n--- Plan your journey from here to there or anywhere --- \nWikiCamps has the ultimate tools to plan your next journey. \n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures. \n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your adventure mapped out. \n\n\n--- No signal? No worries! Use offline mode --- \nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go! \n\n\n--- New! Book and Save with WikiCamps --- \nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your adventures with our travel partners. \n\n\n--- Why not download the ultimate travel companion today? ---",
-      "averageUserRating": 3.97647,
       "trackCensoredName": "WikiCamps Australia",
       "trackViewUrl": "https://apps.apple.com/fr/app/wikicamps-australia/id505365608?uo=4",
+      "bundleId": "au.com.angryrobot.wikicamps",
+      "averageUserRating": 3.97647,
       "contentAdvisoryRating": "9+",
+      "minimumOsVersion": "15.0",
+      "genres": [
+        "Voyages",
+        "Références"
+      ],
       "userRatingCount": 85,
       "country": "FRA"
     },
     {
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/wikicamps-pty-ltd/id469872262?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "advisories": [
+        "Infrequent/Mild Profanity or Crude Humour"
+      ],
       "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/02/6b/e4026b72-51ce-b090-7b29-f51f9dba9c54/M.15_-_AU_-_iOS_-_2796x1290_-_01.png/320x480bb.jpg",
@@ -638,10 +640,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/c8/6e/c5c86eb1-ff29-15f8-913d-8cdcf60b99b1/iPad_-_13In_-_2732x2048_-_09.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b3/56/abb356ae-42f7-5eba-3d00-495aa1893a6b/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Profanity or Crude Humour"
-      ],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -778,45 +778,45 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "trackCensoredName": "WikiCamps Australia",
-      "trackViewUrl": "https://apps.apple.com/gb/app/wikicamps-australia/id505365608?uo=4",
-      "contentAdvisoryRating": "9+",
+      "sellerUrl": "https://www.wikicamps.com.au",
       "averageUserRating": 4.23148,
-      "minimumOsVersion": "14.0",
+      "trackCensoredName": "WikiCamps Australia",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "160674816",
+      "fileSizeBytes": "162123776",
       "formattedPrice": "£6.99",
+      "contentAdvisoryRating": "9+",
       "userRatingCountForCurrentVersion": 108,
+      "trackViewUrl": "https://apps.apple.com/gb/app/wikicamps-australia/id505365608?uo=4",
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 4.23148,
-      "sellerUrl": "https://www.wikicamps.com.au",
-      "releaseDate": "2012-03-01T20:30:39Z",
       "artistId": 469872262,
       "artistName": "WikiCamps pty ltd",
       "genres": [
         "Travel",
         "Reference"
       ],
-      "sellerName": "WikiCamps pty ltd",
-      "trackId": 505365608,
-      "trackName": "WikiCamps Australia",
+      "price": 6.99,
+      "bundleId": "au.com.angryrobot.wikicamps",
       "genreIds": [
         "6003",
         "6006"
       ],
-      "currentVersionReleaseDate": "2026-10-01T04:01:15Z",
-      "version": "6.2.5",
+      "releaseNotes": "Added:\n- Home sites are filtered to the tourist region you (or your search pin) are currently in\n- Home sites are better sorted to show places with recent reviews and ratings\n- The map key contains more information about available site types \n\nFixed:\n- Reduced permissions requested and required for certain features",
+      "averageUserRatingForCurrentVersion": 4.23148,
+      "currentVersionReleaseDate": "2026-10-19T23:57:33Z",
+      "sellerName": "WikiCamps pty ltd",
+      "trackId": 505365608,
+      "trackName": "WikiCamps Australia",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2012-03-01T20:30:39Z",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "minimumOsVersion": "15.0",
+      "version": "6.3.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The app for knowing where you’re going.\n\n\n--- Explore over 60,000 sites across Australia --- \nWhether you're heading away for a weekend camping trip or planning an outback adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.  \n\n\n--- Plan your journey from here to there or anywhere --- \nWikiCamps has the ultimate tools to plan your next journey. \n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures. \n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your adventure mapped out. \n\n\n--- No signal? No worries! Use offline mode --- \nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go! \n\n\n--- New! Book and Save with WikiCamps --- \nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your adventures with our travel partners. \n\n\n--- Why not download the ultimate travel companion today? ---",
-      "bundleId": "au.com.angryrobot.wikicamps",
-      "releaseNotes": "Added:\n- Sorting options are reset when resetting filters\n- Clarified sorting option behaviour\n\nFixed:\n- Resolved a bug causing sorting options to persist and apply incorrectly",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "price": 6.99,
       "userRatingCount": 108,
       "country": "GBR"
     }

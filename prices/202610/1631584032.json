@@ -2,8 +2,13 @@
   "id": "1631584032",
   "name": "PLAYFUL REWARDS: Earn Rewards",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:08:12.358Z",
+  "fetchedAt": "2026-10-26T08:07:19.005Z",
   "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-10-26T08:07:17.433Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -13,7 +18,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:08:12.357Z"
+      "fetchedAt": "2026-10-26T08:07:18.998Z"
     }
   }
 }

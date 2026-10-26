@@ -189,14 +189,8 @@
     },
     {
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/wikicamps-pty-ltd/id469872262?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/b3/96/17b396bc-b176-5910-fb02-866040924bec/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/b3/96/17b396bc-b176-5910-fb02-866040924bec/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -330,7 +324,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
+      ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/wikicamps-pty-ltd/id469872262?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/65/e1/1165e14b-fe5f-652d-8f30-07b4a38dd757/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/65/e1/1165e14b-fe5f-652d-8f30-07b4a38dd757/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/43/75/364375d4-e599-de19-cc1f-470ab50c02cb/M.15_-_NZ_-_iOS_-_2796x1290_-_01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/60/08/e560088d-28a3-94fd-685d-e69d651149a2/M.15_-_NZ_-_iOS_-_2796x1290_-_02.png/320x480bb.jpg",
@@ -355,46 +355,46 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/27/a1/b327a193-ba2f-4562-59b3-0bc042ad5b10/iPad_-_13In_-_2732x2048_-_12.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/b3/96/17b396bc-b176-5910-fb02-866040924bec/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "bundleId": "au.com.angryrobot.wikicampsnz",
-      "releaseNotes": "Added:\n- Sorting options are reset when resetting filters\n- Clarified sorting option behaviour\n\nFixed:\n- Resolved a bug causing sorting options to persist and apply incorrectly",
-      "minimumOsVersion": "14.0",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/65/e1/1165e14b-fe5f-652d-8f30-07b4a38dd757/nz_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "averageUserRating": 3.7037,
-      "trackCensoredName": "WikiCamps New Zealand",
-      "trackViewUrl": "https://apps.apple.com/fr/app/wikicamps-new-zealand/id582527125?uo=4",
-      "contentAdvisoryRating": "9+",
-      "artistName": "WikiCamps pty ltd",
-      "artistId": 469872262,
+      "price": 4.99,
       "genres": [
         "Voyages",
         "Références"
       ],
-      "price": 4.99,
-      "sellerName": "WikiCamps pty ltd",
-      "releaseDate": "2012-12-17T08:50:05Z",
+      "artistId": 469872262,
+      "artistName": "WikiCamps pty ltd",
+      "currentVersionReleaseDate": "2026-10-19T23:57:52Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6003",
         "6006"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 582527125,
+      "releaseDate": "2012-12-17T08:50:05Z",
+      "releaseNotes": "Added:\n- Home sites are filtered to the tourist region you (or your search pin) are currently in\n- Home sites are better sorted to show places with recent reviews and ratings\n- The map key contains more information about available site types \n\nFixed:\n- Reduced permissions requested and required for certain features",
+      "trackName": "WikiCamps New Zealand",
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "trackId": 582527125,
-      "trackName": "WikiCamps New Zealand",
-      "currentVersionReleaseDate": "2026-10-01T04:01:21Z",
-      "version": "6.2.5",
+      "sellerName": "WikiCamps pty ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "6.3.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "The app for knowing where you’re going.\n\n\n--- Explore over 12,000 sites across New Zealand ---\nWhether you're heading away for a weekend camping trip or planning a big adventure, find the right places for you with WikiCamps!\n\nSearch with ease using intuitive filters to access detailed information, provided and kept up to date by a community of like-minded WikiCampers.\n\nGet exclusive insights from real travellers, including authentic reviews, fee information to help your budgeting, and photos that show you the real deal—before you travel.\n\n\n--- Plan your journey from here to there or anywhere ---\nWikiCamps has the ultimate tools to plan your next journey.\n\nUse collections to create a wishlist, mark where you’ve been, or remember places you liked on previous adventures.\n\nIn Trip Planner, you can build an itinerary, plot a route, gauge your fuel spend, and see every place in your journey mapped out.\n\n\n--- No signal? No worries! Use offline mode ---\nThanks to offline mode, you can download everything you need to explore and travel. You’ll always be in the know, wherever you go!\n\n\n--- New! Book and Save with WikiCamps ---\nMany of your favourite sites are now bookable through WikiCamps! Plus, check out how you can save money on your travels with our partners.\n\n\n--- Why not download the ultimate travel companion today? ---",
-      "averageUserRatingForCurrentVersion": 3.7037,
+      "trackCensoredName": "WikiCamps New Zealand",
+      "trackViewUrl": "https://apps.apple.com/fr/app/wikicamps-new-zealand/id582527125?uo=4",
+      "contentAdvisoryRating": "9+",
       "sellerUrl": "https://www.wikicamps.co.nz/",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "100553728",
+      "fileSizeBytes": "101617664",
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 27,
       "trackContentRating": "9+",
+      "bundleId": "au.com.angryrobot.wikicampsnz",
+      "averageUserRatingForCurrentVersion": 3.7037,
       "userRatingCount": 27,
       "country": "FRA"
     }

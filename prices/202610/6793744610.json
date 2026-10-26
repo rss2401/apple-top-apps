@@ -2,7 +2,7 @@
   "id": "6793744610",
   "name": "2AM CAM",
   "month": "202610",
-  "fetchedAt": "2026-10-19T08:23:26.915Z",
+  "fetchedAt": "2026-10-26T08:23:33.901Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -64,6 +64,11 @@
       "currency": "EUR",
       "items": [
         {
+          "name": "64 GB · Monthly",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
           "name": "64 GB · Annual",
           "price": "22,99 €",
           "amount": 22.99
@@ -82,11 +87,6 @@
           "name": "256 GB · Annual",
           "price": "59,99 €",
           "amount": 59.99
-        },
-        {
-          "name": "64 GB · Monthly",
-          "price": "1,99 €",
-          "amount": 1.99
         },
         {
           "name": "128 GB · Annual",
@@ -114,7 +114,7 @@
           "amount": 17.99
         }
       ],
-      "fetchedAt": "2026-10-18T14:14:18.022Z"
+      "fetchedAt": "2026-10-26T08:23:30.846Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:23:25.548Z"
+      "fetchedAt": "2026-10-26T08:23:32.439Z"
     },
     "us": {
       "currency": "USD",
@@ -186,14 +186,14 @@
           "amount": 19.99
         },
         {
-          "name": "128 GB · Annual",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "128 GB · Monthly",
           "price": "$2.99",
           "amount": 2.99
+        },
+        {
+          "name": "128 GB · Annual",
+          "price": "$29.99",
+          "amount": 29.99
         },
         {
           "name": "512 GB · Annual",
@@ -226,7 +226,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:23:26.914Z"
+      "fetchedAt": "2026-10-26T08:23:33.900Z"
     }
   }
 }
