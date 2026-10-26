@@ -1,8 +1,8 @@
 {
   "id": "6670324846",
-  "name": "Grok",
+  "name": "Grok AI",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:06:25.015Z",
+  "fetchedAt": "2026-10-26T09:24:52.752Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -38,12 +38,12 @@
           "amount": 199.99
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "Extra Usage Credits 100 USD",
           "price": "AED 399.99",
           "amount": 399.99
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "AED 399.99",
           "amount": 399.99
         },
@@ -58,7 +58,7 @@
           "amount": 1199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:12.241Z"
+      "fetchedAt": "2026-10-26T09:20:52.683Z"
     },
     "af": {
       "available": false,
@@ -78,9 +78,9 @@
           "amount": 5
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -88,9 +88,9 @@
           "amount": 20
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -118,7 +118,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:13.801Z"
+      "fetchedAt": "2026-10-26T09:20:54.176Z"
     },
     "ai": {
       "currency": "USD",
@@ -174,7 +174,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:15.294Z"
+      "fetchedAt": "2026-10-26T09:20:55.714Z"
     },
     "al": {
       "currency": "USD",
@@ -230,7 +230,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:16.815Z"
+      "fetchedAt": "2026-10-26T09:20:57.111Z"
     },
     "am": {
       "currency": "USD",
@@ -266,6 +266,11 @@
           "amount": 119
         },
         {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 60.00",
           "amount": 60
@@ -279,14 +284,9 @@
           "name": "SuperGrok",
           "price": "USD 400.00",
           "amount": 400
-        },
-        {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "USD 119.00",
-          "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:18.255Z"
+      "fetchedAt": "2026-10-26T09:20:58.696Z"
     },
     "ao": {
       "currency": "USD",
@@ -342,7 +342,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:19.747Z"
+      "fetchedAt": "2026-10-26T09:21:00.129Z"
     },
     "ar": {
       "currency": "USD",
@@ -398,7 +398,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:21.389Z"
+      "fetchedAt": "2026-10-26T09:21:01.766Z"
     },
     "at": {
       "currency": "EUR",
@@ -434,27 +434,27 @@
           "amount": 349
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "100,00 €",
           "amount": 100
         },
         {
-          "name": "SuperGrok",
-          "price": "349,00 €",
-          "amount": 349
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "SuperGrok",
+          "price": "349,00 €",
+          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:22.750Z"
+      "fetchedAt": "2026-10-26T09:21:03.129Z"
     },
     "au": {
       "currency": "AUD",
@@ -490,12 +490,12 @@
           "amount": 500
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "$150.00",
           "amount": 150
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "Extra Usage Credits 100 USD",
           "price": "$150.00",
           "amount": 150
         },
@@ -510,7 +510,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:24.280Z"
+      "fetchedAt": "2026-10-26T09:21:04.671Z"
     },
     "az": {
       "currency": "USD",
@@ -566,7 +566,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:25.761Z"
+      "fetchedAt": "2026-10-26T09:21:06.328Z"
     },
     "ba": {
       "currency": "EUR",
@@ -622,7 +622,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:27.241Z"
+      "fetchedAt": "2026-10-26T09:21:07.737Z"
     },
     "bb": {
       "currency": "USD",
@@ -638,11 +638,6 @@
           "amount": 40
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 25.00",
           "amount": 25
@@ -651,6 +646,11 @@
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 60.00",
           "amount": 60
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "SuperGrok",
@@ -678,7 +678,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:28.774Z"
+      "fetchedAt": "2026-10-26T09:21:09.174Z"
     },
     "be": {
       "currency": "EUR",
@@ -709,14 +709,14 @@
           "amount": 60
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "SuperGrok Plus",
@@ -734,7 +734,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:30.233Z"
+      "fetchedAt": "2026-10-26T09:21:10.662Z"
     },
     "bf": {
       "currency": "USD",
@@ -745,6 +745,11 @@
           "amount": 30
         },
         {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 5.00",
           "amount": 5
@@ -753,11 +758,6 @@
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
         },
         {
           "name": "SuperGrok Heavy",
@@ -790,7 +790,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:31.787Z"
+      "fetchedAt": "2026-10-26T09:21:12.201Z"
     },
     "bg": {
       "currency": "EUR",
@@ -846,7 +846,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:33.361Z"
+      "fetchedAt": "2026-10-26T09:21:13.750Z"
     },
     "bh": {
       "currency": "USD",
@@ -882,14 +882,14 @@
           "amount": 50
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
           "name": "SuperGrok",
           "price": "$30.00",
           "amount": 30
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -902,7 +902,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:34.763Z"
+      "fetchedAt": "2026-10-26T09:21:15.179Z"
     },
     "bj": {
       "currency": "USD",
@@ -913,14 +913,14 @@
           "amount": 40
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 6.00",
-          "amount": 6
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 6.00",
+          "amount": 6
         },
         {
           "name": "SuperGrok Heavy",
@@ -958,7 +958,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:36.313Z"
+      "fetchedAt": "2026-10-26T09:21:16.790Z"
     },
     "bm": {
       "currency": "USD",
@@ -974,19 +974,9 @@
           "amount": 5
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -994,9 +984,19 @@
           "amount": 30
         },
         {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
           "name": "SuperGrok",
           "price": "USD 300.00",
           "amount": 300
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok Heavy",
@@ -1014,7 +1014,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:37.781Z"
+      "fetchedAt": "2026-10-26T09:21:18.161Z"
     },
     "bn": {
       "currency": "USD",
@@ -1035,9 +1035,9 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -1045,9 +1045,9 @@
           "amount": 20
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -1070,7 +1070,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:39.250Z"
+      "fetchedAt": "2026-10-26T09:21:19.636Z"
     },
     "bo": {
       "currency": "USD",
@@ -1096,11 +1096,6 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 20.00",
           "amount": 20
@@ -1117,6 +1112,11 @@
         },
         {
           "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok Plus",
           "price": "USD 1,000.00",
           "amount": 1000
         },
@@ -1126,7 +1126,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:40.763Z"
+      "fetchedAt": "2026-10-26T09:21:21.291Z"
     },
     "br": {
       "currency": "BRL",
@@ -1152,14 +1152,14 @@
           "amount": 129.9
         },
         {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "R$ 299,90",
+          "amount": 299.9
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "R$ 1.999,90",
           "amount": 1999.9
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "R$ 599,90",
-          "amount": 599.9
         },
         {
           "name": "SuperGrok",
@@ -1167,9 +1167,9 @@
           "amount": 149.9
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "R$ 299,90",
-          "amount": 299.9
+          "name": "SuperGrok Plus",
+          "price": "R$ 599,90",
+          "amount": 599.9
         },
         {
           "name": "SuperGrok",
@@ -1182,7 +1182,7 @@
           "amount": 599.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:42.269Z"
+      "fetchedAt": "2026-10-26T09:21:22.661Z"
     },
     "bs": {
       "currency": "USD",
@@ -1198,14 +1198,14 @@
           "amount": 5
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -1238,7 +1238,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:43.742Z"
+      "fetchedAt": "2026-10-26T09:21:24.202Z"
     },
     "bt": {
       "currency": "USD",
@@ -1294,7 +1294,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:45.286Z"
+      "fetchedAt": "2026-10-26T09:21:25.631Z"
     },
     "bw": {
       "currency": "USD",
@@ -1305,24 +1305,29 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "SuperGrok",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -1343,14 +1348,9 @@
           "name": "Extra Usage Credits 10 USD",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:46.793Z"
+      "fetchedAt": "2026-10-26T09:21:27.144Z"
     },
     "by": {
       "available": false,
@@ -1370,14 +1370,14 @@
           "amount": 5
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -1410,7 +1410,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:48.299Z"
+      "fetchedAt": "2026-10-26T09:21:28.770Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1466,7 +1466,7 @@
           "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:49.770Z"
+      "fetchedAt": "2026-10-26T09:21:30.136Z"
     },
     "cd": {
       "available": false,
@@ -1510,12 +1510,12 @@
           "amount": 300
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "CHF 90.00",
           "amount": 90
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "Extra Usage Credits 100 USD",
           "price": "CHF 90.00",
           "amount": 90
         },
@@ -1530,7 +1530,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:51.355Z"
+      "fetchedAt": "2026-10-26T09:21:31.650Z"
     },
     "ci": {
       "currency": "USD",
@@ -1541,19 +1541,24 @@
           "amount": 40
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "6,00 $US",
-          "amount": 6
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "12,00 $US",
           "amount": 12
         },
         {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "6,00 $US",
+          "amount": 6
+        },
+        {
           "name": "SuperGrok",
           "price": "40,00 $US",
           "amount": 40
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "400,00 $US",
+          "amount": 400
         },
         {
           "name": "SuperGrok Plus",
@@ -1564,11 +1569,6 @@
           "name": "Extra Usage Credits 20 USD",
           "price": "25,00 $US",
           "amount": 25
-        },
-        {
-          "name": "SuperGrok Heavy",
-          "price": "400,00 $US",
-          "amount": 400
         },
         {
           "name": "SuperGrok",
@@ -1586,7 +1586,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:52.738Z"
+      "fetchedAt": "2026-10-26T09:21:33.113Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1617,14 +1617,19 @@
           "amount": 99990
         },
         {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "$59.990",
+          "amount": 59990
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "$349.990",
           "amount": 349990
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "$59.990",
-          "amount": 59990
+          "name": "SuperGrok",
+          "price": "$34.990",
+          "amount": 34990
         },
         {
           "name": "SuperGrok Plus",
@@ -1633,16 +1638,11 @@
         },
         {
           "name": "SuperGrok",
-          "price": "$34.990",
-          "amount": 34990
-        },
-        {
-          "name": "SuperGrok",
           "price": "$349.990",
           "amount": 349990
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:54.279Z"
+      "fetchedAt": "2026-10-26T09:21:34.852Z"
     },
     "cm": {
       "currency": "USD",
@@ -1663,14 +1663,14 @@
           "amount": 12
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "119,00 $US",
-          "amount": 119
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "25,00 $US",
           "amount": 25
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "119,00 $US",
+          "amount": 119
         },
         {
           "name": "SuperGrok Heavy",
@@ -1698,7 +1698,7 @@
           "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:55.875Z"
+      "fetchedAt": "2026-10-26T09:21:36.187Z"
     },
     "cn": {
       "available": false,
@@ -1733,6 +1733,11 @@
           "amount": 1299900
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "$ 499.900,00",
+          "amount": 499900
+        },
+        {
           "name": "SuperGrok",
           "price": "$ 129.900,00",
           "amount": 129900
@@ -1751,14 +1756,9 @@
           "name": "Extra Usage Credits 100 USD",
           "price": "$ 499.900,00",
           "amount": 499900
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "$ 499.900,00",
-          "amount": 499900
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:57.280Z"
+      "fetchedAt": "2026-10-26T09:21:37.752Z"
     },
     "cr": {
       "currency": "USD",
@@ -1784,19 +1784,14 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -1810,11 +1805,16 @@
         },
         {
           "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "SuperGrok Plus",
           "price": "USD 1,000.00",
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:21:58.749Z"
+      "fetchedAt": "2026-10-26T09:21:39.294Z"
     },
     "cv": {
       "currency": "USD",
@@ -1870,7 +1870,7 @@
           "amount": 5
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:00.283Z"
+      "fetchedAt": "2026-10-26T09:21:40.744Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1906,14 +1906,14 @@
           "amount": 60
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok Plus",
@@ -1926,7 +1926,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:01.763Z"
+      "fetchedAt": "2026-10-26T09:21:42.164Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1942,14 +1942,19 @@
           "amount": 129
         },
         {
+          "name": "SuperGrok Lite",
+          "price": "249,00 Kč",
+          "amount": 249
+        },
+        {
           "name": "Extra Usage Credits 20 USD",
           "price": "499,00 Kč",
           "amount": 499
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "249,00 Kč",
-          "amount": 249
+          "name": "Extra Usage Credits 100 USD",
+          "price": "2 790,00 Kč",
+          "amount": 2790
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -1972,17 +1977,12 @@
           "amount": 7990
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "2 790,00 Kč",
-          "amount": 2790
-        },
-        {
           "name": "SuperGrok",
           "price": "799,00 Kč",
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:03.242Z"
+      "fetchedAt": "2026-10-26T09:21:43.640Z"
     },
     "de": {
       "currency": "EUR",
@@ -2038,7 +2038,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-26T08:06:20.365Z"
+      "fetchedAt": "2026-10-26T09:21:45.126Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2094,7 +2094,7 @@
           "amount": 2499
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:06.299Z"
+      "fetchedAt": "2026-10-26T09:21:46.647Z"
     },
     "dm": {
       "currency": "USD",
@@ -2150,7 +2150,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:07.738Z"
+      "fetchedAt": "2026-10-26T09:21:48.147Z"
     },
     "do": {
       "currency": "USD",
@@ -2206,7 +2206,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:09.262Z"
+      "fetchedAt": "2026-10-26T09:21:49.933Z"
     },
     "dz": {
       "currency": "USD",
@@ -2262,7 +2262,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:10.818Z"
+      "fetchedAt": "2026-10-26T09:21:51.186Z"
     },
     "ec": {
       "currency": "USD",
@@ -2288,12 +2288,17 @@
           "amount": 20
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
           "name": "SuperGrok",
           "price": "USD 30.00",
           "amount": 30
         },
         {
-          "name": "SuperGrok Heavy",
+          "name": "SuperGrok",
           "price": "USD 300.00",
           "amount": 300
         },
@@ -2301,11 +2306,6 @@
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
-        },
-        {
-          "name": "SuperGrok",
-          "price": "USD 300.00",
-          "amount": 300
         },
         {
           "name": "SuperGrok Lite",
@@ -2318,7 +2318,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:12.257Z"
+      "fetchedAt": "2026-10-26T09:21:52.756Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2374,7 +2374,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:13.760Z"
+      "fetchedAt": "2026-10-26T09:21:54.158Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2400,14 +2400,14 @@
           "amount": 499.99
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "EGP 2,499.99",
-          "amount": 2499.99
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "EGP 4,999.99",
           "amount": 4999.99
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "EGP 2,499.99",
+          "amount": 2499.99
         },
         {
           "name": "SuperGrok Heavy",
@@ -2430,7 +2430,7 @@
           "amount": 14999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:15.316Z"
+      "fetchedAt": "2026-10-26T09:21:55.763Z"
     },
     "es": {
       "currency": "EUR",
@@ -2486,7 +2486,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:16.721Z"
+      "fetchedAt": "2026-10-26T09:21:57.114Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2512,14 +2512,14 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "60,00 €",
           "amount": 60
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok Plus",
@@ -2527,9 +2527,9 @@
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "SuperGrok",
@@ -2542,7 +2542,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:18.220Z"
+      "fetchedAt": "2026-10-26T09:21:58.667Z"
     },
     "fj": {
       "currency": "USD",
@@ -2558,6 +2558,11 @@
           "amount": 5
         },
         {
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
@@ -2566,11 +2571,6 @@
           "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "SuperGrok",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "SuperGrok Plus",
@@ -2598,7 +2598,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:19.844Z"
+      "fetchedAt": "2026-10-26T09:22:00.144Z"
     },
     "fm": {
       "currency": "USD",
@@ -2654,7 +2654,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:21.283Z"
+      "fetchedAt": "2026-10-26T09:22:01.622Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2710,7 +2710,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-26T08:06:21.920Z"
+      "fetchedAt": "2026-10-26T09:22:03.125Z"
     },
     "ga": {
       "currency": "USD",
@@ -2766,7 +2766,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:24.281Z"
+      "fetchedAt": "2026-10-26T09:22:04.686Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2822,7 +2822,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-26T08:06:23.361Z"
+      "fetchedAt": "2026-10-26T09:22:06.209Z"
     },
     "gd": {
       "currency": "USD",
@@ -2878,7 +2878,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:27.276Z"
+      "fetchedAt": "2026-10-26T09:22:07.834Z"
     },
     "ge": {
       "currency": "USD",
@@ -2904,24 +2904,14 @@
           "amount": 25
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 400.00",
-          "amount": 400
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "USD 119.00",
           "amount": 119
         },
         {
-          "name": "SuperGrok",
+          "name": "SuperGrok Heavy",
           "price": "USD 400.00",
           "amount": 400
-        },
-        {
-          "name": "SuperGrok",
-          "price": "USD 40.00",
-          "amount": 40
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -2929,12 +2919,22 @@
           "amount": 60
         },
         {
+          "name": "SuperGrok",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
           "name": "Extra Usage Credits 100 USD",
           "price": "USD 119.00",
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:28.734Z"
+      "fetchedAt": "2026-10-26T09:22:09.836Z"
     },
     "gh": {
       "currency": "USD",
@@ -2965,14 +2965,14 @@
           "amount": 119
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "USD 400.00",
           "amount": 400
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "SuperGrok",
@@ -2990,7 +2990,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:30.227Z"
+      "fetchedAt": "2026-10-26T09:22:10.651Z"
     },
     "gm": {
       "currency": "USD",
@@ -3046,7 +3046,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:31.782Z"
+      "fetchedAt": "2026-10-26T09:22:12.290Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3077,14 +3077,19 @@
           "amount": 349
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "SuperGrok",
@@ -3095,14 +3100,9 @@
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
-        },
-        {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:33.503Z"
+      "fetchedAt": "2026-10-26T09:22:13.642Z"
     },
     "gt": {
       "currency": "USD",
@@ -3128,12 +3128,12 @@
           "amount": 20
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
-          "name": "SuperGrok",
+          "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
         },
@@ -3143,7 +3143,12 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "SuperGrok",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
           "price": "USD 100.00",
           "amount": 100
         },
@@ -3151,14 +3156,9 @@
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
-        },
-        {
-          "name": "SuperGrok Lite",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:34.838Z"
+      "fetchedAt": "2026-10-26T09:22:15.426Z"
     },
     "gw": {
       "currency": "USD",
@@ -3214,7 +3214,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:36.256Z"
+      "fetchedAt": "2026-10-26T09:22:16.687Z"
     },
     "gy": {
       "currency": "USD",
@@ -3270,7 +3270,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:37.714Z"
+      "fetchedAt": "2026-10-26T09:22:18.104Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3301,14 +3301,14 @@
           "amount": 2288
         },
         {
-          "name": "SuperGrok",
-          "price": "HK$ 2,288.00",
-          "amount": 2288
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "HK$ 788.00",
           "amount": 788
+        },
+        {
+          "name": "SuperGrok",
+          "price": "HK$ 2,288.00",
+          "amount": 2288
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -3316,17 +3316,17 @@
           "amount": 388
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "HK$ 788.00",
-          "amount": 788
-        },
-        {
           "name": "SuperGrok",
           "price": "HK$ 228.00",
           "amount": 228
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "HK$ 788.00",
+          "amount": 788
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:39.339Z"
+      "fetchedAt": "2026-10-26T09:22:19.670Z"
     },
     "hn": {
       "currency": "USD",
@@ -3382,7 +3382,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:40.721Z"
+      "fetchedAt": "2026-10-26T09:22:21.309Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3398,14 +3398,14 @@
           "amount": 6
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "SuperGrok Heavy",
@@ -3438,7 +3438,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:42.245Z"
+      "fetchedAt": "2026-10-26T09:22:22.655Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3469,6 +3469,11 @@
           "amount": 129990
         },
         {
+          "name": "SuperGrok",
+          "price": "HUF12,990.00",
+          "amount": 12990
+        },
+        {
           "name": "SuperGrok Plus",
           "price": "HUF44,990.00",
           "amount": 44990
@@ -3480,21 +3485,16 @@
         },
         {
           "name": "SuperGrok",
-          "price": "HUF12,990.00",
-          "amount": 12990
+          "price": "HUF129,990.00",
+          "amount": 129990
         },
         {
           "name": "Extra Usage Credits 100 USD",
           "price": "HUF44,990.00",
           "amount": 44990
-        },
-        {
-          "name": "SuperGrok",
-          "price": "HUF129,990.00",
-          "amount": 129990
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:43.858Z"
+      "fetchedAt": "2026-10-26T09:22:24.177Z"
     },
     "id": {
       "currency": "IDR",
@@ -3550,7 +3550,7 @@
           "amount": 1999
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:45.195Z"
+      "fetchedAt": "2026-10-26T09:22:25.667Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3576,22 +3576,22 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "€349.00",
-          "amount": 349
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "€60.00",
           "amount": 60
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "SuperGrok Heavy",
+          "price": "€349.00",
+          "amount": 349
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
           "price": "€100.00",
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "€100.00",
           "amount": 100
         },
@@ -3606,7 +3606,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:46.749Z"
+      "fetchedAt": "2026-10-26T09:22:27.136Z"
     },
     "il": {
       "currency": "ILS",
@@ -3642,14 +3642,14 @@
           "amount": 999.9
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "₪299.90",
-          "amount": 299.9
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "₪349.90",
           "amount": 349.9
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "₪299.90",
+          "amount": 299.9
         },
         {
           "name": "SuperGrok",
@@ -3662,7 +3662,7 @@
           "amount": 999.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:48.192Z"
+      "fetchedAt": "2026-10-26T09:22:28.658Z"
     },
     "in": {
       "currency": "INR",
@@ -3718,7 +3718,7 @@
           "amount": 99900
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:49.940Z"
+      "fetchedAt": "2026-10-26T09:22:30.360Z"
     },
     "iq": {
       "available": false,
@@ -3748,6 +3748,11 @@
           "amount": 12
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
           "name": "SuperGrok Plus",
           "price": "USD 119.00",
           "amount": 119
@@ -3756,11 +3761,6 @@
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 60.00",
           "amount": 60
-        },
-        {
-          "name": "SuperGrok Heavy",
-          "price": "USD 400.00",
-          "amount": 400
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -3778,7 +3778,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:51.237Z"
+      "fetchedAt": "2026-10-26T09:22:31.714Z"
     },
     "it": {
       "currency": "EUR",
@@ -3834,7 +3834,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:52.711Z"
+      "fetchedAt": "2026-10-26T09:22:33.150Z"
     },
     "jm": {
       "currency": "USD",
@@ -3890,7 +3890,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:54.225Z"
+      "fetchedAt": "2026-10-26T09:22:34.684Z"
     },
     "jo": {
       "currency": "USD",
@@ -3921,14 +3921,14 @@
           "amount": 50
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "$300.00",
-          "amount": 300
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "$100.00",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "$300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -3946,7 +3946,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:55.702Z"
+      "fetchedAt": "2026-10-26T09:22:36.175Z"
     },
     "jp": {
       "currency": "JPY",
@@ -3977,14 +3977,14 @@
           "amount": 8000
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "¥50,000",
-          "amount": 50000
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "¥15,000",
           "amount": 15000
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "¥50,000",
+          "amount": 50000
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -4002,7 +4002,7 @@
           "amount": 50000
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:56.903Z"
+      "fetchedAt": "2026-10-26T09:22:37.847Z"
     },
     "ke": {
       "currency": "USD",
@@ -4058,7 +4058,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:22:58.748Z"
+      "fetchedAt": "2026-10-26T09:22:39.167Z"
     },
     "kg": {
       "currency": "USD",
@@ -4074,29 +4074,24 @@
           "amount": 5
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -4109,12 +4104,17 @@
           "amount": 30
         },
         {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "SuperGrok",
           "price": "USD 300.00",
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:00.308Z"
+      "fetchedAt": "2026-10-26T09:22:40.691Z"
     },
     "kh": {
       "currency": "USD",
@@ -4135,17 +4135,12 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 22.00",
           "amount": 22
         },
         {
-          "name": "SuperGrok",
+          "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
         },
@@ -4153,6 +4148,11 @@
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -4170,7 +4170,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:01.793Z"
+      "fetchedAt": "2026-10-26T09:22:42.187Z"
     },
     "kn": {
       "currency": "USD",
@@ -4226,7 +4226,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:03.394Z"
+      "fetchedAt": "2026-10-26T09:22:43.670Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4282,7 +4282,7 @@
           "amount": 449000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:04.871Z"
+      "fetchedAt": "2026-10-26T09:22:45.373Z"
     },
     "kw": {
       "currency": "USD",
@@ -4338,7 +4338,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:06.356Z"
+      "fetchedAt": "2026-10-26T09:22:46.736Z"
     },
     "ky": {
       "currency": "USD",
@@ -4349,24 +4349,24 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 5.00",
           "amount": 5
         },
         {
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "SuperGrok",
@@ -4394,7 +4394,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:07.814Z"
+      "fetchedAt": "2026-10-26T09:22:48.122Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4420,24 +4420,24 @@
           "amount": 11990
         },
         {
-          "name": "SuperGrok",
-          "price": "14,990.00₸",
-          "amount": 14990
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "179,990.00₸",
           "amount": 179990
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "29,990.00₸",
-          "amount": 29990
+          "name": "SuperGrok",
+          "price": "14,990.00₸",
+          "amount": 14990
         },
         {
           "name": "SuperGrok Plus",
           "price": "59,990.00₸",
           "amount": 59990
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "29,990.00₸",
+          "amount": 29990
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -4450,7 +4450,7 @@
           "amount": 149990
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:09.259Z"
+      "fetchedAt": "2026-10-26T09:22:49.697Z"
     },
     "la": {
       "currency": "USD",
@@ -4464,6 +4464,11 @@
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Lite",
@@ -4481,11 +4486,6 @@
           "amount": 22
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok",
           "price": "USD 30.00",
           "amount": 30
@@ -4506,7 +4506,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:10.722Z"
+      "fetchedAt": "2026-10-26T09:22:51.201Z"
     },
     "lb": {
       "available": false,
@@ -4521,14 +4521,14 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Extra Usage Credits 5 USD",
@@ -4566,7 +4566,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:12.287Z"
+      "fetchedAt": "2026-10-26T09:22:52.660Z"
     },
     "lk": {
       "currency": "USD",
@@ -4582,14 +4582,14 @@
           "amount": 5
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "SuperGrok Plus",
@@ -4622,7 +4622,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:14.063Z"
+      "fetchedAt": "2026-10-26T09:22:54.140Z"
     },
     "lr": {
       "currency": "USD",
@@ -4633,14 +4633,14 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -4678,7 +4678,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:15.220Z"
+      "fetchedAt": "2026-10-26T09:22:55.693Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4709,14 +4709,14 @@
           "amount": 349
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "SuperGrok",
@@ -4734,7 +4734,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:16.783Z"
+      "fetchedAt": "2026-10-26T09:22:57.174Z"
     },
     "lu": {
       "currency": "EUR",
@@ -4770,14 +4770,14 @@
           "amount": 100
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "60,00 €",
           "amount": 60
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "SuperGrok",
@@ -4790,7 +4790,7 @@
           "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:18.243Z"
+      "fetchedAt": "2026-10-26T09:22:58.845Z"
     },
     "lv": {
       "currency": "EUR",
@@ -4821,14 +4821,19 @@
           "amount": 349
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "SuperGrok Plus",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "SuperGrok",
@@ -4839,14 +4844,9 @@
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
-        },
-        {
-          "name": "SuperGrok Lite",
-          "price": "100,00 €",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:19.725Z"
+      "fetchedAt": "2026-10-26T09:23:00.208Z"
     },
     "ly": {
       "available": false,
@@ -4866,14 +4866,14 @@
           "amount": 6
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "$25.00",
-          "amount": 25
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "$10.00",
           "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "$25.00",
+          "amount": 25
         },
         {
           "name": "SuperGrok Heavy",
@@ -4886,14 +4886,14 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "$60.00",
           "amount": 60
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -4906,7 +4906,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:21.300Z"
+      "fetchedAt": "2026-10-26T09:23:01.755Z"
     },
     "md": {
       "currency": "USD",
@@ -4917,14 +4917,14 @@
           "amount": 40
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 6.00",
-          "amount": 6
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 6.00",
+          "amount": 6
         },
         {
           "name": "SuperGrok Plus",
@@ -4942,14 +4942,14 @@
           "amount": 40
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 400.00",
-          "amount": 400
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 60.00",
           "amount": 60
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 400.00",
+          "amount": 400
         },
         {
           "name": "SuperGrok",
@@ -4962,7 +4962,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:22.711Z"
+      "fetchedAt": "2026-10-26T09:23:03.198Z"
     },
     "me": {
       "currency": "EUR",
@@ -4973,14 +4973,14 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "5,00 €",
-          "amount": 5
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "20,00 €",
           "amount": 20
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "5,00 €",
+          "amount": 5
         },
         {
           "name": "SuperGrok Lite",
@@ -5018,7 +5018,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:24.231Z"
+      "fetchedAt": "2026-10-26T09:23:04.924Z"
     },
     "mg": {
       "currency": "USD",
@@ -5074,7 +5074,7 @@
           "amount": 5
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:25.849Z"
+      "fetchedAt": "2026-10-26T09:23:06.228Z"
     },
     "mk": {
       "currency": "USD",
@@ -5100,24 +5100,24 @@
           "amount": 10
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
           "name": "SuperGrok",
           "price": "USD 30.00",
           "amount": 30
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
-        },
-        {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -5130,7 +5130,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:27.248Z"
+      "fetchedAt": "2026-10-26T09:23:07.789Z"
     },
     "ml": {
       "currency": "USD",
@@ -5146,14 +5146,14 @@
           "amount": 5
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "SuperGrok",
@@ -5186,7 +5186,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:28.759Z"
+      "fetchedAt": "2026-10-26T09:23:09.355Z"
     },
     "mm": {
       "available": false,
@@ -5211,6 +5211,11 @@
           "amount": 10
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 20.00",
           "amount": 20
@@ -5219,11 +5224,6 @@
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
-        },
-        {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -5246,7 +5246,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:30.258Z"
+      "fetchedAt": "2026-10-26T09:23:10.710Z"
     },
     "mo": {
       "available": false,
@@ -5306,7 +5306,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:31.703Z"
+      "fetchedAt": "2026-10-26T09:23:12.185Z"
     },
     "ms": {
       "currency": "USD",
@@ -5362,7 +5362,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:33.333Z"
+      "fetchedAt": "2026-10-26T09:23:13.744Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5398,6 +5398,11 @@
           "amount": 349
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
@@ -5408,17 +5413,12 @@
           "amount": 35
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:34.691Z"
+      "fetchedAt": "2026-10-26T09:23:15.168Z"
     },
     "mu": {
       "currency": "USD",
@@ -5439,19 +5439,19 @@
           "amount": 25
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 12.00",
           "amount": 12
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -5459,9 +5459,9 @@
           "amount": 60
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "SuperGrok Plus",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "SuperGrok",
@@ -5474,7 +5474,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:36.269Z"
+      "fetchedAt": "2026-10-26T09:23:16.861Z"
     },
     "mv": {
       "currency": "USD",
@@ -5500,14 +5500,19 @@
           "amount": 20
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -5523,14 +5528,9 @@
           "name": "Extra Usage Credits 100 USD",
           "price": "USD 100.00",
           "amount": 100
-        },
-        {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "USD 50.00",
-          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:37.825Z"
+      "fetchedAt": "2026-10-26T09:23:18.218Z"
     },
     "mw": {
       "currency": "USD",
@@ -5586,7 +5586,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:39.247Z"
+      "fetchedAt": "2026-10-26T09:23:19.718Z"
     },
     "mx": {
       "currency": "MXN",
@@ -5642,7 +5642,7 @@
           "amount": 5999
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:40.754Z"
+      "fetchedAt": "2026-10-26T09:23:21.380Z"
     },
     "my": {
       "currency": "MYR",
@@ -5678,14 +5678,14 @@
           "amount": 129.9
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "RM499.90",
-          "amount": 499.9
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "RM229.90",
           "amount": 229.9
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "RM499.90",
+          "amount": 499.9
         },
         {
           "name": "SuperGrok",
@@ -5698,7 +5698,7 @@
           "amount": 499.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:42.327Z"
+      "fetchedAt": "2026-10-26T09:23:22.730Z"
     },
     "mz": {
       "currency": "USD",
@@ -5714,11 +5714,6 @@
           "amount": 5
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "USD 300.00",
           "amount": 300
@@ -5729,14 +5724,19 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "SuperGrok Plus",
@@ -5754,7 +5754,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:43.778Z"
+      "fetchedAt": "2026-10-26T09:23:24.136Z"
     },
     "na": {
       "currency": "USD",
@@ -5765,24 +5765,24 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Extra Usage Credits 50 USD",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -5810,7 +5810,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:45.272Z"
+      "fetchedAt": "2026-10-26T09:23:25.810Z"
     },
     "ne": {
       "currency": "USD",
@@ -5866,7 +5866,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:46.618Z"
+      "fetchedAt": "2026-10-26T09:23:27.167Z"
     },
     "ng": {
       "currency": "NGN",
@@ -5912,17 +5912,17 @@
           "amount": 79900
         },
         {
+          "name": "SuperGrok Lite",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        },
+        {
           "name": "SuperGrok",
           "price": "₦ 499,900.00",
           "amount": 499900
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "₦ 1,699,000.00",
-          "amount": 1699000
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:48.251Z"
+      "fetchedAt": "2026-10-26T09:23:28.663Z"
     },
     "ni": {
       "currency": "USD",
@@ -5933,14 +5933,14 @@
           "amount": 30
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "SuperGrok Plus",
@@ -5978,7 +5978,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:49.790Z"
+      "fetchedAt": "2026-10-26T09:23:30.310Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6009,17 +6009,17 @@
           "amount": 60
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "€ 100,00",
+          "amount": 100
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "€ 349,00",
           "amount": 349
         },
         {
           "name": "Extra Usage Credits 100 USD",
-          "price": "€ 100,00",
-          "amount": 100
-        },
-        {
-          "name": "SuperGrok Plus",
           "price": "€ 100,00",
           "amount": 100
         },
@@ -6034,7 +6034,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:51.273Z"
+      "fetchedAt": "2026-10-26T09:23:31.670Z"
     },
     "no": {
       "currency": "NOK",
@@ -6065,17 +6065,17 @@
           "amount": 599
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "3.990,00 kr",
           "amount": 3990
         },
         {
           "name": "Extra Usage Credits 100 USD",
-          "price": "1.290,00 kr",
-          "amount": 1290
-        },
-        {
-          "name": "SuperGrok Plus",
           "price": "1.290,00 kr",
           "amount": 1290
         },
@@ -6090,7 +6090,7 @@
           "amount": 3990
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:52.732Z"
+      "fetchedAt": "2026-10-26T09:23:33.302Z"
     },
     "np": {
       "currency": "USD",
@@ -6101,14 +6101,14 @@
           "amount": 40
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 6.00",
-          "amount": 6
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 6.00",
+          "amount": 6
         },
         {
           "name": "SuperGrok",
@@ -6146,7 +6146,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:54.346Z"
+      "fetchedAt": "2026-10-26T09:23:34.743Z"
     },
     "nr": {
       "currency": "USD",
@@ -6202,40 +6202,15 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:55.734Z"
+      "fetchedAt": "2026-10-26T09:23:36.180Z"
     },
     "nz": {
       "currency": "NZD",
       "items": [
         {
-          "name": "SuperGrok",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "$40.00",
-          "amount": 40
-        },
-        {
-          "name": "SuperGrok Lite",
-          "price": "$20.00",
-          "amount": 20
-        },
-        {
-          "name": "SuperGrok Heavy",
-          "price": "$500.00",
-          "amount": 500
-        },
-        {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "$100.00",
-          "amount": 100
+          "name": "SuperGrok Plus",
+          "price": "$1,999.00",
+          "amount": 1999
         },
         {
           "name": "SuperGrok Plus",
@@ -6243,22 +6218,47 @@
           "amount": 200
         },
         {
-          "name": "SuperGrok",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
-          "name": "SuperGrok",
-          "price": "$500.00",
-          "amount": 500
+          "name": "Extra Usage Credits 10 USD",
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "Extra Usage Credits 100 USD",
           "price": "$200.00",
           "amount": 200
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "$40.00",
+          "amount": 40
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "$9.00",
+          "amount": 9
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "$500.00",
+          "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:57.215Z"
+      "fetchedAt": "2026-10-26T09:23:37.668Z"
     },
     "om": {
       "currency": "USD",
@@ -6294,14 +6294,14 @@
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
           "name": "SuperGrok",
           "price": "$300.00",
           "amount": 300
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "$50.00",
+          "amount": 50
         },
         {
           "name": "SuperGrok",
@@ -6314,7 +6314,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:23:58.932Z"
+      "fetchedAt": "2026-10-26T09:23:39.491Z"
     },
     "pa": {
       "currency": "USD",
@@ -6345,9 +6345,9 @@
           "amount": 300
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -6355,9 +6355,9 @@
           "amount": 300
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "Extra Usage Credits 50 USD",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "SuperGrok",
@@ -6370,7 +6370,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:00.279Z"
+      "fetchedAt": "2026-10-26T09:23:41.009Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6401,14 +6401,14 @@
           "amount": 129.9
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "S/ 449.90",
-          "amount": 449.9
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "S/ 1,299.90",
           "amount": 1299.9
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "S/ 449.90",
+          "amount": 449.9
         },
         {
           "name": "SuperGrok",
@@ -6426,7 +6426,7 @@
           "amount": 449.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:01.736Z"
+      "fetchedAt": "2026-10-26T09:23:42.469Z"
     },
     "pg": {
       "currency": "USD",
@@ -6437,6 +6437,11 @@
           "amount": 30
         },
         {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 5.00",
+          "amount": 5
+        },
+        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
@@ -6445,11 +6450,6 @@
           "name": "Extra Usage Credits 20 USD",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 5.00",
-          "amount": 5
         },
         {
           "name": "SuperGrok Heavy",
@@ -6482,7 +6482,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:03.239Z"
+      "fetchedAt": "2026-10-26T09:23:43.684Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6503,14 +6503,14 @@
           "amount": 599
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "₱ 14,990.00",
-          "amount": 14990
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "₱ 1,290.00",
           "amount": 1290
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "₱ 14,990.00",
+          "amount": 14990
         },
         {
           "name": "SuperGrok",
@@ -6523,14 +6523,14 @@
           "amount": 5990
         },
         {
-          "name": "SuperGrok",
-          "price": "₱ 14,990.00",
-          "amount": 14990
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "₱ 2,990.00",
           "amount": 2990
+        },
+        {
+          "name": "SuperGrok",
+          "price": "₱ 14,990.00",
+          "amount": 14990
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -6538,7 +6538,7 @@
           "amount": 5990
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:04.727Z"
+      "fetchedAt": "2026-10-26T09:23:45.189Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6579,14 +6579,14 @@
           "amount": 7900
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "Rs 12,900.00",
-          "amount": 12900
-        },
-        {
           "name": "SuperGrok",
           "price": "Rs 79,900.00",
           "amount": 79900
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "Rs 12,900.00",
+          "amount": 12900
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -6594,7 +6594,7 @@
           "amount": 24900
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:06.344Z"
+      "fetchedAt": "2026-10-26T09:23:46.669Z"
     },
     "pl": {
       "currency": "PLN",
@@ -6630,14 +6630,14 @@
           "amount": 1499.99
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "499,99 zł",
-          "amount": 499.99
-        },
-        {
           "name": "SuperGrok",
           "price": "149,99 zł",
           "amount": 149.99
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "499,99 zł",
+          "amount": 499.99
         },
         {
           "name": "SuperGrok",
@@ -6650,7 +6650,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:07.779Z"
+      "fetchedAt": "2026-10-26T09:23:48.169Z"
     },
     "pt": {
       "currency": "EUR",
@@ -6676,24 +6676,19 @@
           "amount": 22
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "100,00 €",
           "amount": 100
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
           "name": "Extra Usage Credits 50 USD",
           "price": "60,00 €",
           "amount": 60
-        },
-        {
-          "name": "SuperGrok",
-          "price": "35,00 €",
-          "amount": 35
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -6704,9 +6699,14 @@
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
+        },
+        {
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:09.252Z"
+      "fetchedAt": "2026-10-26T09:23:49.702Z"
     },
     "pw": {
       "currency": "USD",
@@ -6717,11 +6717,6 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
@@ -6730,6 +6725,11 @@
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "SuperGrok Plus",
@@ -6762,7 +6762,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:10.786Z"
+      "fetchedAt": "2026-10-26T09:23:50.868Z"
     },
     "py": {
       "currency": "USD",
@@ -6793,6 +6793,11 @@
           "amount": 300
         },
         {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
@@ -6808,17 +6813,12 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 100.00",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:12.336Z"
+      "fetchedAt": "2026-10-26T09:23:52.873Z"
     },
     "qa": {
       "currency": "QAR",
@@ -6849,14 +6849,14 @@
           "amount": 999.99
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "QAR 399.99",
-          "amount": 399.99
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "QAR 199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "QAR 399.99",
+          "amount": 399.99
         },
         {
           "name": "SuperGrok Plus",
@@ -6874,7 +6874,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:13.666Z"
+      "fetchedAt": "2026-10-26T09:23:54.336Z"
     },
     "ro": {
       "currency": "RON",
@@ -6910,9 +6910,9 @@
           "amount": 299.99
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "499,99 lei",
-          "amount": 499.99
+          "name": "SuperGrok",
+          "price": "149,99 lei",
+          "amount": 149.99
         },
         {
           "name": "SuperGrok",
@@ -6920,9 +6920,9 @@
           "amount": 1499.99
         },
         {
-          "name": "SuperGrok",
-          "price": "149,99 lei",
-          "amount": 149.99
+          "name": "SuperGrok Plus",
+          "price": "499,99 lei",
+          "amount": 499.99
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -6930,7 +6930,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:15.246Z"
+      "fetchedAt": "2026-10-26T09:23:55.726Z"
     },
     "rs": {
       "currency": "EUR",
@@ -6956,24 +6956,24 @@
           "amount": 22
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "60,00 €",
           "amount": 60
         },
         {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
           "name": "SuperGrok",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -6986,7 +6986,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:16.741Z"
+      "fetchedAt": "2026-10-26T09:23:57.182Z"
     },
     "ru": {
       "available": false,
@@ -7046,7 +7046,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:18.277Z"
+      "fetchedAt": "2026-10-26T09:23:58.812Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7102,7 +7102,7 @@
           "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:19.901Z"
+      "fetchedAt": "2026-10-26T09:24:00.168Z"
     },
     "sb": {
       "currency": "USD",
@@ -7158,7 +7158,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:21.233Z"
+      "fetchedAt": "2026-10-26T09:24:01.707Z"
     },
     "sc": {
       "currency": "USD",
@@ -7214,7 +7214,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:22.735Z"
+      "fetchedAt": "2026-10-26T09:24:03.193Z"
     },
     "se": {
       "currency": "SEK",
@@ -7245,14 +7245,14 @@
           "amount": 599
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "3 995,00 kr",
-          "amount": 3995
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "1 295,00 kr",
           "amount": 1295
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "3 995,00 kr",
+          "amount": 3995
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -7270,7 +7270,7 @@
           "amount": 3995
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:24.186Z"
+      "fetchedAt": "2026-10-26T09:24:04.647Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7291,24 +7291,24 @@
           "amount": 29.98
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "S$ 14.98",
-          "amount": 14.98
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "S$ 69.98",
           "amount": 69.98
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "S$ 399.98",
-          "amount": 399.98
+          "name": "SuperGrok Lite",
+          "price": "S$ 14.98",
+          "amount": 14.98
         },
         {
           "name": "Extra Usage Credits 100 USD",
           "price": "S$ 149.98",
           "amount": 149.98
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "S$ 399.98",
+          "amount": 399.98
         },
         {
           "name": "SuperGrok Plus",
@@ -7317,16 +7317,16 @@
         },
         {
           "name": "SuperGrok",
-          "price": "S$ 399.98",
-          "amount": 399.98
+          "price": "S$ 39.98",
+          "amount": 39.98
         },
         {
           "name": "SuperGrok",
-          "price": "S$ 39.98",
-          "amount": 39.98
+          "price": "S$ 399.98",
+          "amount": 399.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:25.729Z"
+      "fetchedAt": "2026-10-26T09:24:06.200Z"
     },
     "si": {
       "currency": "EUR",
@@ -7362,6 +7362,11 @@
           "amount": 100
         },
         {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
@@ -7372,17 +7377,12 @@
           "amount": 35
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:27.269Z"
+      "fetchedAt": "2026-10-26T09:24:07.662Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7398,24 +7398,14 @@
           "amount": 6
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "10,00 €",
           "amount": 10
         },
         {
-          "name": "SuperGrok",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "Extra Usage Credits 20 USD",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "SuperGrok Heavy",
@@ -7428,17 +7418,27 @@
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "SuperGrok",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
           "price": "349,00 €",
           "amount": 349
+        },
+        {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:28.744Z"
+      "fetchedAt": "2026-10-26T09:24:09.189Z"
     },
     "sl": {
       "currency": "USD",
@@ -7494,7 +7494,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:30.231Z"
+      "fetchedAt": "2026-10-26T09:24:10.742Z"
     },
     "sn": {
       "currency": "USD",
@@ -7550,7 +7550,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:31.693Z"
+      "fetchedAt": "2026-10-26T09:24:12.239Z"
     },
     "sr": {
       "currency": "USD",
@@ -7606,7 +7606,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:33.223Z"
+      "fetchedAt": "2026-10-26T09:24:13.727Z"
     },
     "st": {
       "currency": "USD",
@@ -7662,7 +7662,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:34.883Z"
+      "fetchedAt": "2026-10-26T09:24:15.223Z"
     },
     "sv": {
       "currency": "USD",
@@ -7688,19 +7688,14 @@
           "amount": 20
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
           "name": "SuperGrok Plus",
           "price": "USD 100.00",
           "amount": 100
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -7713,12 +7708,17 @@
           "amount": 300
         },
         {
+          "name": "SuperGrok Lite",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:36.249Z"
+      "fetchedAt": "2026-10-26T09:24:16.945Z"
     },
     "sz": {
       "currency": "USD",
@@ -7774,7 +7774,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:37.721Z"
+      "fetchedAt": "2026-10-26T09:24:18.167Z"
     },
     "tc": {
       "currency": "USD",
@@ -7830,7 +7830,7 @@
           "amount": 5
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:39.322Z"
+      "fetchedAt": "2026-10-26T09:24:19.688Z"
     },
     "td": {
       "currency": "USD",
@@ -7886,7 +7886,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:40.767Z"
+      "fetchedAt": "2026-10-26T09:24:21.180Z"
     },
     "th": {
       "currency": "THB",
@@ -7902,14 +7902,14 @@
           "amount": 199
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "฿699.00",
-          "amount": 699
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "฿399.00",
           "amount": 399
+        },
+        {
+          "name": "Extra Usage Credits 20 USD",
+          "price": "฿699.00",
+          "amount": 699
         },
         {
           "name": "SuperGrok Heavy",
@@ -7917,14 +7917,14 @@
           "amount": 9990
         },
         {
-          "name": "SuperGrok",
-          "price": "฿999.00",
-          "amount": 999
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "฿1,990.00",
           "amount": 1990
+        },
+        {
+          "name": "SuperGrok",
+          "price": "฿999.00",
+          "amount": 999
         },
         {
           "name": "SuperGrok Plus",
@@ -7942,7 +7942,7 @@
           "amount": 3990
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:42.244Z"
+      "fetchedAt": "2026-10-26T09:24:22.788Z"
     },
     "tj": {
       "currency": "USD",
@@ -7963,9 +7963,9 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "SuperGrok Heavy",
@@ -7978,9 +7978,9 @@
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "SuperGrok",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok",
@@ -7998,7 +7998,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:43.730Z"
+      "fetchedAt": "2026-10-26T09:24:24.214Z"
     },
     "tm": {
       "currency": "USD",
@@ -8054,7 +8054,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:45.271Z"
+      "fetchedAt": "2026-10-26T09:24:25.657Z"
     },
     "tn": {
       "currency": "USD",
@@ -8065,14 +8065,14 @@
           "amount": 30
         },
         {
-          "name": "Extra Usage Credits 5 USD",
-          "price": "$5.00",
-          "amount": 5
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "$10.00",
           "amount": 10
+        },
+        {
+          "name": "Extra Usage Credits 5 USD",
+          "price": "$5.00",
+          "amount": 5
         },
         {
           "name": "SuperGrok Plus",
@@ -8110,7 +8110,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:46.755Z"
+      "fetchedAt": "2026-10-26T09:24:27.203Z"
     },
     "to": {
       "currency": "USD",
@@ -8166,7 +8166,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:48.197Z"
+      "fetchedAt": "2026-10-26T09:24:28.813Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8192,14 +8192,14 @@
           "amount": 499.99
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "₺12.999,99",
-          "amount": 12999.99
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "₺4.999,99",
           "amount": 4999.99
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "₺12.999,99",
+          "amount": 12999.99
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -8222,7 +8222,7 @@
           "amount": 12999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:49.726Z"
+      "fetchedAt": "2026-10-26T09:24:30.188Z"
     },
     "tt": {
       "currency": "USD",
@@ -8238,19 +8238,14 @@
           "amount": 5
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "Extra Usage Credits 20 USD",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "SuperGrok Heavy",
@@ -8261,6 +8256,11 @@
           "name": "SuperGrok",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -8278,7 +8278,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:51.230Z"
+      "fetchedAt": "2026-10-26T09:24:31.715Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8304,6 +8304,11 @@
           "amount": 690
         },
         {
+          "name": "Extra Usage Credits 50 USD",
+          "price": "$1,490.00",
+          "amount": 1490
+        },
+        {
           "name": "SuperGrok Heavy",
           "price": "$9,990.00",
           "amount": 9990
@@ -8312,11 +8317,6 @@
           "name": "SuperGrok Plus",
           "price": "$2,990.00",
           "amount": 2990
-        },
-        {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "$1,490.00",
-          "amount": 1490
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -8334,7 +8334,7 @@
           "amount": 9990
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:52.815Z"
+      "fetchedAt": "2026-10-26T09:24:33.249Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8355,17 +8355,12 @@
           "amount": 29900
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "899,900.00 TZS",
-          "amount": 899900
-        },
-        {
           "name": "Extra Usage Credits 20 USD",
           "price": "59,900.00 TZS",
           "amount": 59900
         },
         {
-          "name": "SuperGrok",
+          "name": "SuperGrok Heavy",
           "price": "899,900.00 TZS",
           "amount": 899900
         },
@@ -8373,6 +8368,11 @@
           "name": "SuperGrok",
           "price": "89,900.00 TZS",
           "amount": 89900
+        },
+        {
+          "name": "SuperGrok",
+          "price": "899,900.00 TZS",
+          "amount": 899900
         },
         {
           "name": "Extra Usage Credits 50 USD",
@@ -8390,7 +8390,7 @@
           "amount": 299900
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:54.306Z"
+      "fetchedAt": "2026-10-26T09:24:34.684Z"
     },
     "ua": {
       "currency": "USD",
@@ -8426,27 +8426,27 @@
           "amount": 119
         },
         {
-          "name": "SuperGrok",
-          "price": "40,00 USD",
-          "amount": 40
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "60,00 USD",
           "amount": 60
         },
         {
           "name": "SuperGrok",
-          "price": "400,00 USD",
-          "amount": 400
+          "price": "40,00 USD",
+          "amount": 40
         },
         {
-          "name": "SuperGrok Lite",
+          "name": "Extra Usage Credits 100 USD",
           "price": "119,00 USD",
           "amount": 119
+        },
+        {
+          "name": "SuperGrok",
+          "price": "400,00 USD",
+          "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:55.821Z"
+      "fetchedAt": "2026-10-26T09:24:36.151Z"
     },
     "ug": {
       "currency": "USD",
@@ -8472,11 +8472,6 @@
           "amount": 25
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "USD 119.00",
-          "amount": 119
-        },
-        {
           "name": "SuperGrok",
           "price": "USD 40.00",
           "amount": 40
@@ -8492,6 +8487,11 @@
           "amount": 400
         },
         {
+          "name": "SuperGrok Plus",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
           "name": "SuperGrok Lite",
           "price": "USD 119.00",
           "amount": 119
@@ -8502,7 +8502,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:24:57.245Z"
+      "fetchedAt": "2026-10-26T09:24:37.686Z"
     },
     "us": {
       "currency": "USD",
@@ -8558,7 +8558,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-26T08:06:25.015Z"
+      "fetchedAt": "2026-10-26T09:24:39.350Z"
     },
     "uy": {
       "currency": "USD",
@@ -8584,14 +8584,19 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Extra Usage Credits 50 USD",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -8604,17 +8609,12 @@
           "amount": 300
         },
         {
-          "name": "SuperGrok",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "USD 100.00",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:00.207Z"
+      "fetchedAt": "2026-10-26T09:24:40.825Z"
     },
     "uz": {
       "currency": "USD",
@@ -8645,9 +8645,9 @@
           "amount": 300
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "SuperGrok",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "SuperGrok Plus",
@@ -8660,17 +8660,17 @@
           "amount": 50
         },
         {
+          "name": "Extra Usage Credits 100 USD",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "SuperGrok",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "SuperGrok Lite",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:01.747Z"
+      "fetchedAt": "2026-10-26T09:24:42.215Z"
     },
     "vc": {
       "currency": "USD",
@@ -8726,7 +8726,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:03.190Z"
+      "fetchedAt": "2026-10-26T09:24:43.706Z"
     },
     "ve": {
       "available": false,
@@ -8786,7 +8786,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:04.753Z"
+      "fetchedAt": "2026-10-26T09:24:45.286Z"
     },
     "vn": {
       "currency": "VND",
@@ -8842,7 +8842,7 @@
           "amount": 2999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:06.217Z"
+      "fetchedAt": "2026-10-26T09:24:46.686Z"
     },
     "vu": {
       "currency": "USD",
@@ -8898,7 +8898,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:07.760Z"
+      "fetchedAt": "2026-10-26T09:24:48.254Z"
     },
     "xk": {
       "currency": "EUR",
@@ -8914,19 +8914,14 @@
           "amount": 6
         },
         {
-          "name": "Extra Usage Credits 20 USD",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "SuperGrok Lite",
           "price": "10,00 €",
           "amount": 10
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "Extra Usage Credits 20 USD",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "SuperGrok Plus",
@@ -8934,14 +8929,19 @@
           "amount": 100
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
+          "name": "Extra Usage Credits 50 USD",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "SuperGrok",
@@ -8954,7 +8954,7 @@
           "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:09.250Z"
+      "fetchedAt": "2026-10-26T09:24:49.751Z"
     },
     "ye": {
       "available": false,
@@ -9014,7 +9014,7 @@
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:10.790Z"
+      "fetchedAt": "2026-10-26T09:24:51.185Z"
     },
     "zm": {
       "currency": "USD",
@@ -9025,14 +9025,14 @@
           "amount": 40
         },
         {
-          "name": "SuperGrok Lite",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "Extra Usage Credits 5 USD",
           "price": "USD 6.00",
           "amount": 6
+        },
+        {
+          "name": "SuperGrok Lite",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Extra Usage Credits 20 USD",
@@ -9070,7 +9070,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:12.248Z"
+      "fetchedAt": "2026-10-26T09:24:52.751Z"
     },
     "zw": {
       "available": false,

@@ -2,16 +2,11 @@
   "id": "6767085653",
   "name": "Cursor",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:59.262Z",
+  "fetchedAt": "2026-10-26T10:08:32.097Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
       "items": [
-        {
-          "name": "Pro",
-          "price": "AED 99.99",
-          "amount": 99.99
-        },
         {
           "name": "Pro+",
           "price": "AED 299.99",
@@ -21,6 +16,11 @@
           "name": "X Premium",
           "price": "AED 119.99",
           "amount": 119.99
+        },
+        {
+          "name": "Pro",
+          "price": "AED 99.99",
+          "amount": 99.99
         },
         {
           "name": "Ultra",
@@ -43,7 +43,7 @@
           "amount": 939.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:31.824Z"
+      "fetchedAt": "2026-10-26T10:04:12.634Z"
     },
     "af": {
       "currency": "USD",
@@ -84,7 +84,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:33.339Z"
+      "fetchedAt": "2026-10-26T10:04:14.070Z"
     },
     "ag": {
       "currency": "USD",
@@ -125,7 +125,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:34.862Z"
+      "fetchedAt": "2026-10-26T10:04:15.547Z"
     },
     "ai": {
       "currency": "USD",
@@ -166,7 +166,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:36.352Z"
+      "fetchedAt": "2026-10-26T10:04:17.001Z"
     },
     "al": {
       "currency": "USD",
@@ -207,7 +207,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:37.995Z"
+      "fetchedAt": "2026-10-26T10:04:18.770Z"
     },
     "am": {
       "currency": "USD",
@@ -248,7 +248,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:39.338Z"
+      "fetchedAt": "2026-10-26T10:04:19.989Z"
     },
     "ao": {
       "currency": "USD",
@@ -289,11 +289,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:41.015Z"
+      "fetchedAt": "2026-10-26T10:04:21.654Z"
     },
     "ar": {
       "currency": "USD",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
         {
           "name": "Pro",
           "price": "USD 25.99",
@@ -315,11 +320,6 @@
           "amount": 300
         },
         {
-          "name": "X Premium",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
           "name": "X Super",
           "price": "USD 129.99",
           "amount": 129.99
@@ -330,7 +330,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:42.351Z"
+      "fetchedAt": "2026-10-26T10:04:23.050Z"
     },
     "at": {
       "currency": "EUR",
@@ -371,7 +371,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:43.826Z"
+      "fetchedAt": "2026-10-26T10:04:24.500Z"
     },
     "au": {
       "currency": "AUD",
@@ -382,14 +382,14 @@
           "amount": 39.99
         },
         {
-          "name": "X Premium",
-          "price": "$51.99",
-          "amount": 51.99
-        },
-        {
           "name": "Pro+",
           "price": "$119.99",
           "amount": 119.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$51.99",
+          "amount": 51.99
         },
         {
           "name": "Ultra",
@@ -412,11 +412,16 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:45.400Z"
+      "fetchedAt": "2026-10-26T10:04:26.050Z"
     },
     "az": {
       "currency": "USD",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 35.00",
+          "amount": 35
+        },
         {
           "name": "Pro",
           "price": "USD 29.99",
@@ -426,11 +431,6 @@
           "name": "X Premium",
           "price": "USD 350.00",
           "amount": 350
-        },
-        {
-          "name": "X Premium",
-          "price": "USD 35.00",
-          "amount": 35
         },
         {
           "name": "X Super",
@@ -453,7 +453,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:47.028Z"
+      "fetchedAt": "2026-10-26T10:04:27.518Z"
     },
     "ba": {
       "currency": "EUR",
@@ -494,7 +494,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:48.386Z"
+      "fetchedAt": "2026-10-26T10:04:29.109Z"
     },
     "bb": {
       "currency": "USD",
@@ -535,20 +535,25 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:49.858Z"
+      "fetchedAt": "2026-10-26T10:04:30.663Z"
     },
     "be": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Pro",
-          "price": "29,99 €",
-          "amount": 29.99
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "Ultra",
           "price": "299,99 €",
           "amount": 299.99
+        },
+        {
+          "name": "Pro",
+          "price": "29,99 €",
+          "amount": 29.99
         },
         {
           "name": "Pro+",
@@ -561,11 +566,6 @@
           "amount": 349
         },
         {
-          "name": "X Premium",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "X Super",
           "price": "114,99 €",
           "amount": 114.99
@@ -576,7 +576,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:51.362Z"
+      "fetchedAt": "2026-10-26T10:04:32.160Z"
     },
     "bf": {
       "currency": "USD",
@@ -617,7 +617,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:52.879Z"
+      "fetchedAt": "2026-10-26T10:04:33.714Z"
     },
     "bg": {
       "currency": "EUR",
@@ -658,7 +658,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:54.346Z"
+      "fetchedAt": "2026-10-26T10:04:35.033Z"
     },
     "bh": {
       "currency": "USD",
@@ -699,7 +699,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:55.837Z"
+      "fetchedAt": "2026-10-26T10:04:36.607Z"
     },
     "bj": {
       "currency": "USD",
@@ -740,7 +740,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:57.336Z"
+      "fetchedAt": "2026-10-26T10:04:37.980Z"
     },
     "bm": {
       "currency": "USD",
@@ -781,7 +781,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:58.898Z"
+      "fetchedAt": "2026-10-26T10:04:39.476Z"
     },
     "bn": {
       "currency": "USD",
@@ -822,7 +822,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:00.334Z"
+      "fetchedAt": "2026-10-26T10:04:41.006Z"
     },
     "bo": {
       "currency": "USD",
@@ -863,25 +863,30 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:01.878Z"
+      "fetchedAt": "2026-10-26T10:04:42.650Z"
     },
     "br": {
       "currency": "BRL",
       "items": [
-        {
-          "name": "Pro",
-          "price": "R$ 179,90",
-          "amount": 179.9
-        },
         {
           "name": "X Premium",
           "price": "R$ 169,90",
           "amount": 169.9
         },
         {
+          "name": "Pro",
+          "price": "R$ 179,90",
+          "amount": 179.9
+        },
+        {
           "name": "Pro+",
           "price": "R$ 499,90",
           "amount": 499.9
+        },
+        {
+          "name": "X Super",
+          "price": "R$ 669,90",
+          "amount": 669.9
         },
         {
           "name": "Ultra",
@@ -894,17 +899,12 @@
           "amount": 1699
         },
         {
-          "name": "X Super",
-          "price": "R$ 669,90",
-          "amount": 669.9
-        },
-        {
           "name": "X Ultra",
           "price": "R$ 1.299,90",
           "amount": 1299.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:03.383Z"
+      "fetchedAt": "2026-10-26T10:04:44.046Z"
     },
     "bs": {
       "currency": "USD",
@@ -945,7 +945,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:04.829Z"
+      "fetchedAt": "2026-10-26T10:04:45.597Z"
     },
     "bt": {
       "currency": "USD",
@@ -986,7 +986,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:06.323Z"
+      "fetchedAt": "2026-10-26T10:04:47.036Z"
     },
     "bw": {
       "currency": "USD",
@@ -1027,7 +1027,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:07.827Z"
+      "fetchedAt": "2026-10-26T10:04:48.575Z"
     },
     "by": {
       "currency": "USD",
@@ -1039,13 +1039,13 @@
         },
         {
           "name": "X Premium",
-          "price": "USD 400.00",
-          "amount": 400
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "X Premium",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 400.00",
+          "amount": 400
         },
         {
           "name": "X Super",
@@ -1068,7 +1068,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:09.391Z"
+      "fetchedAt": "2026-10-26T10:04:50.050Z"
     },
     "bz": {
       "currency": "USD",
@@ -1109,7 +1109,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:10.854Z"
+      "fetchedAt": "2026-10-26T10:04:51.578Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1135,11 +1135,6 @@
           "amount": 349.99
         },
         {
-          "name": "X Premium",
-          "price": "$419.99",
-          "amount": 419.99
-        },
-        {
           "name": "X Super",
           "price": "$179.99",
           "amount": 179.99
@@ -1148,9 +1143,14 @@
           "name": "X Ultra",
           "price": "$359.99",
           "amount": 359.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$419.99",
+          "amount": 419.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:12.358Z"
+      "fetchedAt": "2026-10-26T10:04:53.035Z"
     },
     "cd": {
       "currency": "USD",
@@ -1191,7 +1191,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:13.900Z"
+      "fetchedAt": "2026-10-26T10:04:54.708Z"
     },
     "cg": {
       "currency": "USD",
@@ -1232,7 +1232,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:15.337Z"
+      "fetchedAt": "2026-10-26T10:04:56.048Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1243,11 +1243,6 @@
           "amount": 22
         },
         {
-          "name": "Ultra",
-          "price": "CHF 220.00",
-          "amount": 220
-        },
-        {
           "name": "X Premium",
           "price": "CHF 30.00",
           "amount": 30
@@ -1256,6 +1251,11 @@
           "name": "Pro+",
           "price": "CHF 70.00",
           "amount": 70
+        },
+        {
+          "name": "Ultra",
+          "price": "CHF 220.00",
+          "amount": 220
         },
         {
           "name": "X Premium",
@@ -1273,7 +1273,7 @@
           "amount": 215
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:16.843Z"
+      "fetchedAt": "2026-10-26T10:04:57.550Z"
     },
     "ci": {
       "currency": "USD",
@@ -1314,7 +1314,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:18.474Z"
+      "fetchedAt": "2026-10-26T10:04:59.055Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1355,7 +1355,7 @@
           "amount": 299990
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:19.836Z"
+      "fetchedAt": "2026-10-26T10:05:00.573Z"
     },
     "cm": {
       "currency": "USD",
@@ -1396,7 +1396,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:21.431Z"
+      "fetchedAt": "2026-10-26T10:05:01.997Z"
     },
     "cn": {
       "available": false,
@@ -1412,13 +1412,13 @@
         },
         {
           "name": "X Premium",
-          "price": "$ 1.299.900,00",
-          "amount": 1299900
+          "price": "$ 129.900,00",
+          "amount": 129900
         },
         {
           "name": "X Premium",
-          "price": "$ 129.900,00",
-          "amount": 129900
+          "price": "$ 1.299.900,00",
+          "amount": 1299900
         },
         {
           "name": "X Super",
@@ -1441,7 +1441,7 @@
           "amount": 1199900
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:22.890Z"
+      "fetchedAt": "2026-10-26T10:05:03.560Z"
     },
     "cr": {
       "currency": "USD",
@@ -1482,7 +1482,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:24.394Z"
+      "fetchedAt": "2026-10-26T10:05:05.020Z"
     },
     "cv": {
       "currency": "USD",
@@ -1523,7 +1523,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:25.832Z"
+      "fetchedAt": "2026-10-26T10:05:06.520Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1564,7 +1564,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:27.405Z"
+      "fetchedAt": "2026-10-26T10:05:08.073Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1605,7 +1605,7 @@
           "amount": 6990
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:28.843Z"
+      "fetchedAt": "2026-10-26T10:05:09.610Z"
     },
     "de": {
       "currency": "EUR",
@@ -1631,11 +1631,6 @@
           "amount": 299.99
         },
         {
-          "name": "X Premium",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "X Super",
           "price": "114,99 €",
           "amount": 114.99
@@ -1644,9 +1639,14 @@
           "name": "X Ultra",
           "price": "219,99 €",
           "amount": 219.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:30.369Z"
+      "fetchedAt": "2026-10-26T10:05:11.080Z"
     },
     "dk": {
       "currency": "DKK",
@@ -1657,14 +1657,14 @@
           "amount": 229
         },
         {
-          "name": "Ultra",
-          "price": "2.299,00 kr",
-          "amount": 2299
-        },
-        {
           "name": "Pro+",
           "price": "699,00 kr",
           "amount": 699
+        },
+        {
+          "name": "Ultra",
+          "price": "2.299,00 kr",
+          "amount": 2299
         },
         {
           "name": "X Premium",
@@ -1687,7 +1687,7 @@
           "amount": 1679
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:31.976Z"
+      "fetchedAt": "2026-10-26T10:05:12.546Z"
     },
     "dm": {
       "currency": "USD",
@@ -1728,11 +1728,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:33.599Z"
+      "fetchedAt": "2026-10-26T10:05:14.028Z"
     },
     "do": {
       "currency": "USD",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
         {
           "name": "Pro",
           "price": "USD 25.99",
@@ -1747,11 +1752,6 @@
           "name": "X Premium",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "X Premium",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "X Super",
@@ -1769,7 +1769,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:34.883Z"
+      "fetchedAt": "2026-10-26T10:05:15.501Z"
     },
     "dz": {
       "currency": "USD",
@@ -1810,7 +1810,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:36.387Z"
+      "fetchedAt": "2026-10-26T10:05:17.074Z"
     },
     "ec": {
       "currency": "USD",
@@ -1851,7 +1851,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:37.814Z"
+      "fetchedAt": "2026-10-26T10:05:18.533Z"
     },
     "ee": {
       "currency": "EUR",
@@ -1892,7 +1892,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:39.481Z"
+      "fetchedAt": "2026-10-26T10:05:20.227Z"
     },
     "eg": {
       "currency": "EGP",
@@ -1903,6 +1903,11 @@
           "amount": 1299.99
         },
         {
+          "name": "X Premium",
+          "price": "EGP 1,749.99",
+          "amount": 1749.99
+        },
+        {
           "name": "Pro+",
           "price": "EGP 3,999.99",
           "amount": 3999.99
@@ -1911,11 +1916,6 @@
           "name": "X Premium",
           "price": "EGP 17,499.99",
           "amount": 17499.99
-        },
-        {
-          "name": "X Premium",
-          "price": "EGP 1,749.99",
-          "amount": 1749.99
         },
         {
           "name": "X Super",
@@ -1933,7 +1933,7 @@
           "amount": 12999.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:41.050Z"
+      "fetchedAt": "2026-10-26T10:05:21.494Z"
     },
     "es": {
       "currency": "EUR",
@@ -1949,6 +1949,11 @@
           "amount": 89.99
         },
         {
+          "name": "X Premium",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
           "name": "Ultra",
           "price": "299,99 €",
           "amount": 299.99
@@ -1957,11 +1962,6 @@
           "name": "X Premium",
           "price": "349,00 €",
           "amount": 349
-        },
-        {
-          "name": "X Premium",
-          "price": "35,00 €",
-          "amount": 35
         },
         {
           "name": "X Super",
@@ -1974,7 +1974,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:42.425Z"
+      "fetchedAt": "2026-10-26T10:05:23.231Z"
     },
     "fi": {
       "currency": "EUR",
@@ -1985,14 +1985,14 @@
           "amount": 35
         },
         {
-          "name": "Pro+",
-          "price": "89,99 €",
-          "amount": 89.99
-        },
-        {
           "name": "Pro",
           "price": "29,99 €",
           "amount": 29.99
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "Ultra",
@@ -2015,7 +2015,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:43.832Z"
+      "fetchedAt": "2026-10-26T10:05:24.568Z"
     },
     "fj": {
       "currency": "USD",
@@ -2056,7 +2056,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:45.415Z"
+      "fetchedAt": "2026-10-26T10:05:26.053Z"
     },
     "fm": {
       "currency": "USD",
@@ -2097,7 +2097,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:46.829Z"
+      "fetchedAt": "2026-10-26T10:05:27.543Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2123,11 +2123,6 @@
           "amount": 299.99
         },
         {
-          "name": "X Premium",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "X Super",
           "price": "114,99 €",
           "amount": 114.99
@@ -2136,9 +2131,14 @@
           "name": "X Ultra",
           "price": "219,99 €",
           "amount": 219.99
+        },
+        {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:48.422Z"
+      "fetchedAt": "2026-10-26T10:05:29.069Z"
     },
     "ga": {
       "currency": "USD",
@@ -2179,7 +2179,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:49.847Z"
+      "fetchedAt": "2026-10-26T10:05:30.529Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2205,6 +2205,11 @@
           "amount": 249.99
         },
         {
+          "name": "X Ultra",
+          "price": "£194.99",
+          "amount": 194.99
+        },
+        {
           "name": "X Premium",
           "price": "£300.00",
           "amount": 300
@@ -2213,14 +2218,9 @@
           "name": "X Super",
           "price": "£100.00",
           "amount": 100
-        },
-        {
-          "name": "X Ultra",
-          "price": "£194.99",
-          "amount": 194.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:51.346Z"
+      "fetchedAt": "2026-10-26T10:05:32.076Z"
     },
     "gd": {
       "currency": "USD",
@@ -2261,11 +2261,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:52.912Z"
+      "fetchedAt": "2026-10-26T10:05:33.604Z"
     },
     "ge": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pro+",
+          "price": "USD 99.99",
+          "amount": 99.99
+        },
         {
           "name": "Pro",
           "price": "USD 29.99",
@@ -2292,17 +2297,12 @@
           "amount": 259.99
         },
         {
-          "name": "Pro+",
-          "price": "USD 99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Ultra",
           "price": "USD 299.99",
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:54.367Z"
+      "fetchedAt": "2026-10-26T10:05:35.054Z"
     },
     "gh": {
       "currency": "USD",
@@ -2343,7 +2343,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:55.867Z"
+      "fetchedAt": "2026-10-26T10:05:36.579Z"
     },
     "gm": {
       "currency": "USD",
@@ -2384,7 +2384,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:57.329Z"
+      "fetchedAt": "2026-10-26T10:05:38.054Z"
     },
     "gr": {
       "currency": "EUR",
@@ -2425,7 +2425,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:05:58.937Z"
+      "fetchedAt": "2026-10-26T10:05:39.585Z"
     },
     "gt": {
       "currency": "USD",
@@ -2466,7 +2466,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:00.482Z"
+      "fetchedAt": "2026-10-26T10:05:41.034Z"
     },
     "gw": {
       "currency": "USD",
@@ -2507,7 +2507,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:01.859Z"
+      "fetchedAt": "2026-10-26T10:05:42.561Z"
     },
     "gy": {
       "currency": "USD",
@@ -2548,7 +2548,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:03.367Z"
+      "fetchedAt": "2026-10-26T10:05:44.011Z"
     },
     "hk": {
       "currency": "HKD",
@@ -2569,14 +2569,14 @@
           "amount": 588
         },
         {
-          "name": "X Premium",
-          "price": "HK$ 2,400.00",
-          "amount": 2400
-        },
-        {
           "name": "X Super",
           "price": "HK$ 1,000.00",
           "amount": 1000
+        },
+        {
+          "name": "X Premium",
+          "price": "HK$ 2,400.00",
+          "amount": 2400
         },
         {
           "name": "Ultra",
@@ -2589,7 +2589,7 @@
           "amount": 2000
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:04.821Z"
+      "fetchedAt": "2026-10-26T10:05:45.538Z"
     },
     "hn": {
       "currency": "USD",
@@ -2630,7 +2630,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:06.393Z"
+      "fetchedAt": "2026-10-26T10:05:47.003Z"
     },
     "hr": {
       "currency": "EUR",
@@ -2671,7 +2671,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:07.980Z"
+      "fetchedAt": "2026-10-26T10:05:48.541Z"
     },
     "hu": {
       "currency": "HUF",
@@ -2712,7 +2712,7 @@
           "amount": 119990
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:09.329Z"
+      "fetchedAt": "2026-10-26T10:05:50.088Z"
     },
     "id": {
       "currency": "IDR",
@@ -2723,14 +2723,14 @@
           "amount": 399
         },
         {
-          "name": "X Premium",
-          "price": "Rp 589ribu",
-          "amount": 589
-        },
-        {
           "name": "Pro+",
           "price": "Rp 1,299juta",
           "amount": 1299
+        },
+        {
+          "name": "X Premium",
+          "price": "Rp 589ribu",
+          "amount": 589
         },
         {
           "name": "Ultra",
@@ -2753,20 +2753,20 @@
           "amount": 4499
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:10.825Z"
+      "fetchedAt": "2026-10-26T10:05:51.583Z"
     },
     "ie": {
       "currency": "EUR",
       "items": [
         {
-          "name": "X Premium",
-          "price": "€35.00",
-          "amount": 35
-        },
-        {
           "name": "Pro",
           "price": "€29.99",
           "amount": 29.99
+        },
+        {
+          "name": "X Premium",
+          "price": "€35.00",
+          "amount": 35
         },
         {
           "name": "Pro+",
@@ -2794,7 +2794,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:12.340Z"
+      "fetchedAt": "2026-10-26T10:05:53.002Z"
     },
     "il": {
       "currency": "ILS",
@@ -2835,7 +2835,7 @@
           "amount": 789.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:13.884Z"
+      "fetchedAt": "2026-10-26T10:05:54.520Z"
     },
     "in": {
       "currency": "INR",
@@ -2876,7 +2876,7 @@
           "amount": 19900
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:15.306Z"
+      "fetchedAt": "2026-10-26T10:05:56.150Z"
     },
     "iq": {
       "currency": "USD",
@@ -2888,13 +2888,13 @@
         },
         {
           "name": "X Premium",
-          "price": "$300.00",
-          "amount": 300
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "X Premium",
-          "price": "$30.00",
-          "amount": 30
+          "price": "$300.00",
+          "amount": 300
         },
         {
           "name": "X Super",
@@ -2917,7 +2917,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:16.862Z"
+      "fetchedAt": "2026-10-26T10:05:57.557Z"
     },
     "is": {
       "currency": "USD",
@@ -2958,7 +2958,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:18.323Z"
+      "fetchedAt": "2026-10-26T10:05:59.032Z"
     },
     "it": {
       "currency": "EUR",
@@ -2969,24 +2969,14 @@
           "amount": 29.99
         },
         {
-          "name": "Pro+",
-          "price": "89,99 €",
-          "amount": 89.99
-        },
-        {
-          "name": "Ultra",
-          "price": "299,99 €",
-          "amount": 299.99
-        },
-        {
-          "name": "X Premium",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
           "name": "X Premium",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "Pro+",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "X Super",
@@ -2994,12 +2984,22 @@
           "amount": 114.99
         },
         {
+          "name": "X Premium",
+          "price": "349,00 €",
+          "amount": 349
+        },
+        {
+          "name": "Ultra",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
           "name": "X Ultra",
           "price": "219,99 €",
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:19.828Z"
+      "fetchedAt": "2026-10-26T10:06:00.557Z"
     },
     "jm": {
       "currency": "USD",
@@ -3040,7 +3040,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:21.409Z"
+      "fetchedAt": "2026-10-26T10:06:02.246Z"
     },
     "jo": {
       "currency": "USD",
@@ -3081,7 +3081,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:22.888Z"
+      "fetchedAt": "2026-10-26T10:06:03.551Z"
     },
     "jp": {
       "currency": "JPY",
@@ -3102,27 +3102,27 @@
           "amount": 13000
         },
         {
-          "name": "Ultra",
-          "price": "¥40,000",
-          "amount": 40000
-        },
-        {
-          "name": "X Premium",
-          "price": "¥52,800",
-          "amount": 52800
-        },
-        {
           "name": "X Super",
           "price": "¥19,800",
           "amount": 19800
         },
         {
+          "name": "Ultra",
+          "price": "¥40,000",
+          "amount": 40000
+        },
+        {
           "name": "X Ultra",
           "price": "¥40,800",
           "amount": 40800
+        },
+        {
+          "name": "X Premium",
+          "price": "¥52,800",
+          "amount": 52800
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:24.344Z"
+      "fetchedAt": "2026-10-26T10:06:05.076Z"
     },
     "ke": {
       "currency": "USD",
@@ -3133,14 +3133,14 @@
           "amount": 29.99
         },
         {
-          "name": "Ultra",
-          "price": "USD 299.99",
-          "amount": 299.99
-        },
-        {
           "name": "Pro+",
           "price": "USD 99.99",
           "amount": 99.99
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 299.99",
+          "amount": 299.99
         },
         {
           "name": "X Premium",
@@ -3163,7 +3163,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:25.860Z"
+      "fetchedAt": "2026-10-26T10:06:06.552Z"
     },
     "kg": {
       "currency": "USD",
@@ -3204,7 +3204,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:27.331Z"
+      "fetchedAt": "2026-10-26T10:06:08.050Z"
     },
     "kh": {
       "currency": "USD",
@@ -3245,7 +3245,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:28.842Z"
+      "fetchedAt": "2026-10-26T10:06:09.572Z"
     },
     "kn": {
       "currency": "USD",
@@ -3286,7 +3286,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:30.335Z"
+      "fetchedAt": "2026-10-26T10:06:11.036Z"
     },
     "kr": {
       "currency": "KRW",
@@ -3307,6 +3307,11 @@
           "amount": 129000
         },
         {
+          "name": "X Ultra",
+          "price": "￦350,000",
+          "amount": 350000
+        },
+        {
           "name": "Ultra",
           "price": "￦449,000",
           "amount": 449000
@@ -3320,14 +3325,9 @@
           "name": "X Super",
           "price": "￦175,000",
           "amount": 175000
-        },
-        {
-          "name": "X Ultra",
-          "price": "￦350,000",
-          "amount": 350000
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:31.854Z"
+      "fetchedAt": "2026-10-26T10:06:12.531Z"
     },
     "kw": {
       "currency": "USD",
@@ -3338,6 +3338,11 @@
           "amount": 25.99
         },
         {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
           "name": "Pro+",
           "price": "$77.99",
           "amount": 77.99
@@ -3346,11 +3351,6 @@
           "name": "X Premium",
           "price": "$300.00",
           "amount": 300
-        },
-        {
-          "name": "X Premium",
-          "price": "$30.00",
-          "amount": 30
         },
         {
           "name": "X Super",
@@ -3368,7 +3368,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:33.316Z"
+      "fetchedAt": "2026-10-26T10:06:14.030Z"
     },
     "ky": {
       "currency": "USD",
@@ -3409,7 +3409,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:34.903Z"
+      "fetchedAt": "2026-10-26T10:06:15.532Z"
     },
     "kz": {
       "currency": "KZT",
@@ -3450,7 +3450,7 @@
           "amount": 114990
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:36.330Z"
+      "fetchedAt": "2026-10-26T10:06:17.020Z"
     },
     "la": {
       "currency": "USD",
@@ -3491,7 +3491,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:37.813Z"
+      "fetchedAt": "2026-10-26T10:06:18.575Z"
     },
     "lb": {
       "currency": "USD",
@@ -3532,7 +3532,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:39.497Z"
+      "fetchedAt": "2026-10-26T10:06:20.087Z"
     },
     "lc": {
       "currency": "USD",
@@ -3573,11 +3573,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:40.834Z"
+      "fetchedAt": "2026-10-26T10:06:21.555Z"
     },
     "lk": {
       "currency": "USD",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
         {
           "name": "Pro",
           "price": "USD 25.99",
@@ -3587,11 +3592,6 @@
           "name": "X Premium",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "X Premium",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "X Super",
@@ -3614,7 +3614,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:42.345Z"
+      "fetchedAt": "2026-10-26T10:06:23.025Z"
     },
     "lr": {
       "currency": "USD",
@@ -3655,7 +3655,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:43.822Z"
+      "fetchedAt": "2026-10-26T10:06:24.582Z"
     },
     "lt": {
       "currency": "EUR",
@@ -3696,7 +3696,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:45.336Z"
+      "fetchedAt": "2026-10-26T10:06:26.127Z"
     },
     "lu": {
       "currency": "EUR",
@@ -3737,7 +3737,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:46.837Z"
+      "fetchedAt": "2026-10-26T10:06:27.543Z"
     },
     "lv": {
       "currency": "EUR",
@@ -3778,7 +3778,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:48.512Z"
+      "fetchedAt": "2026-10-26T10:06:29.049Z"
     },
     "ly": {
       "currency": "USD",
@@ -3819,20 +3819,20 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:49.908Z"
+      "fetchedAt": "2026-10-26T10:06:30.568Z"
     },
     "ma": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pro+",
-          "price": "$77.99",
-          "amount": 77.99
-        },
-        {
           "name": "Pro",
           "price": "$25.99",
           "amount": 25.99
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
         },
         {
           "name": "X Premium",
@@ -3860,7 +3860,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:51.332Z"
+      "fetchedAt": "2026-10-26T10:06:32.076Z"
     },
     "md": {
       "currency": "USD",
@@ -3901,7 +3901,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:52.855Z"
+      "fetchedAt": "2026-10-26T10:06:33.522Z"
     },
     "me": {
       "currency": "EUR",
@@ -3942,7 +3942,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:54.345Z"
+      "fetchedAt": "2026-10-26T10:06:35.052Z"
     },
     "mg": {
       "currency": "USD",
@@ -3983,7 +3983,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:55.850Z"
+      "fetchedAt": "2026-10-26T10:06:36.553Z"
     },
     "mk": {
       "currency": "USD",
@@ -4024,7 +4024,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:57.390Z"
+      "fetchedAt": "2026-10-26T10:06:38.102Z"
     },
     "ml": {
       "currency": "USD",
@@ -4065,11 +4065,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:06:58.906Z"
+      "fetchedAt": "2026-10-26T10:06:39.557Z"
     },
     "mm": {
       "currency": "USD",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "USD 30.00",
+          "amount": 30
+        },
         {
           "name": "Pro",
           "price": "USD 25.99",
@@ -4079,11 +4084,6 @@
           "name": "X Premium",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "X Premium",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "X Super",
@@ -4106,7 +4106,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:00.376Z"
+      "fetchedAt": "2026-10-26T10:06:41.059Z"
     },
     "mn": {
       "currency": "USD",
@@ -4147,7 +4147,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:01.883Z"
+      "fetchedAt": "2026-10-26T10:06:42.602Z"
     },
     "mo": {
       "currency": "USD",
@@ -4188,7 +4188,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:03.407Z"
+      "fetchedAt": "2026-10-26T10:06:44.046Z"
     },
     "mr": {
       "currency": "USD",
@@ -4229,7 +4229,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:05.012Z"
+      "fetchedAt": "2026-10-26T10:06:45.554Z"
     },
     "ms": {
       "currency": "USD",
@@ -4270,7 +4270,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:06.418Z"
+      "fetchedAt": "2026-10-26T10:06:47.066Z"
     },
     "mt": {
       "currency": "EUR",
@@ -4311,7 +4311,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:07.841Z"
+      "fetchedAt": "2026-10-26T10:06:48.583Z"
     },
     "mu": {
       "currency": "USD",
@@ -4352,7 +4352,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:09.371Z"
+      "fetchedAt": "2026-10-26T10:06:50.184Z"
     },
     "mv": {
       "currency": "USD",
@@ -4393,7 +4393,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:10.899Z"
+      "fetchedAt": "2026-10-26T10:06:51.571Z"
     },
     "mw": {
       "currency": "USD",
@@ -4434,11 +4434,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:12.310Z"
+      "fetchedAt": "2026-10-26T10:06:53.080Z"
     },
     "mx": {
       "currency": "MXN",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "$709.00",
+          "amount": 709
+        },
         {
           "name": "Pro",
           "price": "$599.00",
@@ -4453,11 +4458,6 @@
           "name": "X Premium",
           "price": "$7,099.00",
           "amount": 7099
-        },
-        {
-          "name": "X Premium",
-          "price": "$709.00",
-          "amount": 709
         },
         {
           "name": "X Super",
@@ -4475,7 +4475,7 @@
           "amount": 5999
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:14.023Z"
+      "fetchedAt": "2026-10-26T10:06:54.573Z"
     },
     "my": {
       "currency": "MYR",
@@ -4516,7 +4516,7 @@
           "amount": 1049.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:15.456Z"
+      "fetchedAt": "2026-10-26T10:06:56.088Z"
     },
     "mz": {
       "currency": "USD",
@@ -4557,7 +4557,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:16.853Z"
+      "fetchedAt": "2026-10-26T10:06:57.605Z"
     },
     "na": {
       "currency": "USD",
@@ -4598,7 +4598,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:18.335Z"
+      "fetchedAt": "2026-10-26T10:06:59.116Z"
     },
     "ne": {
       "currency": "USD",
@@ -4639,7 +4639,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:19.865Z"
+      "fetchedAt": "2026-10-26T10:07:00.550Z"
     },
     "ng": {
       "currency": "NGN",
@@ -4680,7 +4680,7 @@
           "amount": 399900
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:21.301Z"
+      "fetchedAt": "2026-10-26T10:07:02.105Z"
     },
     "ni": {
       "currency": "USD",
@@ -4721,7 +4721,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:22.839Z"
+      "fetchedAt": "2026-10-26T10:07:03.593Z"
     },
     "nl": {
       "currency": "EUR",
@@ -4742,6 +4742,11 @@
           "amount": 89.99
         },
         {
+          "name": "X Super",
+          "price": "€ 114,99",
+          "amount": 114.99
+        },
+        {
           "name": "Ultra",
           "price": "€ 299,99",
           "amount": 299.99
@@ -4752,21 +4757,21 @@
           "amount": 349
         },
         {
-          "name": "X Super",
-          "price": "€ 114,99",
-          "amount": 114.99
-        },
-        {
           "name": "X Ultra",
           "price": "€ 219,99",
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:24.388Z"
+      "fetchedAt": "2026-10-26T10:07:05.077Z"
     },
     "no": {
       "currency": "NOK",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "415,00 kr",
+          "amount": 415
+        },
         {
           "name": "Pro",
           "price": "349,00 kr",
@@ -4788,11 +4793,6 @@
           "amount": 4190
         },
         {
-          "name": "X Premium",
-          "price": "415,00 kr",
-          "amount": 415
-        },
-        {
           "name": "X Super",
           "price": "1.290,00 kr",
           "amount": 1290
@@ -4803,7 +4803,7 @@
           "amount": 2399
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:25.854Z"
+      "fetchedAt": "2026-10-26T10:07:06.590Z"
     },
     "np": {
       "currency": "USD",
@@ -4844,7 +4844,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:27.366Z"
+      "fetchedAt": "2026-10-26T10:07:08.117Z"
     },
     "nr": {
       "currency": "USD",
@@ -4885,11 +4885,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:28.808Z"
+      "fetchedAt": "2026-10-26T10:07:09.732Z"
     },
     "nz": {
       "currency": "NZD",
       "items": [
+        {
+          "name": "Ultra",
+          "price": "$499.99",
+          "amount": 499.99
+        },
         {
           "name": "Pro",
           "price": "$49.99",
@@ -4899,11 +4904,6 @@
           "name": "Pro+",
           "price": "$149.99",
           "amount": 149.99
-        },
-        {
-          "name": "Ultra",
-          "price": "$499.99",
-          "amount": 499.99
         },
         {
           "name": "X Premium",
@@ -4926,7 +4926,7 @@
           "amount": 449.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:30.367Z"
+      "fetchedAt": "2026-10-26T10:07:11.058Z"
     },
     "om": {
       "currency": "USD",
@@ -4967,7 +4967,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:31.916Z"
+      "fetchedAt": "2026-10-26T10:07:12.591Z"
     },
     "pa": {
       "currency": "USD",
@@ -5008,7 +5008,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:33.349Z"
+      "fetchedAt": "2026-10-26T10:07:14.147Z"
     },
     "pe": {
       "currency": "PEN",
@@ -5049,7 +5049,7 @@
           "amount": 1199.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:34.873Z"
+      "fetchedAt": "2026-10-26T10:07:15.585Z"
     },
     "pg": {
       "currency": "USD",
@@ -5090,7 +5090,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:36.442Z"
+      "fetchedAt": "2026-10-26T10:07:17.135Z"
     },
     "ph": {
       "currency": "PHP",
@@ -5101,9 +5101,9 @@
           "amount": 1790
         },
         {
-          "name": "Ultra",
-          "price": "₱ 14,990.00",
-          "amount": 14990
+          "name": "X Premium",
+          "price": "₱ 2,090.00",
+          "amount": 2090
         },
         {
           "name": "Pro+",
@@ -5111,14 +5111,14 @@
           "amount": 4990
         },
         {
-          "name": "X Premium",
-          "price": "₱ 20,900.00",
-          "amount": 20900
+          "name": "Ultra",
+          "price": "₱ 14,990.00",
+          "amount": 14990
         },
         {
           "name": "X Premium",
-          "price": "₱ 2,090.00",
-          "amount": 2090
+          "price": "₱ 20,900.00",
+          "amount": 20900
         },
         {
           "name": "X Super",
@@ -5131,11 +5131,16 @@
           "amount": 15990
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:37.835Z"
+      "fetchedAt": "2026-10-26T10:07:18.577Z"
     },
     "pk": {
       "currency": "PKR",
       "items": [
+        {
+          "name": "Pro",
+          "price": "Rs 6,900.00",
+          "amount": 6900
+        },
         {
           "name": "Pro+",
           "price": "Rs 19,900.00",
@@ -5145,11 +5150,6 @@
           "name": "X Premium",
           "price": "Rs 8,400.00",
           "amount": 8400
-        },
-        {
-          "name": "Pro",
-          "price": "Rs 6,900.00",
-          "amount": 6900
         },
         {
           "name": "X Premium",
@@ -5172,7 +5172,7 @@
           "amount": 69900
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:39.342Z"
+      "fetchedAt": "2026-10-26T10:07:20.096Z"
     },
     "pl": {
       "currency": "PLN",
@@ -5213,7 +5213,7 @@
           "amount": 979.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:40.821Z"
+      "fetchedAt": "2026-10-26T10:07:21.633Z"
     },
     "pt": {
       "currency": "EUR",
@@ -5254,7 +5254,7 @@
           "amount": 219.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:42.453Z"
+      "fetchedAt": "2026-10-26T10:07:23.080Z"
     },
     "pw": {
       "currency": "USD",
@@ -5295,7 +5295,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:43.890Z"
+      "fetchedAt": "2026-10-26T10:07:24.615Z"
     },
     "py": {
       "currency": "USD",
@@ -5336,11 +5336,16 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:45.331Z"
+      "fetchedAt": "2026-10-26T10:07:26.127Z"
     },
     "qa": {
       "currency": "QAR",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "QAR 109.99",
+          "amount": 109.99
+        },
         {
           "name": "Pro",
           "price": "QAR 99.99",
@@ -5350,11 +5355,6 @@
           "name": "X Premium",
           "price": "QAR 1,099.99",
           "amount": 1099.99
-        },
-        {
-          "name": "X Premium",
-          "price": "QAR 109.99",
-          "amount": 109.99
         },
         {
           "name": "X Super",
@@ -5377,7 +5377,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:46.813Z"
+      "fetchedAt": "2026-10-26T10:07:27.580Z"
     },
     "ro": {
       "currency": "RON",
@@ -5388,6 +5388,11 @@
           "amount": 149.99
         },
         {
+          "name": "X Premium",
+          "price": "169,99 lei",
+          "amount": 169.99
+        },
+        {
           "name": "Pro+",
           "price": "399,99 lei",
           "amount": 399.99
@@ -5396,11 +5401,6 @@
           "name": "X Premium",
           "price": "1 699,99 lei",
           "amount": 1699.99
-        },
-        {
-          "name": "X Premium",
-          "price": "169,99 lei",
-          "amount": 169.99
         },
         {
           "name": "X Super",
@@ -5418,7 +5418,7 @@
           "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:48.307Z"
+      "fetchedAt": "2026-10-26T10:07:29.113Z"
     },
     "rs": {
       "currency": "EUR",
@@ -5459,7 +5459,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:49.829Z"
+      "fetchedAt": "2026-10-26T10:07:30.599Z"
     },
     "ru": {
       "currency": "RUB",
@@ -5500,7 +5500,7 @@
           "amount": 22990
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:51.353Z"
+      "fetchedAt": "2026-10-26T10:07:32.075Z"
     },
     "rw": {
       "currency": "USD",
@@ -5541,7 +5541,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:52.831Z"
+      "fetchedAt": "2026-10-26T10:07:33.592Z"
     },
     "sa": {
       "currency": "SAR",
@@ -5552,14 +5552,14 @@
           "amount": 99.99
         },
         {
-          "name": "X Premium",
-          "price": "SAR 129.99",
-          "amount": 129.99
-        },
-        {
           "name": "Pro+",
           "price": "SAR 349.99",
           "amount": 349.99
+        },
+        {
+          "name": "X Premium",
+          "price": "SAR 129.99",
+          "amount": 129.99
         },
         {
           "name": "Ultra",
@@ -5567,14 +5567,14 @@
           "amount": 999.99
         },
         {
-          "name": "X Premium",
-          "price": "SAR 1,299.99",
-          "amount": 1299.99
-        },
-        {
           "name": "X Super",
           "price": "SAR 489.99",
           "amount": 489.99
+        },
+        {
+          "name": "X Premium",
+          "price": "SAR 1,299.99",
+          "amount": 1299.99
         },
         {
           "name": "X Ultra",
@@ -5582,7 +5582,7 @@
           "amount": 969.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:54.431Z"
+      "fetchedAt": "2026-10-26T10:07:35.110Z"
     },
     "sb": {
       "currency": "USD",
@@ -5623,7 +5623,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:55.864Z"
+      "fetchedAt": "2026-10-26T10:07:36.772Z"
     },
     "sc": {
       "currency": "USD",
@@ -5664,7 +5664,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:57.387Z"
+      "fetchedAt": "2026-10-26T10:07:38.414Z"
     },
     "se": {
       "currency": "SEK",
@@ -5705,7 +5705,7 @@
           "amount": 2499
         }
       ],
-      "fetchedAt": "2026-10-19T10:07:58.838Z"
+      "fetchedAt": "2026-10-26T10:07:39.581Z"
     },
     "sg": {
       "currency": "SGD",
@@ -5716,24 +5716,9 @@
           "amount": 39.98
         },
         {
-          "name": "Pro+",
-          "price": "S$ 99.98",
-          "amount": 99.98
-        },
-        {
           "name": "X Premium",
           "price": "S$ 43.98",
           "amount": 43.98
-        },
-        {
-          "name": "Ultra",
-          "price": "S$ 399.98",
-          "amount": 399.98
-        },
-        {
-          "name": "X Premium",
-          "price": "S$ 439.98",
-          "amount": 439.98
         },
         {
           "name": "X Super",
@@ -5741,12 +5726,27 @@
           "amount": 164.98
         },
         {
+          "name": "Ultra",
+          "price": "S$ 399.98",
+          "amount": 399.98
+        },
+        {
+          "name": "Pro+",
+          "price": "S$ 99.98",
+          "amount": 99.98
+        },
+        {
+          "name": "X Premium",
+          "price": "S$ 439.98",
+          "amount": 439.98
+        },
+        {
           "name": "X Ultra",
           "price": "S$ 334.98",
           "amount": 334.98
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:00.330Z"
+      "fetchedAt": "2026-10-26T10:07:41.100Z"
     },
     "si": {
       "currency": "EUR",
@@ -5787,7 +5787,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:01.883Z"
+      "fetchedAt": "2026-10-26T10:07:42.585Z"
     },
     "sk": {
       "currency": "EUR",
@@ -5828,7 +5828,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:03.365Z"
+      "fetchedAt": "2026-10-26T10:07:44.126Z"
     },
     "sl": {
       "currency": "USD",
@@ -5869,7 +5869,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:04.805Z"
+      "fetchedAt": "2026-10-26T10:07:45.867Z"
     },
     "sn": {
       "currency": "USD",
@@ -5910,7 +5910,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:06.334Z"
+      "fetchedAt": "2026-10-26T10:07:47.074Z"
     },
     "sr": {
       "currency": "USD",
@@ -5951,7 +5951,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:07.982Z"
+      "fetchedAt": "2026-10-26T10:07:48.647Z"
     },
     "st": {
       "currency": "USD",
@@ -5992,7 +5992,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:09.373Z"
+      "fetchedAt": "2026-10-26T10:07:50.086Z"
     },
     "sv": {
       "currency": "USD",
@@ -6033,7 +6033,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:10.922Z"
+      "fetchedAt": "2026-10-26T10:07:51.570Z"
     },
     "sz": {
       "currency": "USD",
@@ -6074,7 +6074,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:12.344Z"
+      "fetchedAt": "2026-10-26T10:07:53.098Z"
     },
     "tc": {
       "currency": "USD",
@@ -6115,7 +6115,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:13.871Z"
+      "fetchedAt": "2026-10-26T10:07:54.571Z"
     },
     "td": {
       "currency": "USD",
@@ -6156,20 +6156,25 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:15.317Z"
+      "fetchedAt": "2026-10-26T10:07:56.146Z"
     },
     "th": {
       "currency": "THB",
       "items": [
+        {
+          "name": "X Premium",
+          "price": "฿1,080.00",
+          "amount": 1080
+        },
         {
           "name": "Pro",
           "price": "฿999.00",
           "amount": 999
         },
         {
-          "name": "X Premium",
-          "price": "฿1,080.00",
-          "amount": 1080
+          "name": "X Super",
+          "price": "฿4,250.00",
+          "amount": 4250
         },
         {
           "name": "Pro+",
@@ -6187,17 +6192,12 @@
           "amount": 10790
         },
         {
-          "name": "X Super",
-          "price": "฿4,250.00",
-          "amount": 4250
-        },
-        {
           "name": "X Ultra",
           "price": "฿8,600.00",
           "amount": 8600
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:16.806Z"
+      "fetchedAt": "2026-10-26T10:07:58.143Z"
     },
     "tj": {
       "currency": "USD",
@@ -6238,7 +6238,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:18.375Z"
+      "fetchedAt": "2026-10-26T10:07:59.094Z"
     },
     "tm": {
       "currency": "USD",
@@ -6279,7 +6279,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:19.862Z"
+      "fetchedAt": "2026-10-26T10:08:00.579Z"
     },
     "tn": {
       "currency": "USD",
@@ -6320,7 +6320,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:21.382Z"
+      "fetchedAt": "2026-10-26T10:08:02.130Z"
     },
     "to": {
       "currency": "USD",
@@ -6361,7 +6361,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:22.856Z"
+      "fetchedAt": "2026-10-26T10:08:03.634Z"
     },
     "tr": {
       "currency": "TRY",
@@ -6402,7 +6402,7 @@
           "amount": 12499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:24.364Z"
+      "fetchedAt": "2026-10-26T10:08:05.072Z"
     },
     "tt": {
       "currency": "USD",
@@ -6443,7 +6443,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:25.848Z"
+      "fetchedAt": "2026-10-26T10:08:06.680Z"
     },
     "tw": {
       "currency": "TWD",
@@ -6484,7 +6484,7 @@
           "amount": 8190
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:27.314Z"
+      "fetchedAt": "2026-10-26T10:08:08.075Z"
     },
     "tz": {
       "currency": "TZS",
@@ -6525,7 +6525,7 @@
           "amount": 699900
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:28.832Z"
+      "fetchedAt": "2026-10-26T10:08:09.627Z"
     },
     "ua": {
       "currency": "USD",
@@ -6536,6 +6536,11 @@
           "amount": 29.99
         },
         {
+          "name": "X Premium",
+          "price": "40,00 USD",
+          "amount": 40
+        },
+        {
           "name": "Pro+",
           "price": "99,99 USD",
           "amount": 99.99
@@ -6544,11 +6549,6 @@
           "name": "X Premium",
           "price": "400,00 USD",
           "amount": 400
-        },
-        {
-          "name": "X Premium",
-          "price": "40,00 USD",
-          "amount": 40
         },
         {
           "name": "X Super",
@@ -6566,7 +6566,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:30.368Z"
+      "fetchedAt": "2026-10-26T10:08:11.147Z"
     },
     "ug": {
       "currency": "USD",
@@ -6607,7 +6607,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:31.896Z"
+      "fetchedAt": "2026-10-26T10:08:12.602Z"
     },
     "us": {
       "currency": "USD",
@@ -6648,16 +6648,11 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:59.256Z"
+      "fetchedAt": "2026-10-26T10:08:14.126Z"
     },
     "uy": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro",
-          "price": "USD 25.99",
-          "amount": 25.99
-        },
         {
           "name": "X Premium",
           "price": "USD 369.99",
@@ -6679,6 +6674,11 @@
           "amount": 259.99
         },
         {
+          "name": "Pro",
+          "price": "USD 25.99",
+          "amount": 25.99
+        },
+        {
           "name": "Pro+",
           "price": "USD 77.99",
           "amount": 77.99
@@ -6689,7 +6689,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:34.858Z"
+      "fetchedAt": "2026-10-26T10:08:15.617Z"
     },
     "uz": {
       "currency": "USD",
@@ -6730,7 +6730,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:36.347Z"
+      "fetchedAt": "2026-10-26T10:08:17.067Z"
     },
     "vc": {
       "currency": "USD",
@@ -6771,7 +6771,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:37.839Z"
+      "fetchedAt": "2026-10-26T10:08:18.573Z"
     },
     "ve": {
       "currency": "USD",
@@ -6812,7 +6812,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:39.351Z"
+      "fetchedAt": "2026-10-26T10:08:20.133Z"
     },
     "vg": {
       "currency": "USD",
@@ -6853,20 +6853,20 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:40.806Z"
+      "fetchedAt": "2026-10-26T10:08:21.669Z"
     },
     "vn": {
       "currency": "VND",
       "items": [
         {
-          "name": "Pro",
-          "price": "799.000đ",
-          "amount": 799000
-        },
-        {
           "name": "X Premium",
           "price": "819.000đ",
           "amount": 819000
+        },
+        {
+          "name": "Pro",
+          "price": "799.000đ",
+          "amount": 799000
         },
         {
           "name": "Pro+",
@@ -6894,7 +6894,7 @@
           "amount": 6699000
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:42.336Z"
+      "fetchedAt": "2026-10-26T10:08:23.128Z"
     },
     "vu": {
       "currency": "USD",
@@ -6935,7 +6935,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:43.803Z"
+      "fetchedAt": "2026-10-26T10:08:24.574Z"
     },
     "xk": {
       "currency": "EUR",
@@ -6976,7 +6976,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:45.337Z"
+      "fetchedAt": "2026-10-26T10:08:26.032Z"
     },
     "ye": {
       "currency": "USD",
@@ -7017,7 +7017,7 @@
           "amount": 259.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:46.892Z"
+      "fetchedAt": "2026-10-26T10:08:27.568Z"
     },
     "za": {
       "currency": "ZAR",
@@ -7033,14 +7033,14 @@
           "amount": 629.99
         },
         {
-          "name": "Pro+",
-          "price": "R1,499.99",
-          "amount": 1499.99
-        },
-        {
           "name": "Ultra",
           "price": "R4,999.99",
           "amount": 4999.99
+        },
+        {
+          "name": "Pro+",
+          "price": "R1,499.99",
+          "amount": 1499.99
         },
         {
           "name": "X Premium",
@@ -7058,7 +7058,7 @@
           "amount": 4199.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:48.308Z"
+      "fetchedAt": "2026-10-26T10:08:29.088Z"
     },
     "zm": {
       "currency": "USD",
@@ -7099,7 +7099,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:49.833Z"
+      "fetchedAt": "2026-10-26T10:08:30.692Z"
     },
     "zw": {
       "currency": "USD",
@@ -7140,7 +7140,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:08:51.380Z"
+      "fetchedAt": "2026-10-26T10:08:32.097Z"
     }
   }
 }

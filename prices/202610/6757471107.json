@@ -2,7 +2,7 @@
   "id": "6757471107",
   "name": "Lovable: Build Apps With AI",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:27:02.190Z",
+  "fetchedAt": "2026-10-26T10:17:12.721Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -33,14 +33,14 @@
           "amount": 299.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "AED 79.99",
-          "amount": 79.99
-        },
-        {
           "name": "Business Plan",
           "price": "AED 299.99",
           "amount": 299.99
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "AED 79.99",
+          "amount": 79.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -48,7 +48,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:13.866Z"
+      "fetchedAt": "2026-10-26T10:12:54.624Z"
     },
     "af": {
       "currency": "USD",
@@ -94,7 +94,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:15.415Z"
+      "fetchedAt": "2026-10-26T10:12:56.212Z"
     },
     "ag": {
       "currency": "USD",
@@ -140,7 +140,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:16.875Z"
+      "fetchedAt": "2026-10-26T10:12:57.662Z"
     },
     "ai": {
       "currency": "USD",
@@ -186,20 +186,25 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:18.305Z"
+      "fetchedAt": "2026-10-26T10:12:59.163Z"
     },
     "al": {
       "currency": "USD",
       "items": [
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 22.99",
-          "amount": 22.99
+          "name": "100 Credits (Mobile Pro)",
+          "price": "USD 49.99",
+          "amount": 49.99
         },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 11.99",
           "amount": 11.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 22.99",
+          "amount": 22.99
         },
         {
           "name": "Pro Plan",
@@ -217,11 +222,6 @@
           "amount": 49.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "USD 49.99",
-          "amount": 49.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "USD 99.99",
           "amount": 99.99
@@ -232,20 +232,20 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:19.901Z"
+      "fetchedAt": "2026-10-26T10:13:00.686Z"
     },
     "am": {
       "currency": "USD",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 49.99",
           "amount": 49.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -278,16 +278,11 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:21.311Z"
+      "fetchedAt": "2026-10-26T10:13:02.159Z"
     },
     "ao": {
       "currency": "USD",
       "items": [
-        {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
@@ -299,6 +294,16 @@
           "amount": 19.99
         },
         {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
           "name": "50 Credits (Mobile Business)",
           "price": "USD 39.99",
           "amount": 39.99
@@ -317,14 +322,9 @@
           "name": "Business Plan",
           "price": "USD 79.99",
           "amount": 79.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:22.889Z"
+      "fetchedAt": "2026-10-26T10:13:03.792Z"
     },
     "ar": {
       "currency": "USD",
@@ -335,14 +335,14 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -355,14 +355,14 @@
           "amount": 19.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "Business Plan",
           "price": "USD 79.99",
           "amount": 79.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -370,7 +370,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:24.369Z"
+      "fetchedAt": "2026-10-26T10:13:05.168Z"
     },
     "at": {
       "currency": "EUR",
@@ -386,19 +386,14 @@
           "amount": 22.99
         },
         {
-          "name": "Pro Plan",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "22,99 €",
-          "amount": 22.99
+          "name": "Pro Plan",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "Business Plan",
@@ -414,9 +409,14 @@
           "name": "50 Credits (Mobile Business)",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "22,99 €",
+          "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:25.995Z"
+      "fetchedAt": "2026-10-26T10:13:06.667Z"
     },
     "au": {
       "currency": "AUD",
@@ -432,12 +432,12 @@
           "amount": 29.99
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "$59.99",
           "amount": 59.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "$59.99",
           "amount": 59.99
         },
@@ -447,9 +447,9 @@
           "amount": 29.99
         },
         {
-          "name": "Business Plan",
-          "price": "$129.99",
-          "amount": 129.99
+          "name": "50 Credits (Mobile Business)",
+          "price": "$59.99",
+          "amount": 59.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -457,20 +457,20 @@
           "amount": 129.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "$59.99",
-          "amount": 59.99
+          "name": "Business Plan",
+          "price": "$129.99",
+          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:27.364Z"
+      "fetchedAt": "2026-10-26T10:13:08.244Z"
     },
     "az": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pro Plan",
-          "price": "USD 49.99",
-          "amount": 49.99
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "50 Credits (Mobile Pro)",
@@ -478,9 +478,9 @@
           "amount": 22.99
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 11.99",
-          "amount": 11.99
+          "name": "Pro Plan",
+          "price": "USD 49.99",
+          "amount": 49.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -508,7 +508,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:28.822Z"
+      "fetchedAt": "2026-10-26T10:13:09.795Z"
     },
     "ba": {
       "currency": "EUR",
@@ -519,9 +519,19 @@
           "amount": 9.99
         },
         {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
           "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -534,19 +544,9 @@
           "amount": 44.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "89,99 €",
           "amount": 89.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "22,99 €",
-          "amount": 22.99
         },
         {
           "name": "Business Plan",
@@ -554,7 +554,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:30.304Z"
+      "fetchedAt": "2026-10-26T10:13:11.147Z"
     },
     "bb": {
       "currency": "USD",
@@ -600,7 +600,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:31.893Z"
+      "fetchedAt": "2026-10-26T10:13:12.662Z"
     },
     "be": {
       "currency": "EUR",
@@ -636,17 +636,17 @@
           "amount": 22.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "89,99 €",
           "amount": 89.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "44,99 €",
+          "amount": 44.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:33.375Z"
+      "fetchedAt": "2026-10-26T10:13:14.183Z"
     },
     "bf": {
       "currency": "USD",
@@ -692,7 +692,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:34.871Z"
+      "fetchedAt": "2026-10-26T10:13:15.682Z"
     },
     "bg": {
       "currency": "EUR",
@@ -738,7 +738,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:36.365Z"
+      "fetchedAt": "2026-10-26T10:13:17.178Z"
     },
     "bh": {
       "currency": "USD",
@@ -784,7 +784,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:37.855Z"
+      "fetchedAt": "2026-10-26T10:13:18.820Z"
     },
     "bj": {
       "currency": "USD",
@@ -830,7 +830,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:39.333Z"
+      "fetchedAt": "2026-10-26T10:13:20.132Z"
     },
     "bm": {
       "currency": "USD",
@@ -876,7 +876,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:40.872Z"
+      "fetchedAt": "2026-10-26T10:13:21.802Z"
     },
     "bn": {
       "currency": "USD",
@@ -922,7 +922,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:42.330Z"
+      "fetchedAt": "2026-10-26T10:13:23.191Z"
     },
     "bo": {
       "currency": "USD",
@@ -968,7 +968,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:43.880Z"
+      "fetchedAt": "2026-10-26T10:13:24.668Z"
     },
     "br": {
       "currency": "BRL",
@@ -994,11 +994,6 @@
           "amount": 249.9
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "R$ 499,90",
-          "amount": 499.9
-        },
-        {
           "name": "25 Credits (Mobile Business)",
           "price": "R$ 129,90",
           "amount": 129.9
@@ -1009,26 +1004,21 @@
           "amount": 249.9
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "R$ 499,90",
+          "amount": 499.9
+        },
+        {
           "name": "Business Plan",
           "price": "R$ 499,90",
           "amount": 499.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:45.406Z"
+      "fetchedAt": "2026-10-26T10:13:26.160Z"
     },
     "bs": {
       "currency": "USD",
       "items": [
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
         {
           "name": "25 Credits (Mobile Business)",
           "price": "USD 19.99",
@@ -1038,6 +1028,16 @@
           "name": "50 Credits (Mobile Business)",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -1060,7 +1060,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:46.891Z"
+      "fetchedAt": "2026-10-26T10:13:27.727Z"
     },
     "bt": {
       "currency": "USD",
@@ -1106,7 +1106,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:48.353Z"
+      "fetchedAt": "2026-10-26T10:13:29.212Z"
     },
     "bw": {
       "currency": "USD",
@@ -1152,7 +1152,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:49.807Z"
+      "fetchedAt": "2026-10-26T10:13:30.637Z"
     },
     "by": {
       "currency": "USD",
@@ -1198,7 +1198,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:51.627Z"
+      "fetchedAt": "2026-10-26T10:13:32.153Z"
     },
     "bz": {
       "currency": "USD",
@@ -1244,7 +1244,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:52.878Z"
+      "fetchedAt": "2026-10-26T10:13:33.613Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1270,11 +1270,6 @@
           "amount": 49.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "$99.99",
-          "amount": 99.99
-        },
-        {
           "name": "25 Credits (Mobile Business)",
           "price": "$24.99",
           "amount": 24.99
@@ -1285,12 +1280,17 @@
           "amount": 99.99
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
           "name": "50 Credits (Mobile Business)",
           "price": "$49.99",
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:54.347Z"
+      "fetchedAt": "2026-10-26T10:13:35.223Z"
     },
     "cd": {
       "currency": "USD",
@@ -1336,7 +1336,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:55.963Z"
+      "fetchedAt": "2026-10-26T10:13:36.642Z"
     },
     "cg": {
       "currency": "USD",
@@ -1382,20 +1382,20 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:57.373Z"
+      "fetchedAt": "2026-10-26T10:13:38.198Z"
     },
     "ch": {
       "currency": "CHF",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "CHF 9.00",
-          "amount": 9
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "CHF 35.00",
           "amount": 35
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "CHF 9.00",
+          "amount": 9
         },
         {
           "name": "50 Credits (Mobile Pro)",
@@ -1413,6 +1413,11 @@
           "amount": 35
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "CHF 70.00",
+          "amount": 70
+        },
+        {
           "name": "25 Credits (Mobile Business)",
           "price": "CHF 18.00",
           "amount": 18
@@ -1421,14 +1426,9 @@
           "name": "Business Plan",
           "price": "CHF 70.00",
           "amount": 70
-        },
-        {
-          "name": "100 Credits (Mobile Business)",
-          "price": "CHF 70.00",
-          "amount": 70
         }
       ],
-      "fetchedAt": "2026-10-19T10:13:58.811Z"
+      "fetchedAt": "2026-10-26T10:13:39.711Z"
     },
     "ci": {
       "currency": "USD",
@@ -1474,7 +1474,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:00.551Z"
+      "fetchedAt": "2026-10-26T10:13:41.189Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1490,12 +1490,12 @@
           "amount": 22990
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "$49.990",
           "amount": 49990
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "$49.990",
           "amount": 49990
         },
@@ -1520,7 +1520,7 @@
           "amount": 99990
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:01.891Z"
+      "fetchedAt": "2026-10-26T10:13:42.686Z"
     },
     "cm": {
       "currency": "USD",
@@ -1566,7 +1566,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:03.377Z"
+      "fetchedAt": "2026-10-26T10:13:44.194Z"
     },
     "cn": {
       "available": false,
@@ -1581,6 +1581,11 @@
           "amount": 49900
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "$ 99.900,00",
+          "amount": 99900
+        },
+        {
           "name": "Pro Plan",
           "price": "$ 199.900,00",
           "amount": 199900
@@ -1589,11 +1594,6 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "$ 199.900,00",
           "amount": 199900
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$ 99.900,00",
-          "amount": 99900
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -1616,7 +1616,7 @@
           "amount": 399900
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:05.002Z"
+      "fetchedAt": "2026-10-26T10:13:45.681Z"
     },
     "cr": {
       "currency": "USD",
@@ -1627,14 +1627,14 @@
           "amount": 9.99
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -1662,7 +1662,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:06.403Z"
+      "fetchedAt": "2026-10-26T10:13:47.161Z"
     },
     "cv": {
       "currency": "USD",
@@ -1708,7 +1708,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:07.872Z"
+      "fetchedAt": "2026-10-26T10:13:48.705Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1719,6 +1719,11 @@
           "amount": 9.99
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
           "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
@@ -1727,11 +1732,6 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "22,99 €",
-          "amount": 22.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -1754,7 +1754,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:09.357Z"
+      "fetchedAt": "2026-10-26T10:13:50.125Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1765,17 +1765,17 @@
           "amount": 249
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "999,00 Kč",
-          "amount": 999
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "499,00 Kč",
           "amount": 499
         },
         {
           "name": "Pro Plan",
+          "price": "999,00 Kč",
+          "amount": 999
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
           "price": "999,00 Kč",
           "amount": 999
         },
@@ -1800,7 +1800,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:10.810Z"
+      "fetchedAt": "2026-10-26T10:13:51.634Z"
     },
     "de": {
       "currency": "EUR",
@@ -1811,6 +1811,11 @@
           "amount": 9.99
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
           "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
@@ -1821,14 +1826,14 @@
           "amount": 44.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
+          "name": "25 Credits (Mobile Business)",
           "price": "22,99 €",
           "amount": 22.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "22,99 €",
-          "amount": 22.99
+          "name": "100 Credits (Mobile Business)",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "Business Plan",
@@ -1839,14 +1844,9 @@
           "name": "50 Credits (Mobile Business)",
           "price": "44,99 €",
           "amount": 44.99
-        },
-        {
-          "name": "100 Credits (Mobile Business)",
-          "price": "89,99 €",
-          "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:12.431Z"
+      "fetchedAt": "2026-10-26T10:13:53.191Z"
     },
     "dk": {
       "currency": "DKK",
@@ -1862,12 +1862,12 @@
           "amount": 179
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "349,00 kr",
           "amount": 349
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "349,00 kr",
           "amount": 349
         },
@@ -1877,14 +1877,14 @@
           "amount": 699
         },
         {
-          "name": "Business Plan",
-          "price": "699,00 kr",
-          "amount": 699
-        },
-        {
           "name": "25 Credits (Mobile Business)",
           "price": "179,00 kr",
           "amount": 179
+        },
+        {
+          "name": "Business Plan",
+          "price": "699,00 kr",
+          "amount": 699
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -1892,7 +1892,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:13.840Z"
+      "fetchedAt": "2026-10-26T10:13:54.712Z"
     },
     "dm": {
       "currency": "USD",
@@ -1938,7 +1938,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:15.362Z"
+      "fetchedAt": "2026-10-26T10:13:56.147Z"
     },
     "do": {
       "currency": "USD",
@@ -1949,6 +1949,11 @@
           "amount": 9.99
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 39.99",
           "amount": 39.99
@@ -1957,11 +1962,6 @@
           "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -1984,7 +1984,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:16.824Z"
+      "fetchedAt": "2026-10-26T10:13:57.647Z"
     },
     "dz": {
       "currency": "USD",
@@ -2030,7 +2030,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:18.366Z"
+      "fetchedAt": "2026-10-26T10:13:59.175Z"
     },
     "ec": {
       "currency": "USD",
@@ -2041,11 +2041,6 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
@@ -2054,6 +2049,11 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -2076,7 +2076,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:20.006Z"
+      "fetchedAt": "2026-10-26T10:14:00.650Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2092,24 +2092,24 @@
           "amount": 44.99
         },
         {
-          "name": "Pro Plan",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "22,99 €",
           "amount": 22.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "22,99 €",
-          "amount": 22.99
+          "name": "Pro Plan",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "50 Credits (Mobile Business)",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -2122,7 +2122,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:21.377Z"
+      "fetchedAt": "2026-10-26T10:14:02.203Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2131,6 +2131,11 @@
           "name": "25 Credits (Mobile Pro)",
           "price": "EGP 499.99",
           "amount": 499.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "EGP 1,999.99",
+          "amount": 1999.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -2143,11 +2148,6 @@
           "amount": 999.99
         },
         {
-          "name": "Pro Plan",
-          "price": "EGP 1,999.99",
-          "amount": 1999.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "EGP 3,999.99",
           "amount": 3999.99
@@ -2168,7 +2168,7 @@
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:22.877Z"
+      "fetchedAt": "2026-10-26T10:14:03.697Z"
     },
     "es": {
       "currency": "EUR",
@@ -2194,6 +2194,11 @@
           "amount": 44.99
         },
         {
+          "name": "50 Credits (Mobile Business)",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
           "name": "100 Credits (Mobile Business)",
           "price": "89,99 €",
           "amount": 89.99
@@ -2204,17 +2209,12 @@
           "amount": 22.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "Business Plan",
           "price": "89,99 €",
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:24.418Z"
+      "fetchedAt": "2026-10-26T10:14:05.148Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2260,7 +2260,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:25.846Z"
+      "fetchedAt": "2026-10-26T10:14:06.695Z"
     },
     "fj": {
       "currency": "USD",
@@ -2306,7 +2306,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:27.416Z"
+      "fetchedAt": "2026-10-26T10:14:08.142Z"
     },
     "fm": {
       "currency": "USD",
@@ -2352,7 +2352,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:28.884Z"
+      "fetchedAt": "2026-10-26T10:14:09.645Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2383,6 +2383,11 @@
           "amount": 89.99
         },
         {
+          "name": "50 Credits (Mobile Business)",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
           "name": "25 Credits (Mobile Business)",
           "price": "22,99 €",
           "amount": 22.99
@@ -2391,14 +2396,9 @@
           "name": "Business Plan",
           "price": "89,99 €",
           "amount": 89.99
-        },
-        {
-          "name": "50 Credits (Mobile Business)",
-          "price": "44,99 €",
-          "amount": 44.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:30.472Z"
+      "fetchedAt": "2026-10-26T10:14:11.149Z"
     },
     "ga": {
       "currency": "USD",
@@ -2444,7 +2444,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:31.825Z"
+      "fetchedAt": "2026-10-26T10:14:12.630Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2475,9 +2475,9 @@
           "amount": 19.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "£39.99",
-          "amount": 39.99
+          "name": "100 Credits (Mobile Business)",
+          "price": "£79.99",
+          "amount": 79.99
         },
         {
           "name": "Business Plan",
@@ -2485,12 +2485,12 @@
           "amount": 79.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "£79.99",
-          "amount": 79.99
+          "name": "50 Credits (Mobile Business)",
+          "price": "£39.99",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:33.380Z"
+      "fetchedAt": "2026-10-26T10:14:14.161Z"
     },
     "gd": {
       "currency": "USD",
@@ -2536,20 +2536,20 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:34.834Z"
+      "fetchedAt": "2026-10-26T10:14:15.654Z"
     },
     "ge": {
       "currency": "USD",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 49.99",
           "amount": 49.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "50 Credits (Mobile Pro)",
@@ -2582,7 +2582,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:36.407Z"
+      "fetchedAt": "2026-10-26T10:14:17.173Z"
     },
     "gh": {
       "currency": "USD",
@@ -2603,14 +2603,14 @@
           "amount": 49.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "USD 22.99",
-          "amount": 22.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 49.99",
           "amount": 49.99
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "USD 22.99",
+          "amount": 22.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -2628,7 +2628,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:37.864Z"
+      "fetchedAt": "2026-10-26T10:14:18.662Z"
     },
     "gm": {
       "currency": "USD",
@@ -2674,7 +2674,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:39.332Z"
+      "fetchedAt": "2026-10-26T10:14:20.149Z"
     },
     "gr": {
       "currency": "EUR",
@@ -2690,14 +2690,19 @@
           "amount": 22.99
         },
         {
+          "name": "Pro Plan",
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
         },
         {
-          "name": "Pro Plan",
-          "price": "44,99 €",
-          "amount": 44.99
+          "name": "Business Plan",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -2713,18 +2718,18 @@
           "name": "50 Credits (Mobile Business)",
           "price": "44,99 €",
           "amount": 44.99
-        },
-        {
-          "name": "Business Plan",
-          "price": "89,99 €",
-          "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:40.941Z"
+      "fetchedAt": "2026-10-26T10:14:21.642Z"
     },
     "gt": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
         {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
@@ -2734,11 +2739,6 @@
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
           "amount": 9.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -2766,7 +2766,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:42.334Z"
+      "fetchedAt": "2026-10-26T10:14:23.135Z"
     },
     "gw": {
       "currency": "USD",
@@ -2812,7 +2812,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:43.755Z"
+      "fetchedAt": "2026-10-26T10:14:24.701Z"
     },
     "gy": {
       "currency": "USD",
@@ -2858,7 +2858,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:45.372Z"
+      "fetchedAt": "2026-10-26T10:14:26.206Z"
     },
     "hk": {
       "currency": "HKD",
@@ -2874,14 +2874,14 @@
           "amount": 88
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "HK$ 148.00",
-          "amount": 148
-        },
-        {
           "name": "Pro Plan",
           "price": "HK$ 288.00",
           "amount": 288
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "HK$ 148.00",
+          "amount": 148
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -2904,15 +2904,15 @@
           "amount": 588
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:47.003Z"
+      "fetchedAt": "2026-10-26T10:14:27.664Z"
     },
     "hn": {
       "currency": "USD",
       "items": [
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "Pro Plan",
@@ -2920,9 +2920,9 @@
           "amount": 39.99
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 9.99",
-          "amount": 9.99
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -2950,7 +2950,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:48.378Z"
+      "fetchedAt": "2026-10-26T10:14:29.174Z"
     },
     "hr": {
       "currency": "EUR",
@@ -2996,15 +2996,15 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:49.870Z"
+      "fetchedAt": "2026-10-26T10:14:30.791Z"
     },
     "hu": {
       "currency": "HUF",
       "items": [
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "HUF8,990.00",
-          "amount": 8990
+          "name": "100 Credits (Mobile Pro)",
+          "price": "HUF17,990.00",
+          "amount": 17990
         },
         {
           "name": "25 Credits (Mobile Pro)",
@@ -3012,14 +3012,19 @@
           "amount": 4490
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
           "name": "Pro Plan",
           "price": "HUF17,990.00",
           "amount": 17990
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "HUF17,990.00",
-          "amount": 17990
+          "name": "Business Plan",
+          "price": "HUF34,990.00",
+          "amount": 34990
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -3032,17 +3037,12 @@
           "amount": 8990
         },
         {
-          "name": "Business Plan",
-          "price": "HUF34,990.00",
-          "amount": 34990
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "HUF34,990.00",
           "amount": 34990
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:51.354Z"
+      "fetchedAt": "2026-10-26T10:14:32.199Z"
     },
     "id": {
       "currency": "IDR",
@@ -3063,11 +3063,6 @@
           "amount": 399
         },
         {
-          "name": "Business Plan",
-          "price": "Rp 1,499juta",
-          "amount": 1499
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "Rp 799ribu",
           "amount": 799
@@ -3076,6 +3071,11 @@
           "name": "25 Credits (Mobile Business)",
           "price": "Rp 399ribu",
           "amount": 399
+        },
+        {
+          "name": "Business Plan",
+          "price": "Rp 1,499juta",
+          "amount": 1499
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -3088,7 +3088,7 @@
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:52.888Z"
+      "fetchedAt": "2026-10-26T10:14:33.636Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3099,12 +3099,12 @@
           "amount": 9.99
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "€44.99",
           "amount": 44.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "€44.99",
           "amount": 44.99
         },
@@ -3134,7 +3134,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:54.413Z"
+      "fetchedAt": "2026-10-26T10:14:35.154Z"
     },
     "il": {
       "currency": "ILS",
@@ -3165,11 +3165,6 @@
           "amount": 59.9
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "₪119.90",
-          "amount": 119.9
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "₪249.90",
           "amount": 249.9
@@ -3178,9 +3173,14 @@
           "name": "Business Plan",
           "price": "₪249.90",
           "amount": 249.9
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "₪119.90",
+          "amount": 119.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:55.861Z"
+      "fetchedAt": "2026-10-26T10:14:36.712Z"
     },
     "in": {
       "currency": "INR",
@@ -3196,19 +3196,24 @@
           "amount": 3999
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "₹ 3,999",
-          "amount": 3999
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "₹ 1,999",
           "amount": 1999
         },
         {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "₹ 3,999",
+          "amount": 3999
+        },
+        {
           "name": "100 Credits (Mobile Business)",
           "price": "₹ 7,900",
           "amount": 7900
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "₹ 3,999",
+          "amount": 3999
         },
         {
           "name": "Business Plan",
@@ -3219,14 +3224,9 @@
           "name": "25 Credits (Mobile Business)",
           "price": "₹ 1,999",
           "amount": 1999
-        },
-        {
-          "name": "50 Credits (Mobile Business)",
-          "price": "₹ 3,999",
-          "amount": 3999
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:57.381Z"
+      "fetchedAt": "2026-10-26T10:14:38.153Z"
     },
     "iq": {
       "currency": "USD",
@@ -3272,7 +3272,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:14:58.780Z"
+      "fetchedAt": "2026-10-26T10:14:39.668Z"
     },
     "is": {
       "currency": "USD",
@@ -3283,14 +3283,14 @@
           "amount": 22.99
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 49.99",
           "amount": 49.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "Pro Plan",
@@ -3318,7 +3318,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:00.330Z"
+      "fetchedAt": "2026-10-26T10:14:41.253Z"
     },
     "it": {
       "currency": "EUR",
@@ -3344,9 +3344,9 @@
           "amount": 22.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "44,99 €",
-          "amount": 44.99
+          "name": "100 Credits (Mobile Business)",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -3354,9 +3354,9 @@
           "amount": 22.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "89,99 €",
-          "amount": 89.99
+          "name": "50 Credits (Mobile Business)",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "Business Plan",
@@ -3364,20 +3364,20 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:01.868Z"
+      "fetchedAt": "2026-10-26T10:14:42.680Z"
     },
     "jm": {
       "currency": "USD",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -3410,7 +3410,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:03.328Z"
+      "fetchedAt": "2026-10-26T10:14:44.213Z"
     },
     "jo": {
       "currency": "USD",
@@ -3421,17 +3421,17 @@
           "amount": 9.99
         },
         {
+          "name": "Pro Plan",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
           "name": "50 Credits (Mobile Pro)",
           "price": "$19.99",
           "amount": 19.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
-          "price": "$39.99",
-          "amount": 39.99
-        },
-        {
-          "name": "Pro Plan",
           "price": "$39.99",
           "amount": 39.99
         },
@@ -3456,7 +3456,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:04.882Z"
+      "fetchedAt": "2026-10-26T10:14:45.690Z"
     },
     "jp": {
       "currency": "JPY",
@@ -3502,7 +3502,7 @@
           "amount": 3000
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:06.408Z"
+      "fetchedAt": "2026-10-26T10:14:47.178Z"
     },
     "ke": {
       "currency": "USD",
@@ -3513,12 +3513,12 @@
           "amount": 11.99
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "USD 49.99",
           "amount": 49.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "USD 49.99",
           "amount": 49.99
         },
@@ -3548,28 +3548,28 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:07.960Z"
+      "fetchedAt": "2026-10-26T10:14:48.687Z"
     },
     "kg": {
       "currency": "USD",
       "items": [
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
           "amount": 9.99
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
+        },
+        {
           "name": "100 Credits (Mobile Pro)",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
         },
@@ -3594,7 +3594,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:09.386Z"
+      "fetchedAt": "2026-10-26T10:14:50.191Z"
     },
     "kh": {
       "currency": "USD",
@@ -3640,7 +3640,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:10.896Z"
+      "fetchedAt": "2026-10-26T10:14:51.665Z"
     },
     "kn": {
       "currency": "USD",
@@ -3686,7 +3686,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:12.440Z"
+      "fetchedAt": "2026-10-26T10:14:53.242Z"
     },
     "kr": {
       "currency": "KRW",
@@ -3732,30 +3732,30 @@
           "amount": 129000
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:13.874Z"
+      "fetchedAt": "2026-10-26T10:14:54.729Z"
     },
     "kw": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "$39.99",
-          "amount": 39.99
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "$9.99",
           "amount": 9.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "50 Credits (Mobile Pro)",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Pro Plan",
           "price": "$39.99",
           "amount": 39.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$19.99",
-          "amount": 19.99
+          "name": "100 Credits (Mobile Pro)",
+          "price": "$39.99",
+          "amount": 39.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -3778,7 +3778,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:15.344Z"
+      "fetchedAt": "2026-10-26T10:14:56.156Z"
     },
     "ky": {
       "currency": "USD",
@@ -3824,7 +3824,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:16.852Z"
+      "fetchedAt": "2026-10-26T10:14:57.654Z"
     },
     "kz": {
       "currency": "KZT",
@@ -3870,7 +3870,7 @@
           "amount": 49990
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:18.340Z"
+      "fetchedAt": "2026-10-26T10:14:59.158Z"
     },
     "la": {
       "currency": "USD",
@@ -3916,21 +3916,11 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:19.943Z"
+      "fetchedAt": "2026-10-26T10:15:00.706Z"
     },
     "lb": {
       "currency": "USD",
       "items": [
-        {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "$9.99",
-          "amount": 9.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "$39.99",
-          "amount": 39.99
-        },
         {
           "name": "100 Credits (Mobile Pro)",
           "price": "$39.99",
@@ -3940,6 +3930,16 @@
           "name": "50 Credits (Mobile Pro)",
           "price": "$19.99",
           "amount": 19.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "$39.99",
+          "amount": 39.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -3962,7 +3962,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:21.660Z"
+      "fetchedAt": "2026-10-26T10:15:02.159Z"
     },
     "lc": {
       "currency": "USD",
@@ -4008,7 +4008,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:22.910Z"
+      "fetchedAt": "2026-10-26T10:15:03.726Z"
     },
     "lk": {
       "currency": "USD",
@@ -4019,9 +4019,9 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
+          "name": "50 Credits (Mobile Business)",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -4029,9 +4029,9 @@
           "amount": 39.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "USD 39.99",
-          "amount": 39.99
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -4054,7 +4054,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:24.474Z"
+      "fetchedAt": "2026-10-26T10:15:05.210Z"
     },
     "lr": {
       "currency": "USD",
@@ -4100,7 +4100,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:25.927Z"
+      "fetchedAt": "2026-10-26T10:15:06.682Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4109,6 +4109,11 @@
           "name": "25 Credits (Mobile Pro)",
           "price": "9,99 €",
           "amount": 9.99
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "50 Credits (Mobile Pro)",
@@ -4131,11 +4136,6 @@
           "amount": 44.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "89,99 €",
           "amount": 89.99
@@ -4146,7 +4146,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:27.396Z"
+      "fetchedAt": "2026-10-26T10:15:08.182Z"
     },
     "lu": {
       "currency": "EUR",
@@ -4162,12 +4162,12 @@
           "amount": 22.99
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
+          "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
         },
@@ -4192,7 +4192,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:28.925Z"
+      "fetchedAt": "2026-10-26T10:15:09.694Z"
     },
     "lv": {
       "currency": "EUR",
@@ -4238,7 +4238,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:30.367Z"
+      "fetchedAt": "2026-10-26T10:15:11.214Z"
     },
     "ly": {
       "currency": "USD",
@@ -4284,7 +4284,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:31.915Z"
+      "fetchedAt": "2026-10-26T10:15:12.648Z"
     },
     "ma": {
       "currency": "USD",
@@ -4330,11 +4330,16 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:33.425Z"
+      "fetchedAt": "2026-10-26T10:15:14.381Z"
     },
     "md": {
       "currency": "USD",
       "items": [
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 11.99",
+          "amount": 11.99
+        },
         {
           "name": "Pro Plan",
           "price": "USD 49.99",
@@ -4356,11 +4361,6 @@
           "amount": 49.99
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "USD 99.99",
           "amount": 99.99
@@ -4376,7 +4376,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:34.880Z"
+      "fetchedAt": "2026-10-26T10:15:15.664Z"
     },
     "me": {
       "currency": "EUR",
@@ -4422,7 +4422,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:36.413Z"
+      "fetchedAt": "2026-10-26T10:15:17.197Z"
     },
     "mg": {
       "currency": "USD",
@@ -4468,7 +4468,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:37.854Z"
+      "fetchedAt": "2026-10-26T10:15:18.688Z"
     },
     "mk": {
       "currency": "USD",
@@ -4477,6 +4477,16 @@
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "Pro Plan",
@@ -4489,11 +4499,6 @@
           "amount": 19.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 39.99",
           "amount": 39.99
@@ -4504,17 +4509,12 @@
           "amount": 79.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Business Plan",
           "price": "USD 79.99",
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:39.375Z"
+      "fetchedAt": "2026-10-26T10:15:20.357Z"
     },
     "ml": {
       "currency": "USD",
@@ -4560,7 +4560,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:40.893Z"
+      "fetchedAt": "2026-10-26T10:15:21.751Z"
     },
     "mm": {
       "currency": "USD",
@@ -4606,7 +4606,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:42.374Z"
+      "fetchedAt": "2026-10-26T10:15:23.189Z"
     },
     "mn": {
       "currency": "USD",
@@ -4652,7 +4652,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:43.840Z"
+      "fetchedAt": "2026-10-26T10:15:24.691Z"
     },
     "mo": {
       "currency": "USD",
@@ -4698,7 +4698,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:45.296Z"
+      "fetchedAt": "2026-10-26T10:15:26.239Z"
     },
     "mr": {
       "currency": "USD",
@@ -4744,7 +4744,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:46.854Z"
+      "fetchedAt": "2026-10-26T10:15:27.716Z"
     },
     "ms": {
       "currency": "USD",
@@ -4790,7 +4790,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:48.329Z"
+      "fetchedAt": "2026-10-26T10:15:29.204Z"
     },
     "mt": {
       "currency": "EUR",
@@ -4801,24 +4801,24 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "22,99 €",
-          "amount": 22.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
         },
         {
-          "name": "Pro Plan",
-          "price": "44,99 €",
-          "amount": 44.99
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "25 Credits (Mobile Business)",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -4836,11 +4836,16 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:49.979Z"
+      "fetchedAt": "2026-10-26T10:15:30.681Z"
     },
     "mu": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pro Plan",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 11.99",
@@ -4852,11 +4857,6 @@
           "amount": 22.99
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 49.99",
-          "amount": 49.99
-        },
-        {
           "name": "25 Credits (Mobile Business)",
           "price": "USD 22.99",
           "amount": 22.99
@@ -4882,7 +4882,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:51.393Z"
+      "fetchedAt": "2026-10-26T10:15:32.187Z"
     },
     "mv": {
       "currency": "USD",
@@ -4893,14 +4893,14 @@
           "amount": 39.99
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "25 Credits (Mobile Pro)",
@@ -4928,7 +4928,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:52.902Z"
+      "fetchedAt": "2026-10-26T10:15:33.801Z"
     },
     "mw": {
       "currency": "USD",
@@ -4974,7 +4974,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:54.501Z"
+      "fetchedAt": "2026-10-26T10:15:35.185Z"
     },
     "mx": {
       "currency": "MXN",
@@ -4985,24 +4985,24 @@
           "amount": 199
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$399.00",
-          "amount": 399
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "$899.00",
           "amount": 899
         },
         {
-          "name": "Pro Plan",
-          "price": "$899.00",
-          "amount": 899
+          "name": "50 Credits (Mobile Pro)",
+          "price": "$399.00",
+          "amount": 399
         },
         {
           "name": "100 Credits (Mobile Business)",
           "price": "$1,799.00",
           "amount": 1799
+        },
+        {
+          "name": "Pro Plan",
+          "price": "$899.00",
+          "amount": 899
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -5020,7 +5020,7 @@
           "amount": 1799
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:55.875Z"
+      "fetchedAt": "2026-10-26T10:15:36.671Z"
     },
     "my": {
       "currency": "MYR",
@@ -5031,14 +5031,14 @@
           "amount": 49.9
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "RM99.90",
-          "amount": 99.9
-        },
-        {
           "name": "Pro Plan",
           "price": "RM199.90",
           "amount": 199.9
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "RM99.90",
+          "amount": 99.9
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -5066,22 +5066,22 @@
           "amount": 399.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:57.358Z"
+      "fetchedAt": "2026-10-26T10:15:38.186Z"
     },
     "mz": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
           "amount": 9.99
         },
         {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 39.99",
           "amount": 39.99
@@ -5112,7 +5112,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:15:58.875Z"
+      "fetchedAt": "2026-10-26T10:15:39.678Z"
     },
     "na": {
       "currency": "USD",
@@ -5158,7 +5158,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:00.359Z"
+      "fetchedAt": "2026-10-26T10:15:41.232Z"
     },
     "ne": {
       "currency": "USD",
@@ -5204,7 +5204,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:01.850Z"
+      "fetchedAt": "2026-10-26T10:15:42.725Z"
     },
     "ng": {
       "currency": "NGN",
@@ -5225,14 +5225,14 @@
           "amount": 69900
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "₦ 29,900.00",
-          "amount": 29900
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "₦ 69,900.00",
           "amount": 69900
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "₦ 29,900.00",
+          "amount": 29900
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -5250,11 +5250,16 @@
           "amount": 129900
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:03.421Z"
+      "fetchedAt": "2026-10-26T10:15:44.164Z"
     },
     "ni": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
@@ -5289,14 +5294,9 @@
           "name": "Business Plan",
           "price": "USD 79.99",
           "amount": 79.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:04.913Z"
+      "fetchedAt": "2026-10-26T10:15:45.649Z"
     },
     "nl": {
       "currency": "EUR",
@@ -5327,14 +5327,14 @@
           "amount": 22.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "€ 44,99",
-          "amount": 44.99
-        },
-        {
           "name": "100 Credits (Mobile Business)",
           "price": "€ 89,99",
           "amount": 89.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "€ 44,99",
+          "amount": 44.99
         },
         {
           "name": "Business Plan",
@@ -5342,7 +5342,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:06.420Z"
+      "fetchedAt": "2026-10-26T10:15:47.186Z"
     },
     "no": {
       "currency": "NOK",
@@ -5353,14 +5353,14 @@
           "amount": 129
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "499,00 kr",
-          "amount": 499
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "249,00 kr",
           "amount": 249
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "499,00 kr",
+          "amount": 499
         },
         {
           "name": "Pro Plan",
@@ -5373,6 +5373,11 @@
           "amount": 249
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "999,00 kr",
+          "amount": 999
+        },
+        {
           "name": "Business Plan",
           "price": "999,00 kr",
           "amount": 999
@@ -5381,14 +5386,9 @@
           "name": "50 Credits (Mobile Business)",
           "price": "499,00 kr",
           "amount": 499
-        },
-        {
-          "name": "100 Credits (Mobile Business)",
-          "price": "999,00 kr",
-          "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:07.890Z"
+      "fetchedAt": "2026-10-26T10:15:48.765Z"
     },
     "np": {
       "currency": "USD",
@@ -5434,7 +5434,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:09.401Z"
+      "fetchedAt": "2026-10-26T10:15:50.198Z"
     },
     "nr": {
       "currency": "USD",
@@ -5480,25 +5480,20 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:10.857Z"
+      "fetchedAt": "2026-10-26T10:15:51.691Z"
     },
     "nz": {
       "currency": "NZD",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$39.99",
-          "amount": 39.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "$69.99",
           "amount": 69.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Pro Plan",
@@ -5506,7 +5501,7 @@
           "amount": 69.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
+          "name": "50 Credits (Mobile Pro)",
           "price": "$39.99",
           "amount": 39.99
         },
@@ -5514,6 +5509,11 @@
           "name": "Business Plan",
           "price": "$149.99",
           "amount": 149.99
+        },
+        {
+          "name": "25 Credits (Mobile Business)",
+          "price": "$39.99",
+          "amount": 39.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -5526,7 +5526,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:12.414Z"
+      "fetchedAt": "2026-10-26T10:15:53.249Z"
     },
     "om": {
       "currency": "USD",
@@ -5537,6 +5537,11 @@
           "amount": 9.99
         },
         {
+          "name": "Pro Plan",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
           "name": "50 Credits (Mobile Pro)",
           "price": "$19.99",
           "amount": 19.99
@@ -5545,11 +5550,6 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "$39.99",
           "amount": 39.99
-        },
-        {
-          "name": "Business Plan",
-          "price": "$79.99",
-          "amount": 79.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -5562,9 +5562,9 @@
           "amount": 19.99
         },
         {
-          "name": "Pro Plan",
-          "price": "$39.99",
-          "amount": 39.99
+          "name": "Business Plan",
+          "price": "$79.99",
+          "amount": 79.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -5572,7 +5572,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:13.824Z"
+      "fetchedAt": "2026-10-26T10:15:54.752Z"
     },
     "pa": {
       "currency": "USD",
@@ -5583,24 +5583,24 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Pro Plan",
           "price": "USD 39.99",
           "amount": 39.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "USD 39.99",
-          "amount": 39.99
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "25 Credits (Mobile Business)",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "50 Credits (Mobile Business)",
@@ -5618,7 +5618,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:15.480Z"
+      "fetchedAt": "2026-10-26T10:15:56.205Z"
     },
     "pe": {
       "currency": "PEN",
@@ -5629,9 +5629,9 @@
           "amount": 44.9
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "S/ 179.90",
-          "amount": 179.9
+          "name": "50 Credits (Mobile Pro)",
+          "price": "S/ 89.90",
+          "amount": 89.9
         },
         {
           "name": "Pro Plan",
@@ -5639,9 +5639,9 @@
           "amount": 179.9
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "S/ 89.90",
-          "amount": 89.9
+          "name": "100 Credits (Mobile Pro)",
+          "price": "S/ 179.90",
+          "amount": 179.9
         },
         {
           "name": "Business Plan",
@@ -5664,7 +5664,7 @@
           "amount": 349.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:16.897Z"
+      "fetchedAt": "2026-10-26T10:15:57.881Z"
     },
     "pg": {
       "currency": "USD",
@@ -5710,7 +5710,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:18.349Z"
+      "fetchedAt": "2026-10-26T10:15:59.218Z"
     },
     "ph": {
       "currency": "PHP",
@@ -5721,14 +5721,14 @@
           "amount": 599
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "₱ 1,290.00",
-          "amount": 1290
-        },
-        {
           "name": "Pro Plan",
           "price": "₱ 2,490.00",
           "amount": 2490
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "₱ 1,290.00",
+          "amount": 1290
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -5756,30 +5756,30 @@
           "amount": 4990
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:19.854Z"
+      "fetchedAt": "2026-10-26T10:16:00.839Z"
     },
     "pk": {
       "currency": "PKR",
       "items": [
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "Rs 9,900.00",
+          "amount": 9900
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "Rs 4,900.00",
+          "amount": 4900
+        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "Rs 2,900.00",
           "amount": 2900
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "Rs 9,900.00",
-          "amount": 9900
-        },
-        {
           "name": "Pro Plan",
           "price": "Rs 9,900.00",
           "amount": 9900
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "Rs 4,900.00",
-          "amount": 4900
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -5802,7 +5802,7 @@
           "amount": 19900
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:21.362Z"
+      "fetchedAt": "2026-10-26T10:16:02.308Z"
     },
     "pl": {
       "currency": "PLN",
@@ -5818,11 +5818,6 @@
           "amount": 99.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "199,99 zł",
-          "amount": 199.99
-        },
-        {
           "name": "Pro Plan",
           "price": "199,99 zł",
           "amount": 199.99
@@ -5833,14 +5828,19 @@
           "amount": 99.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "399,99 zł",
-          "amount": 399.99
-        },
-        {
           "name": "50 Credits (Mobile Business)",
           "price": "199,99 zł",
           "amount": 199.99
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "199,99 zł",
+          "amount": 199.99
+        },
+        {
+          "name": "100 Credits (Mobile Business)",
+          "price": "399,99 zł",
+          "amount": 399.99
         },
         {
           "name": "Business Plan",
@@ -5848,7 +5848,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:22.978Z"
+      "fetchedAt": "2026-10-26T10:16:03.672Z"
     },
     "pt": {
       "currency": "EUR",
@@ -5859,14 +5859,14 @@
           "amount": 9.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "22,99 €",
-          "amount": 22.99
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "Pro Plan",
@@ -5894,7 +5894,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:24.399Z"
+      "fetchedAt": "2026-10-26T10:16:05.279Z"
     },
     "pw": {
       "currency": "USD",
@@ -5940,7 +5940,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:25.957Z"
+      "fetchedAt": "2026-10-26T10:16:06.714Z"
     },
     "py": {
       "currency": "USD",
@@ -5986,7 +5986,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:27.494Z"
+      "fetchedAt": "2026-10-26T10:16:08.214Z"
     },
     "qa": {
       "currency": "QAR",
@@ -5995,11 +5995,6 @@
           "name": "25 Credits (Mobile Pro)",
           "price": "QAR 39.99",
           "amount": 39.99
-        },
-        {
-          "name": "100 Credits (Mobile Business)",
-          "price": "QAR 299.99",
-          "amount": 299.99
         },
         {
           "name": "Pro Plan",
@@ -6017,6 +6012,11 @@
           "amount": 149.99
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "QAR 299.99",
+          "amount": 299.99
+        },
+        {
           "name": "Business Plan",
           "price": "QAR 299.99",
           "amount": 299.99
@@ -6032,7 +6032,7 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:28.886Z"
+      "fetchedAt": "2026-10-26T10:16:09.713Z"
     },
     "ro": {
       "currency": "RON",
@@ -6058,6 +6058,11 @@
           "amount": 199.99
         },
         {
+          "name": "25 Credits (Mobile Business)",
+          "price": "99,99 lei",
+          "amount": 99.99
+        },
+        {
           "name": "100 Credits (Mobile Business)",
           "price": "399,99 lei",
           "amount": 399.99
@@ -6068,25 +6073,20 @@
           "amount": 199.99
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "99,99 lei",
-          "amount": 99.99
-        },
-        {
           "name": "Business Plan",
           "price": "399,99 lei",
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:30.357Z"
+      "fetchedAt": "2026-10-26T10:16:11.253Z"
     },
     "rs": {
       "currency": "EUR",
       "items": [
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "9,99 €",
-          "amount": 9.99
+          "name": "Pro Plan",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "50 Credits (Mobile Pro)",
@@ -6094,9 +6094,9 @@
           "amount": 22.99
         },
         {
-          "name": "Pro Plan",
-          "price": "44,99 €",
-          "amount": 44.99
+          "name": "25 Credits (Mobile Pro)",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -6124,7 +6124,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:31.833Z"
+      "fetchedAt": "2026-10-26T10:16:12.717Z"
     },
     "ru": {
       "available": false,
@@ -6174,7 +6174,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:33.391Z"
+      "fetchedAt": "2026-10-26T10:16:14.199Z"
     },
     "sa": {
       "currency": "SAR",
@@ -6185,9 +6185,9 @@
           "amount": 39.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "SAR 89.99",
-          "amount": 89.99
+          "name": "Pro Plan",
+          "price": "SAR 179.99",
+          "amount": 179.99
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -6195,9 +6195,9 @@
           "amount": 179.99
         },
         {
-          "name": "Pro Plan",
-          "price": "SAR 179.99",
-          "amount": 179.99
+          "name": "50 Credits (Mobile Pro)",
+          "price": "SAR 89.99",
+          "amount": 89.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -6220,7 +6220,7 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:34.855Z"
+      "fetchedAt": "2026-10-26T10:16:15.699Z"
     },
     "sb": {
       "currency": "USD",
@@ -6266,7 +6266,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:36.353Z"
+      "fetchedAt": "2026-10-26T10:16:17.194Z"
     },
     "sc": {
       "currency": "USD",
@@ -6312,7 +6312,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:37.896Z"
+      "fetchedAt": "2026-10-26T10:16:18.713Z"
     },
     "se": {
       "currency": "SEK",
@@ -6338,6 +6338,11 @@
           "amount": 499
         },
         {
+          "name": "25 Credits (Mobile Business)",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
           "name": "Business Plan",
           "price": "999,00 kr",
           "amount": 999
@@ -6348,17 +6353,12 @@
           "amount": 999
         },
         {
-          "name": "25 Credits (Mobile Business)",
-          "price": "249,00 kr",
-          "amount": 249
-        },
-        {
           "name": "50 Credits (Mobile Business)",
           "price": "499,00 kr",
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:39.404Z"
+      "fetchedAt": "2026-10-26T10:16:20.210Z"
     },
     "sg": {
       "currency": "SGD",
@@ -6374,14 +6374,14 @@
           "amount": 59.98
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "S$ 29.98",
-          "amount": 29.98
-        },
-        {
           "name": "100 Credits (Mobile Pro)",
           "price": "S$ 59.98",
           "amount": 59.98
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "S$ 29.98",
+          "amount": 29.98
         },
         {
           "name": "Business Plan",
@@ -6404,7 +6404,7 @@
           "amount": 99.98
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:41.001Z"
+      "fetchedAt": "2026-10-26T10:16:21.722Z"
     },
     "si": {
       "currency": "EUR",
@@ -6415,14 +6415,14 @@
           "amount": 22.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "25 Credits (Mobile Pro)",
           "price": "9,99 €",
           "amount": 9.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "Pro Plan",
@@ -6450,7 +6450,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:42.292Z"
+      "fetchedAt": "2026-10-26T10:16:23.209Z"
     },
     "sk": {
       "currency": "EUR",
@@ -6461,6 +6461,11 @@
           "amount": 9.99
         },
         {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
           "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
@@ -6469,11 +6474,6 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "44,99 €",
           "amount": 44.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "22,99 €",
-          "amount": 22.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -6496,7 +6496,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:43.898Z"
+      "fetchedAt": "2026-10-26T10:16:24.750Z"
     },
     "sl": {
       "currency": "USD",
@@ -6542,7 +6542,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:45.350Z"
+      "fetchedAt": "2026-10-26T10:16:26.223Z"
     },
     "sn": {
       "currency": "USD",
@@ -6588,7 +6588,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:46.884Z"
+      "fetchedAt": "2026-10-26T10:16:27.702Z"
     },
     "sr": {
       "currency": "USD",
@@ -6634,7 +6634,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:48.409Z"
+      "fetchedAt": "2026-10-26T10:16:29.270Z"
     },
     "st": {
       "currency": "USD",
@@ -6680,7 +6680,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:49.892Z"
+      "fetchedAt": "2026-10-26T10:16:30.743Z"
     },
     "sv": {
       "currency": "USD",
@@ -6726,7 +6726,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:51.335Z"
+      "fetchedAt": "2026-10-26T10:16:32.392Z"
     },
     "sz": {
       "currency": "USD",
@@ -6735,6 +6735,11 @@
           "name": "100 Credits (Mobile Business)",
           "price": "USD 79.99",
           "amount": 79.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "Business Plan",
@@ -6762,17 +6767,12 @@
           "amount": 39.99
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:52.998Z"
+      "fetchedAt": "2026-10-26T10:16:33.731Z"
     },
     "tc": {
       "currency": "USD",
@@ -6818,7 +6818,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:54.364Z"
+      "fetchedAt": "2026-10-26T10:16:35.228Z"
     },
     "td": {
       "currency": "USD",
@@ -6864,7 +6864,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:55.910Z"
+      "fetchedAt": "2026-10-26T10:16:36.818Z"
     },
     "th": {
       "currency": "THB",
@@ -6910,7 +6910,7 @@
           "amount": 1490
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:57.391Z"
+      "fetchedAt": "2026-10-26T10:16:38.249Z"
     },
     "tj": {
       "currency": "USD",
@@ -6921,14 +6921,14 @@
           "amount": 39.99
         },
         {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "25 Credits (Mobile Pro)",
@@ -6956,7 +6956,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:16:58.860Z"
+      "fetchedAt": "2026-10-26T10:16:39.742Z"
     },
     "tm": {
       "currency": "USD",
@@ -7002,7 +7002,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:00.396Z"
+      "fetchedAt": "2026-10-26T10:16:41.306Z"
     },
     "tn": {
       "currency": "USD",
@@ -7048,7 +7048,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:01.880Z"
+      "fetchedAt": "2026-10-26T10:16:42.759Z"
     },
     "to": {
       "currency": "USD",
@@ -7094,7 +7094,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:03.381Z"
+      "fetchedAt": "2026-10-26T10:16:44.199Z"
     },
     "tr": {
       "currency": "TRY",
@@ -7115,19 +7115,14 @@
           "amount": 1999.99
         },
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "₺1.999,99",
-          "amount": 1999.99
-        },
-        {
           "name": "25 Credits (Mobile Business)",
           "price": "₺999,99",
           "amount": 999.99
         },
         {
-          "name": "Business Plan",
-          "price": "₺3.999,99",
-          "amount": 3999.99
+          "name": "100 Credits (Mobile Pro)",
+          "price": "₺1.999,99",
+          "amount": 1999.99
         },
         {
           "name": "100 Credits (Mobile Business)",
@@ -7138,9 +7133,14 @@
           "name": "50 Credits (Mobile Business)",
           "price": "₺1.999,99",
           "amount": 1999.99
+        },
+        {
+          "name": "Business Plan",
+          "price": "₺3.999,99",
+          "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:04.885Z"
+      "fetchedAt": "2026-10-26T10:16:45.725Z"
     },
     "tt": {
       "currency": "USD",
@@ -7186,35 +7186,35 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:06.451Z"
+      "fetchedAt": "2026-10-26T10:16:47.203Z"
     },
     "tw": {
       "currency": "TWD",
       "items": [
-        {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "$1,290.00",
-          "amount": 1290
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "$320.00",
           "amount": 320
         },
         {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "$1,290.00",
+          "amount": 1290
+        },
+        {
           "name": "Pro Plan",
           "price": "$1,290.00",
           "amount": 1290
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "$2,490.00",
-          "amount": 2490
-        },
-        {
           "name": "50 Credits (Mobile Pro)",
           "price": "$690.00",
           "amount": 690
+        },
+        {
+          "name": "100 Credits (Mobile Business)",
+          "price": "$2,490.00",
+          "amount": 2490
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -7232,28 +7232,28 @@
           "amount": 2490
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:07.874Z"
+      "fetchedAt": "2026-10-26T10:16:48.823Z"
     },
     "tz": {
       "currency": "TZS",
       "items": [
-        {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "99,900.00 TZS",
-          "amount": 99900
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "29,900.00 TZS",
           "amount": 29900
         },
         {
-          "name": "50 Credits (Mobile Business)",
+          "name": "100 Credits (Mobile Pro)",
           "price": "99,900.00 TZS",
           "amount": 99900
         },
         {
           "name": "Pro Plan",
+          "price": "99,900.00 TZS",
+          "amount": 99900
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
           "price": "99,900.00 TZS",
           "amount": 99900
         },
@@ -7278,7 +7278,7 @@
           "amount": 229900
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:09.379Z"
+      "fetchedAt": "2026-10-26T10:16:50.296Z"
     },
     "ua": {
       "currency": "USD",
@@ -7289,12 +7289,17 @@
           "amount": 11.99
         },
         {
+          "name": "Pro Plan",
+          "price": "49,99 USD",
+          "amount": 49.99
+        },
+        {
           "name": "50 Credits (Mobile Pro)",
           "price": "22,99 USD",
           "amount": 22.99
         },
         {
-          "name": "Pro Plan",
+          "name": "100 Credits (Mobile Pro)",
           "price": "49,99 USD",
           "amount": 49.99
         },
@@ -7302,11 +7307,6 @@
           "name": "Business Plan",
           "price": "99,99 USD",
           "amount": 99.99
-        },
-        {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "49,99 USD",
-          "amount": 49.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -7324,7 +7324,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:10.978Z"
+      "fetchedAt": "2026-10-26T10:16:51.713Z"
     },
     "ug": {
       "currency": "USD",
@@ -7370,7 +7370,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:12.340Z"
+      "fetchedAt": "2026-10-26T10:16:53.249Z"
     },
     "us": {
       "currency": "USD",
@@ -7401,37 +7401,27 @@
           "amount": 19.99
         },
         {
+          "name": "100 Credits (Mobile Business)",
+          "price": "$79.99",
+          "amount": 79.99
+        },
+        {
           "name": "50 Credits (Mobile Business)",
           "price": "$39.99",
           "amount": 39.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "$79.99",
-          "amount": 79.99
-        },
-        {
           "name": "Business Plan",
           "price": "$79.99",
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-26T08:27:02.189Z"
+      "fetchedAt": "2026-10-26T10:16:54.707Z"
     },
     "uy": {
       "currency": "USD",
       "items": [
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "USD 19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Pro Plan",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "25 Credits (Mobile Pro)",
           "price": "USD 9.99",
           "amount": 9.99
@@ -7440,6 +7430,16 @@
           "name": "100 Credits (Mobile Pro)",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Pro Plan",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -7462,20 +7462,25 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:15.472Z"
+      "fetchedAt": "2026-10-26T10:16:56.238Z"
     },
     "uz": {
       "currency": "USD",
       "items": [
         {
-          "name": "100 Credits (Mobile Pro)",
-          "price": "USD 39.99",
-          "amount": 39.99
+          "name": "25 Credits (Mobile Pro)",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "50 Credits (Mobile Pro)",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "100 Credits (Mobile Pro)",
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "Pro Plan",
@@ -7486,11 +7491,6 @@
           "name": "50 Credits (Mobile Business)",
           "price": "USD 39.99",
           "amount": 39.99
-        },
-        {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "USD 9.99",
-          "amount": 9.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -7508,7 +7508,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:16.877Z"
+      "fetchedAt": "2026-10-26T10:16:57.826Z"
     },
     "vc": {
       "currency": "USD",
@@ -7554,7 +7554,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:18.447Z"
+      "fetchedAt": "2026-10-26T10:16:59.210Z"
     },
     "ve": {
       "currency": "USD",
@@ -7600,7 +7600,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:19.875Z"
+      "fetchedAt": "2026-10-26T10:17:00.713Z"
     },
     "vg": {
       "currency": "USD",
@@ -7646,20 +7646,25 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:21.423Z"
+      "fetchedAt": "2026-10-26T10:17:02.235Z"
     },
     "vn": {
       "currency": "VND",
       "items": [
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "299.000đ",
+          "amount": 299000
+        },
         {
           "name": "Pro Plan",
           "price": "1.199.000đ",
           "amount": 1199000
         },
         {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "299.000đ",
-          "amount": 299000
+          "name": "100 Credits (Mobile Business)",
+          "price": "2.499.000đ",
+          "amount": 2499000
         },
         {
           "name": "100 Credits (Mobile Pro)",
@@ -7682,17 +7687,12 @@
           "amount": 599000
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "2.499.000đ",
-          "amount": 2499000
-        },
-        {
           "name": "Business Plan",
           "price": "2.499.000đ",
           "amount": 2499000
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:22.882Z"
+      "fetchedAt": "2026-10-26T10:17:03.829Z"
     },
     "vu": {
       "currency": "USD",
@@ -7738,16 +7738,11 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:24.391Z"
+      "fetchedAt": "2026-10-26T10:17:05.240Z"
     },
     "xk": {
       "currency": "EUR",
       "items": [
-        {
-          "name": "25 Credits (Mobile Pro)",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
         {
           "name": "50 Credits (Mobile Pro)",
           "price": "22,99 €",
@@ -7757,6 +7752,11 @@
           "name": "Pro Plan",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "25 Credits (Mobile Pro)",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "25 Credits (Mobile Business)",
@@ -7784,11 +7784,16 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:25.888Z"
+      "fetchedAt": "2026-10-26T10:17:06.819Z"
     },
     "ye": {
       "currency": "USD",
       "items": [
+        {
+          "name": "50 Credits (Mobile Pro)",
+          "price": "$19.99",
+          "amount": 19.99
+        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "$9.99",
@@ -7820,17 +7825,12 @@
           "amount": 79.99
         },
         {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Business Plan",
           "price": "$79.99",
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:27.417Z"
+      "fetchedAt": "2026-10-26T10:17:08.272Z"
     },
     "za": {
       "currency": "ZAR",
@@ -7861,14 +7861,14 @@
           "amount": 399.99
         },
         {
-          "name": "100 Credits (Mobile Business)",
-          "price": "R1,499.99",
-          "amount": 1499.99
-        },
-        {
           "name": "50 Credits (Mobile Business)",
           "price": "R799.99",
           "amount": 799.99
+        },
+        {
+          "name": "100 Credits (Mobile Business)",
+          "price": "R1,499.99",
+          "amount": 1499.99
         },
         {
           "name": "Business Plan",
@@ -7876,7 +7876,7 @@
           "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:28.920Z"
+      "fetchedAt": "2026-10-26T10:17:09.885Z"
     },
     "zm": {
       "currency": "USD",
@@ -7922,7 +7922,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:30.364Z"
+      "fetchedAt": "2026-10-26T10:17:11.250Z"
     },
     "zw": {
       "currency": "USD",
@@ -7968,7 +7968,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:17:31.841Z"
+      "fetchedAt": "2026-10-26T10:17:12.720Z"
     }
   }
 }

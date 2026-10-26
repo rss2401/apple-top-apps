@@ -2,20 +2,20 @@
   "id": "6757432427",
   "name": "Base44: Build with AI",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:27.958Z",
+  "fetchedAt": "2026-10-26T09:03:48.813Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "AED 199.99",
-          "amount": 199.99
-        },
-        {
           "name": "Starter plan",
           "price": "AED 79.99",
           "amount": 79.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "AED 199.99",
+          "amount": 199.99
         },
         {
           "name": "Pro plan",
@@ -38,7 +38,7 @@
           "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:47.607Z"
+      "fetchedAt": "2026-10-26T08:59:27.688Z"
     },
     "af": {
       "currency": "USD",
@@ -74,7 +74,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:49.239Z"
+      "fetchedAt": "2026-10-26T08:59:29.333Z"
     },
     "ag": {
       "currency": "USD",
@@ -110,7 +110,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:50.709Z"
+      "fetchedAt": "2026-10-26T08:59:30.692Z"
     },
     "ai": {
       "currency": "USD",
@@ -146,7 +146,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:52.183Z"
+      "fetchedAt": "2026-10-26T08:59:32.199Z"
     },
     "al": {
       "currency": "USD",
@@ -182,7 +182,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:53.654Z"
+      "fetchedAt": "2026-10-26T08:59:33.690Z"
     },
     "am": {
       "currency": "USD",
@@ -218,7 +218,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:55.132Z"
+      "fetchedAt": "2026-10-26T08:59:35.230Z"
     },
     "ao": {
       "currency": "USD",
@@ -254,20 +254,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:56.674Z"
+      "fetchedAt": "2026-10-26T08:59:36.837Z"
     },
     "ar": {
       "currency": "USD",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "USD 49.99",
-          "amount": 49.99
-        },
-        {
           "name": "Starter plan",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "USD 49.99",
+          "amount": 49.99
         },
         {
           "name": "Pro plan",
@@ -290,7 +290,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:58.145Z"
+      "fetchedAt": "2026-10-26T08:59:38.205Z"
     },
     "at": {
       "currency": "EUR",
@@ -326,20 +326,20 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:59:59.692Z"
+      "fetchedAt": "2026-10-26T08:59:39.750Z"
     },
     "au": {
       "currency": "AUD",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Builder plan",
           "price": "$79.99",
           "amount": 79.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "$29.99",
+          "amount": 29.99
         },
         {
           "name": "Pro plan",
@@ -347,14 +347,14 @@
           "amount": 149.99
         },
         {
-          "name": "Starter plan",
-          "price": "$299.99",
-          "amount": 299.99
-        },
-        {
           "name": "Builder plan",
           "price": "$799.99",
           "amount": 799.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "$299.99",
+          "amount": 299.99
         },
         {
           "name": "Pro plan",
@@ -362,7 +362,7 @@
           "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:01.136Z"
+      "fetchedAt": "2026-10-26T08:59:41.191Z"
     },
     "az": {
       "currency": "USD",
@@ -398,7 +398,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:02.654Z"
+      "fetchedAt": "2026-10-26T08:59:42.748Z"
     },
     "ba": {
       "currency": "EUR",
@@ -434,7 +434,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:04.193Z"
+      "fetchedAt": "2026-10-26T08:59:44.259Z"
     },
     "bb": {
       "currency": "USD",
@@ -470,7 +470,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:05.641Z"
+      "fetchedAt": "2026-10-26T08:59:45.750Z"
     },
     "be": {
       "currency": "EUR",
@@ -506,7 +506,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:07.177Z"
+      "fetchedAt": "2026-10-26T08:59:47.219Z"
     },
     "bf": {
       "currency": "USD",
@@ -542,7 +542,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:08.632Z"
+      "fetchedAt": "2026-10-26T08:59:48.706Z"
     },
     "bg": {
       "currency": "EUR",
@@ -553,14 +553,14 @@
           "amount": 22.99
         },
         {
-          "name": "Pro plan",
-          "price": "99,99 €",
-          "amount": 99.99
-        },
-        {
           "name": "Builder plan",
           "price": "59,99 €",
           "amount": 59.99
+        },
+        {
+          "name": "Pro plan",
+          "price": "99,99 €",
+          "amount": 99.99
         },
         {
           "name": "Pro plan",
@@ -578,20 +578,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:10.182Z"
+      "fetchedAt": "2026-10-26T08:59:50.250Z"
     },
     "bh": {
       "currency": "USD",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Builder plan",
           "price": "$49.99",
           "amount": 49.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Pro plan",
@@ -614,7 +614,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:11.653Z"
+      "fetchedAt": "2026-10-26T08:59:51.722Z"
     },
     "bj": {
       "currency": "USD",
@@ -650,7 +650,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:13.198Z"
+      "fetchedAt": "2026-10-26T08:59:53.224Z"
     },
     "bm": {
       "currency": "USD",
@@ -686,7 +686,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:14.780Z"
+      "fetchedAt": "2026-10-26T08:59:54.717Z"
     },
     "bn": {
       "currency": "USD",
@@ -722,7 +722,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:16.128Z"
+      "fetchedAt": "2026-10-26T08:59:56.210Z"
     },
     "bo": {
       "currency": "USD",
@@ -758,7 +758,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:17.558Z"
+      "fetchedAt": "2026-10-26T08:59:57.743Z"
     },
     "br": {
       "currency": "BRL",
@@ -794,7 +794,7 @@
           "amount": 2999.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:19.083Z"
+      "fetchedAt": "2026-10-26T08:59:59.206Z"
     },
     "bs": {
       "currency": "USD",
@@ -830,7 +830,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:20.646Z"
+      "fetchedAt": "2026-10-26T09:00:00.696Z"
     },
     "bt": {
       "currency": "USD",
@@ -866,7 +866,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:22.188Z"
+      "fetchedAt": "2026-10-26T09:00:02.179Z"
     },
     "bw": {
       "currency": "USD",
@@ -902,7 +902,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:23.720Z"
+      "fetchedAt": "2026-10-26T09:00:03.665Z"
     },
     "by": {
       "currency": "USD",
@@ -938,7 +938,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:25.321Z"
+      "fetchedAt": "2026-10-26T09:00:05.243Z"
     },
     "bz": {
       "currency": "USD",
@@ -974,7 +974,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:26.667Z"
+      "fetchedAt": "2026-10-26T09:00:06.748Z"
     },
     "ca": {
       "currency": "CAD",
@@ -995,14 +995,14 @@
           "amount": 129.99
         },
         {
-          "name": "Starter plan",
-          "price": "$249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Builder plan",
           "price": "$599.99",
           "amount": 599.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "$249.99",
+          "amount": 249.99
         },
         {
           "name": "Pro plan",
@@ -1010,7 +1010,7 @@
           "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:28.080Z"
+      "fetchedAt": "2026-10-26T09:00:08.239Z"
     },
     "cd": {
       "currency": "USD",
@@ -1046,7 +1046,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:29.728Z"
+      "fetchedAt": "2026-10-26T09:00:09.696Z"
     },
     "cg": {
       "currency": "USD",
@@ -1082,7 +1082,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:31.182Z"
+      "fetchedAt": "2026-10-26T09:00:11.237Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1118,7 +1118,7 @@
           "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:32.750Z"
+      "fetchedAt": "2026-10-26T09:00:12.755Z"
     },
     "ci": {
       "currency": "USD",
@@ -1154,7 +1154,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:34.216Z"
+      "fetchedAt": "2026-10-26T09:00:14.226Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1165,14 +1165,14 @@
           "amount": 22990
         },
         {
-          "name": "Pro plan",
-          "price": "$99.990",
-          "amount": 99990
-        },
-        {
           "name": "Builder plan",
           "price": "$59.990",
           "amount": 59990
+        },
+        {
+          "name": "Pro plan",
+          "price": "$99.990",
+          "amount": 99990
         },
         {
           "name": "Pro plan",
@@ -1190,7 +1190,7 @@
           "amount": 199990
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:35.672Z"
+      "fetchedAt": "2026-10-26T09:00:15.844Z"
     },
     "cm": {
       "currency": "USD",
@@ -1226,7 +1226,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:37.150Z"
+      "fetchedAt": "2026-10-26T09:00:17.343Z"
     },
     "cn": {
       "currency": "CNY",
@@ -1262,20 +1262,20 @@
           "amount": 1298
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:26.369Z"
+      "fetchedAt": "2026-10-26T09:00:18.663Z"
     },
     "co": {
       "currency": "COP",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "$ 99.900,00",
-          "amount": 99900
-        },
-        {
           "name": "Builder plan",
           "price": "$ 229.900,00",
           "amount": 229900
+        },
+        {
+          "name": "Starter plan",
+          "price": "$ 99.900,00",
+          "amount": 99900
         },
         {
           "name": "Pro plan",
@@ -1298,15 +1298,15 @@
           "amount": 899900
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:40.161Z"
+      "fetchedAt": "2026-10-26T09:00:20.223Z"
     },
     "cr": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pro plan",
-          "price": "USD 959.99",
-          "amount": 959.99
+          "name": "Starter plan",
+          "price": "USD 19.99",
+          "amount": 19.99
         },
         {
           "name": "Pro plan",
@@ -1315,26 +1315,26 @@
         },
         {
           "name": "Builder plan",
-          "price": "USD 479.99",
-          "amount": 479.99
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Pro plan",
+          "price": "USD 959.99",
+          "amount": 959.99
         },
         {
           "name": "Builder plan",
-          "price": "USD 49.99",
-          "amount": 49.99
+          "price": "USD 479.99",
+          "amount": 479.99
         },
         {
           "name": "Starter plan",
           "price": "USD 191.99",
           "amount": 191.99
-        },
-        {
-          "name": "Starter plan",
-          "price": "USD 19.99",
-          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:41.651Z"
+      "fetchedAt": "2026-10-26T09:00:21.697Z"
     },
     "cv": {
       "currency": "USD",
@@ -1370,7 +1370,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:43.163Z"
+      "fetchedAt": "2026-10-26T09:00:23.268Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1381,14 +1381,14 @@
           "amount": 59.99
         },
         {
-          "name": "Starter plan",
-          "price": "22,99 €",
-          "amount": 22.99
-        },
-        {
           "name": "Pro plan",
           "price": "99,99 €",
           "amount": 99.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "Pro plan",
@@ -1406,7 +1406,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:44.737Z"
+      "fetchedAt": "2026-10-26T09:00:24.795Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1442,7 +1442,7 @@
           "amount": 4990
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:46.181Z"
+      "fetchedAt": "2026-10-26T09:00:26.239Z"
     },
     "de": {
       "currency": "EUR",
@@ -1463,14 +1463,14 @@
           "amount": 99.99
         },
         {
-          "name": "Builder plan",
-          "price": "499,99 €",
-          "amount": 499.99
-        },
-        {
           "name": "Pro plan",
           "price": "999,99 €",
           "amount": 999.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "499,99 €",
+          "amount": 499.99
         },
         {
           "name": "Starter plan",
@@ -1478,7 +1478,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:47.660Z"
+      "fetchedAt": "2026-10-26T09:00:27.697Z"
     },
     "dk": {
       "currency": "DKK",
@@ -1514,7 +1514,7 @@
           "amount": 1799
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:49.172Z"
+      "fetchedAt": "2026-10-26T09:00:29.185Z"
     },
     "dm": {
       "currency": "USD",
@@ -1550,7 +1550,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:50.689Z"
+      "fetchedAt": "2026-10-26T09:00:30.747Z"
     },
     "do": {
       "currency": "USD",
@@ -1561,14 +1561,14 @@
           "amount": 19.99
         },
         {
-          "name": "Builder plan",
-          "price": "USD 49.99",
-          "amount": 49.99
-        },
-        {
           "name": "Pro plan",
           "price": "USD 99.99",
           "amount": 99.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "USD 49.99",
+          "amount": 49.99
         },
         {
           "name": "Pro plan",
@@ -1586,7 +1586,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:52.153Z"
+      "fetchedAt": "2026-10-26T09:00:32.474Z"
     },
     "dz": {
       "currency": "USD",
@@ -1622,7 +1622,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:53.676Z"
+      "fetchedAt": "2026-10-26T09:00:33.738Z"
     },
     "ec": {
       "currency": "USD",
@@ -1658,7 +1658,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:55.171Z"
+      "fetchedAt": "2026-10-26T09:00:35.252Z"
     },
     "ee": {
       "currency": "EUR",
@@ -1694,7 +1694,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:56.777Z"
+      "fetchedAt": "2026-10-26T09:00:36.722Z"
     },
     "eg": {
       "currency": "EGP",
@@ -1705,14 +1705,14 @@
           "amount": 2499.99
         },
         {
-          "name": "Pro plan",
-          "price": "EGP 4,999.99",
-          "amount": 4999.99
-        },
-        {
           "name": "Starter plan",
           "price": "EGP 999.99",
           "amount": 999.99
+        },
+        {
+          "name": "Pro plan",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
         },
         {
           "name": "Pro plan",
@@ -1730,7 +1730,7 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:58.205Z"
+      "fetchedAt": "2026-10-26T09:00:38.251Z"
     },
     "es": {
       "currency": "EUR",
@@ -1766,20 +1766,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:00:59.631Z"
+      "fetchedAt": "2026-10-26T09:00:39.766Z"
     },
     "fi": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "22,99 €",
-          "amount": 22.99
-        },
-        {
           "name": "Builder plan",
           "price": "59,99 €",
           "amount": 59.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "Pro plan",
@@ -1802,7 +1802,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:01.190Z"
+      "fetchedAt": "2026-10-26T09:00:41.289Z"
     },
     "fj": {
       "currency": "USD",
@@ -1838,7 +1838,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:02.670Z"
+      "fetchedAt": "2026-10-26T09:00:42.756Z"
     },
     "fm": {
       "currency": "USD",
@@ -1874,7 +1874,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:04.205Z"
+      "fetchedAt": "2026-10-26T09:00:44.219Z"
     },
     "fr": {
       "currency": "EUR",
@@ -1910,7 +1910,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:05.665Z"
+      "fetchedAt": "2026-10-26T09:00:45.788Z"
     },
     "ga": {
       "currency": "USD",
@@ -1946,7 +1946,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:07.196Z"
+      "fetchedAt": "2026-10-26T09:00:47.258Z"
     },
     "gb": {
       "currency": "GBP",
@@ -1967,6 +1967,11 @@
           "amount": 99.99
         },
         {
+          "name": "Pro plan",
+          "price": "£999.99",
+          "amount": 999.99
+        },
+        {
           "name": "Starter plan",
           "price": "£199.99",
           "amount": 199.99
@@ -1975,14 +1980,9 @@
           "name": "Builder plan",
           "price": "£499.99",
           "amount": 499.99
-        },
-        {
-          "name": "Pro plan",
-          "price": "£999.99",
-          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:08.675Z"
+      "fetchedAt": "2026-10-26T09:00:48.768Z"
     },
     "gd": {
       "currency": "USD",
@@ -2018,7 +2018,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:10.195Z"
+      "fetchedAt": "2026-10-26T09:00:50.213Z"
     },
     "ge": {
       "currency": "USD",
@@ -2054,20 +2054,20 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:11.634Z"
+      "fetchedAt": "2026-10-26T09:00:51.841Z"
     },
     "gh": {
       "currency": "USD",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "USD 22.99",
-          "amount": 22.99
-        },
-        {
           "name": "Builder plan",
           "price": "USD 59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "USD 22.99",
+          "amount": 22.99
         },
         {
           "name": "Pro plan",
@@ -2090,7 +2090,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:13.174Z"
+      "fetchedAt": "2026-10-26T09:00:53.198Z"
     },
     "gm": {
       "currency": "USD",
@@ -2126,20 +2126,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:14.687Z"
+      "fetchedAt": "2026-10-26T09:00:54.710Z"
     },
     "gr": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "59,99 €",
-          "amount": 59.99
-        },
-        {
           "name": "Starter plan",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "59,99 €",
+          "amount": 59.99
         },
         {
           "name": "Pro plan",
@@ -2162,7 +2162,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:16.119Z"
+      "fetchedAt": "2026-10-26T09:00:56.275Z"
     },
     "gt": {
       "currency": "USD",
@@ -2198,7 +2198,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:17.652Z"
+      "fetchedAt": "2026-10-26T09:00:57.734Z"
     },
     "gw": {
       "currency": "USD",
@@ -2234,7 +2234,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:19.139Z"
+      "fetchedAt": "2026-10-26T09:00:59.270Z"
     },
     "gy": {
       "currency": "USD",
@@ -2270,20 +2270,20 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:20.645Z"
+      "fetchedAt": "2026-10-26T09:01:00.664Z"
     },
     "hk": {
       "currency": "HKD",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "HK$ 388.00",
-          "amount": 388
-        },
-        {
           "name": "Starter plan",
           "price": "HK$ 148.00",
           "amount": 148
+        },
+        {
+          "name": "Builder plan",
+          "price": "HK$ 388.00",
+          "amount": 388
         },
         {
           "name": "Pro plan",
@@ -2306,7 +2306,7 @@
           "amount": 7888
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:22.184Z"
+      "fetchedAt": "2026-10-26T09:01:02.282Z"
     },
     "hn": {
       "currency": "USD",
@@ -2342,7 +2342,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:23.694Z"
+      "fetchedAt": "2026-10-26T09:01:03.808Z"
     },
     "hr": {
       "currency": "EUR",
@@ -2378,20 +2378,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:25.194Z"
+      "fetchedAt": "2026-10-26T09:01:05.203Z"
     },
     "hu": {
       "currency": "HUF",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "HUF22,990.00",
-          "amount": 22990
-        },
-        {
           "name": "Starter plan",
           "price": "HUF8,990.00",
           "amount": 8990
+        },
+        {
+          "name": "Builder plan",
+          "price": "HUF22,990.00",
+          "amount": 22990
         },
         {
           "name": "Pro plan",
@@ -2414,7 +2414,7 @@
           "amount": 89990
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:26.663Z"
+      "fetchedAt": "2026-10-26T09:01:06.697Z"
     },
     "id": {
       "currency": "IDR",
@@ -2450,7 +2450,7 @@
           "amount": 2999
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:28.154Z"
+      "fetchedAt": "2026-10-26T09:01:08.242Z"
     },
     "ie": {
       "currency": "EUR",
@@ -2486,7 +2486,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:29.606Z"
+      "fetchedAt": "2026-10-26T09:01:09.782Z"
     },
     "il": {
       "currency": "ILS",
@@ -2522,20 +2522,20 @@
           "amount": 3499.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:31.298Z"
+      "fetchedAt": "2026-10-26T09:01:11.219Z"
     },
     "in": {
       "currency": "INR",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "₹ 4,999",
-          "amount": 4999
-        },
-        {
           "name": "Starter plan",
           "price": "₹ 1,999",
           "amount": 1999
+        },
+        {
+          "name": "Builder plan",
+          "price": "₹ 4,999",
+          "amount": 4999
         },
         {
           "name": "Pro plan",
@@ -2558,7 +2558,7 @@
           "amount": 19900
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:32.654Z"
+      "fetchedAt": "2026-10-26T09:01:12.836Z"
     },
     "iq": {
       "currency": "USD",
@@ -2594,7 +2594,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:34.160Z"
+      "fetchedAt": "2026-10-26T09:01:14.200Z"
     },
     "is": {
       "currency": "USD",
@@ -2630,7 +2630,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:35.791Z"
+      "fetchedAt": "2026-10-26T09:01:15.712Z"
     },
     "it": {
       "currency": "EUR",
@@ -2666,7 +2666,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:37.192Z"
+      "fetchedAt": "2026-10-26T09:01:17.377Z"
     },
     "jm": {
       "currency": "USD",
@@ -2702,7 +2702,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:38.665Z"
+      "fetchedAt": "2026-10-26T09:01:18.737Z"
     },
     "jo": {
       "currency": "USD",
@@ -2738,7 +2738,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:40.213Z"
+      "fetchedAt": "2026-10-26T09:01:20.239Z"
     },
     "jp": {
       "currency": "JPY",
@@ -2774,7 +2774,7 @@
           "amount": 150000
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:41.635Z"
+      "fetchedAt": "2026-10-26T09:01:21.735Z"
     },
     "ke": {
       "currency": "USD",
@@ -2810,7 +2810,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:43.159Z"
+      "fetchedAt": "2026-10-26T09:01:23.240Z"
     },
     "kg": {
       "currency": "USD",
@@ -2846,7 +2846,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:44.868Z"
+      "fetchedAt": "2026-10-26T09:01:24.697Z"
     },
     "kh": {
       "currency": "USD",
@@ -2882,7 +2882,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:46.166Z"
+      "fetchedAt": "2026-10-26T09:01:26.238Z"
     },
     "kn": {
       "currency": "USD",
@@ -2918,7 +2918,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:47.665Z"
+      "fetchedAt": "2026-10-26T09:01:27.731Z"
     },
     "kr": {
       "currency": "KRW",
@@ -2954,7 +2954,7 @@
           "amount": 249000
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:49.179Z"
+      "fetchedAt": "2026-10-26T09:01:29.276Z"
     },
     "kw": {
       "currency": "USD",
@@ -2990,7 +2990,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:50.667Z"
+      "fetchedAt": "2026-10-26T09:01:30.707Z"
     },
     "ky": {
       "currency": "USD",
@@ -3026,7 +3026,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:52.189Z"
+      "fetchedAt": "2026-10-26T09:01:32.241Z"
     },
     "kz": {
       "currency": "KZT",
@@ -3062,7 +3062,7 @@
           "amount": 11990
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:53.770Z"
+      "fetchedAt": "2026-10-26T09:01:33.683Z"
     },
     "la": {
       "currency": "USD",
@@ -3098,7 +3098,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:55.212Z"
+      "fetchedAt": "2026-10-26T09:01:35.286Z"
     },
     "lb": {
       "currency": "USD",
@@ -3134,7 +3134,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:56.824Z"
+      "fetchedAt": "2026-10-26T09:01:36.842Z"
     },
     "lc": {
       "currency": "USD",
@@ -3170,7 +3170,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:58.189Z"
+      "fetchedAt": "2026-10-26T09:01:38.253Z"
     },
     "lk": {
       "currency": "USD",
@@ -3206,7 +3206,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:01:59.625Z"
+      "fetchedAt": "2026-10-26T09:01:39.938Z"
     },
     "lr": {
       "currency": "USD",
@@ -3242,7 +3242,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:01.188Z"
+      "fetchedAt": "2026-10-26T09:01:41.212Z"
     },
     "lt": {
       "currency": "EUR",
@@ -3278,11 +3278,16 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:02.632Z"
+      "fetchedAt": "2026-10-26T09:01:42.749Z"
     },
     "lu": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "Starter plan",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
         {
           "name": "Pro plan",
           "price": "999,99 €",
@@ -3307,14 +3312,9 @@
           "name": "Starter plan",
           "price": "199,99 €",
           "amount": 199.99
-        },
-        {
-          "name": "Starter plan",
-          "price": "22,99 €",
-          "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:04.327Z"
+      "fetchedAt": "2026-10-26T09:01:44.193Z"
     },
     "lv": {
       "currency": "EUR",
@@ -3350,7 +3350,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:05.702Z"
+      "fetchedAt": "2026-10-26T09:01:45.726Z"
     },
     "ly": {
       "currency": "USD",
@@ -3386,11 +3386,16 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:07.153Z"
+      "fetchedAt": "2026-10-26T09:01:47.320Z"
     },
     "ma": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Pro plan",
+          "price": "$99.99",
+          "amount": 99.99
+        },
         {
           "name": "Starter plan",
           "price": "$19.99",
@@ -3400,11 +3405,6 @@
           "name": "Pro plan",
           "price": "$959.99",
           "amount": 959.99
-        },
-        {
-          "name": "Pro plan",
-          "price": "$99.99",
-          "amount": 99.99
         },
         {
           "name": "Builder plan",
@@ -3422,7 +3422,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:08.730Z"
+      "fetchedAt": "2026-10-26T09:01:48.720Z"
     },
     "md": {
       "currency": "USD",
@@ -3458,7 +3458,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:10.180Z"
+      "fetchedAt": "2026-10-26T09:01:50.203Z"
     },
     "me": {
       "currency": "EUR",
@@ -3494,7 +3494,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:11.660Z"
+      "fetchedAt": "2026-10-26T09:01:51.697Z"
     },
     "mg": {
       "currency": "USD",
@@ -3530,7 +3530,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:13.184Z"
+      "fetchedAt": "2026-10-26T09:01:53.317Z"
     },
     "mk": {
       "currency": "USD",
@@ -3566,7 +3566,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:14.686Z"
+      "fetchedAt": "2026-10-26T09:01:54.714Z"
     },
     "ml": {
       "currency": "USD",
@@ -3602,7 +3602,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:16.180Z"
+      "fetchedAt": "2026-10-26T09:01:56.235Z"
     },
     "mm": {
       "currency": "USD",
@@ -3638,7 +3638,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:17.697Z"
+      "fetchedAt": "2026-10-26T09:01:57.770Z"
     },
     "mn": {
       "currency": "USD",
@@ -3674,7 +3674,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:19.136Z"
+      "fetchedAt": "2026-10-26T09:01:59.175Z"
     },
     "mo": {
       "currency": "USD",
@@ -3710,7 +3710,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:20.702Z"
+      "fetchedAt": "2026-10-26T09:02:00.754Z"
     },
     "mr": {
       "currency": "USD",
@@ -3746,7 +3746,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:22.250Z"
+      "fetchedAt": "2026-10-26T09:02:02.268Z"
     },
     "ms": {
       "currency": "USD",
@@ -3782,7 +3782,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:23.719Z"
+      "fetchedAt": "2026-10-26T09:02:03.903Z"
     },
     "mt": {
       "currency": "EUR",
@@ -3818,7 +3818,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:25.185Z"
+      "fetchedAt": "2026-10-26T09:02:05.218Z"
     },
     "mu": {
       "currency": "USD",
@@ -3854,7 +3854,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:26.622Z"
+      "fetchedAt": "2026-10-26T09:02:06.731Z"
     },
     "mv": {
       "currency": "USD",
@@ -3890,7 +3890,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:28.136Z"
+      "fetchedAt": "2026-10-26T09:02:08.246Z"
     },
     "mw": {
       "currency": "USD",
@@ -3926,7 +3926,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:29.679Z"
+      "fetchedAt": "2026-10-26T09:02:09.817Z"
     },
     "mx": {
       "currency": "MXN",
@@ -3962,20 +3962,20 @@
           "amount": 9999
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:31.124Z"
+      "fetchedAt": "2026-10-26T09:02:11.208Z"
     },
     "my": {
       "currency": "MYR",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "RM99.90",
-          "amount": 99.9
-        },
-        {
           "name": "Builder plan",
           "price": "RM229.90",
           "amount": 229.9
+        },
+        {
+          "name": "Starter plan",
+          "price": "RM99.90",
+          "amount": 99.9
         },
         {
           "name": "Pro plan",
@@ -3998,7 +3998,7 @@
           "amount": 899.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:32.647Z"
+      "fetchedAt": "2026-10-26T09:02:12.735Z"
     },
     "mz": {
       "currency": "USD",
@@ -4034,7 +4034,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:34.162Z"
+      "fetchedAt": "2026-10-26T09:02:14.244Z"
     },
     "na": {
       "currency": "USD",
@@ -4070,7 +4070,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:35.680Z"
+      "fetchedAt": "2026-10-26T09:02:15.753Z"
     },
     "ne": {
       "currency": "USD",
@@ -4106,7 +4106,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:37.179Z"
+      "fetchedAt": "2026-10-26T09:02:17.238Z"
     },
     "ng": {
       "currency": "NGN",
@@ -4142,7 +4142,7 @@
           "amount": 299900
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:38.762Z"
+      "fetchedAt": "2026-10-26T09:02:18.750Z"
     },
     "ni": {
       "currency": "USD",
@@ -4178,20 +4178,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:40.185Z"
+      "fetchedAt": "2026-10-26T09:02:20.238Z"
     },
     "nl": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "€ 22,99",
-          "amount": 22.99
-        },
-        {
           "name": "Builder plan",
           "price": "€ 59,99",
           "amount": 59.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "€ 22,99",
+          "amount": 22.99
         },
         {
           "name": "Pro plan",
@@ -4214,20 +4214,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:42.155Z"
+      "fetchedAt": "2026-10-26T09:02:21.696Z"
     },
     "no": {
       "currency": "NOK",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "599,00 kr",
-          "amount": 599
-        },
-        {
           "name": "Starter plan",
           "price": "249,00 kr",
           "amount": 249
+        },
+        {
+          "name": "Builder plan",
+          "price": "599,00 kr",
+          "amount": 599
         },
         {
           "name": "Pro plan",
@@ -4250,7 +4250,7 @@
           "amount": 2490
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:43.197Z"
+      "fetchedAt": "2026-10-26T09:02:23.216Z"
     },
     "np": {
       "currency": "USD",
@@ -4286,7 +4286,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:44.703Z"
+      "fetchedAt": "2026-10-26T09:02:24.755Z"
     },
     "nr": {
       "currency": "USD",
@@ -4322,7 +4322,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:46.168Z"
+      "fetchedAt": "2026-10-26T09:02:26.237Z"
     },
     "nz": {
       "currency": "NZD",
@@ -4358,20 +4358,20 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:47.706Z"
+      "fetchedAt": "2026-10-26T09:02:27.823Z"
     },
     "om": {
       "currency": "USD",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Builder plan",
           "price": "$49.99",
           "amount": 49.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Pro plan",
@@ -4394,7 +4394,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:49.593Z"
+      "fetchedAt": "2026-10-26T09:02:29.423Z"
     },
     "pa": {
       "currency": "USD",
@@ -4430,7 +4430,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:50.647Z"
+      "fetchedAt": "2026-10-26T09:02:30.710Z"
     },
     "pe": {
       "currency": "PEN",
@@ -4466,7 +4466,7 @@
           "amount": 899.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:52.130Z"
+      "fetchedAt": "2026-10-26T09:02:32.816Z"
     },
     "pg": {
       "currency": "USD",
@@ -4502,7 +4502,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:53.649Z"
+      "fetchedAt": "2026-10-26T09:02:33.778Z"
     },
     "ph": {
       "currency": "PHP",
@@ -4538,7 +4538,7 @@
           "amount": 11990
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:55.174Z"
+      "fetchedAt": "2026-10-26T09:02:35.275Z"
     },
     "pk": {
       "currency": "PKR",
@@ -4574,16 +4574,11 @@
           "amount": 49900
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:56.656Z"
+      "fetchedAt": "2026-10-26T09:02:36.722Z"
     },
     "pl": {
       "currency": "PLN",
       "items": [
-        {
-          "name": "Builder plan",
-          "price": "229,99 zł",
-          "amount": 229.99
-        },
         {
           "name": "Starter plan",
           "price": "99,99 zł",
@@ -4591,13 +4586,18 @@
         },
         {
           "name": "Pro plan",
-          "price": "3 999,99 zł",
-          "amount": 3999.99
+          "price": "499,99 zł",
+          "amount": 499.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "229,99 zł",
+          "amount": 229.99
         },
         {
           "name": "Pro plan",
-          "price": "499,99 zł",
-          "amount": 499.99
+          "price": "3 999,99 zł",
+          "amount": 3999.99
         },
         {
           "name": "Builder plan",
@@ -4610,7 +4610,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:58.163Z"
+      "fetchedAt": "2026-10-26T09:02:38.277Z"
     },
     "pt": {
       "currency": "EUR",
@@ -4646,7 +4646,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:02:59.676Z"
+      "fetchedAt": "2026-10-26T09:02:39.813Z"
     },
     "pw": {
       "currency": "USD",
@@ -4682,20 +4682,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:01.143Z"
+      "fetchedAt": "2026-10-26T09:02:41.285Z"
     },
     "py": {
       "currency": "USD",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "USD 49.99",
-          "amount": 49.99
-        },
-        {
           "name": "Starter plan",
           "price": "USD 19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "USD 49.99",
+          "amount": 49.99
         },
         {
           "name": "Pro plan",
@@ -4718,7 +4718,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:02.671Z"
+      "fetchedAt": "2026-10-26T09:02:42.745Z"
     },
     "qa": {
       "currency": "QAR",
@@ -4754,15 +4754,15 @@
           "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:04.182Z"
+      "fetchedAt": "2026-10-26T09:02:44.249Z"
     },
     "ro": {
       "currency": "RON",
       "items": [
         {
-          "name": "Pro plan",
-          "price": "499,99 lei",
-          "amount": 499.99
+          "name": "Builder plan",
+          "price": "299,99 lei",
+          "amount": 299.99
         },
         {
           "name": "Starter plan",
@@ -4770,9 +4770,9 @@
           "amount": 99.99
         },
         {
-          "name": "Builder plan",
-          "price": "299,99 lei",
-          "amount": 299.99
+          "name": "Pro plan",
+          "price": "499,99 lei",
+          "amount": 499.99
         },
         {
           "name": "Pro plan",
@@ -4790,7 +4790,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:05.855Z"
+      "fetchedAt": "2026-10-26T09:02:45.837Z"
     },
     "rs": {
       "currency": "EUR",
@@ -4826,7 +4826,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:07.327Z"
+      "fetchedAt": "2026-10-26T09:02:47.252Z"
     },
     "ru": {
       "currency": "RUB",
@@ -4862,7 +4862,7 @@
           "amount": 1790
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:08.645Z"
+      "fetchedAt": "2026-10-26T09:02:48.741Z"
     },
     "rw": {
       "currency": "USD",
@@ -4898,7 +4898,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:10.185Z"
+      "fetchedAt": "2026-10-26T09:02:50.487Z"
     },
     "sa": {
       "currency": "SAR",
@@ -4909,14 +4909,14 @@
           "amount": 89.99
         },
         {
+          "name": "Starter plan",
+          "price": "SAR 799.99",
+          "amount": 799.99
+        },
+        {
           "name": "Builder plan",
           "price": "SAR 199.99",
           "amount": 199.99
-        },
-        {
-          "name": "Pro plan",
-          "price": "SAR 399.99",
-          "amount": 399.99
         },
         {
           "name": "Builder plan",
@@ -4925,16 +4925,16 @@
         },
         {
           "name": "Pro plan",
-          "price": "SAR 3,999.99",
-          "amount": 3999.99
+          "price": "SAR 399.99",
+          "amount": 399.99
         },
         {
-          "name": "Starter plan",
-          "price": "SAR 799.99",
-          "amount": 799.99
+          "name": "Pro plan",
+          "price": "SAR 3,999.99",
+          "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:11.683Z"
+      "fetchedAt": "2026-10-26T09:02:51.759Z"
     },
     "sb": {
       "currency": "USD",
@@ -4970,7 +4970,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:13.182Z"
+      "fetchedAt": "2026-10-26T09:02:53.275Z"
     },
     "sc": {
       "currency": "USD",
@@ -5006,7 +5006,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:14.689Z"
+      "fetchedAt": "2026-10-26T09:02:54.756Z"
     },
     "se": {
       "currency": "SEK",
@@ -5017,14 +5017,14 @@
           "amount": 249
         },
         {
-          "name": "Pro plan",
-          "price": "1 295,00 kr",
-          "amount": 1295
-        },
-        {
           "name": "Builder plan",
           "price": "599,00 kr",
           "amount": 599
+        },
+        {
+          "name": "Pro plan",
+          "price": "1 295,00 kr",
+          "amount": 1295
         },
         {
           "name": "Builder plan",
@@ -5042,7 +5042,7 @@
           "amount": 2495
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:16.175Z"
+      "fetchedAt": "2026-10-26T09:02:56.234Z"
     },
     "sg": {
       "currency": "SGD",
@@ -5078,7 +5078,7 @@
           "amount": 699.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:17.629Z"
+      "fetchedAt": "2026-10-26T09:02:57.791Z"
     },
     "si": {
       "currency": "EUR",
@@ -5114,7 +5114,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:19.178Z"
+      "fetchedAt": "2026-10-26T09:02:59.257Z"
     },
     "sk": {
       "currency": "EUR",
@@ -5150,7 +5150,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:20.672Z"
+      "fetchedAt": "2026-10-26T09:03:00.842Z"
     },
     "sl": {
       "currency": "USD",
@@ -5186,7 +5186,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:22.192Z"
+      "fetchedAt": "2026-10-26T09:03:02.290Z"
     },
     "sn": {
       "currency": "USD",
@@ -5222,7 +5222,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:23.661Z"
+      "fetchedAt": "2026-10-26T09:03:03.806Z"
     },
     "sr": {
       "currency": "USD",
@@ -5258,7 +5258,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:25.138Z"
+      "fetchedAt": "2026-10-26T09:03:05.231Z"
     },
     "st": {
       "currency": "USD",
@@ -5294,7 +5294,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:26.710Z"
+      "fetchedAt": "2026-10-26T09:03:06.757Z"
     },
     "sv": {
       "currency": "USD",
@@ -5330,7 +5330,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:28.178Z"
+      "fetchedAt": "2026-10-26T09:03:08.241Z"
     },
     "sz": {
       "currency": "USD",
@@ -5366,7 +5366,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:29.657Z"
+      "fetchedAt": "2026-10-26T09:03:09.727Z"
     },
     "tc": {
       "currency": "USD",
@@ -5402,7 +5402,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:31.165Z"
+      "fetchedAt": "2026-10-26T09:03:11.249Z"
     },
     "td": {
       "currency": "USD",
@@ -5438,20 +5438,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:32.654Z"
+      "fetchedAt": "2026-10-26T09:03:12.777Z"
     },
     "th": {
       "currency": "THB",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "฿699.00",
-          "amount": 699
-        },
-        {
           "name": "Builder plan",
           "price": "฿1,990.00",
           "amount": 1990
+        },
+        {
+          "name": "Starter plan",
+          "price": "฿699.00",
+          "amount": 699
         },
         {
           "name": "Pro plan",
@@ -5474,7 +5474,7 @@
           "amount": 6990
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:34.195Z"
+      "fetchedAt": "2026-10-26T09:03:14.275Z"
     },
     "tj": {
       "currency": "USD",
@@ -5510,7 +5510,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:35.714Z"
+      "fetchedAt": "2026-10-26T09:03:15.759Z"
     },
     "tm": {
       "currency": "USD",
@@ -5546,7 +5546,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:37.154Z"
+      "fetchedAt": "2026-10-26T09:03:17.281Z"
     },
     "tn": {
       "currency": "USD",
@@ -5582,7 +5582,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:38.740Z"
+      "fetchedAt": "2026-10-26T09:03:18.791Z"
     },
     "to": {
       "currency": "USD",
@@ -5618,25 +5618,15 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:40.423Z"
+      "fetchedAt": "2026-10-26T09:03:20.249Z"
     },
     "tr": {
       "currency": "TRY",
       "items": [
         {
-          "name": "Pro plan",
-          "price": "₺49.999,99",
-          "amount": 49999.99
-        },
-        {
-          "name": "Pro plan",
-          "price": "₺4.999,99",
-          "amount": 4999.99
-        },
-        {
-          "name": "Builder plan",
-          "price": "₺24.999,99",
-          "amount": 24999.99
+          "name": "Starter plan",
+          "price": "₺999,99",
+          "amount": 999.99
         },
         {
           "name": "Builder plan",
@@ -5644,17 +5634,27 @@
           "amount": 2499.99
         },
         {
-          "name": "Starter plan",
-          "price": "₺9.999,99",
-          "amount": 9999.99
+          "name": "Pro plan",
+          "price": "₺4.999,99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Pro plan",
+          "price": "₺49.999,99",
+          "amount": 49999.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "₺24.999,99",
+          "amount": 24999.99
         },
         {
           "name": "Starter plan",
-          "price": "₺999,99",
-          "amount": 999.99
+          "price": "₺9.999,99",
+          "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:41.649Z"
+      "fetchedAt": "2026-10-26T09:03:21.753Z"
     },
     "tt": {
       "currency": "USD",
@@ -5690,11 +5690,16 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:43.202Z"
+      "fetchedAt": "2026-10-26T09:03:23.230Z"
     },
     "tw": {
       "currency": "TWD",
       "items": [
+        {
+          "name": "Pro plan",
+          "price": "$2,990.00",
+          "amount": 2990
+        },
         {
           "name": "Builder plan",
           "price": "$1,490.00",
@@ -5704,11 +5709,6 @@
           "name": "Starter plan",
           "price": "$690.00",
           "amount": 690
-        },
-        {
-          "name": "Pro plan",
-          "price": "$2,990.00",
-          "amount": 2990
         },
         {
           "name": "Pro plan",
@@ -5726,7 +5726,7 @@
           "amount": 5990
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:44.684Z"
+      "fetchedAt": "2026-10-26T09:03:24.743Z"
     },
     "tz": {
       "currency": "TZS",
@@ -5762,20 +5762,20 @@
           "amount": 59900
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:46.228Z"
+      "fetchedAt": "2026-10-26T09:03:26.299Z"
     },
     "ua": {
       "currency": "USD",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "59,99 USD",
-          "amount": 59.99
-        },
-        {
           "name": "Starter plan",
           "price": "22,99 USD",
           "amount": 22.99
+        },
+        {
+          "name": "Builder plan",
+          "price": "59,99 USD",
+          "amount": 59.99
         },
         {
           "name": "Pro plan",
@@ -5798,7 +5798,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:47.713Z"
+      "fetchedAt": "2026-10-26T09:03:27.741Z"
     },
     "ug": {
       "currency": "USD",
@@ -5834,7 +5834,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:49.491Z"
+      "fetchedAt": "2026-10-26T09:03:29.240Z"
     },
     "us": {
       "currency": "USD",
@@ -5870,7 +5870,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:27.951Z"
+      "fetchedAt": "2026-10-26T09:03:30.759Z"
     },
     "uy": {
       "currency": "USD",
@@ -5906,7 +5906,7 @@
           "amount": 191.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:52.426Z"
+      "fetchedAt": "2026-10-26T09:03:32.268Z"
     },
     "uz": {
       "currency": "USD",
@@ -5942,7 +5942,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:53.647Z"
+      "fetchedAt": "2026-10-26T09:03:33.751Z"
     },
     "vc": {
       "currency": "USD",
@@ -5978,7 +5978,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:55.340Z"
+      "fetchedAt": "2026-10-26T09:03:35.284Z"
     },
     "ve": {
       "currency": "USD",
@@ -6014,7 +6014,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:56.674Z"
+      "fetchedAt": "2026-10-26T09:03:36.760Z"
     },
     "vg": {
       "currency": "USD",
@@ -6050,20 +6050,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:58.156Z"
+      "fetchedAt": "2026-10-26T09:03:38.262Z"
     },
     "vn": {
       "currency": "VND",
       "items": [
         {
-          "name": "Builder plan",
-          "price": "1.499.000đ",
-          "amount": 1499000
-        },
-        {
           "name": "Starter plan",
           "price": "599.000đ",
           "amount": 599000
+        },
+        {
+          "name": "Builder plan",
+          "price": "1.499.000đ",
+          "amount": 1499000
         },
         {
           "name": "Pro plan",
@@ -6086,7 +6086,7 @@
           "amount": 5999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:03:59.641Z"
+      "fetchedAt": "2026-10-26T09:03:39.732Z"
     },
     "vu": {
       "currency": "USD",
@@ -6122,7 +6122,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:01.207Z"
+      "fetchedAt": "2026-10-26T09:03:41.281Z"
     },
     "xk": {
       "currency": "EUR",
@@ -6158,7 +6158,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:02.670Z"
+      "fetchedAt": "2026-10-26T09:03:42.763Z"
     },
     "ye": {
       "currency": "USD",
@@ -6194,20 +6194,20 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:04.150Z"
+      "fetchedAt": "2026-10-26T09:03:44.265Z"
     },
     "za": {
       "currency": "ZAR",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "R399.99",
-          "amount": 399.99
-        },
-        {
           "name": "Builder plan",
           "price": "R999.99",
           "amount": 999.99
+        },
+        {
+          "name": "Starter plan",
+          "price": "R399.99",
+          "amount": 399.99
         },
         {
           "name": "Pro plan",
@@ -6230,7 +6230,7 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:05.657Z"
+      "fetchedAt": "2026-10-26T09:03:45.744Z"
     },
     "zm": {
       "currency": "USD",
@@ -6266,7 +6266,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:07.284Z"
+      "fetchedAt": "2026-10-26T09:03:47.275Z"
     },
     "zw": {
       "currency": "USD",
@@ -6302,7 +6302,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:04:08.643Z"
+      "fetchedAt": "2026-10-26T09:03:48.813Z"
     }
   }
 }

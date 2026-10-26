@@ -2,7 +2,7 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:11:24.729Z",
+  "fetchedAt": "2026-10-26T09:16:34.390Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -28,11 +28,6 @@
           "amount": 799.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "AED 799.99",
-          "amount": 799.99
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "AED 79.99",
           "amount": 79.99
@@ -41,9 +36,29 @@
           "name": "Usage Credits (50)",
           "price": "AED 179.99",
           "amount": 179.99
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "AED 799.99",
+          "amount": 799.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "AED 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "AED 349.99",
+          "amount": 349.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "AED 2,499.99",
+          "amount": 2499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:46.636Z"
+      "fetchedAt": "2026-10-26T09:12:26.765Z"
     },
     "af": {
       "available": false,
@@ -58,9 +73,9 @@
           "amount": 20
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
         },
         {
           "name": "Claude Max 20x - Monthly",
@@ -68,9 +83,24 @@
           "amount": 249.99
         },
         {
-          "name": "Claude Max 5x - Monthly",
-          "price": "USD 124.99",
-          "amount": 124.99
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -88,7 +118,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:48.048Z"
+      "fetchedAt": "2026-10-26T09:12:28.168Z"
     },
     "ai": {
       "currency": "USD",
@@ -99,6 +129,21 @@
           "amount": 20
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -129,7 +174,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:49.602Z"
+      "fetchedAt": "2026-10-26T09:12:29.606Z"
     },
     "al": {
       "currency": "USD",
@@ -155,6 +200,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -170,7 +230,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:50.887Z"
+      "fetchedAt": "2026-10-26T09:12:31.006Z"
     },
     "am": {
       "currency": "USD",
@@ -196,6 +256,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -211,7 +286,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:53.016Z"
+      "fetchedAt": "2026-10-26T09:12:32.628Z"
     },
     "ao": {
       "currency": "USD",
@@ -237,6 +312,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -252,7 +342,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:54.081Z"
+      "fetchedAt": "2026-10-26T09:12:34.055Z"
     },
     "ar": {
       "currency": "USD",
@@ -278,22 +368,37 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
           "name": "Usage Credits (20)",
           "price": "USD 20.00",
           "amount": 20
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "Usage Credits (50)",
-          "price": "USD 45.00",
-          "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:55.720Z"
+      "fetchedAt": "2026-10-26T09:12:35.852Z"
     },
     "at": {
       "currency": "EUR",
@@ -319,14 +424,29 @@
           "amount": 299.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "Usage Credits (50)",
           "price": "49,00 €",
           "amount": 49
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Usage Credits (20)",
@@ -334,7 +454,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:57.493Z"
+      "fetchedAt": "2026-10-26T09:12:37.490Z"
     },
     "au": {
       "currency": "AUD",
@@ -373,9 +493,24 @@
           "name": "Usage Credits (250)",
           "price": "$300.00",
           "amount": 300
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$600.00",
+          "amount": 600
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$150.00",
+          "amount": 150
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$1,000.00",
+          "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:58.820Z"
+      "fetchedAt": "2026-10-26T09:12:38.791Z"
     },
     "az": {
       "currency": "USD",
@@ -391,14 +526,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 299.99",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -416,7 +566,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:12:59.887Z"
+      "fetchedAt": "2026-10-26T09:12:40.085Z"
     },
     "ba": {
       "currency": "EUR",
@@ -432,14 +582,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "249,99 €",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "299,99 €",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -457,7 +622,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:01.362Z"
+      "fetchedAt": "2026-10-26T09:12:41.749Z"
     },
     "bb": {
       "currency": "USD",
@@ -468,14 +633,29 @@
           "amount": 25
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 149.99",
           "amount": 149.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -498,7 +678,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:03.135Z"
+      "fetchedAt": "2026-10-26T09:12:43.327Z"
     },
     "be": {
       "currency": "EUR",
@@ -529,6 +709,21 @@
           "amount": 22
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -539,7 +734,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:04.934Z"
+      "fetchedAt": "2026-10-26T09:12:44.993Z"
     },
     "bf": {
       "currency": "USD",
@@ -565,6 +760,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -580,7 +790,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:06.175Z"
+      "fetchedAt": "2026-10-26T09:12:46.074Z"
     },
     "bg": {
       "currency": "EUR",
@@ -596,19 +806,34 @@
           "amount": 149.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "249,99 €",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 20x - Monthly",
           "price": "299,99 €",
           "amount": 299.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "49,00 €",
           "amount": 49
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -621,7 +846,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:07.368Z"
+      "fetchedAt": "2026-10-26T09:12:48.629Z"
     },
     "bh": {
       "currency": "USD",
@@ -647,6 +872,21 @@
           "amount": 229.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -662,7 +902,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:09.111Z"
+      "fetchedAt": "2026-10-26T09:12:49.415Z"
     },
     "bj": {
       "currency": "USD",
@@ -671,6 +911,11 @@
           "name": "Claude Pro - Monthly",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
         },
         {
           "name": "Claude Max 5x - Monthly",
@@ -683,9 +928,19 @@
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 299.99",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -703,7 +958,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:10.627Z"
+      "fetchedAt": "2026-10-26T09:12:51.613Z"
     },
     "bm": {
       "currency": "USD",
@@ -714,19 +969,34 @@
           "amount": 20
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (50)",
@@ -744,7 +1014,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:12.039Z"
+      "fetchedAt": "2026-10-26T09:12:52.319Z"
     },
     "bn": {
       "currency": "USD",
@@ -765,6 +1035,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -785,7 +1070,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:13.674Z"
+      "fetchedAt": "2026-10-26T09:12:53.996Z"
     },
     "bo": {
       "currency": "USD",
@@ -811,6 +1096,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -826,7 +1126,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:15.207Z"
+      "fetchedAt": "2026-10-26T09:12:55.614Z"
     },
     "br": {
       "currency": "BRL",
@@ -852,11 +1152,6 @@
           "amount": 1299.9
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "R$ 1.299,90",
-          "amount": 1299.9
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "R$ 129,90",
           "amount": 129.9
@@ -865,9 +1160,29 @@
           "name": "Usage Credits (50)",
           "price": "R$ 299,90",
           "amount": 299.9
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "R$ 2.299,90",
+          "amount": 2299.9
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "R$ 4.999,90",
+          "amount": 4999.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:16.363Z"
+      "fetchedAt": "2026-10-26T09:12:56.663Z"
     },
     "bs": {
       "currency": "USD",
@@ -893,6 +1208,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -908,7 +1238,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:18.115Z"
+      "fetchedAt": "2026-10-26T09:12:58.384Z"
     },
     "bt": {
       "currency": "USD",
@@ -934,6 +1264,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -949,7 +1294,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:19.612Z"
+      "fetchedAt": "2026-10-26T09:12:59.876Z"
     },
     "bw": {
       "currency": "USD",
@@ -965,14 +1310,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -990,7 +1350,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:21.024Z"
+      "fetchedAt": "2026-10-26T09:13:01.349Z"
     },
     "by": {
       "available": false,
@@ -1020,6 +1380,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -1035,7 +1410,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:22.752Z"
+      "fetchedAt": "2026-10-26T09:13:03.111Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1074,9 +1449,24 @@
           "name": "Usage Credits (250)",
           "price": "$249.00",
           "amount": 249
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$500.00",
+          "amount": 500
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$119.00",
+          "amount": 119
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$1,000.00",
+          "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:24.278Z"
+      "fetchedAt": "2026-10-26T09:13:04.596Z"
     },
     "cd": {
       "currency": "USD",
@@ -1087,14 +1477,14 @@
           "amount": 20
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
         },
         {
           "name": "Claude Max 20x - Monthly",
@@ -1102,7 +1492,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:25.564Z"
+      "fetchedAt": "2026-10-26T09:13:05.860Z"
     },
     "cg": {
       "currency": "USD",
@@ -1128,6 +1518,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -1143,7 +1548,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:27.049Z"
+      "fetchedAt": "2026-10-26T09:13:07.394Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1174,6 +1579,21 @@
           "amount": 40
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "CHF 300.00",
+          "amount": 300
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "CHF 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "CHF 600.00",
+          "amount": 600
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "CHF 180.00",
           "amount": 180
@@ -1184,7 +1604,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:28.872Z"
+      "fetchedAt": "2026-10-26T09:13:09.157Z"
     },
     "ci": {
       "currency": "USD",
@@ -1210,6 +1630,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 $US",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 $US",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 $US",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "250,00 $US",
           "amount": 250
@@ -1225,7 +1660,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:30.113Z"
+      "fetchedAt": "2026-10-26T09:13:10.378Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1261,12 +1696,27 @@
           "amount": 49990
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$399.990",
+          "amount": 399990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$99.990",
+          "amount": 99990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$799.990",
+          "amount": 799990
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$229.990",
           "amount": 229990
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:31.748Z"
+      "fetchedAt": "2026-10-26T09:13:12.085Z"
     },
     "cm": {
       "currency": "USD",
@@ -1282,14 +1732,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 $US",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "299,99 $US",
           "amount": 299.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "249,99 $US",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "400,00 $US",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 $US",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 $US",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -1307,7 +1772,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:33.139Z"
+      "fetchedAt": "2026-10-26T09:13:13.756Z"
     },
     "cn": {
       "available": false,
@@ -1347,12 +1812,27 @@
           "amount": 99900
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$ 1.499.900,00",
+          "amount": 1499900
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$ 399.900,00",
+          "amount": 399900
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$ 2.999.900,00",
+          "amount": 2999900
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$ 999.900,00",
           "amount": 999900
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:34.792Z"
+      "fetchedAt": "2026-10-26T09:13:15.012Z"
     },
     "cr": {
       "currency": "USD",
@@ -1378,14 +1858,29 @@
           "amount": 249.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Usage Credits (50)",
           "price": "USD 45.00",
           "amount": 45
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Usage Credits (20)",
@@ -1393,7 +1888,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:36.291Z"
+      "fetchedAt": "2026-10-26T09:13:16.482Z"
     },
     "cv": {
       "currency": "USD",
@@ -1407,6 +1902,21 @@
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -1434,7 +1944,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:37.545Z"
+      "fetchedAt": "2026-10-26T09:13:17.859Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1460,6 +1970,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -1475,7 +2000,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:38.900Z"
+      "fetchedAt": "2026-10-26T09:13:19.204Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1506,6 +2031,21 @@
           "amount": 499
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "9 990,00 Kč",
+          "amount": 9990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "2 490,00 Kč",
+          "amount": 2490
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "19 990,00 Kč",
+          "amount": 19990
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "4 990,00 Kč",
           "amount": 4990
@@ -1516,7 +2056,7 @@
           "amount": 1190
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:40.386Z"
+      "fetchedAt": "2026-10-26T09:13:20.655Z"
     },
     "de": {
       "currency": "EUR",
@@ -1572,7 +2112,7 @@
           "amount": 800
         }
       ],
-      "fetchedAt": "2026-10-26T08:11:19.491Z"
+      "fetchedAt": "2026-10-26T09:13:22.778Z"
     },
     "dk": {
       "currency": "DKK",
@@ -1598,6 +2138,21 @@
           "amount": 1999
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "2.999,00 kr",
+          "amount": 2999
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "799,00 kr",
+          "amount": 799
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "5.999,00 kr",
+          "amount": 5999
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "1.799,00 kr",
           "amount": 1799
@@ -1613,7 +2168,7 @@
           "amount": 179
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:43.923Z"
+      "fetchedAt": "2026-10-26T09:13:24.408Z"
     },
     "dm": {
       "currency": "USD",
@@ -1622,6 +2177,21 @@
           "name": "Claude Pro - Monthly",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -1654,7 +2224,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:45.099Z"
+      "fetchedAt": "2026-10-26T09:13:25.316Z"
     },
     "do": {
       "currency": "USD",
@@ -1670,14 +2240,34 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (20)",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -1688,14 +2278,9 @@
           "name": "Usage Credits (50)",
           "price": "USD 45.00",
           "amount": 45
-        },
-        {
-          "name": "Usage Credits (20)",
-          "price": "USD 20.00",
-          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:46.755Z"
+      "fetchedAt": "2026-10-26T09:13:27.140Z"
     },
     "dz": {
       "currency": "USD",
@@ -1711,14 +2296,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "$249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "$214.99",
-          "amount": 214.99
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -1736,7 +2336,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:48.105Z"
+      "fetchedAt": "2026-10-26T09:13:28.387Z"
     },
     "ec": {
       "currency": "USD",
@@ -1762,6 +2362,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -1777,7 +2392,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:49.723Z"
+      "fetchedAt": "2026-10-26T09:13:30.068Z"
     },
     "ee": {
       "currency": "EUR",
@@ -1803,6 +2418,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -1818,7 +2448,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:50.834Z"
+      "fetchedAt": "2026-10-26T09:13:31.201Z"
     },
     "eg": {
       "currency": "EGP",
@@ -1844,6 +2474,21 @@
           "amount": 9999.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "EGP 19,999.99",
+          "amount": 19999.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "EGP 39,999.99",
+          "amount": 39999.99
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "EGP 9,999.99",
           "amount": 9999.99
@@ -1859,7 +2504,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:52.591Z"
+      "fetchedAt": "2026-10-26T09:13:32.880Z"
     },
     "es": {
       "currency": "EUR",
@@ -1890,6 +2535,21 @@
           "amount": 49
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -1900,7 +2560,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:54.422Z"
+      "fetchedAt": "2026-10-26T09:13:34.725Z"
     },
     "fi": {
       "currency": "EUR",
@@ -1931,6 +2591,21 @@
           "amount": 22
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -1941,7 +2616,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:55.912Z"
+      "fetchedAt": "2026-10-26T09:13:36.230Z"
     },
     "fj": {
       "currency": "USD",
@@ -1952,19 +2627,34 @@
           "amount": 20
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -1982,11 +2672,26 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:57.136Z"
+      "fetchedAt": "2026-10-26T09:13:37.379Z"
     },
     "fm": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
         {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
@@ -2023,7 +2728,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:13:58.592Z"
+      "fetchedAt": "2026-10-26T09:13:38.878Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2079,7 +2784,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-26T08:11:21.087Z"
+      "fetchedAt": "2026-10-26T09:13:40.748Z"
     },
     "ga": {
       "currency": "USD",
@@ -2105,6 +2810,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -2120,7 +2840,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:01.699Z"
+      "fetchedAt": "2026-10-26T09:13:41.921Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2176,7 +2896,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-26T08:11:22.416Z"
+      "fetchedAt": "2026-10-26T09:13:43.713Z"
     },
     "gd": {
       "currency": "USD",
@@ -2187,19 +2907,34 @@
           "amount": 20
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 249.99",
           "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -2217,7 +2952,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:04.511Z"
+      "fetchedAt": "2026-10-26T09:13:44.896Z"
     },
     "ge": {
       "currency": "USD",
@@ -2253,12 +2988,27 @@
           "amount": 25
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:05.901Z"
+      "fetchedAt": "2026-10-26T09:13:46.181Z"
     },
     "gh": {
       "currency": "USD",
@@ -2284,6 +3034,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -2299,7 +3064,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:07.595Z"
+      "fetchedAt": "2026-10-26T09:13:48.030Z"
     },
     "gm": {
       "currency": "USD",
@@ -2320,6 +3085,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -2340,7 +3120,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:09.102Z"
+      "fetchedAt": "2026-10-26T09:13:49.375Z"
     },
     "gr": {
       "currency": "EUR",
@@ -2356,19 +3136,34 @@
           "amount": 149.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "249,99 €",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 20x - Monthly",
           "price": "299,99 €",
           "amount": 299.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
           "name": "Usage Credits (20)",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -2381,7 +3176,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:10.363Z"
+      "fetchedAt": "2026-10-26T09:13:50.675Z"
     },
     "gt": {
       "currency": "USD",
@@ -2397,14 +3192,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -2422,7 +3232,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:12.227Z"
+      "fetchedAt": "2026-10-26T09:13:52.613Z"
     },
     "gw": {
       "currency": "USD",
@@ -2438,6 +3248,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -2463,7 +3288,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:13.616Z"
+      "fetchedAt": "2026-10-26T09:13:53.880Z"
     },
     "gy": {
       "currency": "USD",
@@ -2479,14 +3304,29 @@
           "amount": 214.99
         },
         {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 5x - Monthly",
-          "price": "USD 124.99",
-          "amount": 124.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -2504,7 +3344,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:15.174Z"
+      "fetchedAt": "2026-10-26T09:13:55.355Z"
     },
     "hk": {
       "available": false,
@@ -2534,14 +3374,29 @@
           "amount": 249.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Usage Credits (50)",
           "price": "USD 45.00",
           "amount": 45
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Usage Credits (20)",
@@ -2549,7 +3404,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:16.748Z"
+      "fetchedAt": "2026-10-26T09:13:57.039Z"
     },
     "hr": {
       "currency": "EUR",
@@ -2565,14 +3420,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "299,99 €",
           "amount": 299.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "249,99 €",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -2590,7 +3460,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:17.884Z"
+      "fetchedAt": "2026-10-26T09:13:58.214Z"
     },
     "hu": {
       "currency": "HUF",
@@ -2616,6 +3486,21 @@
           "amount": 99990
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "HUF149,990.00",
+          "amount": 149990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "HUF39,990.00",
+          "amount": 39990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "HUF299,990.00",
+          "amount": 299990
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "HUF89,990.00",
           "amount": 89990
@@ -2631,7 +3516,7 @@
           "amount": 8990
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:19.574Z"
+      "fetchedAt": "2026-10-26T09:13:59.669Z"
     },
     "id": {
       "currency": "IDR",
@@ -2657,6 +3542,21 @@
           "amount": 3999
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "Rp 6,999juta",
+          "amount": 6999
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "Rp 1,799juta",
+          "amount": 1799
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "Rp 12,999juta",
+          "amount": 12999
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "Rp 3,999juta",
           "amount": 3999
@@ -2672,7 +3572,7 @@
           "amount": 399
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:21.254Z"
+      "fetchedAt": "2026-10-26T09:14:01.611Z"
     },
     "ie": {
       "currency": "EUR",
@@ -2708,12 +3608,27 @@
           "amount": 22
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "€400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "€100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "€800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "€229.00",
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:22.918Z"
+      "fetchedAt": "2026-10-26T09:14:03.266Z"
     },
     "il": {
       "currency": "ILS",
@@ -2749,12 +3664,27 @@
           "amount": 59.9
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "₪999.90",
+          "amount": 999.9
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "₪299.90",
+          "amount": 299.9
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "₪1,999.90",
+          "amount": 1999.9
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "₪599.90",
           "amount": 599.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:24.470Z"
+      "fetchedAt": "2026-10-26T09:14:04.941Z"
     },
     "in": {
       "currency": "INR",
@@ -2780,22 +3710,37 @@
           "amount": 24900
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "₹ 4,999",
-          "amount": 4999
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "₹ 1,999",
           "amount": 1999
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "₹ 4,999",
+          "amount": 4999
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "₹ 19,900",
           "amount": 19900
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "₹ 34,900",
+          "amount": 34900
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "₹ 9,900",
+          "amount": 9900
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "₹ 69,900",
+          "amount": 69900
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:26.029Z"
+      "fetchedAt": "2026-10-26T09:14:06.258Z"
     },
     "iq": {
       "currency": "USD",
@@ -2821,6 +3766,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -2836,7 +3796,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:27.071Z"
+      "fetchedAt": "2026-10-26T09:14:07.292Z"
     },
     "is": {
       "currency": "USD",
@@ -2862,6 +3822,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -2877,7 +3852,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:28.910Z"
+      "fetchedAt": "2026-10-26T09:14:09.140Z"
     },
     "it": {
       "currency": "EUR",
@@ -2913,12 +3888,27 @@
           "amount": 49
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:30.301Z"
+      "fetchedAt": "2026-10-26T09:14:10.656Z"
     },
     "jm": {
       "currency": "USD",
@@ -2944,6 +3934,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -2959,7 +3964,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:31.531Z"
+      "fetchedAt": "2026-10-26T09:14:12.076Z"
     },
     "jo": {
       "currency": "USD",
@@ -2985,6 +3990,26 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (20)",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -2993,14 +4018,9 @@
           "name": "Usage Credits (50)",
           "price": "$45.00",
           "amount": 45
-        },
-        {
-          "name": "Usage Credits (20)",
-          "price": "$20.00",
-          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:33.071Z"
+      "fetchedAt": "2026-10-26T09:14:13.364Z"
     },
     "jp": {
       "currency": "JPY",
@@ -3026,7 +4046,7 @@
           "amount": 40000
         }
       ],
-      "fetchedAt": "2026-10-26T08:11:23.389Z"
+      "fetchedAt": "2026-10-26T09:14:14.661Z"
     },
     "ke": {
       "currency": "USD",
@@ -3052,6 +4072,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -3067,7 +4102,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:36.065Z"
+      "fetchedAt": "2026-10-26T09:14:16.379Z"
     },
     "kg": {
       "currency": "USD",
@@ -3093,6 +4128,21 @@
           "amount": 229.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -3108,7 +4158,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:37.538Z"
+      "fetchedAt": "2026-10-26T09:14:17.747Z"
     },
     "kh": {
       "currency": "USD",
@@ -3124,14 +4174,29 @@
           "amount": 129.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 299.99",
           "amount": 299.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 229.99",
-          "amount": 229.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -3149,7 +4214,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:39.211Z"
+      "fetchedAt": "2026-10-26T09:14:19.506Z"
     },
     "kn": {
       "currency": "USD",
@@ -3168,6 +4233,21 @@
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3190,7 +4270,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:40.574Z"
+      "fetchedAt": "2026-10-26T09:14:20.867Z"
     },
     "kr": {
       "currency": "KRW",
@@ -3221,17 +4301,32 @@
           "amount": 33000
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "￦77,000",
+          "amount": 77000
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "￦349,000",
           "amount": 349000
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "￦77,000",
-          "amount": 77000
+          "name": "Usage Credits (500)",
+          "price": "￦599,000",
+          "amount": 599000
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "￦149,000",
+          "amount": 149000
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "￦999,000",
+          "amount": 999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:41.833Z"
+      "fetchedAt": "2026-10-26T09:14:22.150Z"
     },
     "kw": {
       "currency": "USD",
@@ -3257,6 +4352,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -3272,7 +4382,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:43.683Z"
+      "fetchedAt": "2026-10-26T09:14:24.015Z"
     },
     "ky": {
       "currency": "USD",
@@ -3286,6 +4396,21 @@
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3313,7 +4438,7 @@
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:45.084Z"
+      "fetchedAt": "2026-10-26T09:14:25.391Z"
     },
     "kz": {
       "currency": "KZT",
@@ -3339,6 +4464,11 @@
           "amount": 129990
         },
         {
+          "name": "Usage Credits (20)",
+          "price": "11,990.00₸",
+          "amount": 11990
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "24,990.00₸",
           "amount": 24990
@@ -3349,12 +4479,22 @@
           "amount": 119990
         },
         {
-          "name": "Usage Credits (20)",
-          "price": "11,990.00₸",
-          "amount": 11990
+          "name": "Usage Credits (500)",
+          "price": "199,990.00₸",
+          "amount": 199990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "49,990.00₸",
+          "amount": 49990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "399,990.00₸",
+          "amount": 399990
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:46.406Z"
+      "fetchedAt": "2026-10-26T09:14:26.699Z"
     },
     "la": {
       "currency": "USD",
@@ -3370,14 +4510,29 @@
           "amount": 129.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 229.99",
           "amount": 229.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 299.99",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -3395,7 +4550,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:48.255Z"
+      "fetchedAt": "2026-10-26T09:14:28.486Z"
     },
     "lb": {
       "currency": "USD",
@@ -3421,6 +4576,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -3436,7 +4606,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:49.544Z"
+      "fetchedAt": "2026-10-26T09:14:29.886Z"
     },
     "lc": {
       "currency": "USD",
@@ -3447,9 +4617,29 @@
           "amount": 20
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3467,17 +4657,12 @@
           "amount": 20
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:51.234Z"
+      "fetchedAt": "2026-10-26T09:14:31.384Z"
     },
     "lk": {
       "currency": "USD",
@@ -3493,14 +4678,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3518,7 +4718,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:52.712Z"
+      "fetchedAt": "2026-10-26T09:14:33.002Z"
     },
     "lr": {
       "currency": "USD",
@@ -3544,6 +4744,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -3559,7 +4774,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:54.056Z"
+      "fetchedAt": "2026-10-26T09:14:34.368Z"
     },
     "lt": {
       "currency": "EUR",
@@ -3585,6 +4800,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -3600,7 +4830,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:55.379Z"
+      "fetchedAt": "2026-10-26T09:14:35.683Z"
     },
     "lu": {
       "currency": "EUR",
@@ -3626,6 +4856,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -3641,7 +4886,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:57.479Z"
+      "fetchedAt": "2026-10-26T09:14:37.717Z"
     },
     "lv": {
       "currency": "EUR",
@@ -3667,6 +4912,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -3682,7 +4942,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:14:58.398Z"
+      "fetchedAt": "2026-10-26T09:14:38.690Z"
     },
     "ly": {
       "currency": "USD",
@@ -3708,6 +4968,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -3723,7 +4998,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:00.083Z"
+      "fetchedAt": "2026-10-26T09:14:40.413Z"
     },
     "ma": {
       "currency": "USD",
@@ -3749,6 +5024,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$250.00",
           "amount": 250
@@ -3764,7 +5054,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:01.591Z"
+      "fetchedAt": "2026-10-26T09:14:41.936Z"
     },
     "md": {
       "currency": "USD",
@@ -3790,6 +5080,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -3805,7 +5110,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:03.209Z"
+      "fetchedAt": "2026-10-26T09:14:43.171Z"
     },
     "me": {
       "currency": "EUR",
@@ -3831,6 +5136,21 @@
           "amount": 229.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "300,00 €",
+          "amount": 300
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "80,00 €",
+          "amount": 80
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "700,00 €",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "200,00 €",
           "amount": 200
@@ -3846,7 +5166,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:04.748Z"
+      "fetchedAt": "2026-10-26T09:14:44.672Z"
     },
     "mg": {
       "currency": "USD",
@@ -3862,14 +5182,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3887,7 +5222,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:06.148Z"
+      "fetchedAt": "2026-10-26T09:14:46.391Z"
     },
     "mk": {
       "currency": "USD",
@@ -3913,6 +5248,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -3928,7 +5278,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:07.428Z"
+      "fetchedAt": "2026-10-26T09:14:47.741Z"
     },
     "ml": {
       "currency": "USD",
@@ -3939,19 +5289,34 @@
           "amount": 20
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -3969,7 +5334,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:09.064Z"
+      "fetchedAt": "2026-10-26T09:14:49.330Z"
     },
     "mm": {
       "available": false,
@@ -3999,6 +5364,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -4014,7 +5394,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:10.600Z"
+      "fetchedAt": "2026-10-26T09:14:50.900Z"
     },
     "mo": {
       "available": false,
@@ -4044,6 +5424,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -4059,11 +5454,26 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:12.118Z"
+      "fetchedAt": "2026-10-26T09:14:52.554Z"
     },
     "ms": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
         {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
@@ -4100,7 +5510,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:13.578Z"
+      "fetchedAt": "2026-10-26T09:14:53.886Z"
     },
     "mt": {
       "currency": "EUR",
@@ -4116,14 +5526,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "249,99 €",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "299,99 €",
           "amount": 299.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "249,99 €",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -4141,7 +5566,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:14.930Z"
+      "fetchedAt": "2026-10-26T09:14:55.221Z"
     },
     "mu": {
       "currency": "USD",
@@ -4157,14 +5582,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 299.99",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -4182,7 +5622,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:16.593Z"
+      "fetchedAt": "2026-10-26T09:14:56.850Z"
     },
     "mv": {
       "currency": "USD",
@@ -4208,6 +5648,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -4223,7 +5678,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:18.230Z"
+      "fetchedAt": "2026-10-26T09:14:58.515Z"
     },
     "mw": {
       "currency": "USD",
@@ -4237,6 +5692,21 @@
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -4264,7 +5734,7 @@
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:19.554Z"
+      "fetchedAt": "2026-10-26T09:14:59.888Z"
     },
     "mx": {
       "currency": "MXN",
@@ -4290,22 +5760,37 @@
           "amount": 4999
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "$999.00",
-          "amount": 999
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "$399.00",
           "amount": 399
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "$999.00",
+          "amount": 999
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$3,999.00",
           "amount": 3999
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$7,999.00",
+          "amount": 7999
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$1,999.00",
+          "amount": 1999
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$14,999.00",
+          "amount": 14999
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:21.394Z"
+      "fetchedAt": "2026-10-26T09:15:01.741Z"
     },
     "my": {
       "currency": "MYR",
@@ -4314,6 +5799,11 @@
           "name": "Claude Pro - Monthly",
           "price": "RM99.90",
           "amount": 99.9
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "RM1,199.90",
+          "amount": 1199.9
         },
         {
           "name": "Claude Max 5x - Monthly",
@@ -4326,14 +5816,24 @@
           "amount": 999.9
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "RM1,199.90",
-          "amount": 1199.9
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "RM99.90",
           "amount": 99.9
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "RM1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "RM399.90",
+          "amount": 399.9
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "RM2,999.90",
+          "amount": 2999.9
         },
         {
           "name": "Usage Credits (250)",
@@ -4346,7 +5846,7 @@
           "amount": 199.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:22.695Z"
+      "fetchedAt": "2026-10-26T09:15:03.017Z"
     },
     "mz": {
       "currency": "USD",
@@ -4372,6 +5872,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -4387,7 +5902,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:24.114Z"
+      "fetchedAt": "2026-10-26T09:15:04.382Z"
     },
     "na": {
       "currency": "USD",
@@ -4413,6 +5928,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -4428,7 +5958,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:25.702Z"
+      "fetchedAt": "2026-10-26T09:15:06.116Z"
     },
     "ne": {
       "currency": "USD",
@@ -4454,6 +5984,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -4469,7 +6014,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:27.085Z"
+      "fetchedAt": "2026-10-26T09:15:07.384Z"
     },
     "ng": {
       "currency": "NGN",
@@ -4495,6 +6040,21 @@
           "amount": 349900
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "₦ 599,900.00",
+          "amount": 599900
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "₦ 149,900.00",
+          "amount": 149900
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "₦ 1,099,000.00",
+          "amount": 1099000
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "₦ 299,900.00",
           "amount": 299900
@@ -4510,7 +6070,7 @@
           "amount": 29900
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:28.604Z"
+      "fetchedAt": "2026-10-26T09:15:08.850Z"
     },
     "ni": {
       "currency": "USD",
@@ -4526,14 +6086,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -4551,7 +6126,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:30.272Z"
+      "fetchedAt": "2026-10-26T09:15:10.615Z"
     },
     "nl": {
       "currency": "EUR",
@@ -4567,19 +6142,14 @@
           "amount": 149.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "€ 299,99",
-          "amount": 299.99
-        },
-        {
           "name": "Claude Pro - Annual",
           "price": "€ 249,99",
           "amount": 249.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "€ 229,00",
-          "amount": 229
+          "name": "Claude Max 20x - Monthly",
+          "price": "€ 299,99",
+          "amount": 299.99
         },
         {
           "name": "Usage Credits (20)",
@@ -4587,12 +6157,32 @@
           "amount": 22
         },
         {
+          "name": "Usage Credits (250)",
+          "price": "€ 229,00",
+          "amount": 229
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "€ 400,00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "€ 100,00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "€ 800,00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "€ 49,00",
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:31.913Z"
+      "fetchedAt": "2026-10-26T09:15:12.364Z"
     },
     "no": {
       "currency": "NOK",
@@ -4623,6 +6213,21 @@
           "amount": 599
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "4.490,00 kr",
+          "amount": 4490
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "999,00 kr",
+          "amount": 999
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "8.990,00 kr",
+          "amount": 8990
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "2.490,00 kr",
           "amount": 2490
@@ -4633,7 +6238,7 @@
           "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:33.671Z"
+      "fetchedAt": "2026-10-26T09:15:13.768Z"
     },
     "np": {
       "currency": "USD",
@@ -4652,6 +6257,21 @@
           "name": "Claude Pro - Annual",
           "price": "USD 249.99",
           "amount": 249.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -4674,7 +6294,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:34.621Z"
+      "fetchedAt": "2026-10-26T09:15:14.909Z"
     },
     "nr": {
       "currency": "USD",
@@ -4688,6 +6308,21 @@
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -4715,7 +6350,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:36.091Z"
+      "fetchedAt": "2026-10-26T09:15:16.365Z"
     },
     "nz": {
       "currency": "NZD",
@@ -4741,6 +6376,21 @@
           "amount": 499.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$600.00",
+          "amount": 600
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$149.00",
+          "amount": 149
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$1,299.99",
+          "amount": 1299.99
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$400.00",
           "amount": 400
@@ -4756,7 +6406,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:37.715Z"
+      "fetchedAt": "2026-10-26T09:15:18.060Z"
     },
     "om": {
       "currency": "USD",
@@ -4782,6 +6432,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$200.00",
           "amount": 200
@@ -4797,7 +6462,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:39.196Z"
+      "fetchedAt": "2026-10-26T09:15:19.377Z"
     },
     "pa": {
       "currency": "USD",
@@ -4813,14 +6478,19 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
+          "name": "Usage Credits (50)",
+          "price": "USD 45.00",
+          "amount": 45
         },
         {
           "name": "Usage Credits (20)",
@@ -4828,17 +6498,27 @@
           "amount": 20
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "Usage Credits (50)",
-          "price": "USD 45.00",
-          "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:40.763Z"
+      "fetchedAt": "2026-10-26T09:15:21.091Z"
     },
     "pe": {
       "currency": "PEN",
@@ -4864,6 +6544,21 @@
           "amount": 999.9
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "S/ 1,499.90",
+          "amount": 1499.9
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "S/ 399.90",
+          "amount": 399.9
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "S/ 2,999.90",
+          "amount": 2999.9
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "S/ 899.90",
           "amount": 899.9
@@ -4879,7 +6574,7 @@
           "amount": 89.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:42.236Z"
+      "fetchedAt": "2026-10-26T09:15:22.604Z"
     },
     "pg": {
       "currency": "USD",
@@ -4898,6 +6593,21 @@
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -4920,7 +6630,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:43.573Z"
+      "fetchedAt": "2026-10-26T09:15:23.925Z"
     },
     "ph": {
       "currency": "PHP",
@@ -4951,6 +6661,21 @@
           "amount": 2990
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "₱ 22,990.00",
+          "amount": 22990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "₱ 5,990.00",
+          "amount": 5990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "₱ 44,990.00",
+          "amount": 44990
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "₱ 12,990.00",
           "amount": 12990
@@ -4961,7 +6686,7 @@
           "amount": 1290
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:45.217Z"
+      "fetchedAt": "2026-10-26T09:15:25.515Z"
     },
     "pk": {
       "currency": "PKR",
@@ -4987,6 +6712,21 @@
           "amount": 59900
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "Rs 99,900.00",
+          "amount": 99900
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "Rs 24,900.00",
+          "amount": 24900
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "Rs 199,900.00",
+          "amount": 199900
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "Rs 49,900.00",
           "amount": 49900
@@ -5002,7 +6742,7 @@
           "amount": 4900
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:46.634Z"
+      "fetchedAt": "2026-10-26T09:15:26.912Z"
     },
     "pl": {
       "currency": "PLN",
@@ -5028,14 +6768,29 @@
           "amount": 999.99
         },
         {
+          "name": "Usage Credits (20)",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "199,99 zł",
           "amount": 199.99
         },
         {
-          "name": "Usage Credits (20)",
-          "price": "99,99 zł",
-          "amount": 99.99
+          "name": "Usage Credits (500)",
+          "price": "1 499,99 zł",
+          "amount": 1499.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "399,99 zł",
+          "amount": 399.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "2 999,99 zł",
+          "amount": 2999.99
         },
         {
           "name": "Usage Credits (250)",
@@ -5043,7 +6798,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:48.408Z"
+      "fetchedAt": "2026-10-26T09:15:28.736Z"
     },
     "pt": {
       "currency": "EUR",
@@ -5069,14 +6824,29 @@
           "amount": 299.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "Usage Credits (50)",
           "price": "49,00 €",
           "amount": 49
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Usage Credits (20)",
@@ -5084,7 +6854,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:49.900Z"
+      "fetchedAt": "2026-10-26T09:15:30.340Z"
     },
     "pw": {
       "currency": "USD",
@@ -5110,6 +6880,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5125,7 +6910,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:51.083Z"
+      "fetchedAt": "2026-10-26T09:15:31.354Z"
     },
     "py": {
       "currency": "USD",
@@ -5151,6 +6936,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5166,7 +6966,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:52.720Z"
+      "fetchedAt": "2026-10-26T09:15:33.164Z"
     },
     "qa": {
       "currency": "QAR",
@@ -5197,6 +6997,21 @@
           "amount": 149.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "QAR 1,299.99",
+          "amount": 1299.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "QAR 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "QAR 2,499.99",
+          "amount": 2499.99
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "QAR 699.99",
           "amount": 699.99
@@ -5207,7 +7022,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:54.160Z"
+      "fetchedAt": "2026-10-26T09:15:34.430Z"
     },
     "ro": {
       "currency": "RON",
@@ -5233,6 +7048,21 @@
           "amount": 1199.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "1 999,99 lei",
+          "amount": 1999.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "499,99 lei",
+          "amount": 499.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "3 999,99 lei",
+          "amount": 3999.99
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "999,99 lei",
           "amount": 999.99
@@ -5248,7 +7078,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:55.436Z"
+      "fetchedAt": "2026-10-26T09:15:35.754Z"
     },
     "rs": {
       "currency": "EUR",
@@ -5274,6 +7104,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -5289,7 +7134,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:56.911Z"
+      "fetchedAt": "2026-10-26T09:15:37.406Z"
     },
     "ru": {
       "available": false,
@@ -5314,6 +7159,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5334,7 +7194,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:15:58.657Z"
+      "fetchedAt": "2026-10-26T09:15:38.885Z"
     },
     "sa": {
       "currency": "SAR",
@@ -5360,14 +7220,29 @@
           "amount": 999.99
         },
         {
+          "name": "Usage Credits (50)",
+          "price": "SAR 199.99",
+          "amount": 199.99
+        },
+        {
           "name": "Usage Credits (20)",
           "price": "SAR 89.99",
           "amount": 89.99
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "SAR 199.99",
-          "amount": 199.99
+          "name": "Usage Credits (500)",
+          "price": "SAR 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "SAR 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "SAR 2,999.99",
+          "amount": 2999.99
         },
         {
           "name": "Usage Credits (250)",
@@ -5375,7 +7250,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:00.169Z"
+      "fetchedAt": "2026-10-26T09:15:40.423Z"
     },
     "sb": {
       "currency": "USD",
@@ -5396,6 +7271,21 @@
           "amount": 124.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5416,7 +7306,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:01.600Z"
+      "fetchedAt": "2026-10-26T09:15:41.939Z"
     },
     "sc": {
       "currency": "USD",
@@ -5427,19 +7317,34 @@
           "amount": 20
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -5457,7 +7362,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:03.098Z"
+      "fetchedAt": "2026-10-26T09:15:43.308Z"
     },
     "se": {
       "currency": "SEK",
@@ -5488,6 +7393,21 @@
           "amount": 599
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "4 995,00 kr",
+          "amount": 4995
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "1 195,00 kr",
+          "amount": 1195
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "9 995,00 kr",
+          "amount": 9995
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "2 495,00 kr",
           "amount": 2495
@@ -5498,7 +7418,7 @@
           "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:04.952Z"
+      "fetchedAt": "2026-10-26T09:15:45.185Z"
     },
     "sg": {
       "currency": "SGD",
@@ -5534,12 +7454,27 @@
           "amount": 59.98
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "S$ 499.98",
+          "amount": 499.98
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "S$ 129.98",
+          "amount": 129.98
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "S$ 999.98",
+          "amount": 999.98
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "S$ 299.98",
           "amount": 299.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:06.279Z"
+      "fetchedAt": "2026-10-26T09:15:46.505Z"
     },
     "si": {
       "currency": "EUR",
@@ -5555,14 +7490,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "249,99 €",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "299,99 €",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -5580,7 +7530,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:07.533Z"
+      "fetchedAt": "2026-10-26T09:15:47.724Z"
     },
     "sk": {
       "currency": "EUR",
@@ -5606,6 +7556,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -5621,7 +7586,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:08.929Z"
+      "fetchedAt": "2026-10-26T09:15:49.183Z"
     },
     "sl": {
       "currency": "USD",
@@ -5632,14 +7597,29 @@
           "amount": 20
         },
         {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
         },
         {
-          "name": "Claude Max 5x - Monthly",
-          "price": "USD 124.99",
-          "amount": 124.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -5662,7 +7642,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:10.635Z"
+      "fetchedAt": "2026-10-26T09:15:50.855Z"
     },
     "sn": {
       "currency": "USD",
@@ -5688,6 +7668,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -5703,7 +7698,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:12.204Z"
+      "fetchedAt": "2026-10-26T09:15:52.357Z"
     },
     "sr": {
       "currency": "USD",
@@ -5722,6 +7717,21 @@
           "name": "Claude Max 20x - Monthly",
           "price": "USD 299.99",
           "amount": 299.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -5744,11 +7754,26 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:13.622Z"
+      "fetchedAt": "2026-10-26T09:15:53.961Z"
     },
     "st": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
         {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
@@ -5785,7 +7810,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:15.090Z"
+      "fetchedAt": "2026-10-26T09:15:55.485Z"
     },
     "sv": {
       "currency": "USD",
@@ -5801,14 +7826,29 @@
           "amount": 124.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
           "name": "Claude Max 20x - Monthly",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -5826,7 +7866,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:16.744Z"
+      "fetchedAt": "2026-10-26T09:15:57.091Z"
     },
     "sz": {
       "currency": "USD",
@@ -5847,6 +7887,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5867,7 +7922,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:18.087Z"
+      "fetchedAt": "2026-10-26T09:15:58.505Z"
     },
     "tc": {
       "currency": "USD",
@@ -5883,6 +7938,21 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -5908,7 +7978,7 @@
           "amount": 124.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:19.560Z"
+      "fetchedAt": "2026-10-26T09:15:59.876Z"
     },
     "td": {
       "currency": "USD",
@@ -5919,19 +7989,34 @@
           "amount": 20
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 214.99",
           "amount": 214.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -5949,7 +8034,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:21.013Z"
+      "fetchedAt": "2026-10-26T09:16:01.414Z"
     },
     "th": {
       "currency": "THB",
@@ -5965,14 +8050,29 @@
           "amount": 4990
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "฿9,990.00",
+          "amount": 9990
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "฿7,990.00",
           "amount": 7990
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "฿9,990.00",
-          "amount": 9990
+          "name": "Usage Credits (500)",
+          "price": "฿12,990.00",
+          "amount": 12990
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "฿2,990.00",
+          "amount": 2990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "฿24,990.00",
+          "amount": 24990
         },
         {
           "name": "Usage Credits (250)",
@@ -5990,7 +8090,7 @@
           "amount": 699
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:22.749Z"
+      "fetchedAt": "2026-10-26T09:16:03.007Z"
     },
     "tj": {
       "currency": "USD",
@@ -6021,6 +8121,21 @@
           "amount": 22
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -6031,30 +8146,25 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:23.906Z"
+      "fetchedAt": "2026-10-26T09:16:04.135Z"
     },
     "tm": {
       "currency": "USD",
       "items": [
         {
-          "name": "Claude Pro - Monthly",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
         },
         {
-          "name": "Claude Max 5x - Monthly",
-          "price": "USD 124.99",
-          "amount": 124.99
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "USD 214.99",
-          "amount": 214.99
-        },
-        {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 249.99",
-          "amount": 249.99
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -6070,9 +8180,29 @@
           "name": "Usage Credits (20)",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Claude Max 5x - Monthly",
+          "price": "USD 124.99",
+          "amount": 124.99
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "USD 214.99",
+          "amount": 214.99
+        },
+        {
+          "name": "Claude Pro - Monthly",
+          "price": "USD 20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:25.432Z"
+      "fetchedAt": "2026-10-26T09:16:05.736Z"
     },
     "tn": {
       "currency": "USD",
@@ -6081,6 +8211,11 @@
           "name": "Claude Pro - Monthly",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "Claude Max 20x - Monthly",
+          "price": "$249.99",
+          "amount": 249.99
         },
         {
           "name": "Claude Max 5x - Monthly",
@@ -6093,9 +8228,19 @@
           "amount": 214.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "$249.99",
-          "amount": 249.99
+          "name": "Usage Credits (500)",
+          "price": "$350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -6113,7 +8258,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:27.214Z"
+      "fetchedAt": "2026-10-26T09:16:07.444Z"
     },
     "to": {
       "currency": "USD",
@@ -6122,6 +8267,21 @@
           "name": "Claude Pro - Monthly",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -6154,7 +8314,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:28.557Z"
+      "fetchedAt": "2026-10-26T09:16:08.922Z"
     },
     "tr": {
       "currency": "TRY",
@@ -6185,17 +8345,32 @@
           "amount": 999.99
         },
         {
+          "name": "Usage Credits (250)",
+          "price": "₺9.999,99",
+          "amount": 9999.99
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "₺2.499,99",
           "amount": 2499.99
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "₺9.999,99",
-          "amount": 9999.99
+          "name": "Usage Credits (500)",
+          "price": "₺19.999,99",
+          "amount": 19999.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "₺4.999,99",
+          "amount": 4999.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "₺39.999,99",
+          "amount": 39999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:30.161Z"
+      "fetchedAt": "2026-10-26T09:16:10.371Z"
     },
     "tt": {
       "currency": "USD",
@@ -6221,6 +8396,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -6236,7 +8426,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:31.639Z"
+      "fetchedAt": "2026-10-26T09:16:12.037Z"
     },
     "tw": {
       "currency": "TWD",
@@ -6262,22 +8452,37 @@
           "amount": 7990
         },
         {
-          "name": "Usage Credits (20)",
-          "price": "$690.00",
-          "amount": 690
-        },
-        {
           "name": "Usage Credits (50)",
           "price": "$1,490.00",
           "amount": 1490
         },
         {
+          "name": "Usage Credits (20)",
+          "price": "$690.00",
+          "amount": 690
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "$6,990.00",
           "amount": 6990
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "$11,000.00",
+          "amount": 11000
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "$2,990.00",
+          "amount": 2990
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "$22,000.00",
+          "amount": 22000
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:32.926Z"
+      "fetchedAt": "2026-10-26T09:16:13.166Z"
     },
     "tz": {
       "currency": "TZS",
@@ -6293,14 +8498,29 @@
           "amount": 349900
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "699,900.00 TZS",
+          "amount": 699900
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "599,900.00 TZS",
           "amount": 599900
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "699,900.00 TZS",
-          "amount": 699900
+          "name": "Usage Credits (500)",
+          "price": "999,900.00 TZS",
+          "amount": 999900
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "249,900.00 TZS",
+          "amount": 249900
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "1,999,000.00 TZS",
+          "amount": 1999000
         },
         {
           "name": "Usage Credits (250)",
@@ -6318,7 +8538,7 @@
           "amount": 59900
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:34.714Z"
+      "fetchedAt": "2026-10-26T09:16:14.917Z"
     },
     "ua": {
       "currency": "USD",
@@ -6344,7 +8564,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:35.939Z"
+      "fetchedAt": "2026-10-26T09:16:16.173Z"
     },
     "ug": {
       "currency": "USD",
@@ -6370,6 +8590,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -6385,7 +8620,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:37.624Z"
+      "fetchedAt": "2026-10-26T09:16:17.931Z"
     },
     "us": {
       "currency": "USD",
@@ -6441,7 +8676,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-26T08:11:24.729Z"
+      "fetchedAt": "2026-10-26T09:16:19.533Z"
     },
     "uy": {
       "currency": "USD",
@@ -6467,6 +8702,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -6482,7 +8732,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:41.057Z"
+      "fetchedAt": "2026-10-26T09:16:21.010Z"
     },
     "uz": {
       "currency": "USD",
@@ -6491,11 +8741,6 @@
           "name": "Claude Pro - Monthly",
           "price": "USD 22.00",
           "amount": 22
-        },
-        {
-          "name": "Claude Pro - Annual",
-          "price": "USD 229.99",
-          "amount": 229.99
         },
         {
           "name": "Claude Max 5x - Monthly",
@@ -6508,22 +8753,42 @@
           "amount": 299.99
         },
         {
+          "name": "Claude Pro - Annual",
+          "price": "USD 229.99",
+          "amount": 229.99
+        },
+        {
           "name": "Usage Credits (20)",
           "price": "USD 22.00",
           "amount": 22
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "USD 49.00",
-          "amount": 49
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "USD 49.00",
+          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:41.897Z"
+      "fetchedAt": "2026-10-26T09:16:22.168Z"
     },
     "vc": {
       "currency": "USD",
@@ -6544,6 +8809,21 @@
           "amount": 124.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 200.00",
           "amount": 200
@@ -6564,7 +8844,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:43.579Z"
+      "fetchedAt": "2026-10-26T09:16:23.911Z"
     },
     "ve": {
       "available": false,
@@ -6577,6 +8857,21 @@
           "name": "Claude Pro - Monthly",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -6609,7 +8904,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:45.292Z"
+      "fetchedAt": "2026-10-26T09:16:25.371Z"
     },
     "vn": {
       "currency": "VND",
@@ -6640,6 +8935,21 @@
           "amount": 599000
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "9.999.000đ",
+          "amount": 9999000
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "2.999.000đ",
+          "amount": 2999000
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "19.999.000đ",
+          "amount": 19999000
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "5.999.000đ",
           "amount": 5999000
@@ -6650,7 +8960,7 @@
           "amount": 1299000
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:46.826Z"
+      "fetchedAt": "2026-10-26T09:16:26.959Z"
     },
     "vu": {
       "currency": "USD",
@@ -6669,6 +8979,21 @@
           "name": "Claude Max 5x - Monthly",
           "price": "USD 124.99",
           "amount": 124.99
+        },
+        {
+          "name": "Usage Credits (500)",
+          "price": "USD 350.00",
+          "amount": 350
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (250)",
@@ -6691,7 +9016,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:48.067Z"
+      "fetchedAt": "2026-10-26T09:16:28.387Z"
     },
     "xk": {
       "currency": "EUR",
@@ -6717,6 +9042,21 @@
           "amount": 249.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "800,00 €",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "229,00 €",
           "amount": 229
@@ -6732,7 +9072,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:49.447Z"
+      "fetchedAt": "2026-10-26T09:16:29.675Z"
     },
     "ye": {
       "available": false,
@@ -6767,6 +9107,21 @@
           "amount": 399.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "R6,999.99",
+          "amount": 6999.99
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "R1,999.99",
+          "amount": 1999.99
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "R14,999.99",
+          "amount": 14999.99
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "R3,999.99",
           "amount": 3999.99
@@ -6777,7 +9132,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:51.138Z"
+      "fetchedAt": "2026-10-26T09:16:31.481Z"
     },
     "zm": {
       "currency": "USD",
@@ -6803,6 +9158,21 @@
           "amount": 299.99
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
+        },
+        {
           "name": "Usage Credits (250)",
           "price": "USD 250.00",
           "amount": 250
@@ -6818,7 +9188,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:52.642Z"
+      "fetchedAt": "2026-10-26T09:16:32.923Z"
     },
     "zw": {
       "currency": "USD",
@@ -6834,14 +9204,29 @@
           "amount": 149.99
         },
         {
+          "name": "Claude Max 20x - Monthly",
+          "price": "USD 299.99",
+          "amount": 299.99
+        },
+        {
           "name": "Claude Pro - Annual",
           "price": "USD 249.99",
           "amount": 249.99
         },
         {
-          "name": "Claude Max 20x - Monthly",
-          "price": "USD 299.99",
-          "amount": 299.99
+          "name": "Usage Credits (500)",
+          "price": "USD 400.00",
+          "amount": 400
+        },
+        {
+          "name": "Usage Credits (100)",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Usage Credits (1000)",
+          "price": "USD 800.00",
+          "amount": 800
         },
         {
           "name": "Usage Credits (250)",
@@ -6859,7 +9244,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:16:54.093Z"
+      "fetchedAt": "2026-10-26T09:16:34.390Z"
     }
   }
 }

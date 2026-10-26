@@ -1,8 +1,8 @@
 {
   "id": "1668000334",
-  "name": "Perplexity - AI Search & Chat",
+  "name": "Perplexity: AI Agent & Search",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:47.237Z",
+  "fetchedAt": "2026-10-26T09:37:54.269Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -33,14 +33,14 @@
           "amount": 799.99
         },
         {
-          "name": "Perplexity Pro",
-          "price": "AED 799.99",
-          "amount": 799.99
-        },
-        {
           "name": "5,000 Credits",
           "price": "AED 199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "AED 799.99",
+          "amount": 799.99
         },
         {
           "name": "Perplexity Pro",
@@ -48,17 +48,17 @@
           "amount": 79.99
         },
         {
-          "name": "25,000 Credits",
-          "price": "AED 999.99",
-          "amount": 999.99
-        },
-        {
           "name": "10,000 Credits",
           "price": "AED 399.99",
           "amount": 399.99
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "AED 799.99",
+          "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:33:54.240Z"
+      "fetchedAt": "2026-10-26T09:33:34.692Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:33:55.717Z"
+      "fetchedAt": "2026-10-26T09:33:36.163Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:33:57.193Z"
+      "fetchedAt": "2026-10-26T09:33:37.722Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:33:58.703Z"
+      "fetchedAt": "2026-10-26T09:33:39.219Z"
     },
     "al": {
       "currency": "USD",
@@ -237,24 +237,24 @@
           "amount": 25
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "500 Credits",
           "price": "USD 6.00",
           "amount": 6
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
           "name": "1,000 Credits",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -282,7 +282,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:00.241Z"
+      "fetchedAt": "2026-10-26T09:33:40.711Z"
     },
     "am": {
       "currency": "USD",
@@ -293,19 +293,14 @@
           "amount": 25
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "500 Credits",
           "price": "USD 6.00",
           "amount": 6
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 60.00",
-          "amount": 60
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "2,500 Credits",
@@ -323,22 +318,27 @@
           "amount": 250
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
-          "name": "25,000 Credits",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "5,000 Credits",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "10,000 Credits",
           "price": "USD 119.00",
           "amount": 119
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 25.00",
+          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:01.758Z"
+      "fetchedAt": "2026-10-26T09:33:42.345Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:03.223Z"
+      "fetchedAt": "2026-10-26T09:33:43.711Z"
     },
     "ar": {
       "currency": "USD",
@@ -450,7 +450,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:04.774Z"
+      "fetchedAt": "2026-10-26T09:33:45.374Z"
     },
     "at": {
       "currency": "EUR",
@@ -486,14 +486,14 @@
           "amount": 22
         },
         {
-          "name": "10,000 Credits",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Perplexity Pro",
@@ -506,7 +506,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:06.252Z"
+      "fetchedAt": "2026-10-26T09:33:46.890Z"
     },
     "au": {
       "currency": "AUD",
@@ -517,14 +517,14 @@
           "amount": 30
         },
         {
-          "name": "1,000 Credits",
-          "price": "$15.00",
-          "amount": 15
-        },
-        {
           "name": "500 Credits",
           "price": "$8.00",
           "amount": 8
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "$15.00",
+          "amount": 15
         },
         {
           "name": "2,500 Credits",
@@ -537,19 +537,14 @@
           "amount": 30
         },
         {
-          "name": "Perplexity Pro",
-          "price": "$300.00",
-          "amount": 300
-        },
-        {
           "name": "Perplexity Max",
           "price": "$300.00",
           "amount": 300
         },
         {
-          "name": "5,000 Credits",
-          "price": "$80.00",
-          "amount": 80
+          "name": "Perplexity Pro",
+          "price": "$300.00",
+          "amount": 300
         },
         {
           "name": "10,000 Credits",
@@ -560,9 +555,14 @@
           "name": "Perplexity Pro",
           "price": "$300.00",
           "amount": 300
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "$80.00",
+          "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:07.896Z"
+      "fetchedAt": "2026-10-26T09:33:48.212Z"
     },
     "az": {
       "currency": "USD",
@@ -583,14 +583,19 @@
           "amount": 12
         },
         {
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 250.00",
           "amount": 250
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -599,11 +604,6 @@
         },
         {
           "name": "Perplexity Max",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
           "price": "USD 250.00",
           "amount": 250
         },
@@ -618,7 +618,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:09.263Z"
+      "fetchedAt": "2026-10-26T09:33:49.852Z"
     },
     "ba": {
       "currency": "EUR",
@@ -674,7 +674,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:10.722Z"
+      "fetchedAt": "2026-10-26T09:33:51.235Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:12.291Z"
+      "fetchedAt": "2026-10-26T09:33:52.721Z"
     },
     "be": {
       "currency": "EUR",
@@ -756,14 +756,19 @@
           "amount": 229
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
         },
         {
           "name": "Perplexity Pro",
@@ -771,22 +776,17 @@
           "amount": 229
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Perplexity Max",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "60,00 €",
-          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:13.725Z"
+      "fetchedAt": "2026-10-26T09:33:54.211Z"
     },
     "bf": {
       "currency": "USD",
@@ -807,14 +807,14 @@
           "amount": 10
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "2,500 Credits",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -842,7 +842,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:15.224Z"
+      "fetchedAt": "2026-10-26T09:33:55.868Z"
     },
     "bg": {
       "currency": "EUR",
@@ -853,19 +853,14 @@
           "amount": 22
         },
         {
-          "name": "1,000 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "6,00 €",
           "amount": 6
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "1,000 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -874,18 +869,8 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Perplexity Pro",
@@ -894,11 +879,26 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "19,99 €",
-          "amount": 19.99
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "100,00 €",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:16.896Z"
+      "fetchedAt": "2026-10-26T09:33:57.228Z"
     },
     "bh": {
       "currency": "USD",
@@ -909,29 +909,19 @@
           "amount": 22
         },
         {
-          "name": "500 Credits",
-          "price": "$5.00",
-          "amount": 5
-        },
-        {
           "name": "Perplexity Max",
           "price": "$200.00",
           "amount": 200
         },
         {
+          "name": "500 Credits",
+          "price": "$5.00",
+          "amount": 5
+        },
+        {
           "name": "Perplexity Pro",
           "price": "$200.00",
           "amount": 200
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$22.00",
-          "amount": 22
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "$10.00",
-          "amount": 10
         },
         {
           "name": "10,000 Credits",
@@ -939,9 +929,9 @@
           "amount": 100
         },
         {
-          "name": "Perplexity Pro",
-          "price": "$22.00",
-          "amount": 22
+          "name": "1,000 Credits",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "25,000 Credits",
@@ -950,15 +940,30 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "$22.00",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$22.00",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "$200.00",
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:18.224Z"
+      "fetchedAt": "2026-10-26T09:33:58.769Z"
     },
     "bj": {
       "currency": "USD",
       "items": [
+        {
+          "name": "500 Credits",
+          "price": "USD 6.00",
+          "amount": 6
+        },
         {
           "name": "1,000 Credits",
           "price": "USD 12.00",
@@ -970,9 +975,9 @@
           "amount": 25
         },
         {
-          "name": "500 Credits",
-          "price": "USD 6.00",
-          "amount": 6
+          "name": "Perplexity Max",
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -1003,14 +1008,9 @@
           "name": "5,000 Credits",
           "price": "USD 60.00",
           "amount": 60
-        },
-        {
-          "name": "25,000 Credits",
-          "price": "USD 300.00",
-          "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:19.687Z"
+      "fetchedAt": "2026-10-26T09:34:00.223Z"
     },
     "bm": {
       "currency": "USD",
@@ -1021,11 +1021,6 @@
           "amount": 20
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "2,500 Credits",
           "price": "USD 25.00",
           "amount": 25
@@ -1034,6 +1029,11 @@
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -1066,7 +1066,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:21.244Z"
+      "fetchedAt": "2026-10-26T09:34:01.728Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:22.730Z"
+      "fetchedAt": "2026-10-26T09:34:03.231Z"
     },
     "bo": {
       "currency": "USD",
@@ -1143,14 +1143,14 @@
           "amount": 10
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Perplexity Pro",
@@ -1178,7 +1178,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:24.320Z"
+      "fetchedAt": "2026-10-26T09:34:04.731Z"
     },
     "br": {
       "currency": "BRL",
@@ -1194,14 +1194,14 @@
           "amount": 29.9
         },
         {
-          "name": "1,000 Credits",
-          "price": "R$ 59,90",
-          "amount": 59.9
-        },
-        {
           "name": "2,500 Credits",
           "price": "R$ 149,90",
           "amount": 149.9
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "R$ 59,90",
+          "amount": 59.9
         },
         {
           "name": "Perplexity Max",
@@ -1224,17 +1224,17 @@
           "amount": 599.9
         },
         {
-          "name": "Perplexity Pro",
-          "price": "R$ 99,90",
-          "amount": 99.9
-        },
-        {
           "name": "25,000 Credits",
           "price": "R$ 1.499,90",
           "amount": 1499.9
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "R$ 99,90",
+          "amount": 99.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:25.728Z"
+      "fetchedAt": "2026-10-26T09:34:06.252Z"
     },
     "bs": {
       "currency": "USD",
@@ -1290,7 +1290,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:27.262Z"
+      "fetchedAt": "2026-10-26T09:34:07.760Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:28.732Z"
+      "fetchedAt": "2026-10-26T09:34:09.250Z"
     },
     "bw": {
       "currency": "USD",
@@ -1367,6 +1367,11 @@
           "amount": 10
         },
         {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
@@ -1380,11 +1385,6 @@
           "name": "2,500 Credits",
           "price": "USD 25.00",
           "amount": 25
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -1402,7 +1402,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:30.212Z"
+      "fetchedAt": "2026-10-26T09:34:10.692Z"
     },
     "by": {
       "currency": "USD",
@@ -1428,9 +1428,9 @@
           "amount": 29
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 250.00",
-          "amount": 250
+          "name": "10,000 Credits",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "5,000 Credits",
@@ -1438,9 +1438,14 @@
           "amount": 60
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "Perplexity Max",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -1449,16 +1454,11 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
+          "price": "USD 25.00",
+          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:31.724Z"
+      "fetchedAt": "2026-10-26T09:34:12.218Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,7 +1514,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:33.273Z"
+      "fetchedAt": "2026-10-26T09:34:13.756Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1550,14 +1550,14 @@
           "amount": 35
         },
         {
-          "name": "Perplexity Pro",
-          "price": "$25.00",
-          "amount": 25
-        },
-        {
           "name": "Perplexity Max",
           "price": "$249.00",
           "amount": 249
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$25.00",
+          "amount": 25
         },
         {
           "name": "Perplexity Pro",
@@ -1570,7 +1570,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:34.730Z"
+      "fetchedAt": "2026-10-26T09:34:15.191Z"
     },
     "cd": {
       "currency": "USD",
@@ -1581,14 +1581,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -1601,16 +1601,6 @@
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
@@ -1621,12 +1611,22 @@
           "amount": 20
         },
         {
+          "name": "10,000 Credits",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:36.201Z"
+      "fetchedAt": "2026-10-26T09:34:16.806Z"
     },
     "cg": {
       "currency": "USD",
@@ -1635,11 +1635,6 @@
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
         },
         {
           "name": "10,000 Credits",
@@ -1672,6 +1667,11 @@
           "amount": 200
         },
         {
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
           "name": "500 Credits",
           "price": "USD 6.00",
           "amount": 6
@@ -1682,7 +1682,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:37.756Z"
+      "fetchedAt": "2026-10-26T09:34:18.271Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1733,12 +1733,12 @@
           "amount": 18
         },
         {
-          "name": "Perplexity Pro",
-          "price": "CHF 20.00",
-          "amount": 20
+          "name": "10,000 Credits",
+          "price": "CHF 90.00",
+          "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:39.228Z"
+      "fetchedAt": "2026-10-26T09:34:19.797Z"
     },
     "ci": {
       "currency": "USD",
@@ -1749,131 +1749,19 @@
           "amount": 25
         },
         {
-          "name": "1,000 Credits",
-          "price": "12,00 $US",
-          "amount": 12
-        },
-        {
           "name": "500 Credits",
           "price": "6,00 $US",
           "amount": 6
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 $US",
-          "amount": 29
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "250,00 $US",
-          "amount": 250
+          "name": "1,000 Credits",
+          "price": "12,00 $US",
+          "amount": 12
         },
         {
           "name": "25,000 Credits",
           "price": "300,00 $US",
           "amount": 300
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "250,00 $US",
-          "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "25,00 $US",
-          "amount": 25
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "119,00 $US",
-          "amount": 119
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "250,00 $US",
-          "amount": 250
-        }
-      ],
-      "fetchedAt": "2026-10-19T09:34:40.707Z"
-    },
-    "cl": {
-      "currency": "CLP",
-      "items": [
-        {
-          "name": "Perplexity Pro",
-          "price": "$22.990",
-          "amount": 22990
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "$9.990",
-          "amount": 9990
-        },
-        {
-          "name": "500 Credits",
-          "price": "$5.990",
-          "amount": 5990
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$229.990",
-          "amount": 229990
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "$29.990",
-          "amount": 29990
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$22.990",
-          "amount": 22990
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "$229.990",
-          "amount": 229990
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$229.990",
-          "amount": 229990
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "$59.990",
-          "amount": 59990
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "$99.990",
-          "amount": 99990
-        }
-      ],
-      "fetchedAt": "2026-10-19T09:34:42.641Z"
-    },
-    "cm": {
-      "currency": "USD",
-      "items": [
-        {
-          "name": "Perplexity Pro",
-          "price": "25,00 $US",
-          "amount": 25
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "250,00 $US",
-          "amount": 250
-        },
-        {
-          "name": "500 Credits",
-          "price": "6,00 $US",
-          "amount": 6
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "12,00 $US",
-          "amount": 12
         },
         {
           "name": "2,500 Credits",
@@ -1887,14 +1775,86 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "25,00 $US",
-          "amount": 25
+          "price": "250,00 $US",
+          "amount": 250
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "119,00 $US",
+          "amount": 119
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "250,00 $US",
+          "amount": 250
         },
         {
           "name": "Perplexity Pro",
           "price": "250,00 $US",
           "amount": 250
+        }
+      ],
+      "fetchedAt": "2026-10-26T09:34:21.273Z"
+    },
+    "cl": {
+      "currency": "CLP",
+      "items": [
+        {
+          "name": "Perplexity Pro",
+          "price": "$22.990",
+          "amount": 22990
         },
+        {
+          "name": "500 Credits",
+          "price": "$5.990",
+          "amount": 5990
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "$9.990",
+          "amount": 9990
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$229.990",
+          "amount": 229990
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$22.990",
+          "amount": 22990
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "$29.990",
+          "amount": 29990
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "$229.990",
+          "amount": 229990
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$22.990",
+          "amount": 22990
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$229.990",
+          "amount": 229990
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$22.990",
+          "amount": 22990
+        }
+      ],
+      "fetchedAt": "2026-10-26T09:34:22.790Z"
+    },
+    "cm": {
+      "currency": "USD",
+      "items": [
         {
           "name": "Perplexity Pro",
           "price": "25,00 $US",
@@ -1904,9 +1864,49 @@
           "name": "Perplexity Max",
           "price": "250,00 $US",
           "amount": 250
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "12,00 $US",
+          "amount": 12
+        },
+        {
+          "name": "500 Credits",
+          "price": "6,00 $US",
+          "amount": 6
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "250,00 $US",
+          "amount": 250
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "29,00 $US",
+          "amount": 29
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "25,00 $US",
+          "amount": 25
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "250,00 $US",
+          "amount": 250
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "60,00 $US",
+          "amount": 60
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "25,00 $US",
+          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:43.718Z"
+      "fetchedAt": "2026-10-26T09:34:24.266Z"
     },
     "cn": {
       "available": false,
@@ -1931,19 +1931,14 @@
           "amount": 49900
         },
         {
-          "name": "2,500 Credits",
-          "price": "$ 119.900,00",
-          "amount": 119900
-        },
-        {
           "name": "Perplexity Pro",
           "price": "$ 999.900,00",
           "amount": 999900
         },
         {
-          "name": "5,000 Credits",
-          "price": "$ 229.900,00",
-          "amount": 229900
+          "name": "2,500 Credits",
+          "price": "$ 119.900,00",
+          "amount": 119900
         },
         {
           "name": "Perplexity Max",
@@ -1954,6 +1949,11 @@
           "name": "Perplexity Pro",
           "price": "$ 99.900,00",
           "amount": 99900
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "$ 229.900,00",
+          "amount": 229900
         },
         {
           "name": "Perplexity Pro",
@@ -1966,7 +1966,7 @@
           "amount": 99900
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:45.306Z"
+      "fetchedAt": "2026-10-26T09:34:25.759Z"
     },
     "cr": {
       "currency": "USD",
@@ -1977,19 +1977,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -2002,14 +1997,19 @@
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "10,000 Credits",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Perplexity Pro",
@@ -2022,7 +2022,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:46.763Z"
+      "fetchedAt": "2026-10-26T09:34:27.482Z"
     },
     "cv": {
       "currency": "USD",
@@ -2078,7 +2078,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:48.223Z"
+      "fetchedAt": "2026-10-26T09:34:28.715Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2099,6 +2099,16 @@
           "amount": 6
         },
         {
+          "name": "Perplexity Max",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
+        },
+        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
@@ -2110,23 +2120,13 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Perplexity Pro",
@@ -2134,7 +2134,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:49.744Z"
+      "fetchedAt": "2026-10-26T09:34:30.292Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2145,14 +2145,29 @@
           "amount": 499
         },
         {
+          "name": "500 Credits",
+          "price": "129,00 Kč",
+          "amount": 129
+        },
+        {
           "name": "1,000 Credits",
           "price": "249,00 Kč",
           "amount": 249
         },
         {
-          "name": "500 Credits",
-          "price": "129,00 Kč",
-          "amount": 129
+          "name": "2,500 Credits",
+          "price": "699,00 Kč",
+          "amount": 699
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "4 990,00 Kč",
+          "amount": 4990
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "4 990,00 Kč",
+          "amount": 4990
         },
         {
           "name": "5,000 Credits",
@@ -2165,12 +2180,7 @@
           "amount": 499
         },
         {
-          "name": "2,500 Credits",
-          "price": "699,00 Kč",
-          "amount": 699
-        },
-        {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "4 990,00 Kč",
           "amount": 4990
         },
@@ -2178,19 +2188,9 @@
           "name": "10,000 Credits",
           "price": "2 790,00 Kč",
           "amount": 2790
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "4 990,00 Kč",
-          "amount": 4990
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "4 990,00 Kč",
-          "amount": 4990
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:51.249Z"
+      "fetchedAt": "2026-10-26T09:34:31.795Z"
     },
     "de": {
       "currency": "EUR",
@@ -2226,11 +2226,6 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
@@ -2241,12 +2236,17 @@
           "amount": 22
         },
         {
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
           "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:52.770Z"
+      "fetchedAt": "2026-10-26T09:34:33.275Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2262,6 +2262,11 @@
           "amount": 39
         },
         {
+          "name": "1,000 Credits",
+          "price": "89,00 kr",
+          "amount": 89
+        },
+        {
           "name": "Perplexity Pro",
           "price": "179,00 kr",
           "amount": 179
@@ -2272,37 +2277,32 @@
           "amount": 199
         },
         {
-          "name": "1,000 Credits",
-          "price": "89,00 kr",
-          "amount": 89
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "1.799,00 kr",
-          "amount": 1799
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "1.799,00 kr",
-          "amount": 1799
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "179,00 kr",
-          "amount": 179
-        },
-        {
           "name": "5,000 Credits",
           "price": "399,00 kr",
           "amount": 399
         },
         {
           "name": "Perplexity Pro",
+          "price": "1.799,00 kr",
+          "amount": 1799
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "1.799,00 kr",
+          "amount": 1799
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "179,00 kr",
           "amount": 179
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "1.799,00 kr",
+          "amount": 1799
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:54.268Z"
+      "fetchedAt": "2026-10-26T09:34:34.778Z"
     },
     "dm": {
       "currency": "USD",
@@ -2358,7 +2358,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:55.849Z"
+      "fetchedAt": "2026-10-26T09:34:36.261Z"
     },
     "do": {
       "currency": "USD",
@@ -2369,24 +2369,29 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "2,500 Credits",
@@ -2394,9 +2399,9 @@
           "amount": 25
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -2407,14 +2412,9 @@
           "name": "10,000 Credits",
           "price": "USD 100.00",
           "amount": 100
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:57.308Z"
+      "fetchedAt": "2026-10-26T09:34:37.757Z"
     },
     "dz": {
       "currency": "USD",
@@ -2425,24 +2425,24 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "$5.00",
           "amount": 5
         },
         {
-          "name": "Perplexity Pro",
-          "price": "$200.00",
-          "amount": 200
+          "name": "1,000 Credits",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Pro",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -2470,7 +2470,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:34:58.724Z"
+      "fetchedAt": "2026-10-26T09:34:39.278Z"
     },
     "ec": {
       "currency": "USD",
@@ -2486,14 +2486,14 @@
           "amount": 5
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "1,000 Credits",
@@ -2506,9 +2506,9 @@
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Perplexity Pro",
@@ -2516,9 +2516,9 @@
           "amount": 20
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Perplexity Pro",
@@ -2526,7 +2526,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:00.267Z"
+      "fetchedAt": "2026-10-26T09:34:40.778Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2537,19 +2537,14 @@
           "amount": 22
         },
         {
-          "name": "1,000 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "6,00 €",
           "amount": 6
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
+          "name": "1,000 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Perplexity Pro",
@@ -2567,12 +2562,12 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
         },
         {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
@@ -2580,9 +2575,14 @@
           "name": "5,000 Credits",
           "price": "60,00 €",
           "amount": 60
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:01.921Z"
+      "fetchedAt": "2026-10-26T09:34:42.244Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2593,19 +2593,19 @@
           "amount": 999.99
         },
         {
-          "name": "1,000 Credits",
-          "price": "EGP 499.99",
-          "amount": 499.99
-        },
-        {
           "name": "500 Credits",
           "price": "EGP 249.99",
           "amount": 249.99
         },
         {
-          "name": "Perplexity Max",
-          "price": "EGP 9,999.99",
-          "amount": 9999.99
+          "name": "1,000 Credits",
+          "price": "EGP 499.99",
+          "amount": 499.99
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "EGP 1,299.99",
+          "amount": 1299.99
         },
         {
           "name": "Perplexity Pro",
@@ -2613,9 +2613,9 @@
           "amount": 9999.99
         },
         {
-          "name": "2,500 Credits",
-          "price": "EGP 1,299.99",
-          "amount": 1299.99
+          "name": "Perplexity Max",
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
         },
         {
           "name": "10,000 Credits",
@@ -2638,7 +2638,7 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:03.269Z"
+      "fetchedAt": "2026-10-26T09:34:43.763Z"
     },
     "es": {
       "currency": "EUR",
@@ -2694,7 +2694,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:04.736Z"
+      "fetchedAt": "2026-10-26T09:34:45.324Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2725,7 +2725,7 @@
           "amount": 229
         },
         {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
@@ -2740,17 +2740,17 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Perplexity Max",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:06.285Z"
+      "fetchedAt": "2026-10-26T09:34:46.826Z"
     },
     "fj": {
       "currency": "USD",
@@ -2806,7 +2806,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:07.745Z"
+      "fetchedAt": "2026-10-26T09:34:48.254Z"
     },
     "fm": {
       "currency": "USD",
@@ -2862,7 +2862,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:09.267Z"
+      "fetchedAt": "2026-10-26T09:34:49.744Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2883,14 +2883,14 @@
           "amount": 6
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "2,500 Credits",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
@@ -2913,12 +2913,12 @@
           "amount": 100
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "5,000 Credits",
+          "price": "60,00 €",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:10.803Z"
+      "fetchedAt": "2026-10-26T09:34:51.274Z"
     },
     "ga": {
       "currency": "USD",
@@ -2927,6 +2927,16 @@
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -2942,11 +2952,6 @@
           "name": "1,000 Credits",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
         },
         {
           "name": "Perplexity Pro",
@@ -2967,14 +2972,9 @@
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:12.213Z"
+      "fetchedAt": "2026-10-26T09:34:52.842Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3005,11 +3005,6 @@
           "amount": 20
         },
         {
-          "name": "Perplexity Max",
-          "price": "£200.00",
-          "amount": 200
-        },
-        {
           "name": "5,000 Credits",
           "price": "£50.00",
           "amount": 50
@@ -3020,17 +3015,22 @@
           "amount": 200
         },
         {
+          "name": "Perplexity Max",
+          "price": "£200.00",
+          "amount": 200
+        },
+        {
           "name": "Perplexity Pro",
           "price": "£200.00",
           "amount": 200
         },
         {
-          "name": "10,000 Credits",
-          "price": "£100.00",
-          "amount": 100
+          "name": "Perplexity Pro",
+          "price": "£20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:13.723Z"
+      "fetchedAt": "2026-10-26T09:34:54.287Z"
     },
     "gd": {
       "currency": "USD",
@@ -3086,7 +3086,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:15.291Z"
+      "fetchedAt": "2026-10-26T09:34:55.745Z"
     },
     "ge": {
       "currency": "USD",
@@ -3112,24 +3112,14 @@
           "amount": 29
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
           "name": "5,000 Credits",
           "price": "USD 60.00",
           "amount": 60
         },
         {
-          "name": "Perplexity Pro",
+          "name": "Perplexity Max",
           "price": "USD 250.00",
           "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 25.00",
-          "amount": 25
         },
         {
           "name": "10,000 Credits",
@@ -3138,11 +3128,21 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "USD 25.00",
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:16.765Z"
+      "fetchedAt": "2026-10-26T09:34:57.239Z"
     },
     "gh": {
       "currency": "USD",
@@ -3151,11 +3151,6 @@
           "name": "Perplexity Pro",
           "price": "USD 25.00",
           "amount": 25
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
         },
         {
           "name": "500 Credits",
@@ -3168,19 +3163,24 @@
           "amount": 250
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 119.00",
-          "amount": 119
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 250.00",
           "amount": 250
         },
         {
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
           "name": "Perplexity Max",
           "price": "USD 250.00",
           "amount": 250
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "Perplexity Pro",
@@ -3198,7 +3198,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:18.230Z"
+      "fetchedAt": "2026-10-26T09:34:58.775Z"
     },
     "gm": {
       "currency": "USD",
@@ -3254,7 +3254,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:19.905Z"
+      "fetchedAt": "2026-10-26T09:35:00.274Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3275,19 +3275,24 @@
           "amount": 6
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
           "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
         {
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
+        },
+        {
           "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "5,000 Credits",
@@ -3300,17 +3305,12 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:21.273Z"
+      "fetchedAt": "2026-10-26T09:35:01.764Z"
     },
     "gt": {
       "currency": "USD",
@@ -3326,9 +3326,9 @@
           "amount": 5
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "1,000 Credits",
@@ -3336,24 +3336,24 @@
           "amount": 10
         },
         {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "10,000 Credits",
@@ -3366,7 +3366,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:22.796Z"
+      "fetchedAt": "2026-10-26T09:35:03.281Z"
     },
     "gw": {
       "currency": "USD",
@@ -3422,7 +3422,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:24.290Z"
+      "fetchedAt": "2026-10-26T09:35:04.750Z"
     },
     "gy": {
       "currency": "USD",
@@ -3478,7 +3478,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:25.731Z"
+      "fetchedAt": "2026-10-26T09:35:06.259Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3494,14 +3494,14 @@
           "amount": 38
         },
         {
-          "name": "Perplexity Pro",
-          "price": "HK$ 1,488.00",
-          "amount": 1488
-        },
-        {
           "name": "2,500 Credits",
           "price": "HK$ 188.00",
           "amount": 188
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "HK$ 1,488.00",
+          "amount": 1488
         },
         {
           "name": "1,000 Credits",
@@ -3534,7 +3534,7 @@
           "amount": 1888
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:27.221Z"
+      "fetchedAt": "2026-10-26T09:35:07.712Z"
     },
     "hn": {
       "currency": "USD",
@@ -3543,6 +3543,11 @@
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "500 Credits",
@@ -3555,16 +3560,6 @@
           "amount": 25
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
@@ -3573,6 +3568,11 @@
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "5,000 Credits",
@@ -3590,7 +3590,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:28.787Z"
+      "fetchedAt": "2026-10-26T09:35:09.340Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3621,9 +3621,9 @@
           "amount": 229
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
         },
         {
           "name": "Perplexity Max",
@@ -3631,9 +3631,9 @@
           "amount": 229
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
+          "name": "10,000 Credits",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Perplexity Pro",
@@ -3641,12 +3641,12 @@
           "amount": 22
         },
         {
-          "name": "10,000 Credits",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:30.275Z"
+      "fetchedAt": "2026-10-26T09:35:10.770Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3667,6 +3667,11 @@
           "amount": 9990
         },
         {
+          "name": "Perplexity Pro",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
           "name": "1,000 Credits",
           "price": "HUF4,490.00",
           "amount": 4490
@@ -3678,13 +3683,13 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "HUF8,990.00",
-          "amount": 8990
+          "price": "HUF89,990.00",
+          "amount": 89990
         },
         {
           "name": "Perplexity Pro",
-          "price": "HUF89,990.00",
-          "amount": 89990
+          "price": "HUF8,990.00",
+          "amount": 8990
         },
         {
           "name": "Perplexity Max",
@@ -3692,17 +3697,12 @@
           "amount": 89990
         },
         {
-          "name": "Perplexity Pro",
-          "price": "HUF8,990.00",
-          "amount": 8990
-        },
-        {
           "name": "5,000 Credits",
           "price": "HUF22,990.00",
           "amount": 22990
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:31.784Z"
+      "fetchedAt": "2026-10-26T09:35:12.430Z"
     },
     "id": {
       "currency": "IDR",
@@ -3718,14 +3718,14 @@
           "amount": 99
         },
         {
-          "name": "2,500 Credits",
-          "price": "Rp 499ribu",
-          "amount": 499
-        },
-        {
           "name": "1,000 Credits",
           "price": "Rp 199ribu",
           "amount": 199
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "Rp 499ribu",
+          "amount": 499
         },
         {
           "name": "Perplexity Pro",
@@ -3743,11 +3743,6 @@
           "amount": 3499
         },
         {
-          "name": "5,000 Credits",
-          "price": "Rp 999ribu",
-          "amount": 999
-        },
-        {
           "name": "Perplexity Pro",
           "price": "Rp 3,499juta",
           "amount": 3499
@@ -3756,9 +3751,14 @@
           "name": "10,000 Credits",
           "price": "Rp 1,999juta",
           "amount": 1999
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "Rp 999ribu",
+          "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:33.231Z"
+      "fetchedAt": "2026-10-26T09:35:13.809Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3784,14 +3784,9 @@
           "amount": 229
         },
         {
-          "name": "10,000 Credits",
-          "price": "€100.00",
-          "amount": 100
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "€29.00",
-          "amount": 29
+          "name": "Perplexity Pro",
+          "price": "€22.00",
+          "amount": 22
         },
         {
           "name": "5,000 Credits",
@@ -3799,22 +3794,27 @@
           "amount": 60
         },
         {
-          "name": "Perplexity Pro",
-          "price": "€22.00",
-          "amount": 22
-        },
-        {
           "name": "Perplexity Max",
           "price": "€229.00",
           "amount": 229
         },
         {
+          "name": "2,500 Credits",
+          "price": "€29.00",
+          "amount": 29
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "€100.00",
+          "amount": 100
+        },
+        {
           "name": "Perplexity Pro",
-          "price": "€229.00",
-          "amount": 229
+          "price": "€22.00",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:34.800Z"
+      "fetchedAt": "2026-10-26T09:35:15.303Z"
     },
     "il": {
       "currency": "ILS",
@@ -3835,17 +3835,7 @@
           "amount": 29.9
         },
         {
-          "name": "2,500 Credits",
-          "price": "₪79.90",
-          "amount": 79.9
-        },
-        {
           "name": "Perplexity Pro",
-          "price": "₪699.90",
-          "amount": 699.9
-        },
-        {
-          "name": "Perplexity Max",
           "price": "₪699.90",
           "amount": 699.9
         },
@@ -3855,9 +3845,19 @@
           "amount": 69.9
         },
         {
-          "name": "Perplexity Pro",
+          "name": "2,500 Credits",
+          "price": "₪79.90",
+          "amount": 79.9
+        },
+        {
+          "name": "Perplexity Max",
           "price": "₪699.90",
           "amount": 699.9
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "₪149.90",
+          "amount": 149.9
         },
         {
           "name": "10,000 Credits",
@@ -3865,12 +3865,12 @@
           "amount": 299.9
         },
         {
-          "name": "5,000 Credits",
-          "price": "₪149.90",
-          "amount": 149.9
+          "name": "Perplexity Pro",
+          "price": "₪69.90",
+          "amount": 69.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:36.251Z"
+      "fetchedAt": "2026-10-26T09:35:16.728Z"
     },
     "in": {
       "currency": "INR",
@@ -3901,19 +3901,14 @@
           "amount": 1999
         },
         {
-          "name": "Perplexity Pro",
-          "price": "₹ 19,900",
-          "amount": 19900
-        },
-        {
           "name": "5,000 Credits",
           "price": "₹ 4,999",
           "amount": 4999
         },
         {
           "name": "Perplexity Pro",
-          "price": "₹ 1,999",
-          "amount": 1999
+          "price": "₹ 19,900",
+          "amount": 19900
         },
         {
           "name": "Perplexity Max",
@@ -3921,12 +3916,17 @@
           "amount": 19900
         },
         {
+          "name": "Perplexity Pro",
+          "price": "₹ 1,999",
+          "amount": 1999
+        },
+        {
           "name": "10,000 Credits",
           "price": "₹ 9,900",
           "amount": 9900
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:38.102Z"
+      "fetchedAt": "2026-10-26T09:35:18.562Z"
     },
     "iq": {
       "currency": "USD",
@@ -3942,14 +3942,14 @@
           "amount": 5
         },
         {
+          "name": "Perplexity Pro",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
           "name": "1,000 Credits",
           "price": "$10.00",
           "amount": 10
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "$200.00",
-          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -3962,7 +3962,7 @@
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
+          "name": "Perplexity Max",
           "price": "$200.00",
           "amount": 200
         },
@@ -3982,7 +3982,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:39.291Z"
+      "fetchedAt": "2026-10-26T09:35:19.732Z"
     },
     "is": {
       "currency": "USD",
@@ -3993,29 +3993,9 @@
           "amount": 25
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 119.00",
-          "amount": 119
-        },
-        {
-          "name": "Perplexity Pro",
+          "name": "Perplexity Max",
           "price": "USD 250.00",
           "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
-          "name": "25,000 Credits",
-          "price": "USD 300.00",
-          "amount": 300
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 60.00",
-          "amount": 60
         },
         {
           "name": "500 Credits",
@@ -4023,14 +4003,34 @@
           "amount": 6
         },
         {
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
           "name": "2,500 Credits",
           "price": "USD 29.00",
           "amount": 29
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
+          "name": "10,000 Credits",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
+          "name": "25,000 Credits",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Perplexity Pro",
@@ -4038,7 +4038,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:40.785Z"
+      "fetchedAt": "2026-10-26T09:35:21.212Z"
     },
     "it": {
       "currency": "EUR",
@@ -4074,14 +4074,14 @@
           "amount": 229
         },
         {
-          "name": "5,000 Credits",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Perplexity Pro",
@@ -4094,7 +4094,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:42.275Z"
+      "fetchedAt": "2026-10-26T09:35:22.811Z"
     },
     "jm": {
       "currency": "USD",
@@ -4105,14 +4105,9 @@
           "amount": 20
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -4120,14 +4115,19 @@
           "amount": 25
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -4150,7 +4150,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:43.747Z"
+      "fetchedAt": "2026-10-26T09:35:24.254Z"
     },
     "jo": {
       "currency": "USD",
@@ -4164,6 +4164,11 @@
           "name": "500 Credits",
           "price": "$5.00",
           "amount": 5
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "$25.00",
+          "amount": 25
         },
         {
           "name": "1,000 Credits",
@@ -4199,14 +4204,9 @@
           "name": "Perplexity Pro",
           "price": "$200.00",
           "amount": 200
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "$50.00",
-          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:45.267Z"
+      "fetchedAt": "2026-10-26T09:35:25.768Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4262,7 +4262,7 @@
           "amount": 3000
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:46.712Z"
+      "fetchedAt": "2026-10-26T09:35:27.277Z"
     },
     "ke": {
       "currency": "USD",
@@ -4278,19 +4278,14 @@
           "amount": 6
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "2,500 Credits",
           "price": "USD 29.00",
           "amount": 29
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Perplexity Pro",
@@ -4308,17 +4303,22 @@
           "amount": 25
         },
         {
+          "name": "25,000 Credits",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 250.00",
           "amount": 250
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 60.00",
-          "amount": 60
+          "name": "10,000 Credits",
+          "price": "USD 119.00",
+          "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:48.239Z"
+      "fetchedAt": "2026-10-26T09:35:28.782Z"
     },
     "kg": {
       "currency": "USD",
@@ -4339,14 +4339,9 @@
           "amount": 10
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Max",
@@ -4354,9 +4349,9 @@
           "amount": 200
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Perplexity Pro",
@@ -4364,17 +4359,22 @@
           "amount": 200
         },
         {
-          "name": "25,000 Credits",
-          "price": "USD 300.00",
-          "amount": 300
+          "name": "10,000 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 22.00",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:49.744Z"
+      "fetchedAt": "2026-10-26T09:35:30.249Z"
     },
     "kh": {
       "currency": "USD",
@@ -4390,14 +4390,14 @@
           "amount": 5
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -4408,11 +4408,6 @@
           "name": "1,000 Credits",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 22.00",
-          "amount": 22
         },
         {
           "name": "Perplexity Pro",
@@ -4428,9 +4423,14 @@
           "name": "Perplexity Pro",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 22.00",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:51.285Z"
+      "fetchedAt": "2026-10-26T09:35:31.740Z"
     },
     "kn": {
       "currency": "USD",
@@ -4486,7 +4486,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:52.772Z"
+      "fetchedAt": "2026-10-26T09:35:33.388Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4507,11 +4507,6 @@
           "amount": 349000
         },
         {
-          "name": "1,000 Credits",
-          "price": "￦17,000",
-          "amount": 17000
-        },
-        {
           "name": "Perplexity Pro",
           "price": "￦29,000",
           "amount": 29000
@@ -4522,9 +4517,9 @@
           "amount": 299000
         },
         {
-          "name": "Perplexity Max",
-          "price": "￦349,000",
-          "amount": 349000
+          "name": "1,000 Credits",
+          "price": "￦17,000",
+          "amount": 17000
         },
         {
           "name": "Perplexity Pro",
@@ -4537,12 +4532,17 @@
           "amount": 44000
         },
         {
+          "name": "Perplexity Max",
+          "price": "￦349,000",
+          "amount": 349000
+        },
+        {
           "name": "Perplexity Pro",
           "price": "￦29,000",
           "amount": 29000
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:54.289Z"
+      "fetchedAt": "2026-10-26T09:35:34.779Z"
     },
     "kw": {
       "currency": "USD",
@@ -4563,11 +4563,6 @@
           "amount": 10
         },
         {
-          "name": "5,000 Credits",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
           "name": "10,000 Credits",
           "price": "$100.00",
           "amount": 100
@@ -4576,6 +4571,11 @@
           "name": "Perplexity Pro",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "$50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Max",
@@ -4598,7 +4598,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:55.713Z"
+      "fetchedAt": "2026-10-26T09:35:36.288Z"
     },
     "ky": {
       "currency": "USD",
@@ -4609,6 +4609,21 @@
           "amount": 20
         },
         {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
           "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
@@ -4617,16 +4632,6 @@
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Perplexity Pro",
@@ -4647,14 +4652,9 @@
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:57.232Z"
+      "fetchedAt": "2026-10-26T09:35:37.709Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4701,20 +4701,25 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "11,990.00₸",
-          "amount": 11990
+          "price": "9,990.00₸",
+          "amount": 9990
         },
         {
           "name": "Perplexity Pro",
-          "price": "9,990.00₸",
-          "amount": 9990
+          "price": "11,990.00₸",
+          "amount": 11990
         }
       ],
-      "fetchedAt": "2026-10-19T09:35:58.756Z"
+      "fetchedAt": "2026-10-26T09:35:39.252Z"
     },
     "la": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 22.00",
+          "amount": 22
+        },
         {
           "name": "Perplexity Pro",
           "price": "USD 22.00",
@@ -4759,14 +4764,9 @@
           "name": "25,000 Credits",
           "price": "USD 300.00",
           "amount": 300
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:00.283Z"
+      "fetchedAt": "2026-10-26T09:35:40.748Z"
     },
     "lb": {
       "currency": "USD",
@@ -4775,16 +4775,6 @@
           "name": "Perplexity Pro",
           "price": "$20.00",
           "amount": 20
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$200.00",
-          "amount": 200
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "$25.00",
-          "amount": 25
         },
         {
           "name": "500 Credits",
@@ -4797,14 +4787,24 @@
           "amount": 10
         },
         {
-          "name": "5,000 Credits",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
           "name": "Perplexity Max",
           "price": "$200.00",
           "amount": 200
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "$50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -4822,7 +4822,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:01.769Z"
+      "fetchedAt": "2026-10-26T09:35:42.204Z"
     },
     "lc": {
       "currency": "USD",
@@ -4878,7 +4878,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:03.309Z"
+      "fetchedAt": "2026-10-26T09:35:43.794Z"
     },
     "lk": {
       "currency": "USD",
@@ -4919,11 +4919,6 @@
           "amount": 25
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
@@ -4932,9 +4927,14 @@
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:04.747Z"
+      "fetchedAt": "2026-10-26T09:35:45.261Z"
     },
     "lr": {
       "currency": "USD",
@@ -4990,7 +4990,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:06.238Z"
+      "fetchedAt": "2026-10-26T09:35:46.756Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5001,6 +5001,11 @@
           "amount": 22
         },
         {
+          "name": "500 Credits",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
           "name": "1,000 Credits",
           "price": "10,00 €",
           "amount": 10
@@ -5011,9 +5016,9 @@
           "amount": 29
         },
         {
-          "name": "500 Credits",
-          "price": "6,00 €",
-          "amount": 6
+          "name": "Perplexity Max",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
@@ -5022,11 +5027,6 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
         },
@@ -5046,20 +5046,30 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:07.764Z"
+      "fetchedAt": "2026-10-26T09:35:48.243Z"
     },
     "lu": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "10,000 Credits",
+          "price": "100,00 €",
+          "amount": 100
+        },
         {
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "10,000 Credits",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "500 Credits",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "25,000 Credits",
@@ -5067,24 +5077,14 @@
           "amount": 300
         },
         {
-          "name": "1,000 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "500 Credits",
-          "price": "6,00 €",
-          "amount": 6
-        },
-        {
           "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Perplexity Pro",
@@ -5102,7 +5102,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:09.278Z"
+      "fetchedAt": "2026-10-26T09:35:49.809Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5123,19 +5123,24 @@
           "amount": 6
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "2,500 Credits",
           "price": "29,00 €",
           "amount": 29
         },
         {
-          "name": "25,000 Credits",
-          "price": "300,00 €",
-          "amount": 300
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "5,000 Credits",
@@ -5143,22 +5148,17 @@
           "amount": 60
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "25,000 Credits",
+          "price": "300,00 €",
+          "amount": 300
         },
         {
           "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:10.773Z"
+      "fetchedAt": "2026-10-26T09:35:51.266Z"
     },
     "ly": {
       "currency": "USD",
@@ -5214,7 +5214,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:12.280Z"
+      "fetchedAt": "2026-10-26T09:35:52.735Z"
     },
     "ma": {
       "currency": "USD",
@@ -5230,22 +5230,22 @@
           "amount": 6
         },
         {
-          "name": "Perplexity Max",
-          "price": "$200.00",
-          "amount": 200
-        },
-        {
           "name": "1,000 Credits",
           "price": "$12.00",
           "amount": 12
         },
         {
-          "name": "10,000 Credits",
-          "price": "$119.00",
-          "amount": 119
+          "name": "Perplexity Pro",
+          "price": "$200.00",
+          "amount": 200
         },
         {
-          "name": "Perplexity Pro",
+          "name": "2,500 Credits",
+          "price": "$29.00",
+          "amount": 29
+        },
+        {
+          "name": "Perplexity Max",
           "price": "$200.00",
           "amount": 200
         },
@@ -5255,22 +5255,22 @@
           "amount": 20
         },
         {
-          "name": "5,000 Credits",
-          "price": "$60.00",
-          "amount": 60
-        },
-        {
           "name": "Perplexity Pro",
           "price": "$20.00",
           "amount": 20
         },
         {
-          "name": "2,500 Credits",
-          "price": "$29.00",
-          "amount": 29
+          "name": "Perplexity Pro",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "$119.00",
+          "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:13.746Z"
+      "fetchedAt": "2026-10-26T09:35:54.289Z"
     },
     "md": {
       "currency": "USD",
@@ -5286,34 +5286,19 @@
           "amount": 6
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "2,500 Credits",
           "price": "USD 29.00",
           "amount": 29
         },
         {
           "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
+          "name": "1,000 Credits",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Perplexity Pro",
@@ -5321,12 +5306,27 @@
           "amount": 25
         },
         {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
           "name": "Perplexity Max",
           "price": "USD 250.00",
           "amount": 250
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 60.00",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:15.265Z"
+      "fetchedAt": "2026-10-26T09:35:55.721Z"
     },
     "me": {
       "currency": "EUR",
@@ -5337,14 +5337,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "5,00 €",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Perplexity Pro",
@@ -5382,7 +5382,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:16.753Z"
+      "fetchedAt": "2026-10-26T09:35:57.218Z"
     },
     "mg": {
       "currency": "USD",
@@ -5398,24 +5398,19 @@
           "amount": 20
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "10,000 Credits",
           "price": "USD 100.00",
           "amount": 100
         },
         {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
           "name": "1,000 Credits",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -5433,12 +5428,17 @@
           "amount": 200
         },
         {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "25,000 Credits",
           "price": "USD 250.00",
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:18.431Z"
+      "fetchedAt": "2026-10-26T09:35:58.692Z"
     },
     "mk": {
       "currency": "USD",
@@ -5449,14 +5449,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Pro",
@@ -5494,7 +5494,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:19.759Z"
+      "fetchedAt": "2026-10-26T09:36:00.386Z"
     },
     "ml": {
       "currency": "USD",
@@ -5505,14 +5505,14 @@
           "amount": 20
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Perplexity Pro",
@@ -5550,7 +5550,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:21.242Z"
+      "fetchedAt": "2026-10-26T09:36:01.742Z"
     },
     "mm": {
       "currency": "USD",
@@ -5606,7 +5606,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:22.744Z"
+      "fetchedAt": "2026-10-26T09:36:03.204Z"
     },
     "mn": {
       "currency": "USD",
@@ -5622,24 +5622,9 @@
           "amount": 5
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "25,000 Credits",
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "1,000 Credits",
@@ -5648,25 +5633,14 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
-        {
-          "name": "25,000 Credits",
-          "price": "USD 250.00",
-          "amount": 250
-        }
-      ],
-      "fetchedAt": "2026-10-19T09:36:24.217Z"
-    },
-    "mo": {
-      "currency": "USD",
-      "items": [
         {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
@@ -5676,6 +5650,27 @@
           "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-10-26T09:36:04.773Z"
+    },
+    "mo": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "500 Credits",
@@ -5693,9 +5688,19 @@
           "amount": 10
         },
         {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
           "name": "2,500 Credits",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -5708,17 +5713,12 @@
           "amount": 200
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:25.783Z"
+      "fetchedAt": "2026-10-26T09:36:06.338Z"
     },
     "mr": {
       "currency": "USD",
@@ -5729,14 +5729,14 @@
           "amount": 20
         },
         {
-          "name": "2,500 Credits",
-          "price": "$25.00",
-          "amount": 25
-        },
-        {
           "name": "500 Credits",
           "price": "$5.00",
           "amount": 5
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "$25.00",
+          "amount": 25
         },
         {
           "name": "1,000 Credits",
@@ -5774,7 +5774,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:27.238Z"
+      "fetchedAt": "2026-10-26T09:36:07.740Z"
     },
     "ms": {
       "currency": "USD",
@@ -5830,7 +5830,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:28.789Z"
+      "fetchedAt": "2026-10-26T09:36:09.259Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5841,19 +5841,14 @@
           "amount": 22
         },
         {
-          "name": "1,000 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "500 Credits",
-          "price": "6,00 €",
-          "amount": 6
-        },
-        {
           "name": "2,500 Credits",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Perplexity Max",
@@ -5861,14 +5856,9 @@
           "amount": 229
         },
         {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "500 Credits",
+          "price": "6,00 €",
+          "amount": 6
         },
         {
           "name": "10,000 Credits",
@@ -5884,9 +5874,19 @@
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:30.266Z"
+      "fetchedAt": "2026-10-26T09:36:10.812Z"
     },
     "mu": {
       "currency": "USD",
@@ -5902,6 +5902,11 @@
           "amount": 6
         },
         {
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "1,000 Credits",
           "price": "USD 12.00",
           "amount": 12
@@ -5910,11 +5915,6 @@
           "name": "Perplexity Pro",
           "price": "USD 250.00",
           "amount": 250
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "5,000 Credits",
@@ -5942,7 +5942,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:31.801Z"
+      "fetchedAt": "2026-10-26T09:36:12.249Z"
     },
     "mv": {
       "currency": "USD",
@@ -5958,6 +5958,11 @@
           "amount": 5
         },
         {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
@@ -5966,11 +5971,6 @@
           "name": "10,000 Credits",
           "price": "USD 100.00",
           "amount": 100
-        },
-        {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -5998,11 +5998,16 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:33.243Z"
+      "fetchedAt": "2026-10-26T09:36:13.767Z"
     },
     "mw": {
       "currency": "USD",
       "items": [
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
@@ -6014,11 +6019,6 @@
           "amount": 5
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
@@ -6054,7 +6054,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:34.763Z"
+      "fetchedAt": "2026-10-26T09:36:15.229Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6080,14 +6080,14 @@
           "amount": 3999
         },
         {
-          "name": "2,500 Credits",
-          "price": "$499.00",
-          "amount": 499
-        },
-        {
           "name": "Perplexity Max",
           "price": "$3,999.00",
           "amount": 3999
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "$499.00",
+          "amount": 499
         },
         {
           "name": "5,000 Credits",
@@ -6110,7 +6110,7 @@
           "amount": 399
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:36.283Z"
+      "fetchedAt": "2026-10-26T09:36:16.821Z"
     },
     "my": {
       "currency": "MYR",
@@ -6137,23 +6137,23 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "RM999.90",
-          "amount": 999.9
-        },
-        {
-          "name": "Perplexity Pro",
           "price": "RM99.90",
           "amount": 99.9
         },
         {
-          "name": "5,000 Credits",
-          "price": "RM229.90",
-          "amount": 229.9
+          "name": "Perplexity Pro",
+          "price": "RM999.90",
+          "amount": 999.9
         },
         {
           "name": "Perplexity Max",
           "price": "RM999.90",
           "amount": 999.9
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "RM229.90",
+          "amount": 229.9
         },
         {
           "name": "Perplexity Pro",
@@ -6166,7 +6166,7 @@
           "amount": 99.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:38.024Z"
+      "fetchedAt": "2026-10-26T09:36:18.316Z"
     },
     "mz": {
       "currency": "USD",
@@ -6177,9 +6177,14 @@
           "amount": 20
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "500 Credits",
@@ -6192,19 +6197,14 @@
           "amount": 10
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
         },
         {
           "name": "2,500 Credits",
@@ -6222,7 +6222,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:39.291Z"
+      "fetchedAt": "2026-10-26T09:36:19.786Z"
     },
     "na": {
       "currency": "USD",
@@ -6233,19 +6233,14 @@
           "amount": 20
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "2,500 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "1,000 Credits",
@@ -6253,14 +6248,19 @@
           "amount": 10
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Perplexity Pro",
@@ -6278,7 +6278,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:40.803Z"
+      "fetchedAt": "2026-10-26T09:36:21.218Z"
     },
     "ne": {
       "currency": "USD",
@@ -6289,9 +6289,9 @@
           "amount": 20
         },
         {
-          "name": "Perplexity Max",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "500 Credits",
@@ -6299,14 +6299,14 @@
           "amount": 5
         },
         {
-          "name": "Perplexity Pro",
+          "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "10,000 Credits",
@@ -6334,7 +6334,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:42.330Z"
+      "fetchedAt": "2026-10-26T09:36:22.806Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6350,11 +6350,6 @@
           "amount": 7900
         },
         {
-          "name": "Perplexity Pro",
-          "price": "₦ 299,900.00",
-          "amount": 299900
-        },
-        {
           "name": "1,000 Credits",
           "price": "₦ 14,900.00",
           "amount": 14900
@@ -6366,8 +6361,23 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "₦ 299,900.00",
+          "amount": 299900
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "₦ 79,900.00",
+          "amount": 79900
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "₦ 29,900.00",
           "amount": 29900
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "₦ 299,900.00",
+          "amount": 299900
         },
         {
           "name": "Perplexity Pro",
@@ -6378,19 +6388,9 @@
           "name": "2,500 Credits",
           "price": "₦ 39,900.00",
           "amount": 39900
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "₦ 149,900.00",
-          "amount": 149900
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "₦ 299,900.00",
-          "amount": 299900
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:43.777Z"
+      "fetchedAt": "2026-10-26T09:36:24.255Z"
     },
     "ni": {
       "currency": "USD",
@@ -6409,11 +6409,6 @@
           "name": "1,000 Credits",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
         },
         {
           "name": "2,500 Credits",
@@ -6441,12 +6436,17 @@
           "amount": 200
         },
         {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:45.764Z"
+      "fetchedAt": "2026-10-26T09:36:25.756Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6487,14 +6487,14 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Max",
-          "price": "€ 229,00",
-          "amount": 229
-        },
-        {
           "name": "Perplexity Pro",
           "price": "€ 22,00",
           "amount": 22
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "€ 229,00",
+          "amount": 229
         },
         {
           "name": "5,000 Credits",
@@ -6502,7 +6502,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:46.842Z"
+      "fetchedAt": "2026-10-26T09:36:27.286Z"
     },
     "no": {
       "currency": "NOK",
@@ -6523,6 +6523,11 @@
           "amount": 129
         },
         {
+          "name": "5,000 Credits",
+          "price": "599,00 kr",
+          "amount": 599
+        },
+        {
           "name": "2,500 Credits",
           "price": "299,00 kr",
           "amount": 299
@@ -6538,16 +6543,6 @@
           "amount": 249
         },
         {
-          "name": "5,000 Credits",
-          "price": "599,00 kr",
-          "amount": 599
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "2.490,00 kr",
-          "amount": 2490
-        },
-        {
           "name": "Perplexity Pro",
           "price": "249,00 kr",
           "amount": 249
@@ -6556,9 +6551,14 @@
           "name": "Perplexity Pro",
           "price": "2.490,00 kr",
           "amount": 2490
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "1.290,00 kr",
+          "amount": 1290
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:48.288Z"
+      "fetchedAt": "2026-10-26T09:36:28.744Z"
     },
     "np": {
       "currency": "USD",
@@ -6614,7 +6614,7 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:49.789Z"
+      "fetchedAt": "2026-10-26T09:36:30.272Z"
     },
     "nr": {
       "currency": "USD",
@@ -6670,7 +6670,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:51.411Z"
+      "fetchedAt": "2026-10-26T09:36:31.728Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6702,31 +6702,31 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "$400.00",
+          "amount": 400
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "$40.00",
           "amount": 40
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$400.00",
-          "amount": 400
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "$400.00",
-          "amount": 400
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "$400.00",
-          "amount": 400
         },
         {
           "name": "10,000 Credits",
           "price": "$200.00",
           "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "$40.00",
+          "amount": 40
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "$400.00",
+          "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:52.887Z"
+      "fetchedAt": "2026-10-26T09:36:33.229Z"
     },
     "om": {
       "currency": "USD",
@@ -6742,14 +6742,14 @@
           "amount": 25
         },
         {
-          "name": "1,000 Credits",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "$5.00",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Max",
@@ -6782,7 +6782,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:54.292Z"
+      "fetchedAt": "2026-10-26T09:36:34.719Z"
     },
     "pa": {
       "currency": "USD",
@@ -6818,19 +6818,19 @@
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Perplexity Pro",
@@ -6838,7 +6838,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:55.838Z"
+      "fetchedAt": "2026-10-26T09:36:36.246Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6854,24 +6854,24 @@
           "amount": 22.9
         },
         {
-          "name": "1,000 Credits",
-          "price": "S/ 44.90",
-          "amount": 44.9
-        },
-        {
           "name": "2,500 Credits",
           "price": "S/ 99.90",
           "amount": 99.9
         },
         {
-          "name": "5,000 Credits",
-          "price": "S/ 229.90",
-          "amount": 229.9
+          "name": "1,000 Credits",
+          "price": "S/ 44.90",
+          "amount": 44.9
         },
         {
           "name": "Perplexity Pro",
           "price": "S/ 899.90",
           "amount": 899.9
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "S/ 229.90",
+          "amount": 229.9
         },
         {
           "name": "Perplexity Pro",
@@ -6894,7 +6894,7 @@
           "amount": 899.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:57.279Z"
+      "fetchedAt": "2026-10-26T09:36:37.885Z"
     },
     "pg": {
       "currency": "USD",
@@ -6950,7 +6950,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:36:58.767Z"
+      "fetchedAt": "2026-10-26T09:36:39.200Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6997,16 +6997,16 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "₱ 12,990.00",
-          "amount": 12990
+          "price": "₱ 999.00",
+          "amount": 999
         },
         {
           "name": "Perplexity Pro",
-          "price": "₱ 1,290.00",
-          "amount": 1290
+          "price": "₱ 12,990.00",
+          "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:00.341Z"
+      "fetchedAt": "2026-10-26T09:36:40.758Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7015,6 +7015,11 @@
           "name": "Perplexity Pro",
           "price": "Rs 4,900.00",
           "amount": 4900
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "Rs 49,900.00",
+          "amount": 49900
         },
         {
           "name": "500 Credits",
@@ -7027,19 +7032,14 @@
           "amount": 49900
         },
         {
+          "name": "Perplexity Pro",
+          "price": "Rs 4,900.00",
+          "amount": 4900
+        },
+        {
           "name": "1,000 Credits",
           "price": "Rs 2,900.00",
           "amount": 2900
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "Rs 4,900.00",
-          "amount": 4900
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "Rs 4,900.00",
-          "amount": 4900
         },
         {
           "name": "2,500 Credits",
@@ -7047,22 +7047,22 @@
           "amount": 6900
         },
         {
-          "name": "Perplexity Max",
-          "price": "Rs 49,900.00",
-          "amount": 49900
-        },
-        {
-          "name": "25,000 Credits",
-          "price": "Rs 69,900.00",
-          "amount": 69900
+          "name": "Perplexity Pro",
+          "price": "Rs 4,900.00",
+          "amount": 4900
         },
         {
           "name": "Perplexity Pro",
           "price": "Rs 4,900.00",
           "amount": 4900
+        },
+        {
+          "name": "25,000 Credits",
+          "price": "Rs 69,900.00",
+          "amount": 69900
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:01.747Z"
+      "fetchedAt": "2026-10-26T09:36:42.313Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7094,18 +7094,13 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "99,99 zł",
-          "amount": 99.99
+          "price": "999,99 zł",
+          "amount": 999.99
         },
         {
           "name": "Perplexity Pro",
-          "price": "999,99 zł",
-          "amount": 999.99
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "999,99 zł",
-          "amount": 999.99
+          "price": "99,99 zł",
+          "amount": 99.99
         },
         {
           "name": "5,000 Credits",
@@ -7113,12 +7108,17 @@
           "amount": 229.99
         },
         {
+          "name": "Perplexity Max",
+          "price": "999,99 zł",
+          "amount": 999.99
+        },
+        {
           "name": "Perplexity Pro",
           "price": "999,99 zł",
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:03.296Z"
+      "fetchedAt": "2026-10-26T09:36:43.825Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7129,14 +7129,19 @@
           "amount": 22
         },
         {
+          "name": "500 Credits",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
           "name": "1,000 Credits",
           "price": "10,00 €",
           "amount": 10
         },
         {
-          "name": "500 Credits",
-          "price": "6,00 €",
-          "amount": 6
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "2,500 Credits",
@@ -7144,29 +7149,24 @@
           "amount": 29
         },
         {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "10,000 Credits",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Perplexity Pro",
@@ -7174,7 +7174,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:04.800Z"
+      "fetchedAt": "2026-10-26T09:36:45.301Z"
     },
     "pw": {
       "currency": "USD",
@@ -7230,16 +7230,11 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:06.293Z"
+      "fetchedAt": "2026-10-26T09:36:47.042Z"
     },
     "py": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
         {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
@@ -7251,9 +7246,14 @@
           "amount": 5
         },
         {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "1,000 Credits",
@@ -7261,7 +7261,7 @@
           "amount": 10
         },
         {
-          "name": "Perplexity Pro",
+          "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
         },
@@ -7286,7 +7286,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:07.809Z"
+      "fetchedAt": "2026-10-26T09:36:48.308Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7307,9 +7307,9 @@
           "amount": 699.99
         },
         {
-          "name": "Perplexity Pro",
-          "price": "QAR 69.99",
-          "amount": 69.99
+          "name": "2,500 Credits",
+          "price": "QAR 99.99",
+          "amount": 99.99
         },
         {
           "name": "1,000 Credits",
@@ -7317,32 +7317,32 @@
           "amount": 39.99
         },
         {
-          "name": "2,500 Credits",
-          "price": "QAR 99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Perplexity Pro",
           "price": "QAR 699.99",
           "amount": 699.99
         },
         {
           "name": "Perplexity Pro",
-          "price": "QAR 699.99",
-          "amount": 699.99
+          "price": "QAR 69.99",
+          "amount": 69.99
         },
         {
-          "name": "10,000 Credits",
-          "price": "QAR 399.99",
-          "amount": 399.99
+          "name": "Perplexity Pro",
+          "price": "QAR 699.99",
+          "amount": 699.99
         },
         {
           "name": "25,000 Credits",
           "price": "QAR 999.99",
           "amount": 999.99
+        },
+        {
+          "name": "10,000 Credits",
+          "price": "QAR 399.99",
+          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:09.293Z"
+      "fetchedAt": "2026-10-26T09:36:49.696Z"
     },
     "ro": {
       "currency": "RON",
@@ -7353,14 +7353,14 @@
           "amount": 99.99
         },
         {
-          "name": "1,000 Credits",
-          "price": "49,99 lei",
-          "amount": 49.99
-        },
-        {
           "name": "500 Credits",
           "price": "29,99 lei",
           "amount": 29.99
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "49,99 lei",
+          "amount": 49.99
         },
         {
           "name": "2,500 Credits",
@@ -7383,22 +7383,22 @@
           "amount": 999.99
         },
         {
+          "name": "5,000 Credits",
+          "price": "299,99 lei",
+          "amount": 299.99
+        },
+        {
           "name": "Perplexity Max",
           "price": "999,99 lei",
           "amount": 999.99
         },
         {
-          "name": "10,000 Credits",
-          "price": "499,99 lei",
-          "amount": 499.99
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "99,99 lei",
-          "amount": 99.99
+          "name": "25,000 Credits",
+          "price": "1 299,99 lei",
+          "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:10.744Z"
+      "fetchedAt": "2026-10-26T09:36:51.562Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7419,16 +7419,16 @@
           "amount": 6
         },
         {
-          "name": "Perplexity Pro",
+          "name": "5,000 Credits",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
@@ -7439,7 +7439,7 @@
           "amount": 22
         },
         {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
@@ -7454,7 +7454,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:12.267Z"
+      "fetchedAt": "2026-10-26T09:36:52.707Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7475,14 +7475,14 @@
           "amount": 899
         },
         {
-          "name": "2,500 Credits",
-          "price": "2 290,00 ₽",
-          "amount": 2290
-        },
-        {
           "name": "Perplexity Pro",
           "price": "17 990,00 ₽",
           "amount": 17990
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "2 290,00 ₽",
+          "amount": 2290
         },
         {
           "name": "Perplexity Pro",
@@ -7510,7 +7510,7 @@
           "amount": 17990
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:14.021Z"
+      "fetchedAt": "2026-10-26T09:36:54.297Z"
     },
     "rw": {
       "currency": "USD",
@@ -7566,7 +7566,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:15.306Z"
+      "fetchedAt": "2026-10-26T09:36:55.770Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7607,14 +7607,14 @@
           "amount": 899.99
         },
         {
-          "name": "Perplexity Pro",
-          "price": "SAR 899.99",
-          "amount": 899.99
-        },
-        {
           "name": "5,000 Credits",
           "price": "SAR 199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "SAR 899.99",
+          "amount": 899.99
         },
         {
           "name": "Perplexity Pro",
@@ -7622,7 +7622,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:16.903Z"
+      "fetchedAt": "2026-10-26T09:36:57.304Z"
     },
     "sb": {
       "currency": "USD",
@@ -7678,7 +7678,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:18.348Z"
+      "fetchedAt": "2026-10-26T09:36:58.755Z"
     },
     "sc": {
       "currency": "USD",
@@ -7734,7 +7734,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:19.794Z"
+      "fetchedAt": "2026-10-26T09:37:00.239Z"
     },
     "se": {
       "currency": "SEK",
@@ -7755,6 +7755,11 @@
           "amount": 129
         },
         {
+          "name": "25,000 Credits",
+          "price": "2 995,00 kr",
+          "amount": 2995
+        },
+        {
           "name": "2,500 Credits",
           "price": "299,00 kr",
           "amount": 299
@@ -7766,23 +7771,18 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "2 495,00 kr",
+          "amount": 2495
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "2 495,00 kr",
+          "amount": 2495
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "249,00 kr",
           "amount": 249
-        },
-        {
-          "name": "25,000 Credits",
-          "price": "2 995,00 kr",
-          "amount": 2995
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "2 495,00 kr",
-          "amount": 2495
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "2 495,00 kr",
-          "amount": 2495
         },
         {
           "name": "Perplexity Max",
@@ -7790,7 +7790,7 @@
           "amount": 2495
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:21.328Z"
+      "fetchedAt": "2026-10-26T09:37:01.837Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7811,14 +7811,14 @@
           "amount": 14.98
         },
         {
-          "name": "2,500 Credits",
-          "price": "S$ 34.98",
-          "amount": 34.98
-        },
-        {
           "name": "Perplexity Pro",
           "price": "S$ 299.98",
           "amount": 299.98
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "S$ 34.98",
+          "amount": 34.98
         },
         {
           "name": "Perplexity Max",
@@ -7837,16 +7837,16 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "S$ 299.98",
-          "amount": 299.98
+          "price": "S$ 29.98",
+          "amount": 29.98
         },
         {
           "name": "Perplexity Pro",
-          "price": "S$ 29.98",
-          "amount": 29.98
+          "price": "S$ 299.98",
+          "amount": 299.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:22.804Z"
+      "fetchedAt": "2026-10-26T09:37:03.317Z"
     },
     "si": {
       "currency": "EUR",
@@ -7862,24 +7862,29 @@
           "amount": 10
         },
         {
-          "name": "500 Credits",
-          "price": "6,00 €",
-          "amount": 6
-        },
-        {
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Perplexity Pro",
+          "name": "500 Credits",
+          "price": "6,00 €",
+          "amount": 6
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "29,00 €",
+          "amount": 29
+        },
+        {
+          "name": "Perplexity Max",
           "price": "229,00 €",
           "amount": 229
         },
         {
-          "name": "10,000 Credits",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "Perplexity Pro",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Perplexity Pro",
@@ -7892,17 +7897,12 @@
           "amount": 60
         },
         {
-          "name": "2,500 Credits",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
           "name": "Perplexity Pro",
           "price": "22,00 €",
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:24.311Z"
+      "fetchedAt": "2026-10-26T09:37:04.796Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7934,6 +7934,16 @@
         },
         {
           "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "229,00 €",
           "amount": 229
         },
@@ -7943,22 +7953,12 @@
           "amount": 60
         },
         {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "10,000 Credits",
           "price": "100,00 €",
           "amount": 100
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "22,00 €",
-          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:25.825Z"
+      "fetchedAt": "2026-10-26T09:37:06.214Z"
     },
     "sl": {
       "currency": "USD",
@@ -8014,7 +8014,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:27.296Z"
+      "fetchedAt": "2026-10-26T09:37:07.785Z"
     },
     "sn": {
       "currency": "USD",
@@ -8041,13 +8041,13 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Perplexity Pro",
-          "price": "USD 25.00",
-          "amount": 25
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "2,500 Credits",
@@ -8070,7 +8070,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:28.782Z"
+      "fetchedAt": "2026-10-26T09:37:09.376Z"
     },
     "sr": {
       "currency": "USD",
@@ -8081,11 +8081,6 @@
           "amount": 22
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 22.00",
           "amount": 22
@@ -8094,6 +8089,11 @@
           "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "1,000 Credits",
@@ -8126,7 +8126,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:30.260Z"
+      "fetchedAt": "2026-10-26T09:37:10.837Z"
     },
     "st": {
       "currency": "USD",
@@ -8182,7 +8182,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:31.792Z"
+      "fetchedAt": "2026-10-26T09:37:12.222Z"
     },
     "sv": {
       "currency": "USD",
@@ -8193,14 +8193,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Max",
@@ -8238,7 +8238,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:33.427Z"
+      "fetchedAt": "2026-10-26T09:37:13.810Z"
     },
     "sz": {
       "currency": "USD",
@@ -8294,7 +8294,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:34.753Z"
+      "fetchedAt": "2026-10-26T09:37:15.311Z"
     },
     "tc": {
       "currency": "USD",
@@ -8350,7 +8350,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:36.418Z"
+      "fetchedAt": "2026-10-26T09:37:16.756Z"
     },
     "td": {
       "currency": "USD",
@@ -8406,7 +8406,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:37.914Z"
+      "fetchedAt": "2026-10-26T09:37:18.240Z"
     },
     "th": {
       "currency": "THB",
@@ -8427,17 +8427,17 @@
           "amount": 6990
         },
         {
+          "name": "Perplexity Pro",
+          "price": "฿699.00",
+          "amount": 699
+        },
+        {
           "name": "1,000 Credits",
           "price": "฿399.00",
           "amount": 399
         },
         {
           "name": "Perplexity Pro",
-          "price": "฿699.00",
-          "amount": 699
-        },
-        {
-          "name": "Perplexity Pro",
           "price": "฿6,990.00",
           "amount": 6990
         },
@@ -8445,11 +8445,6 @@
           "name": "Perplexity Pro",
           "price": "฿699.00",
           "amount": 699
-        },
-        {
-          "name": "Perplexity Max",
-          "price": "฿6,990.00",
-          "amount": 6990
         },
         {
           "name": "2,500 Credits",
@@ -8457,25 +8452,30 @@
           "amount": 999
         },
         {
+          "name": "Perplexity Max",
+          "price": "฿6,990.00",
+          "amount": 6990
+        },
+        {
           "name": "Perplexity Pro",
           "price": "฿699.00",
           "amount": 699
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:39.328Z"
+      "fetchedAt": "2026-10-26T09:37:19.755Z"
     },
     "tj": {
       "currency": "USD",
       "items": [
         {
-          "name": "Perplexity Pro",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "1,000 Credits",
@@ -8483,19 +8483,14 @@
           "amount": 10
         },
         {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "Perplexity Max",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "5,000 Credits",
@@ -8503,14 +8498,19 @@
           "amount": 50
         },
         {
+          "name": "10,000 Credits",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "25,000 Credits",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Perplexity Pro",
@@ -8518,16 +8518,11 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:40.812Z"
+      "fetchedAt": "2026-10-26T09:37:21.285Z"
     },
     "tm": {
       "currency": "USD",
       "items": [
-        {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
         {
           "name": "1,000 Credits",
           "price": "USD 10.00",
@@ -8537,6 +8532,11 @@
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Perplexity Pro",
@@ -8574,7 +8574,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:42.243Z"
+      "fetchedAt": "2026-10-26T09:37:22.800Z"
     },
     "tn": {
       "currency": "USD",
@@ -8630,7 +8630,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:43.809Z"
+      "fetchedAt": "2026-10-26T09:37:24.368Z"
     },
     "to": {
       "currency": "USD",
@@ -8686,7 +8686,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:45.309Z"
+      "fetchedAt": "2026-10-26T09:37:25.780Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8737,12 +8737,12 @@
           "amount": 2499.99
         },
         {
-          "name": "10,000 Credits",
-          "price": "₺4.999,99",
-          "amount": 4999.99
+          "name": "Perplexity Pro",
+          "price": "₺899,99",
+          "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:46.769Z"
+      "fetchedAt": "2026-10-26T09:37:27.487Z"
     },
     "tt": {
       "currency": "USD",
@@ -8753,24 +8753,19 @@
           "amount": 20
         },
         {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "5,000 Credits",
           "price": "USD 50.00",
           "amount": 50
         },
         {
+          "name": "500 Credits",
+          "price": "USD 5.00",
+          "amount": 5
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
         },
         {
           "name": "Perplexity Pro",
@@ -8788,6 +8783,11 @@
           "amount": 25
         },
         {
+          "name": "10,000 Credits",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
@@ -8798,7 +8798,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:48.263Z"
+      "fetchedAt": "2026-10-26T09:37:28.788Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8824,11 +8824,6 @@
           "amount": 6990
         },
         {
-          "name": "Perplexity Pro",
-          "price": "$6,990.00",
-          "amount": 6990
-        },
-        {
           "name": "5,000 Credits",
           "price": "$1,490.00",
           "amount": 1490
@@ -8844,6 +8839,11 @@
           "amount": 6990
         },
         {
+          "name": "Perplexity Pro",
+          "price": "$6,990.00",
+          "amount": 6990
+        },
+        {
           "name": "2,500 Credits",
           "price": "$790.00",
           "amount": 790
@@ -8854,7 +8854,7 @@
           "amount": 690
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:49.943Z"
+      "fetchedAt": "2026-10-26T09:37:30.295Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8870,19 +8870,24 @@
           "amount": 14900
         },
         {
-          "name": "Perplexity Pro",
-          "price": "599,900.00 TZS",
-          "amount": 599900
-        },
-        {
           "name": "2,500 Credits",
           "price": "69,900.00 TZS",
           "amount": 69900
         },
         {
+          "name": "10,000 Credits",
+          "price": "299,900.00 TZS",
+          "amount": 299900
+        },
+        {
           "name": "Perplexity Pro",
           "price": "59,900.00 TZS",
           "amount": 59900
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "599,900.00 TZS",
+          "amount": 599900
         },
         {
           "name": "1,000 Credits",
@@ -8903,14 +8908,9 @@
           "name": "Perplexity Max",
           "price": "599,900.00 TZS",
           "amount": 599900
-        },
-        {
-          "name": "10,000 Credits",
-          "price": "299,900.00 TZS",
-          "amount": 299900
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:51.273Z"
+      "fetchedAt": "2026-10-26T09:37:31.810Z"
     },
     "ua": {
       "currency": "USD",
@@ -8931,11 +8931,6 @@
           "amount": 12
         },
         {
-          "name": "Perplexity Pro",
-          "price": "25,00 USD",
-          "amount": 25
-        },
-        {
           "name": "2,500 Credits",
           "price": "29,00 USD",
           "amount": 29
@@ -8947,8 +8942,8 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "250,00 USD",
-          "amount": 250
+          "price": "25,00 USD",
+          "amount": 25
         },
         {
           "name": "Perplexity Pro",
@@ -8956,7 +8951,7 @@
           "amount": 25
         },
         {
-          "name": "Perplexity Max",
+          "name": "Perplexity Pro",
           "price": "250,00 USD",
           "amount": 250
         },
@@ -8964,9 +8959,14 @@
           "name": "5,000 Credits",
           "price": "60,00 USD",
           "amount": 60
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "250,00 USD",
+          "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:52.920Z"
+      "fetchedAt": "2026-10-26T09:37:33.342Z"
     },
     "ug": {
       "currency": "USD",
@@ -8992,19 +8992,19 @@
           "amount": 29
         },
         {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
           "name": "5,000 Credits",
           "price": "USD 60.00",
           "amount": 60
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -9022,7 +9022,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:54.330Z"
+      "fetchedAt": "2026-10-26T09:37:34.743Z"
     },
     "us": {
       "currency": "USD",
@@ -9078,7 +9078,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:47.236Z"
+      "fetchedAt": "2026-10-26T09:37:36.341Z"
     },
     "uy": {
       "currency": "USD",
@@ -9134,7 +9134,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:57.319Z"
+      "fetchedAt": "2026-10-26T09:37:37.766Z"
     },
     "uz": {
       "currency": "USD",
@@ -9145,24 +9145,14 @@
           "amount": 22
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 29.00",
-          "amount": 29
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Perplexity Max",
@@ -9170,14 +9160,24 @@
           "amount": 200
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "10,000 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Perplexity Pro",
           "price": "USD 200.00",
           "amount": 200
+        },
+        {
+          "name": "2,500 Credits",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -9190,7 +9190,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:37:58.799Z"
+      "fetchedAt": "2026-10-26T09:37:39.317Z"
     },
     "vc": {
       "currency": "USD",
@@ -9246,7 +9246,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:00.299Z"
+      "fetchedAt": "2026-10-26T09:37:40.745Z"
     },
     "ve": {
       "currency": "USD",
@@ -9257,14 +9257,14 @@
           "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "500 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "1,000 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "2,500 Credits",
@@ -9277,14 +9277,14 @@
           "amount": 200
         },
         {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Perplexity Pro",
@@ -9302,15 +9302,35 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:01.766Z"
+      "fetchedAt": "2026-10-26T09:37:42.243Z"
     },
     "vg": {
       "currency": "USD",
       "items": [
         {
           "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Perplexity Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Perplexity Max",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Perplexity Pro",
@@ -9318,29 +9338,14 @@
           "amount": 200
         },
         {
-          "name": "10,000 Credits",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "Perplexity Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
-          "name": "1,000 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "2,500 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
-          "name": "500 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "Perplexity Pro",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "25,000 Credits",
@@ -9348,17 +9353,12 @@
           "amount": 250
         },
         {
-          "name": "Perplexity Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "5,000 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:03.326Z"
+      "fetchedAt": "2026-10-26T09:37:43.803Z"
     },
     "vn": {
       "currency": "VND",
@@ -9379,6 +9379,16 @@
           "amount": 299000
         },
         {
+          "name": "Perplexity Pro",
+          "price": "5.999.000đ",
+          "amount": 5999000
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "1.499.000đ",
+          "amount": 1499000
+        },
+        {
           "name": "Perplexity Max",
           "price": "5.999.000đ",
           "amount": 5999000
@@ -9390,31 +9400,21 @@
         },
         {
           "name": "Perplexity Pro",
-          "price": "5.999.000đ",
-          "amount": 5999000
-        },
-        {
-          "name": "Perplexity Pro",
           "price": "499.000đ",
           "amount": 499000
-        },
-        {
-          "name": "5,000 Credits",
-          "price": "1.499.000đ",
-          "amount": 1499000
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "5.999.000đ",
-          "amount": 5999000
         },
         {
           "name": "Perplexity Pro",
           "price": "599.000đ",
           "amount": 599000
+        },
+        {
+          "name": "Perplexity Pro",
+          "price": "5.999.000đ",
+          "amount": 5999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:04.929Z"
+      "fetchedAt": "2026-10-26T09:37:45.305Z"
     },
     "vu": {
       "currency": "USD",
@@ -9470,7 +9470,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:06.265Z"
+      "fetchedAt": "2026-10-26T09:37:46.792Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9526,7 +9526,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:07.774Z"
+      "fetchedAt": "2026-10-26T09:37:48.251Z"
     },
     "ye": {
       "currency": "USD",
@@ -9582,7 +9582,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:09.293Z"
+      "fetchedAt": "2026-10-26T09:37:49.729Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9608,14 +9608,14 @@
           "amount": 499.99
         },
         {
-          "name": "5,000 Credits",
-          "price": "R999.99",
-          "amount": 999.99
-        },
-        {
           "name": "Perplexity Max",
           "price": "R3,999.99",
           "amount": 3999.99
+        },
+        {
+          "name": "5,000 Credits",
+          "price": "R999.99",
+          "amount": 999.99
         },
         {
           "name": "10,000 Credits",
@@ -9638,7 +9638,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:10.848Z"
+      "fetchedAt": "2026-10-26T09:37:51.282Z"
     },
     "zm": {
       "currency": "USD",
@@ -9694,7 +9694,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:12.362Z"
+      "fetchedAt": "2026-10-26T09:37:52.753Z"
     },
     "zw": {
       "currency": "USD",
@@ -9710,6 +9710,11 @@
           "amount": 6
         },
         {
+          "name": "Perplexity Pro",
+          "price": "USD 250.00",
+          "amount": 250
+        },
+        {
           "name": "1,000 Credits",
           "price": "USD 12.00",
           "amount": 12
@@ -9718,11 +9723,6 @@
           "name": "2,500 Credits",
           "price": "USD 29.00",
           "amount": 29
-        },
-        {
-          "name": "Perplexity Pro",
-          "price": "USD 250.00",
-          "amount": 250
         },
         {
           "name": "Perplexity Pro",
@@ -9750,7 +9750,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:13.874Z"
+      "fetchedAt": "2026-10-26T09:37:54.269Z"
     }
   }
 }

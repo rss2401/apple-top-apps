@@ -2,7 +2,7 @@
   "id": "1662773014",
   "name": "Leonardo.Ai - Image Generator",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:44.446Z",
+  "fetchedAt": "2026-10-26T09:29:13.718Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -53,7 +53,7 @@
           "amount": 2999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:13.718Z"
+      "fetchedAt": "2026-10-26T09:24:54.282Z"
     },
     "af": {
       "currency": "USD",
@@ -104,7 +104,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:15.411Z"
+      "fetchedAt": "2026-10-26T09:24:55.630Z"
     },
     "ag": {
       "currency": "USD",
@@ -155,7 +155,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:16.689Z"
+      "fetchedAt": "2026-10-26T09:24:57.142Z"
     },
     "ai": {
       "currency": "USD",
@@ -206,7 +206,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:18.174Z"
+      "fetchedAt": "2026-10-26T09:24:58.636Z"
     },
     "al": {
       "currency": "USD",
@@ -257,7 +257,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:19.710Z"
+      "fetchedAt": "2026-10-26T09:25:00.163Z"
     },
     "am": {
       "currency": "USD",
@@ -268,9 +268,9 @@
           "amount": 19.99
         },
         {
-          "name": "Essential (yearly)",
-          "price": "USD 199.99",
-          "amount": 199.99
+          "name": "Ultimate",
+          "price": "USD 99.99",
+          "amount": 99.99
         },
         {
           "name": "Premium",
@@ -278,9 +278,9 @@
           "amount": 49.99
         },
         {
-          "name": "Ultimate",
-          "price": "USD 99.99",
-          "amount": 99.99
+          "name": "Essential (yearly)",
+          "price": "USD 199.99",
+          "amount": 199.99
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -308,7 +308,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:21.280Z"
+      "fetchedAt": "2026-10-26T09:25:01.595Z"
     },
     "ao": {
       "currency": "USD",
@@ -359,7 +359,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:22.703Z"
+      "fetchedAt": "2026-10-26T09:25:03.208Z"
     },
     "ar": {
       "currency": "USD",
@@ -410,7 +410,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:24.219Z"
+      "fetchedAt": "2026-10-26T09:25:04.614Z"
     },
     "at": {
       "currency": "EUR",
@@ -436,6 +436,11 @@
           "amount": 69
         },
         {
+          "name": "165,000 Top-up Tokens",
+          "price": "299,00 €",
+          "amount": 299
+        },
+        {
           "name": "5,500 Top-up Tokens",
           "price": "15,00 €",
           "amount": 15
@@ -451,17 +456,12 @@
           "amount": 399.99
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "299,00 €",
-          "amount": 299
-        },
-        {
           "name": "Ultimate (yearly)",
           "price": "799,99 €",
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:25.713Z"
+      "fetchedAt": "2026-10-26T09:25:06.117Z"
     },
     "au": {
       "currency": "AUD",
@@ -512,7 +512,7 @@
           "amount": 1199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:27.172Z"
+      "fetchedAt": "2026-10-26T09:25:07.648Z"
     },
     "az": {
       "currency": "USD",
@@ -563,7 +563,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:28.723Z"
+      "fetchedAt": "2026-10-26T09:25:09.157Z"
     },
     "ba": {
       "currency": "EUR",
@@ -614,7 +614,7 @@
           "amount": 44.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:30.209Z"
+      "fetchedAt": "2026-10-26T09:25:10.674Z"
     },
     "bb": {
       "currency": "USD",
@@ -665,7 +665,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:32.108Z"
+      "fetchedAt": "2026-10-26T09:25:12.155Z"
     },
     "be": {
       "currency": "EUR",
@@ -676,14 +676,14 @@
           "amount": 17.99
         },
         {
-          "name": "Premium",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "Ultimate",
           "price": "89,99 €",
           "amount": 89.99
+        },
+        {
+          "name": "Premium",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -716,7 +716,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:33.218Z"
+      "fetchedAt": "2026-10-26T09:25:13.632Z"
     },
     "bf": {
       "currency": "USD",
@@ -767,7 +767,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:34.711Z"
+      "fetchedAt": "2026-10-26T09:25:15.149Z"
     },
     "bg": {
       "currency": "EUR",
@@ -818,7 +818,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:36.241Z"
+      "fetchedAt": "2026-10-26T09:25:16.660Z"
     },
     "bh": {
       "currency": "USD",
@@ -869,7 +869,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:37.828Z"
+      "fetchedAt": "2026-10-26T09:25:18.131Z"
     },
     "bj": {
       "currency": "USD",
@@ -920,7 +920,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:39.246Z"
+      "fetchedAt": "2026-10-26T09:25:19.685Z"
     },
     "bm": {
       "currency": "USD",
@@ -971,7 +971,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:40.780Z"
+      "fetchedAt": "2026-10-26T09:25:21.092Z"
     },
     "bn": {
       "currency": "USD",
@@ -1022,7 +1022,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:42.331Z"
+      "fetchedAt": "2026-10-26T09:25:22.678Z"
     },
     "bo": {
       "currency": "USD",
@@ -1073,7 +1073,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:43.760Z"
+      "fetchedAt": "2026-10-26T09:25:24.128Z"
     },
     "br": {
       "currency": "BRL",
@@ -1109,14 +1109,14 @@
           "amount": 1999.9
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "R$ 1.799,90",
-          "amount": 1799.9
-        },
-        {
           "name": "5,500 Top-up Tokens",
           "price": "R$ 79,90",
           "amount": 79.9
+        },
+        {
+          "name": "165,000 Top-up Tokens",
+          "price": "R$ 1.799,90",
+          "amount": 1799.9
         },
         {
           "name": "Ultimate (yearly)",
@@ -1124,7 +1124,7 @@
           "amount": 3999.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:45.180Z"
+      "fetchedAt": "2026-10-26T09:25:25.663Z"
     },
     "bs": {
       "currency": "USD",
@@ -1175,7 +1175,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:46.753Z"
+      "fetchedAt": "2026-10-26T09:25:27.117Z"
     },
     "bt": {
       "currency": "USD",
@@ -1226,7 +1226,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:48.481Z"
+      "fetchedAt": "2026-10-26T09:25:28.665Z"
     },
     "bw": {
       "currency": "USD",
@@ -1277,7 +1277,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:49.768Z"
+      "fetchedAt": "2026-10-26T09:25:30.166Z"
     },
     "by": {
       "currency": "USD",
@@ -1328,7 +1328,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:51.236Z"
+      "fetchedAt": "2026-10-26T09:25:31.640Z"
     },
     "bz": {
       "currency": "USD",
@@ -1379,7 +1379,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:53.009Z"
+      "fetchedAt": "2026-10-26T09:25:33.155Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1410,14 +1410,14 @@
           "amount": 199.99
         },
         {
-          "name": "5,500 Top-up Tokens",
-          "price": "$19.00",
-          "amount": 19
-        },
-        {
           "name": "Premium (yearly)",
           "price": "$499.99",
           "amount": 499.99
+        },
+        {
+          "name": "5,500 Top-up Tokens",
+          "price": "$19.00",
+          "amount": 19
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -1430,7 +1430,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:54.167Z"
+      "fetchedAt": "2026-10-26T09:25:34.620Z"
     },
     "cd": {
       "currency": "USD",
@@ -1481,7 +1481,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:55.704Z"
+      "fetchedAt": "2026-10-26T09:25:36.184Z"
     },
     "cg": {
       "currency": "USD",
@@ -1532,7 +1532,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:57.259Z"
+      "fetchedAt": "2026-10-26T09:25:37.691Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1548,9 +1548,9 @@
           "amount": 40
         },
         {
-          "name": "Ultimate",
-          "price": "CHF 80.00",
-          "amount": 80
+          "name": "Essential (yearly)",
+          "price": "CHF 150.00",
+          "amount": 150
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -1558,9 +1558,9 @@
           "amount": 60
         },
         {
-          "name": "Essential (yearly)",
-          "price": "CHF 150.00",
-          "amount": 150
+          "name": "Ultimate",
+          "price": "CHF 80.00",
+          "amount": 80
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -1583,7 +1583,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-10-19T09:25:58.728Z"
+      "fetchedAt": "2026-10-26T09:25:39.146Z"
     },
     "ci": {
       "currency": "USD",
@@ -1634,7 +1634,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:00.322Z"
+      "fetchedAt": "2026-10-26T09:25:40.691Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1685,7 +1685,7 @@
           "amount": 699990
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:01.697Z"
+      "fetchedAt": "2026-10-26T09:25:42.176Z"
     },
     "cm": {
       "currency": "USD",
@@ -1736,7 +1736,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:03.326Z"
+      "fetchedAt": "2026-10-26T09:25:43.644Z"
     },
     "cn": {
       "available": false,
@@ -1751,14 +1751,14 @@
           "amount": 99900
         },
         {
-          "name": "Premium",
-          "price": "$ 229.900,00",
-          "amount": 229900
-        },
-        {
           "name": "Essential (yearly)",
           "price": "$ 999.900,00",
           "amount": 999900
+        },
+        {
+          "name": "Premium",
+          "price": "$ 229.900,00",
+          "amount": 229900
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -1791,7 +1791,7 @@
           "amount": 499900
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:04.727Z"
+      "fetchedAt": "2026-10-26T09:25:45.285Z"
     },
     "cr": {
       "currency": "USD",
@@ -1800,6 +1800,11 @@
           "name": "Essential",
           "price": "USD 15.99",
           "amount": 15.99
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "USD 159.99",
+          "amount": 159.99
         },
         {
           "name": "Premium",
@@ -1822,11 +1827,6 @@
           "amount": 65
         },
         {
-          "name": "Essential (yearly)",
-          "price": "USD 159.99",
-          "amount": 159.99
-        },
-        {
           "name": "165,000 Top-up Tokens",
           "price": "USD 259.00",
           "amount": 259
@@ -1842,7 +1842,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:06.223Z"
+      "fetchedAt": "2026-10-26T09:25:46.667Z"
     },
     "cv": {
       "currency": "USD",
@@ -1893,7 +1893,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:07.972Z"
+      "fetchedAt": "2026-10-26T09:25:48.153Z"
     },
     "cy": {
       "currency": "EUR",
@@ -1944,7 +1944,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:09.161Z"
+      "fetchedAt": "2026-10-26T09:25:49.678Z"
     },
     "cz": {
       "currency": "CZK",
@@ -1965,6 +1965,11 @@
           "amount": 1990
         },
         {
+          "name": "165,000 Top-up Tokens",
+          "price": "6 990,00 Kč",
+          "amount": 6990
+        },
+        {
           "name": "35,000 Top-up Tokens",
           "price": "1 790,00 Kč",
           "amount": 1790
@@ -1980,11 +1985,6 @@
           "amount": 9990
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "6 990,00 Kč",
-          "amount": 6990
-        },
-        {
           "name": "5,500 Top-up Tokens",
           "price": "349,00 Kč",
           "amount": 349
@@ -1995,7 +1995,7 @@
           "amount": 19990
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:10.711Z"
+      "fetchedAt": "2026-10-26T09:25:51.169Z"
     },
     "de": {
       "currency": "EUR",
@@ -2046,7 +2046,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:12.238Z"
+      "fetchedAt": "2026-10-26T09:25:52.711Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2097,7 +2097,7 @@
           "amount": 6999
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:13.901Z"
+      "fetchedAt": "2026-10-26T09:25:54.259Z"
     },
     "dm": {
       "currency": "USD",
@@ -2148,7 +2148,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:15.341Z"
+      "fetchedAt": "2026-10-26T09:25:55.608Z"
     },
     "do": {
       "currency": "USD",
@@ -2199,7 +2199,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:16.685Z"
+      "fetchedAt": "2026-10-26T09:25:57.237Z"
     },
     "dz": {
       "currency": "USD",
@@ -2250,7 +2250,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:18.202Z"
+      "fetchedAt": "2026-10-26T09:25:58.769Z"
     },
     "ec": {
       "currency": "USD",
@@ -2301,7 +2301,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:19.763Z"
+      "fetchedAt": "2026-10-26T09:26:00.141Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2352,7 +2352,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:21.256Z"
+      "fetchedAt": "2026-10-26T09:26:01.654Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2368,14 +2368,14 @@
           "amount": 1199.99
         },
         {
-          "name": "Essential (yearly)",
-          "price": "EGP 4,999.99",
-          "amount": 4999.99
-        },
-        {
           "name": "Ultimate",
           "price": "EGP 2,499.99",
           "amount": 2499.99
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -2403,7 +2403,7 @@
           "amount": 22999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:22.734Z"
+      "fetchedAt": "2026-10-26T09:26:03.157Z"
     },
     "es": {
       "currency": "EUR",
@@ -2454,7 +2454,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:24.246Z"
+      "fetchedAt": "2026-10-26T09:26:04.664Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2505,7 +2505,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:25.698Z"
+      "fetchedAt": "2026-10-26T09:26:06.129Z"
     },
     "fj": {
       "currency": "USD",
@@ -2556,7 +2556,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:27.192Z"
+      "fetchedAt": "2026-10-26T09:26:07.926Z"
     },
     "fm": {
       "currency": "USD",
@@ -2607,7 +2607,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:28.751Z"
+      "fetchedAt": "2026-10-26T09:26:09.131Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2623,14 +2623,14 @@
           "amount": 44.99
         },
         {
-          "name": "Ultimate",
-          "price": "89,99 €",
-          "amount": 89.99
-        },
-        {
           "name": "35,000 Top-up Tokens",
           "price": "69,00 €",
           "amount": 69
+        },
+        {
+          "name": "Ultimate",
+          "price": "89,99 €",
+          "amount": 89.99
         },
         {
           "name": "Essential (yearly)",
@@ -2638,14 +2638,14 @@
           "amount": 179.99
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "299,00 €",
-          "amount": 299
-        },
-        {
           "name": "Premium (yearly)",
           "price": "399,99 €",
           "amount": 399.99
+        },
+        {
+          "name": "165,000 Top-up Tokens",
+          "price": "299,00 €",
+          "amount": 299
         },
         {
           "name": "5,500 Top-up Tokens",
@@ -2658,7 +2658,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:30.226Z"
+      "fetchedAt": "2026-10-26T09:26:10.683Z"
     },
     "ga": {
       "currency": "USD",
@@ -2709,7 +2709,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:31.706Z"
+      "fetchedAt": "2026-10-26T09:26:12.149Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2740,14 +2740,14 @@
           "amount": 149.99
         },
         {
-          "name": "5,500 Top-up Tokens",
-          "price": "£12.00",
-          "amount": 12
-        },
-        {
           "name": "165,000 Top-up Tokens",
           "price": "£249.00",
           "amount": 249
+        },
+        {
+          "name": "5,500 Top-up Tokens",
+          "price": "£12.00",
+          "amount": 12
         },
         {
           "name": "Premium (yearly)",
@@ -2760,7 +2760,7 @@
           "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:33.243Z"
+      "fetchedAt": "2026-10-26T09:26:13.640Z"
     },
     "gd": {
       "currency": "USD",
@@ -2811,7 +2811,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:34.754Z"
+      "fetchedAt": "2026-10-26T09:26:15.114Z"
     },
     "ge": {
       "currency": "USD",
@@ -2822,14 +2822,14 @@
           "amount": 19.99
         },
         {
-          "name": "Ultimate",
-          "price": "USD 99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Premium",
           "price": "USD 49.99",
           "amount": 49.99
+        },
+        {
+          "name": "Ultimate",
+          "price": "USD 99.99",
+          "amount": 99.99
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -2862,7 +2862,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:36.206Z"
+      "fetchedAt": "2026-10-26T09:26:16.619Z"
     },
     "gh": {
       "currency": "USD",
@@ -2913,7 +2913,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:37.715Z"
+      "fetchedAt": "2026-10-26T09:26:18.176Z"
     },
     "gm": {
       "currency": "USD",
@@ -2964,7 +2964,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:39.246Z"
+      "fetchedAt": "2026-10-26T09:26:19.800Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3015,7 +3015,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:40.681Z"
+      "fetchedAt": "2026-10-26T09:26:21.259Z"
     },
     "gt": {
       "currency": "USD",
@@ -3066,7 +3066,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:42.158Z"
+      "fetchedAt": "2026-10-26T09:26:22.709Z"
     },
     "gw": {
       "currency": "USD",
@@ -3117,7 +3117,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:43.711Z"
+      "fetchedAt": "2026-10-26T09:26:24.227Z"
     },
     "gy": {
       "currency": "USD",
@@ -3168,40 +3168,15 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:45.243Z"
+      "fetchedAt": "2026-10-26T09:26:25.665Z"
     },
     "hk": {
       "currency": "HKD",
       "items": [
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "HK$ 1,888.00",
-          "amount": 1888
-        },
-        {
-          "name": "35,000 Top-up Tokens",
-          "price": "HK$ 488.00",
-          "amount": 488
-        },
-        {
-          "name": "5,500 Top-up Tokens",
-          "price": "HK$ 98.00",
-          "amount": 98
-        },
-        {
-          "name": "Essential (yearly)",
-          "price": "HK$ 1,288.00",
-          "amount": 1288
-        },
-        {
-          "name": "Premium (yearly)",
-          "price": "HK$ 2,888.00",
-          "amount": 2888
-        },
-        {
-          "name": "Ultimate (yearly)",
-          "price": "HK$ 5,888.00",
-          "amount": 5888
+          "name": "Essential",
+          "price": "HK$ 128.00",
+          "amount": 128
         },
         {
           "name": "Premium",
@@ -3209,17 +3184,42 @@
           "amount": 288
         },
         {
+          "name": "35,000 Top-up Tokens",
+          "price": "HK$ 488.00",
+          "amount": 488
+        },
+        {
           "name": "Ultimate",
           "price": "HK$ 588.00",
           "amount": 588
         },
         {
-          "name": "Essential",
-          "price": "HK$ 128.00",
-          "amount": 128
+          "name": "165,000 Top-up Tokens",
+          "price": "HK$ 1,888.00",
+          "amount": 1888
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "HK$ 1,288.00",
+          "amount": 1288
+        },
+        {
+          "name": "Ultimate (yearly)",
+          "price": "HK$ 5,888.00",
+          "amount": 5888
+        },
+        {
+          "name": "Premium (yearly)",
+          "price": "HK$ 2,888.00",
+          "amount": 2888
+        },
+        {
+          "name": "5,500 Top-up Tokens",
+          "price": "HK$ 98.00",
+          "amount": 98
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:46.622Z"
+      "fetchedAt": "2026-10-26T09:26:27.150Z"
     },
     "hn": {
       "currency": "USD",
@@ -3270,7 +3270,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:48.179Z"
+      "fetchedAt": "2026-10-26T09:26:28.635Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3321,7 +3321,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:49.711Z"
+      "fetchedAt": "2026-10-26T09:26:30.246Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3372,7 +3372,7 @@
           "amount": 349990
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:51.261Z"
+      "fetchedAt": "2026-10-26T09:26:31.659Z"
     },
     "id": {
       "currency": "IDR",
@@ -3423,7 +3423,7 @@
           "amount": 12999
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:52.775Z"
+      "fetchedAt": "2026-10-26T09:26:33.162Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3449,14 +3449,14 @@
           "amount": 89.99
         },
         {
-          "name": "Essential (yearly)",
-          "price": "€179.99",
-          "amount": 179.99
-        },
-        {
           "name": "Premium (yearly)",
           "price": "€399.99",
           "amount": 399.99
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "€179.99",
+          "amount": 179.99
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -3474,7 +3474,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:54.251Z"
+      "fetchedAt": "2026-10-26T09:26:34.672Z"
     },
     "il": {
       "currency": "ILS",
@@ -3525,7 +3525,7 @@
           "amount": 2499.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:55.808Z"
+      "fetchedAt": "2026-10-26T09:26:36.117Z"
     },
     "in": {
       "currency": "INR",
@@ -3541,14 +3541,14 @@
           "amount": 3999
         },
         {
-          "name": "35,000 Top-up Tokens",
-          "price": "₹ 6,900",
-          "amount": 6900
-        },
-        {
           "name": "Ultimate",
           "price": "₹ 7,900",
           "amount": 7900
+        },
+        {
+          "name": "35,000 Top-up Tokens",
+          "price": "₹ 6,900",
+          "amount": 6900
         },
         {
           "name": "Essential (yearly)",
@@ -3576,7 +3576,7 @@
           "amount": 79900
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:57.255Z"
+      "fetchedAt": "2026-10-26T09:26:37.653Z"
     },
     "iq": {
       "currency": "USD",
@@ -3627,7 +3627,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:26:58.735Z"
+      "fetchedAt": "2026-10-26T09:26:39.281Z"
     },
     "is": {
       "currency": "USD",
@@ -3678,7 +3678,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:00.188Z"
+      "fetchedAt": "2026-10-26T09:26:40.634Z"
     },
     "it": {
       "currency": "EUR",
@@ -3729,7 +3729,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:01.688Z"
+      "fetchedAt": "2026-10-26T09:26:42.161Z"
     },
     "jm": {
       "currency": "USD",
@@ -3780,7 +3780,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:03.379Z"
+      "fetchedAt": "2026-10-26T09:26:43.650Z"
     },
     "jo": {
       "currency": "USD",
@@ -3831,7 +3831,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:04.970Z"
+      "fetchedAt": "2026-10-26T09:26:45.170Z"
     },
     "jp": {
       "currency": "JPY",
@@ -3882,7 +3882,7 @@
           "amount": 110000
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:06.218Z"
+      "fetchedAt": "2026-10-26T09:26:46.691Z"
     },
     "ke": {
       "currency": "USD",
@@ -3933,7 +3933,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:08.029Z"
+      "fetchedAt": "2026-10-26T09:26:48.167Z"
     },
     "kg": {
       "currency": "USD",
@@ -3984,7 +3984,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:09.197Z"
+      "fetchedAt": "2026-10-26T09:26:49.679Z"
     },
     "kh": {
       "currency": "USD",
@@ -4035,7 +4035,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:10.663Z"
+      "fetchedAt": "2026-10-26T09:26:51.196Z"
     },
     "kn": {
       "currency": "USD",
@@ -4086,7 +4086,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:12.214Z"
+      "fetchedAt": "2026-10-26T09:26:52.676Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4102,14 +4102,14 @@
           "amount": 55000
         },
         {
+          "name": "Premium (yearly)",
+          "price": "￦499,000",
+          "amount": 499000
+        },
+        {
           "name": "Ultimate",
           "price": "￦110,000",
           "amount": 110000
-        },
-        {
-          "name": "35,000 Top-up Tokens",
-          "price": "￦99,000",
-          "amount": 99000
         },
         {
           "name": "Essential (yearly)",
@@ -4117,14 +4117,14 @@
           "amount": 229000
         },
         {
+          "name": "35,000 Top-up Tokens",
+          "price": "￦99,000",
+          "amount": 99000
+        },
+        {
           "name": "5,500 Top-up Tokens",
           "price": "￦22,000",
           "amount": 22000
-        },
-        {
-          "name": "Premium (yearly)",
-          "price": "￦499,000",
-          "amount": 499000
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -4137,7 +4137,7 @@
           "amount": 999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:13.696Z"
+      "fetchedAt": "2026-10-26T09:26:54.178Z"
     },
     "kw": {
       "currency": "USD",
@@ -4188,7 +4188,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:15.179Z"
+      "fetchedAt": "2026-10-26T09:26:55.668Z"
     },
     "ky": {
       "currency": "USD",
@@ -4239,7 +4239,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:16.675Z"
+      "fetchedAt": "2026-10-26T09:26:57.164Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4290,7 +4290,7 @@
           "amount": 399990
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:18.242Z"
+      "fetchedAt": "2026-10-26T09:26:58.748Z"
     },
     "la": {
       "currency": "USD",
@@ -4341,7 +4341,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:19.704Z"
+      "fetchedAt": "2026-10-26T09:27:00.223Z"
     },
     "lb": {
       "currency": "USD",
@@ -4392,7 +4392,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:21.193Z"
+      "fetchedAt": "2026-10-26T09:27:01.713Z"
     },
     "lc": {
       "currency": "USD",
@@ -4443,7 +4443,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:22.728Z"
+      "fetchedAt": "2026-10-26T09:27:03.211Z"
     },
     "lk": {
       "currency": "USD",
@@ -4494,7 +4494,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:24.208Z"
+      "fetchedAt": "2026-10-26T09:27:04.652Z"
     },
     "lr": {
       "currency": "USD",
@@ -4545,7 +4545,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:25.886Z"
+      "fetchedAt": "2026-10-26T09:27:06.213Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4596,7 +4596,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:27.192Z"
+      "fetchedAt": "2026-10-26T09:27:07.656Z"
     },
     "lu": {
       "currency": "EUR",
@@ -4607,14 +4607,14 @@
           "amount": 17.99
         },
         {
-          "name": "35,000 Top-up Tokens",
-          "price": "69,00 €",
-          "amount": 69
-        },
-        {
           "name": "Premium",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "35,000 Top-up Tokens",
+          "price": "69,00 €",
+          "amount": 69
         },
         {
           "name": "Essential (yearly)",
@@ -4647,7 +4647,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:28.831Z"
+      "fetchedAt": "2026-10-26T09:27:09.171Z"
     },
     "lv": {
       "currency": "EUR",
@@ -4698,7 +4698,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:30.275Z"
+      "fetchedAt": "2026-10-26T09:27:10.655Z"
     },
     "ly": {
       "currency": "USD",
@@ -4749,7 +4749,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:31.761Z"
+      "fetchedAt": "2026-10-26T09:27:12.194Z"
     },
     "ma": {
       "currency": "USD",
@@ -4800,7 +4800,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:33.216Z"
+      "fetchedAt": "2026-10-26T09:27:13.652Z"
     },
     "md": {
       "currency": "USD",
@@ -4851,7 +4851,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:34.740Z"
+      "fetchedAt": "2026-10-26T09:27:15.167Z"
     },
     "me": {
       "currency": "EUR",
@@ -4902,7 +4902,7 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:36.248Z"
+      "fetchedAt": "2026-10-26T09:27:16.806Z"
     },
     "mg": {
       "currency": "USD",
@@ -4953,7 +4953,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:37.760Z"
+      "fetchedAt": "2026-10-26T09:27:18.181Z"
     },
     "mk": {
       "currency": "USD",
@@ -5004,7 +5004,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:39.233Z"
+      "fetchedAt": "2026-10-26T09:27:19.675Z"
     },
     "ml": {
       "currency": "USD",
@@ -5055,7 +5055,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:40.701Z"
+      "fetchedAt": "2026-10-26T09:27:21.192Z"
     },
     "mm": {
       "currency": "USD",
@@ -5106,7 +5106,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:42.329Z"
+      "fetchedAt": "2026-10-26T09:27:22.843Z"
     },
     "mn": {
       "currency": "USD",
@@ -5157,7 +5157,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:43.744Z"
+      "fetchedAt": "2026-10-26T09:27:24.171Z"
     },
     "mo": {
       "currency": "USD",
@@ -5208,7 +5208,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:45.240Z"
+      "fetchedAt": "2026-10-26T09:27:25.638Z"
     },
     "mr": {
       "currency": "USD",
@@ -5259,7 +5259,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:46.834Z"
+      "fetchedAt": "2026-10-26T09:27:27.220Z"
     },
     "ms": {
       "currency": "USD",
@@ -5310,7 +5310,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:48.201Z"
+      "fetchedAt": "2026-10-26T09:27:28.720Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5361,7 +5361,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:49.696Z"
+      "fetchedAt": "2026-10-26T09:27:30.129Z"
     },
     "mu": {
       "currency": "USD",
@@ -5412,7 +5412,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:51.244Z"
+      "fetchedAt": "2026-10-26T09:27:31.795Z"
     },
     "mv": {
       "currency": "USD",
@@ -5423,6 +5423,11 @@
           "amount": 15.99
         },
         {
+          "name": "Ultimate",
+          "price": "USD 79.99",
+          "amount": 79.99
+        },
+        {
           "name": "35,000 Top-up Tokens",
           "price": "USD 65.00",
           "amount": 65
@@ -5456,18 +5461,18 @@
           "name": "Ultimate (yearly)",
           "price": "USD 749.99",
           "amount": 749.99
-        },
-        {
-          "name": "Ultimate",
-          "price": "USD 79.99",
-          "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:52.776Z"
+      "fetchedAt": "2026-10-26T09:27:33.173Z"
     },
     "mw": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Premium",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
         {
           "name": "Essential",
           "price": "USD 15.99",
@@ -5504,17 +5509,12 @@
           "amount": 749.99
         },
         {
-          "name": "Premium",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "Ultimate",
           "price": "USD 79.99",
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:54.215Z"
+      "fetchedAt": "2026-10-26T09:27:34.660Z"
     },
     "mx": {
       "currency": "MXN",
@@ -5530,11 +5530,6 @@
           "amount": 899
         },
         {
-          "name": "Essential (yearly)",
-          "price": "$3,499.00",
-          "amount": 3499
-        },
-        {
           "name": "Ultimate",
           "price": "$1,799.00",
           "amount": 1799
@@ -5543,6 +5538,11 @@
           "name": "35,000 Top-up Tokens",
           "price": "$1,299.00",
           "amount": 1299
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "$3,499.00",
+          "amount": 3499
         },
         {
           "name": "Premium (yearly)",
@@ -5565,7 +5565,7 @@
           "amount": 5999
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:55.859Z"
+      "fetchedAt": "2026-10-26T09:27:36.216Z"
     },
     "my": {
       "currency": "MYR",
@@ -5576,14 +5576,14 @@
           "amount": 69.9
         },
         {
-          "name": "35,000 Top-up Tokens",
-          "price": "RM299.90",
-          "amount": 299.9
-        },
-        {
           "name": "Premium",
           "price": "RM199.90",
           "amount": 199.9
+        },
+        {
+          "name": "35,000 Top-up Tokens",
+          "price": "RM299.90",
+          "amount": 299.9
         },
         {
           "name": "Ultimate",
@@ -5616,20 +5616,20 @@
           "amount": 3499.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:57.213Z"
+      "fetchedAt": "2026-10-26T09:27:37.692Z"
     },
     "mz": {
       "currency": "USD",
       "items": [
         {
-          "name": "Essential",
-          "price": "USD 15.99",
-          "amount": 15.99
-        },
-        {
           "name": "Premium",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Essential",
+          "price": "USD 15.99",
+          "amount": 15.99
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -5667,7 +5667,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:27:58.791Z"
+      "fetchedAt": "2026-10-26T09:27:39.161Z"
     },
     "na": {
       "currency": "USD",
@@ -5718,7 +5718,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:00.318Z"
+      "fetchedAt": "2026-10-26T09:27:40.670Z"
     },
     "ne": {
       "currency": "USD",
@@ -5769,7 +5769,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:01.713Z"
+      "fetchedAt": "2026-10-26T09:27:42.138Z"
     },
     "ng": {
       "currency": "NGN",
@@ -5800,6 +5800,11 @@
           "amount": 79900
         },
         {
+          "name": "165,000 Top-up Tokens",
+          "price": "₦ 399,900.00",
+          "amount": 399900
+        },
+        {
           "name": "Premium (yearly)",
           "price": "₦ 199,900.00",
           "amount": 199900
@@ -5810,17 +5815,12 @@
           "amount": 399900
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "₦ 399,900.00",
-          "amount": 399900
-        },
-        {
           "name": "5,500 Top-up Tokens",
           "price": "₦ 19,900.00",
           "amount": 19900
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:03.241Z"
+      "fetchedAt": "2026-10-26T09:27:43.631Z"
     },
     "ni": {
       "currency": "USD",
@@ -5871,7 +5871,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:04.874Z"
+      "fetchedAt": "2026-10-26T09:27:45.192Z"
     },
     "nl": {
       "currency": "EUR",
@@ -5892,14 +5892,14 @@
           "amount": 69
         },
         {
-          "name": "Ultimate",
-          "price": "€ 89,99",
-          "amount": 89.99
-        },
-        {
           "name": "Essential (yearly)",
           "price": "€ 179,99",
           "amount": 179.99
+        },
+        {
+          "name": "Ultimate",
+          "price": "€ 89,99",
+          "amount": 89.99
         },
         {
           "name": "Premium (yearly)",
@@ -5922,7 +5922,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:06.190Z"
+      "fetchedAt": "2026-10-26T09:27:46.645Z"
     },
     "no": {
       "currency": "NOK",
@@ -5943,6 +5943,11 @@
           "amount": 999
         },
         {
+          "name": "Essential (yearly)",
+          "price": "1.990,00 kr",
+          "amount": 1990
+        },
+        {
           "name": "5,500 Top-up Tokens",
           "price": "179,00 kr",
           "amount": 179
@@ -5951,11 +5956,6 @@
           "name": "35,000 Top-up Tokens",
           "price": "799,00 kr",
           "amount": 799
-        },
-        {
-          "name": "Essential (yearly)",
-          "price": "1.990,00 kr",
-          "amount": 1990
         },
         {
           "name": "Premium (yearly)",
@@ -5973,7 +5973,7 @@
           "amount": 9990
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:07.767Z"
+      "fetchedAt": "2026-10-26T09:27:48.168Z"
     },
     "np": {
       "currency": "USD",
@@ -6024,7 +6024,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:09.187Z"
+      "fetchedAt": "2026-10-26T09:27:49.731Z"
     },
     "nr": {
       "currency": "USD",
@@ -6075,7 +6075,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:10.690Z"
+      "fetchedAt": "2026-10-26T09:27:51.239Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6126,7 +6126,7 @@
           "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:12.188Z"
+      "fetchedAt": "2026-10-26T09:27:52.779Z"
     },
     "om": {
       "currency": "USD",
@@ -6177,7 +6177,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:13.702Z"
+      "fetchedAt": "2026-10-26T09:27:54.189Z"
     },
     "pa": {
       "currency": "USD",
@@ -6228,7 +6228,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:15.245Z"
+      "fetchedAt": "2026-10-26T09:27:55.694Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6279,7 +6279,7 @@
           "amount": 2999.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:16.657Z"
+      "fetchedAt": "2026-10-26T09:27:57.148Z"
     },
     "pg": {
       "currency": "USD",
@@ -6330,7 +6330,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:18.374Z"
+      "fetchedAt": "2026-10-26T09:27:58.663Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6341,14 +6341,14 @@
           "amount": 899
         },
         {
-          "name": "Premium",
-          "price": "₱ 2,290.00",
-          "amount": 2290
-        },
-        {
           "name": "Ultimate",
           "price": "₱ 3,990.00",
           "amount": 3990
+        },
+        {
+          "name": "Premium",
+          "price": "₱ 2,290.00",
+          "amount": 2290
         },
         {
           "name": "165,000 Top-up Tokens",
@@ -6381,7 +6381,7 @@
           "amount": 39990
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:19.681Z"
+      "fetchedAt": "2026-10-26T09:28:00.132Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6432,7 +6432,7 @@
           "amount": 199900
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:21.200Z"
+      "fetchedAt": "2026-10-26T09:28:01.649Z"
     },
     "pl": {
       "currency": "PLN",
@@ -6458,14 +6458,14 @@
           "amount": 399.99
         },
         {
-          "name": "5,500 Top-up Tokens",
-          "price": "59,99 zł",
-          "amount": 59.99
-        },
-        {
           "name": "Essential (yearly)",
           "price": "899,99 zł",
           "amount": 899.99
+        },
+        {
+          "name": "5,500 Top-up Tokens",
+          "price": "59,99 zł",
+          "amount": 59.99
         },
         {
           "name": "Premium (yearly)",
@@ -6483,7 +6483,7 @@
           "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:22.676Z"
+      "fetchedAt": "2026-10-26T09:28:03.151Z"
     },
     "pt": {
       "currency": "EUR",
@@ -6494,14 +6494,14 @@
           "amount": 17.99
         },
         {
-          "name": "Premium",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
           "name": "165,000 Top-up Tokens",
           "price": "299,00 €",
           "amount": 299
+        },
+        {
+          "name": "Premium",
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "35,000 Top-up Tokens",
@@ -6534,7 +6534,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:24.312Z"
+      "fetchedAt": "2026-10-26T09:28:04.688Z"
     },
     "pw": {
       "currency": "USD",
@@ -6585,7 +6585,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:25.772Z"
+      "fetchedAt": "2026-10-26T09:28:06.193Z"
     },
     "py": {
       "currency": "USD",
@@ -6636,7 +6636,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:27.184Z"
+      "fetchedAt": "2026-10-26T09:28:07.701Z"
     },
     "qa": {
       "currency": "QAR",
@@ -6647,24 +6647,24 @@
           "amount": 59.99
         },
         {
-          "name": "Ultimate",
-          "price": "QAR 299.99",
-          "amount": 299.99
-        },
-        {
           "name": "Premium",
           "price": "QAR 149.99",
           "amount": 149.99
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "QAR 999.99",
-          "amount": 999.99
+          "name": "Ultimate",
+          "price": "QAR 299.99",
+          "amount": 299.99
         },
         {
           "name": "35,000 Top-up Tokens",
           "price": "QAR 229.99",
           "amount": 229.99
+        },
+        {
+          "name": "165,000 Top-up Tokens",
+          "price": "QAR 999.99",
+          "amount": 999.99
         },
         {
           "name": "Essential (yearly)",
@@ -6687,7 +6687,7 @@
           "amount": 2999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:28.737Z"
+      "fetchedAt": "2026-10-26T09:28:09.187Z"
     },
     "ro": {
       "currency": "RON",
@@ -6738,7 +6738,7 @@
           "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:30.248Z"
+      "fetchedAt": "2026-10-26T09:28:10.700Z"
     },
     "rs": {
       "currency": "EUR",
@@ -6789,7 +6789,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:31.746Z"
+      "fetchedAt": "2026-10-26T09:28:12.250Z"
     },
     "ru": {
       "currency": "RUB",
@@ -6840,7 +6840,7 @@
           "amount": 69990
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:33.167Z"
+      "fetchedAt": "2026-10-26T09:28:13.717Z"
     },
     "rw": {
       "currency": "USD",
@@ -6891,7 +6891,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:34.840Z"
+      "fetchedAt": "2026-10-26T09:28:15.191Z"
     },
     "sa": {
       "currency": "SAR",
@@ -6942,7 +6942,7 @@
           "amount": 59.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:36.167Z"
+      "fetchedAt": "2026-10-26T09:28:16.630Z"
     },
     "sb": {
       "currency": "USD",
@@ -6993,7 +6993,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:37.696Z"
+      "fetchedAt": "2026-10-26T09:28:18.215Z"
     },
     "sc": {
       "currency": "USD",
@@ -7044,7 +7044,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:39.224Z"
+      "fetchedAt": "2026-10-26T09:28:19.715Z"
     },
     "se": {
       "currency": "SEK",
@@ -7095,7 +7095,7 @@
           "amount": 9995
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:40.730Z"
+      "fetchedAt": "2026-10-26T09:28:21.168Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7116,14 +7116,14 @@
           "amount": 59.98
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "S$ 399.98",
-          "amount": 399.98
-        },
-        {
           "name": "Ultimate",
           "price": "S$ 99.98",
           "amount": 99.98
+        },
+        {
+          "name": "165,000 Top-up Tokens",
+          "price": "S$ 399.98",
+          "amount": 399.98
         },
         {
           "name": "Essential (yearly)",
@@ -7146,7 +7146,7 @@
           "amount": 19.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:42.231Z"
+      "fetchedAt": "2026-10-26T09:28:22.678Z"
     },
     "si": {
       "currency": "EUR",
@@ -7197,7 +7197,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:43.934Z"
+      "fetchedAt": "2026-10-26T09:28:24.205Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7223,14 +7223,14 @@
           "amount": 69
         },
         {
-          "name": "165,000 Top-up Tokens",
-          "price": "299,00 €",
-          "amount": 299
-        },
-        {
           "name": "5,500 Top-up Tokens",
           "price": "15,00 €",
           "amount": 15
+        },
+        {
+          "name": "165,000 Top-up Tokens",
+          "price": "299,00 €",
+          "amount": 299
         },
         {
           "name": "Essential (yearly)",
@@ -7248,7 +7248,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:45.239Z"
+      "fetchedAt": "2026-10-26T09:28:25.685Z"
     },
     "sl": {
       "currency": "USD",
@@ -7299,7 +7299,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:46.876Z"
+      "fetchedAt": "2026-10-26T09:28:27.181Z"
     },
     "sn": {
       "currency": "USD",
@@ -7350,7 +7350,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:48.215Z"
+      "fetchedAt": "2026-10-26T09:28:28.717Z"
     },
     "sr": {
       "currency": "USD",
@@ -7401,7 +7401,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:49.754Z"
+      "fetchedAt": "2026-10-26T09:28:30.160Z"
     },
     "st": {
       "currency": "USD",
@@ -7452,7 +7452,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:51.264Z"
+      "fetchedAt": "2026-10-26T09:28:31.649Z"
     },
     "sv": {
       "currency": "USD",
@@ -7503,7 +7503,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:52.780Z"
+      "fetchedAt": "2026-10-26T09:28:33.192Z"
     },
     "sz": {
       "currency": "USD",
@@ -7554,7 +7554,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:54.257Z"
+      "fetchedAt": "2026-10-26T09:28:34.724Z"
     },
     "tc": {
       "currency": "USD",
@@ -7605,7 +7605,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:55.693Z"
+      "fetchedAt": "2026-10-26T09:28:36.185Z"
     },
     "td": {
       "currency": "USD",
@@ -7656,7 +7656,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:57.170Z"
+      "fetchedAt": "2026-10-26T09:28:37.660Z"
     },
     "th": {
       "currency": "THB",
@@ -7707,7 +7707,7 @@
           "amount": 29990
         }
       ],
-      "fetchedAt": "2026-10-19T09:28:58.708Z"
+      "fetchedAt": "2026-10-26T09:28:39.212Z"
     },
     "tj": {
       "currency": "USD",
@@ -7758,7 +7758,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:00.234Z"
+      "fetchedAt": "2026-10-26T09:28:40.705Z"
     },
     "tm": {
       "currency": "USD",
@@ -7809,7 +7809,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:01.829Z"
+      "fetchedAt": "2026-10-26T09:28:42.331Z"
     },
     "tn": {
       "currency": "USD",
@@ -7860,7 +7860,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:03.220Z"
+      "fetchedAt": "2026-10-26T09:28:43.689Z"
     },
     "to": {
       "currency": "USD",
@@ -7911,7 +7911,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:04.756Z"
+      "fetchedAt": "2026-10-26T09:28:45.165Z"
     },
     "tr": {
       "currency": "TRY",
@@ -7962,7 +7962,7 @@
           "amount": 14999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:06.382Z"
+      "fetchedAt": "2026-10-26T09:28:46.727Z"
     },
     "tt": {
       "currency": "USD",
@@ -8013,7 +8013,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:07.789Z"
+      "fetchedAt": "2026-10-26T09:28:48.155Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8064,7 +8064,7 @@
           "amount": 25000
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:09.252Z"
+      "fetchedAt": "2026-10-26T09:28:49.682Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8115,7 +8115,7 @@
           "amount": 199900
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:10.709Z"
+      "fetchedAt": "2026-10-26T09:28:51.261Z"
     },
     "ua": {
       "currency": "USD",
@@ -8166,7 +8166,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:12.165Z"
+      "fetchedAt": "2026-10-26T09:28:52.731Z"
     },
     "ug": {
       "currency": "USD",
@@ -8217,7 +8217,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:13.697Z"
+      "fetchedAt": "2026-10-26T09:28:54.173Z"
     },
     "us": {
       "currency": "USD",
@@ -8268,16 +8268,11 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:44.446Z"
+      "fetchedAt": "2026-10-26T09:28:55.655Z"
     },
     "uy": {
       "currency": "USD",
       "items": [
-        {
-          "name": "35,000 Top-up Tokens",
-          "price": "USD 65.00",
-          "amount": 65
-        },
         {
           "name": "Essential",
           "price": "USD 15.99",
@@ -8287,6 +8282,11 @@
           "name": "Premium",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "35,000 Top-up Tokens",
+          "price": "USD 65.00",
+          "amount": 65
         },
         {
           "name": "Ultimate",
@@ -8319,7 +8319,7 @@
           "amount": 749.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:16.787Z"
+      "fetchedAt": "2026-10-26T09:28:57.153Z"
     },
     "uz": {
       "currency": "USD",
@@ -8370,7 +8370,7 @@
           "amount": 799.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:18.204Z"
+      "fetchedAt": "2026-10-26T09:28:58.671Z"
     },
     "vc": {
       "currency": "USD",
@@ -8421,7 +8421,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:19.719Z"
+      "fetchedAt": "2026-10-26T09:29:00.175Z"
     },
     "ve": {
       "currency": "USD",
@@ -8472,7 +8472,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:21.285Z"
+      "fetchedAt": "2026-10-26T09:29:01.657Z"
     },
     "vg": {
       "currency": "USD",
@@ -8523,7 +8523,7 @@
           "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:22.845Z"
+      "fetchedAt": "2026-10-26T09:29:03.142Z"
     },
     "vn": {
       "currency": "VND",
@@ -8574,7 +8574,7 @@
           "amount": 19999000
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:24.242Z"
+      "fetchedAt": "2026-10-26T09:29:04.698Z"
     },
     "vu": {
       "currency": "USD",
@@ -8625,7 +8625,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:25.691Z"
+      "fetchedAt": "2026-10-26T09:29:06.193Z"
     },
     "xk": {
       "currency": "EUR",
@@ -8676,7 +8676,7 @@
           "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:27.499Z"
+      "fetchedAt": "2026-10-26T09:29:07.700Z"
     },
     "ye": {
       "currency": "USD",
@@ -8727,7 +8727,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:28.826Z"
+      "fetchedAt": "2026-10-26T09:29:09.173Z"
     },
     "za": {
       "currency": "ZAR",
@@ -8738,24 +8738,24 @@
           "amount": 299.99
         },
         {
-          "name": "Premium",
-          "price": "R799.99",
-          "amount": 799.99
-        },
-        {
           "name": "Ultimate",
           "price": "R1,499.99",
           "amount": 1499.99
         },
         {
-          "name": "Essential (yearly)",
-          "price": "R2,999.99",
-          "amount": 2999.99
+          "name": "Premium",
+          "price": "R799.99",
+          "amount": 799.99
         },
         {
           "name": "35,000 Top-up Tokens",
           "price": "R1,299.99",
           "amount": 1299.99
+        },
+        {
+          "name": "Essential (yearly)",
+          "price": "R2,999.99",
+          "amount": 2999.99
         },
         {
           "name": "5,500 Top-up Tokens",
@@ -8778,7 +8778,7 @@
           "amount": 14999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:30.213Z"
+      "fetchedAt": "2026-10-26T09:29:10.648Z"
     },
     "zm": {
       "currency": "USD",
@@ -8829,7 +8829,7 @@
           "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:31.680Z"
+      "fetchedAt": "2026-10-26T09:29:12.165Z"
     },
     "zw": {
       "currency": "USD",
@@ -8880,7 +8880,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:29:33.241Z"
+      "fetchedAt": "2026-10-26T09:29:13.718Z"
     }
   }
 }

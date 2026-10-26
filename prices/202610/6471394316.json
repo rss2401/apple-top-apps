@@ -2,30 +2,20 @@
   "id": "6471394316",
   "name": "invideo: AI Video Editor",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:58.011Z",
+  "fetchedAt": "2026-10-26T10:04:11.050Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
       "items": [
         {
+          "name": "Max",
+          "price": "AED 2,299.99",
+          "amount": 2299.99
+        },
+        {
           "name": "Plus",
-          "price": "AED 99.99",
-          "amount": 99.99
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "AED 79.99",
-          "amount": 79.99
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "AED 129.99",
-          "amount": 129.99
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "AED 199.99",
-          "amount": 199.99
+          "price": "AED 999.99",
+          "amount": 999.99
         },
         {
           "name": "Max",
@@ -33,14 +23,19 @@
           "amount": 229.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "AED 79.99",
-          "amount": 79.99
+          "name": "Plus",
+          "price": "AED 99.99",
+          "amount": 99.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "AED 79.99",
-          "amount": 79.99
+          "name": "Basic",
+          "price": "AED 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Essential",
+          "price": "AED 119.99",
+          "amount": 119.99
         },
         {
           "name": "Generative",
@@ -48,17 +43,22 @@
           "amount": 499.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "AED 229.99",
-          "amount": 229.99
+          "name": "Generative add-on 1x",
+          "price": "AED 49.99",
+          "amount": 49.99
         },
         {
-          "name": "Gen25 1x",
+          "name": "Generative add-on 2x",
           "price": "AED 99.99",
           "amount": 99.99
+        },
+        {
+          "name": "Generative add-on 6x",
+          "price": "AED 299.99",
+          "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:10.989Z"
+      "fetchedAt": "2026-10-26T09:59:51.669Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 479.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:12.419Z"
+      "fetchedAt": "2026-10-26T09:59:53.122Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:13.866Z"
+      "fetchedAt": "2026-10-26T09:59:54.567Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,20 +226,15 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:15.421Z"
+      "fetchedAt": "2026-10-26T09:59:56.153Z"
     },
     "al": {
       "currency": "USD",
       "items": [
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Basic Yearly 1x",
+          "price": "USD 69.00",
+          "amount": 69
         },
         {
           "name": "Plus",
@@ -257,19 +252,24 @@
           "amount": 25
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
           "name": "Pro Monthly 1x",
           "price": "USD 40.00",
           "amount": 40
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Gen25 1x",
@@ -282,15 +282,15 @@
           "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:16.960Z"
+      "fetchedAt": "2026-10-26T09:59:57.638Z"
     },
     "am": {
       "currency": "USD",
       "items": [
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Plus",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -298,9 +298,9 @@
           "amount": 25
         },
         {
-          "name": "Plus",
-          "price": "USD 29.99",
-          "amount": 29.99
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Basic Monthly 1x",
@@ -313,9 +313,9 @@
           "amount": 39
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 40.00",
-          "amount": 40
+          "name": "Extra Credits 50 1x",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "Max",
@@ -323,22 +323,22 @@
           "amount": 69.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Generative",
           "price": "USD 149.99",
           "amount": 149.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
+          "name": "Pro Monthly 1x",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:18.394Z"
+      "fetchedAt": "2026-10-26T09:59:59.033Z"
     },
     "ao": {
       "currency": "USD",
@@ -347,11 +347,6 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "Plus and Generative mini pack",
@@ -367,6 +362,11 @@
           "name": "Generative",
           "price": "USD 119.99",
           "amount": 119.99
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Ads Pack 1x",
@@ -394,20 +394,25 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:19.928Z"
+      "fetchedAt": "2026-10-26T10:00:00.541Z"
     },
     "ar": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
+        },
         {
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus and Generative mini pack",
@@ -415,9 +420,14 @@
           "amount": 35
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Max",
@@ -425,24 +435,14 @@
           "amount": 59.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Pro Monthly 1x",
           "price": "USD 30.00",
           "amount": 30
         },
         {
-          "name": "Basic Yearly 1x",
-          "price": "USD 107.99",
-          "amount": 107.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "Generative",
+          "price": "USD 119.99",
+          "amount": 119.99
         },
         {
           "name": "Basic Monthly 1x",
@@ -450,7 +450,7 @@
           "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:21.426Z"
+      "fetchedAt": "2026-10-26T10:00:02.084Z"
     },
     "at": {
       "currency": "EUR",
@@ -466,14 +466,14 @@
           "amount": 22
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
         },
         {
           "name": "Ads Pack 1x",
@@ -486,16 +486,6 @@
           "amount": 69.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "Generative",
           "price": "129,99 €",
           "amount": 129.99
@@ -504,9 +494,19 @@
           "name": "Gen25 1x",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "Starter Yearly 1x",
+          "price": "129,99 €",
+          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:22.925Z"
+      "fetchedAt": "2026-10-26T10:00:03.561Z"
     },
     "au": {
       "currency": "AUD",
@@ -532,14 +532,14 @@
           "amount": 80
         },
         {
-          "name": "Max",
-          "price": "$99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "$30.00",
           "amount": 30
+        },
+        {
+          "name": "Max",
+          "price": "$99.99",
+          "amount": 99.99
         },
         {
           "name": "Generative",
@@ -562,7 +562,7 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:24.493Z"
+      "fetchedAt": "2026-10-26T10:00:05.126Z"
     },
     "az": {
       "currency": "USD",
@@ -573,19 +573,9 @@
           "amount": 29.99
         },
         {
-          "name": "Max",
-          "price": "USD 59.99",
-          "amount": 59.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
         },
         {
           "name": "Plus and Generative mini pack",
@@ -593,14 +583,14 @@
           "amount": 39
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Max",
+          "price": "USD 59.99",
+          "amount": 59.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Generative",
@@ -608,21 +598,46 @@
           "amount": 119.99
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 40.00",
-          "amount": 40
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Ads Pack 1x",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "Generative add-on 1x",
+          "price": "USD 14.00",
+          "amount": 14
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:25.919Z"
+      "fetchedAt": "2026-10-26T10:00:06.533Z"
     },
     "ba": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "Plus Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Plus",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
+        },
         {
           "name": "Pro Monthly 1x",
           "price": "35,00 €",
@@ -634,24 +649,9 @@
           "amount": 10
         },
         {
-          "name": "Plus",
-          "price": "29,99 €",
-          "amount": 29.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
         },
         {
           "name": "Max",
@@ -674,7 +674,7 @@
           "amount": 449.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:27.406Z"
+      "fetchedAt": "2026-10-26T10:00:08.031Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:28.881Z"
+      "fetchedAt": "2026-10-26T10:00:09.507Z"
     },
     "be": {
       "currency": "EUR",
@@ -761,6 +761,16 @@
           "amount": 69.99
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "70,00 €",
+          "amount": 70
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
           "name": "Starter Monthly 1x",
           "price": "22,00 €",
           "amount": 22
@@ -774,19 +784,9 @@
           "name": "Gen25 1x",
           "price": "29,00 €",
           "amount": 29
-        },
-        {
-          "name": "Ads Pack 1x",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
-          "name": "Generative Monthly 1x",
-          "price": "300,00 €",
-          "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:30.454Z"
+      "fetchedAt": "2026-10-26T10:00:11.074Z"
     },
     "bf": {
       "currency": "USD",
@@ -797,14 +797,14 @@
           "amount": 24.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Max",
@@ -842,7 +842,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:31.868Z"
+      "fetchedAt": "2026-10-26T10:00:12.569Z"
     },
     "bg": {
       "currency": "EUR",
@@ -863,24 +863,9 @@
           "amount": 10
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "39,99 €",
           "amount": 39.99
-        },
-        {
-          "name": "Max",
-          "price": "64,99 €",
-          "amount": 64.99
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "29,00 €",
-          "amount": 29
         },
         {
           "name": "Basic Monthly 1x",
@@ -893,12 +878,27 @@
           "amount": 35
         },
         {
+          "name": "Max",
+          "price": "64,99 €",
+          "amount": 64.99
+        },
+        {
+          "name": "Ultra Monthly 1x",
+          "price": "90,00 €",
+          "amount": 90
+        },
+        {
           "name": "Ads Pack 1x",
+          "price": "29,00 €",
+          "amount": 29
+        },
+        {
+          "name": "Plus Monthly 1x",
           "price": "29,00 €",
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:33.569Z"
+      "fetchedAt": "2026-10-26T10:00:14.151Z"
     },
     "bh": {
       "currency": "USD",
@@ -914,24 +914,14 @@
           "amount": 39
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "$22.00",
-          "amount": 22
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "$70.00",
-          "amount": 70
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "$22.00",
           "amount": 22
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "$50.00",
-          "amount": 50
+          "name": "Plus Monthly 1x",
+          "price": "$22.00",
+          "amount": 22
         },
         {
           "name": "Max",
@@ -949,25 +939,35 @@
           "amount": 29
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "$70.00",
+          "amount": 70
+        },
+        {
           "name": "Max Monthly 1x",
           "price": "$100.00",
           "amount": 100
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "$50.00",
+          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:34.906Z"
+      "fetchedAt": "2026-10-26T10:00:15.726Z"
     },
     "bj": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus",
-          "price": "USD 29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Plus",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -978,6 +978,11 @@
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Max",
@@ -1003,14 +1008,9 @@
           "name": "Scale Monthly 5x",
           "price": "USD 1,299.99",
           "amount": 1299.99
-        },
-        {
-          "name": "Team Yearly 5x",
-          "price": "USD 3,499.99",
-          "amount": 3499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:36.458Z"
+      "fetchedAt": "2026-10-26T10:00:17.075Z"
     },
     "bm": {
       "currency": "USD",
@@ -1024,6 +1024,11 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus and Generative mini pack",
@@ -1059,14 +1064,9 @@
           "name": "Team Yearly 5x",
           "price": "USD 2,799.99",
           "amount": 2799.99
-        },
-        {
-          "name": "Team Monthly 5x",
-          "price": "USD 394.99",
-          "amount": 394.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:37.950Z"
+      "fetchedAt": "2026-10-26T10:00:18.578Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,20 +1122,35 @@
           "amount": 239.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:39.554Z"
+      "fetchedAt": "2026-10-26T10:00:20.102Z"
     },
     "bo": {
       "currency": "USD",
       "items": [
         {
-          "name": "Max",
-          "price": "USD 59.99",
-          "amount": 59.99
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Max",
+          "price": "USD 59.99",
+          "amount": 59.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -1146,16 +1161,6 @@
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         },
         {
           "name": "Plus Monthly 1x",
@@ -1171,14 +1176,9 @@
           "name": "Team Yearly 5x",
           "price": "USD 2,799.99",
           "amount": 2799.99
-        },
-        {
-          "name": "Team Monthly 5x",
-          "price": "USD 394.99",
-          "amount": 394.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:41.082Z"
+      "fetchedAt": "2026-10-26T10:00:21.666Z"
     },
     "br": {
       "currency": "BRL",
@@ -1189,19 +1189,14 @@
           "amount": 149.9
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "R$ 59,90",
+          "amount": 59.9
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "R$ 129,90",
           "amount": 129.9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "R$ 59,90",
-          "amount": 59.9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "R$ 59,90",
-          "amount": 59.9
         },
         {
           "name": "Plus and Generative mini pack",
@@ -1224,17 +1219,22 @@
           "amount": 299.9
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "R$ 59,90",
-          "amount": 59.9
-        },
-        {
           "name": "Pro Monthly 1x",
           "price": "R$ 199,90",
           "amount": 199.9
+        },
+        {
+          "name": "Generative",
+          "price": "R$ 599,90",
+          "amount": 599.9
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "R$ 59,90",
+          "amount": 59.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:42.440Z"
+      "fetchedAt": "2026-10-26T10:00:23.054Z"
     },
     "bs": {
       "currency": "USD",
@@ -1248,6 +1248,11 @@
           "name": "Plus",
           "price": "USD 29.99",
           "amount": 29.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus and Generative mini pack",
@@ -1283,14 +1288,9 @@
           "name": "Scale Monthly 5x",
           "price": "USD 1,199.99",
           "amount": 1199.99
-        },
-        {
-          "name": "Team Yearly 5x",
-          "price": "USD 2,999.99",
-          "amount": 2999.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:44.146Z"
+      "fetchedAt": "2026-10-26T10:00:24.552Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:45.495Z"
+      "fetchedAt": "2026-10-26T10:00:26.140Z"
     },
     "bw": {
       "currency": "USD",
@@ -1355,11 +1355,6 @@
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 50.00",
-          "amount": 50
         },
         {
           "name": "Plus",
@@ -1372,14 +1367,19 @@
           "amount": 35
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Gen25 1x",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Max",
@@ -1402,7 +1402,7 @@
           "amount": 394.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:46.917Z"
+      "fetchedAt": "2026-10-26T10:00:27.543Z"
     },
     "by": {
       "currency": "USD",
@@ -1423,29 +1423,24 @@
           "amount": 25
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
-          "name": "Plus Monthly+Generative addon",
-          "price": "USD 39.00",
-          "amount": 39
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "Ads Pack 1x",
@@ -1456,9 +1451,14 @@
           "name": "Generative add-on 1x",
           "price": "USD 14.00",
           "amount": 14
+        },
+        {
+          "name": "Plus Monthly+Generative addon",
+          "price": "USD 39.00",
+          "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:48.449Z"
+      "fetchedAt": "2026-10-26T10:00:29.084Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,7 +1514,7 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:49.898Z"
+      "fetchedAt": "2026-10-26T10:00:30.857Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1540,19 +1540,14 @@
           "amount": 79.99
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
           "name": "Generative",
           "price": "$149.99",
           "amount": 149.99
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "$25.00",
-          "amount": 25
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "$25.00",
-          "amount": 25
         },
         {
           "name": "Extra Credits 50 1x",
@@ -1568,17 +1563,22 @@
           "name": "Generative add-on 1x",
           "price": "$17.00",
           "amount": 17
+        },
+        {
+          "name": "Starter Yearly 1x",
+          "price": "$149.99",
+          "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:51.445Z"
+      "fetchedAt": "2026-10-26T10:00:32.049Z"
     },
     "cd": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus",
@@ -1586,14 +1586,19 @@
           "amount": 24.99
         },
         {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         },
         {
           "name": "Gen25 1x",
@@ -1601,14 +1606,14 @@
           "amount": 25
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Ads Pack 1x",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus Monthly 1x",
@@ -1619,14 +1624,9 @@
           "name": "Gen25 2x",
           "price": "USD 50.00",
           "amount": 50
-        },
-        {
-          "name": "Max",
-          "price": "USD 59.99",
-          "amount": 59.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:52.940Z"
+      "fetchedAt": "2026-10-26T10:00:33.529Z"
     },
     "cg": {
       "currency": "USD",
@@ -1682,7 +1682,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:54.397Z"
+      "fetchedAt": "2026-10-26T10:00:35.067Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1713,19 +1713,14 @@
           "amount": 40
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "CHF 18.00",
+          "amount": 18
+        },
+        {
           "name": "Starter Yearly 1x",
           "price": "CHF 100.00",
           "amount": 100
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "CHF 18.00",
-          "amount": 18
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "CHF 18.00",
-          "amount": 18
         },
         {
           "name": "Ads Pack 1x",
@@ -1736,9 +1731,14 @@
           "name": "Generative add-on 1x",
           "price": "CHF 10.00",
           "amount": 10
+        },
+        {
+          "name": "Generative",
+          "price": "CHF 120.00",
+          "amount": 120
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:56.109Z"
+      "fetchedAt": "2026-10-26T10:00:36.549Z"
     },
     "ci": {
       "currency": "USD",
@@ -1754,19 +1754,9 @@
           "amount": 29.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 $US",
-          "amount": 10
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "25,00 $US",
           "amount": 25
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 $US",
-          "amount": 10
         },
         {
           "name": "Max",
@@ -1777,6 +1767,11 @@
           "name": "Ads Pack 1x",
           "price": "29,00 $US",
           "amount": 29
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 $US",
+          "amount": 10
         },
         {
           "name": "Plus Monthly 1x",
@@ -1792,9 +1787,14 @@
           "name": "Generative add-on 1x",
           "price": "14,00 $US",
           "amount": 14
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 $US",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:57.450Z"
+      "fetchedAt": "2026-10-26T10:00:38.080Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1805,14 +1805,39 @@
           "amount": 29990
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "$9.990",
+          "amount": 9990
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "$22.990",
           "amount": 22990
         },
         {
+          "name": "Max",
+          "price": "$59.990",
+          "amount": 59990
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "$39.990",
+          "amount": 39990
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "$59.990",
+          "amount": 59990
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "$9.990",
           "amount": 9990
+        },
+        {
+          "name": "Max Monthly 1x",
+          "price": "$99.990",
+          "amount": 99990
         },
         {
           "name": "Pro Monthly 1x",
@@ -1823,34 +1848,9 @@
           "name": "Basic Monthly 1x",
           "price": "$9.990",
           "amount": 9990
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "$39.990",
-          "amount": 39990
-        },
-        {
-          "name": "Max",
-          "price": "$59.990",
-          "amount": 59990
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$9.990",
-          "amount": 9990
-        },
-        {
-          "name": "Plus V4 Monthly 1x",
-          "price": "$34.990",
-          "amount": 34990
-        },
-        {
-          "name": "Generative add-on 1x",
-          "price": "$12.990",
-          "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-19T10:00:58.952Z"
+      "fetchedAt": "2026-10-26T10:00:39.644Z"
     },
     "cm": {
       "currency": "USD",
@@ -1859,6 +1859,11 @@
           "name": "Plus",
           "price": "29,99 $US",
           "amount": 29.99
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "40,00 $US",
+          "amount": 40
         },
         {
           "name": "Plus Monthly 1x",
@@ -1876,14 +1881,14 @@
           "amount": 69.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 $US",
-          "amount": 10
-        },
-        {
           "name": "Gen25 1x",
           "price": "29,00 $US",
           "amount": 29
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 $US",
+          "amount": 10
         },
         {
           "name": "Pro Monthly 1x",
@@ -1899,14 +1904,9 @@
           "name": "Max Monthly 1x",
           "price": "119,00 $US",
           "amount": 119
-        },
-        {
-          "name": "Stock Pack 1x",
-          "price": "12,00 $US",
-          "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:00.497Z"
+      "fetchedAt": "2026-10-26T10:00:41.015Z"
     },
     "cn": {
       "available": false,
@@ -1916,14 +1916,14 @@
       "currency": "COP",
       "items": [
         {
-          "name": "Plus",
-          "price": "$ 119.900,00",
-          "amount": 119900
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "$ 39.900,00",
           "amount": 39900
+        },
+        {
+          "name": "Plus",
+          "price": "$ 119.900,00",
+          "amount": 119900
         },
         {
           "name": "Plus Monthly 1x",
@@ -1951,6 +1951,11 @@
           "amount": 349900
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "$ 249.900,00",
+          "amount": 249900
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "$ 39.900,00",
           "amount": 39900
@@ -1959,14 +1964,9 @@
           "name": "Plus Monthly 1x",
           "price": "$ 119.900,00",
           "amount": 119900
-        },
-        {
-          "name": "Plus V4 Monthly 1x",
-          "price": "$ 129.900,00",
-          "amount": 129900
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:01.973Z"
+      "fetchedAt": "2026-10-26T10:00:42.591Z"
     },
     "cr": {
       "currency": "USD",
@@ -1977,29 +1977,19 @@
           "amount": 24.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
-          "name": "Generative",
-          "price": "USD 119.99",
-          "amount": 119.99
         },
         {
           "name": "Max",
@@ -2007,22 +1997,32 @@
           "amount": 59.99
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Generative",
+          "price": "USD 119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Generative add-on 1x",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:03.435Z"
+      "fetchedAt": "2026-10-26T10:00:44.099Z"
     },
     "cv": {
       "currency": "USD",
@@ -2078,7 +2078,7 @@
           "amount": 479.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:04.933Z"
+      "fetchedAt": "2026-10-26T10:00:45.555Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2087,11 +2087,6 @@
           "name": "Plus",
           "price": "29,99 €",
           "amount": 29.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
         },
         {
           "name": "Plus and Generative mini pack",
@@ -2114,16 +2109,6 @@
           "amount": 69.99
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
@@ -2132,9 +2117,24 @@
           "name": "Generative",
           "price": "129,99 €",
           "amount": 129.99
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Stock Pack 1x",
+          "price": "10,00 €",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:06.438Z"
+      "fetchedAt": "2026-10-26T10:00:47.044Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2160,14 +2160,14 @@
           "amount": 499
         },
         {
-          "name": "Max",
-          "price": "1 490,00 Kč",
-          "amount": 1490
-        },
-        {
           "name": "Extra Credits 50 1x",
           "price": "1 290,00 Kč",
           "amount": 1290
+        },
+        {
+          "name": "Max",
+          "price": "1 490,00 Kč",
+          "amount": 1490
         },
         {
           "name": "Plus Monthly 1x",
@@ -2180,17 +2180,17 @@
           "amount": 699
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
           "name": "Generative",
           "price": "2 990,00 Kč",
           "amount": 2990
-        },
-        {
-          "name": "Max Monthly 1x",
-          "price": "2 790,00 Kč",
-          "amount": 2790
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:07.918Z"
+      "fetchedAt": "2026-10-26T10:00:48.530Z"
     },
     "de": {
       "currency": "EUR",
@@ -2201,17 +2201,12 @@
           "amount": 29.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
         },
         {
-          "name": "Starter Monthly 1x",
+          "name": "Plus Monthly 1x",
           "price": "22,00 €",
           "amount": 22
         },
@@ -2219,11 +2214,6 @@
           "name": "Starter Monthly 1x",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Max",
-          "price": "69,99 €",
-          "amount": 69.99
         },
         {
           "name": "Extra Credits 50 1x",
@@ -2231,9 +2221,19 @@
           "amount": 60
         },
         {
+          "name": "Max",
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "Starter Yearly 1x",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Generative",
@@ -2241,12 +2241,12 @@
           "amount": 129.99
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "14,00 €",
-          "amount": 14
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:09.419Z"
+      "fetchedAt": "2026-10-26T10:00:50.058Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2262,14 +2262,14 @@
           "amount": 179
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "179,00 kr",
+          "amount": 179
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "299,00 kr",
           "amount": 299
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "399,00 kr",
-          "amount": 399
         },
         {
           "name": "Max",
@@ -2277,19 +2277,14 @@
           "amount": 499
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "179,00 kr",
-          "amount": 179
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "499,00 kr",
           "amount": 499
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "179,00 kr",
-          "amount": 179
+          "name": "Extra Credits 50 1x",
+          "price": "399,00 kr",
+          "amount": 399
         },
         {
           "name": "Ads Pack 1x",
@@ -2300,9 +2295,14 @@
           "name": "Generative add-on 1x",
           "price": "99,00 kr",
           "amount": 99
+        },
+        {
+          "name": "Gen25 1x",
+          "price": "199,00 kr",
+          "amount": 199
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:10.925Z"
+      "fetchedAt": "2026-10-26T10:00:51.537Z"
     },
     "dm": {
       "currency": "USD",
@@ -2358,7 +2358,7 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:12.450Z"
+      "fetchedAt": "2026-10-26T10:00:53.068Z"
     },
     "do": {
       "currency": "USD",
@@ -2367,6 +2367,16 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Plus and Generative mini pack",
@@ -2379,19 +2389,9 @@
           "amount": 50
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
+          "name": "Max",
+          "price": "USD 59.99",
+          "amount": 59.99
         },
         {
           "name": "Pro Monthly 1x",
@@ -2404,17 +2404,17 @@
           "amount": 9
         },
         {
-          "name": "Max",
-          "price": "USD 59.99",
-          "amount": 59.99
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
         },
         {
-          "name": "Plus V4 Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:13.951Z"
+      "fetchedAt": "2026-10-26T10:00:54.634Z"
     },
     "dz": {
       "currency": "USD",
@@ -2440,11 +2440,6 @@
           "amount": 20
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
           "name": "Extra Credits 50 1x",
           "price": "$50.00",
           "amount": 50
@@ -2468,9 +2463,14 @@
           "name": "Basic Monthly 1x",
           "price": "$9.00",
           "amount": 9
+        },
+        {
+          "name": "Plus V4 Monthly 1x",
+          "price": "$30.00",
+          "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:15.445Z"
+      "fetchedAt": "2026-10-26T10:00:56.098Z"
     },
     "ec": {
       "currency": "USD",
@@ -2481,14 +2481,14 @@
           "amount": 24.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Plus and Generative mini pack",
@@ -2496,19 +2496,24 @@
           "amount": 35
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Max",
           "price": "USD 59.99",
           "amount": 59.99
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
           "name": "Pro Monthly 1x",
           "price": "USD 30.00",
           "amount": 30
+        },
+        {
+          "name": "Ultra Monthly 1x",
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "Ads Pack 1x",
@@ -2519,14 +2524,9 @@
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
-        },
-        {
-          "name": "Gen25 1x",
-          "price": "USD 25.00",
-          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:16.918Z"
+      "fetchedAt": "2026-10-26T10:00:57.625Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2537,9 +2537,9 @@
           "amount": 29.99
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
+          "name": "Pro Monthly 1x",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "Basic Monthly 1x",
@@ -2547,9 +2547,19 @@
           "amount": 10
         },
         {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Ads Pack 1x",
@@ -2562,27 +2572,17 @@
           "amount": 129.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
           "name": "Generative add-on 1x",
           "price": "14,00 €",
           "amount": 14
-        },
-        {
-          "name": "Generative add-on 2x",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
-          "name": "Max",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
-          "name": "Gen25 1x",
-          "price": "29,00 €",
-          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:18.497Z"
+      "fetchedAt": "2026-10-26T10:00:59.454Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2596,11 +2596,6 @@
           "name": "Extra Credits 50 1x",
           "price": "EGP 2,499.99",
           "amount": 2499.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "EGP 499.99",
-          "amount": 499.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -2618,11 +2613,6 @@
           "amount": 1999.99
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "EGP 1,499.99",
-          "amount": 1499.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "EGP 499.99",
           "amount": 499.99
@@ -2633,12 +2623,22 @@
           "amount": 1999.99
         },
         {
-          "name": "Generative",
-          "price": "EGP 5,999.99",
-          "amount": 5999.99
+          "name": "Pro Monthly 1x",
+          "price": "EGP 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "EGP 1,499.99",
+          "amount": 1499.99
+        },
+        {
+          "name": "Plus V4 Monthly 1x",
+          "price": "EGP 1,499.99",
+          "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:19.920Z"
+      "fetchedAt": "2026-10-26T10:01:00.645Z"
     },
     "es": {
       "currency": "EUR",
@@ -2669,14 +2669,19 @@
           "amount": 69.99
         },
         {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "70,00 €",
           "amount": 70
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "Starter Yearly 1x",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Starter Monthly 1x",
@@ -2687,14 +2692,9 @@
           "name": "Generative",
           "price": "129,99 €",
           "amount": 129.99
-        },
-        {
-          "name": "Plus Yearly 1x",
-          "price": "399,99 €",
-          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:21.370Z"
+      "fetchedAt": "2026-10-26T10:01:02.055Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2705,14 +2705,19 @@
           "amount": 29.99
         },
         {
-          "name": "Plus Monthly 1x",
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
+          "name": "Starter Monthly 1x",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
+          "name": "Plus Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Max",
@@ -2725,19 +2730,14 @@
           "amount": 29
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Generative",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Plus Monthly 1x",
           "price": "29,00 €",
           "amount": 29
-        },
-        {
-          "name": "Generative",
-          "price": "129,99 €",
-          "amount": 129.99
         },
         {
           "name": "Generative add-on 1x",
@@ -2750,16 +2750,11 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:22.968Z"
+      "fetchedAt": "2026-10-26T10:01:03.575Z"
     },
     "fj": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -2769,6 +2764,11 @@
           "name": "Max",
           "price": "USD 59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus Monthly 1x",
@@ -2806,7 +2806,7 @@
           "amount": 239.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:24.426Z"
+      "fetchedAt": "2026-10-26T10:01:05.049Z"
     },
     "fm": {
       "currency": "USD",
@@ -2862,7 +2862,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:25.844Z"
+      "fetchedAt": "2026-10-26T10:01:06.541Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2878,19 +2878,14 @@
           "amount": 22
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
         },
         {
           "name": "Extra Credits 50 1x",
@@ -2903,6 +2898,16 @@
           "amount": 69.99
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "70,00 €",
+          "amount": 70
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "29,00 €",
           "amount": 29
@@ -2911,14 +2916,9 @@
           "name": "Gen25 1x",
           "price": "29,00 €",
           "amount": 29
-        },
-        {
-          "name": "Generative",
-          "price": "129,99 €",
-          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:27.396Z"
+      "fetchedAt": "2026-10-26T10:01:08.069Z"
     },
     "ga": {
       "currency": "USD",
@@ -2974,7 +2974,7 @@
           "amount": 479.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:29.000Z"
+      "fetchedAt": "2026-10-26T10:01:09.565Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3010,9 +3010,9 @@
           "amount": 50
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "£20.00",
-          "amount": 20
+          "name": "Generative",
+          "price": "£119.99",
+          "amount": 119.99
         },
         {
           "name": "Ads Pack 1x",
@@ -3020,17 +3020,17 @@
           "amount": 25
         },
         {
-          "name": "Generative",
-          "price": "£119.99",
-          "amount": 119.99
-        },
-        {
           "name": "Generative add-on 1x",
           "price": "£12.00",
           "amount": 12
+        },
+        {
+          "name": "Gen25 1x",
+          "price": "£25.00",
+          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:30.396Z"
+      "fetchedAt": "2026-10-26T10:01:11.058Z"
     },
     "gd": {
       "currency": "USD",
@@ -3086,11 +3086,21 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:31.908Z"
+      "fetchedAt": "2026-10-26T10:01:12.521Z"
     },
     "ge": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
+        },
         {
           "name": "Basic Yearly 1x",
           "price": "USD 69.00",
@@ -3102,19 +3112,14 @@
           "amount": 29.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
+          "name": "Max",
+          "price": "USD 69.99",
+          "amount": 69.99
         },
         {
           "name": "Basic Monthly 1x",
@@ -3122,9 +3127,9 @@
           "amount": 10
         },
         {
-          "name": "Max",
-          "price": "USD 69.99",
-          "amount": 69.99
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Ads Pack 1x",
@@ -3135,27 +3140,22 @@
           "name": "Basic Yearly 1x",
           "price": "USD 129.99",
           "amount": 129.99
-        },
-        {
-          "name": "Gen25 1x",
-          "price": "USD 29.00",
-          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:33.435Z"
+      "fetchedAt": "2026-10-26T10:01:14.067Z"
     },
     "gh": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "Plus",
           "price": "USD 29.99",
           "amount": 29.99
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Plus and Generative mini pack",
@@ -3168,24 +3168,14 @@
           "amount": 10
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 40.00",
-          "amount": 40
+          "name": "Extra Credits 50 1x",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "Ads Pack 1x",
@@ -3196,9 +3186,19 @@
           "name": "Generative",
           "price": "USD 149.99",
           "amount": 149.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Gen25 1x",
+          "price": "USD 29.00",
+          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:34.919Z"
+      "fetchedAt": "2026-10-26T10:01:15.619Z"
     },
     "gm": {
       "currency": "USD",
@@ -3254,7 +3254,7 @@
           "amount": 394.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:36.470Z"
+      "fetchedAt": "2026-10-26T10:01:17.016Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3270,24 +3270,19 @@
           "amount": 22
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
         },
         {
-          "name": "Generative Monthly 8x",
-          "price": "1.799,99 €",
-          "amount": 1799.99
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Starter Yearly 1x",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Max",
@@ -3295,9 +3290,9 @@
           "amount": 69.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Ads Pack 1x",
@@ -3305,12 +3300,17 @@
           "amount": 29
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "29,00 €",
-          "amount": 29
+          "name": "Generative",
+          "price": "129,99 €",
+          "amount": 129.99
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:37.926Z"
+      "fetchedAt": "2026-10-26T10:01:18.661Z"
     },
     "gt": {
       "currency": "USD",
@@ -3321,14 +3321,14 @@
           "amount": 24.99
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
-        },
-        {
-          "name": "Plus V4 Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "Plus Monthly 1x",
@@ -3336,14 +3336,14 @@
           "amount": 20
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Generative",
           "price": "USD 119.99",
           "amount": 119.99
+        },
+        {
+          "name": "Plus V4 Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Max",
@@ -3366,7 +3366,7 @@
           "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:39.648Z"
+      "fetchedAt": "2026-10-26T10:01:20.118Z"
     },
     "gw": {
       "currency": "USD",
@@ -3422,25 +3422,30 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:40.887Z"
+      "fetchedAt": "2026-10-26T10:01:21.726Z"
     },
     "gy": {
       "currency": "USD",
       "items": [
         {
           "name": "Plus",
-          "price": "USD 24.99",
-          "amount": 24.99
+          "price": "USD 239.99",
+          "amount": 239.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 50.00",
-          "amount": 50
+          "name": "Plus",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Plus Monthly 1x",
@@ -3451,11 +3456,6 @@
           "name": "Large Videos Pack 1x",
           "price": "USD 400.00",
           "amount": 400
-        },
-        {
-          "name": "Plus",
-          "price": "USD 239.99",
-          "amount": 239.99
         },
         {
           "name": "Scale Monthly 5x",
@@ -3478,7 +3478,7 @@
           "amount": 239.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:42.624Z"
+      "fetchedAt": "2026-10-26T10:01:23.119Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3487,6 +3487,11 @@
           "name": "Plus",
           "price": "HK$ 188.00",
           "amount": 188
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "HK$ 388.00",
+          "amount": 388
         },
         {
           "name": "Plus Monthly 1x",
@@ -3504,11 +3509,6 @@
           "amount": 488
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "HK$ 148.00",
-          "amount": 148
-        },
-        {
           "name": "Generative add-on 1x",
           "price": "HK$ 88.00",
           "amount": 88
@@ -3519,11 +3519,6 @@
           "amount": 888
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "HK$ 388.00",
-          "amount": 388
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "HK$ 488.00",
           "amount": 488
@@ -3532,9 +3527,14 @@
           "name": "Gen25 1x",
           "price": "HK$ 188.00",
           "amount": 188
+        },
+        {
+          "name": "Starter Monthly 1x",
+          "price": "HK$ 148.00",
+          "amount": 148
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:43.948Z"
+      "fetchedAt": "2026-10-26T10:01:24.535Z"
     },
     "hn": {
       "currency": "USD",
@@ -3550,6 +3550,16 @@
           "amount": 35
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
@@ -3558,11 +3568,6 @@
           "name": "Max",
           "price": "USD 59.99",
           "amount": 59.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         },
         {
           "name": "Ads Pack 1x",
@@ -3583,14 +3588,9 @@
           "name": "Essential",
           "price": "USD 29.99",
           "amount": 29.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:45.481Z"
+      "fetchedAt": "2026-10-26T10:01:26.114Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3601,14 +3601,19 @@
           "amount": 29.99
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "59,00 €",
+          "amount": 59
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
         },
         {
           "name": "Plus Monthly 1x",
@@ -3619,11 +3624,6 @@
           "name": "Max",
           "price": "69,99 €",
           "amount": 69.99
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
         },
         {
           "name": "Pro Monthly 1x",
@@ -3641,12 +3641,12 @@
           "amount": 10
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "14,00 €",
-          "amount": 14
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:46.890Z"
+      "fetchedAt": "2026-10-26T10:01:27.577Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3662,19 +3662,14 @@
           "amount": 8990
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "HUF14,990.00",
-          "amount": 14990
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "HUF8,990.00",
           "amount": 8990
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "HUF44,990.00",
-          "amount": 44990
+          "name": "Plus and Generative mini pack",
+          "price": "HUF14,990.00",
+          "amount": 14990
         },
         {
           "name": "Ads Pack 1x",
@@ -3692,17 +3687,22 @@
           "amount": 49990
         },
         {
-          "name": "Gen25 1x",
-          "price": "HUF9,990.00",
-          "amount": 9990
+          "name": "Extra Credits 50 1x",
+          "price": "HUF22,990.00",
+          "amount": 22990
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "HUF4,990.00",
-          "amount": 4990
+          "name": "Starter Monthly 1x",
+          "price": "HUF8,990.00",
+          "amount": 8990
+        },
+        {
+          "name": "Max Monthly 1x",
+          "price": "HUF44,990.00",
+          "amount": 44990
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:48.392Z"
+      "fetchedAt": "2026-10-26T10:01:29.113Z"
     },
     "id": {
       "currency": "IDR",
@@ -3718,19 +3718,14 @@
           "amount": 349
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "Rp 149ribu",
-          "amount": 149
+          "name": "Plus and Generative mini pack",
+          "price": "Rp 599ribu",
+          "amount": 599
         },
         {
           "name": "Basic Monthly 1x",
           "price": "Rp 179ribu",
           "amount": 179
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "Rp 599ribu",
-          "amount": 599
         },
         {
           "name": "Max",
@@ -3743,22 +3738,27 @@
           "amount": 999
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "Rp 599ribu",
-          "amount": 599
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "Rp 499ribu",
-          "amount": 499
+          "name": "Basic Monthly 1x",
+          "price": "Rp 149ribu",
+          "amount": 149
         },
         {
           "name": "Generative add-on 1x",
           "price": "Rp 229ribu",
           "amount": 229
+        },
+        {
+          "name": "Ads Pack 1x",
+          "price": "Rp 499ribu",
+          "amount": 499
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "Rp 499ribu",
+          "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:49.966Z"
+      "fetchedAt": "2026-10-26T10:01:30.570Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3779,24 +3779,24 @@
           "amount": 39
         },
         {
-          "name": "Max",
-          "price": "€69.99",
-          "amount": 69.99
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "€22.00",
           "amount": 22
         },
         {
-          "name": "Generative",
-          "price": "€129.99",
-          "amount": 129.99
+          "name": "Max",
+          "price": "€69.99",
+          "amount": 69.99
         },
         {
           "name": "Max Monthly 1x",
           "price": "€100.00",
           "amount": 100
+        },
+        {
+          "name": "Generative",
+          "price": "€129.99",
+          "amount": 129.99
         },
         {
           "name": "Generative add-on 1x",
@@ -3809,12 +3809,12 @@
           "amount": 29
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "€60.00",
-          "amount": 60
+          "name": "Ads Pack 1x",
+          "price": "€29.00",
+          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:51.403Z"
+      "fetchedAt": "2026-10-26T10:01:32.123Z"
     },
     "il": {
       "currency": "ILS",
@@ -3830,14 +3830,14 @@
           "amount": 69.9
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "₪119.90",
-          "amount": 119.9
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "₪59.90",
           "amount": 59.9
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "₪119.90",
+          "amount": 119.9
         },
         {
           "name": "Max",
@@ -3845,19 +3845,19 @@
           "amount": 199.9
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "₪69.90",
-          "amount": 69.9
-        },
-        {
           "name": "Extra Credits 50 1x",
           "price": "₪149.90",
           "amount": 149.9
         },
         {
-          "name": "Starter Yearly 1x",
+          "name": "Generative",
           "price": "₪399.90",
           "amount": 399.9
+        },
+        {
+          "name": "Starter Monthly 1x",
+          "price": "₪69.90",
+          "amount": 69.9
         },
         {
           "name": "Gen25 1x",
@@ -3870,7 +3870,7 @@
           "amount": 79.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:52.876Z"
+      "fetchedAt": "2026-10-26T10:01:33.533Z"
     },
     "in": {
       "currency": "INR",
@@ -3896,14 +3896,9 @@
           "amount": 3499
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "₹ 999",
-          "amount": 999
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "₹ 999",
-          "amount": 999
+          "name": "Extra Credits 50 1x",
+          "price": "₹ 4,999",
+          "amount": 4999
         },
         {
           "name": "Max",
@@ -3911,9 +3906,9 @@
           "amount": 5900
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "₹ 4,999",
-          "amount": 4999
+          "name": "Basic Monthly 1x",
+          "price": "₹ 999",
+          "amount": 999
         },
         {
           "name": "Pro Monthly 1x",
@@ -3921,12 +3916,17 @@
           "amount": 2999
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "₹ 999",
+          "amount": 999
+        },
+        {
           "name": "Gen25 1x",
           "price": "₹ 2,499",
           "amount": 2499
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:54.541Z"
+      "fetchedAt": "2026-10-26T10:01:35.070Z"
     },
     "iq": {
       "currency": "USD",
@@ -3942,19 +3942,19 @@
           "amount": 20
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "$35.00",
           "amount": 35
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "$9.00",
+          "amount": 9
+        },
+        {
+          "name": "Plus V4 Monthly 1x",
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "Extra Credits 50 1x",
@@ -3972,17 +3972,17 @@
           "amount": 59.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "$9.00",
+          "amount": 9
+        },
+        {
           "name": "Generative add-on 1x",
           "price": "$12.00",
           "amount": 12
-        },
-        {
-          "name": "Ads Pack 1x",
-          "price": "$25.00",
-          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:56.240Z"
+      "fetchedAt": "2026-10-26T10:01:36.593Z"
     },
     "is": {
       "currency": "USD",
@@ -3998,19 +3998,9 @@
           "amount": 39
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
         },
         {
           "name": "Stock Pack 1x",
@@ -4023,6 +4013,11 @@
           "amount": 14
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
@@ -4033,12 +4028,17 @@
           "amount": 149.99
         },
         {
+          "name": "Pro Monthly 1x",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "USD 29.00",
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:57.443Z"
+      "fetchedAt": "2026-10-26T10:01:38.024Z"
     },
     "it": {
       "currency": "EUR",
@@ -4054,24 +4054,29 @@
           "amount": 22
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Max",
           "price": "69,99 €",
           "amount": 69.99
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Generative",
@@ -4087,14 +4092,9 @@
           "name": "Ads Pack 1x",
           "price": "29,00 €",
           "amount": 29
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "70,00 €",
-          "amount": 70
         }
       ],
-      "fetchedAt": "2026-10-19T10:01:58.895Z"
+      "fetchedAt": "2026-10-26T10:01:39.533Z"
     },
     "jm": {
       "currency": "USD",
@@ -4110,6 +4110,11 @@
           "amount": 50
         },
         {
+          "name": "Max Monthly 1x",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
@@ -4118,11 +4123,6 @@
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Generative Monthly 1x",
-          "price": "USD 200.00",
-          "amount": 200
         },
         {
           "name": "Starter Monthly 1x",
@@ -4145,25 +4145,30 @@
           "amount": 25
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "Generative Monthly 1x",
+          "price": "USD 200.00",
+          "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:00.656Z"
+      "fetchedAt": "2026-10-26T10:01:41.051Z"
     },
     "jo": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus",
+          "price": "$24.99",
+          "amount": 24.99
+        },
         {
           "name": "Basic Monthly 1x",
           "price": "$9.00",
           "amount": 9
         },
         {
-          "name": "Plus",
-          "price": "$24.99",
-          "amount": 24.99
+          "name": "Pro Monthly 1x",
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "Plus and Generative mini pack",
@@ -4176,37 +4181,32 @@
           "amount": 20
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "$30.00",
-          "amount": 30
-        },
-        {
-          "name": "Basic Yearly 1x",
-          "price": "$54.00",
-          "amount": 54
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "$30.00",
-          "amount": 30
-        },
-        {
           "name": "Extra Credits 50 1x",
           "price": "$50.00",
           "amount": 50
+        },
+        {
+          "name": "Ultra Monthly 1x",
+          "price": "$80.00",
+          "amount": 80
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "$9.00",
+          "amount": 9
+        },
+        {
+          "name": "Plus V4 Monthly 1x",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Max",
+          "price": "$59.99",
+          "amount": 59.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:01.845Z"
+      "fetchedAt": "2026-10-26T10:01:42.505Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4217,24 +4217,14 @@
           "amount": 4000
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "¥3,000",
-          "amount": 3000
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "¥3,000",
           "amount": 3000
         },
         {
-          "name": "Max",
-          "price": "¥9,000",
-          "amount": 9000
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "¥6,000",
-          "amount": 6000
+          "name": "Plus Monthly 1x",
+          "price": "¥3,000",
+          "amount": 3000
         },
         {
           "name": "Extra Credits 50 1x",
@@ -4242,9 +4232,9 @@
           "amount": 8000
         },
         {
-          "name": "Gen25 1x",
-          "price": "¥4,000",
-          "amount": 4000
+          "name": "Plus and Generative mini pack",
+          "price": "¥6,000",
+          "amount": 6000
         },
         {
           "name": "Starter Yearly 1x",
@@ -4252,17 +4242,27 @@
           "amount": 20000
         },
         {
+          "name": "Max",
+          "price": "¥9,000",
+          "amount": 9000
+        },
+        {
+          "name": "Plus Yearly 1x",
+          "price": "¥60,000",
+          "amount": 60000
+        },
+        {
           "name": "Starter Monthly 1x",
           "price": "¥3,000",
           "amount": 3000
         },
         {
-          "name": "Starter Yearly 1x",
-          "price": "¥40,000",
-          "amount": 40000
+          "name": "Gen25 1x",
+          "price": "¥4,000",
+          "amount": 4000
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:03.516Z"
+      "fetchedAt": "2026-10-26T10:01:44.109Z"
     },
     "ke": {
       "currency": "USD",
@@ -4273,14 +4273,24 @@
           "amount": 29.99
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "USD 69.00",
+          "amount": 69
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Max",
@@ -4303,22 +4313,12 @@
           "amount": 29
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Generative add-on 2x",
           "price": "USD 29.00",
           "amount": 29
-        },
-        {
-          "name": "Generative add-on 3x",
-          "price": "USD 45.00",
-          "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:04.894Z"
+      "fetchedAt": "2026-10-26T10:01:45.596Z"
     },
     "kg": {
       "currency": "USD",
@@ -4329,14 +4329,19 @@
           "amount": 9
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "Pro Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Plus",
@@ -4344,14 +4349,14 @@
           "amount": 29.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "Basic Monthly 1x",
@@ -4367,14 +4372,9 @@
           "name": "Stock Pack 1x",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Ads Pack 1x",
-          "price": "USD 29.00",
-          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:06.419Z"
+      "fetchedAt": "2026-10-26T10:01:47.147Z"
     },
     "kh": {
       "currency": "USD",
@@ -4388,6 +4388,16 @@
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Plus and Generative mini pack",
@@ -4418,19 +4428,9 @@
           "name": "Generative add-on 1x",
           "price": "USD 14.00",
           "amount": 14
-        },
-        {
-          "name": "Basic",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
-          "name": "Essential",
-          "price": "USD 29.99",
-          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:07.972Z"
+      "fetchedAt": "2026-10-26T10:01:48.540Z"
     },
     "kn": {
       "currency": "USD",
@@ -4486,7 +4486,7 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:09.364Z"
+      "fetchedAt": "2026-10-26T10:01:50.009Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4517,24 +4517,24 @@
           "amount": 33000
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "￦99,000",
+          "amount": 99000
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "￦99,000",
+          "amount": 99000
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "￦77,000",
+          "amount": 77000
+        },
+        {
           "name": "Generative",
           "price": "￦179,000",
           "amount": 179000
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "￦33,000",
-          "amount": 33000
-        },
-        {
-          "name": "Starter Yearly 1x",
-          "price": "￦199,000",
-          "amount": 199000
-        },
-        {
-          "name": "Generative add-on 1x",
-          "price": "￦19,000",
-          "amount": 19000
         },
         {
           "name": "Max Monthly 1x",
@@ -4542,7 +4542,7 @@
           "amount": 149000
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:10.932Z"
+      "fetchedAt": "2026-10-26T10:01:51.578Z"
     },
     "kw": {
       "currency": "USD",
@@ -4568,19 +4568,9 @@
           "amount": 20
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
           "name": "Max",
           "price": "$59.99",
           "amount": 59.99
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "$20.00",
-          "amount": 20
         },
         {
           "name": "Starter Yearly 1x",
@@ -4588,17 +4578,27 @@
           "amount": 119.99
         },
         {
+          "name": "Max Monthly 1x",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "$50.00",
+          "amount": 50
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "$25.00",
           "amount": 25
         },
         {
-          "name": "Generative",
-          "price": "$119.99",
-          "amount": 119.99
+          "name": "Plus Monthly 1x",
+          "price": "$60.00",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:12.381Z"
+      "fetchedAt": "2026-10-26T10:01:53.029Z"
     },
     "ky": {
       "currency": "USD",
@@ -4607,6 +4607,11 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
         },
         {
           "name": "Plus Monthly 1x",
@@ -4647,14 +4652,9 @@
           "name": "Ultra Monthly 1x",
           "price": "USD 239.99",
           "amount": 239.99
-        },
-        {
-          "name": "Ultra Yearly 1x",
-          "price": "USD 1,399.99",
-          "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:13.978Z"
+      "fetchedAt": "2026-10-26T10:01:54.533Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4670,11 +4670,6 @@
           "amount": 14990
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "4,990.00₸",
-          "amount": 4990
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "11,990.00₸",
           "amount": 11990
@@ -4683,6 +4678,21 @@
           "name": "Plus and Generative mini pack",
           "price": "19,990.00₸",
           "amount": 19990
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "17,990.00₸",
+          "amount": 17990
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "4,990.00₸",
+          "amount": 4990
+        },
+        {
+          "name": "Max",
+          "price": "29,990.00₸",
+          "amount": 29990
         },
         {
           "name": "Basic Monthly 1x",
@@ -4695,35 +4705,25 @@
           "amount": 29990
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "29,990.00₸",
-          "amount": 29990
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "17,990.00₸",
-          "amount": 17990
-        },
-        {
-          "name": "Max",
-          "price": "29,990.00₸",
-          "amount": 29990
+          "name": "Generative add-on 1x",
+          "price": "6,990.00₸",
+          "amount": 6990
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:15.421Z"
+      "fetchedAt": "2026-10-26T10:01:56.021Z"
     },
     "la": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus",
-          "price": "USD 29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Plus",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Scale Monthly 5x",
@@ -4766,16 +4766,11 @@
           "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:16.871Z"
+      "fetchedAt": "2026-10-26T10:01:57.542Z"
     },
     "lb": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Extra Credits 250 1x",
-          "price": "$250.00",
-          "amount": 250
-        },
         {
           "name": "Plus",
           "price": "$24.99",
@@ -4787,29 +4782,29 @@
           "amount": 20
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "$9.00",
+          "amount": 9
+        },
+        {
+          "name": "Extra Credits 250 1x",
+          "price": "$250.00",
+          "amount": 250
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "$35.00",
           "amount": 35
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "$100.00",
-          "amount": 100
+          "name": "Generative",
+          "price": "$119.99",
+          "amount": 119.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
-        },
-        {
-          "name": "Generative Monthly 1x",
-          "price": "$250.00",
-          "amount": 250
+          "name": "Basic Yearly 1x",
+          "price": "$54.00",
+          "amount": 54
         },
         {
           "name": "Max",
@@ -4817,12 +4812,17 @@
           "amount": 59.99
         },
         {
-          "name": "Generative",
-          "price": "$119.99",
-          "amount": 119.99
+          "name": "Ads Pack 1x",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
+          "name": "Generative add-on 1x",
+          "price": "$12.00",
+          "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:18.379Z"
+      "fetchedAt": "2026-10-26T10:01:59.168Z"
     },
     "lc": {
       "currency": "USD",
@@ -4833,11 +4833,6 @@
           "amount": 24.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
@@ -4846,6 +4841,11 @@
           "name": "Max",
           "price": "USD 59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Extra Credits 50 1x",
@@ -4878,7 +4878,7 @@
           "amount": 239.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:19.880Z"
+      "fetchedAt": "2026-10-26T10:02:00.551Z"
     },
     "lk": {
       "currency": "USD",
@@ -4887,16 +4887,6 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
         },
         {
           "name": "Plus and Generative mini pack",
@@ -4912,6 +4902,16 @@
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
         },
         {
           "name": "Gen25 1x",
@@ -4934,7 +4934,7 @@
           "amount": 119.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:21.373Z"
+      "fetchedAt": "2026-10-26T10:02:02.036Z"
     },
     "lr": {
       "currency": "USD",
@@ -4990,25 +4990,20 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:22.874Z"
+      "fetchedAt": "2026-10-26T10:02:03.581Z"
     },
     "lt": {
       "currency": "EUR",
       "items": [
-        {
-          "name": "Plus",
-          "price": "29,99 €",
-          "amount": 29.99
-        },
         {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Plus",
+          "price": "29,99 €",
+          "amount": 29.99
         },
         {
           "name": "Plus and Generative mini pack",
@@ -5016,24 +5011,24 @@
           "amount": 39
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Pro Monthly 1x",
           "price": "35,00 €",
           "amount": 35
         },
         {
-          "name": "Basic Yearly 1x",
-          "price": "119,99 €",
-          "amount": 119.99
+          "name": "Generative",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
-        },
-        {
-          "name": "Generative",
-          "price": "129,99 €",
-          "amount": 129.99
         },
         {
           "name": "Generative add-on 1x",
@@ -5044,9 +5039,14 @@
           "name": "Gen25 1x",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "Ads Pack 1x",
+          "price": "29,00 €",
+          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:24.440Z"
+      "fetchedAt": "2026-10-26T10:02:05.017Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5102,15 +5102,15 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:25.924Z"
+      "fetchedAt": "2026-10-26T10:02:06.522Z"
     },
     "lv": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
+          "name": "Plus Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Plus",
@@ -5118,9 +5118,9 @@
           "amount": 29.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Ads Pack 1x",
@@ -5131,11 +5131,6 @@
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
         },
         {
           "name": "Pro Monthly 1x",
@@ -5156,9 +5151,14 @@
           "name": "Plus Monthly 1x",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "Generative add-on 1x",
+          "price": "14,00 €",
+          "amount": 14
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:27.401Z"
+      "fetchedAt": "2026-10-26T10:02:08.079Z"
     },
     "ly": {
       "currency": "USD",
@@ -5214,26 +5214,11 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:28.954Z"
+      "fetchedAt": "2026-10-26T10:02:09.604Z"
     },
     "ma": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Plus",
-          "price": "$24.99",
-          "amount": 24.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "$35.00",
-          "amount": 35
-        },
         {
           "name": "Plus Monthly 1x",
           "price": "$20.00",
@@ -5241,18 +5226,28 @@
         },
         {
           "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
+          "price": "$10.00",
+          "amount": 10
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "$60.00",
-          "amount": 60
+          "name": "Plus",
+          "price": "$24.99",
+          "amount": 24.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "$9.00",
-          "amount": 9
+          "name": "Plus and Generative mini pack",
+          "price": "$35.00",
+          "amount": 35
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "$40.00",
+          "amount": 40
+        },
+        {
+          "name": "Pro Yearly 1x",
+          "price": "$199.99",
+          "amount": 199.99
         },
         {
           "name": "Pro Monthly 1x",
@@ -5265,12 +5260,17 @@
           "amount": 59.99
         },
         {
+          "name": "Generative",
+          "price": "$119.99",
+          "amount": 119.99
+        },
+        {
           "name": "Pro Yearly 1x",
           "price": "$300.00",
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:30.402Z"
+      "fetchedAt": "2026-10-26T10:02:11.007Z"
     },
     "md": {
       "currency": "USD",
@@ -5279,6 +5279,11 @@
           "name": "Plus Monthly 1x",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Plus",
@@ -5296,6 +5301,11 @@
           "amount": 39
         },
         {
+          "name": "Gen25 1x",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
@@ -5306,11 +5316,6 @@
           "amount": 40
         },
         {
-          "name": "Gen25 1x",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
@@ -5319,23 +5324,13 @@
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 60.00",
-          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:31.956Z"
+      "fetchedAt": "2026-10-26T10:02:12.533Z"
     },
     "me": {
       "currency": "EUR",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "9,00 €",
-          "amount": 9
-        },
         {
           "name": "Plus Monthly 1x",
           "price": "20,00 €",
@@ -5350,6 +5345,11 @@
           "name": "Plus and Generative mini pack",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "9,00 €",
+          "amount": 9
         },
         {
           "name": "Scale Monthly 5x",
@@ -5382,7 +5382,7 @@
           "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:33.735Z"
+      "fetchedAt": "2026-10-26T10:02:13.994Z"
     },
     "mg": {
       "currency": "USD",
@@ -5438,11 +5438,16 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:34.866Z"
+      "fetchedAt": "2026-10-26T10:02:15.533Z"
     },
     "mk": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
+        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -5452,11 +5457,6 @@
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
         },
         {
           "name": "Generative",
@@ -5474,11 +5474,6 @@
           "amount": 25
         },
         {
-          "name": "Generative Monthly 1x",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
@@ -5492,13 +5487,23 @@
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
+        },
+        {
+          "name": "Generative add-on 1x",
+          "price": "USD 12.00",
+          "amount": 12
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:36.381Z"
+      "fetchedAt": "2026-10-26T10:02:17.029Z"
     },
     "ml": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -5543,18 +5548,18 @@
           "name": "Ultra Monthly 1x",
           "price": "USD 239.99",
           "amount": 239.99
-        },
-        {
-          "name": "Ultra Yearly 1x",
-          "price": "USD 1,399.99",
-          "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:37.922Z"
+      "fetchedAt": "2026-10-26T10:02:18.528Z"
     },
     "mm": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -5599,27 +5604,32 @@
           "name": "Ultra Monthly 1x",
           "price": "USD 239.99",
           "amount": 239.99
-        },
-        {
-          "name": "Ultra Yearly 1x",
-          "price": "USD 1,399.99",
-          "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:39.432Z"
+      "fetchedAt": "2026-10-26T10:02:20.026Z"
     },
     "mn": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Plus",
+          "price": "USD 24.99",
+          "amount": 24.99
+        },
         {
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
         },
         {
-          "name": "Plus",
-          "price": "USD 24.99",
-          "amount": 24.99
+          "name": "Plus and Generative mini pack",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "Pro Monthly 1x",
@@ -5630,11 +5640,6 @@
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
           "amount": 9
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "USD 35.00",
-          "amount": 35
         },
         {
           "name": "Basic Monthly 1x",
@@ -5655,14 +5660,9 @@
           "name": "Generative add-on 1x",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "Basic Yearly 1x",
-          "price": "USD 107.99",
-          "amount": 107.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:40.995Z"
+      "fetchedAt": "2026-10-26T10:02:21.555Z"
     },
     "mo": {
       "currency": "USD",
@@ -5718,16 +5718,11 @@
           "amount": 479.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:42.362Z"
+      "fetchedAt": "2026-10-26T10:02:23.067Z"
     },
     "mr": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Generative Monthly 1x",
-          "price": "$250.00",
-          "amount": 250
-        },
         {
           "name": "Plus and Generative mini pack",
           "price": "$35.00",
@@ -5742,6 +5737,11 @@
           "name": "Max",
           "price": "$59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Generative Monthly 1x",
+          "price": "$250.00",
+          "amount": 250
         },
         {
           "name": "Plus",
@@ -5774,7 +5774,7 @@
           "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:44.019Z"
+      "fetchedAt": "2026-10-26T10:02:24.642Z"
     },
     "ms": {
       "currency": "USD",
@@ -5830,7 +5830,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:45.359Z"
+      "fetchedAt": "2026-10-26T10:02:26.052Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5841,24 +5841,29 @@
           "amount": 29.99
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "22,00 €",
           "amount": 22
         },
         {
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
           "name": "Generative",
           "price": "129,99 €",
           "amount": 129.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Ads Pack 1x",
@@ -5879,14 +5884,9 @@
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
-        },
-        {
-          "name": "Max Monthly 1x",
-          "price": "100,00 €",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:46.898Z"
+      "fetchedAt": "2026-10-26T10:02:27.511Z"
     },
     "mu": {
       "currency": "USD",
@@ -5897,9 +5897,9 @@
           "amount": 24.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Max",
@@ -5912,9 +5912,9 @@
           "amount": 35
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 25.00",
-          "amount": 25
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Gen25 1x",
@@ -5942,7 +5942,7 @@
           "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:48.396Z"
+      "fetchedAt": "2026-10-26T10:02:29.145Z"
     },
     "mv": {
       "currency": "USD",
@@ -5958,11 +5958,6 @@
           "amount": 20
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
@@ -5971,6 +5966,11 @@
           "name": "Extra Credits 50 1x",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Max Monthly 1x",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Gen25 1x",
@@ -5998,7 +5998,7 @@
           "amount": 2799.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:50.012Z"
+      "fetchedAt": "2026-10-26T10:02:30.542Z"
     },
     "mw": {
       "currency": "USD",
@@ -6054,7 +6054,7 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:51.387Z"
+      "fetchedAt": "2026-10-26T10:02:32.054Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6080,9 +6080,19 @@
           "amount": 799
         },
         {
+          "name": "Pro Monthly 1x",
+          "price": "$599.00",
+          "amount": 599
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "$199.00",
           "amount": 199
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "$999.00",
+          "amount": 999
         },
         {
           "name": "Max",
@@ -6095,22 +6105,12 @@
           "amount": 2499
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "$599.00",
-          "amount": 599
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "$999.00",
-          "amount": 999
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "$199.00",
-          "amount": 199
+          "name": "Basic Yearly 1x",
+          "price": "$1,199.00",
+          "amount": 1199
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:52.917Z"
+      "fetchedAt": "2026-10-26T10:02:33.579Z"
     },
     "my": {
       "currency": "MYR",
@@ -6136,14 +6136,14 @@
           "amount": 149.9
         },
         {
-          "name": "Extra Credits 250 1x",
-          "price": "RM1,199.90",
-          "amount": 1199.9
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "RM99.90",
           "amount": 99.9
+        },
+        {
+          "name": "Extra Credits 250 1x",
+          "price": "RM1,199.90",
+          "amount": 1199.9
         },
         {
           "name": "Max",
@@ -6161,12 +6161,12 @@
           "amount": 119.9
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "RM59.90",
-          "amount": 59.9
+          "name": "Plus Monthly 1x",
+          "price": "RM299.90",
+          "amount": 299.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:54.491Z"
+      "fetchedAt": "2026-10-26T10:02:35.031Z"
     },
     "mz": {
       "currency": "USD",
@@ -6217,12 +6217,12 @@
           "amount": 30
         },
         {
-          "name": "Scale Monthly 5x",
-          "price": "USD 1,099.99",
-          "amount": 1099.99
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:56.036Z"
+      "fetchedAt": "2026-10-26T10:02:36.530Z"
     },
     "na": {
       "currency": "USD",
@@ -6278,7 +6278,7 @@
           "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:57.392Z"
+      "fetchedAt": "2026-10-26T10:02:38.036Z"
     },
     "ne": {
       "currency": "USD",
@@ -6334,7 +6334,7 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:02:58.891Z"
+      "fetchedAt": "2026-10-26T10:02:39.521Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6350,19 +6350,14 @@
           "amount": 49900
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "₦ 14,900.00",
-          "amount": 14900
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "₦ 29,900.00",
           "amount": 29900
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "₦ 49,900.00",
-          "amount": 49900
+          "name": "Basic Monthly 1x",
+          "price": "₦ 14,900.00",
+          "amount": 14900
         },
         {
           "name": "Basic Monthly 1x",
@@ -6370,14 +6365,19 @@
           "amount": 14900
         },
         {
+          "name": "Extra Credits 50 1x",
+          "price": "₦ 79,900.00",
+          "amount": 79900
+        },
+        {
+          "name": "Ultra Monthly 1x",
+          "price": "₦ 129,900.00",
+          "amount": 129900
+        },
+        {
           "name": "Pro Monthly 1x",
           "price": "₦ 49,900.00",
           "amount": 49900
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "₦ 14,900.00",
-          "amount": 14900
         },
         {
           "name": "Plus and Generative mini pack",
@@ -6385,12 +6385,12 @@
           "amount": 59900
         },
         {
-          "name": "Gen25 1x",
-          "price": "₦ 39,900.00",
-          "amount": 39900
+          "name": "Basic Monthly 1x",
+          "price": "₦ 14,900.00",
+          "amount": 14900
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:00.443Z"
+      "fetchedAt": "2026-10-26T10:02:41.033Z"
     },
     "ni": {
       "currency": "USD",
@@ -6416,11 +6416,6 @@
           "amount": 20
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Ads Pack 1x",
           "price": "USD 25.00",
           "amount": 25
@@ -6429,6 +6424,11 @@
           "name": "Max",
           "price": "USD 59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus V4 Monthly 1x",
@@ -6446,7 +6446,7 @@
           "amount": 1099.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:01.894Z"
+      "fetchedAt": "2026-10-26T10:02:42.640Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6467,9 +6467,9 @@
           "amount": 39
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "€ 60,00",
-          "amount": 60
+          "name": "Starter Monthly 1x",
+          "price": "€ 22,00",
+          "amount": 22
         },
         {
           "name": "Max",
@@ -6477,9 +6477,9 @@
           "amount": 69.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "€ 22,00",
-          "amount": 22
+          "name": "Extra Credits 50 1x",
+          "price": "€ 60,00",
+          "amount": 60
         },
         {
           "name": "Generative",
@@ -6487,14 +6487,14 @@
           "amount": 129.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "€ 22,00",
-          "amount": 22
-        },
-        {
           "name": "Ads Pack 1x",
           "price": "€ 29,00",
           "amount": 29
+        },
+        {
+          "name": "Starter Monthly 1x",
+          "price": "€ 22,00",
+          "amount": 22
         },
         {
           "name": "Gen25 1x",
@@ -6502,7 +6502,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:03.400Z"
+      "fetchedAt": "2026-10-26T10:02:44.030Z"
     },
     "no": {
       "currency": "NOK",
@@ -6523,9 +6523,9 @@
           "amount": 449
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "249,00 kr",
-          "amount": 249
+          "name": "Extra Credits 50 1x",
+          "price": "599,00 kr",
+          "amount": 599
         },
         {
           "name": "Starter Monthly 1x",
@@ -6538,9 +6538,9 @@
           "amount": 799
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "599,00 kr",
-          "amount": 599
+          "name": "Starter Monthly 1x",
+          "price": "249,00 kr",
+          "amount": 249
         },
         {
           "name": "Ads Pack 1x",
@@ -6558,30 +6558,30 @@
           "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:04.923Z"
+      "fetchedAt": "2026-10-26T10:02:45.521Z"
     },
     "np": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
-        },
         {
           "name": "Plus",
           "price": "USD 29.99",
           "amount": 29.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Plus Monthly 1x",
@@ -6614,7 +6614,7 @@
           "amount": 1299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:06.396Z"
+      "fetchedAt": "2026-10-26T10:02:47.160Z"
     },
     "nr": {
       "currency": "USD",
@@ -6670,7 +6670,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:07.954Z"
+      "fetchedAt": "2026-10-26T10:02:48.571Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6691,14 +6691,14 @@
           "amount": 59
         },
         {
+          "name": "Starter Yearly 1x",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
           "name": "Max",
           "price": "$99.99",
           "amount": 99.99
-        },
-        {
-          "name": "Generative",
-          "price": "$199.99",
-          "amount": 199.99
         },
         {
           "name": "Generative add-on 1x",
@@ -6711,22 +6711,22 @@
           "amount": 40
         },
         {
+          "name": "Generative",
+          "price": "$199.99",
+          "amount": 199.99
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "$49.00",
           "amount": 49
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
-          "name": "Starter Yearly 1x",
-          "price": "$399.99",
-          "amount": 399.99
+          "name": "Gen25 1x",
+          "price": "$49.00",
+          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:09.397Z"
+      "fetchedAt": "2026-10-26T10:02:50.026Z"
     },
     "om": {
       "currency": "USD",
@@ -6737,12 +6737,17 @@
           "amount": 24.99
         },
         {
+          "name": "Plus Monthly 1x",
+          "price": "$20.00",
+          "amount": 20
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "$35.00",
           "amount": 35
         },
         {
-          "name": "Plus Monthly 1x",
+          "name": "Starter Monthly 1x",
           "price": "$20.00",
           "amount": 20
         },
@@ -6750,6 +6755,11 @@
           "name": "Starter Monthly 1x",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "$60.00",
+          "amount": 60
         },
         {
           "name": "Max",
@@ -6762,27 +6772,17 @@
           "amount": 25
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
-          "name": "Max Monthly 1x",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
           "name": "Gen25 1x",
           "price": "$25.00",
           "amount": 25
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "$60.00",
-          "amount": 60
+          "name": "Extra Credits 50 1x",
+          "price": "$50.00",
+          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:10.929Z"
+      "fetchedAt": "2026-10-26T10:02:51.546Z"
     },
     "pa": {
       "currency": "USD",
@@ -6796,6 +6796,11 @@
           "name": "Plus and Generative mini pack",
           "price": "USD 35.00",
           "amount": 35
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Plus Monthly 1x",
@@ -6828,17 +6833,12 @@
           "amount": 119.99
         },
         {
-          "name": "Gen25 1x",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
-          "name": "Max",
-          "price": "USD 59.99",
-          "amount": 59.99
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:12.416Z"
+      "fetchedAt": "2026-10-26T10:02:53.064Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6849,9 +6849,9 @@
           "amount": 99.9
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "S/ 39.90",
-          "amount": 39.9
+          "name": "Plus Monthly 1x",
+          "price": "S/ 89.90",
+          "amount": 89.9
         },
         {
           "name": "Plus and Generative mini pack",
@@ -6859,19 +6859,14 @@
           "amount": 149.9
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "S/ 89.90",
-          "amount": 89.9
-        },
-        {
           "name": "Max",
           "price": "S/ 229.90",
           "amount": 229.9
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "S/ 129.90",
-          "amount": 129.9
+          "name": "Basic Monthly 1x",
+          "price": "S/ 39.90",
+          "amount": 39.9
         },
         {
           "name": "Ads Pack 1x",
@@ -6884,17 +6879,22 @@
           "amount": 39.9
         },
         {
+          "name": "Pro Monthly 1x",
+          "price": "S/ 129.90",
+          "amount": 129.9
+        },
+        {
+          "name": "Generative Monthly 1x",
+          "price": "S/ 899.90",
+          "amount": 899.9
+        },
+        {
           "name": "Gen25 1x",
           "price": "S/ 99.90",
           "amount": 99.9
-        },
-        {
-          "name": "Basic Yearly 1x",
-          "price": "S/ 499.90",
-          "amount": 499.9
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:13.883Z"
+      "fetchedAt": "2026-10-26T10:02:54.557Z"
     },
     "pg": {
       "currency": "USD",
@@ -6950,7 +6950,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:15.409Z"
+      "fetchedAt": "2026-10-26T10:02:56.036Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6966,19 +6966,19 @@
           "amount": 1990
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "₱ 599.00",
+          "amount": 599
+        },
+        {
           "name": "Plus Monthly 1x",
           "price": "₱ 1,290.00",
           "amount": 1290
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "₱ 599.00",
-          "amount": 599
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "₱ 599.00",
-          "amount": 599
+          "name": "Extra Credits 50 1x",
+          "price": "₱ 2,990.00",
+          "amount": 2990
         },
         {
           "name": "Max",
@@ -6996,17 +6996,17 @@
           "amount": 799
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "₱ 1,990.00",
-          "amount": 1990
-        },
-        {
           "name": "Generative",
           "price": "₱ 6,990.00",
           "amount": 6990
+        },
+        {
+          "name": "Ads Pack 1x",
+          "price": "₱ 1,490.00",
+          "amount": 1490
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:16.896Z"
+      "fetchedAt": "2026-10-26T10:02:57.523Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7032,11 +7032,6 @@
           "amount": 2500
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "Rs 7,900.00",
-          "amount": 7900
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "Rs 9,900.00",
           "amount": 9900
@@ -7047,9 +7042,9 @@
           "amount": 14900
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "Rs 2,500.00",
-          "amount": 2500
+          "name": "Pro Monthly 1x",
+          "price": "Rs 7,900.00",
+          "amount": 7900
         },
         {
           "name": "Pro Monthly 1x",
@@ -7060,9 +7055,14 @@
           "name": "Generative",
           "price": "Rs 29,900.00",
           "amount": 29900
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "Rs 2,500.00",
+          "amount": 2500
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:18.415Z"
+      "fetchedAt": "2026-10-26T10:02:59.022Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7078,19 +7078,14 @@
           "amount": 99.99
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "199,99 zł",
           "amount": 199.99
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "99,99 zł",
-          "amount": 99.99
-        },
-        {
-          "name": "Starter Monthly 1x",
-          "price": "99,99 zł",
-          "amount": 99.99
         },
         {
           "name": "Max",
@@ -7103,22 +7098,27 @@
           "amount": 229.99
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "99,99 zł",
+          "amount": 99.99
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "99,99 zł",
           "amount": 99.99
         },
         {
-          "name": "Gen25 1x",
-          "price": "99,99 zł",
-          "amount": 99.99
+          "name": "Starter Yearly 1x",
+          "price": "499,99 zł",
+          "amount": 499.99
         },
         {
-          "name": " Plus Yearly 1x",
-          "price": "999,99 zł",
-          "amount": 999.99
+          "name": "Max Monthly 1x",
+          "price": "499,99 zł",
+          "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:19.904Z"
+      "fetchedAt": "2026-10-26T10:03:00.533Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7134,14 +7134,19 @@
           "amount": 22
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Starter Yearly 1x",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Starter Monthly 1x",
@@ -7154,14 +7159,9 @@
           "amount": 69.99
         },
         {
-          "name": "Generative",
-          "price": "129,99 €",
-          "amount": 129.99
-        },
-        {
-          "name": "Max Monthly 1x",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Ads Pack 1x",
@@ -7169,12 +7169,12 @@
           "amount": 29
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "Generative",
+          "price": "129,99 €",
+          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:21.391Z"
+      "fetchedAt": "2026-10-26T10:03:02.002Z"
     },
     "pw": {
       "currency": "USD",
@@ -7230,11 +7230,16 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:22.876Z"
+      "fetchedAt": "2026-10-26T10:03:03.487Z"
     },
     "py": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -7246,14 +7251,14 @@
           "amount": 35
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "USD 54.00",
+          "amount": 54
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "USD 25.00",
           "amount": 25
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         },
         {
           "name": "Plus Monthly 1x",
@@ -7279,14 +7284,9 @@
           "name": "Generative add-on 1x",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:24.461Z"
+      "fetchedAt": "2026-10-26T10:03:05.096Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7295,6 +7295,11 @@
           "name": "Plus",
           "price": "QAR 99.99",
           "amount": 99.99
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "QAR 199.99",
+          "amount": 199.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -7307,16 +7312,6 @@
           "amount": 129.99
         },
         {
-          "name": "Extra Credits 50 1x",
-          "price": "QAR 199.99",
-          "amount": 199.99
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "QAR 199.99",
-          "amount": 199.99
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "QAR 69.99",
           "amount": 69.99
@@ -7327,11 +7322,6 @@
           "amount": 199.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "QAR 69.99",
-          "amount": 69.99
-        },
-        {
           "name": "Generative",
           "price": "QAR 399.99",
           "amount": 399.99
@@ -7340,9 +7330,19 @@
           "name": "Plus Monthly 1x",
           "price": "QAR 199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "QAR 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Gen25 1x",
+          "price": "QAR 99.99",
+          "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:26.028Z"
+      "fetchedAt": "2026-10-26T10:03:06.659Z"
     },
     "ro": {
       "currency": "RON",
@@ -7358,9 +7358,9 @@
           "amount": 99.99
         },
         {
-          "name": "Max",
-          "price": "299,99 lei",
-          "amount": 299.99
+          "name": "Starter Monthly 1x",
+          "price": "99,99 lei",
+          "amount": 99.99
         },
         {
           "name": "Plus and Generative mini pack",
@@ -7368,14 +7368,14 @@
           "amount": 199.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "99,99 lei",
-          "amount": 99.99
+          "name": "Max",
+          "price": "299,99 lei",
+          "amount": 299.99
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "99,99 lei",
-          "amount": 99.99
+          "name": "Starter Yearly 1x",
+          "price": "699,99 lei",
+          "amount": 699.99
         },
         {
           "name": "Generative",
@@ -7383,22 +7383,22 @@
           "amount": 699.99
         },
         {
+          "name": "Max Monthly 1x",
+          "price": "499,99 lei",
+          "amount": 499.99
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "299,99 lei",
+          "amount": 299.99
+        },
+        {
           "name": "Gen25 1x",
           "price": "129,99 lei",
           "amount": 129.99
-        },
-        {
-          "name": "Ads Pack 1x",
-          "price": "129,99 lei",
-          "amount": 129.99
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "299,99 lei",
-          "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:27.393Z"
+      "fetchedAt": "2026-10-26T10:03:08.080Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7409,9 +7409,24 @@
           "amount": 29.99
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "59,00 €",
+          "amount": 59
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "39,00 €",
           "amount": 39
+        },
+        {
+          "name": "Max",
+          "price": "69,99 €",
+          "amount": 69.99
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Ultra Monthly 1x",
@@ -7424,21 +7439,6 @@
           "amount": 35
         },
         {
-          "name": "Max",
-          "price": "69,99 €",
-          "amount": 69.99
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
@@ -7449,12 +7449,12 @@
           "amount": 129.99
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "29,00 €",
-          "amount": 29
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:28.958Z"
+      "fetchedAt": "2026-10-26T10:03:09.561Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7480,24 +7480,24 @@
           "amount": 999
         },
         {
-          "name": "Ads Pack 1x",
-          "price": "2 290,00 ₽",
-          "amount": 2290
-        },
-        {
-          "name": "Generative",
-          "price": "9 990,00 ₽",
-          "amount": 9990
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "799,00 ₽",
           "amount": 799
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "2 490,00 ₽",
-          "amount": 2490
+          "name": "Ads Pack 1x",
+          "price": "2 290,00 ₽",
+          "amount": 2290
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "4 490,00 ₽",
+          "amount": 4490
+        },
+        {
+          "name": "Generative",
+          "price": "9 990,00 ₽",
+          "amount": 9990
         },
         {
           "name": "Plus Monthly 1x",
@@ -7510,16 +7510,11 @@
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:30.450Z"
+      "fetchedAt": "2026-10-26T10:03:11.005Z"
     },
     "rw": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
         {
           "name": "Plus",
           "price": "USD 24.99",
@@ -7534,6 +7529,11 @@
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Scale Monthly 5x",
@@ -7566,7 +7566,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:32.013Z"
+      "fetchedAt": "2026-10-26T10:03:12.869Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7582,11 +7582,6 @@
           "amount": 89.99
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "SAR 149.99",
-          "amount": 149.99
-        },
-        {
           "name": "Starter Monthly 1x",
           "price": "SAR 89.99",
           "amount": 89.99
@@ -7597,12 +7592,22 @@
           "amount": 199.99
         },
         {
+          "name": "Plus and Generative mini pack",
+          "price": "SAR 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Max",
+          "price": "SAR 249.99",
+          "amount": 249.99
+        },
+        {
           "name": "Starter Monthly 1x",
           "price": "SAR 89.99",
           "amount": 89.99
         },
         {
-          "name": "Max",
+          "name": "Plus Monthly 1x",
           "price": "SAR 249.99",
           "amount": 249.99
         },
@@ -7615,14 +7620,9 @@
           "name": "Generative",
           "price": "SAR 499.99",
           "amount": 499.99
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "SAR 249.99",
-          "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:33.425Z"
+      "fetchedAt": "2026-10-26T10:03:14.042Z"
     },
     "sb": {
       "currency": "USD",
@@ -7678,7 +7678,7 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:34.902Z"
+      "fetchedAt": "2026-10-26T10:03:15.680Z"
     },
     "sc": {
       "currency": "USD",
@@ -7734,7 +7734,7 @@
           "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:36.457Z"
+      "fetchedAt": "2026-10-26T10:03:17.053Z"
     },
     "se": {
       "currency": "SEK",
@@ -7750,6 +7750,11 @@
           "amount": 249
         },
         {
+          "name": "Starter Monthly 1x",
+          "price": "249,00 kr",
+          "amount": 249
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "499,00 kr",
           "amount": 499
@@ -7758,6 +7763,11 @@
           "name": "Max",
           "price": "799,00 kr",
           "amount": 799
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "599,00 kr",
+          "amount": 599
         },
         {
           "name": "Starter Monthly 1x",
@@ -7778,19 +7788,9 @@
           "name": "Gen25 1x",
           "price": "299,00 kr",
           "amount": 299
-        },
-        {
-          "name": "Generative add-on 1x",
-          "price": "149,00 kr",
-          "amount": 149
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "599,00 kr",
-          "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:37.898Z"
+      "fetchedAt": "2026-10-26T10:03:18.580Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7816,6 +7816,11 @@
           "amount": 89.98
         },
         {
+          "name": "Gen25 1x",
+          "price": "S$ 34.98",
+          "amount": 34.98
+        },
+        {
           "name": "Starter Monthly 1x",
           "price": "S$ 29.98",
           "amount": 29.98
@@ -7826,27 +7831,22 @@
           "amount": 69.98
         },
         {
-          "name": "Gen25 1x",
-          "price": "S$ 34.98",
-          "amount": 34.98
-        },
-        {
           "name": "Generative",
           "price": "S$ 179.98",
           "amount": 179.98
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "S$ 89.98",
-          "amount": 89.98
-        },
-        {
           "name": "Ads Pack 1x",
           "price": "S$ 34.98",
           "amount": 34.98
+        },
+        {
+          "name": "Generative add-on 1x",
+          "price": "S$ 17.98",
+          "amount": 17.98
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:39.410Z"
+      "fetchedAt": "2026-10-26T10:03:20.126Z"
     },
     "si": {
       "currency": "EUR",
@@ -7857,14 +7857,9 @@
           "amount": 29.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
+          "name": "Extra Credits 50 1x",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Plus Monthly 1x",
@@ -7872,14 +7867,14 @@
           "amount": 22
         },
         {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "10,00 €",
           "amount": 10
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "60,00 €",
-          "amount": 60
         },
         {
           "name": "Max",
@@ -7892,6 +7887,11 @@
           "amount": 35
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
           "name": "Generative",
           "price": "129,99 €",
           "amount": 129.99
@@ -7902,20 +7902,20 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:40.913Z"
+      "fetchedAt": "2026-10-26T10:03:21.526Z"
     },
     "sk": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Plus",
           "price": "29,99 €",
           "amount": 29.99
+        },
+        {
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 €",
+          "amount": 39
         },
         {
           "name": "Basic Monthly 1x",
@@ -7928,14 +7928,14 @@
           "amount": 22
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 €",
-          "amount": 39
-        },
-        {
           "name": "Pro Monthly 1x",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Plus Monthly 1x",
@@ -7958,7 +7958,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:42.402Z"
+      "fetchedAt": "2026-10-26T10:03:23.054Z"
     },
     "sl": {
       "currency": "USD",
@@ -8014,20 +8014,20 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:43.914Z"
+      "fetchedAt": "2026-10-26T10:03:24.516Z"
     },
     "sn": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus",
-          "price": "USD 29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Plus",
+          "price": "USD 29.99",
+          "amount": 29.99
         },
         {
           "name": "Plus and Generative mini pack",
@@ -8043,6 +8043,11 @@
           "name": "Generative",
           "price": "USD 149.99",
           "amount": 149.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Plus Monthly 1x",
@@ -8063,14 +8068,9 @@
           "name": "Generative add-on 1x",
           "price": "USD 14.00",
           "amount": 14
-        },
-        {
-          "name": "Gen25 1x",
-          "price": "USD 29.00",
-          "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:45.386Z"
+      "fetchedAt": "2026-10-26T10:03:26.015Z"
     },
     "sr": {
       "currency": "USD",
@@ -8126,7 +8126,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:46.886Z"
+      "fetchedAt": "2026-10-26T10:03:27.553Z"
     },
     "st": {
       "currency": "USD",
@@ -8182,7 +8182,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:48.338Z"
+      "fetchedAt": "2026-10-26T10:03:29.082Z"
     },
     "sv": {
       "currency": "USD",
@@ -8191,6 +8191,11 @@
           "name": "Plus",
           "price": "USD 24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Plus Monthly 1x",
@@ -8203,16 +8208,6 @@
           "amount": 35
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
           "name": "Generative",
           "price": "USD 119.99",
           "amount": 119.99
@@ -8223,22 +8218,27 @@
           "amount": 59.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
           "name": "Ads Pack 1x",
           "price": "USD 25.00",
           "amount": 25
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
           "name": "Scale Monthly 5x",
           "price": "USD 1,099.99",
           "amount": 1099.99
-        },
-        {
-          "name": "Team Yearly 5x",
-          "price": "USD 2,799.99",
-          "amount": 2799.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:49.946Z"
+      "fetchedAt": "2026-10-26T10:03:30.563Z"
     },
     "sz": {
       "currency": "USD",
@@ -8294,7 +8294,7 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:51.391Z"
+      "fetchedAt": "2026-10-26T10:03:32.074Z"
     },
     "tc": {
       "currency": "USD",
@@ -8350,7 +8350,7 @@
           "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:52.904Z"
+      "fetchedAt": "2026-10-26T10:03:33.571Z"
     },
     "td": {
       "currency": "USD",
@@ -8406,7 +8406,7 @@
           "amount": 1399.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:54.372Z"
+      "fetchedAt": "2026-10-26T10:03:35.047Z"
     },
     "th": {
       "currency": "THB",
@@ -8427,22 +8427,22 @@
           "amount": 1990
         },
         {
-          "name": "Starter Monthly 1x",
-          "price": "฿699.00",
-          "amount": 699
-        },
-        {
           "name": "Plus and Generative mini pack",
           "price": "฿1,290.00",
           "amount": 1290
         },
         {
-          "name": "Plus Monthly 1x",
-          "price": "฿1,990.00",
-          "amount": 1990
+          "name": "Starter Monthly 1x",
+          "price": "฿699.00",
+          "amount": 699
         },
         {
           "name": "Generative",
+          "price": "฿3,990.00",
+          "amount": 3990
+        },
+        {
+          "name": "Starter Yearly 1x",
           "price": "฿3,990.00",
           "amount": 3990
         },
@@ -8452,26 +8452,21 @@
           "amount": 999
         },
         {
-          "name": "Max Monthly 1x",
-          "price": "฿3,990.00",
-          "amount": 3990
+          "name": "Plus Monthly 1x",
+          "price": "฿1,990.00",
+          "amount": 1990
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "฿399.00",
-          "amount": 399
+          "name": "Starter Monthly 1x",
+          "price": "฿699.00",
+          "amount": 699
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:55.872Z"
+      "fetchedAt": "2026-10-26T10:03:36.589Z"
     },
     "tj": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
         {
           "name": "Plus",
           "price": "USD 29.99",
@@ -8491,6 +8486,11 @@
           "name": "Plus Monthly 1x",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         },
         {
           "name": "Basic Monthly 1x",
@@ -8518,7 +8518,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:57.491Z"
+      "fetchedAt": "2026-10-26T10:03:38.033Z"
     },
     "tm": {
       "currency": "USD",
@@ -8574,25 +8574,20 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T10:03:58.847Z"
+      "fetchedAt": "2026-10-26T10:03:39.564Z"
     },
     "tn": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Plus Monthly 1x",
-          "price": "$20.00",
-          "amount": 20
-        },
         {
           "name": "Basic Monthly 1x",
           "price": "$9.00",
           "amount": 9
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "$30.00",
-          "amount": 30
+          "name": "Plus Monthly 1x",
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "Plus and Generative mini pack",
@@ -8608,6 +8603,11 @@
           "name": "Max",
           "price": "$59.99",
           "amount": 59.99
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "Scale Monthly 5x",
@@ -8630,7 +8630,7 @@
           "amount": 239.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:00.491Z"
+      "fetchedAt": "2026-10-26T10:03:41.099Z"
     },
     "to": {
       "currency": "USD",
@@ -8686,7 +8686,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:02.055Z"
+      "fetchedAt": "2026-10-26T10:03:42.500Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8717,16 +8717,6 @@
           "amount": 1499.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "₺499,99",
-          "amount": 499.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "₺1.499,99",
-          "amount": 1499.99
-        },
-        {
           "name": "Pro Monthly 1x",
           "price": "₺1.499,99",
           "amount": 1499.99
@@ -8737,30 +8727,35 @@
           "amount": 2499.99
         },
         {
-          "name": "Generative",
-          "price": "₺4.999,99",
-          "amount": 4999.99
+          "name": "Basic Yearly 1x",
+          "price": "₺2.999,99",
+          "amount": 2999.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "₺499,99",
+          "amount": 499.99
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "₺1.499,99",
+          "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:03.412Z"
+      "fetchedAt": "2026-10-26T10:03:44.062Z"
     },
     "tt": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Plus",
-          "price": "USD 24.99",
-          "amount": 24.99
-        },
         {
           "name": "Plus Monthly 1x",
           "price": "USD 20.00",
           "amount": 20
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "USD 35.00",
-          "amount": 35
+          "name": "Plus",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Max",
@@ -8768,14 +8763,9 @@
           "amount": 59.99
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
+          "name": "Plus and Generative mini pack",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "Gen25 1x",
@@ -8793,12 +8783,22 @@
           "amount": 50
         },
         {
+          "name": "Pro Monthly 1x",
+          "price": "USD 30.00",
+          "amount": 30
+        },
+        {
           "name": "Max Monthly 1x",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "Ads Pack 1x",
+          "price": "USD 25.00",
+          "amount": 25
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:04.882Z"
+      "fetchedAt": "2026-10-26T10:03:45.527Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8809,19 +8809,9 @@
           "amount": 790
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "$1,190.00",
-          "amount": 1190
-        },
-        {
           "name": "Plus Monthly 1x",
           "price": "$690.00",
           "amount": 690
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "$1,490.00",
-          "amount": 1490
         },
         {
           "name": "Starter Monthly 1x",
@@ -8829,9 +8819,29 @@
           "amount": 690
         },
         {
+          "name": "Plus and Generative mini pack",
+          "price": "$1,190.00",
+          "amount": 1190
+        },
+        {
+          "name": "Extra Credits 50 1x",
+          "price": "$1,490.00",
+          "amount": 1490
+        },
+        {
+          "name": "Starter Yearly 1x",
+          "price": "$3,990.00",
+          "amount": 3990
+        },
+        {
           "name": "Max Monthly 1x",
           "price": "$2,990.00",
           "amount": 2990
+        },
+        {
+          "name": "Starter Monthly 1x",
+          "price": "$690.00",
+          "amount": 690
         },
         {
           "name": "Max",
@@ -8839,35 +8849,30 @@
           "amount": 1990
         },
         {
-          "name": "Extra Credits 1000 1x",
-          "price": "$35,000.00",
-          "amount": 35000
-        },
-        {
-          "name": "Plus Monthly 1x",
-          "price": "$790.00",
-          "amount": 790
-        },
-        {
           "name": "Ads Pack 1x",
           "price": "$790.00",
           "amount": 790
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:06.441Z"
+      "fetchedAt": "2026-10-26T10:03:47.106Z"
     },
     "tz": {
       "currency": "TZS",
       "items": [
         {
-          "name": "Plus Monthly 1x",
-          "price": "59,900.00 TZS",
-          "amount": 59900
-        },
-        {
           "name": "Plus",
           "price": "69,900.00 TZS",
           "amount": 69900
+        },
+        {
+          "name": "Pro Monthly 1x",
+          "price": "89,900.00 TZS",
+          "amount": 89900
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "59,900.00 TZS",
+          "amount": 59900
         },
         {
           "name": "Basic Monthly 1x",
@@ -8903,14 +8908,9 @@
           "name": "Max Monthly 1x",
           "price": "299,900.00 TZS",
           "amount": 299900
-        },
-        {
-          "name": "Gen25 3x",
-          "price": "199,900.00 TZS",
-          "amount": 199900
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:07.910Z"
+      "fetchedAt": "2026-10-26T10:03:48.588Z"
     },
     "ua": {
       "currency": "USD",
@@ -8926,19 +8926,14 @@
           "amount": 10
         },
         {
-          "name": "Plus and Generative mini pack",
-          "price": "39,00 USD",
-          "amount": 39
-        },
-        {
           "name": "Plus",
           "price": "29,99 USD",
           "amount": 29.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 USD",
-          "amount": 10
+          "name": "Plus and Generative mini pack",
+          "price": "39,00 USD",
+          "amount": 39
         },
         {
           "name": "Extra Credits 50 1x",
@@ -8964,32 +8959,32 @@
           "name": "Plus Monthly 1x",
           "price": "29,00 USD",
           "amount": 29
+        },
+        {
+          "name": "Basic Yearly 1x",
+          "price": "69,00 USD",
+          "amount": 69
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:09.389Z"
+      "fetchedAt": "2026-10-26T10:03:50.042Z"
     },
     "ug": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Plus",
-          "price": "USD 29.99",
-          "amount": 29.99
-        },
         {
           "name": "Plus Monthly 1x",
           "price": "USD 25.00",
           "amount": 25
         },
         {
+          "name": "Plus",
+          "price": "USD 29.99",
+          "amount": 29.99
+        },
+        {
           "name": "Plus and Generative mini pack",
           "price": "USD 39.00",
           "amount": 39
-        },
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Generative",
@@ -9007,6 +9002,11 @@
           "amount": 69.99
         },
         {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "Gen25 1x",
           "price": "USD 29.00",
           "amount": 29
@@ -9022,7 +9022,7 @@
           "amount": 40
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:10.859Z"
+      "fetchedAt": "2026-10-26T10:03:51.538Z"
     },
     "us": {
       "currency": "USD",
@@ -9078,15 +9078,15 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:58.010Z"
+      "fetchedAt": "2026-10-26T10:03:53.079Z"
     },
     "uy": {
       "currency": "USD",
       "items": [
         {
-          "name": "Plus Monthly 1x",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Plus",
+          "price": "USD 24.99",
+          "amount": 24.99
         },
         {
           "name": "Basic Monthly 1x",
@@ -9094,9 +9094,9 @@
           "amount": 9
         },
         {
-          "name": "Plus",
-          "price": "USD 24.99",
-          "amount": 24.99
+          "name": "Plus Monthly 1x",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Plus and Generative mini pack",
@@ -9109,24 +9109,24 @@
           "amount": 59.99
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
-        {
-          "name": "Extra Credits 50 1x",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Generative",
           "price": "USD 119.99",
           "amount": 119.99
         },
         {
-          "name": "Pro Monthly 1x",
-          "price": "USD 30.00",
-          "amount": 30
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
+        },
+        {
+          "name": "Plus Monthly 1x",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
+          "name": "Gen25 1x",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Basic Monthly 1x",
@@ -9134,16 +9134,11 @@
           "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:13.863Z"
+      "fetchedAt": "2026-10-26T10:03:54.715Z"
     },
     "uz": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Basic Monthly 1x",
-          "price": "USD 9.00",
-          "amount": 9
-        },
         {
           "name": "Basic Monthly 1x",
           "price": "USD 9.00",
@@ -9160,6 +9155,11 @@
           "amount": 22
         },
         {
+          "name": "Plus and Generative mini pack",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
           "name": "Pro Monthly 1x",
           "price": "USD 30.00",
           "amount": 30
@@ -9168,11 +9168,6 @@
           "name": "Max",
           "price": "USD 69.99",
           "amount": 69.99
-        },
-        {
-          "name": "Plus and Generative mini pack",
-          "price": "USD 39.00",
-          "amount": 39
         },
         {
           "name": "Basic Monthly 1x",
@@ -9188,9 +9183,14 @@
           "name": "Extra Credits 50 1x",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 9.00",
+          "amount": 9
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:15.452Z"
+      "fetchedAt": "2026-10-26T10:03:56.082Z"
     },
     "vc": {
       "currency": "USD",
@@ -9246,7 +9246,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:16.862Z"
+      "fetchedAt": "2026-10-26T10:03:57.700Z"
     },
     "ve": {
       "currency": "USD",
@@ -9302,7 +9302,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:18.426Z"
+      "fetchedAt": "2026-10-26T10:03:59.121Z"
     },
     "vg": {
       "currency": "USD",
@@ -9358,7 +9358,7 @@
           "amount": 479.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:19.960Z"
+      "fetchedAt": "2026-10-26T10:04:00.678Z"
     },
     "vn": {
       "currency": "VND",
@@ -9389,9 +9389,9 @@
           "amount": 299000
         },
         {
-          "name": "Basic Monthly 1x",
-          "price": "299.000đ",
-          "amount": 299000
+          "name": "Basic Yearly 1x",
+          "price": "1.499.000đ",
+          "amount": 1499000
         },
         {
           "name": "Generative",
@@ -9399,22 +9399,22 @@
           "amount": 2999000
         },
         {
-          "name": "Generative add-on 1x",
-          "price": "399.000đ",
-          "amount": 399000
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "299.000đ",
           "amount": 299000
         },
         {
-          "name": "Essential",
+          "name": "Generative add-on 1x",
+          "price": "399.000đ",
+          "amount": 399000
+        },
+        {
+          "name": "Pro Monthly 1x",
           "price": "999.000đ",
           "amount": 999000
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:21.394Z"
+      "fetchedAt": "2026-10-26T10:04:02.033Z"
     },
     "vu": {
       "currency": "USD",
@@ -9470,20 +9470,20 @@
           "amount": 359.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:22.860Z"
+      "fetchedAt": "2026-10-26T10:04:03.684Z"
     },
     "xk": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Basic Monthly 1x",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Plus",
           "price": "29,99 €",
           "amount": 29.99
+        },
+        {
+          "name": "Generative",
+          "price": "129,99 €",
+          "amount": 129.99
         },
         {
           "name": "Plus Monthly 1x",
@@ -9501,9 +9501,9 @@
           "amount": 29
         },
         {
-          "name": "Generative",
-          "price": "129,99 €",
-          "amount": 129.99
+          "name": "Basic Monthly 1x",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Plus and Generative mini pack",
@@ -9526,7 +9526,7 @@
           "amount": 1199.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:24.421Z"
+      "fetchedAt": "2026-10-26T10:04:05.070Z"
     },
     "ye": {
       "currency": "USD",
@@ -9582,7 +9582,7 @@
           "amount": 2799.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:25.843Z"
+      "fetchedAt": "2026-10-26T10:04:06.689Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9613,6 +9613,11 @@
           "amount": 1199.99
         },
         {
+          "name": "Basic Yearly 1x",
+          "price": "R999.99",
+          "amount": 999.99
+        },
+        {
           "name": "Basic Monthly 1x",
           "price": "R199.99",
           "amount": 199.99
@@ -9623,22 +9628,17 @@
           "amount": 2499.99
         },
         {
-          "name": "Ads Pack 1x",
-          "price": "R499.99",
-          "amount": 499.99
-        },
-        {
-          "name": "Pro Monthly 1x",
-          "price": "R599.99",
-          "amount": 599.99
-        },
-        {
           "name": "Basic Monthly 1x",
           "price": "R199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Ads Pack 1x",
+          "price": "R499.99",
+          "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:27.383Z"
+      "fetchedAt": "2026-10-26T10:04:08.125Z"
     },
     "zm": {
       "currency": "USD",
@@ -9694,7 +9694,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:28.887Z"
+      "fetchedAt": "2026-10-26T10:04:09.709Z"
     },
     "zw": {
       "currency": "USD",
@@ -9703,6 +9703,11 @@
           "name": "Plus",
           "price": "USD 29.99",
           "amount": 29.99
+        },
+        {
+          "name": "Basic Monthly 1x",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Max",
@@ -9743,14 +9748,9 @@
           "name": "Scale Monthly 5x",
           "price": "USD 1,299.99",
           "amount": 1299.99
-        },
-        {
-          "name": "Team Yearly 5x",
-          "price": "USD 3,499.99",
-          "amount": 3499.99
         }
       ],
-      "fetchedAt": "2026-10-19T10:04:30.408Z"
+      "fetchedAt": "2026-10-26T10:04:11.050Z"
     }
   }
 }

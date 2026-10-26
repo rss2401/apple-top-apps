@@ -2,7 +2,7 @@
   "id": "6474233312",
   "name": "Kimi",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:14:36.888Z",
+  "fetchedAt": "2026-10-26T08:41:28.814Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -23,6 +23,11 @@
           "amount": 69.99
         },
         {
+          "name": "Pro",
+          "price": "AED 149.99",
+          "amount": 149.99
+        },
+        {
           "name": "Allegro",
           "price": "AED 399.99",
           "amount": 399.99
@@ -33,19 +38,9 @@
           "amount": 799.99
         },
         {
-          "name": "Pro",
-          "price": "AED 149.99",
-          "amount": 149.99
-        },
-        {
           "name": "Ultra",
           "price": "AED 799.99",
           "amount": 799.99
-        },
-        {
-          "name": "Max",
-          "price": "AED 399.99",
-          "amount": 399.99
         },
         {
           "name": "Moderato Annual Pass",
@@ -53,12 +48,17 @@
           "amount": 699.99
         },
         {
-          "name": "Pro Annual Pass",
+          "name": "Max",
+          "price": "AED 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Allegretto Annual Pass",
           "price": "AED 1,499.99",
           "amount": 1499.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:37:57.935Z"
+      "fetchedAt": "2026-10-26T08:37:07.766Z"
     },
     "af": {
       "currency": "USD",
@@ -114,63 +114,63 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:37:59.422Z"
+      "fetchedAt": "2026-10-26T08:37:09.278Z"
     },
     "ag": {
       "currency": "USD",
       "items": [
         {
-          "name": "Ultra Annual Pass",
-          "price": "USD 1,999.00",
-          "amount": 1999
+          "name": "Land on the moon with Kimi !",
+          "price": "USD 59.99",
+          "amount": 59.99
         },
         {
-          "name": "Ultra",
+          "name": "Send Kimi a flower !",
+          "price": "USD 0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Give Kimi some snacks !",
+          "price": "USD 0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Grab a coffee with Kimi !",
+          "price": "USD 3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Get Kimi charged !",
+          "price": "USD 6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Treat Kimi to a meal !",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Vivace",
           "price": "USD 199.00",
           "amount": 199
         },
         {
-          "name": "Max Annual Pass",
-          "price": "USD 949.00",
-          "amount": 949
-        },
-        {
-          "name": "Max",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
-          "name": "Pro Annual Pass",
-          "price": "USD 374.99",
-          "amount": 374.99
-        },
-        {
-          "name": "Pro",
+          "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "USD 19.00",
           "amount": 19
         },
         {
-          "name": "Plus Annual Pass",
+          "name": "Moderato Annual Pass",
           "price": "USD 180.99",
           "amount": 180.99
-        },
-        {
-          "name": "Allegro Annual Pass",
-          "price": "USD 949.00",
-          "amount": 949
-        },
-        {
-          "name": "Allegro",
-          "price": "USD 99.00",
-          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:00.923Z"
+      "fetchedAt": "2026-10-26T08:37:10.792Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:02.514Z"
+      "fetchedAt": "2026-10-26T08:37:12.201Z"
     },
     "al": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:03.954Z"
+      "fetchedAt": "2026-10-26T08:37:13.773Z"
     },
     "am": {
       "currency": "USD",
@@ -338,7 +338,7 @@
           "amount": 449.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:05.426Z"
+      "fetchedAt": "2026-10-26T08:37:15.404Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:07.013Z"
+      "fetchedAt": "2026-10-26T08:37:16.812Z"
     },
     "ar": {
       "currency": "USD",
@@ -405,24 +405,24 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
         {
-          "name": "Vivace",
-          "price": "USD 199.00",
-          "amount": 199
+          "name": "Allegretto",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "Allegro",
           "price": "USD 99.00",
           "amount": 99
+        },
+        {
+          "name": "Vivace",
+          "price": "USD 199.00",
+          "amount": 199
         },
         {
           "name": "Moderato Annual Pass",
@@ -450,7 +450,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:08.443Z"
+      "fetchedAt": "2026-10-26T08:37:18.582Z"
     },
     "at": {
       "currency": "EUR",
@@ -471,14 +471,19 @@
           "amount": 45
         },
         {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "Plus Annual Pass",
+          "price": "199,99 €",
+          "amount": 199.99
         },
         {
           "name": "Pro",
           "price": "45,00 €",
           "amount": 45
+        },
+        {
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Allegretto Annual Pass",
@@ -499,14 +504,9 @@
           "name": "Ultra Annual Pass",
           "price": "2.299,99 €",
           "amount": 2299.99
-        },
-        {
-          "name": "Ultra",
-          "price": "229,00 €",
-          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:09.881Z"
+      "fetchedAt": "2026-10-26T08:37:19.725Z"
     },
     "au": {
       "currency": "AUD",
@@ -517,24 +517,14 @@
           "amount": 29
         },
         {
-          "name": "Allegretto",
-          "price": "$59.00",
-          "amount": 59
-        },
-        {
           "name": "Plus",
           "price": "$29.00",
           "amount": 29
         },
         {
-          "name": "Allegro",
-          "price": "$149.00",
-          "amount": 149
-        },
-        {
-          "name": "Vivace",
-          "price": "$299.00",
-          "amount": 299
+          "name": "Allegretto",
+          "price": "$59.00",
+          "amount": 59
         },
         {
           "name": "Pro",
@@ -542,9 +532,19 @@
           "amount": 59
         },
         {
-          "name": "Max",
+          "name": "Allegro",
           "price": "$149.00",
           "amount": 149
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "$299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Vivace",
+          "price": "$299.00",
+          "amount": 299
         },
         {
           "name": "Moderato Annual Pass",
@@ -557,18 +557,23 @@
           "amount": 599.99
         },
         {
-          "name": "Pro Annual Pass",
-          "price": "$599.99",
-          "amount": 599.99
+          "name": "Max",
+          "price": "$149.00",
+          "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:11.544Z"
+      "fetchedAt": "2026-10-26T08:37:21.284Z"
     },
     "az": {
       "currency": "USD",
       "items": [
         {
           "name": "Moderato",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Plus",
           "price": "USD 22.00",
           "amount": 22
         },
@@ -611,14 +616,9 @@
           "name": "Pro",
           "price": "USD 49.00",
           "amount": 49
-        },
-        {
-          "name": "Plus",
-          "price": "USD 22.00",
-          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:12.963Z"
+      "fetchedAt": "2026-10-26T08:37:22.953Z"
     },
     "ba": {
       "currency": "EUR",
@@ -674,7 +674,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:14.412Z"
+      "fetchedAt": "2026-10-26T08:37:24.417Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:16.008Z"
+      "fetchedAt": "2026-10-26T08:37:25.882Z"
     },
     "be": {
       "currency": "EUR",
@@ -741,14 +741,19 @@
           "amount": 22
         },
         {
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Allegretto",
           "price": "45,00 €",
           "amount": 45
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Allegro",
@@ -779,14 +784,9 @@
           "name": "Ultra",
           "price": "229,00 €",
           "amount": 229
-        },
-        {
-          "name": "Max Annual Pass",
-          "price": "999,00 €",
-          "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:17.469Z"
+      "fetchedAt": "2026-10-26T08:37:27.270Z"
     },
     "bf": {
       "currency": "USD",
@@ -842,7 +842,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:18.923Z"
+      "fetchedAt": "2026-10-26T08:37:28.914Z"
     },
     "bg": {
       "currency": "EUR",
@@ -858,14 +858,14 @@
           "amount": 22
         },
         {
-          "name": "Pro",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Allegretto",
           "price": "44,99 €",
           "amount": 44.99
+        },
+        {
+          "name": "Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Moderato Annual Pass",
@@ -898,13 +898,18 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:20.486Z"
+      "fetchedAt": "2026-10-26T08:37:30.333Z"
     },
     "bh": {
       "currency": "USD",
       "items": [
         {
           "name": "Moderato",
+          "price": "$19.00",
+          "amount": 19
+        },
+        {
+          "name": "Plus",
           "price": "$19.00",
           "amount": 19
         },
@@ -917,11 +922,6 @@
           "name": "Allegro",
           "price": "$99.00",
           "amount": 99
-        },
-        {
-          "name": "Plus",
-          "price": "$19.00",
-          "amount": 19
         },
         {
           "name": "Vivace",
@@ -954,7 +954,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:21.898Z"
+      "fetchedAt": "2026-10-26T08:37:31.816Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:23.424Z"
+      "fetchedAt": "2026-10-26T08:37:33.454Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,7 +1066,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:24.918Z"
+      "fetchedAt": "2026-10-26T08:37:34.835Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:26.389Z"
+      "fetchedAt": "2026-10-26T08:37:36.339Z"
     },
     "bo": {
       "currency": "USD",
@@ -1178,7 +1178,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:27.957Z"
+      "fetchedAt": "2026-10-26T08:37:37.995Z"
     },
     "br": {
       "currency": "BRL",
@@ -1189,24 +1189,19 @@
           "amount": 119.9
         },
         {
-          "name": "Allegretto",
-          "price": "R$ 249,90",
-          "amount": 249.9
-        },
-        {
           "name": "Plus",
           "price": "R$ 119,90",
           "amount": 119.9
         },
         {
+          "name": "Allegretto",
+          "price": "R$ 249,90",
+          "amount": 249.9
+        },
+        {
           "name": "Allegro",
           "price": "R$ 599,90",
           "amount": 599.9
-        },
-        {
-          "name": "Vivace",
-          "price": "R$ 1.299,90",
-          "amount": 1299.9
         },
         {
           "name": "Pro",
@@ -1219,6 +1214,11 @@
           "amount": 599.9
         },
         {
+          "name": "Vivace",
+          "price": "R$ 1.299,90",
+          "amount": 1299.9
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "R$ 1.199,90",
           "amount": 1199.9
@@ -1229,68 +1229,68 @@
           "amount": 2499.9
         },
         {
-          "name": "Ultra",
-          "price": "R$ 1.299,90",
-          "amount": 1299.9
+          "name": "Allegro Annual Pass",
+          "price": "R$ 5.999,90",
+          "amount": 5999.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:29.437Z"
+      "fetchedAt": "2026-10-26T08:37:39.315Z"
     },
     "bs": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Land on the moon with Kimi !",
-          "price": "USD 69.99",
-          "amount": 69.99
-        },
-        {
-          "name": "Send Kimi a flower !",
-          "price": "USD 0.99",
-          "amount": 0.99
-        },
-        {
-          "name": "Give Kimi some snacks !",
-          "price": "USD 0.99",
-          "amount": 0.99
-        },
-        {
-          "name": "Grab a coffee with Kimi !",
-          "price": "USD 3.99",
-          "amount": 3.99
-        },
-        {
-          "name": "Get Kimi charged !",
-          "price": "USD 7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "Treat Kimi to a meal !",
-          "price": "USD 14.99",
-          "amount": 14.99
-        },
-        {
-          "name": "Vivace",
-          "price": "USD 199.00",
-          "amount": 199
-        },
-        {
-          "name": "Allegretto",
-          "price": "USD 39.00",
-          "amount": 39
-        },
         {
           "name": "Moderato",
           "price": "USD 19.00",
           "amount": 19
         },
         {
-          "name": "Moderato Annual Pass",
+          "name": "Ultra Annual Pass",
+          "price": "USD 1,999.00",
+          "amount": 1999
+        },
+        {
+          "name": "Ultra",
+          "price": "USD 199.00",
+          "amount": 199
+        },
+        {
+          "name": "Max Annual Pass",
+          "price": "USD 999.00",
+          "amount": 999
+        },
+        {
+          "name": "Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Pro Annual Pass",
+          "price": "USD 399.99",
+          "amount": 399.99
+        },
+        {
+          "name": "Pro",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Plus Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
+        },
+        {
+          "name": "Allegro Annual Pass",
+          "price": "USD 999.00",
+          "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:30.970Z"
+      "fetchedAt": "2026-10-26T08:37:40.750Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,7 +1346,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:32.427Z"
+      "fetchedAt": "2026-10-26T08:37:42.232Z"
     },
     "bw": {
       "currency": "USD",
@@ -1357,6 +1357,11 @@
           "amount": 19
         },
         {
+          "name": "Vivace",
+          "price": "USD 199.00",
+          "amount": 199
+        },
+        {
           "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
@@ -1365,11 +1370,6 @@
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
-        },
-        {
-          "name": "Vivace",
-          "price": "USD 199.00",
-          "amount": 199
         },
         {
           "name": "Ultra Annual Pass",
@@ -1402,20 +1402,25 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:33.921Z"
+      "fetchedAt": "2026-10-26T08:37:43.792Z"
     },
     "by": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus",
+          "price": "USD 22.00",
+          "amount": 22
+        },
         {
           "name": "Moderato",
           "price": "USD 22.00",
           "amount": 22
         },
         {
-          "name": "Plus",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "Allegro",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "Allegretto",
@@ -1426,11 +1431,6 @@
           "name": "Pro",
           "price": "USD 49.00",
           "amount": 49
-        },
-        {
-          "name": "Allegro",
-          "price": "USD 119.00",
-          "amount": 119
         },
         {
           "name": "Vivace",
@@ -1458,7 +1458,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:35.412Z"
+      "fetchedAt": "2026-10-26T08:37:45.348Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,7 +1514,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:36.949Z"
+      "fetchedAt": "2026-10-26T08:37:46.818Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1535,14 +1535,14 @@
           "amount": 25
         },
         {
-          "name": "Allegro",
-          "price": "$129.00",
-          "amount": 129
-        },
-        {
           "name": "Pro",
           "price": "$49.00",
           "amount": 49
+        },
+        {
+          "name": "Allegro",
+          "price": "$129.00",
+          "amount": 129
         },
         {
           "name": "Vivace",
@@ -1550,14 +1550,9 @@
           "amount": 249
         },
         {
-          "name": "Ultra",
-          "price": "$249.00",
-          "amount": 249
-        },
-        {
-          "name": "Moderato Annual Pass",
-          "price": "$249.99",
-          "amount": 249.99
+          "name": "Max",
+          "price": "$129.00",
+          "amount": 129
         },
         {
           "name": "Plus Annual Pass",
@@ -1565,18 +1560,28 @@
           "amount": 249.99
         },
         {
-          "name": "Max",
-          "price": "$129.00",
-          "amount": 129
+          "name": "Moderato Annual Pass",
+          "price": "$249.99",
+          "amount": 249.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$249.00",
+          "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:38.433Z"
+      "fetchedAt": "2026-10-26T08:37:48.437Z"
     },
     "cd": {
       "currency": "USD",
       "items": [
         {
           "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
@@ -1594,11 +1599,6 @@
           "name": "Moderato Annual Pass",
           "price": "USD 180.99",
           "amount": 180.99
-        },
-        {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -1626,7 +1626,7 @@
           "amount": 374.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:40.036Z"
+      "fetchedAt": "2026-10-26T08:37:49.750Z"
     },
     "cg": {
       "currency": "USD",
@@ -1682,7 +1682,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:41.406Z"
+      "fetchedAt": "2026-10-26T08:37:51.276Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1703,9 +1703,14 @@
           "amount": 18
         },
         {
-          "name": "Vivace",
-          "price": "CHF 200.00",
-          "amount": 200
+          "name": "Pro",
+          "price": "CHF 35.00",
+          "amount": 35
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "CHF 150.00",
+          "amount": 150
         },
         {
           "name": "Allegro",
@@ -1713,19 +1718,14 @@
           "amount": 90
         },
         {
+          "name": "Vivace",
+          "price": "CHF 200.00",
+          "amount": 200
+        },
+        {
           "name": "Ultra",
           "price": "CHF 180.00",
           "amount": 180
-        },
-        {
-          "name": "Pro",
-          "price": "CHF 35.00",
-          "amount": 35
-        },
-        {
-          "name": "Moderato Annual Pass",
-          "price": "CHF 150.00",
-          "amount": 150
         },
         {
           "name": "Max",
@@ -1733,12 +1733,12 @@
           "amount": 90
         },
         {
-          "name": "Allegretto Annual Pass",
-          "price": "CHF 300.00",
-          "amount": 300
+          "name": "Moderato Annual Pass",
+          "price": "CHF 150.00",
+          "amount": 150
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:42.950Z"
+      "fetchedAt": "2026-10-26T08:37:52.803Z"
     },
     "ci": {
       "currency": "USD",
@@ -1794,7 +1794,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:44.415Z"
+      "fetchedAt": "2026-10-26T08:37:54.349Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1805,24 +1805,24 @@
           "amount": 19990
         },
         {
-          "name": "Plus",
-          "price": "$19.990",
-          "amount": 19990
-        },
-        {
           "name": "Allegretto",
           "price": "$39.990",
           "amount": 39990
         },
         {
-          "name": "Vivace",
-          "price": "$229.990",
-          "amount": 229990
+          "name": "Plus",
+          "price": "$19.990",
+          "amount": 19990
         },
         {
           "name": "Allegro",
           "price": "$99.990",
           "amount": 99990
+        },
+        {
+          "name": "Vivace",
+          "price": "$229.990",
+          "amount": 229990
         },
         {
           "name": "Pro",
@@ -1850,7 +1850,7 @@
           "amount": 999990
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:46.074Z"
+      "fetchedAt": "2026-10-26T08:37:55.888Z"
     },
     "cm": {
       "currency": "USD",
@@ -1906,7 +1906,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:47.573Z"
+      "fetchedAt": "2026-10-26T08:37:57.323Z"
     },
     "cn": {
       "currency": "CNY",
@@ -1962,7 +1962,7 @@
           "amount": 948
         }
       ],
-      "fetchedAt": "2026-10-26T08:14:35.417Z"
+      "fetchedAt": "2026-10-26T08:37:58.822Z"
     },
     "co": {
       "currency": "COP",
@@ -1979,6 +1979,11 @@
         },
         {
           "name": "Allegretto",
+          "price": "$ 199.900,00",
+          "amount": 199900
+        },
+        {
+          "name": "Pro",
           "price": "$ 199.900,00",
           "amount": 199900
         },
@@ -2011,14 +2016,9 @@
           "name": "Ultra Annual Pass",
           "price": "$ 9.999.900,00",
           "amount": 9999900
-        },
-        {
-          "name": "Ultra",
-          "price": "$ 999.900,00",
-          "amount": 999900
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:50.467Z"
+      "fetchedAt": "2026-10-26T08:38:00.430Z"
     },
     "cr": {
       "currency": "USD",
@@ -2029,14 +2029,14 @@
           "amount": 19
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Allegro",
@@ -2074,7 +2074,7 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:51.999Z"
+      "fetchedAt": "2026-10-26T08:38:01.935Z"
     },
     "cv": {
       "currency": "USD",
@@ -2130,23 +2130,18 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:53.423Z"
+      "fetchedAt": "2026-10-26T08:38:03.278Z"
     },
     "cy": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Allegretto",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "22,00 €",
           "amount": 22
         },
@@ -2154,6 +2149,11 @@
           "name": "Allegro",
           "price": "99,00 €",
           "amount": 99
+        },
+        {
+          "name": "Allegretto",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Vivace",
@@ -2186,7 +2186,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:54.884Z"
+      "fetchedAt": "2026-10-26T08:38:04.795Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2203,6 +2203,11 @@
         },
         {
           "name": "Allegretto",
+          "price": "999,00 Kč",
+          "amount": 999
+        },
+        {
+          "name": "Pro",
           "price": "999,00 Kč",
           "amount": 999
         },
@@ -2235,14 +2240,9 @@
           "name": "Max Annual Pass",
           "price": "24 990,00 Kč",
           "amount": 24990
-        },
-        {
-          "name": "Max",
-          "price": "2 790,00 Kč",
-          "amount": 2790
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:56.426Z"
+      "fetchedAt": "2026-10-26T08:38:06.220Z"
     },
     "de": {
       "currency": "EUR",
@@ -2253,19 +2253,14 @@
           "amount": 22
         },
         {
-          "name": "Allegretto",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Plus",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "Allegretto",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Pro",
@@ -2273,19 +2268,9 @@
           "amount": 45
         },
         {
-          "name": "Vivace",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Max",
+          "name": "Allegro",
           "price": "99,00 €",
           "amount": 99
-        },
-        {
-          "name": "Ultra",
-          "price": "229,00 €",
-          "amount": 229
         },
         {
           "name": "Plus Annual Pass",
@@ -2293,12 +2278,27 @@
           "amount": 199.99
         },
         {
+          "name": "Max",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
+          "name": "Vivace",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Ultra",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "199,99 €",
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:57.942Z"
+      "fetchedAt": "2026-10-26T08:38:07.776Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2309,9 +2309,9 @@
           "amount": 179
         },
         {
-          "name": "Allegretto",
-          "price": "349,00 kr",
-          "amount": 349
+          "name": "Plus",
+          "price": "179,00 kr",
+          "amount": 179
         },
         {
           "name": "Pro",
@@ -2319,9 +2319,9 @@
           "amount": 349
         },
         {
-          "name": "Plus",
-          "price": "179,00 kr",
-          "amount": 179
+          "name": "Allegretto",
+          "price": "349,00 kr",
+          "amount": 349
         },
         {
           "name": "Allegro",
@@ -2354,7 +2354,7 @@
           "amount": 7999
         }
       ],
-      "fetchedAt": "2026-10-19T08:38:59.422Z"
+      "fetchedAt": "2026-10-26T08:38:09.254Z"
     },
     "dm": {
       "currency": "USD",
@@ -2410,7 +2410,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:00.958Z"
+      "fetchedAt": "2026-10-26T08:38:10.834Z"
     },
     "do": {
       "currency": "USD",
@@ -2426,14 +2426,14 @@
           "amount": 39
         },
         {
-          "name": "Allegro",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
           "name": "Pro",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Allegro",
+          "price": "USD 99.00",
+          "amount": 99
         },
         {
           "name": "Ultra Annual Pass",
@@ -2466,7 +2466,7 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:02.465Z"
+      "fetchedAt": "2026-10-26T08:38:12.386Z"
     },
     "dz": {
       "currency": "USD",
@@ -2522,13 +2522,18 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:04.059Z"
+      "fetchedAt": "2026-10-26T08:38:13.880Z"
     },
     "ec": {
       "currency": "USD",
       "items": [
         {
           "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
@@ -2571,14 +2576,9 @@
           "name": "Pro Annual Pass",
           "price": "USD 374.99",
           "amount": 374.99
-        },
-        {
-          "name": "Pro",
-          "price": "USD 39.00",
-          "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:05.501Z"
+      "fetchedAt": "2026-10-26T08:38:15.345Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2589,6 +2589,11 @@
           "amount": 22
         },
         {
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
           "name": "Plus",
           "price": "22,00 €",
           "amount": 22
@@ -2597,11 +2602,6 @@
           "name": "Vivace",
           "price": "229,00 €",
           "amount": 229
-        },
-        {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
         },
         {
           "name": "Allegretto",
@@ -2634,7 +2634,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:06.631Z"
+      "fetchedAt": "2026-10-26T08:38:16.951Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2660,9 +2660,9 @@
           "amount": 4999.99
         },
         {
-          "name": "Pro",
-          "price": "EGP 1,999.99",
-          "amount": 1999.99
+          "name": "Max",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
         },
         {
           "name": "Vivace",
@@ -2670,14 +2670,14 @@
           "amount": 9999.99
         },
         {
+          "name": "Pro",
+          "price": "EGP 1,999.99",
+          "amount": 1999.99
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "EGP 9,999.99",
           "amount": 9999.99
-        },
-        {
-          "name": "Max",
-          "price": "EGP 4,999.99",
-          "amount": 4999.99
         },
         {
           "name": "Allegretto Annual Pass",
@@ -2690,7 +2690,7 @@
           "amount": 99999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:08.430Z"
+      "fetchedAt": "2026-10-26T08:38:18.370Z"
     },
     "es": {
       "currency": "EUR",
@@ -2701,14 +2701,19 @@
           "amount": 22
         },
         {
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Allegretto",
           "price": "45,00 €",
           "amount": 45
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Allegro",
@@ -2721,6 +2726,11 @@
           "amount": 229
         },
         {
+          "name": "Plus Annual Pass",
+          "price": "199,99 €",
+          "amount": 199.99
+        },
+        {
           "name": "Vivace",
           "price": "229,00 €",
           "amount": 229
@@ -2731,22 +2741,12 @@
           "amount": 199.99
         },
         {
-          "name": "Pro",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Allegretto Annual Pass",
           "price": "399,99 €",
           "amount": 399.99
-        },
-        {
-          "name": "Allegro Annual Pass",
-          "price": "999,00 €",
-          "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:09.907Z"
+      "fetchedAt": "2026-10-26T08:38:19.774Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2760,6 +2760,11 @@
           "name": "Allegretto",
           "price": "45,00 €",
           "amount": 45
+        },
+        {
+          "name": "Vivace",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Allegro",
@@ -2795,14 +2800,9 @@
           "name": "Pro Annual Pass",
           "price": "399,99 €",
           "amount": 399.99
-        },
-        {
-          "name": "Pro",
-          "price": "45,00 €",
-          "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:11.411Z"
+      "fetchedAt": "2026-10-26T08:38:21.304Z"
     },
     "fj": {
       "currency": "USD",
@@ -2858,7 +2858,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:12.976Z"
+      "fetchedAt": "2026-10-26T08:38:22.808Z"
     },
     "fm": {
       "currency": "USD",
@@ -2914,7 +2914,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:14.742Z"
+      "fetchedAt": "2026-10-26T08:38:24.315Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2935,19 +2935,14 @@
           "amount": 45
         },
         {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "Pro",
           "price": "45,00 €",
           "amount": 45
         },
         {
-          "name": "Vivace",
-          "price": "229,00 €",
-          "amount": 229
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Max",
@@ -2955,9 +2950,9 @@
           "amount": 99
         },
         {
-          "name": "Moderato Annual Pass",
-          "price": "199,99 €",
-          "amount": 199.99
+          "name": "Vivace",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Plus Annual Pass",
@@ -2968,9 +2963,14 @@
           "name": "Allegretto Annual Pass",
           "price": "399,99 €",
           "amount": 399.99
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "199,99 €",
+          "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:15.916Z"
+      "fetchedAt": "2026-10-26T08:38:25.780Z"
     },
     "ga": {
       "currency": "USD",
@@ -3026,7 +3026,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:17.633Z"
+      "fetchedAt": "2026-10-26T08:38:27.315Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3037,19 +3037,14 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
-          "price": "£39.00",
-          "amount": 39
-        },
-        {
           "name": "Plus",
           "price": "£19.00",
           "amount": 19
         },
         {
-          "name": "Vivace",
-          "price": "£199.00",
-          "amount": 199
+          "name": "Allegretto",
+          "price": "£39.00",
+          "amount": 39
         },
         {
           "name": "Pro",
@@ -3062,17 +3057,12 @@
           "amount": 99
         },
         {
+          "name": "Vivace",
+          "price": "£199.00",
+          "amount": 199
+        },
+        {
           "name": "Plus Annual Pass",
-          "price": "£179.99",
-          "amount": 179.99
-        },
-        {
-          "name": "Vivace Annual Pass",
-          "price": "£1,999.00",
-          "amount": 1999
-        },
-        {
-          "name": "Moderato Annual Pass",
           "price": "£179.99",
           "amount": 179.99
         },
@@ -3080,9 +3070,19 @@
           "name": "Max",
           "price": "£99.00",
           "amount": 99
+        },
+        {
+          "name": "Ultra",
+          "price": "£199.00",
+          "amount": 199
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "£179.99",
+          "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:18.957Z"
+      "fetchedAt": "2026-10-26T08:38:28.767Z"
     },
     "gd": {
       "currency": "USD",
@@ -3138,7 +3138,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:20.373Z"
+      "fetchedAt": "2026-10-26T08:38:30.316Z"
     },
     "ge": {
       "currency": "USD",
@@ -3149,14 +3149,14 @@
           "amount": 22
         },
         {
-          "name": "Allegro",
-          "price": "USD 119.00",
-          "amount": 119
-        },
-        {
           "name": "Plus",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Allegro",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "Allegretto",
@@ -3194,7 +3194,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:21.925Z"
+      "fetchedAt": "2026-10-26T08:38:31.768Z"
     },
     "gh": {
       "currency": "USD",
@@ -3203,6 +3203,11 @@
           "name": "Moderato",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Allegretto",
+          "price": "USD 49.00",
+          "amount": 49
         },
         {
           "name": "Plus",
@@ -3218,11 +3223,6 @@
           "name": "Moderato Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
-        },
-        {
-          "name": "Allegretto",
-          "price": "USD 49.00",
-          "amount": 49
         },
         {
           "name": "Vivace",
@@ -3250,7 +3250,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:23.453Z"
+      "fetchedAt": "2026-10-26T08:38:33.278Z"
     },
     "gm": {
       "currency": "USD",
@@ -3306,7 +3306,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:24.891Z"
+      "fetchedAt": "2026-10-26T08:38:34.788Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3317,14 +3317,14 @@
           "amount": 22
         },
         {
-          "name": "Allegretto",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Plus",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Allegretto",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Allegro",
@@ -3362,7 +3362,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:26.460Z"
+      "fetchedAt": "2026-10-26T08:38:36.216Z"
     },
     "gt": {
       "currency": "USD",
@@ -3373,14 +3373,14 @@
           "amount": 19
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Vivace",
@@ -3418,7 +3418,7 @@
           "amount": 374.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:27.950Z"
+      "fetchedAt": "2026-10-26T08:38:37.779Z"
     },
     "gw": {
       "currency": "USD",
@@ -3474,7 +3474,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:29.416Z"
+      "fetchedAt": "2026-10-26T08:38:39.324Z"
     },
     "gy": {
       "currency": "USD",
@@ -3530,7 +3530,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:30.968Z"
+      "fetchedAt": "2026-10-26T08:38:40.803Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3541,19 +3541,14 @@
           "amount": 148
         },
         {
-          "name": "Allegretto",
-          "price": "HK$ 288.00",
-          "amount": 288
-        },
-        {
           "name": "Plus",
           "price": "HK$ 148.00",
           "amount": 148
         },
         {
-          "name": "Allegro",
-          "price": "HK$ 788.00",
-          "amount": 788
+          "name": "Allegretto",
+          "price": "HK$ 288.00",
+          "amount": 288
         },
         {
           "name": "Pro",
@@ -3561,19 +3556,24 @@
           "amount": 288
         },
         {
-          "name": "Vivace",
-          "price": "HK$ 1,488.00",
-          "amount": 1488
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "HK$ 1,488.00",
           "amount": 1488
         },
         {
-          "name": "Allegretto Annual Pass",
-          "price": "HK$ 2,888.00",
-          "amount": 2888
+          "name": "Allegro",
+          "price": "HK$ 788.00",
+          "amount": 788
+        },
+        {
+          "name": "Vivace",
+          "price": "HK$ 1,488.00",
+          "amount": 1488
+        },
+        {
+          "name": "Max",
+          "price": "HK$ 788.00",
+          "amount": 788
         },
         {
           "name": "Moderato Annual Pass",
@@ -3581,12 +3581,12 @@
           "amount": 1488
         },
         {
-          "name": "Ultra",
-          "price": "HK$ 1,488.00",
-          "amount": 1488
+          "name": "Allegretto Annual Pass",
+          "price": "HK$ 2,888.00",
+          "amount": 2888
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:32.488Z"
+      "fetchedAt": "2026-10-26T08:38:42.364Z"
     },
     "hn": {
       "currency": "USD",
@@ -3597,14 +3597,14 @@
           "amount": 19
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Allegro",
@@ -3642,18 +3642,18 @@
           "amount": 374.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:33.953Z"
+      "fetchedAt": "2026-10-26T08:38:43.837Z"
     },
     "hr": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "22,00 €",
           "amount": 22
         },
@@ -3698,7 +3698,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:35.409Z"
+      "fetchedAt": "2026-10-26T08:38:45.236Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3709,9 +3709,9 @@
           "amount": 8990
         },
         {
-          "name": "Plus",
-          "price": "HUF8,990.00",
-          "amount": 8990
+          "name": "Pro",
+          "price": "HUF17,990.00",
+          "amount": 17990
         },
         {
           "name": "Allegretto",
@@ -3719,9 +3719,9 @@
           "amount": 17990
         },
         {
-          "name": "Pro",
-          "price": "HUF17,990.00",
-          "amount": 17990
+          "name": "Plus",
+          "price": "HUF8,990.00",
+          "amount": 8990
         },
         {
           "name": "Vivace",
@@ -3754,7 +3754,7 @@
           "amount": 179990
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:36.941Z"
+      "fetchedAt": "2026-10-26T08:38:46.744Z"
     },
     "id": {
       "currency": "IDR",
@@ -3780,7 +3780,7 @@
           "amount": 699
         },
         {
-          "name": "Max",
+          "name": "Allegro",
           "price": "Rp 1,699juta",
           "amount": 1699
         },
@@ -3790,9 +3790,14 @@
           "amount": 3499
         },
         {
-          "name": "Allegro",
+          "name": "Max",
           "price": "Rp 1,699juta",
           "amount": 1699
+        },
+        {
+          "name": "Ultra",
+          "price": "Rp 3,499juta",
+          "amount": 3499
         },
         {
           "name": "Moderato Annual Pass",
@@ -3803,14 +3808,9 @@
           "name": "Plus Annual Pass",
           "price": "Rp 2,999juta",
           "amount": 2999
-        },
-        {
-          "name": "Allegretto Annual Pass",
-          "price": "Rp 5,999juta",
-          "amount": 5999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:38.401Z"
+      "fetchedAt": "2026-10-26T08:38:48.354Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3831,14 +3831,14 @@
           "amount": 22
         },
         {
-          "name": "Allegro",
-          "price": "€99.00",
-          "amount": 99
-        },
-        {
           "name": "Pro",
           "price": "€45.00",
           "amount": 45
+        },
+        {
+          "name": "Allegro",
+          "price": "€99.00",
+          "amount": 99
         },
         {
           "name": "Moderato Annual Pass",
@@ -3866,7 +3866,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:39.992Z"
+      "fetchedAt": "2026-10-26T08:38:49.813Z"
     },
     "il": {
       "currency": "ILS",
@@ -3892,14 +3892,14 @@
           "amount": 349.9
         },
         {
-          "name": "Vivace",
-          "price": "₪699.90",
-          "amount": 699.9
-        },
-        {
           "name": "Pro",
           "price": "₪129.90",
           "amount": 129.9
+        },
+        {
+          "name": "Vivace",
+          "price": "₪699.90",
+          "amount": 699.9
         },
         {
           "name": "Moderato Annual Pass",
@@ -3922,7 +3922,7 @@
           "amount": 699.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:41.455Z"
+      "fetchedAt": "2026-10-26T08:38:51.336Z"
     },
     "in": {
       "currency": "INR",
@@ -3953,14 +3953,14 @@
           "amount": 9900
         },
         {
+          "name": "Plus Annual Pass",
+          "price": "₹ 19,900",
+          "amount": 19900
+        },
+        {
           "name": "Max",
           "price": "₹ 9,900",
           "amount": 9900
-        },
-        {
-          "name": "Vivace",
-          "price": "₹ 19,900",
-          "amount": 19900
         },
         {
           "name": "Ultra",
@@ -3968,17 +3968,17 @@
           "amount": 19900
         },
         {
-          "name": "Plus Annual Pass",
+          "name": "Vivace",
           "price": "₹ 19,900",
           "amount": 19900
         },
         {
-          "name": "Moderato Annual Pass",
-          "price": "₹ 19,900",
-          "amount": 19900
+          "name": "Allegro Annual Pass",
+          "price": "₹ 99,900",
+          "amount": 99900
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:42.964Z"
+      "fetchedAt": "2026-10-26T08:38:52.802Z"
     },
     "iq": {
       "currency": "USD",
@@ -3989,7 +3989,7 @@
           "amount": 19
         },
         {
-          "name": "Pro",
+          "name": "Allegretto",
           "price": "$39.00",
           "amount": 39
         },
@@ -3999,7 +3999,7 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
+          "name": "Pro",
           "price": "$39.00",
           "amount": 39
         },
@@ -4034,11 +4034,16 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:44.567Z"
+      "fetchedAt": "2026-10-26T08:38:54.293Z"
     },
     "is": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus",
+          "price": "USD 22.00",
+          "amount": 22
+        },
         {
           "name": "Moderato",
           "price": "USD 22.00",
@@ -4075,11 +4080,6 @@
           "amount": 49
         },
         {
-          "name": "Plus",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
@@ -4090,7 +4090,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:45.938Z"
+      "fetchedAt": "2026-10-26T08:38:55.779Z"
     },
     "it": {
       "currency": "EUR",
@@ -4106,29 +4106,14 @@
           "amount": 22
         },
         {
-          "name": "Allegretto",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Pro",
           "price": "45,00 €",
           "amount": 45
         },
         {
-          "name": "Vivace",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
-          "name": "Max",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "Allegretto",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Plus Annual Pass",
@@ -4136,17 +4121,32 @@
           "amount": 199.99
         },
         {
+          "name": "Vivace",
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Pro Annual Pass",
+          "price": "399,99 €",
+          "amount": 399.99
+        },
+        {
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "199,99 €",
           "amount": 199.99
         },
         {
-          "name": "Allegretto Annual Pass",
-          "price": "399,99 €",
-          "amount": 399.99
+          "name": "Max",
+          "price": "99,00 €",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:47.425Z"
+      "fetchedAt": "2026-10-26T08:38:57.254Z"
     },
     "jm": {
       "currency": "USD",
@@ -4202,18 +4202,18 @@
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:48.646Z"
+      "fetchedAt": "2026-10-26T08:38:58.790Z"
     },
     "jo": {
       "currency": "USD",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "$19.00",
           "amount": 19
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "$19.00",
           "amount": 19
         },
@@ -4258,25 +4258,20 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:50.485Z"
+      "fetchedAt": "2026-10-26T08:39:00.292Z"
     },
     "jp": {
       "currency": "JPY",
       "items": [
-        {
-          "name": "Moderato",
-          "price": "¥3,000",
-          "amount": 3000
-        },
         {
           "name": "Plus",
           "price": "¥3,000",
           "amount": 3000
         },
         {
-          "name": "Allegretto",
-          "price": "¥6,000",
-          "amount": 6000
+          "name": "Moderato",
+          "price": "¥3,000",
+          "amount": 3000
         },
         {
           "name": "Pro",
@@ -4284,9 +4279,14 @@
           "amount": 6000
         },
         {
-          "name": "Vivace",
-          "price": "¥30,000",
-          "amount": 30000
+          "name": "Allegretto",
+          "price": "¥6,000",
+          "amount": 6000
+        },
+        {
+          "name": "Max",
+          "price": "¥15,000",
+          "amount": 15000
         },
         {
           "name": "Allegro",
@@ -4299,22 +4299,22 @@
           "amount": 30000
         },
         {
-          "name": "Moderato Annual Pass",
+          "name": "Vivace",
           "price": "¥30,000",
           "amount": 30000
         },
         {
-          "name": "Give Kimi some snacks !",
-          "price": "¥150",
-          "amount": 150
+          "name": "Ultra",
+          "price": "¥30,000",
+          "amount": 30000
         },
         {
-          "name": "Max",
-          "price": "¥15,000",
-          "amount": 15000
+          "name": "Moderato Annual Pass",
+          "price": "¥30,000",
+          "amount": 30000
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:51.915Z"
+      "fetchedAt": "2026-10-26T08:39:01.797Z"
     },
     "ke": {
       "currency": "USD",
@@ -4335,11 +4335,6 @@
           "amount": 22
         },
         {
-          "name": "Moderato Annual Pass",
-          "price": "USD 199.99",
-          "amount": 199.99
-        },
-        {
           "name": "Allegro",
           "price": "USD 119.00",
           "amount": 119
@@ -4348,6 +4343,11 @@
           "name": "Pro",
           "price": "USD 49.00",
           "amount": 49
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "USD 199.99",
+          "amount": 199.99
         },
         {
           "name": "Ultra Annual Pass",
@@ -4370,7 +4370,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:53.409Z"
+      "fetchedAt": "2026-10-26T08:39:03.293Z"
     },
     "kg": {
       "currency": "USD",
@@ -4391,6 +4391,16 @@
           "amount": 39
         },
         {
+          "name": "Max",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Allegretto",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
           "name": "Allegro",
           "price": "USD 99.00",
           "amount": 99
@@ -4399,16 +4409,6 @@
           "name": "Vivace",
           "price": "USD 199.00",
           "amount": 199
-        },
-        {
-          "name": "Allegretto",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
-          "name": "Max",
-          "price": "USD 99.00",
-          "amount": 99
         },
         {
           "name": "Ultra Annual Pass",
@@ -4426,7 +4426,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:54.990Z"
+      "fetchedAt": "2026-10-26T08:39:05.002Z"
     },
     "kh": {
       "currency": "USD",
@@ -4437,9 +4437,9 @@
           "amount": 19
         },
         {
-          "name": "Vivace",
-          "price": "USD 199.00",
-          "amount": 199
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Allegretto",
@@ -4447,14 +4447,14 @@
           "amount": 39
         },
         {
+          "name": "Vivace",
+          "price": "USD 199.00",
+          "amount": 199
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
-        },
-        {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -4482,7 +4482,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:56.502Z"
+      "fetchedAt": "2026-10-26T08:39:06.229Z"
     },
     "kn": {
       "currency": "USD",
@@ -4538,7 +4538,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:57.907Z"
+      "fetchedAt": "2026-10-26T08:39:07.828Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4549,24 +4549,14 @@
           "amount": 25000
         },
         {
-          "name": "Allegretto",
-          "price": "￦55,000",
-          "amount": 55000
-        },
-        {
           "name": "Plus",
           "price": "￦33,000",
           "amount": 33000
         },
         {
-          "name": "Vivace",
-          "price": "￦299,000",
-          "amount": 299000
-        },
-        {
-          "name": "Plus Annual Pass",
-          "price": "￦299,000",
-          "amount": 299000
+          "name": "Allegretto",
+          "price": "￦55,000",
+          "amount": 55000
         },
         {
           "name": "Allegro",
@@ -4579,6 +4569,21 @@
           "amount": 66000
         },
         {
+          "name": "Vivace",
+          "price": "￦299,000",
+          "amount": 299000
+        },
+        {
+          "name": "Ultra",
+          "price": "￦299,000",
+          "amount": 299000
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "￦299,000",
+          "amount": 299000
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "￦249,000",
           "amount": 249000
@@ -4587,14 +4592,9 @@
           "name": "Allegretto Annual Pass",
           "price": "￦499,000",
           "amount": 499000
-        },
-        {
-          "name": "Ultra",
-          "price": "￦299,000",
-          "amount": 299000
         }
       ],
-      "fetchedAt": "2026-10-19T08:39:59.488Z"
+      "fetchedAt": "2026-10-26T08:39:09.324Z"
     },
     "kw": {
       "currency": "USD",
@@ -4605,19 +4605,14 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
           "name": "Plus",
           "price": "$19.00",
           "amount": 19
         },
         {
-          "name": "Vivace",
-          "price": "$199.00",
-          "amount": 199
+          "name": "Allegretto",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "Allegro",
@@ -4625,9 +4620,19 @@
           "amount": 99
         },
         {
+          "name": "Max",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
           "name": "Pro",
           "price": "$39.00",
           "amount": 39
+        },
+        {
+          "name": "Vivace",
+          "price": "$199.00",
+          "amount": 199
         },
         {
           "name": "Moderato Annual Pass",
@@ -4643,14 +4648,9 @@
           "name": "Ultra Annual Pass",
           "price": "$1,999.00",
           "amount": 1999
-        },
-        {
-          "name": "Ultra",
-          "price": "$199.00",
-          "amount": 199
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:00.942Z"
+      "fetchedAt": "2026-10-26T08:39:10.759Z"
     },
     "ky": {
       "currency": "USD",
@@ -4706,7 +4706,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:02.476Z"
+      "fetchedAt": "2026-10-26T08:39:12.273Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4732,24 +4732,24 @@
           "amount": 22990
         },
         {
-          "name": "Vivace",
-          "price": "119,990.00₸",
-          "amount": 119990
-        },
-        {
           "name": "Allegro",
           "price": "59,990.00₸",
           "amount": 59990
         },
         {
-          "name": "Max",
-          "price": "59,990.00₸",
-          "amount": 59990
+          "name": "Vivace",
+          "price": "119,990.00₸",
+          "amount": 119990
         },
         {
           "name": "Moderato Annual Pass",
           "price": "99,990.00₸",
           "amount": 99990
+        },
+        {
+          "name": "Max",
+          "price": "59,990.00₸",
+          "amount": 59990
         },
         {
           "name": "Ultra Annual Pass",
@@ -4762,7 +4762,7 @@
           "amount": 119990
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:03.935Z"
+      "fetchedAt": "2026-10-26T08:39:13.756Z"
     },
     "la": {
       "currency": "USD",
@@ -4818,7 +4818,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:05.439Z"
+      "fetchedAt": "2026-10-26T08:39:15.275Z"
     },
     "lb": {
       "currency": "USD",
@@ -4874,7 +4874,7 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:06.909Z"
+      "fetchedAt": "2026-10-26T08:39:16.804Z"
     },
     "lc": {
       "currency": "USD",
@@ -4930,7 +4930,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:08.553Z"
+      "fetchedAt": "2026-10-26T08:39:18.304Z"
     },
     "lk": {
       "currency": "USD",
@@ -4986,7 +4986,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:10.010Z"
+      "fetchedAt": "2026-10-26T08:39:19.775Z"
     },
     "lr": {
       "currency": "USD",
@@ -5042,7 +5042,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:11.529Z"
+      "fetchedAt": "2026-10-26T08:39:21.244Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5053,9 +5053,9 @@
           "amount": 22
         },
         {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Allegretto",
@@ -5063,9 +5063,9 @@
           "amount": 45
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Ultra Annual Pass",
@@ -5098,15 +5098,15 @@
           "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:12.643Z"
+      "fetchedAt": "2026-10-26T08:39:22.726Z"
     },
     "lu": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Pro",
-          "price": "45,00 €",
-          "amount": 45
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Moderato",
@@ -5114,9 +5114,9 @@
           "amount": 22
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Allegretto",
@@ -5154,12 +5154,17 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:14.407Z"
+      "fetchedAt": "2026-10-26T08:39:24.238Z"
     },
     "lv": {
       "currency": "EUR",
       "items": [
         {
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Moderato",
           "price": "22,00 €",
           "amount": 22
@@ -5203,14 +5208,9 @@
           "name": "Pro",
           "price": "45,00 €",
           "amount": 45
-        },
-        {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:15.692Z"
+      "fetchedAt": "2026-10-26T08:39:25.843Z"
     },
     "ly": {
       "currency": "USD",
@@ -5266,7 +5266,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:17.531Z"
+      "fetchedAt": "2026-10-26T08:39:27.252Z"
     },
     "ma": {
       "currency": "USD",
@@ -5277,14 +5277,19 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
+          "name": "Plus",
+          "price": "$19.00",
+          "amount": 19
+        },
+        {
+          "name": "Pro",
           "price": "$39.00",
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "$19.00",
-          "amount": 19
+          "name": "Allegretto",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "Allegro",
@@ -5315,14 +5320,9 @@
           "name": "Max Annual Pass",
           "price": "$949.00",
           "amount": 949
-        },
-        {
-          "name": "Max",
-          "price": "$99.00",
-          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:18.912Z"
+      "fetchedAt": "2026-10-26T08:39:28.809Z"
     },
     "md": {
       "currency": "USD",
@@ -5378,11 +5378,16 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:20.465Z"
+      "fetchedAt": "2026-10-26T08:39:30.241Z"
     },
     "me": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "Plus",
+          "price": "19,00 €",
+          "amount": 19
+        },
         {
           "name": "Allegretto",
           "price": "39,00 €",
@@ -5424,17 +5429,12 @@
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "19,00 €",
-          "amount": 19
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "179,99 €",
           "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:21.900Z"
+      "fetchedAt": "2026-10-26T08:39:31.886Z"
     },
     "mg": {
       "currency": "USD",
@@ -5490,7 +5490,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:23.560Z"
+      "fetchedAt": "2026-10-26T08:39:33.381Z"
     },
     "mk": {
       "currency": "USD",
@@ -5501,14 +5501,14 @@
           "amount": 19
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -5546,7 +5546,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:24.943Z"
+      "fetchedAt": "2026-10-26T08:39:34.781Z"
     },
     "ml": {
       "currency": "USD",
@@ -5602,7 +5602,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:26.451Z"
+      "fetchedAt": "2026-10-26T08:39:36.367Z"
     },
     "mm": {
       "currency": "USD",
@@ -5658,13 +5658,13 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:27.908Z"
+      "fetchedAt": "2026-10-26T08:39:37.811Z"
     },
     "mn": {
       "currency": "USD",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
@@ -5672,6 +5672,11 @@
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -5704,17 +5709,12 @@
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 180.99",
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:29.484Z"
+      "fetchedAt": "2026-10-26T08:39:39.338Z"
     },
     "mo": {
       "currency": "USD",
@@ -5770,30 +5770,30 @@
           "amount": 374.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:30.967Z"
+      "fetchedAt": "2026-10-26T08:39:40.882Z"
     },
     "mr": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Allegretto",
-          "price": "$39.00",
-          "amount": 39
-        },
         {
           "name": "Moderato",
           "price": "$19.00",
           "amount": 19
         },
         {
-          "name": "Plus",
-          "price": "$19.00",
-          "amount": 19
+          "name": "Allegretto",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "Allegro",
           "price": "$99.00",
           "amount": 99
+        },
+        {
+          "name": "Plus",
+          "price": "$19.00",
+          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -5826,7 +5826,7 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:32.448Z"
+      "fetchedAt": "2026-10-26T08:39:42.269Z"
     },
     "ms": {
       "currency": "USD",
@@ -5882,7 +5882,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:33.919Z"
+      "fetchedAt": "2026-10-26T08:39:43.764Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5938,20 +5938,25 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:35.522Z"
+      "fetchedAt": "2026-10-26T08:39:45.471Z"
     },
     "mu": {
       "currency": "USD",
       "items": [
         {
-          "name": "Moderato",
-          "price": "USD 19.00",
-          "amount": 19
+          "name": "Plus",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -5984,17 +5989,12 @@
           "amount": 49
         },
         {
-          "name": "Plus",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:36.894Z"
+      "fetchedAt": "2026-10-26T08:39:46.796Z"
     },
     "mv": {
       "currency": "USD",
@@ -6050,7 +6050,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:38.439Z"
+      "fetchedAt": "2026-10-26T08:39:48.355Z"
     },
     "mw": {
       "currency": "USD",
@@ -6106,7 +6106,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:39.915Z"
+      "fetchedAt": "2026-10-26T08:39:49.808Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6117,14 +6117,19 @@
           "amount": 399
         },
         {
+          "name": "Plus",
+          "price": "$399.00",
+          "amount": 399
+        },
+        {
           "name": "Allegretto",
           "price": "$799.00",
           "amount": 799
         },
         {
-          "name": "Plus",
-          "price": "$399.00",
-          "amount": 399
+          "name": "Max",
+          "price": "$1,999.00",
+          "amount": 1999
         },
         {
           "name": "Vivace",
@@ -6132,14 +6137,14 @@
           "amount": 3999
         },
         {
-          "name": "Allegro",
-          "price": "$1,999.00",
-          "amount": 1999
-        },
-        {
           "name": "Pro",
           "price": "$799.00",
           "amount": 799
+        },
+        {
+          "name": "Allegro",
+          "price": "$1,999.00",
+          "amount": 1999
         },
         {
           "name": "Allegretto Annual Pass",
@@ -6155,14 +6160,9 @@
           "name": "Allegro Annual Pass",
           "price": "$19,999.00",
           "amount": 19999
-        },
-        {
-          "name": "Vivace Annual Pass",
-          "price": "$39,999.00",
-          "amount": 39999
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:41.557Z"
+      "fetchedAt": "2026-10-26T08:39:51.346Z"
     },
     "my": {
       "currency": "MYR",
@@ -6188,11 +6188,6 @@
           "amount": 179.9
         },
         {
-          "name": "Vivace",
-          "price": "RM999.90",
-          "amount": 999.9
-        },
-        {
           "name": "Allegro",
           "price": "RM499.90",
           "amount": 499.9
@@ -6201,6 +6196,11 @@
           "name": "Plus Annual Pass",
           "price": "RM799.90",
           "amount": 799.9
+        },
+        {
+          "name": "Vivace",
+          "price": "RM999.90",
+          "amount": 999.9
         },
         {
           "name": "Moderato Annual Pass",
@@ -6218,20 +6218,20 @@
           "amount": 1799.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:42.982Z"
+      "fetchedAt": "2026-10-26T08:39:52.851Z"
     },
     "mz": {
       "currency": "USD",
       "items": [
         {
-          "name": "Moderato",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Allegretto",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Ultra Annual Pass",
@@ -6274,7 +6274,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:44.410Z"
+      "fetchedAt": "2026-10-26T08:39:54.305Z"
     },
     "na": {
       "currency": "USD",
@@ -6290,6 +6290,11 @@
           "amount": 99
         },
         {
+          "name": "Plus",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
           "name": "Ultra Annual Pass",
           "price": "USD 1,999.00",
           "amount": 1999
@@ -6320,17 +6325,12 @@
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 180.99",
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:45.924Z"
+      "fetchedAt": "2026-10-26T08:39:55.798Z"
     },
     "ne": {
       "currency": "USD",
@@ -6386,7 +6386,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:47.438Z"
+      "fetchedAt": "2026-10-26T08:39:57.241Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6397,17 +6397,12 @@
           "amount": 29900
         },
         {
-          "name": "Allegretto",
-          "price": "₦ 59,900.00",
-          "amount": 59900
-        },
-        {
           "name": "Plus",
           "price": "₦ 29,900.00",
           "amount": 29900
         },
         {
-          "name": "Pro",
+          "name": "Allegretto",
           "price": "₦ 59,900.00",
           "amount": 59900
         },
@@ -6415,6 +6410,11 @@
           "name": "Allegro",
           "price": "₦ 149,900.00",
           "amount": 149900
+        },
+        {
+          "name": "Pro",
+          "price": "₦ 59,900.00",
+          "amount": 59900
         },
         {
           "name": "Moderato Annual Pass",
@@ -6442,7 +6442,7 @@
           "amount": 149900
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:48.963Z"
+      "fetchedAt": "2026-10-26T08:39:58.828Z"
     },
     "ni": {
       "currency": "USD",
@@ -6453,14 +6453,14 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
+        },
+        {
+          "name": "Allegretto",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "Ultra Annual Pass",
@@ -6498,7 +6498,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:50.436Z"
+      "fetchedAt": "2026-10-26T08:40:00.318Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6529,14 +6529,19 @@
           "amount": 45
         },
         {
-          "name": "Moderato Annual Pass",
-          "price": "€ 199,99",
-          "amount": 199.99
+          "name": "Ultra",
+          "price": "€ 229,00",
+          "amount": 229
         },
         {
           "name": "Vivace",
           "price": "€ 229,00",
           "amount": 229
+        },
+        {
+          "name": "Moderato Annual Pass",
+          "price": "€ 199,99",
+          "amount": 199.99
         },
         {
           "name": "Allegretto Annual Pass",
@@ -6547,14 +6552,9 @@
           "name": "Plus Annual Pass",
           "price": "€ 199,99",
           "amount": 199.99
-        },
-        {
-          "name": "Ultra Annual Pass",
-          "price": "€ 2.299,99",
-          "amount": 2299.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:51.895Z"
+      "fetchedAt": "2026-10-26T08:40:01.786Z"
     },
     "no": {
       "currency": "NOK",
@@ -6565,14 +6565,19 @@
           "amount": 249
         },
         {
+          "name": "Allegretto",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
           "name": "Plus",
           "price": "249,00 kr",
           "amount": 249
         },
         {
-          "name": "Allegretto",
-          "price": "499,00 kr",
-          "amount": 499
+          "name": "Allegretto Annual Pass",
+          "price": "4.990,00 kr",
+          "amount": 4990
         },
         {
           "name": "Allegro",
@@ -6580,14 +6585,14 @@
           "amount": 1290
         },
         {
-          "name": "Pro",
-          "price": "499,00 kr",
-          "amount": 499
-        },
-        {
           "name": "Vivace",
           "price": "2.490,00 kr",
           "amount": 2490
+        },
+        {
+          "name": "Pro",
+          "price": "499,00 kr",
+          "amount": 499
         },
         {
           "name": "Moderato Annual Pass",
@@ -6603,14 +6608,9 @@
           "name": "Ultra",
           "price": "2.490,00 kr",
           "amount": 2490
-        },
-        {
-          "name": "Max Annual Pass",
-          "price": "11.990,00 kr",
-          "amount": 11990
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:53.430Z"
+      "fetchedAt": "2026-10-26T08:40:03.271Z"
     },
     "np": {
       "currency": "USD",
@@ -6666,7 +6666,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:54.979Z"
+      "fetchedAt": "2026-10-26T08:40:05.048Z"
     },
     "nr": {
       "currency": "USD",
@@ -6722,7 +6722,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:56.365Z"
+      "fetchedAt": "2026-10-26T08:40:06.317Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6733,14 +6733,14 @@
           "amount": 35
         },
         {
+          "name": "Plus",
+          "price": "$35.00",
+          "amount": 35
+        },
+        {
           "name": "Allegretto",
           "price": "$69.00",
           "amount": 69
-        },
-        {
-          "name": "Vivace",
-          "price": "$399.00",
-          "amount": 399
         },
         {
           "name": "Pro",
@@ -6748,9 +6748,9 @@
           "amount": 69
         },
         {
-          "name": "Plus",
-          "price": "$35.00",
-          "amount": 35
+          "name": "Vivace",
+          "price": "$399.00",
+          "amount": 399
         },
         {
           "name": "Allegro",
@@ -6778,7 +6778,7 @@
           "amount": 1799.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:57.954Z"
+      "fetchedAt": "2026-10-26T08:40:07.832Z"
     },
     "om": {
       "currency": "USD",
@@ -6804,14 +6804,14 @@
           "amount": 39
         },
         {
-          "name": "Allegro",
-          "price": "$99.00",
-          "amount": 99
-        },
-        {
           "name": "Vivace",
           "price": "$199.00",
           "amount": 199
+        },
+        {
+          "name": "Allegro",
+          "price": "$99.00",
+          "amount": 99
         },
         {
           "name": "Moderato Annual Pass",
@@ -6834,7 +6834,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:40:59.411Z"
+      "fetchedAt": "2026-10-26T08:40:09.289Z"
     },
     "pa": {
       "currency": "USD",
@@ -6890,7 +6890,7 @@
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:00.958Z"
+      "fetchedAt": "2026-10-26T08:40:10.839Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6906,9 +6906,9 @@
           "amount": 79.9
         },
         {
-          "name": "Max",
-          "price": "S/ 399.90",
-          "amount": 399.9
+          "name": "Pro",
+          "price": "S/ 179.90",
+          "amount": 179.9
         },
         {
           "name": "Allegretto",
@@ -6916,14 +6916,14 @@
           "amount": 179.9
         },
         {
+          "name": "Max",
+          "price": "S/ 399.90",
+          "amount": 399.9
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "S/ 799.90",
           "amount": 799.9
-        },
-        {
-          "name": "Pro",
-          "price": "S/ 179.90",
-          "amount": 179.9
         },
         {
           "name": "Vivace",
@@ -6946,7 +6946,7 @@
           "amount": 3999.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:02.459Z"
+      "fetchedAt": "2026-10-26T08:40:12.333Z"
     },
     "pg": {
       "currency": "USD",
@@ -7002,7 +7002,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:03.946Z"
+      "fetchedAt": "2026-10-26T08:40:13.726Z"
     },
     "ph": {
       "currency": "PHP",
@@ -7013,17 +7013,12 @@
           "amount": 1190
         },
         {
-          "name": "Allegretto",
-          "price": "₱ 2,490.00",
-          "amount": 2490
-        },
-        {
           "name": "Plus",
           "price": "₱ 1,190.00",
           "amount": 1190
         },
         {
-          "name": "Pro",
+          "name": "Allegretto",
           "price": "₱ 2,490.00",
           "amount": 2490
         },
@@ -7031,6 +7026,11 @@
           "name": "Allegro",
           "price": "₱ 5,990.00",
           "amount": 5990
+        },
+        {
+          "name": "Pro",
+          "price": "₱ 2,490.00",
+          "amount": 2490
         },
         {
           "name": "Moderato Annual Pass",
@@ -7058,7 +7058,7 @@
           "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:05.464Z"
+      "fetchedAt": "2026-10-26T08:40:15.286Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7114,7 +7114,7 @@
           "amount": 249900
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:06.931Z"
+      "fetchedAt": "2026-10-26T08:40:16.806Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7145,7 +7145,17 @@
           "amount": 179.99
         },
         {
+          "name": "Max",
+          "price": "449,99 zł",
+          "amount": 449.99
+        },
+        {
           "name": "Vivace",
+          "price": "999,99 zł",
+          "amount": 999.99
+        },
+        {
+          "name": "Ultra",
           "price": "999,99 zł",
           "amount": 999.99
         },
@@ -7158,19 +7168,9 @@
           "name": "Moderato Annual Pass",
           "price": "799,99 zł",
           "amount": 799.99
-        },
-        {
-          "name": "Ultra Annual Pass",
-          "price": "9 999,99 zł",
-          "amount": 9999.99
-        },
-        {
-          "name": "Ultra",
-          "price": "999,99 zł",
-          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:08.782Z"
+      "fetchedAt": "2026-10-26T08:40:18.292Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7186,14 +7186,14 @@
           "amount": 45
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Vivace",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Allegro",
@@ -7226,7 +7226,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:09.935Z"
+      "fetchedAt": "2026-10-26T08:40:19.785Z"
     },
     "pw": {
       "currency": "USD",
@@ -7282,7 +7282,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:11.432Z"
+      "fetchedAt": "2026-10-26T08:40:21.326Z"
     },
     "py": {
       "currency": "USD",
@@ -7338,7 +7338,7 @@
           "amount": 374.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:12.981Z"
+      "fetchedAt": "2026-10-26T08:40:22.902Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7364,6 +7364,11 @@
           "amount": 69.99
         },
         {
+          "name": "Pro",
+          "price": "QAR 149.99",
+          "amount": 149.99
+        },
+        {
           "name": "Vivace",
           "price": "QAR 699.99",
           "amount": 699.99
@@ -7387,25 +7392,15 @@
           "name": "Ultra Annual Pass",
           "price": "QAR 6,999.99",
           "amount": 6999.99
-        },
-        {
-          "name": "Ultra",
-          "price": "QAR 699.99",
-          "amount": 699.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:14.478Z"
+      "fetchedAt": "2026-10-26T08:40:24.106Z"
     },
     "ro": {
       "currency": "RON",
       "items": [
         {
           "name": "Moderato",
-          "price": "99,99 lei",
-          "amount": 99.99
-        },
-        {
-          "name": "Plus",
           "price": "99,99 lei",
           "amount": 99.99
         },
@@ -7418,6 +7413,11 @@
           "name": "Vivace",
           "price": "999,99 lei",
           "amount": 999.99
+        },
+        {
+          "name": "Plus",
+          "price": "99,99 lei",
+          "amount": 99.99
         },
         {
           "name": "Allegro",
@@ -7450,7 +7450,7 @@
           "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:15.967Z"
+      "fetchedAt": "2026-10-26T08:40:25.818Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7506,7 +7506,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:17.528Z"
+      "fetchedAt": "2026-10-26T08:40:27.342Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7542,6 +7542,11 @@
           "amount": 7990
         },
         {
+          "name": "Vivace",
+          "price": "17 990,00 ₽",
+          "amount": 17990
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "14 990,00 ₽",
           "amount": 14990
@@ -7552,17 +7557,12 @@
           "amount": 34990
         },
         {
-          "name": "Vivace",
-          "price": "17 990,00 ₽",
-          "amount": 17990
-        },
-        {
           "name": "Ultra Annual Pass",
           "price": "179 990,00 ₽",
           "amount": 179990
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:18.959Z"
+      "fetchedAt": "2026-10-26T08:40:28.797Z"
     },
     "rw": {
       "currency": "USD",
@@ -7618,7 +7618,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:20.417Z"
+      "fetchedAt": "2026-10-26T08:40:30.265Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7639,6 +7639,11 @@
           "amount": 179.99
         },
         {
+          "name": "Pro",
+          "price": "SAR 179.99",
+          "amount": 179.99
+        },
+        {
           "name": "Allegro",
           "price": "SAR 399.99",
           "amount": 399.99
@@ -7649,9 +7654,9 @@
           "amount": 899.99
         },
         {
-          "name": "Pro",
-          "price": "SAR 179.99",
-          "amount": 179.99
+          "name": "Plus Annual Pass",
+          "price": "SAR 799.99",
+          "amount": 799.99
         },
         {
           "name": "Moderato Annual Pass",
@@ -7664,17 +7669,12 @@
           "amount": 399.99
         },
         {
-          "name": "Allegretto Annual Pass",
-          "price": "SAR 1,499.99",
-          "amount": 1499.99
-        },
-        {
-          "name": "Allegro Annual Pass",
-          "price": "SAR 3,999.99",
-          "amount": 3999.99
+          "name": "Ultra",
+          "price": "SAR 899.99",
+          "amount": 899.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:22.030Z"
+      "fetchedAt": "2026-10-26T08:40:31.806Z"
     },
     "sb": {
       "currency": "USD",
@@ -7730,7 +7730,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:23.432Z"
+      "fetchedAt": "2026-10-26T08:40:33.332Z"
     },
     "sc": {
       "currency": "USD",
@@ -7786,7 +7786,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:24.920Z"
+      "fetchedAt": "2026-10-26T08:40:34.771Z"
     },
     "se": {
       "currency": "SEK",
@@ -7797,14 +7797,19 @@
           "amount": 249
         },
         {
+          "name": "Allegretto",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
           "name": "Plus",
           "price": "249,00 kr",
           "amount": 249
         },
         {
-          "name": "Allegretto",
-          "price": "499,00 kr",
-          "amount": 499
+          "name": "Vivace",
+          "price": "2 495,00 kr",
+          "amount": 2495
         },
         {
           "name": "Allegro",
@@ -7812,9 +7817,9 @@
           "amount": 1295
         },
         {
-          "name": "Vivace",
-          "price": "2 495,00 kr",
-          "amount": 2495
+          "name": "Pro",
+          "price": "499,00 kr",
+          "amount": 499
         },
         {
           "name": "Moderato Annual Pass",
@@ -7835,14 +7840,9 @@
           "name": "Max Annual Pass",
           "price": "11 995,00 kr",
           "amount": 11995
-        },
-        {
-          "name": "Max",
-          "price": "1 295,00 kr",
-          "amount": 1295
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:26.669Z"
+      "fetchedAt": "2026-10-26T08:40:36.253Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7863,19 +7863,14 @@
           "amount": 59.98
         },
         {
+          "name": "Pro Annual Pass",
+          "price": "S$ 499.98",
+          "amount": 499.98
+        },
+        {
           "name": "Pro",
           "price": "S$ 59.98",
           "amount": 59.98
-        },
-        {
-          "name": "Vivace",
-          "price": "S$ 299.98",
-          "amount": 299.98
-        },
-        {
-          "name": "Ultra",
-          "price": "S$ 299.98",
-          "amount": 299.98
         },
         {
           "name": "Plus Annual Pass",
@@ -7893,23 +7888,28 @@
           "amount": 149.98
         },
         {
+          "name": "Vivace",
+          "price": "S$ 299.98",
+          "amount": 299.98
+        },
+        {
           "name": "Allegro",
           "price": "S$ 149.98",
           "amount": 149.98
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:27.965Z"
+      "fetchedAt": "2026-10-26T08:40:37.768Z"
     },
     "si": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "22,00 €",
           "amount": 22
         },
@@ -7919,14 +7919,14 @@
           "amount": 45
         },
         {
-          "name": "Allegro",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "Vivace",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "Allegro",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Ultra Annual Pass",
@@ -7954,20 +7954,25 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:29.407Z"
+      "fetchedAt": "2026-10-26T08:40:39.265Z"
     },
     "sk": {
       "currency": "EUR",
       "items": [
         {
+          "name": "Plus",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "Moderato",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Plus",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Vivace",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Allegretto",
@@ -7978,11 +7983,6 @@
           "name": "Allegro",
           "price": "99,00 €",
           "amount": 99
-        },
-        {
-          "name": "Vivace",
-          "price": "229,00 €",
-          "amount": 229
         },
         {
           "name": "Ultra Annual Pass",
@@ -8010,7 +8010,7 @@
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:30.929Z"
+      "fetchedAt": "2026-10-26T08:40:40.832Z"
     },
     "sl": {
       "currency": "USD",
@@ -8066,7 +8066,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:32.496Z"
+      "fetchedAt": "2026-10-26T08:40:42.273Z"
     },
     "sn": {
       "currency": "USD",
@@ -8122,7 +8122,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:33.933Z"
+      "fetchedAt": "2026-10-26T08:40:43.820Z"
     },
     "sr": {
       "currency": "USD",
@@ -8178,7 +8178,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:35.407Z"
+      "fetchedAt": "2026-10-26T08:40:45.388Z"
     },
     "st": {
       "currency": "USD",
@@ -8234,13 +8234,18 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:36.906Z"
+      "fetchedAt": "2026-10-26T08:40:46.719Z"
     },
     "sv": {
       "currency": "USD",
       "items": [
         {
           "name": "Moderato",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
@@ -8280,17 +8285,12 @@
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 180.99",
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:38.484Z"
+      "fetchedAt": "2026-10-26T08:40:48.539Z"
     },
     "sz": {
       "currency": "USD",
@@ -8346,7 +8346,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:39.975Z"
+      "fetchedAt": "2026-10-26T08:40:49.776Z"
     },
     "tc": {
       "currency": "USD",
@@ -8402,7 +8402,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:41.661Z"
+      "fetchedAt": "2026-10-26T08:40:51.335Z"
     },
     "td": {
       "currency": "USD",
@@ -8458,7 +8458,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:43.081Z"
+      "fetchedAt": "2026-10-26T08:40:52.738Z"
     },
     "th": {
       "currency": "THB",
@@ -8474,19 +8474,14 @@
           "amount": 699
         },
         {
+          "name": "Max",
+          "price": "฿3,990.00",
+          "amount": 3990
+        },
+        {
           "name": "Allegretto",
           "price": "฿1,490.00",
           "amount": 1490
-        },
-        {
-          "name": "Plus Annual Pass",
-          "price": "฿6,990.00",
-          "amount": 6990
-        },
-        {
-          "name": "Vivace",
-          "price": "฿6,990.00",
-          "amount": 6990
         },
         {
           "name": "Pro",
@@ -8494,14 +8489,19 @@
           "amount": 1490
         },
         {
-          "name": "Pro Annual Pass",
-          "price": "฿12,990.00",
-          "amount": 12990
+          "name": "Vivace",
+          "price": "฿6,990.00",
+          "amount": 6990
         },
         {
           "name": "Allegro",
           "price": "฿3,990.00",
           "amount": 3990
+        },
+        {
+          "name": "Plus Annual Pass",
+          "price": "฿6,990.00",
+          "amount": 6990
         },
         {
           "name": "Moderato Annual Pass",
@@ -8514,7 +8514,7 @@
           "amount": 12990
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:44.471Z"
+      "fetchedAt": "2026-10-26T08:40:54.286Z"
     },
     "tj": {
       "currency": "USD",
@@ -8525,9 +8525,14 @@
           "amount": 19
         },
         {
-          "name": "Allegro",
-          "price": "USD 99.00",
-          "amount": 99
+          "name": "Pro",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Allegretto",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "Plus",
@@ -8535,9 +8540,9 @@
           "amount": 19
         },
         {
-          "name": "Allegretto",
-          "price": "USD 39.00",
-          "amount": 39
+          "name": "Allegro",
+          "price": "USD 99.00",
+          "amount": 99
         },
         {
           "name": "Vivace",
@@ -8563,14 +8568,9 @@
           "name": "Max",
           "price": "USD 99.00",
           "amount": 99
-        },
-        {
-          "name": "Pro Annual Pass",
-          "price": "USD 399.99",
-          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:45.923Z"
+      "fetchedAt": "2026-10-26T08:40:55.769Z"
     },
     "tm": {
       "currency": "USD",
@@ -8626,7 +8626,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:47.429Z"
+      "fetchedAt": "2026-10-26T08:40:57.396Z"
     },
     "tn": {
       "currency": "USD",
@@ -8682,7 +8682,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:48.912Z"
+      "fetchedAt": "2026-10-26T08:40:58.796Z"
     },
     "to": {
       "currency": "USD",
@@ -8738,7 +8738,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:50.434Z"
+      "fetchedAt": "2026-10-26T08:41:00.235Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8749,19 +8749,24 @@
           "amount": 799.99
         },
         {
-          "name": "Allegretto",
-          "price": "₺1.799,99",
-          "amount": 1799.99
-        },
-        {
           "name": "Plus",
           "price": "₺999,99",
           "amount": 999.99
         },
         {
+          "name": "Allegretto",
+          "price": "₺1.799,99",
+          "amount": 1799.99
+        },
+        {
           "name": "Pro",
           "price": "₺1.999,99",
           "amount": 1999.99
+        },
+        {
+          "name": "Max",
+          "price": "₺4.999,99",
+          "amount": 4999.99
         },
         {
           "name": "Allegro",
@@ -8774,9 +8779,9 @@
           "amount": 8999.99
         },
         {
-          "name": "Max",
-          "price": "₺4.999,99",
-          "amount": 4999.99
+          "name": "Ultra",
+          "price": "₺9.999,99",
+          "amount": 9999.99
         },
         {
           "name": "Moderato Annual Pass",
@@ -8784,28 +8789,23 @@
           "amount": 7699.99
         },
         {
-          "name": "Ultra",
-          "price": "₺9.999,99",
-          "amount": 9999.99
-        },
-        {
-          "name": "Plus Annual Pass",
-          "price": "₺9.999,99",
-          "amount": 9999.99
+          "name": "Allegretto Annual Pass",
+          "price": "₺19.999,99",
+          "amount": 19999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:51.921Z"
+      "fetchedAt": "2026-10-26T08:41:01.786Z"
     },
     "tt": {
       "currency": "USD",
       "items": [
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "USD 19.00",
           "amount": 19
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "USD 19.00",
           "amount": 19
         },
@@ -8850,7 +8850,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:53.430Z"
+      "fetchedAt": "2026-10-26T08:41:03.388Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8871,24 +8871,14 @@
           "amount": 1290
         },
         {
-          "name": "Allegro",
-          "price": "$2,990.00",
-          "amount": 2990
-        },
-        {
-          "name": "Plus Annual Pass",
-          "price": "$5,990.00",
-          "amount": 5990
-        },
-        {
           "name": "Pro",
           "price": "$1,290.00",
           "amount": 1290
         },
         {
-          "name": "Vivace",
-          "price": "$6,990.00",
-          "amount": 6990
+          "name": "Allegro",
+          "price": "$2,990.00",
+          "amount": 2990
         },
         {
           "name": "Give Kimi some snacks !",
@@ -8896,17 +8886,27 @@
           "amount": 30
         },
         {
+          "name": "Plus Annual Pass",
+          "price": "$5,990.00",
+          "amount": 5990
+        },
+        {
           "name": "Moderato Annual Pass",
           "price": "$5,990.00",
           "amount": 5990
         },
         {
-          "name": "Max",
-          "price": "$2,990.00",
-          "amount": 2990
+          "name": "Vivace",
+          "price": "$6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": "Allegro Annual Pass",
+          "price": "$30,000.00",
+          "amount": 30000
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:54.927Z"
+      "fetchedAt": "2026-10-26T08:41:04.835Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8917,14 +8917,14 @@
           "amount": 49900
         },
         {
-          "name": "Plus",
-          "price": "49,900.00 TZS",
-          "amount": 49900
-        },
-        {
           "name": "Allegretto",
           "price": "99,900.00 TZS",
           "amount": 99900
+        },
+        {
+          "name": "Plus",
+          "price": "49,900.00 TZS",
+          "amount": 49900
         },
         {
           "name": "Allegro",
@@ -8962,7 +8962,7 @@
           "amount": 99900
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:56.426Z"
+      "fetchedAt": "2026-10-26T08:41:06.308Z"
     },
     "ua": {
       "currency": "USD",
@@ -9018,11 +9018,16 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:57.892Z"
+      "fetchedAt": "2026-10-26T08:41:07.798Z"
     },
     "ug": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus",
+          "price": "USD 22.00",
+          "amount": 22
+        },
         {
           "name": "Moderato",
           "price": "USD 22.00",
@@ -9064,17 +9069,12 @@
           "amount": 49
         },
         {
-          "name": "Plus",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "USD 199.99",
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:41:59.601Z"
+      "fetchedAt": "2026-10-26T08:41:09.362Z"
     },
     "us": {
       "currency": "USD",
@@ -9130,7 +9130,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-26T08:14:36.887Z"
+      "fetchedAt": "2026-10-26T08:41:10.919Z"
     },
     "uy": {
       "currency": "USD",
@@ -9186,7 +9186,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:02.188Z"
+      "fetchedAt": "2026-10-26T08:41:12.352Z"
     },
     "uz": {
       "currency": "USD",
@@ -9242,7 +9242,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:03.956Z"
+      "fetchedAt": "2026-10-26T08:41:13.796Z"
     },
     "vc": {
       "currency": "USD",
@@ -9298,7 +9298,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:05.480Z"
+      "fetchedAt": "2026-10-26T08:41:15.261Z"
     },
     "ve": {
       "currency": "USD",
@@ -9354,7 +9354,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:06.959Z"
+      "fetchedAt": "2026-10-26T08:41:16.819Z"
     },
     "vg": {
       "currency": "USD",
@@ -9410,7 +9410,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:08.449Z"
+      "fetchedAt": "2026-10-26T08:41:18.285Z"
     },
     "vn": {
       "currency": "VND",
@@ -9421,14 +9421,14 @@
           "amount": 599000
         },
         {
-          "name": "Allegretto",
-          "price": "1.199.000đ",
-          "amount": 1199000
-        },
-        {
           "name": "Plus",
           "price": "599.000đ",
           "amount": 599000
+        },
+        {
+          "name": "Allegretto",
+          "price": "1.199.000đ",
+          "amount": 1199000
         },
         {
           "name": "Allegro",
@@ -9439,6 +9439,11 @@
           "name": "Pro",
           "price": "1.199.000đ",
           "amount": 1199000
+        },
+        {
+          "name": "Max",
+          "price": "2.999.000đ",
+          "amount": 2999000
         },
         {
           "name": "Moderato Annual Pass",
@@ -9459,14 +9464,9 @@
           "name": "Max Annual Pass",
           "price": "29.999.000đ",
           "amount": 29999000
-        },
-        {
-          "name": "Max",
-          "price": "2.999.000đ",
-          "amount": 2999000
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:10.123Z"
+      "fetchedAt": "2026-10-26T08:41:19.803Z"
     },
     "vu": {
       "currency": "USD",
@@ -9522,7 +9522,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:11.586Z"
+      "fetchedAt": "2026-10-26T08:41:21.326Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9578,11 +9578,16 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:12.877Z"
+      "fetchedAt": "2026-10-26T08:41:22.713Z"
     },
     "ye": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Plus",
+          "price": "$19.00",
+          "amount": 19
+        },
         {
           "name": "Moderato",
           "price": "$19.00",
@@ -9619,11 +9624,6 @@
           "amount": 39
         },
         {
-          "name": "Plus",
-          "price": "$19.00",
-          "amount": 19
-        },
-        {
           "name": "Plus Annual Pass",
           "price": "$180.99",
           "amount": 180.99
@@ -9634,7 +9634,7 @@
           "amount": 949
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:14.450Z"
+      "fetchedAt": "2026-10-26T08:41:24.324Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9645,14 +9645,14 @@
           "amount": 399.99
         },
         {
-          "name": "Plus",
-          "price": "R399.99",
-          "amount": 399.99
-        },
-        {
           "name": "Allegretto",
           "price": "R799.99",
           "amount": 799.99
+        },
+        {
+          "name": "Plus",
+          "price": "R399.99",
+          "amount": 399.99
         },
         {
           "name": "Allegro",
@@ -9690,20 +9690,20 @@
           "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:15.924Z"
+      "fetchedAt": "2026-10-26T08:41:25.774Z"
     },
     "zm": {
       "currency": "USD",
       "items": [
         {
-          "name": "Allegretto",
-          "price": "USD 49.00",
-          "amount": 49
-        },
-        {
           "name": "Moderato",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Allegretto",
+          "price": "USD 49.00",
+          "amount": 49
         },
         {
           "name": "Allegro",
@@ -9746,7 +9746,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:17.547Z"
+      "fetchedAt": "2026-10-26T08:41:27.249Z"
     },
     "zw": {
       "currency": "USD",
@@ -9802,7 +9802,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:42:18.909Z"
+      "fetchedAt": "2026-10-26T08:41:28.813Z"
     }
   }
 }

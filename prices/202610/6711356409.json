@@ -2,7 +2,7 @@
   "id": "6711356409",
   "name": "HeyGen: AI视频生成器",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:21.948Z",
+  "fetchedAt": "2026-10-26T08:50:13.818Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -13,12 +13,12 @@
           "amount": 39.99
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "AED 99.99",
           "amount": 99.99
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "AED 99.99",
           "amount": 99.99
         },
@@ -53,12 +53,12 @@
           "amount": 39.99
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "AED 299.99",
-          "amount": 299.99
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "AED 999.99",
+          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:42.992Z"
+      "fetchedAt": "2026-10-26T08:45:52.802Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:44.493Z"
+      "fetchedAt": "2026-10-26T08:45:54.355Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:45.981Z"
+      "fetchedAt": "2026-10-26T08:45:55.810Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:47.496Z"
+      "fetchedAt": "2026-10-26T08:45:57.315Z"
     },
     "al": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:48.979Z"
+      "fetchedAt": "2026-10-26T08:45:58.754Z"
     },
     "am": {
       "currency": "USD",
@@ -318,14 +318,14 @@
           "amount": 59
         },
         {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
-        },
-        {
           "name": "60 Premium Credits",
           "price": "USD 5.99",
           "amount": 5.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": "150 Premium Credits",
@@ -338,7 +338,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:50.510Z"
+      "fetchedAt": "2026-10-26T08:46:00.302Z"
     },
     "ao": {
       "currency": "USD",
@@ -394,7 +394,7 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:51.991Z"
+      "fetchedAt": "2026-10-26T08:46:01.804Z"
     },
     "ar": {
       "currency": "USD",
@@ -410,14 +410,14 @@
           "amount": 29
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Starter Monthly",
@@ -425,14 +425,19 @@
           "amount": 10
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
           "name": "250 Premium Credits",
           "price": "USD 14.99",
           "amount": 14.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "60 Premium Credits",
@@ -440,17 +445,12 @@
           "amount": 4.99
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "USD 74.00",
-          "amount": 74
-        },
-        {
-          "name": "HeyGen Creator Credit  Annual",
-          "price": "USD 279.00",
-          "amount": 279
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "USD 99.00",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:53.500Z"
+      "fetchedAt": "2026-10-26T08:46:03.353Z"
     },
     "at": {
       "currency": "EUR",
@@ -461,6 +461,11 @@
           "amount": 10
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
           "name": "Creator Monthly",
           "price": "35,00 €",
           "amount": 35
@@ -471,24 +476,9 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
         },
         {
           "name": "250 Premium Credits",
@@ -496,17 +486,27 @@
           "amount": 17.99
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "60 Premium Credits",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "99,00 €",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:54.996Z"
+      "fetchedAt": "2026-10-26T08:46:04.887Z"
     },
     "au": {
       "currency": "AUD",
@@ -542,14 +542,14 @@
           "amount": 22.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "$79.00",
           "amount": 79
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "$7.99",
+          "amount": 7.99
         },
         {
           "name": "150 Premium Credits",
@@ -557,12 +557,12 @@
           "amount": 14.99
         },
         {
-          "name": "Team Monthly",
-          "price": "$149.00",
-          "amount": 149
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "$449.00",
+          "amount": 449
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:56.698Z"
+      "fetchedAt": "2026-10-26T08:46:06.351Z"
     },
     "az": {
       "currency": "USD",
@@ -583,9 +583,9 @@
           "amount": 12
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 5.99",
-          "amount": 5.99
+          "name": "250 Premium Credits",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -598,6 +598,16 @@
           "amount": 10
         },
         {
+          "name": "60 Premium Credits",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
+          "name": "Team Monthly",
+          "price": "USD 89.00",
+          "amount": 89
+        },
+        {
           "name": "150 Premium Credits",
           "price": "USD 11.99",
           "amount": 11.99
@@ -606,19 +616,9 @@
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "USD 59.00",
           "amount": 59
-        },
-        {
-          "name": "Team Monthly",
-          "price": "USD 89.00",
-          "amount": 89
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:58.020Z"
+      "fetchedAt": "2026-10-26T08:46:07.841Z"
     },
     "ba": {
       "currency": "EUR",
@@ -639,14 +639,14 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "250 Premium Credits",
@@ -674,7 +674,7 @@
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T08:46:59.751Z"
+      "fetchedAt": "2026-10-26T08:46:09.506Z"
     },
     "bb": {
       "currency": "USD",
@@ -685,14 +685,14 @@
           "amount": 12
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 35.00",
-          "amount": 35
-        },
-        {
           "name": "250 Premium Credits",
           "price": "USD 17.99",
           "amount": 17.99
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -730,7 +730,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:00.961Z"
+      "fetchedAt": "2026-10-26T08:46:10.794Z"
     },
     "be": {
       "currency": "EUR",
@@ -746,12 +746,12 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "35,00 €",
           "amount": 35
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "35,00 €",
           "amount": 35
         },
@@ -771,7 +771,7 @@
           "amount": 59
         },
         {
-          "name": "Team Monthly",
+          "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "99,00 €",
           "amount": 99
         },
@@ -786,7 +786,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:02.478Z"
+      "fetchedAt": "2026-10-26T08:46:12.375Z"
     },
     "bf": {
       "currency": "USD",
@@ -795,6 +795,11 @@
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Creator Monthly",
@@ -810,11 +815,6 @@
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -842,7 +842,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:03.982Z"
+      "fetchedAt": "2026-10-26T08:46:13.904Z"
     },
     "bg": {
       "currency": "EUR",
@@ -858,14 +858,14 @@
           "amount": 9.99
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Creator Monthly",
           "price": "29,99 €",
           "amount": 29.99
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "Starter Monthly",
@@ -873,14 +873,14 @@
           "amount": 9.99
         },
         {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
         },
         {
-          "name": "Team Monthly",
-          "price": "99,99 €",
-          "amount": 99.99
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "79,00 €",
+          "amount": 79
         },
         {
           "name": "250 Premium Credits",
@@ -888,17 +888,17 @@
           "amount": 17.99
         },
         {
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "60 Premium Credits",
           "price": "5,99 €",
           "amount": 5.99
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:05.502Z"
+      "fetchedAt": "2026-10-26T08:46:15.282Z"
     },
     "bh": {
       "currency": "USD",
@@ -914,9 +914,9 @@
           "amount": 10
         },
         {
-          "name": "250 Premium Credits",
-          "price": "$14.99",
-          "amount": 14.99
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "$29.00",
+          "amount": 29
         },
         {
           "name": "Creator Monthly",
@@ -924,19 +924,9 @@
           "amount": 29
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "$29.00",
-          "amount": 29
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "$4.99",
-          "amount": 4.99
+          "name": "250 Premium Credits",
+          "price": "$14.99",
+          "amount": 14.99
         },
         {
           "name": "Starter Monthly",
@@ -944,17 +934,27 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "$99.00",
-          "amount": 99
+          "name": "150 Premium Credits",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
-          "name": "Team Monthly",
+          "name": "60 Premium Credits",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "$99.00",
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:06.986Z"
+      "fetchedAt": "2026-10-26T08:46:16.811Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:08.622Z"
+      "fetchedAt": "2026-10-26T08:46:18.376Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,7 +1066,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:09.974Z"
+      "fetchedAt": "2026-10-26T08:46:19.892Z"
     },
     "bn": {
       "currency": "USD",
@@ -1122,7 +1122,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:11.422Z"
+      "fetchedAt": "2026-10-26T08:46:21.289Z"
     },
     "bo": {
       "currency": "USD",
@@ -1148,11 +1148,6 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
-        },
-        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
@@ -1161,6 +1156,11 @@
           "name": "60 Premium Credits",
           "price": "USD 4.99",
           "amount": 4.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
         },
         {
           "name": "150 Premium Credits",
@@ -1178,7 +1178,7 @@
           "amount": 739
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:13.007Z"
+      "fetchedAt": "2026-10-26T08:46:22.905Z"
     },
     "br": {
       "currency": "BRL",
@@ -1229,12 +1229,12 @@
           "amount": 59.9
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "R$ 499,90",
-          "amount": 499.9
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "R$ 599,90",
+          "amount": 599.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:14.516Z"
+      "fetchedAt": "2026-10-26T08:46:24.438Z"
     },
     "bs": {
       "currency": "USD",
@@ -1245,17 +1245,17 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
           "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -1290,7 +1290,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:15.990Z"
+      "fetchedAt": "2026-10-26T08:46:25.869Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,18 +1346,18 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:17.531Z"
+      "fetchedAt": "2026-10-26T08:46:27.401Z"
     },
     "bw": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Creator Weekly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -1402,7 +1402,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:19.059Z"
+      "fetchedAt": "2026-10-26T08:46:28.782Z"
     },
     "by": {
       "currency": "USD",
@@ -1413,9 +1413,19 @@
           "amount": 35
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 12.00",
-          "amount": 12
+          "name": "Creator Annual",
+          "price": "USD 349.00",
+          "amount": 349
+        },
+        {
+          "name": "Team Monthly",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "Team Annual",
+          "price": "USD 999.00",
+          "amount": 999
         },
         {
           "name": "Starter Monthly",
@@ -1423,19 +1433,14 @@
           "amount": 12
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 35.00",
-          "amount": 35
+          "name": "Starter Annual",
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "HeyGen Creator Weekly",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "USD 5.99",
-          "amount": 5.99
         },
         {
           "name": "150 Premium Credits",
@@ -1448,17 +1453,12 @@
           "amount": 17.99
         },
         {
-          "name": "HeyGen Pro 2000 Credit Annual",
-          "price": "USD 999.00",
-          "amount": 999
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Annual",
-          "price": "USD 899.00",
-          "amount": 899
+          "name": "60 Premium Credits",
+          "price": "USD 5.99",
+          "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:20.483Z"
+      "fetchedAt": "2026-10-26T08:46:30.297Z"
     },
     "bz": {
       "currency": "USD",
@@ -1514,20 +1514,20 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:22.010Z"
+      "fetchedAt": "2026-10-26T08:46:32.034Z"
     },
     "ca": {
       "currency": "CAD",
       "items": [
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
           "name": "HeyGen Creator Credit Weekly",
           "price": "$14.00",
           "amount": 14
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "Creator Monthly",
@@ -1565,12 +1565,12 @@
           "amount": 12.99
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "$99.00",
-          "amount": 99
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "$129.00",
+          "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:23.578Z"
+      "fetchedAt": "2026-10-26T08:46:33.482Z"
     },
     "cd": {
       "currency": "USD",
@@ -1584,6 +1584,11 @@
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -1619,14 +1624,9 @@
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "USD 74.00",
           "amount": 74
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:25.014Z"
+      "fetchedAt": "2026-10-26T08:46:34.735Z"
     },
     "cg": {
       "currency": "USD",
@@ -1682,7 +1682,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:26.694Z"
+      "fetchedAt": "2026-10-26T08:46:36.309Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1728,17 +1728,17 @@
           "amount": 4
         },
         {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "CHF 60.00",
+          "amount": 60
+        },
+        {
           "name": "150 Premium Credits",
           "price": "CHF 9.00",
           "amount": 9
-        },
-        {
-          "name": "Team Annual",
-          "price": "CHF 900.00",
-          "amount": 900
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:28.013Z"
+      "fetchedAt": "2026-10-26T08:46:37.800Z"
     },
     "ci": {
       "currency": "USD",
@@ -1749,14 +1749,14 @@
           "amount": 12
         },
         {
-          "name": "Creator Monthly",
-          "price": "35,00 $US",
-          "amount": 35
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "12,00 $US",
           "amount": 12
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "35,00 $US",
+          "amount": 35
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -1794,7 +1794,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:29.552Z"
+      "fetchedAt": "2026-10-26T08:46:39.316Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1805,14 +1805,14 @@
           "amount": 9990
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "$29.990",
-          "amount": 29990
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "$9.990",
           "amount": 9990
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "$29.990",
+          "amount": 29990
         },
         {
           "name": "Creator Monthly",
@@ -1835,14 +1835,14 @@
           "amount": 59990
         },
         {
-          "name": "150 Premium Credits",
-          "price": "$9.990",
-          "amount": 9990
-        },
-        {
           "name": "60 Premium Credits",
           "price": "$5.990",
           "amount": 5990
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "$9.990",
+          "amount": 9990
         },
         {
           "name": "HeyGen Pro 1500 Credit Monthly",
@@ -1850,7 +1850,7 @@
           "amount": 79990
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:30.975Z"
+      "fetchedAt": "2026-10-26T08:46:40.811Z"
     },
     "cm": {
       "currency": "USD",
@@ -1876,6 +1876,11 @@
           "amount": 35
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 $US",
+          "amount": 59
+        },
+        {
           "name": "Starter Monthly",
           "price": "12,00 $US",
           "amount": 12
@@ -1899,14 +1904,9 @@
           "name": "HeyGen Pro 2000 Credit Annual",
           "price": "999,00 $US",
           "amount": 999
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Annual",
-          "price": "899,00 $US",
-          "amount": 899
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:32.513Z"
+      "fetchedAt": "2026-10-26T08:46:42.319Z"
     },
     "cn": {
       "currency": "CNY",
@@ -1962,7 +1962,7 @@
           "amount": 38
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:20.425Z"
+      "fetchedAt": "2026-10-26T08:46:43.782Z"
     },
     "co": {
       "currency": "COP",
@@ -1998,11 +1998,6 @@
           "amount": 24900
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$ 229.900,00",
-          "amount": 229900
-        },
-        {
           "name": "250 Premium Credits",
           "price": "$ 69.900,00",
           "amount": 69900
@@ -2013,12 +2008,17 @@
           "amount": 49900
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$ 229.900,00",
+          "amount": 229900
+        },
+        {
           "name": "Creator Annual",
           "price": "$ 1.299.900,00",
           "amount": 1299900
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:35.718Z"
+      "fetchedAt": "2026-10-26T08:46:45.383Z"
     },
     "cr": {
       "currency": "USD",
@@ -2029,14 +2029,14 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "HeyGen Creator Weekly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Creator Monthly",
@@ -2044,24 +2044,14 @@
           "amount": 29
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "60 Premium Credits",
@@ -2069,12 +2059,22 @@
           "amount": 4.99
         },
         {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "USD 74.00",
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:36.950Z"
+      "fetchedAt": "2026-10-26T08:46:46.836Z"
     },
     "cv": {
       "currency": "USD",
@@ -2130,13 +2130,23 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:38.443Z"
+      "fetchedAt": "2026-10-26T08:46:48.274Z"
     },
     "cy": {
       "currency": "EUR",
       "items": [
         {
           "name": "HeyGen Creator Credit Weekly",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "HeyGen Creator Weekly",
           "price": "10,00 €",
           "amount": 10
         },
@@ -2151,21 +2161,6 @@
           "amount": 35
         },
         {
-          "name": "250 Premium Credits",
-          "price": "17,99 €",
-          "amount": 17.99
-        },
-        {
-          "name": "HeyGen Creator Weekly",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
@@ -2176,17 +2171,22 @@
           "amount": 5.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
+          "name": "250 Premium Credits",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "Creator Annual",
           "price": "299,00 €",
           "amount": 299
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:39.958Z"
+      "fetchedAt": "2026-10-26T08:46:49.765Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2232,17 +2232,17 @@
           "amount": 129
         },
         {
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "6 990,00 Kč",
+          "amount": 6990
+        },
+        {
           "name": "150 Premium Credits",
           "price": "249,00 Kč",
           "amount": 249
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "1 990,00 Kč",
-          "amount": 1990
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:41.494Z"
+      "fetchedAt": "2026-10-26T08:46:51.367Z"
     },
     "de": {
       "currency": "EUR",
@@ -2293,12 +2293,12 @@
           "amount": 59
         },
         {
-          "name": "Team Monthly",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "79,00 €",
+          "amount": 79
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:42.978Z"
+      "fetchedAt": "2026-10-26T08:46:52.842Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2309,12 +2309,12 @@
           "amount": 89
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "249,00 kr",
           "amount": 249
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "249,00 kr",
           "amount": 249
         },
@@ -2334,9 +2334,9 @@
           "amount": 129
         },
         {
-          "name": "60 Premium Credits",
-          "price": "39,00 kr",
-          "amount": 39
+          "name": "Creator Annual",
+          "price": "2.499,00 kr",
+          "amount": 2499
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -2344,17 +2344,17 @@
           "amount": 399
         },
         {
+          "name": "60 Premium Credits",
+          "price": "39,00 kr",
+          "amount": 39
+        },
+        {
           "name": "150 Premium Credits",
           "price": "89,00 kr",
           "amount": 89
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "599,00 kr",
-          "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:44.611Z"
+      "fetchedAt": "2026-10-26T08:46:54.298Z"
     },
     "dm": {
       "currency": "USD",
@@ -2410,7 +2410,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:45.980Z"
+      "fetchedAt": "2026-10-26T08:46:55.851Z"
     },
     "do": {
       "currency": "USD",
@@ -2426,14 +2426,14 @@
           "amount": 29
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "250 Premium Credits",
@@ -2441,43 +2441,43 @@
           "amount": 14.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Credit  Annual",
-          "price": "USD 279.00",
-          "amount": 279
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "USD 9.99",
-          "amount": 9.99
+          "name": "60 Premium Credits",
+          "price": "USD 4.99",
+          "amount": 4.99
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "USD 49.00",
           "amount": 49
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "USD 74.00",
+          "amount": 74
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:47.586Z"
+      "fetchedAt": "2026-10-26T08:46:57.383Z"
     },
     "dz": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "$10.00",
-          "amount": 10
+          "name": "Creator Monthly",
+          "price": "$29.00",
+          "amount": 29
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "$29.00",
           "amount": 29
         },
@@ -2487,9 +2487,9 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "$29.00",
-          "amount": 29
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -2522,7 +2522,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:49.088Z"
+      "fetchedAt": "2026-10-26T08:46:58.820Z"
     },
     "ec": {
       "currency": "USD",
@@ -2533,17 +2533,17 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
           "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -2578,13 +2578,13 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:50.527Z"
+      "fetchedAt": "2026-10-26T08:47:00.407Z"
     },
     "ee": {
       "currency": "EUR",
       "items": [
         {
-          "name": "HeyGen Creator Weekly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "10,00 €",
           "amount": 10
         },
@@ -2594,7 +2594,7 @@
           "amount": 35
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "HeyGen Creator Weekly",
           "price": "10,00 €",
           "amount": 10
         },
@@ -2634,7 +2634,7 @@
           "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:51.976Z"
+      "fetchedAt": "2026-10-26T08:47:01.784Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2660,11 +2660,6 @@
           "amount": 1499.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "EGP 2,499.99",
-          "amount": 2499.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "EGP 499.99",
           "amount": 499.99
@@ -2675,22 +2670,27 @@
           "amount": 249.99
         },
         {
-          "name": "150 Premium Credits",
-          "price": "EGP 499.99",
-          "amount": 499.99
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "EGP 4,999.99",
+          "amount": 4999.99
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "EGP 3,999.99",
-          "amount": 3999.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "EGP 2,499.99",
+          "amount": 2499.99
         },
         {
           "name": "250 Premium Credits",
           "price": "EGP 799.99",
           "amount": 799.99
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "EGP 3,999.99",
+          "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:53.422Z"
+      "fetchedAt": "2026-10-26T08:47:03.302Z"
     },
     "es": {
       "currency": "EUR",
@@ -2721,11 +2721,6 @@
           "amount": 10
         },
         {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "250 Premium Credits",
           "price": "17,99 €",
           "amount": 17.99
@@ -2736,17 +2731,22 @@
           "amount": 5.99
         },
         {
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "59,00 €",
           "amount": 59
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "79,00 €",
-          "amount": 79
+          "name": "Team Monthly",
+          "price": "99,00 €",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:54.999Z"
+      "fetchedAt": "2026-10-26T08:47:04.885Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2767,19 +2767,19 @@
           "amount": 35
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "35,00 €",
+          "amount": 35
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "150 Premium Credits",
@@ -2787,9 +2787,9 @@
           "amount": 9.99
         },
         {
-          "name": "250 Premium Credits",
-          "price": "17,99 €",
-          "amount": 17.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
         },
         {
           "name": "60 Premium Credits",
@@ -2802,7 +2802,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:56.546Z"
+      "fetchedAt": "2026-10-26T08:47:06.319Z"
     },
     "fj": {
       "currency": "USD",
@@ -2858,7 +2858,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:58.102Z"
+      "fetchedAt": "2026-10-26T08:47:07.750Z"
     },
     "fm": {
       "currency": "USD",
@@ -2914,7 +2914,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:47:59.600Z"
+      "fetchedAt": "2026-10-26T08:47:09.421Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2925,14 +2925,14 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -2965,28 +2965,23 @@
           "amount": 59
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "299,00 €",
+          "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:00.984Z"
+      "fetchedAt": "2026-10-26T08:47:10.781Z"
     },
     "ga": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Creator Weekly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -2994,6 +2989,11 @@
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Creator Monthly",
@@ -3026,7 +3026,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:02.489Z"
+      "fetchedAt": "2026-10-26T08:47:12.285Z"
     },
     "gb": {
       "currency": "GBP",
@@ -3082,7 +3082,7 @@
           "amount": 69
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:03.978Z"
+      "fetchedAt": "2026-10-26T08:47:13.823Z"
     },
     "gd": {
       "currency": "USD",
@@ -3138,7 +3138,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:05.492Z"
+      "fetchedAt": "2026-10-26T08:47:15.311Z"
     },
     "ge": {
       "currency": "USD",
@@ -3169,9 +3169,9 @@
           "amount": 12
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 5.99",
-          "amount": 5.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 59.00",
+          "amount": 59
         },
         {
           "name": "250 Premium Credits",
@@ -3179,9 +3179,9 @@
           "amount": 17.99
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 11.99",
-          "amount": 11.99
+          "name": "60 Premium Credits",
+          "price": "USD 5.99",
+          "amount": 5.99
         },
         {
           "name": "Team Monthly",
@@ -3189,12 +3189,12 @@
           "amount": 99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 59.00",
-          "amount": 59
+          "name": "150 Premium Credits",
+          "price": "USD 11.99",
+          "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:07.036Z"
+      "fetchedAt": "2026-10-26T08:47:16.837Z"
     },
     "gh": {
       "currency": "USD",
@@ -3205,14 +3205,14 @@
           "amount": 12
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 35.00",
           "amount": 35
+        },
+        {
+          "name": "HeyGen Creator Weekly",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Creator Monthly",
@@ -3225,6 +3225,11 @@
           "amount": 12
         },
         {
+          "name": "60 Premium Credits",
+          "price": "USD 5.99",
+          "amount": 5.99
+        },
+        {
           "name": "250 Premium Credits",
           "price": "USD 17.99",
           "amount": 17.99
@@ -3233,11 +3238,6 @@
           "name": "150 Premium Credits",
           "price": "USD 11.99",
           "amount": 11.99
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "USD 5.99",
-          "amount": 5.99
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -3250,7 +3250,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:08.508Z"
+      "fetchedAt": "2026-10-26T08:47:18.343Z"
     },
     "gm": {
       "currency": "USD",
@@ -3306,7 +3306,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:09.970Z"
+      "fetchedAt": "2026-10-26T08:47:19.781Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3357,12 +3357,12 @@
           "amount": 59
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "79,00 €",
+          "amount": 79
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:11.476Z"
+      "fetchedAt": "2026-10-26T08:47:21.328Z"
     },
     "gt": {
       "currency": "USD",
@@ -3378,29 +3378,14 @@
           "amount": 29
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
-          "name": "Starter Monthly",
-          "price": "USD 10.00",
-          "amount": 10
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -3408,17 +3393,32 @@
           "amount": 49
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 4.99",
-          "amount": 4.99
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
         },
         {
-          "name": "Creator Annual",
-          "price": "USD 279.00",
-          "amount": 279
+          "name": "Starter Monthly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "USD 74.00",
+          "amount": 74
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:12.993Z"
+      "fetchedAt": "2026-10-26T08:47:22.941Z"
     },
     "gw": {
       "currency": "USD",
@@ -3474,7 +3474,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:14.444Z"
+      "fetchedAt": "2026-10-26T08:47:24.264Z"
     },
     "gy": {
       "currency": "USD",
@@ -3530,7 +3530,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:16.029Z"
+      "fetchedAt": "2026-10-26T08:47:25.750Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3541,14 +3541,14 @@
           "amount": 228
         },
         {
-          "name": "250 Premium Credits",
-          "price": "HK$ 118.00",
-          "amount": 118
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "HK$ 228.00",
           "amount": 228
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "HK$ 88.00",
+          "amount": 88
         },
         {
           "name": "HeyGen Creator Credit Weekly",
@@ -3556,9 +3556,9 @@
           "amount": 88
         },
         {
-          "name": "Starter Monthly",
-          "price": "HK$ 88.00",
-          "amount": 88
+          "name": "250 Premium Credits",
+          "price": "HK$ 118.00",
+          "amount": 118
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -3571,6 +3571,11 @@
           "amount": 388
         },
         {
+          "name": "150 Premium Credits",
+          "price": "HK$ 88.00",
+          "amount": 88
+        },
+        {
           "name": "60 Premium Credits",
           "price": "HK$ 38.00",
           "amount": 38
@@ -3579,14 +3584,9 @@
           "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "HK$ 788.00",
           "amount": 788
-        },
-        {
-          "name": "Creator Annual",
-          "price": "HK$ 2,288.00",
-          "amount": 2288
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:17.622Z"
+      "fetchedAt": "2026-10-26T08:47:27.301Z"
     },
     "hn": {
       "currency": "USD",
@@ -3602,14 +3602,14 @@
           "amount": 29
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "HeyGen Creator Weekly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Starter Monthly",
@@ -3642,7 +3642,7 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:18.990Z"
+      "fetchedAt": "2026-10-26T08:47:29.127Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3668,24 +3668,19 @@
           "amount": 35
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
-        },
-        {
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
+        },
+        {
           "name": "60 Premium Credits",
           "price": "5,99 €",
           "amount": 5.99
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
         },
         {
           "name": "Creator Annual",
@@ -3696,27 +3691,32 @@
           "name": "250 Premium Credits",
           "price": "17,99 €",
           "amount": 17.99
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:20.597Z"
+      "fetchedAt": "2026-10-26T08:47:30.300Z"
     },
     "hu": {
       "currency": "HUF",
       "items": [
-        {
-          "name": "250 Premium Credits",
-          "price": "HUF6,990.00",
-          "amount": 6990
-        },
         {
           "name": "HeyGen Creator Credit Weekly",
           "price": "HUF4,490.00",
           "amount": 4490
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "HUF4,490.00",
-          "amount": 4490
+          "name": "250 Premium Credits",
+          "price": "HUF6,990.00",
+          "amount": 6990
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "HUF12,990.00",
+          "amount": 12990
         },
         {
           "name": "Creator Monthly",
@@ -3724,9 +3724,9 @@
           "amount": 12990
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "HUF12,990.00",
-          "amount": 12990
+          "name": "HeyGen Creator Weekly",
+          "price": "HUF4,490.00",
+          "amount": 4490
         },
         {
           "name": "Starter Monthly",
@@ -3754,7 +3754,7 @@
           "amount": 34990
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:22.034Z"
+      "fetchedAt": "2026-10-26T08:47:31.809Z"
     },
     "id": {
       "currency": "IDR",
@@ -3770,14 +3770,14 @@
           "amount": 499
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "Rp 499ribu",
-          "amount": 499
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "Rp 169ribu",
           "amount": 169
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "Rp 499ribu",
+          "amount": 499
         },
         {
           "name": "Starter Monthly",
@@ -3790,9 +3790,9 @@
           "amount": 299
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "Rp 1,699juta",
-          "amount": 1699
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "Rp 799ribu",
+          "amount": 799
         },
         {
           "name": "60 Premium Credits",
@@ -3800,17 +3800,17 @@
           "amount": 99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "Rp 799ribu",
-          "amount": 799
-        },
-        {
           "name": "150 Premium Credits",
           "price": "Rp 199ribu",
           "amount": 199
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "Rp 1,699juta",
+          "amount": 1699
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:23.476Z"
+      "fetchedAt": "2026-10-26T08:47:33.361Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3826,11 +3826,6 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "€35.00",
-          "amount": 35
-        },
-        {
           "name": "Creator Monthly",
           "price": "€35.00",
           "amount": 35
@@ -3841,19 +3836,24 @@
           "amount": 10
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "€35.00",
+          "amount": 35
+        },
+        {
           "name": "250 Premium Credits",
           "price": "€17.99",
           "amount": 17.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "€59.00",
-          "amount": 59
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "€299.00",
+          "amount": 299
         },
         {
-          "name": "150 Premium Credits",
-          "price": "€9.99",
-          "amount": 9.99
+          "name": "60 Premium Credits",
+          "price": "€5.99",
+          "amount": 5.99
         },
         {
           "name": "Team Monthly",
@@ -3861,12 +3861,12 @@
           "amount": 99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "€5.99",
-          "amount": 5.99
+          "name": "150 Premium Credits",
+          "price": "€9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:25.047Z"
+      "fetchedAt": "2026-10-26T08:47:34.883Z"
     },
     "il": {
       "currency": "ILS",
@@ -3922,7 +3922,7 @@
           "amount": 249.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:26.455Z"
+      "fetchedAt": "2026-10-26T08:47:37.086Z"
     },
     "in": {
       "currency": "INR",
@@ -3933,12 +3933,12 @@
           "amount": 999
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "₹ 2,999",
           "amount": 2999
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "₹ 2,999",
           "amount": 2999
         },
@@ -3948,12 +3948,17 @@
           "amount": 999
         },
         {
+          "name": "Starter Monthly",
+          "price": "₹ 999",
+          "amount": 999
+        },
+        {
           "name": "250 Premium Credits",
           "price": "₹ 1,499",
           "amount": 1499
         },
         {
-          "name": "Starter Monthly",
+          "name": "150 Premium Credits",
           "price": "₹ 999",
           "amount": 999
         },
@@ -3963,22 +3968,17 @@
           "amount": 499
         },
         {
-          "name": "150 Premium Credits",
-          "price": "₹ 999",
-          "amount": 999
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "₹ 4,999",
           "amount": 4999
         },
         {
-          "name": "Team Monthly",
+          "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "₹ 9,900",
           "amount": 9900
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:27.990Z"
+      "fetchedAt": "2026-10-26T08:47:37.785Z"
     },
     "iq": {
       "currency": "USD",
@@ -4034,7 +4034,7 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:29.662Z"
+      "fetchedAt": "2026-10-26T08:47:39.335Z"
     },
     "is": {
       "currency": "USD",
@@ -4045,9 +4045,9 @@
           "amount": 17.99
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 35.00",
-          "amount": 35
+          "name": "150 Premium Credits",
+          "price": "USD 11.99",
+          "amount": 11.99
         },
         {
           "name": "Creator Monthly",
@@ -4065,14 +4065,14 @@
           "amount": 12
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "USD 11.99",
-          "amount": 11.99
         },
         {
           "name": "HeyGen Pro 1500 Credit Monthly",
@@ -4090,7 +4090,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:30.915Z"
+      "fetchedAt": "2026-10-26T08:47:40.877Z"
     },
     "it": {
       "currency": "EUR",
@@ -4106,12 +4106,12 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "35,00 €",
           "amount": 35
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "35,00 €",
           "amount": 35
         },
@@ -4131,22 +4131,22 @@
           "amount": 9.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
-        },
-        {
           "name": "60 Premium Credits",
           "price": "5,99 €",
           "amount": 5.99
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "79,00 €",
-          "amount": 79
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "59,00 €",
+          "amount": 59
+        },
+        {
+          "name": "Team Monthly",
+          "price": "99,00 €",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:32.511Z"
+      "fetchedAt": "2026-10-26T08:47:42.363Z"
     },
     "jm": {
       "currency": "USD",
@@ -4157,14 +4157,14 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -4177,9 +4177,9 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
         },
         {
           "name": "60 Premium Credits",
@@ -4202,7 +4202,7 @@
           "amount": 989
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:34.002Z"
+      "fetchedAt": "2026-10-26T08:47:43.812Z"
     },
     "jo": {
       "currency": "USD",
@@ -4213,39 +4213,9 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "$29.00",
           "amount": 29
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "$29.00",
-          "amount": 29
-        },
-        {
-          "name": "Starter Monthly",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "$4.99",
-          "amount": 4.99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "$74.00",
-          "amount": 74
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
         },
         {
           "name": "150 Premium Credits",
@@ -4253,12 +4223,42 @@
           "amount": 9.99
         },
         {
+          "name": "HeyGen Creator Weekly",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "$29.00",
+          "amount": 29
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "$4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
+        },
+        {
           "name": "250 Premium Credits",
           "price": "$14.99",
           "amount": 14.99
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "$74.00",
+          "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:35.565Z"
+      "fetchedAt": "2026-10-26T08:47:45.370Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4294,14 +4294,14 @@
           "amount": 2500
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "¥8,000",
-          "amount": 8000
-        },
-        {
           "name": "150 Premium Credits",
           "price": "¥1,500",
           "amount": 1500
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "¥8,000",
+          "amount": 8000
         },
         {
           "name": "60 Premium Credits",
@@ -4314,7 +4314,7 @@
           "amount": 12000
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:36.996Z"
+      "fetchedAt": "2026-10-26T08:47:46.838Z"
     },
     "ke": {
       "currency": "USD",
@@ -4325,19 +4325,14 @@
           "amount": 12
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "Creator Monthly",
           "price": "USD 35.00",
           "amount": 35
         },
         {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
+          "name": "HeyGen Creator Weekly",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -4345,9 +4340,19 @@
           "amount": 35
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 59.00",
+          "amount": 59
+        },
+        {
           "name": "Starter Monthly",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": "150 Premium Credits",
@@ -4363,14 +4368,9 @@
           "name": "HeyGen Pro 2000 Credit Annual",
           "price": "USD 999.00",
           "amount": 999
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Annual",
-          "price": "USD 899.00",
-          "amount": 899
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:38.507Z"
+      "fetchedAt": "2026-10-26T08:47:48.317Z"
     },
     "kg": {
       "currency": "USD",
@@ -4381,6 +4381,11 @@
           "amount": 10
         },
         {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
@@ -4401,19 +4406,9 @@
           "amount": 10
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 9.99",
-          "amount": 9.99
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "USD 49.00",
           "amount": 49
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
         },
         {
           "name": "60 Premium Credits",
@@ -4421,12 +4416,17 @@
           "amount": 4.99
         },
         {
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
           "name": "Team Monthly",
           "price": "USD 99.00",
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:40.035Z"
+      "fetchedAt": "2026-10-26T08:47:49.771Z"
     },
     "kh": {
       "currency": "USD",
@@ -4437,6 +4437,11 @@
           "amount": 10
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
@@ -4450,11 +4455,6 @@
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "60 Premium Credits",
@@ -4482,7 +4482,7 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:41.587Z"
+      "fetchedAt": "2026-10-26T08:47:51.326Z"
     },
     "kn": {
       "currency": "USD",
@@ -4538,7 +4538,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:43.037Z"
+      "fetchedAt": "2026-10-26T08:47:52.780Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4569,19 +4569,9 @@
           "amount": 14000
         },
         {
-          "name": "250 Premium Credits",
-          "price": "￦25,000",
-          "amount": 25000
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "￦77,000",
           "amount": 77000
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "￦7,700",
-          "amount": 7700
         },
         {
           "name": "HeyGen Pro 1500 Credit Monthly",
@@ -4589,12 +4579,22 @@
           "amount": 110000
         },
         {
-          "name": "HeyGen Creator Credit  Annual",
-          "price": "￦399,000",
-          "amount": 399000
+          "name": "60 Premium Credits",
+          "price": "￦7,700",
+          "amount": 7700
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "￦25,000",
+          "amount": 25000
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "￦17,000",
+          "amount": 17000
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:44.508Z"
+      "fetchedAt": "2026-10-26T08:47:54.386Z"
     },
     "kw": {
       "currency": "USD",
@@ -4630,14 +4630,14 @@
           "amount": 10
         },
         {
-          "name": "60 Premium Credits",
-          "price": "$4.99",
-          "amount": 4.99
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "$49.00",
           "amount": 49
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "$4.99",
+          "amount": 4.99
         },
         {
           "name": "150 Premium Credits",
@@ -4650,7 +4650,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:46.043Z"
+      "fetchedAt": "2026-10-26T08:47:55.806Z"
     },
     "ky": {
       "currency": "USD",
@@ -4666,6 +4666,11 @@
           "amount": 29
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "250 Premium Credits",
           "price": "USD 14.99",
           "amount": 14.99
@@ -4674,11 +4679,6 @@
           "name": "60 Premium Credits",
           "price": "USD 4.99",
           "amount": 4.99
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "Starter Monthly",
@@ -4706,7 +4706,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:47.527Z"
+      "fetchedAt": "2026-10-26T08:47:57.306Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4737,14 +4737,19 @@
           "amount": 4990
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "29,990.00₸",
-          "amount": 29990
+          "name": "250 Premium Credits",
+          "price": "8,990.00₸",
+          "amount": 8990
         },
         {
           "name": "150 Premium Credits",
           "price": "5,990.00₸",
           "amount": 5990
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "29,990.00₸",
+          "amount": 29990
         },
         {
           "name": "60 Premium Credits",
@@ -4755,14 +4760,9 @@
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "39,990.00₸",
           "amount": 39990
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "8,990.00₸",
-          "amount": 8990
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:49.022Z"
+      "fetchedAt": "2026-10-26T08:47:58.859Z"
     },
     "la": {
       "currency": "USD",
@@ -4778,6 +4778,11 @@
           "amount": 10
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
@@ -4791,11 +4796,6 @@
           "name": "60 Premium Credits",
           "price": "USD 4.99",
           "amount": 4.99
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -4818,7 +4818,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:50.569Z"
+      "fetchedAt": "2026-10-26T08:48:00.314Z"
     },
     "lb": {
       "currency": "USD",
@@ -4854,14 +4854,14 @@
           "amount": 14.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
-        },
-        {
           "name": "60 Premium Credits",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
         },
         {
           "name": "150 Premium Credits",
@@ -4874,7 +4874,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:51.991Z"
+      "fetchedAt": "2026-10-26T08:48:01.797Z"
     },
     "lc": {
       "currency": "USD",
@@ -4930,7 +4930,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:53.516Z"
+      "fetchedAt": "2026-10-26T08:48:03.308Z"
     },
     "lk": {
       "currency": "USD",
@@ -4946,9 +4946,9 @@
           "amount": 29
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 9.99",
-          "amount": 9.99
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -4956,9 +4956,9 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
         },
         {
           "name": "Starter Monthly",
@@ -4986,11 +4986,16 @@
           "amount": 739
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:55.025Z"
+      "fetchedAt": "2026-10-26T08:48:04.845Z"
     },
     "lr": {
       "currency": "USD",
       "items": [
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
@@ -5005,11 +5010,6 @@
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
-        },
-        {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "250 Premium Credits",
@@ -5042,7 +5042,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:56.437Z"
+      "fetchedAt": "2026-10-26T08:48:06.326Z"
     },
     "lt": {
       "currency": "EUR",
@@ -5051,6 +5051,11 @@
           "name": "HeyGen Creator Credit Weekly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -5063,19 +5068,14 @@
           "amount": 35
         },
         {
-          "name": "Starter Monthly",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "35,00 €",
-          "amount": 35
-        },
-        {
           "name": "250 Premium Credits",
           "price": "17,99 €",
           "amount": 17.99
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "150 Premium Credits",
@@ -5098,7 +5098,7 @@
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:58.085Z"
+      "fetchedAt": "2026-10-26T08:48:07.855Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5119,9 +5119,9 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "35,00 €",
-          "amount": 35
+          "name": "250 Premium Credits",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "Starter Monthly",
@@ -5129,19 +5129,19 @@
           "amount": 10
         },
         {
-          "name": "60 Premium Credits",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "17,99 €",
-          "amount": 17.99
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "35,00 €",
+          "amount": 35
         },
         {
           "name": "150 Premium Credits",
           "price": "9,99 €",
           "amount": 9.99
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "Creator Annual",
@@ -5154,7 +5154,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:48:59.482Z"
+      "fetchedAt": "2026-10-26T08:48:09.419Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5195,6 +5195,11 @@
           "amount": 99
         },
         {
+          "name": "60 Premium Credits",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
           "name": "250 Premium Credits",
           "price": "17,99 €",
           "amount": 17.99
@@ -5203,14 +5208,9 @@
           "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "99,00 €",
           "amount": 99
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "59,00 €",
-          "amount": 59
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:01.119Z"
+      "fetchedAt": "2026-10-26T08:48:10.968Z"
     },
     "ly": {
       "currency": "USD",
@@ -5266,7 +5266,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:02.501Z"
+      "fetchedAt": "2026-10-26T08:48:12.412Z"
     },
     "ma": {
       "currency": "USD",
@@ -5292,24 +5292,24 @@
           "amount": 10
         },
         {
-          "name": "60 Premium Credits",
-          "price": "$5.99",
-          "amount": 5.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "$10.00",
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
+          "name": "60 Premium Credits",
+          "price": "$5.99",
+          "amount": 5.99
         },
         {
           "name": "250 Premium Credits",
           "price": "$17.99",
           "amount": 17.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
         },
         {
           "name": "150 Premium Credits",
@@ -5322,7 +5322,7 @@
           "amount": 989
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:04.010Z"
+      "fetchedAt": "2026-10-26T08:48:13.923Z"
     },
     "md": {
       "currency": "USD",
@@ -5333,14 +5333,19 @@
           "amount": 12
         },
         {
+          "name": "Starter Monthly",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 12.00",
           "amount": 12
         },
         {
-          "name": "Starter Monthly",
-          "price": "USD 12.00",
-          "amount": 12
+          "name": "Creator Monthly",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -5348,9 +5353,9 @@
           "amount": 35
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 35.00",
-          "amount": 35
+          "name": "250 Premium Credits",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": "60 Premium Credits",
@@ -5368,21 +5373,21 @@
           "amount": 11.99
         },
         {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
-        },
-        {
           "name": "HeyGen Pro 2000 Credit Annual",
           "price": "USD 999.00",
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:05.520Z"
+      "fetchedAt": "2026-10-26T08:48:15.521Z"
     },
     "me": {
       "currency": "EUR",
       "items": [
+        {
+          "name": "250 Premium Credits",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
         {
           "name": "HeyGen Creator Credit Weekly",
           "price": "10,00 €",
@@ -5390,11 +5395,6 @@
         },
         {
           "name": "Creator Monthly",
-          "price": "29,00 €",
-          "amount": 29
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
           "price": "29,00 €",
           "amount": 29
         },
@@ -5407,6 +5407,11 @@
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "29,00 €",
+          "amount": 29
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -5427,18 +5432,18 @@
           "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "99,00 €",
           "amount": 99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "69,00 €",
-          "amount": 69
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:07.045Z"
+      "fetchedAt": "2026-10-26T08:48:16.824Z"
     },
     "mg": {
       "currency": "USD",
       "items": [
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
@@ -5453,11 +5458,6 @@
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "USD 49.00",
           "amount": 49
-        },
-        {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -5490,7 +5490,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:08.568Z"
+      "fetchedAt": "2026-10-26T08:48:18.308Z"
     },
     "mk": {
       "currency": "USD",
@@ -5501,11 +5501,6 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
@@ -5514,6 +5509,11 @@
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Starter Monthly",
@@ -5546,7 +5546,7 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:10.059Z"
+      "fetchedAt": "2026-10-26T08:48:19.887Z"
     },
     "ml": {
       "currency": "USD",
@@ -5602,7 +5602,7 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:11.525Z"
+      "fetchedAt": "2026-10-26T08:48:21.446Z"
     },
     "mm": {
       "currency": "USD",
@@ -5658,7 +5658,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:13.105Z"
+      "fetchedAt": "2026-10-26T08:48:22.812Z"
     },
     "mn": {
       "currency": "USD",
@@ -5667,11 +5667,6 @@
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -5684,14 +5679,19 @@
           "amount": 10
         },
         {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
         },
         {
           "name": "60 Premium Credits",
@@ -5714,20 +5714,20 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:14.532Z"
+      "fetchedAt": "2026-10-26T08:48:24.321Z"
     },
     "mo": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
-        },
-        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -5770,15 +5770,40 @@
           "amount": 489
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:16.073Z"
+      "fetchedAt": "2026-10-26T08:48:25.893Z"
     },
     "mr": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "Creator Monthly",
+          "price": "$29.00",
+          "amount": 29
+        },
+        {
+          "name": "Creator Annual",
+          "price": "$279.00",
+          "amount": 279
+        },
+        {
+          "name": "Team Monthly",
+          "price": "$89.00",
+          "amount": 89
+        },
+        {
+          "name": "Team Annual",
+          "price": "$859.00",
+          "amount": 859
+        },
+        {
+          "name": "Starter Monthly",
           "price": "$10.00",
           "amount": 10
+        },
+        {
+          "name": "Starter Annual",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -5786,9 +5811,9 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
-          "price": "$29.00",
-          "amount": 29
+          "name": "150 Premium Credits",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
           "name": "250 Premium Credits",
@@ -5796,37 +5821,12 @@
           "amount": 14.99
         },
         {
-          "name": "HeyGen Pro 2000 Credit Annual",
-          "price": "$989.00",
-          "amount": 989
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Annual",
-          "price": "$739.00",
-          "amount": 739
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Annual",
-          "price": "$489.00",
-          "amount": 489
-        },
-        {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "$99.00",
-          "amount": 99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "$74.00",
-          "amount": 74
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
+          "name": "60 Premium Credits",
+          "price": "$4.99",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:17.461Z"
+      "fetchedAt": "2026-10-26T08:48:27.426Z"
     },
     "ms": {
       "currency": "USD",
@@ -5882,7 +5882,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:19.057Z"
+      "fetchedAt": "2026-10-26T08:48:28.792Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5893,12 +5893,12 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "35,00 €",
           "amount": 35
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "35,00 €",
           "amount": 35
         },
@@ -5938,7 +5938,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:20.508Z"
+      "fetchedAt": "2026-10-26T08:48:30.322Z"
     },
     "mu": {
       "currency": "USD",
@@ -5949,14 +5949,14 @@
           "amount": 12
         },
         {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -5994,7 +5994,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:22.016Z"
+      "fetchedAt": "2026-10-26T08:48:31.783Z"
     },
     "mv": {
       "currency": "USD",
@@ -6010,14 +6010,14 @@
           "amount": 29
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "250 Premium Credits",
@@ -6050,11 +6050,16 @@
           "amount": 739
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:23.496Z"
+      "fetchedAt": "2026-10-26T08:48:33.323Z"
     },
     "mw": {
       "currency": "USD",
       "items": [
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "250 Premium Credits",
           "price": "USD 14.99",
@@ -6064,11 +6069,6 @@
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
-        },
-        {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -6106,7 +6106,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:25.006Z"
+      "fetchedAt": "2026-10-26T08:48:34.843Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6132,14 +6132,14 @@
           "amount": 199
         },
         {
-          "name": "Starter Monthly",
-          "price": "$199.00",
-          "amount": 199
-        },
-        {
           "name": "250 Premium Credits",
           "price": "$299.00",
           "amount": 299
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "$199.00",
+          "amount": 199
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -6147,22 +6147,22 @@
           "amount": 999
         },
         {
-          "name": "60 Premium Credits",
-          "price": "$99.00",
-          "amount": 99
-        },
-        {
           "name": "150 Premium Credits",
           "price": "$199.00",
           "amount": 199
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "$1,499.00",
-          "amount": 1499
+          "name": "60 Premium Credits",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "$1,999.00",
+          "amount": 1999
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:26.583Z"
+      "fetchedAt": "2026-10-26T08:48:36.468Z"
     },
     "my": {
       "currency": "MYR",
@@ -6183,9 +6183,9 @@
           "amount": 129.9
         },
         {
-          "name": "Starter Monthly",
-          "price": "RM49.90",
-          "amount": 49.9
+          "name": "250 Premium Credits",
+          "price": "RM69.90",
+          "amount": 69.9
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -6193,9 +6193,9 @@
           "amount": 49.9
         },
         {
-          "name": "250 Premium Credits",
-          "price": "RM69.90",
-          "amount": 69.9
+          "name": "Starter Monthly",
+          "price": "RM49.90",
+          "amount": 49.9
         },
         {
           "name": "60 Premium Credits",
@@ -6203,35 +6203,35 @@
           "amount": 22.9
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "RM229.90",
-          "amount": 229.9
-        },
-        {
           "name": "150 Premium Credits",
           "price": "RM49.90",
           "amount": 49.9
         },
         {
-          "name": "Team Monthly",
-          "price": "RM399.90",
-          "amount": 399.9
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "RM229.90",
+          "amount": 229.9
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "RM349.90",
+          "amount": 349.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:28.036Z"
+      "fetchedAt": "2026-10-26T08:48:37.925Z"
     },
     "mz": {
       "currency": "USD",
       "items": [
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -6274,7 +6274,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:29.412Z"
+      "fetchedAt": "2026-10-26T08:48:39.356Z"
     },
     "na": {
       "currency": "USD",
@@ -6330,7 +6330,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:31.195Z"
+      "fetchedAt": "2026-10-26T08:48:40.888Z"
     },
     "ne": {
       "currency": "USD",
@@ -6386,7 +6386,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:32.529Z"
+      "fetchedAt": "2026-10-26T08:48:42.340Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6412,6 +6412,11 @@
           "amount": 49900
         },
         {
+          "name": "60 Premium Credits",
+          "price": "₦ 7,900.00",
+          "amount": 7900
+        },
+        {
           "name": "Starter Monthly",
           "price": "₦ 14,900.00",
           "amount": 14900
@@ -6422,38 +6427,33 @@
           "amount": 14900
         },
         {
-          "name": "60 Premium Credits",
-          "price": "₦ 7,900.00",
-          "amount": 7900
-        },
-        {
           "name": "250 Premium Credits",
           "price": "₦ 24,900.00",
           "amount": 24900
         },
         {
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "₦ 499,900.00",
+          "amount": 499900
+        },
+        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "₦ 79,900.00",
           "amount": 79900
-        },
-        {
-          "name": "Creator Annual",
-          "price": "₦ 499,900.00",
-          "amount": 499900
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:34.052Z"
+      "fetchedAt": "2026-10-26T08:48:43.815Z"
     },
     "ni": {
       "currency": "USD",
       "items": [
         {
-          "name": "HeyGen Creator Weekly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
+          "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -6498,7 +6498,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:35.579Z"
+      "fetchedAt": "2026-10-26T08:48:45.378Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6514,12 +6514,12 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "€ 35,00",
           "amount": 35
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "€ 35,00",
           "amount": 35
         },
@@ -6529,9 +6529,9 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "€ 59,00",
-          "amount": 59
+          "name": "250 Premium Credits",
+          "price": "€ 17,99",
+          "amount": 17.99
         },
         {
           "name": "150 Premium Credits",
@@ -6539,14 +6539,14 @@
           "amount": 9.99
         },
         {
-          "name": "250 Premium Credits",
-          "price": "€ 17,99",
-          "amount": 17.99
-        },
-        {
           "name": "60 Premium Credits",
           "price": "€ 5,99",
           "amount": 5.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "€ 59,00",
+          "amount": 59
         },
         {
           "name": "HeyGen Pro 2000 Credit Monthly",
@@ -6554,7 +6554,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:37.091Z"
+      "fetchedAt": "2026-10-26T08:48:46.922Z"
     },
     "no": {
       "currency": "NOK",
@@ -6590,60 +6590,40 @@
           "amount": 59
         },
         {
-          "name": "150 Premium Credits",
-          "price": "129,00 kr",
-          "amount": 129
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "599,00 kr",
           "amount": 599
         },
         {
-          "name": "HeyGen Creator Credit  Annual",
-          "price": "3.490,00 kr",
-          "amount": 3490
+          "name": "150 Premium Credits",
+          "price": "129,00 kr",
+          "amount": 129
         },
         {
           "name": "250 Premium Credits",
           "price": "199,00 kr",
           "amount": 199
+        },
+        {
+          "name": "HeyGen Creator Credit  Annual",
+          "price": "3.490,00 kr",
+          "amount": 3490
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:38.645Z"
+      "fetchedAt": "2026-10-26T08:48:48.304Z"
     },
     "np": {
       "currency": "USD",
       "items": [
         {
-          "name": "Creator Monthly",
-          "price": "USD 35.00",
-          "amount": 35
-        },
-        {
-          "name": "Creator Annual",
-          "price": "USD 349.00",
-          "amount": 349
-        },
-        {
-          "name": "Team Monthly",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
-          "name": "Team Annual",
-          "price": "USD 999.00",
-          "amount": 999
-        },
-        {
-          "name": "Starter Monthly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "USD 12.00",
           "amount": 12
         },
         {
-          "name": "Starter Annual",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "Creator Monthly",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -6651,22 +6631,42 @@
           "amount": 12
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "60 Premium Credits",
           "price": "USD 5.99",
           "amount": 5.99
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Annual",
+          "price": "USD 999.00",
+          "amount": 999
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Annual",
+          "price": "USD 899.00",
+          "amount": 899
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Annual",
+          "price": "USD 599.00",
+          "amount": 599
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "USD 119.00",
+          "amount": 119
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "USD 89.00",
+          "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:39.993Z"
+      "fetchedAt": "2026-10-26T08:48:49.903Z"
     },
     "nr": {
       "currency": "USD",
@@ -6722,7 +6722,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:41.467Z"
+      "fetchedAt": "2026-10-26T08:48:51.355Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6753,14 +6753,14 @@
           "amount": 20
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$89.00",
-          "amount": 89
-        },
-        {
           "name": "250 Premium Credits",
           "price": "$29.99",
           "amount": 29.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$89.00",
+          "amount": 89
         },
         {
           "name": "60 Premium Credits",
@@ -6778,7 +6778,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:43.042Z"
+      "fetchedAt": "2026-10-26T08:48:52.805Z"
     },
     "om": {
       "currency": "USD",
@@ -6809,9 +6809,9 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
+          "name": "250 Premium Credits",
+          "price": "$14.99",
+          "amount": 14.99
         },
         {
           "name": "60 Premium Credits",
@@ -6819,9 +6819,9 @@
           "amount": 4.99
         },
         {
-          "name": "250 Premium Credits",
-          "price": "$14.99",
-          "amount": 14.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
         },
         {
           "name": "150 Premium Credits",
@@ -6834,7 +6834,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:44.604Z"
+      "fetchedAt": "2026-10-26T08:48:54.365Z"
     },
     "pa": {
       "currency": "USD",
@@ -6855,24 +6855,14 @@
           "amount": 29
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
+          "name": "HeyGen Creator Weekly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -6880,9 +6870,19 @@
           "amount": 49
         },
         {
+          "name": "60 Premium Credits",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
         },
         {
           "name": "Creator Annual",
@@ -6890,7 +6890,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:46.043Z"
+      "fetchedAt": "2026-10-26T08:48:55.910Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6901,14 +6901,14 @@
           "amount": 44.9
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "S/ 129.90",
-          "amount": 129.9
-        },
-        {
           "name": "Creator Monthly",
           "price": "S/ 99.90",
           "amount": 99.9
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "S/ 129.90",
+          "amount": 129.9
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -6926,6 +6926,11 @@
           "amount": 199.9
         },
         {
+          "name": "150 Premium Credits",
+          "price": "S/ 44.90",
+          "amount": 44.9
+        },
+        {
           "name": "60 Premium Credits",
           "price": "S/ 22.90",
           "amount": 22.9
@@ -6939,14 +6944,9 @@
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "S/ 299.90",
           "amount": 299.9
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "S/ 44.90",
-          "amount": 44.9
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:47.555Z"
+      "fetchedAt": "2026-10-26T08:48:57.472Z"
     },
     "pg": {
       "currency": "USD",
@@ -7002,7 +7002,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:48.979Z"
+      "fetchedAt": "2026-10-26T08:48:58.876Z"
     },
     "ph": {
       "currency": "PHP",
@@ -7018,14 +7018,14 @@
           "amount": 1490
         },
         {
+          "name": "250 Premium Credits",
+          "price": "₱ 999.00",
+          "amount": 999
+        },
+        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "₱ 1,990.00",
           "amount": 1990
-        },
-        {
-          "name": "Starter Monthly",
-          "price": "₱ 499.00",
-          "amount": 499
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -7033,19 +7033,9 @@
           "amount": 599
         },
         {
-          "name": "250 Premium Credits",
-          "price": "₱ 999.00",
-          "amount": 999
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "₱ 2,990.00",
-          "amount": 2990
-        },
-        {
-          "name": "150 Premium Credits",
-          "price": "₱ 599.00",
-          "amount": 599
+          "name": "Starter Monthly",
+          "price": "₱ 499.00",
+          "amount": 499
         },
         {
           "name": "60 Premium Credits",
@@ -7053,12 +7043,22 @@
           "amount": 299
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "₱ 5,990.00",
-          "amount": 5990
+          "name": "150 Premium Credits",
+          "price": "₱ 599.00",
+          "amount": 599
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "₱ 2,990.00",
+          "amount": 2990
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "₱ 4,990.00",
+          "amount": 4990
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:50.535Z"
+      "fetchedAt": "2026-10-26T08:49:00.353Z"
     },
     "pk": {
       "currency": "PKR",
@@ -7094,27 +7094,27 @@
           "amount": 24900
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "Rs 12,900.00",
+          "amount": 12900
+        },
+        {
           "name": "250 Premium Credits",
           "price": "Rs 3,900.00",
           "amount": 3900
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "Rs 19,900.00",
-          "amount": 19900
+          "name": "60 Premium Credits",
+          "price": "Rs 1,300.00",
+          "amount": 1300
         },
         {
           "name": "Team Monthly",
           "price": "Rs 22,900.00",
           "amount": 22900
-        },
-        {
-          "name": "60 Premium Credits",
-          "price": "Rs 1,300.00",
-          "amount": 1300
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:52.053Z"
+      "fetchedAt": "2026-10-26T08:49:01.919Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7150,6 +7150,11 @@
           "amount": 69.99
         },
         {
+          "name": "60 Premium Credits",
+          "price": "24,99 zł",
+          "amount": 24.99
+        },
+        {
           "name": "150 Premium Credits",
           "price": "49,99 zł",
           "amount": 49.99
@@ -7160,17 +7165,12 @@
           "amount": 229.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "24,99 zł",
-          "amount": 24.99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "349,99 zł",
-          "amount": 349.99
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "449,99 zł",
+          "amount": 449.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:53.562Z"
+      "fetchedAt": "2026-10-26T08:49:03.439Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7196,14 +7196,14 @@
           "amount": 35
         },
         {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -7211,14 +7211,14 @@
           "amount": 59
         },
         {
-          "name": "250 Premium Credits",
-          "price": "17,99 €",
-          "amount": 17.99
-        },
-        {
           "name": "60 Premium Credits",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "HeyGen Creator Credit  Annual",
@@ -7226,7 +7226,7 @@
           "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:55.036Z"
+      "fetchedAt": "2026-10-26T08:49:04.802Z"
     },
     "pw": {
       "currency": "USD",
@@ -7282,7 +7282,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:56.518Z"
+      "fetchedAt": "2026-10-26T08:49:06.401Z"
     },
     "py": {
       "currency": "USD",
@@ -7293,22 +7293,22 @@
           "amount": 10
         },
         {
-          "name": "Starter Monthly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
           "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -7338,7 +7338,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:58.120Z"
+      "fetchedAt": "2026-10-26T08:49:07.911Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7354,19 +7354,14 @@
           "amount": 39.99
         },
         {
-          "name": "Creator Monthly",
-          "price": "QAR 99.99",
-          "amount": 99.99
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "QAR 99.99",
           "amount": 99.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "QAR 19.99",
-          "amount": 19.99
+          "name": "Creator Monthly",
+          "price": "QAR 99.99",
+          "amount": 99.99
         },
         {
           "name": "Starter Monthly",
@@ -7374,9 +7369,9 @@
           "amount": 39.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "QAR 179.99",
-          "amount": 179.99
+          "name": "60 Premium Credits",
+          "price": "QAR 19.99",
+          "amount": 19.99
         },
         {
           "name": "250 Premium Credits",
@@ -7389,12 +7384,17 @@
           "amount": 299.99
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "QAR 399.99",
-          "amount": 399.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "QAR 179.99",
+          "amount": 179.99
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "QAR 39.99",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:49:59.522Z"
+      "fetchedAt": "2026-10-26T08:49:09.163Z"
     },
     "ro": {
       "currency": "RON",
@@ -7410,12 +7410,12 @@
           "amount": 49.99
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "149,99 lei",
           "amount": 149.99
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "149,99 lei",
           "amount": 149.99
         },
@@ -7425,14 +7425,14 @@
           "amount": 49.99
         },
         {
-          "name": "250 Premium Credits",
-          "price": "79,99 lei",
-          "amount": 79.99
-        },
-        {
           "name": "60 Premium Credits",
           "price": "29,99 lei",
           "amount": 29.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "79,99 lei",
+          "amount": 79.99
         },
         {
           "name": "150 Premium Credits",
@@ -7445,12 +7445,12 @@
           "amount": 249.99
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "499,99 lei",
-          "amount": 499.99
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "399,99 lei",
+          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:01.050Z"
+      "fetchedAt": "2026-10-26T08:49:11.033Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7461,14 +7461,14 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Creator Monthly",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "HeyGen Creator Weekly",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": " HeyGen Creator Credit Monthly",
@@ -7476,14 +7476,14 @@
           "amount": 35
         },
         {
-          "name": "Starter Monthly",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "59,00 €",
           "amount": 59
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "150 Premium Credits",
@@ -7506,7 +7506,7 @@
           "amount": 299
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:02.532Z"
+      "fetchedAt": "2026-10-26T08:49:12.536Z"
     },
     "ru": {
       "currency": "RUB",
@@ -7562,7 +7562,7 @@
           "amount": 899
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:04.044Z"
+      "fetchedAt": "2026-10-26T08:49:13.870Z"
     },
     "rw": {
       "currency": "USD",
@@ -7618,7 +7618,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:05.549Z"
+      "fetchedAt": "2026-10-26T08:49:15.346Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7644,14 +7644,14 @@
           "amount": 129.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "SAR 19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "SAR 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "SAR 19.99",
+          "amount": 19.99
         },
         {
           "name": "250 Premium Credits",
@@ -7674,7 +7674,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:07.006Z"
+      "fetchedAt": "2026-10-26T08:49:16.843Z"
     },
     "sb": {
       "currency": "USD",
@@ -7730,7 +7730,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:08.552Z"
+      "fetchedAt": "2026-10-26T08:49:18.336Z"
     },
     "sc": {
       "currency": "USD",
@@ -7786,7 +7786,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:10.029Z"
+      "fetchedAt": "2026-10-26T08:49:19.846Z"
     },
     "se": {
       "currency": "SEK",
@@ -7797,6 +7797,11 @@
           "amount": 129
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "399,00 kr",
+          "amount": 399
+        },
+        {
           "name": "Creator Monthly",
           "price": "399,00 kr",
           "amount": 399
@@ -7805,11 +7810,6 @@
           "name": "HeyGen Creator Weekly",
           "price": "129,00 kr",
           "amount": 129
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "399,00 kr",
-          "amount": 399
         },
         {
           "name": "Starter Monthly",
@@ -7842,16 +7842,11 @@
           "amount": 1195
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:11.529Z"
+      "fetchedAt": "2026-10-26T08:49:21.367Z"
     },
     "sg": {
       "currency": "SGD",
       "items": [
-        {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "S$ 14.98",
-          "amount": 14.98
-        },
         {
           "name": "Creator Monthly",
           "price": "S$ 39.98",
@@ -7863,7 +7858,7 @@
           "amount": 39.98
         },
         {
-          "name": "Starter Monthly",
+          "name": "HeyGen Creator Credit Weekly",
           "price": "S$ 14.98",
           "amount": 14.98
         },
@@ -7873,9 +7868,9 @@
           "amount": 14.98
         },
         {
-          "name": "250 Premium Credits",
-          "price": "S$ 19.98",
-          "amount": 19.98
+          "name": "Starter Monthly",
+          "price": "S$ 14.98",
+          "amount": 14.98
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
@@ -7883,22 +7878,27 @@
           "amount": 69.98
         },
         {
+          "name": "250 Premium Credits",
+          "price": "S$ 19.98",
+          "amount": 19.98
+        },
+        {
           "name": "60 Premium Credits",
           "price": "S$ 6.98",
           "amount": 6.98
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "S$ 149.98",
-          "amount": 149.98
-        },
-        {
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "S$ 99.98",
           "amount": 99.98
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "S$ 149.98",
+          "amount": 149.98
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:13.081Z"
+      "fetchedAt": "2026-10-26T08:49:22.834Z"
     },
     "si": {
       "currency": "EUR",
@@ -7954,7 +7954,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:14.653Z"
+      "fetchedAt": "2026-10-26T08:49:24.327Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7965,14 +7965,14 @@
           "amount": 10
         },
         {
-          "name": "250 Premium Credits",
-          "price": "17,99 €",
-          "amount": 17.99
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "17,99 €",
+          "amount": 17.99
         },
         {
           "name": "Creator Monthly",
@@ -7983,6 +7983,11 @@
           "name": " HeyGen Creator Credit Monthly",
           "price": "35,00 €",
           "amount": 35
+        },
+        {
+          "name": "150 Premium Credits",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Starter Monthly",
@@ -8000,17 +8005,12 @@
           "amount": 5.99
         },
         {
-          "name": "150 Premium Credits",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "79,00 €",
           "amount": 79
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:16.097Z"
+      "fetchedAt": "2026-10-26T08:49:25.874Z"
     },
     "sl": {
       "currency": "USD",
@@ -8066,7 +8066,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:17.524Z"
+      "fetchedAt": "2026-10-26T08:49:27.316Z"
     },
     "sn": {
       "currency": "USD",
@@ -8082,9 +8082,9 @@
           "amount": 35
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 59.00",
-          "amount": 59
+          "name": "250 Premium Credits",
+          "price": "USD 17.99",
+          "amount": 17.99
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -8097,14 +8097,9 @@
           "amount": 35
         },
         {
-          "name": "150 Premium Credits",
-          "price": "USD 11.99",
-          "amount": 11.99
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 17.99",
-          "amount": 17.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 59.00",
+          "amount": 59
         },
         {
           "name": "Starter Monthly",
@@ -8117,12 +8112,17 @@
           "amount": 5.99
         },
         {
+          "name": "150 Premium Credits",
+          "price": "USD 11.99",
+          "amount": 11.99
+        },
+        {
           "name": "HeyGen Pro 2000 Credit Annual",
           "price": "USD 999.00",
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:19.021Z"
+      "fetchedAt": "2026-10-26T08:49:28.811Z"
     },
     "sr": {
       "currency": "USD",
@@ -8178,7 +8178,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:20.446Z"
+      "fetchedAt": "2026-10-26T08:49:30.311Z"
     },
     "st": {
       "currency": "USD",
@@ -8234,28 +8234,13 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:22.027Z"
+      "fetchedAt": "2026-10-26T08:49:31.916Z"
     },
     "sv": {
       "currency": "USD",
       "items": [
         {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
-        },
-        {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -8263,6 +8248,26 @@
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "Starter Monthly",
@@ -8275,11 +8280,6 @@
           "amount": 9.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
           "name": "HeyGen Pro 2000 Credit Annual",
           "price": "USD 989.00",
           "amount": 989
@@ -8290,7 +8290,7 @@
           "amount": 739
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:23.481Z"
+      "fetchedAt": "2026-10-26T08:49:33.454Z"
     },
     "sz": {
       "currency": "USD",
@@ -8346,20 +8346,20 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:25.035Z"
+      "fetchedAt": "2026-10-26T08:49:34.875Z"
     },
     "tc": {
       "currency": "USD",
       "items": [
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -8402,11 +8402,16 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:26.613Z"
+      "fetchedAt": "2026-10-26T08:49:36.348Z"
     },
     "td": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
         {
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
@@ -8421,11 +8426,6 @@
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -8458,7 +8458,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:28.039Z"
+      "fetchedAt": "2026-10-26T08:49:37.835Z"
     },
     "th": {
       "currency": "THB",
@@ -8479,24 +8479,24 @@
           "amount": 999
         },
         {
-          "name": "HeyGen Creator Weekly",
-          "price": "฿399.00",
-          "amount": 399
-        },
-        {
           "name": "Starter Monthly",
           "price": "฿399.00",
           "amount": 399
         },
         {
-          "name": "250 Premium Credits",
-          "price": "฿499.00",
-          "amount": 499
+          "name": "HeyGen Creator Weekly",
+          "price": "฿399.00",
+          "amount": 399
         },
         {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "฿1,790.00",
           "amount": 1790
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "฿499.00",
+          "amount": 499
         },
         {
           "name": "60 Premium Credits",
@@ -8509,12 +8509,12 @@
           "amount": 399
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "฿2,490.00",
-          "amount": 2490
+          "name": "Team Monthly",
+          "price": "฿2,990.00",
+          "amount": 2990
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:29.609Z"
+      "fetchedAt": "2026-10-26T08:49:39.336Z"
     },
     "tj": {
       "currency": "USD",
@@ -8530,11 +8530,6 @@
           "amount": 10
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
-        },
-        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
@@ -8545,9 +8540,14 @@
           "amount": 29
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": "Starter Monthly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "60 Premium Credits",
@@ -8555,14 +8555,14 @@
           "amount": 4.99
         },
         {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
-        },
-        {
-          "name": "Starter Monthly",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -8570,20 +8570,25 @@
           "amount": 999
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:31.009Z"
+      "fetchedAt": "2026-10-26T08:49:40.864Z"
     },
     "tm": {
       "currency": "USD",
       "items": [
         {
+          "name": "150 Premium Credits",
+          "price": "USD 9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "USD 4.99",
+          "amount": 4.99
+        },
+        {
           "name": "HeyGen Creator Weekly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "Starter Monthly",
@@ -8592,6 +8597,11 @@
         },
         {
           "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -8614,19 +8624,9 @@
           "name": "HeyGen Pro 1000 Credit Annual",
           "price": "USD 489.00",
           "amount": 489
-        },
-        {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "USD 74.00",
-          "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:32.663Z"
+      "fetchedAt": "2026-10-26T08:49:42.351Z"
     },
     "tn": {
       "currency": "USD",
@@ -8682,7 +8682,7 @@
           "amount": 29
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:33.999Z"
+      "fetchedAt": "2026-10-26T08:49:43.825Z"
     },
     "to": {
       "currency": "USD",
@@ -8738,7 +8738,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:35.912Z"
+      "fetchedAt": "2026-10-26T08:49:45.327Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8774,27 +8774,27 @@
           "amount": 449.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "₺2.499,99",
-          "amount": 2499.99
-        },
-        {
           "name": "60 Premium Credits",
           "price": "₺249,99",
           "amount": 249.99
         },
         {
-          "name": "Team Monthly",
-          "price": "₺3.499,99",
-          "amount": 3499.99
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "₺2.499,99",
+          "amount": 2499.99
         },
         {
           "name": "150 Premium Credits",
           "price": "₺499,99",
           "amount": 499.99
+        },
+        {
+          "name": "Team Monthly",
+          "price": "₺3.499,99",
+          "amount": 3499.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:37.116Z"
+      "fetchedAt": "2026-10-26T08:49:46.821Z"
     },
     "tt": {
       "currency": "USD",
@@ -8805,9 +8805,24 @@
           "amount": 29
         },
         {
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
           "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
+        },
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "60 Premium Credits",
@@ -8830,40 +8845,25 @@
           "amount": 10
         },
         {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "USD 99.00",
-          "amount": 99
-        },
-        {
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
-        },
-        {
-          "name": "Creator Annual",
-          "price": "USD 279.00",
-          "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:38.689Z"
+      "fetchedAt": "2026-10-26T08:49:48.347Z"
     },
     "tw": {
       "currency": "TWD",
       "items": [
         {
-          "name": "HeyGen Creator Credit Weekly",
-          "price": "$320.00",
-          "amount": 320
-        },
-        {
           "name": " HeyGen Creator Credit Monthly",
           "price": "$990.00",
           "amount": 990
+        },
+        {
+          "name": "HeyGen Creator Credit Weekly",
+          "price": "$320.00",
+          "amount": 320
         },
         {
           "name": "Creator Monthly",
@@ -8896,9 +8896,9 @@
           "amount": 150
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "$2,990.00",
-          "amount": 2990
+          "name": "150 Premium Credits",
+          "price": "$320.00",
+          "amount": 320
         },
         {
           "name": "Team Monthly",
@@ -8906,7 +8906,7 @@
           "amount": 2990
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:40.025Z"
+      "fetchedAt": "2026-10-26T08:49:49.894Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8922,6 +8922,11 @@
           "amount": 29900
         },
         {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "79,900.00 TZS",
+          "amount": 79900
+        },
+        {
           "name": "Creator Monthly",
           "price": "79,900.00 TZS",
           "amount": 79900
@@ -8930,11 +8935,6 @@
           "name": "Starter Monthly",
           "price": "29,900.00 TZS",
           "amount": 29900
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "79,900.00 TZS",
-          "amount": 79900
         },
         {
           "name": "250 Premium Credits",
@@ -8962,7 +8962,7 @@
           "amount": 1999000
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:41.717Z"
+      "fetchedAt": "2026-10-26T08:49:51.349Z"
     },
     "ua": {
       "currency": "USD",
@@ -8993,19 +8993,14 @@
           "amount": 12
         },
         {
-          "name": "60 Premium Credits",
-          "price": "5,99 USD",
-          "amount": 5.99
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "59,00 USD",
           "amount": 59
         },
         {
-          "name": "150 Premium Credits",
-          "price": "11,99 USD",
-          "amount": 11.99
+          "name": "60 Premium Credits",
+          "price": "5,99 USD",
+          "amount": 5.99
         },
         {
           "name": "250 Premium Credits",
@@ -9013,12 +9008,17 @@
           "amount": 17.99
         },
         {
+          "name": "150 Premium Credits",
+          "price": "11,99 USD",
+          "amount": 11.99
+        },
+        {
           "name": "HeyGen Pro 1500 Credit Monthly",
           "price": "89,00 USD",
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:43.066Z"
+      "fetchedAt": "2026-10-26T08:49:52.791Z"
     },
     "ug": {
       "currency": "USD",
@@ -9029,7 +9029,7 @@
           "amount": 12
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "Creator Monthly",
           "price": "USD 35.00",
           "amount": 35
         },
@@ -9039,7 +9039,7 @@
           "amount": 12
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 35.00",
           "amount": 35
         },
@@ -9074,7 +9074,7 @@
           "amount": 89
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:44.588Z"
+      "fetchedAt": "2026-10-26T08:49:55.110Z"
     },
     "us": {
       "currency": "USD",
@@ -9130,7 +9130,7 @@
           "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:21.948Z"
+      "fetchedAt": "2026-10-26T08:49:55.858Z"
     },
     "uy": {
       "currency": "USD",
@@ -9141,12 +9141,17 @@
           "amount": 10
         },
         {
-          "name": "Creator Monthly",
+          "name": " HeyGen Creator Credit Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
         {
-          "name": " HeyGen Creator Credit Monthly",
+          "name": "250 Premium Credits",
+          "price": "USD 14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Creator Monthly",
           "price": "USD 29.00",
           "amount": 29
         },
@@ -9159,21 +9164,6 @@
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "USD 74.00",
-          "amount": 74
-        },
-        {
-          "name": "250 Premium Credits",
-          "price": "USD 14.99",
-          "amount": 14.99
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 49.00",
-          "amount": 49
         },
         {
           "name": "60 Premium Credits",
@@ -9184,9 +9174,19 @@
           "name": "150 Premium Credits",
           "price": "USD 9.99",
           "amount": 9.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "USD 74.00",
+          "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:47.648Z"
+      "fetchedAt": "2026-10-26T08:49:57.397Z"
     },
     "uz": {
       "currency": "USD",
@@ -9195,11 +9195,6 @@
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "USD 29.00",
-          "amount": 29
         },
         {
           "name": "HeyGen Creator Weekly",
@@ -9212,19 +9207,24 @@
           "amount": 29
         },
         {
+          "name": "Creator Monthly",
+          "price": "USD 29.00",
+          "amount": 29
+        },
+        {
           "name": "Starter Monthly",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "60 Premium Credits",
-          "price": "USD 4.99",
-          "amount": 4.99
-        },
-        {
           "name": "250 Premium Credits",
           "price": "USD 14.99",
           "amount": 14.99
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "USD 4.99",
+          "amount": 4.99
         },
         {
           "name": "150 Premium Credits",
@@ -9242,7 +9242,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:49.015Z"
+      "fetchedAt": "2026-10-26T08:49:58.878Z"
     },
     "vc": {
       "currency": "USD",
@@ -9298,7 +9298,7 @@
           "amount": 279
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:50.514Z"
+      "fetchedAt": "2026-10-26T08:50:00.370Z"
     },
     "ve": {
       "currency": "USD",
@@ -9354,7 +9354,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:52.075Z"
+      "fetchedAt": "2026-10-26T08:50:01.965Z"
     },
     "vg": {
       "currency": "USD",
@@ -9410,7 +9410,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:53.612Z"
+      "fetchedAt": "2026-10-26T08:50:03.336Z"
     },
     "vn": {
       "currency": "VND",
@@ -9441,11 +9441,6 @@
           "amount": 899000
         },
         {
-          "name": "60 Premium Credits",
-          "price": "149.000đ",
-          "amount": 149000
-        },
-        {
           "name": "250 Premium Credits",
           "price": "499.000đ",
           "amount": 499000
@@ -9456,17 +9451,22 @@
           "amount": 1499000
         },
         {
+          "name": "60 Premium Credits",
+          "price": "149.000đ",
+          "amount": 149000
+        },
+        {
           "name": "150 Premium Credits",
           "price": "299.000đ",
           "amount": 299000
         },
         {
-          "name": "HeyGen Pro 2000 Credit Monthly",
-          "price": "2.999.000đ",
-          "amount": 2999000
+          "name": "HeyGen Pro 1500 Credit Monthly",
+          "price": "2.299.000đ",
+          "amount": 2299000
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:55.018Z"
+      "fetchedAt": "2026-10-26T08:50:04.913Z"
     },
     "vu": {
       "currency": "USD",
@@ -9522,7 +9522,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:56.652Z"
+      "fetchedAt": "2026-10-26T08:50:06.390Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9578,7 +9578,7 @@
           "amount": 79
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:58.040Z"
+      "fetchedAt": "2026-10-26T08:50:07.869Z"
     },
     "ye": {
       "currency": "USD",
@@ -9587,6 +9587,11 @@
           "name": "60 Premium Credits",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "250 Premium Credits",
+          "price": "$14.99",
+          "amount": 14.99
         },
         {
           "name": "Creator Monthly",
@@ -9627,14 +9632,9 @@
           "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "$99.00",
           "amount": 99
-        },
-        {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "$74.00",
-          "amount": 74
         }
       ],
-      "fetchedAt": "2026-10-19T08:50:59.636Z"
+      "fetchedAt": "2026-10-26T08:50:09.392Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9660,14 +9660,14 @@
           "amount": 599.99
         },
         {
-          "name": "60 Premium Credits",
-          "price": "R99.99",
-          "amount": 99.99
-        },
-        {
           "name": "Starter Monthly",
           "price": "R199.99",
           "amount": 199.99
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "R99.99",
+          "amount": 99.99
         },
         {
           "name": "250 Premium Credits",
@@ -9675,22 +9675,22 @@
           "amount": 299.99
         },
         {
-          "name": "150 Premium Credits",
-          "price": "R199.99",
-          "amount": 199.99
-        },
-        {
           "name": "HeyGen Pro 1000 Credit Monthly",
           "price": "R999.99",
           "amount": 999.99
         },
         {
-          "name": "Team Monthly",
+          "name": "150 Premium Credits",
+          "price": "R199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "HeyGen Pro 2000 Credit Monthly",
           "price": "R1,999.99",
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-19T08:51:01.084Z"
+      "fetchedAt": "2026-10-26T08:50:10.996Z"
     },
     "zm": {
       "currency": "USD",
@@ -9699,6 +9699,11 @@
           "name": " HeyGen Creator Credit Monthly",
           "price": "USD 35.00",
           "amount": 35
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "USD 59.00",
+          "amount": 59
         },
         {
           "name": "60 Premium Credits",
@@ -9719,11 +9724,6 @@
           "name": "Starter Monthly",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "USD 59.00",
-          "amount": 59
         },
         {
           "name": "HeyGen Pro 2000 Credit Annual",
@@ -9746,20 +9746,30 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T08:51:02.665Z"
+      "fetchedAt": "2026-10-26T08:50:12.352Z"
     },
     "zw": {
       "currency": "USD",
       "items": [
         {
-          "name": "60 Premium Credits",
-          "price": "USD 5.99",
-          "amount": 5.99
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "USD 35.00",
+          "amount": 35
+        },
+        {
+          "name": "Creator Monthly",
+          "price": "USD 35.00",
+          "amount": 35
         },
         {
           "name": "HeyGen Creator Credit Weekly",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "60 Premium Credits",
+          "price": "USD 5.99",
+          "amount": 5.99
         },
         {
           "name": "Starter Monthly",
@@ -9770,16 +9780,6 @@
           "name": "HeyGen Creator Weekly",
           "price": "USD 12.00",
           "amount": 12
-        },
-        {
-          "name": "Creator Monthly",
-          "price": "USD 35.00",
-          "amount": 35
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
-          "price": "USD 35.00",
-          "amount": 35
         },
         {
           "name": "250 Premium Credits",
@@ -9802,7 +9802,7 @@
           "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T08:51:04.065Z"
+      "fetchedAt": "2026-10-26T08:50:13.818Z"
     }
   }
 }

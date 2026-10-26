@@ -2,15 +2,50 @@
   "id": "6740909540",
   "name": "Manus - AI Agent & Automation",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:48.837Z",
+  "fetchedAt": "2026-10-26T09:42:10.863Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
       "items": [
         {
-          "name": "Manus Pro - Monthly",
-          "price": "AED 799.99",
-          "amount": 799.99
+          "name": "Manus Pro",
+          "price": "AED 79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "AED 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "AED 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "AED 69.99",
+          "amount": 69.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "AED 229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "AED 149.99",
+          "amount": 149.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "AED 299.99",
+          "amount": 299.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "AED 399.99",
+          "amount": 399.99
         },
         {
           "name": "2000 Manus Credits",
@@ -18,47 +53,12 @@
           "amount": 79.99
         },
         {
-          "name": "10000 Manus Credits",
-          "price": "AED 399.99",
-          "amount": 399.99
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "AED 149.99",
-          "amount": 149.99
-        },
-        {
-          "name": "20000 Manus Credits",
+          "name": "Manus Pro",
           "price": "AED 799.99",
           "amount": 799.99
-        },
-        {
-          "name": "Manus Plus - Annual",
-          "price": "AED 1,499.99",
-          "amount": 1499.99
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "AED 69.99",
-          "amount": 69.99
-        },
-        {
-          "name": "Manus Basic - Annual",
-          "price": "AED 699.99",
-          "amount": 699.99
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "AED 69.99",
-          "amount": 69.99
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "AED 149.99",
-          "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:15.254Z"
+      "fetchedAt": "2026-10-26T09:37:55.760Z"
     },
     "af": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:16.783Z"
+      "fetchedAt": "2026-10-26T09:37:57.269Z"
     },
     "ag": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:18.328Z"
+      "fetchedAt": "2026-10-26T09:37:58.845Z"
     },
     "ai": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 185.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:19.886Z"
+      "fetchedAt": "2026-10-26T09:38:00.280Z"
     },
     "al": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:21.327Z"
+      "fetchedAt": "2026-10-26T09:38:01.836Z"
     },
     "am": {
       "currency": "USD",
@@ -294,8 +294,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Manus Pro",
@@ -303,14 +308,14 @@
           "amount": 49.99
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 22.00",
           "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "2000 Manus Credits",
@@ -331,14 +336,9 @@
           "name": "Manus Pro",
           "price": "USD 119.00",
           "amount": 119
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 49.00",
-          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:22.782Z"
+      "fetchedAt": "2026-10-26T09:38:03.277Z"
     },
     "ao": {
       "currency": "USD",
@@ -365,8 +365,18 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 60.00",
           "amount": 60
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -382,19 +392,9 @@
           "name": "Manus Pro",
           "price": "USD 80.00",
           "amount": 80
-        },
-        {
-          "name": "Manus Pro - Monthly",
-          "price": "USD 199.00",
-          "amount": 199
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:24.286Z"
+      "fetchedAt": "2026-10-26T09:38:04.927Z"
     },
     "ar": {
       "currency": "USD",
@@ -410,14 +410,14 @@
           "amount": 20
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -435,11 +435,6 @@
           "amount": 80
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 400.00",
-          "amount": 400
-        },
-        {
           "name": "10000 Manus Credits",
           "price": "USD 100.00",
           "amount": 100
@@ -448,9 +443,14 @@
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "2000 Manus Credits",
+          "price": "USD 20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:25.804Z"
+      "fetchedAt": "2026-10-26T09:38:06.424Z"
     },
     "at": {
       "currency": "EUR",
@@ -466,14 +466,14 @@
           "amount": 22
         },
         {
-          "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Plus - Monthly",
@@ -486,27 +486,27 @@
           "amount": 70
         },
         {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
-          "price": "90,00 €",
-          "amount": 90
+          "name": "Manus Plus - Monthly",
+          "price": "45,00 €",
+          "amount": 45
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:27.268Z"
+      "fetchedAt": "2026-10-26T09:38:07.755Z"
     },
     "au": {
       "currency": "AUD",
@@ -542,27 +542,27 @@
           "amount": 29
         },
         {
-          "name": "Manus Pro",
-          "price": "$150.00",
-          "amount": 150
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "$30.00",
           "amount": 30
         },
         {
           "name": "Manus Pro",
-          "price": "$300.00",
-          "amount": 300
+          "price": "$129.00",
+          "amount": 129
         },
         {
           "name": "Manus Pro",
-          "price": "$129.00",
-          "amount": 129
+          "price": "$150.00",
+          "amount": 150
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$300.00",
+          "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:28.841Z"
+      "fetchedAt": "2026-10-26T09:38:09.251Z"
     },
     "az": {
       "currency": "USD",
@@ -579,8 +579,33 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 49.00",
+          "amount": 49
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 70.00",
+          "amount": 70
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
@@ -589,36 +614,11 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 70.00",
-          "amount": 70
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 49.00",
-          "amount": 49
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 22.00",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 250.00",
           "amount": 250
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 22.00",
-          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:30.295Z"
+      "fetchedAt": "2026-10-26T09:38:10.787Z"
     },
     "ba": {
       "currency": "EUR",
@@ -630,23 +630,23 @@
         },
         {
           "name": "Manus Pro",
+          "price": "70,00 €",
+          "amount": 70
+        },
+        {
+          "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
+        },
+        {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Basic - Monthly",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "70,00 €",
-          "amount": 70
         },
         {
           "name": "Cloud Computer",
@@ -674,7 +674,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:31.796Z"
+      "fetchedAt": "2026-10-26T09:38:12.312Z"
     },
     "bb": {
       "currency": "USD",
@@ -730,7 +730,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:33.314Z"
+      "fetchedAt": "2026-10-26T09:38:13.900Z"
     },
     "be": {
       "currency": "EUR",
@@ -756,14 +756,14 @@
           "amount": 45
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
           "name": "Manus Pro",
           "price": "70,00 €",
           "amount": 70
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
@@ -771,7 +771,7 @@
           "amount": 100
         },
         {
-          "name": "2000 Manus Credits",
+          "name": "Manus Pro",
           "price": "22,00 €",
           "amount": 22
         },
@@ -786,7 +786,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:34.793Z"
+      "fetchedAt": "2026-10-26T09:38:15.326Z"
     },
     "bf": {
       "currency": "USD",
@@ -795,6 +795,11 @@
           "name": "Manus Pro",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 400.00",
+          "amount": 400
         },
         {
           "name": "Manus Pro",
@@ -835,14 +840,9 @@
           "name": "Manus Pro",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:36.292Z"
+      "fetchedAt": "2026-10-26T09:38:16.772Z"
     },
     "bg": {
       "currency": "EUR",
@@ -859,8 +859,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "44,99 €",
-          "amount": 44.99
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Basic - Monthly",
@@ -869,8 +869,23 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "44,99 €",
+          "amount": 44.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "99,99 €",
+          "amount": 99.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "449,99 €",
+          "amount": 449.99
         },
         {
           "name": "Manus Pro",
@@ -881,24 +896,9 @@
           "name": "Manus Pro - Monthly",
           "price": "229,00 €",
           "amount": 229
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "449,99 €",
-          "amount": 449.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:37.871Z"
+      "fetchedAt": "2026-10-26T09:38:18.316Z"
     },
     "bh": {
       "currency": "USD",
@@ -910,6 +910,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$40.00",
+          "amount": 40
+        },
+        {
+          "name": "Manus Pro",
           "price": "$39.99",
           "amount": 39.99
         },
@@ -917,11 +922,6 @@
           "name": "Manus Basic - Monthly",
           "price": "$19.00",
           "amount": 19
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$40.00",
-          "amount": 40
         },
         {
           "name": "Manus Plus - Monthly",
@@ -935,6 +935,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
           "price": "$70.00",
           "amount": 70
         },
@@ -944,17 +949,12 @@
           "amount": 200
         },
         {
-          "name": "Manus Pro",
-          "price": "$90.00",
-          "amount": 90
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "$39.00",
           "amount": 39
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:39.286Z"
+      "fetchedAt": "2026-10-26T09:38:19.928Z"
     },
     "bj": {
       "currency": "USD",
@@ -1010,7 +1010,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:40.808Z"
+      "fetchedAt": "2026-10-26T09:38:21.308Z"
     },
     "bm": {
       "currency": "USD",
@@ -1066,20 +1066,20 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:42.303Z"
+      "fetchedAt": "2026-10-26T09:38:22.787Z"
     },
     "bn": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 39.99",
-          "amount": 39.99
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 39.99",
+          "amount": 39.99
         },
         {
           "name": "Manus Plus - Monthly",
@@ -1122,7 +1122,7 @@
           "amount": 120.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:43.796Z"
+      "fetchedAt": "2026-10-26T09:38:24.283Z"
     },
     "bo": {
       "currency": "USD",
@@ -1178,7 +1178,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:45.340Z"
+      "fetchedAt": "2026-10-26T09:38:25.901Z"
     },
     "br": {
       "currency": "BRL",
@@ -1234,20 +1234,15 @@
           "amount": 1299.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:46.786Z"
+      "fetchedAt": "2026-10-26T09:38:27.289Z"
     },
     "bs": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 70.00",
-          "amount": 70
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -1256,13 +1251,18 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 90.00",
-          "amount": 90
+          "price": "USD 70.00",
+          "amount": 70
         },
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 90.00",
+          "amount": 90
         },
         {
           "name": "Manus Basic - Monthly",
@@ -1290,7 +1290,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:48.306Z"
+      "fetchedAt": "2026-10-26T09:38:28.769Z"
     },
     "bt": {
       "currency": "USD",
@@ -1346,21 +1346,11 @@
           "amount": 185.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:49.834Z"
+      "fetchedAt": "2026-10-26T09:38:30.259Z"
     },
     "bw": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
         {
           "name": "Manus Pro",
           "price": "USD 60.00",
@@ -1373,18 +1363,28 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
         },
         {
           "name": "Manus Pro - Monthly",
@@ -1402,7 +1402,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:51.259Z"
+      "fetchedAt": "2026-10-26T09:38:31.850Z"
     },
     "by": {
       "available": false,
@@ -1462,7 +1462,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:52.790Z"
+      "fetchedAt": "2026-10-26T09:38:33.384Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1488,19 +1488,14 @@
           "amount": 25
         },
         {
-          "name": "Manus Pro",
-          "price": "$80.00",
-          "amount": 80
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "$49.00",
           "amount": 49
         },
         {
           "name": "Manus Pro",
-          "price": "$129.00",
-          "amount": 129
+          "price": "$80.00",
+          "amount": 80
         },
         {
           "name": "Manus Pro",
@@ -1514,11 +1509,16 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$129.00",
+          "amount": 129
+        },
+        {
+          "name": "Manus Pro",
           "price": "$249.00",
           "amount": 249
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:54.371Z"
+      "fetchedAt": "2026-10-26T09:38:34.782Z"
     },
     "cd": {
       "currency": "USD",
@@ -1539,24 +1539,24 @@
           "amount": 19
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
         },
         {
           "name": "Manus Pro",
-          "price": "USD 59.99",
-          "amount": 59.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 59.99",
+          "amount": 59.99
         },
         {
           "name": "Manus Plus - Monthly",
@@ -1574,7 +1574,7 @@
           "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:55.801Z"
+      "fetchedAt": "2026-10-26T09:38:36.277Z"
     },
     "cg": {
       "currency": "USD",
@@ -1630,7 +1630,7 @@
           "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:57.366Z"
+      "fetchedAt": "2026-10-26T09:38:37.841Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1666,27 +1666,27 @@
           "amount": 50
         },
         {
+          "name": "Manus Pro",
+          "price": "CHF 70.00",
+          "amount": 70
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "CHF 18.00",
           "amount": 18
         },
         {
           "name": "Manus Pro",
-          "price": "CHF 70.00",
-          "amount": 70
+          "price": "CHF 90.00",
+          "amount": 90
         },
         {
           "name": "Manus Pro",
           "price": "CHF 250.00",
           "amount": 250
-        },
-        {
-          "name": "Manus Pro",
-          "price": "CHF 90.00",
-          "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:38:58.777Z"
+      "fetchedAt": "2026-10-26T09:38:39.321Z"
     },
     "ci": {
       "currency": "USD",
@@ -1702,19 +1702,9 @@
           "amount": 50
         },
         {
-          "name": "Manus Pro",
-          "price": "70,00 $US",
-          "amount": 70
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "22,00 $US",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "400,00 $US",
-          "amount": 400
         },
         {
           "name": "Manus Pro",
@@ -1722,9 +1712,19 @@
           "amount": 49.99
         },
         {
+          "name": "Manus Pro",
+          "price": "70,00 $US",
+          "amount": 70
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "49,00 $US",
           "amount": 49
+        },
+        {
+          "name": "Manus Pro",
+          "price": "400,00 $US",
+          "amount": 400
         },
         {
           "name": "2000 Manus Credits",
@@ -1742,7 +1742,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:00.300Z"
+      "fetchedAt": "2026-10-26T09:38:40.810Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1763,24 +1763,9 @@
           "amount": 19990
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$39.990",
-          "amount": 39990
-        },
-        {
           "name": "Manus Pro",
           "price": "$49.990",
           "amount": 49990
-        },
-        {
-          "name": "2000 Manus Credits",
-          "price": "$22.990",
-          "amount": 22990
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$69.990",
-          "amount": 69990
         },
         {
           "name": "Manus Plus - Monthly",
@@ -1793,12 +1778,27 @@
           "amount": 99990
         },
         {
-          "name": "Manus Pro",
+          "name": "2000 Manus Credits",
           "price": "$22.990",
           "amount": 22990
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "$39.990",
+          "amount": 39990
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$69.990",
+          "amount": 69990
+        },
+        {
+          "name": "10000 Manus Credits",
+          "price": "$99.990",
+          "amount": 99990
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:01.777Z"
+      "fetchedAt": "2026-10-26T09:38:42.391Z"
     },
     "cm": {
       "currency": "USD",
@@ -1824,11 +1824,6 @@
           "amount": 22
         },
         {
-          "name": "Manus Pro",
-          "price": "70,00 $US",
-          "amount": 70
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "25,00 $US",
           "amount": 25
@@ -1844,6 +1839,11 @@
           "amount": 119
         },
         {
+          "name": "Manus Pro",
+          "price": "70,00 $US",
+          "amount": 70
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "22,00 $US",
           "amount": 22
@@ -1854,7 +1854,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:03.308Z"
+      "fetchedAt": "2026-10-26T09:38:43.801Z"
     },
     "cn": {
       "available": false,
@@ -1874,14 +1874,19 @@
           "amount": 99900
         },
         {
+          "name": "Manus Pro",
+          "price": "$ 199.900,00",
+          "amount": 199900
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "$ 89.900,00",
           "amount": 89900
         },
         {
           "name": "Manus Pro",
-          "price": "$ 199.900,00",
-          "amount": 199900
+          "price": "$ 1.299.900,00",
+          "amount": 1299900
         },
         {
           "name": "2000 Manus Credits",
@@ -1894,14 +1899,9 @@
           "amount": 199900
         },
         {
-          "name": "Manus Pro",
-          "price": "$ 299.900,00",
-          "amount": 299900
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$ 99.900,00",
-          "amount": 99900
+          "name": "Manus Plus - Monthly",
+          "price": "$ 199.900,00",
+          "amount": 199900
         },
         {
           "name": "Manus Pro",
@@ -1914,7 +1914,7 @@
           "amount": 399900
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:04.797Z"
+      "fetchedAt": "2026-10-26T09:38:45.366Z"
     },
     "cr": {
       "currency": "USD",
@@ -1926,18 +1926,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 20.00",
           "amount": 20
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Plus - Monthly",
@@ -1945,14 +1940,14 @@
           "amount": 39
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -1966,11 +1961,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:06.294Z"
+      "fetchedAt": "2026-10-26T09:38:46.921Z"
     },
     "cv": {
       "currency": "USD",
@@ -2026,16 +2026,11 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:07.748Z"
+      "fetchedAt": "2026-10-26T09:38:48.285Z"
     },
     "cy": {
       "currency": "EUR",
       "items": [
-        {
-          "name": "Manus Pro",
-          "price": "44,99 €",
-          "amount": 44.99
-        },
         {
           "name": "Manus Basic - Monthly",
           "price": "22,00 €",
@@ -2043,13 +2038,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
-          "name": "2000 Manus Credits",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Plus - Monthly",
@@ -2057,14 +2052,24 @@
           "amount": 45
         },
         {
-          "name": "10000 Manus Credits",
+          "name": "Manus Pro",
           "price": "100,00 €",
           "amount": 100
         },
         {
-          "name": "Manus Pro",
+          "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "90,00 €",
+          "amount": 90
+        },
+        {
+          "name": "10000 Manus Credits",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -2075,14 +2080,9 @@
           "name": "Manus Pro",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "349,00 €",
-          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:09.307Z"
+      "fetchedAt": "2026-10-26T09:38:49.745Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2098,24 +2098,29 @@
           "amount": 499
         },
         {
+          "name": "Manus Pro",
+          "price": "999,00 Kč",
+          "amount": 999
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "999,00 Kč",
           "amount": 999
         },
         {
           "name": "Manus Pro",
+          "price": "9 990,00 Kč",
+          "amount": 9990
+        },
+        {
+          "name": "Manus Pro",
+          "price": "499,00 Kč",
+          "amount": 499
+        },
+        {
+          "name": "Manus Pro",
           "price": "999,00 Kč",
           "amount": 999
-        },
-        {
-          "name": "Manus Pro",
-          "price": "1 490,00 Kč",
-          "amount": 1490
-        },
-        {
-          "name": "Manus Pro",
-          "price": "2 790,00 Kč",
-          "amount": 2790
         },
         {
           "name": "Manus Basic - Monthly",
@@ -2124,21 +2129,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "1 990,00 Kč",
-          "amount": 1990
+          "price": "1 490,00 Kč",
+          "amount": 1490
         },
         {
           "name": "Manus Pro",
-          "price": "4 990,00 Kč",
-          "amount": 4990
-        },
-        {
-          "name": "2000 Manus Credits",
-          "price": "499,00 Kč",
-          "amount": 499
+          "price": "1 990,00 Kč",
+          "amount": 1990
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:10.760Z"
+      "fetchedAt": "2026-10-26T09:38:51.278Z"
     },
     "de": {
       "currency": "EUR",
@@ -2169,14 +2169,14 @@
           "amount": 45
         },
         {
-          "name": "Manus Pro",
-          "price": "70,00 €",
-          "amount": 70
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "70,00 €",
+          "amount": 70
         },
         {
           "name": "10000 Manus Credits",
@@ -2185,16 +2185,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:12.283Z"
+      "fetchedAt": "2026-10-26T09:38:52.837Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2206,8 +2206,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "179,00 kr",
-          "amount": 179
+          "price": "349,00 kr",
+          "amount": 349
         },
         {
           "name": "Manus Basic - Monthly",
@@ -2216,13 +2216,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "349,00 kr",
-          "amount": 349
+          "price": "179,00 kr",
+          "amount": 179
         },
         {
           "name": "Manus Pro",
-          "price": "499,00 kr",
-          "amount": 499
+          "price": "179,00 kr",
+          "amount": 179
         },
         {
           "name": "2000 Manus Credits",
@@ -2230,6 +2230,11 @@
           "amount": 179
         },
         {
+          "name": "Manus Pro",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "349,00 kr",
           "amount": 349
@@ -2241,16 +2246,11 @@
         },
         {
           "name": "Manus Pro",
-          "price": "899,00 kr",
-          "amount": 899
-        },
-        {
-          "name": "Manus Pro",
-          "price": "179,00 kr",
-          "amount": 179
+          "price": "699,00 kr",
+          "amount": 699
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:13.831Z"
+      "fetchedAt": "2026-10-26T09:38:54.436Z"
     },
     "dm": {
       "currency": "USD",
@@ -2306,20 +2306,20 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:15.296Z"
+      "fetchedAt": "2026-10-26T09:38:55.895Z"
     },
     "do": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -2337,19 +2337,14 @@
           "amount": 39
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "Manus Pro",
@@ -2358,11 +2353,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 500.00",
-          "amount": 500
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 400.00",
+          "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:16.780Z"
+      "fetchedAt": "2026-10-26T09:38:57.401Z"
     },
     "dz": {
       "currency": "USD",
@@ -2373,14 +2373,19 @@
           "amount": 40
         },
         {
-          "name": "Manus Pro",
-          "price": "$20.00",
-          "amount": 20
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "$19.00",
           "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "2000 Manus Credits",
@@ -2411,14 +2416,9 @@
           "name": "Manus Pro - Monthly",
           "price": "$199.00",
           "amount": 199
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "$414.99",
-          "amount": 414.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:18.275Z"
+      "fetchedAt": "2026-10-26T09:38:58.763Z"
     },
     "ec": {
       "currency": "USD",
@@ -2444,19 +2444,19 @@
           "amount": 60
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
         },
         {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "Manus Plus - Monthly",
@@ -2474,20 +2474,20 @@
           "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:19.808Z"
+      "fetchedAt": "2026-10-26T09:39:00.413Z"
     },
     "ee": {
       "currency": "EUR",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "44,99 €",
-          "amount": 44.99
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "Manus Basic - Monthly",
@@ -2496,8 +2496,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
@@ -2530,7 +2530,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:21.357Z"
+      "fetchedAt": "2026-10-26T09:39:01.754Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2557,18 +2557,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "EGP 2,999.99",
-          "amount": 2999.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "EGP 3,999.99",
-          "amount": 3999.99
-        },
-        {
-          "name": "Manus Pro",
           "price": "EGP 1,999.99",
           "amount": 1999.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "EGP 2,999.99",
+          "amount": 2999.99
         },
         {
           "name": "2000 Manus Credits",
@@ -2582,11 +2577,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "EGP 14,999.99",
-          "amount": 14999.99
+          "price": "EGP 9,999.99",
+          "amount": 9999.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "EGP 3,999.99",
+          "amount": 3999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:22.719Z"
+      "fetchedAt": "2026-10-26T09:39:03.298Z"
     },
     "es": {
       "currency": "EUR",
@@ -2628,6 +2628,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "90,00 €",
+          "amount": 90
+        },
+        {
+          "name": "Manus Pro",
           "price": "100,00 €",
           "amount": 100
         },
@@ -2635,14 +2640,9 @@
           "name": "Manus Pro",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "90,00 €",
-          "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:24.306Z"
+      "fetchedAt": "2026-10-26T09:39:04.826Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2658,12 +2658,12 @@
           "amount": 22
         },
         {
-          "name": "Manus Plus - Monthly",
+          "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
         },
         {
-          "name": "Manus Pro",
+          "name": "Manus Plus - Monthly",
           "price": "45,00 €",
           "amount": 45
         },
@@ -2674,11 +2674,6 @@
         },
         {
           "name": "2000 Manus Credits",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
           "price": "22,00 €",
           "amount": 22
         },
@@ -2696,9 +2691,14 @@
           "name": "Manus Pro - Monthly",
           "price": "229,00 €",
           "amount": 229
+        },
+        {
+          "name": "Manus Pro",
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:25.769Z"
+      "fetchedAt": "2026-10-26T09:39:06.291Z"
     },
     "fj": {
       "currency": "USD",
@@ -2754,7 +2754,7 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:27.296Z"
+      "fetchedAt": "2026-10-26T09:39:07.805Z"
     },
     "fm": {
       "currency": "USD",
@@ -2810,7 +2810,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:28.847Z"
+      "fetchedAt": "2026-10-26T09:39:09.244Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2852,21 +2852,21 @@
         },
         {
           "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Manus Pro",
           "price": "100,00 €",
           "amount": 100
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "45,00 €",
-          "amount": 45
+          "price": "349,00 €",
+          "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:30.357Z"
+      "fetchedAt": "2026-10-26T09:39:10.866Z"
     },
     "ga": {
       "currency": "USD",
@@ -2922,7 +2922,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:31.822Z"
+      "fetchedAt": "2026-10-26T09:39:12.352Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2938,14 +2938,14 @@
           "amount": 20
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "£19.00",
-          "amount": 19
-        },
-        {
           "name": "Manus Pro",
           "price": "£40.00",
           "amount": 40
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "£19.00",
+          "amount": 19
         },
         {
           "name": "Manus Plus - Monthly",
@@ -2964,8 +2964,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "£20.00",
-          "amount": 20
+          "price": "£200.00",
+          "amount": 200
         },
         {
           "name": "Manus Pro",
@@ -2978,7 +2978,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:33.293Z"
+      "fetchedAt": "2026-10-26T09:39:13.801Z"
     },
     "gd": {
       "currency": "USD",
@@ -3034,7 +3034,7 @@
           "amount": 185.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:34.827Z"
+      "fetchedAt": "2026-10-26T09:39:15.282Z"
     },
     "ge": {
       "currency": "USD",
@@ -3046,13 +3046,18 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 70.00",
           "amount": 70
         },
         {
           "name": "Manus Pro",
-          "price": "USD 50.00",
-          "amount": 50
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -3083,14 +3088,9 @@
           "name": "Manus Basic - Monthly",
           "price": "USD 22.00",
           "amount": 22
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 49.00",
-          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:36.351Z"
+      "fetchedAt": "2026-10-26T09:39:16.855Z"
     },
     "gh": {
       "currency": "USD",
@@ -3107,16 +3107,6 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 250.00",
-          "amount": 250
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 119.00",
           "amount": 119
         },
@@ -3126,14 +3116,24 @@
           "amount": 22
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
           "name": "Manus Pro - Monthly",
           "price": "USD 229.00",
           "amount": 229
         },
         {
           "name": "Manus Pro",
-          "price": "USD 49.99",
-          "amount": 49.99
+          "price": "USD 250.00",
+          "amount": 250
         },
         {
           "name": "2000 Manus Credits",
@@ -3146,7 +3146,7 @@
           "amount": 70
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:37.803Z"
+      "fetchedAt": "2026-10-26T09:39:18.307Z"
     },
     "gm": {
       "currency": "USD",
@@ -3202,7 +3202,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:39.393Z"
+      "fetchedAt": "2026-10-26T09:39:19.849Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3214,13 +3214,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Basic - Monthly",
@@ -3234,13 +3234,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "2.299,99 €",
-          "amount": 2299.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "2.299,99 €",
-          "amount": 2299.99
+          "price": "449,00 €",
+          "amount": 449
         },
         {
           "name": "2000 Manus Credits",
@@ -3249,29 +3244,34 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "229,00 €",
+          "amount": 229
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
-          "price": "70,00 €",
-          "amount": 70
+          "price": "2.299,99 €",
+          "amount": 2299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:40.809Z"
+      "fetchedAt": "2026-10-26T09:39:21.282Z"
     },
     "gt": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -3284,14 +3284,14 @@
           "amount": 19
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 1,000.00",
-          "amount": 1000
         },
         {
           "name": "Manus Pro - Monthly",
@@ -3300,21 +3300,21 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
         },
         {
           "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
+          "price": "USD 1,000.00",
+          "amount": 1000
+        },
+        {
+          "name": "2000 Manus Credits",
+          "price": "USD 20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:42.371Z"
+      "fetchedAt": "2026-10-26T09:39:22.917Z"
     },
     "gw": {
       "currency": "USD",
@@ -3370,7 +3370,7 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:43.907Z"
+      "fetchedAt": "2026-10-26T09:39:24.276Z"
     },
     "gy": {
       "currency": "USD",
@@ -3426,7 +3426,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:45.426Z"
+      "fetchedAt": "2026-10-26T09:39:25.815Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3482,11 +3482,16 @@
           "amount": 2888
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:46.770Z"
+      "fetchedAt": "2026-10-26T09:39:27.292Z"
     },
     "hn": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
         {
           "name": "Manus Pro",
           "price": "USD 40.00",
@@ -3494,13 +3499,23 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "2000 Manus Credits",
@@ -3518,27 +3533,12 @@
           "amount": 39.99
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:48.383Z"
+      "fetchedAt": "2026-10-26T09:39:28.886Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3550,28 +3550,28 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "349,00 €",
-          "amount": 349
-        },
-        {
-          "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
         },
         {
           "name": "Manus Pro",
-          "price": "229,00 €",
-          "amount": 229
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
           "price": "70,00 €",
           "amount": 70
+        },
+        {
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro - Monthly",
@@ -3584,17 +3584,17 @@
           "amount": 45
         },
         {
-          "name": "2000 Manus Credits",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Manus Pro",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "22,00 €",
-          "amount": 22
+          "name": "Manus Pro",
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:49.752Z"
+      "fetchedAt": "2026-10-26T09:39:30.318Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3606,23 +3606,18 @@
         },
         {
           "name": "Manus Pro",
-          "price": "HUF17,990.00",
-          "amount": 17990
+          "price": "HUF8,990.00",
+          "amount": 8990
         },
         {
           "name": "Manus Pro",
-          "price": "HUF8,990.00",
-          "amount": 8990
+          "price": "HUF17,990.00",
+          "amount": 17990
         },
         {
           "name": "Manus Basic - Monthly",
           "price": "HUF8,990.00",
           "amount": 8990
-        },
-        {
-          "name": "Manus Pro",
-          "price": "HUF17,990.00",
-          "amount": 17990
         },
         {
           "name": "Manus Pro",
@@ -3646,11 +3641,16 @@
         },
         {
           "name": "Manus Pro",
+          "price": "HUF24,990.00",
+          "amount": 24990
+        },
+        {
+          "name": "Manus Pro",
           "price": "HUF17,990.00",
           "amount": 17990
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:51.283Z"
+      "fetchedAt": "2026-10-26T09:39:31.935Z"
     },
     "id": {
       "currency": "IDR",
@@ -3687,26 +3687,26 @@
         },
         {
           "name": "Manus Pro",
+          "price": "Rp 1,499juta",
+          "amount": 1499
+        },
+        {
+          "name": "Manus Pro",
           "price": "Rp 1,999juta",
           "amount": 1999
         },
         {
           "name": "Manus Pro",
+          "price": "Rp 399ribu",
+          "amount": 399
+        },
+        {
+          "name": "Manus Pro",
           "price": "Rp 799ribu",
           "amount": 799
-        },
-        {
-          "name": "Manus Pro",
-          "price": "Rp 5,999juta",
-          "amount": 5999
-        },
-        {
-          "name": "Manus Pro",
-          "price": "Rp 3,999juta",
-          "amount": 3999
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:52.942Z"
+      "fetchedAt": "2026-10-26T09:39:33.252Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3722,24 +3722,19 @@
           "amount": 22
         },
         {
-          "name": "Manus Pro",
-          "price": "€45.00",
-          "amount": 45
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "€22.00",
           "amount": 22
         },
         {
           "name": "Manus Pro",
-          "price": "€70.00",
-          "amount": 70
+          "price": "€45.00",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
-          "price": "€22.00",
-          "amount": 22
+          "price": "€70.00",
+          "amount": 70
         },
         {
           "name": "Manus Plus - Monthly",
@@ -3748,8 +3743,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "€229.00",
-          "amount": 229
+          "price": "€22.00",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
@@ -3757,12 +3752,17 @@
           "amount": 100
         },
         {
+          "name": "2000 Manus Credits",
+          "price": "€22.00",
+          "amount": 22
+        },
+        {
           "name": "Manus Pro",
-          "price": "€349.00",
-          "amount": 349
+          "price": "€229.00",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:54.259Z"
+      "fetchedAt": "2026-10-26T09:39:34.761Z"
     },
     "il": {
       "currency": "ILS",
@@ -3783,14 +3783,14 @@
           "amount": 119.9
         },
         {
-          "name": "Manus Pro",
-          "price": "₪199.90",
-          "amount": 199.9
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "₪59.90",
           "amount": 59.9
+        },
+        {
+          "name": "Manus Pro",
+          "price": "₪199.90",
+          "amount": 199.9
         },
         {
           "name": "Manus Plus - Monthly",
@@ -3814,11 +3814,11 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₪599.90",
-          "amount": 599.9
+          "price": "₪1,199.90",
+          "amount": 1199.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:55.857Z"
+      "fetchedAt": "2026-10-26T09:39:36.350Z"
     },
     "in": {
       "currency": "INR",
@@ -3860,21 +3860,21 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₹ 7,900",
-          "amount": 7900
-        },
-        {
-          "name": "Manus Pro",
           "price": "₹ 9,900",
           "amount": 9900
         },
         {
           "name": "Manus Pro",
-          "price": "₹ 19,900",
-          "amount": 19900
+          "price": "₹ 7,900",
+          "amount": 7900
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "₹ 1,999",
+          "amount": 1999
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:57.311Z"
+      "fetchedAt": "2026-10-26T09:39:37.814Z"
     },
     "iq": {
       "currency": "USD",
@@ -3893,6 +3893,11 @@
           "name": "Manus Basic - Monthly",
           "price": "$19.00",
           "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$80.00",
+          "amount": 80
         },
         {
           "name": "Manus Pro",
@@ -3915,22 +3920,17 @@
           "amount": 39.99
         },
         {
-          "name": "Manus Pro",
-          "price": "$400.00",
-          "amount": 400
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$200.00",
-          "amount": 200
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "$39.00",
           "amount": 39
+        },
+        {
+          "name": "Manus Pro - Monthly",
+          "price": "$199.00",
+          "amount": 199
         }
       ],
-      "fetchedAt": "2026-10-19T09:39:58.826Z"
+      "fetchedAt": "2026-10-26T09:39:39.301Z"
     },
     "is": {
       "currency": "USD",
@@ -3939,11 +3939,6 @@
           "name": "Manus Pro",
           "price": "USD 49.99",
           "amount": 49.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 25.00",
-          "amount": 25
         },
         {
           "name": "Manus Basic - Monthly",
@@ -3966,6 +3961,11 @@
           "amount": 100
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "USD 49.00",
           "amount": 49
@@ -3986,7 +3986,7 @@
           "amount": 70
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:00.281Z"
+      "fetchedAt": "2026-10-26T09:39:40.820Z"
     },
     "it": {
       "currency": "EUR",
@@ -4028,77 +4028,77 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
           "price": "90,00 €",
           "amount": 90
+        },
+        {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:01.845Z"
+      "fetchedAt": "2026-10-26T09:39:42.271Z"
     },
     "jm": {
       "currency": "USD",
       "items": [
         {
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "2000 Manus Credits",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
           "name": "Cloud Computer",
           "price": "USD 414.99",
           "amount": 414.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 479.00",
-          "amount": 479
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 390.00",
-          "amount": 390
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 229.99",
-          "amount": 229.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 165.99",
-          "amount": 165.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 142.99",
-          "amount": 142.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 120.99",
-          "amount": 120.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 116.99",
-          "amount": 116.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 185.99",
-          "amount": 185.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 97.90",
-          "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:03.569Z"
+      "fetchedAt": "2026-10-26T09:39:43.934Z"
     },
     "jo": {
       "currency": "USD",
@@ -4139,14 +4139,14 @@
           "amount": 60
         },
         {
-          "name": "Manus Pro",
-          "price": "$200.00",
-          "amount": 200
+          "name": "Manus Basic - Monthly",
+          "price": "$19.00",
+          "amount": 19
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$39.00",
-          "amount": 39
+          "name": "Manus Pro",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -4154,7 +4154,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:04.853Z"
+      "fetchedAt": "2026-10-26T09:39:45.289Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4200,17 +4200,17 @@
           "amount": 3000
         },
         {
-          "name": "2000 Manus Credits",
+          "name": "Manus Pro",
           "price": "¥3,000",
           "amount": 3000
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "¥6,000",
-          "amount": 6000
+          "name": "Manus Pro",
+          "price": "¥15,000",
+          "amount": 15000
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:06.270Z"
+      "fetchedAt": "2026-10-26T09:39:46.780Z"
     },
     "ke": {
       "currency": "USD",
@@ -4236,19 +4236,19 @@
           "amount": 50
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 70.00",
+          "amount": 70
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "USD 49.00",
           "amount": 49
         },
         {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 250.00",
-          "amount": 250
+          "price": "USD 119.00",
+          "amount": 119
         },
         {
           "name": "2000 Manus Credits",
@@ -4257,29 +4257,29 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 70.00",
-          "amount": 70
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 119.00",
-          "amount": 119
+          "name": "Manus Plus - Monthly",
+          "price": "USD 49.00",
+          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:07.826Z"
+      "fetchedAt": "2026-10-26T09:39:48.330Z"
     },
     "kg": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
-          "price": "USD 22.00",
-          "amount": 22
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -4290,6 +4290,11 @@
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 70.00",
+          "amount": 70
         },
         {
           "name": "Manus Pro",
@@ -4315,14 +4320,9 @@
           "name": "Manus Pro",
           "price": "USD 200.00",
           "amount": 200
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 70.00",
-          "amount": 70
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:09.601Z"
+      "fetchedAt": "2026-10-26T09:39:49.933Z"
     },
     "kh": {
       "currency": "USD",
@@ -4344,13 +4344,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 90.00",
-          "amount": 90
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Manus Pro",
@@ -4369,8 +4364,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 300.00",
-          "amount": 300
+          "price": "USD 90.00",
+          "amount": 90
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "10000 Manus Credits",
@@ -4378,7 +4378,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:10.837Z"
+      "fetchedAt": "2026-10-26T09:39:51.335Z"
     },
     "kn": {
       "currency": "USD",
@@ -4434,7 +4434,7 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:12.322Z"
+      "fetchedAt": "2026-10-26T09:39:52.836Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4455,24 +4455,9 @@
           "amount": 66000
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "￦33,000",
-          "amount": 33000
-        },
-        {
           "name": "Manus Pro",
           "price": "￦99,000",
           "amount": 99000
-        },
-        {
-          "name": "Manus Pro",
-          "price": "￦149,000",
-          "amount": 149000
-        },
-        {
-          "name": "Manus Pro",
-          "price": "￦349,000",
-          "amount": 349000
         },
         {
           "name": "Manus Pro",
@@ -4480,9 +4465,24 @@
           "amount": 129000
         },
         {
+          "name": "Manus Basic - Monthly",
+          "price": "￦33,000",
+          "amount": 33000
+        },
+        {
+          "name": "Manus Pro",
+          "price": "￦149,000",
+          "amount": 149000
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "￦33,000",
           "amount": 33000
+        },
+        {
+          "name": "Manus Pro",
+          "price": "￦349,000",
+          "amount": 349000
         },
         {
           "name": "Manus Plus - Monthly",
@@ -4490,7 +4490,7 @@
           "amount": 66000
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:14.031Z"
+      "fetchedAt": "2026-10-26T09:39:54.280Z"
     },
     "kw": {
       "currency": "USD",
@@ -4521,14 +4521,14 @@
           "amount": 19
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
           "name": "Manus Pro",
           "price": "$80.00",
           "amount": 80
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "$39.00",
+          "amount": 39
         },
         {
           "name": "2000 Manus Credits",
@@ -4536,17 +4536,17 @@
           "amount": 20
         },
         {
-          "name": "Manus Pro",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "$39.00",
           "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$100.00",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:15.444Z"
+      "fetchedAt": "2026-10-26T09:39:55.782Z"
     },
     "ky": {
       "currency": "USD",
@@ -4602,7 +4602,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:16.796Z"
+      "fetchedAt": "2026-10-26T09:39:57.277Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4639,6 +4639,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "22,990.00₸",
+          "amount": 22990
+        },
+        {
+          "name": "Manus Pro",
           "price": "49,990.00₸",
           "amount": 49990
         },
@@ -4651,14 +4656,9 @@
           "name": "2000 Manus Credits",
           "price": "11,990.00₸",
           "amount": 11990
-        },
-        {
-          "name": "Manus Pro",
-          "price": "119,990.00₸",
-          "amount": 119990
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:18.245Z"
+      "fetchedAt": "2026-10-26T09:39:58.757Z"
     },
     "la": {
       "currency": "USD",
@@ -4674,14 +4674,14 @@
           "amount": 40
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Manus Plus - Monthly",
@@ -4714,7 +4714,7 @@
           "amount": 249.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:19.781Z"
+      "fetchedAt": "2026-10-26T09:40:00.289Z"
     },
     "lb": {
       "currency": "USD",
@@ -4726,23 +4726,23 @@
         },
         {
           "name": "Manus Pro",
-          "price": "$39.99",
-          "amount": 39.99
-        },
-        {
-          "name": "Manus Pro",
           "price": "$40.00",
           "amount": 40
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "$19.00",
-          "amount": 19
+          "name": "Manus Pro",
+          "price": "$39.99",
+          "amount": 39.99
         },
         {
           "name": "Manus Plus - Monthly",
           "price": "$39.00",
           "amount": 39
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "$19.00",
+          "amount": 19
         },
         {
           "name": "2000 Manus Credits",
@@ -4751,26 +4751,26 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$500.00",
+          "amount": 500
+        },
+        {
+          "name": "Manus Pro",
           "price": "$60.00",
           "amount": 60
         },
         {
           "name": "Manus Pro",
-          "price": "$80.00",
-          "amount": 80
+          "price": "$200.00",
+          "amount": 200
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
-          "name": "10000 Manus Credits",
-          "price": "$100.00",
-          "amount": 100
+          "name": "Manus Pro",
+          "price": "$20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:21.299Z"
+      "fetchedAt": "2026-10-26T09:40:01.844Z"
     },
     "lc": {
       "currency": "USD",
@@ -4826,7 +4826,7 @@
           "amount": 185.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:22.788Z"
+      "fetchedAt": "2026-10-26T09:40:03.348Z"
     },
     "lk": {
       "currency": "USD",
@@ -4845,6 +4845,11 @@
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "Manus Plus - Monthly",
@@ -4872,17 +4877,12 @@
           "amount": 100
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:24.270Z"
+      "fetchedAt": "2026-10-26T09:40:04.800Z"
     },
     "lr": {
       "currency": "USD",
@@ -4938,7 +4938,7 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:25.902Z"
+      "fetchedAt": "2026-10-26T09:40:06.386Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4994,7 +4994,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:27.273Z"
+      "fetchedAt": "2026-10-26T09:40:07.804Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5010,6 +5010,11 @@
           "amount": 44.99
         },
         {
+          "name": "Manus Pro",
+          "price": "70,00 €",
+          "amount": 70
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "45,00 €",
           "amount": 45
@@ -5023,16 +5028,6 @@
           "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
-        },
-        {
-          "name": "Manus Pro",
-          "price": "70,00 €",
-          "amount": 70
-        },
-        {
-          "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
         },
         {
           "name": "Manus Pro",
@@ -5048,9 +5043,14 @@
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "229,00 €",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:28.842Z"
+      "fetchedAt": "2026-10-26T09:40:09.300Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5062,13 +5062,23 @@
         },
         {
           "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
+          "name": "Manus Pro",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Manus Basic - Monthly",
@@ -5079,11 +5089,6 @@
           "name": "Manus Plus - Monthly",
           "price": "45,00 €",
           "amount": 45
-        },
-        {
-          "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
         },
         {
           "name": "Manus Pro",
@@ -5099,14 +5104,9 @@
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "90,00 €",
-          "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:30.262Z"
+      "fetchedAt": "2026-10-26T09:40:10.839Z"
     },
     "ly": {
       "currency": "USD",
@@ -5118,18 +5118,18 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$500.00",
+          "amount": 500
+        },
+        {
+          "name": "Manus Pro - Monthly",
+          "price": "$199.00",
+          "amount": 199
+        },
+        {
+          "name": "Manus Pro",
           "price": "$20.00",
           "amount": 20
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$60.00",
-          "amount": 60
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$80.00",
-          "amount": 80
         },
         {
           "name": "Manus Basic - Monthly",
@@ -5137,9 +5137,9 @@
           "amount": 19
         },
         {
-          "name": "Manus Pro - Monthly",
-          "price": "$199.00",
-          "amount": 199
+          "name": "Manus Pro",
+          "price": "$60.00",
+          "amount": 60
         },
         {
           "name": "Manus Basic - Monthly",
@@ -5157,12 +5157,12 @@
           "amount": 20
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$39.00",
-          "amount": 39
+          "name": "Manus Pro",
+          "price": "$80.00",
+          "amount": 80
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:31.786Z"
+      "fetchedAt": "2026-10-26T09:40:12.346Z"
     },
     "ma": {
       "currency": "USD",
@@ -5203,9 +5203,9 @@
           "amount": 49.99
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$49.00",
-          "amount": 49
+          "name": "Manus Pro - Monthly",
+          "price": "$229.00",
+          "amount": 229
         },
         {
           "name": "Manus Pro",
@@ -5213,12 +5213,12 @@
           "amount": 25
         },
         {
-          "name": "Manus Pro - Monthly",
-          "price": "$229.00",
-          "amount": 229
+          "name": "Manus Plus - Monthly",
+          "price": "$49.00",
+          "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:33.278Z"
+      "fetchedAt": "2026-10-26T09:40:13.788Z"
     },
     "md": {
       "currency": "USD",
@@ -5274,7 +5274,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:34.829Z"
+      "fetchedAt": "2026-10-26T09:40:15.291Z"
     },
     "me": {
       "currency": "EUR",
@@ -5286,13 +5286,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "40,00 €",
-          "amount": 40
+          "price": "39,99 €",
+          "amount": 39.99
         },
         {
           "name": "Manus Pro",
-          "price": "39,99 €",
-          "amount": 39.99
+          "price": "40,00 €",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -5330,20 +5330,20 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:36.357Z"
+      "fetchedAt": "2026-10-26T09:40:16.804Z"
     },
     "mg": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Plus - Monthly",
@@ -5386,7 +5386,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:38.082Z"
+      "fetchedAt": "2026-10-26T09:40:18.305Z"
     },
     "mk": {
       "currency": "USD",
@@ -5398,11 +5398,6 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 400.00",
-          "amount": 400
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 40.00",
           "amount": 40
         },
@@ -5410,6 +5405,11 @@
           "name": "Manus Pro",
           "price": "USD 80.00",
           "amount": 80
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 400.00",
+          "amount": 400
         },
         {
           "name": "Manus Pro",
@@ -5442,11 +5442,16 @@
           "amount": 749
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:39.259Z"
+      "fetchedAt": "2026-10-26T09:40:19.810Z"
     },
     "ml": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
+        },
         {
           "name": "Manus Pro",
           "price": "USD 20.00",
@@ -5456,11 +5461,6 @@
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
         },
         {
           "name": "Manus Plus - Monthly",
@@ -5473,11 +5473,6 @@
           "amount": 39.99
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
@@ -5486,6 +5481,11 @@
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "Manus Plus - Monthly",
@@ -5498,20 +5498,20 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:40.826Z"
+      "fetchedAt": "2026-10-26T09:40:21.336Z"
     },
     "mm": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -5554,7 +5554,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:42.225Z"
+      "fetchedAt": "2026-10-26T09:40:22.813Z"
     },
     "mn": {
       "currency": "USD",
@@ -5610,11 +5610,16 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:43.781Z"
+      "fetchedAt": "2026-10-26T09:40:24.320Z"
     },
     "mo": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Manus Pro",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
         {
           "name": "Manus Pro",
           "price": "USD 20.00",
@@ -5624,11 +5629,6 @@
           "name": "Manus Pro",
           "price": "USD 40.00",
           "amount": 40
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 39.99",
-          "amount": 39.99
         },
         {
           "name": "Manus Pro",
@@ -5647,6 +5647,16 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 100.00",
           "amount": 100
         },
@@ -5654,27 +5664,17 @@
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 300.00",
-          "amount": 300
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:45.278Z"
+      "fetchedAt": "2026-10-26T09:40:25.791Z"
     },
     "mr": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "$40.00",
-          "amount": 40
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "Manus Plus - Monthly",
@@ -5683,8 +5683,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "$20.00",
-          "amount": 20
+          "price": "$40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -5722,7 +5722,7 @@
           "amount": 390
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:46.775Z"
+      "fetchedAt": "2026-10-26T09:40:27.382Z"
     },
     "ms": {
       "currency": "USD",
@@ -5778,7 +5778,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:48.304Z"
+      "fetchedAt": "2026-10-26T09:40:28.835Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5804,11 +5804,6 @@
           "amount": 22
         },
         {
-          "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Manus Pro - Monthly",
           "price": "229,00 €",
           "amount": 229
@@ -5829,12 +5824,17 @@
           "amount": 22
         },
         {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "10000 Manus Credits",
           "price": "100,00 €",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:49.938Z"
+      "fetchedAt": "2026-10-26T09:40:30.294Z"
     },
     "mu": {
       "currency": "USD",
@@ -5890,7 +5890,7 @@
           "amount": 599
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:51.291Z"
+      "fetchedAt": "2026-10-26T09:40:31.753Z"
     },
     "mv": {
       "currency": "USD",
@@ -5911,11 +5911,6 @@
           "amount": 40
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
@@ -5924,6 +5919,11 @@
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Cloud Computer",
@@ -5946,7 +5946,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:52.795Z"
+      "fetchedAt": "2026-10-26T09:40:33.275Z"
     },
     "mw": {
       "currency": "USD",
@@ -6002,7 +6002,7 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:54.315Z"
+      "fetchedAt": "2026-10-26T09:40:34.799Z"
     },
     "mx": {
       "currency": "MXN",
@@ -6038,27 +6038,27 @@
           "amount": 1299
         },
         {
-          "name": "Manus Pro",
-          "price": "$1,999.00",
-          "amount": 1999
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$1,799.00",
-          "amount": 1799
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "$399.00",
           "amount": 399
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$799.00",
-          "amount": 799
+          "name": "Manus Pro - Monthly",
+          "price": "$3,999.00",
+          "amount": 3999
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$3,999.00",
+          "amount": 3999
+        },
+        {
+          "name": "Manus Pro",
+          "price": "$1,999.00",
+          "amount": 1999
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:55.730Z"
+      "fetchedAt": "2026-10-26T09:40:36.379Z"
     },
     "my": {
       "currency": "MYR",
@@ -6094,11 +6094,6 @@
           "amount": 299.9
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "RM89.90",
-          "amount": 89.9
-        },
-        {
           "name": "Manus Pro",
           "price": "RM399.90",
           "amount": 399.9
@@ -6112,9 +6107,14 @@
           "name": "Manus Pro",
           "price": "RM499.90",
           "amount": 499.9
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "RM89.90",
+          "amount": 89.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:57.266Z"
+      "fetchedAt": "2026-10-26T09:40:37.798Z"
     },
     "mz": {
       "currency": "USD",
@@ -6135,14 +6135,14 @@
           "amount": 40
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "2000 Manus Credits",
@@ -6155,26 +6155,31 @@
           "amount": 199
         },
         {
-          "name": "Manus Basic - Annual",
-          "price": "USD 190.00",
-          "amount": 190
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "10000 Manus Credits",
           "price": "USD 100.00",
           "amount": 100
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:40:58.817Z"
+      "fetchedAt": "2026-10-26T09:40:39.290Z"
     },
     "na": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
+        },
         {
           "name": "Manus Pro",
           "price": "USD 20.00",
@@ -6186,14 +6191,14 @@
           "amount": 19
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 300.00",
+          "amount": 300
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -6219,14 +6224,9 @@
           "name": "Manus Pro",
           "price": "USD 500.00",
           "amount": 500
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 749.00",
-          "amount": 749
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:00.273Z"
+      "fetchedAt": "2026-10-26T09:40:40.816Z"
     },
     "ne": {
       "currency": "USD",
@@ -6282,7 +6282,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:01.890Z"
+      "fetchedAt": "2026-10-26T09:40:42.280Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6304,11 +6304,6 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₦ 29,900.00",
-          "amount": 29900
-        },
-        {
-          "name": "Manus Pro",
           "price": "₦ 69,900.00",
           "amount": 69900
         },
@@ -6324,8 +6319,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₦ 299,900.00",
-          "amount": 299900
+          "price": "₦ 129,900.00",
+          "amount": 129900
+        },
+        {
+          "name": "Manus Pro",
+          "price": "₦ 149,900.00",
+          "amount": 149900
         },
         {
           "name": "Manus Plus - Monthly",
@@ -6333,12 +6333,12 @@
           "amount": 59900
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "₦ 59,900.00",
-          "amount": 59900
+          "name": "Manus Pro",
+          "price": "₦ 29,900.00",
+          "amount": 29900
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:03.322Z"
+      "fetchedAt": "2026-10-26T09:40:43.797Z"
     },
     "ni": {
       "currency": "USD",
@@ -6359,11 +6359,6 @@
           "amount": 60
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
@@ -6372,6 +6367,11 @@
           "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 200.00",
+          "amount": 200
         },
         {
           "name": "Manus Plus - Monthly",
@@ -6394,7 +6394,7 @@
           "amount": 479
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:04.831Z"
+      "fetchedAt": "2026-10-26T09:40:45.371Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6436,21 +6436,21 @@
         },
         {
           "name": "Manus Pro",
+          "price": "€ 90,00",
+          "amount": 90
+        },
+        {
+          "name": "Manus Pro",
           "price": "€ 100,00",
           "amount": 100
         },
         {
           "name": "Manus Pro",
-          "price": "€ 90,00",
-          "amount": 90
-        },
-        {
-          "name": "10000 Manus Credits",
-          "price": "€ 100,00",
-          "amount": 100
+          "price": "€ 229,00",
+          "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:06.270Z"
+      "fetchedAt": "2026-10-26T09:40:46.846Z"
     },
     "no": {
       "currency": "NOK",
@@ -6466,19 +6466,14 @@
           "amount": 249
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "249,00 kr",
-          "amount": 249
-        },
-        {
-          "name": "Manus Pro",
-          "price": "799,00 kr",
-          "amount": 799
-        },
-        {
           "name": "Manus Pro",
           "price": "499,00 kr",
           "amount": 499
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "249,00 kr",
+          "amount": 249
         },
         {
           "name": "Manus Plus - Monthly",
@@ -6492,21 +6487,26 @@
         },
         {
           "name": "Manus Pro",
-          "price": "1.290,00 kr",
-          "amount": 1290
-        },
-        {
-          "name": "Manus Pro",
-          "price": "999,00 kr",
-          "amount": 999
+          "price": "799,00 kr",
+          "amount": 799
         },
         {
           "name": "Manus Pro",
           "price": "249,00 kr",
           "amount": 249
+        },
+        {
+          "name": "Manus Pro",
+          "price": "1.290,00 kr",
+          "amount": 1290
+        },
+        {
+          "name": "20000 Manus Credits",
+          "price": "2.490,00 kr",
+          "amount": 2490
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:07.799Z"
+      "fetchedAt": "2026-10-26T09:40:48.592Z"
     },
     "np": {
       "currency": "USD",
@@ -6562,7 +6562,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:09.269Z"
+      "fetchedAt": "2026-10-26T09:40:49.819Z"
     },
     "nr": {
       "currency": "USD",
@@ -6618,7 +6618,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:10.981Z"
+      "fetchedAt": "2026-10-26T09:40:51.381Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6634,19 +6634,19 @@
           "amount": 40
         },
         {
+          "name": "Manus Pro",
+          "price": "$70.00",
+          "amount": 70
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "$35.00",
           "amount": 35
         },
         {
-          "name": "Manus Plus - Monthly",
-          "price": "$69.00",
-          "amount": 69
-        },
-        {
           "name": "Manus Pro",
-          "price": "$70.00",
-          "amount": 70
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "2000 Manus Credits",
@@ -6654,9 +6654,9 @@
           "amount": 40
         },
         {
-          "name": "Manus Pro",
-          "price": "$100.00",
-          "amount": 100
+          "name": "Manus Plus - Monthly",
+          "price": "$69.00",
+          "amount": 69
         },
         {
           "name": "Manus Pro",
@@ -6670,11 +6670,11 @@
         },
         {
           "name": "Manus Pro",
-          "price": "$500.00",
-          "amount": 500
+          "price": "$400.00",
+          "amount": 400
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:12.291Z"
+      "fetchedAt": "2026-10-26T09:40:52.836Z"
     },
     "om": {
       "currency": "USD",
@@ -6711,6 +6711,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "$100.00",
+          "amount": 100
+        },
+        {
+          "name": "Manus Pro",
           "price": "$80.00",
           "amount": 80
         },
@@ -6720,17 +6725,12 @@
           "amount": 20
         },
         {
-          "name": "Manus Pro",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$20.00",
-          "amount": 20
+          "name": "Manus Basic - Monthly",
+          "price": "$19.00",
+          "amount": 19
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:13.775Z"
+      "fetchedAt": "2026-10-26T09:40:54.348Z"
     },
     "pa": {
       "currency": "USD",
@@ -6749,6 +6749,11 @@
           "name": "Manus Pro",
           "price": "USD 60.00",
           "amount": 60
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 300.00",
+          "amount": 300
         },
         {
           "name": "Manus Basic - Monthly",
@@ -6771,22 +6776,17 @@
           "amount": 20
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 39.99",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:15.237Z"
+      "fetchedAt": "2026-10-26T09:40:55.959Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6813,8 +6813,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "S/ 249.90",
-          "amount": 249.9
+          "price": "S/ 899.90",
+          "amount": 899.9
         },
         {
           "name": "Manus Basic - Monthly",
@@ -6823,8 +6823,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "S/ 899.90",
-          "amount": 899.9
+          "price": "S/ 249.90",
+          "amount": 249.9
         },
         {
           "name": "Manus Pro",
@@ -6842,20 +6842,20 @@
           "amount": 89.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:16.765Z"
+      "fetchedAt": "2026-10-26T09:40:57.463Z"
     },
     "pg": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
+          "price": "USD 60.00",
+          "amount": 60
         },
         {
           "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "Manus Basic - Monthly",
@@ -6898,7 +6898,7 @@
           "amount": 229.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:18.265Z"
+      "fetchedAt": "2026-10-26T09:40:58.815Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6919,11 +6919,6 @@
           "amount": 3990
         },
         {
-          "name": "Manus Pro",
-          "price": "₱ 2,490.00",
-          "amount": 2490
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "₱ 1,190.00",
           "amount": 1190
@@ -6935,8 +6930,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₱ 12,990.00",
-          "amount": 12990
+          "price": "₱ 2,490.00",
+          "amount": 2490
+        },
+        {
+          "name": "Manus Pro",
+          "price": "₱ 5,990.00",
+          "amount": 5990
         },
         {
           "name": "Manus Pro",
@@ -6945,8 +6945,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "₱ 5,990.00",
-          "amount": 5990
+          "price": "₱ 12,990.00",
+          "amount": 12990
         },
         {
           "name": "2000 Manus Credits",
@@ -6954,7 +6954,7 @@
           "amount": 1290
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:19.856Z"
+      "fetchedAt": "2026-10-26T09:41:00.304Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6981,13 +6981,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "Rs 9,900.00",
-          "amount": 9900
+          "price": "Rs 24,900.00",
+          "amount": 24900
         },
         {
           "name": "Manus Pro",
-          "price": "Rs 19,900.00",
-          "amount": 19900
+          "price": "Rs 9,900.00",
+          "amount": 9900
         },
         {
           "name": "Manus Pro",
@@ -6995,14 +6995,14 @@
           "amount": 14900
         },
         {
+          "name": "Manus Pro",
+          "price": "Rs 49,900.00",
+          "amount": 49900
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "Rs 4,900.00",
           "amount": 4900
-        },
-        {
-          "name": "Manus Pro",
-          "price": "Rs 24,900.00",
-          "amount": 24900
         },
         {
           "name": "Manus Plus - Monthly",
@@ -7010,7 +7010,7 @@
           "amount": 9900
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:21.279Z"
+      "fetchedAt": "2026-10-26T09:41:01.887Z"
     },
     "pl": {
       "currency": "PLN",
@@ -7052,13 +7052,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "399,99 zł",
-          "amount": 399.99
+          "price": "499,99 zł",
+          "amount": 499.99
         },
         {
           "name": "Manus Pro",
-          "price": "499,99 zł",
-          "amount": 499.99
+          "price": "399,99 zł",
+          "amount": 399.99
         },
         {
           "name": "Manus Pro",
@@ -7066,7 +7066,7 @@
           "amount": 99.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:22.814Z"
+      "fetchedAt": "2026-10-26T09:41:03.341Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7082,14 +7082,14 @@
           "amount": 22
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Manus Pro",
           "price": "45,00 €",
           "amount": 45
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Plus - Monthly",
@@ -7107,6 +7107,11 @@
           "amount": 70
         },
         {
+          "name": "Manus Pro",
+          "price": "22,00 €",
+          "amount": 22
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
@@ -7115,14 +7120,9 @@
           "name": "Manus Pro - Monthly",
           "price": "229,00 €",
           "amount": 229
-        },
-        {
-          "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:24.306Z"
+      "fetchedAt": "2026-10-26T09:41:04.769Z"
     },
     "pw": {
       "currency": "USD",
@@ -7178,7 +7178,7 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:25.772Z"
+      "fetchedAt": "2026-10-26T09:41:06.312Z"
     },
     "py": {
       "currency": "USD",
@@ -7190,8 +7190,33 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 40.00",
           "amount": 40
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 500.00",
+          "amount": 500
         },
         {
           "name": "Manus Basic - Monthly",
@@ -7207,34 +7232,9 @@
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
-          "name": "2000 Manus Credits",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "10000 Manus Credits",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro - Monthly",
-          "price": "USD 199.00",
-          "amount": 199
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:27.292Z"
+      "fetchedAt": "2026-10-26T09:41:07.868Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7255,14 +7255,14 @@
           "amount": 149.99
         },
         {
-          "name": "Manus Pro",
-          "price": "QAR 199.99",
-          "amount": 199.99
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "QAR 69.99",
           "amount": 69.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "QAR 199.99",
+          "amount": 199.99
         },
         {
           "name": "Manus Plus - Monthly",
@@ -7286,11 +7286,11 @@
         },
         {
           "name": "Manus Pro",
-          "price": "QAR 699.99",
-          "amount": 699.99
+          "price": "QAR 999.99",
+          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:28.779Z"
+      "fetchedAt": "2026-10-26T09:41:09.289Z"
     },
     "ro": {
       "currency": "RON",
@@ -7316,14 +7316,19 @@
           "amount": 99.99
         },
         {
+          "name": "2000 Manus Credits",
+          "price": "99,99 lei",
+          "amount": 99.99
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "199,99 lei",
           "amount": 199.99
         },
         {
-          "name": "2000 Manus Credits",
-          "price": "99,99 lei",
-          "amount": 99.99
+          "name": "Manus Pro",
+          "price": "199,99 lei",
+          "amount": 199.99
         },
         {
           "name": "Manus Pro",
@@ -7336,17 +7341,12 @@
           "amount": 99.99
         },
         {
-          "name": "10000 Manus Credits",
-          "price": "499,99 lei",
-          "amount": 499.99
-        },
-        {
           "name": "Manus Pro",
-          "price": "499,99 lei",
-          "amount": 499.99
+          "price": "999,99 lei",
+          "amount": 999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:30.240Z"
+      "fetchedAt": "2026-10-26T09:41:10.751Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7368,8 +7368,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "100,00 €",
-          "amount": 100
+          "price": "70,00 €",
+          "amount": 70
         },
         {
           "name": "Manus Basic - Monthly",
@@ -7378,8 +7378,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "70,00 €",
-          "amount": 70
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Manus Plus - Monthly",
@@ -7402,7 +7402,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:31.862Z"
+      "fetchedAt": "2026-10-26T09:41:12.390Z"
     },
     "ru": {
       "available": false,
@@ -7462,7 +7462,7 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:33.334Z"
+      "fetchedAt": "2026-10-26T09:41:13.783Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7488,14 +7488,14 @@
           "amount": 79.99
         },
         {
-          "name": "Manus Pro",
-          "price": "SAR 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "SAR 179.99",
           "amount": 179.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "SAR 249.99",
+          "amount": 249.99
         },
         {
           "name": "Manus Pro",
@@ -7518,11 +7518,16 @@
           "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:34.931Z"
+      "fetchedAt": "2026-10-26T09:41:15.397Z"
     },
     "sb": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
         {
           "name": "Manus Pro",
           "price": "USD 40.00",
@@ -7567,14 +7572,9 @@
           "name": "Cloud Computer",
           "price": "USD 120.99",
           "amount": 120.99
-        },
-        {
-          "name": "Cloud Computer",
-          "price": "USD 116.99",
-          "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:36.259Z"
+      "fetchedAt": "2026-10-26T09:41:16.780Z"
     },
     "sc": {
       "currency": "USD",
@@ -7630,7 +7630,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:37.749Z"
+      "fetchedAt": "2026-10-26T09:41:18.379Z"
     },
     "se": {
       "currency": "SEK",
@@ -7646,6 +7646,11 @@
           "amount": 249
         },
         {
+          "name": "Manus Pro",
+          "price": "499,00 kr",
+          "amount": 499
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "249,00 kr",
           "amount": 249
@@ -7656,29 +7661,24 @@
           "amount": 499
         },
         {
-          "name": "Manus Pro",
-          "price": "499,00 kr",
-          "amount": 499
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "249,00 kr",
           "amount": 249
         },
         {
-          "name": "Manus Pro",
+          "name": "Manus Basic - Monthly",
           "price": "249,00 kr",
           "amount": 249
         },
         {
           "name": "Manus Pro",
-          "price": "499,00 kr",
-          "amount": 499
+          "price": "999,00 kr",
+          "amount": 999
         },
         {
           "name": "Manus Pro",
-          "price": "2 495,00 kr",
-          "amount": 2495
+          "price": "249,00 kr",
+          "amount": 249
         },
         {
           "name": "Manus Pro",
@@ -7686,7 +7686,7 @@
           "amount": 799
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:39.270Z"
+      "fetchedAt": "2026-10-26T09:41:19.787Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7702,14 +7702,14 @@
           "amount": 29.98
         },
         {
-          "name": "Manus Pro",
-          "price": "S$ 59.98",
-          "amount": 59.98
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "S$ 29.98",
           "amount": 29.98
+        },
+        {
+          "name": "Manus Pro",
+          "price": "S$ 59.98",
+          "amount": 59.98
         },
         {
           "name": "Manus Plus - Monthly",
@@ -7718,13 +7718,18 @@
         },
         {
           "name": "Manus Pro",
+          "price": "S$ 99.98",
+          "amount": 99.98
+        },
+        {
+          "name": "Manus Pro",
           "price": "S$ 89.98",
           "amount": 89.98
         },
         {
           "name": "Manus Pro",
-          "price": "S$ 99.98",
-          "amount": 99.98
+          "price": "S$ 299.98",
+          "amount": 299.98
         },
         {
           "name": "Manus Pro",
@@ -7732,17 +7737,12 @@
           "amount": 149.98
         },
         {
-          "name": "Manus Pro",
-          "price": "S$ 399.98",
-          "amount": 399.98
-        },
-        {
-          "name": "2000 Manus Credits",
-          "price": "S$ 29.98",
-          "amount": 29.98
+          "name": "Manus Plus - Monthly",
+          "price": "S$ 59.98",
+          "amount": 59.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:40.739Z"
+      "fetchedAt": "2026-10-26T09:41:21.312Z"
     },
     "si": {
       "currency": "EUR",
@@ -7758,6 +7758,11 @@
           "amount": 22
         },
         {
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "22,00 €",
           "amount": 22
@@ -7766,11 +7771,6 @@
           "name": "2000 Manus Credits",
           "price": "22,00 €",
           "amount": 22
-        },
-        {
-          "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
         },
         {
           "name": "Manus Pro - Monthly",
@@ -7789,29 +7789,29 @@
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
-          "name": "Manus Pro",
           "price": "70,00 €",
           "amount": 70
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "22,00 €",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:42.318Z"
+      "fetchedAt": "2026-10-26T09:41:22.747Z"
     },
     "sk": {
       "currency": "EUR",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "44,99 €",
-          "amount": 44.99
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "44,99 €",
+          "amount": 44.99
         },
         {
           "name": "Manus Basic - Monthly",
@@ -7820,18 +7820,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
-          "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
-        },
-        {
-          "name": "Manus Pro",
           "price": "90,00 €",
           "amount": 90
+        },
+        {
+          "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro - Monthly",
@@ -7845,6 +7840,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "45,00 €",
+          "amount": 45
+        },
+        {
+          "name": "Manus Pro",
           "price": "70,00 €",
           "amount": 70
         },
@@ -7854,7 +7854,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:43.777Z"
+      "fetchedAt": "2026-10-26T09:41:24.260Z"
     },
     "sl": {
       "currency": "USD",
@@ -7910,7 +7910,7 @@
           "amount": 120.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:45.273Z"
+      "fetchedAt": "2026-10-26T09:41:25.870Z"
     },
     "sn": {
       "currency": "USD",
@@ -7919,6 +7919,11 @@
           "name": "Manus Pro",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 22.00",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
@@ -7934,11 +7939,6 @@
           "name": "Manus Pro",
           "price": "USD 49.99",
           "amount": 49.99
-        },
-        {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 22.00",
-          "amount": 22
         },
         {
           "name": "Manus Pro",
@@ -7966,7 +7966,7 @@
           "amount": 250
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:46.904Z"
+      "fetchedAt": "2026-10-26T09:41:27.251Z"
     },
     "sr": {
       "currency": "USD",
@@ -8022,7 +8022,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:48.376Z"
+      "fetchedAt": "2026-10-26T09:41:28.819Z"
     },
     "st": {
       "currency": "USD",
@@ -8078,7 +8078,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:49.778Z"
+      "fetchedAt": "2026-10-26T09:41:30.285Z"
     },
     "sv": {
       "currency": "USD",
@@ -8134,7 +8134,7 @@
           "amount": 165.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:51.256Z"
+      "fetchedAt": "2026-10-26T09:41:31.910Z"
     },
     "sz": {
       "currency": "USD",
@@ -8190,7 +8190,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:52.824Z"
+      "fetchedAt": "2026-10-26T09:41:33.277Z"
     },
     "tc": {
       "currency": "USD",
@@ -8246,20 +8246,15 @@
           "amount": 116.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:54.296Z"
+      "fetchedAt": "2026-10-26T09:41:34.740Z"
     },
     "td": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Basic - Monthly",
@@ -8268,8 +8263,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
         },
         {
           "name": "2000 Manus Credits",
@@ -8302,7 +8302,7 @@
           "amount": 414.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:55.806Z"
+      "fetchedAt": "2026-10-26T09:41:36.338Z"
     },
     "th": {
       "currency": "THB",
@@ -8339,11 +8339,6 @@
         },
         {
           "name": "Manus Pro",
-          "price": "฿2,990.00",
-          "amount": 2990
-        },
-        {
-          "name": "Manus Pro",
           "price": "฿699.00",
           "amount": 699
         },
@@ -8356,9 +8351,14 @@
           "name": "2000 Manus Credits",
           "price": "฿699.00",
           "amount": 699
+        },
+        {
+          "name": "Manus Pro",
+          "price": "฿2,990.00",
+          "amount": 2990
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:57.224Z"
+      "fetchedAt": "2026-10-26T09:41:37.795Z"
     },
     "tj": {
       "currency": "USD",
@@ -8369,9 +8369,9 @@
           "amount": 22
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
+          "name": "Manus Pro",
+          "price": "USD 40.00",
+          "amount": 40
         },
         {
           "name": "Manus Pro",
@@ -8379,9 +8379,9 @@
           "amount": 39.99
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
         },
         {
           "name": "Manus Pro",
@@ -8400,6 +8400,11 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 200.00",
           "amount": 200
         },
@@ -8407,14 +8412,9 @@
           "name": "Manus Plus - Monthly",
           "price": "USD 39.00",
           "amount": 39
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:41:58.771Z"
+      "fetchedAt": "2026-10-26T09:41:39.318Z"
     },
     "tm": {
       "currency": "USD",
@@ -8470,20 +8470,20 @@
           "amount": 120.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:00.273Z"
+      "fetchedAt": "2026-10-26T09:41:40.817Z"
     },
     "tn": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "$60.00",
-          "amount": 60
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
-          "price": "$20.00",
-          "amount": 20
+          "price": "$60.00",
+          "amount": 60
         },
         {
           "name": "Manus Pro",
@@ -8526,7 +8526,7 @@
           "amount": 142.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:01.713Z"
+      "fetchedAt": "2026-10-26T09:41:42.314Z"
     },
     "to": {
       "currency": "USD",
@@ -8582,7 +8582,7 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:03.307Z"
+      "fetchedAt": "2026-10-26T09:41:43.815Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8598,14 +8598,14 @@
           "amount": 999.99
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "₺999,99",
-          "amount": 999.99
-        },
-        {
           "name": "Manus Pro",
           "price": "₺1.999,99",
           "amount": 1999.99
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "₺999,99",
+          "amount": 999.99
         },
         {
           "name": "Manus Plus - Monthly",
@@ -8623,22 +8623,22 @@
           "amount": 999.99
         },
         {
+          "name": "Manus Pro",
+          "price": "₺3.999,99",
+          "amount": 3999.99
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "₺1.999,99",
           "amount": 1999.99
         },
         {
           "name": "Manus Pro",
-          "price": "₺3.999,99",
-          "amount": 3999.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "₺14.999,99",
-          "amount": 14999.99
+          "price": "₺4.999,99",
+          "amount": 4999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:04.763Z"
+      "fetchedAt": "2026-10-26T09:41:45.249Z"
     },
     "tt": {
       "currency": "USD",
@@ -8650,23 +8650,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
           "price": "USD 39.99",
           "amount": 39.99
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 40.00",
-          "amount": 40
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
         },
         {
           "name": "Manus Basic - Monthly",
@@ -8675,8 +8660,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "USD 200.00",
-          "amount": 200
+          "price": "USD 40.00",
+          "amount": 40
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Manus Plus - Monthly",
@@ -8685,8 +8675,18 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 200.00",
+          "amount": 200
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 60.00",
           "amount": 60
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "2000 Manus Credits",
@@ -8694,20 +8694,20 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:06.314Z"
+      "fetchedAt": "2026-10-26T09:41:46.733Z"
     },
     "tw": {
       "currency": "TWD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "$690.00",
-          "amount": 690
+          "price": "$1,290.00",
+          "amount": 1290
         },
         {
           "name": "Manus Pro",
-          "price": "$1,290.00",
-          "amount": 1290
+          "price": "$690.00",
+          "amount": 690
         },
         {
           "name": "Manus Pro",
@@ -8726,13 +8726,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "$2,990.00",
-          "amount": 2990
+          "price": "$2,490.00",
+          "amount": 2490
         },
         {
           "name": "Manus Pro",
-          "price": "$2,490.00",
-          "amount": 2490
+          "price": "$2,990.00",
+          "amount": 2990
         },
         {
           "name": "Manus Plus - Monthly",
@@ -8750,7 +8750,7 @@
           "amount": 590
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:07.786Z"
+      "fetchedAt": "2026-10-26T09:41:48.298Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8806,7 +8806,7 @@
           "amount": 99900
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:09.245Z"
+      "fetchedAt": "2026-10-26T09:41:49.781Z"
     },
     "ua": {
       "currency": "USD",
@@ -8833,13 +8833,8 @@
         },
         {
           "name": "Manus Pro",
-          "price": "25,00 USD",
-          "amount": 25
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "49,00 USD",
-          "amount": 49
+          "price": "70,00 USD",
+          "amount": 70
         },
         {
           "name": "Manus Plus - Monthly",
@@ -8848,8 +8843,13 @@
         },
         {
           "name": "Manus Pro",
-          "price": "70,00 USD",
-          "amount": 70
+          "price": "100,00 USD",
+          "amount": 100
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "49,00 USD",
+          "amount": 49
         },
         {
           "name": "2000 Manus Credits",
@@ -8862,7 +8862,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:10.806Z"
+      "fetchedAt": "2026-10-26T09:41:51.267Z"
     },
     "ug": {
       "currency": "USD",
@@ -8873,6 +8873,11 @@
           "amount": 25
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 49.99",
+          "amount": 49.99
+        },
+        {
           "name": "Manus Basic - Monthly",
           "price": "USD 22.00",
           "amount": 22
@@ -8881,11 +8886,6 @@
           "name": "Manus Pro",
           "price": "USD 50.00",
           "amount": 50
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 49.99",
-          "amount": 49.99
         },
         {
           "name": "Manus Plus - Monthly",
@@ -8918,7 +8918,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:12.253Z"
+      "fetchedAt": "2026-10-26T09:41:52.774Z"
     },
     "us": {
       "currency": "USD",
@@ -8974,7 +8974,7 @@
           "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:48.831Z"
+      "fetchedAt": "2026-10-26T09:41:54.457Z"
     },
     "uy": {
       "currency": "USD",
@@ -8985,39 +8985,19 @@
           "amount": 39.99
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
           "name": "Manus Pro",
           "price": "USD 40.00",
           "amount": 40
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 60.00",
-          "amount": 60
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 80.00",
-          "amount": 80
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Manus Pro",
@@ -9025,12 +9005,32 @@
           "amount": 100
         },
         {
+          "name": "Manus Pro",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 80.00",
+          "amount": 80
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
           "name": "2000 Manus Credits",
           "price": "USD 20.00",
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:15.329Z"
+      "fetchedAt": "2026-10-26T09:41:55.900Z"
     },
     "uz": {
       "currency": "USD",
@@ -9041,39 +9041,14 @@
           "amount": 22
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "USD 19.00",
-          "amount": 19
-        },
-        {
-          "name": "Manus Pro",
-          "price": "USD 70.00",
-          "amount": 70
-        },
-        {
           "name": "Manus Pro",
           "price": "USD 40.00",
           "amount": 40
         },
         {
-          "name": "Manus Pro",
-          "price": "USD 39.99",
-          "amount": 39.99
-        },
-        {
           "name": "Manus Basic - Monthly",
           "price": "USD 19.00",
           "amount": 19
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
-          "name": "Manus Plus - Monthly",
-          "price": "USD 39.00",
-          "amount": 39
         },
         {
           "name": "Manus Pro",
@@ -9082,11 +9057,36 @@
         },
         {
           "name": "Manus Pro",
+          "price": "USD 39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "USD 70.00",
+          "amount": 70
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "USD 19.00",
+          "amount": 19
+        },
+        {
+          "name": "Manus Plus - Monthly",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Manus Pro",
           "price": "USD 90.00",
           "amount": 90
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:16.845Z"
+      "fetchedAt": "2026-10-26T09:41:57.346Z"
     },
     "vc": {
       "currency": "USD",
@@ -9142,7 +9142,7 @@
           "amount": 185.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:18.257Z"
+      "fetchedAt": "2026-10-26T09:41:58.813Z"
     },
     "ve": {
       "available": false,
@@ -9202,7 +9202,7 @@
           "amount": 120.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:19.784Z"
+      "fetchedAt": "2026-10-26T09:42:00.260Z"
     },
     "vn": {
       "currency": "VND",
@@ -9228,24 +9228,19 @@
           "amount": 1199000
         },
         {
-          "name": "Manus Pro",
-          "price": "1.999.000đ",
-          "amount": 1999000
-        },
-        {
           "name": "2000 Manus Credits",
           "price": "599.000đ",
           "amount": 599000
         },
         {
           "name": "Manus Pro",
-          "price": "2.499.000đ",
-          "amount": 2499000
+          "price": "1.999.000đ",
+          "amount": 1999000
         },
         {
           "name": "Manus Pro",
-          "price": "2.999.000đ",
-          "amount": 2999000
+          "price": "1.199.000đ",
+          "amount": 1199000
         },
         {
           "name": "Manus Pro",
@@ -9254,11 +9249,16 @@
         },
         {
           "name": "Manus Pro",
-          "price": "1.199.000đ",
-          "amount": 1199000
+          "price": "9.999.000đ",
+          "amount": 9999000
+        },
+        {
+          "name": "Manus Pro",
+          "price": "2.499.000đ",
+          "amount": 2499000
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:21.371Z"
+      "fetchedAt": "2026-10-26T09:42:01.751Z"
     },
     "vu": {
       "currency": "USD",
@@ -9314,20 +9314,20 @@
           "amount": 97.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:22.763Z"
+      "fetchedAt": "2026-10-26T09:42:03.330Z"
     },
     "xk": {
       "currency": "EUR",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "45,00 €",
-          "amount": 45
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Manus Pro",
-          "price": "22,00 €",
-          "amount": 22
+          "price": "45,00 €",
+          "amount": 45
         },
         {
           "name": "Manus Pro",
@@ -9370,7 +9370,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:24.670Z"
+      "fetchedAt": "2026-10-26T09:42:04.798Z"
     },
     "ye": {
       "currency": "USD",
@@ -9382,18 +9382,23 @@
         },
         {
           "name": "Manus Pro",
-          "price": "$40.00",
-          "amount": 40
+          "price": "$80.00",
+          "amount": 80
         },
         {
-          "name": "Manus Basic - Monthly",
-          "price": "$19.00",
-          "amount": 19
+          "name": "Manus Pro",
+          "price": "$40.00",
+          "amount": 40
         },
         {
           "name": "2000 Manus Credits",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "Manus Basic - Monthly",
+          "price": "$19.00",
+          "amount": 19
         },
         {
           "name": "Manus Pro",
@@ -9406,6 +9411,11 @@
           "amount": 39
         },
         {
+          "name": "Manus Pro",
+          "price": "$80.00",
+          "amount": 80
+        },
+        {
           "name": "Manus Plus - Monthly",
           "price": "$39.00",
           "amount": 39
@@ -9414,19 +9424,9 @@
           "name": "Manus Pro",
           "price": "$60.00",
           "amount": 60
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
-          "name": "Manus Pro",
-          "price": "$1,000.00",
-          "amount": 1000
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:25.776Z"
+      "fetchedAt": "2026-10-26T09:42:06.269Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9452,14 +9452,14 @@
           "amount": 799.99
         },
         {
-          "name": "Manus Pro",
-          "price": "R1,199.99",
-          "amount": 1199.99
-        },
-        {
           "name": "Manus Plus - Monthly",
           "price": "R799.99",
           "amount": 799.99
+        },
+        {
+          "name": "Manus Pro",
+          "price": "R1,199.99",
+          "amount": 1199.99
         },
         {
           "name": "2000 Manus Credits",
@@ -9478,24 +9478,24 @@
         },
         {
           "name": "Manus Pro",
-          "price": "R1,499.99",
-          "amount": 1499.99
+          "price": "R399.99",
+          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:27.294Z"
+      "fetchedAt": "2026-10-26T09:42:07.805Z"
     },
     "zm": {
       "currency": "USD",
       "items": [
         {
           "name": "Manus Pro",
-          "price": "USD 50.00",
-          "amount": 50
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Manus Pro",
-          "price": "USD 25.00",
-          "amount": 25
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Manus Basic - Monthly",
@@ -9538,7 +9538,7 @@
           "amount": 499.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:28.793Z"
+      "fetchedAt": "2026-10-26T09:42:09.313Z"
     },
     "zw": {
       "currency": "USD",
@@ -9594,7 +9594,7 @@
           "amount": 299.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:42:30.329Z"
+      "fetchedAt": "2026-10-26T09:42:10.863Z"
     }
   }
 }

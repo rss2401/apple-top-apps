@@ -2,7 +2,7 @@
   "id": "6738049229",
   "name": "Kling AI: AI Image&Video Maker",
   "month": "202610",
-  "fetchedAt": "2026-10-26T08:26:51.736Z",
+  "fetchedAt": "2026-10-26T09:50:45.459Z",
   "storefronts": {
     "ae": {
       "currency": "AED",
@@ -58,7 +58,7 @@
           "amount": 349.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:48.260Z"
+      "fetchedAt": "2026-10-26T09:46:28.899Z"
     },
     "af": {
       "available": false,
@@ -118,7 +118,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:49.761Z"
+      "fetchedAt": "2026-10-26T09:46:30.311Z"
     },
     "ai": {
       "currency": "USD",
@@ -174,20 +174,20 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:51.309Z"
+      "fetchedAt": "2026-10-26T09:46:31.879Z"
     },
     "al": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 6.00",
-          "amount": 6
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 6.00",
+          "amount": 6
         },
         {
           "name": "Standard Membership-one week",
@@ -205,19 +205,14 @@
           "amount": 45
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "USD 1.99",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
         },
         {
-          "name": "3300 Credits",
-          "price": "USD 60.00",
-          "amount": 60
+          "name": "Standard Membership - one week",
+          "price": "USD 1.99",
+          "amount": 1.99
         },
         {
           "name": "Premier plan (monthly)",
@@ -225,12 +220,17 @@
           "amount": 99
         },
         {
+          "name": "3300 Credits",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
           "name": "Ultra plan (monthly)",
           "price": "USD 199.99",
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:52.448Z"
+      "fetchedAt": "2026-10-26T09:46:33.315Z"
     },
     "am": {
       "currency": "USD",
@@ -256,6 +256,11 @@
           "amount": 12
         },
         {
+          "name": "1320 Credits",
+          "price": "USD 25.00",
+          "amount": 25
+        },
+        {
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
@@ -266,16 +271,6 @@
           "amount": 45
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
-          "name": "100 Credits",
-          "price": "USD 1.99",
-          "amount": 1.99
-        },
-        {
           "name": "3300 Credits",
           "price": "USD 60.00",
           "amount": 60
@@ -284,17 +279,22 @@
           "name": "Premier plan (monthly)",
           "price": "USD 99.00",
           "amount": 99
+        },
+        {
+          "name": "100 Credits",
+          "price": "USD 1.99",
+          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:54.299Z"
+      "fetchedAt": "2026-10-26T09:46:34.837Z"
     },
     "ao": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
         },
         {
           "name": "Standard plan (monthly)",
@@ -302,19 +302,19 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
-        {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -342,7 +342,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:55.738Z"
+      "fetchedAt": "2026-10-26T09:46:36.366Z"
     },
     "ar": {
       "currency": "USD",
@@ -363,14 +363,14 @@
           "amount": 1.19
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -378,14 +378,14 @@
           "amount": 1.49
         },
         {
-          "name": "3300 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "Premier plan (monthly)",
@@ -393,12 +393,12 @@
           "amount": 92
         },
         {
-          "name": "Ultra plan (monthly)",
-          "price": "USD 179.99",
-          "amount": 179.99
+          "name": "6600 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:57.269Z"
+      "fetchedAt": "2026-10-26T09:46:37.912Z"
     },
     "at": {
       "currency": "EUR",
@@ -444,17 +444,17 @@
           "amount": 60
         },
         {
+          "name": "Ultra plan (monthly)",
+          "price": "199,99 €",
+          "amount": 199.99
+        },
+        {
           "name": "6600 Credits",
           "price": "100,00 €",
           "amount": 100
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "99,00 €",
-          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:46:58.750Z"
+      "fetchedAt": "2026-10-26T09:46:39.311Z"
     },
     "au": {
       "currency": "AUD",
@@ -510,7 +510,7 @@
           "amount": 150
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:00.247Z"
+      "fetchedAt": "2026-10-26T09:46:40.846Z"
     },
     "az": {
       "currency": "USD",
@@ -551,14 +551,14 @@
           "amount": 12
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 25.00",
-          "amount": 25
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Standard Membership-one week",
@@ -566,20 +566,20 @@
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:01.482Z"
+      "fetchedAt": "2026-10-26T09:46:42.401Z"
     },
     "ba": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "6,00 €",
           "amount": 6
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "660 Credits",
@@ -597,9 +597,9 @@
           "amount": 22
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "39,00 €",
-          "amount": 39
+          "name": "Premier plan (monthly)",
+          "price": "99,00 €",
+          "amount": 99
         },
         {
           "name": "Standard Membership - one week",
@@ -607,9 +607,9 @@
           "amount": 1.99
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "99,00 €",
-          "amount": 99
+          "name": "Pro plan (monthly)",
+          "price": "39,00 €",
+          "amount": 39
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -622,7 +622,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:03.236Z"
+      "fetchedAt": "2026-10-26T09:46:43.845Z"
     },
     "bb": {
       "currency": "USD",
@@ -633,14 +633,19 @@
           "amount": 12
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 45.00",
-          "amount": 45
-        },
-        {
           "name": "330 Credits",
           "price": "USD 6.00",
           "amount": 6
+        },
+        {
+          "name": "Ultra plan (monthly)",
+          "price": "USD 199.99",
+          "amount": 199.99
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 45.00",
+          "amount": 45
         },
         {
           "name": "Standard Membership-one week",
@@ -651,11 +656,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
-        },
-        {
-          "name": "Ultra plan (monthly)",
-          "price": "USD 199.99",
-          "amount": 199.99
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -678,7 +678,7 @@
           "amount": 399
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:04.851Z"
+      "fetchedAt": "2026-10-26T09:46:45.312Z"
     },
     "be": {
       "currency": "EUR",
@@ -694,14 +694,14 @@
           "amount": 6
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "660 Credits",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Pro plan (monthly)",
@@ -734,7 +734,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:06.258Z"
+      "fetchedAt": "2026-10-26T09:46:46.811Z"
     },
     "bf": {
       "currency": "USD",
@@ -755,14 +755,14 @@
           "amount": 1.19
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership - one week",
@@ -790,7 +790,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:07.791Z"
+      "fetchedAt": "2026-10-26T09:46:48.513Z"
     },
     "bg": {
       "currency": "EUR",
@@ -816,14 +816,14 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Pro plan (monthly)",
@@ -836,17 +836,17 @@
           "amount": 100
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "99,99 €",
-          "amount": 99.99
-        },
-        {
           "name": "3300 Credits",
           "price": "60,00 €",
           "amount": 60
+        },
+        {
+          "name": "Ultra plan (monthly)",
+          "price": "199,99 €",
+          "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:09.284Z"
+      "fetchedAt": "2026-10-26T09:46:49.965Z"
     },
     "bh": {
       "currency": "USD",
@@ -887,35 +887,35 @@
           "amount": 22
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "$99.00",
-          "amount": 99
-        },
-        {
           "name": "3300 Credits",
           "price": "$50.00",
           "amount": 50
         },
         {
-          "name": "6600 Credits",
-          "price": "$100.00",
-          "amount": 100
+          "name": "Premier plan (monthly)",
+          "price": "$99.00",
+          "amount": 99
+        },
+        {
+          "name": "Ultra plan (monthly)",
+          "price": "$199.99",
+          "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:10.891Z"
+      "fetchedAt": "2026-10-26T09:46:51.326Z"
     },
     "bj": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "330 Credits",
           "price": "USD 6.00",
           "amount": 6
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Standard Membership-one week",
@@ -958,7 +958,7 @@
           "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:12.269Z"
+      "fetchedAt": "2026-10-26T09:46:52.858Z"
     },
     "bm": {
       "currency": "USD",
@@ -974,26 +974,26 @@
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "USD 92.00",
           "amount": 92
         },
         {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
@@ -1014,20 +1014,20 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:13.757Z"
+      "fetchedAt": "2026-10-26T09:46:54.284Z"
     },
     "bn": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -1070,20 +1070,20 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:15.309Z"
+      "fetchedAt": "2026-10-26T09:46:55.860Z"
     },
     "bo": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -1096,14 +1096,14 @@
           "amount": 37
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -1126,7 +1126,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:16.898Z"
+      "fetchedAt": "2026-10-26T09:46:57.385Z"
     },
     "br": {
       "currency": "BRL",
@@ -1177,25 +1177,25 @@
           "amount": 499.9
         },
         {
-          "name": "6600 Credits",
-          "price": "R$ 599,90",
-          "amount": 599.9
+          "name": "100 Credits",
+          "price": "R$ 9,90",
+          "amount": 9.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:18.299Z"
+      "fetchedAt": "2026-10-26T09:46:58.899Z"
     },
     "bs": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -1238,13 +1238,13 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:19.910Z"
+      "fetchedAt": "2026-10-26T09:47:00.349Z"
     },
     "bt": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
+          "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -1252,6 +1252,11 @@
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -1262,11 +1267,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -1294,7 +1294,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:21.273Z"
+      "fetchedAt": "2026-10-26T09:47:02.002Z"
     },
     "bw": {
       "currency": "USD",
@@ -1350,7 +1350,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:22.805Z"
+      "fetchedAt": "2026-10-26T09:47:03.322Z"
     },
     "by": {
       "currency": "USD",
@@ -1406,7 +1406,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:23.992Z"
+      "fetchedAt": "2026-10-26T09:47:04.868Z"
     },
     "bz": {
       "currency": "USD",
@@ -1462,7 +1462,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:25.734Z"
+      "fetchedAt": "2026-10-26T09:47:06.468Z"
     },
     "ca": {
       "currency": "CAD",
@@ -1508,9 +1508,9 @@
           "amount": 70
         },
         {
-          "name": "100 Credits",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Premier plan (monthly)",
+          "price": "$119.00",
+          "amount": 119
         },
         {
           "name": "6600 Credits",
@@ -1518,7 +1518,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:27.263Z"
+      "fetchedAt": "2026-10-26T09:47:07.891Z"
     },
     "cd": {
       "currency": "USD",
@@ -1534,9 +1534,14 @@
           "amount": 5
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "1320 Credits",
@@ -1544,14 +1549,14 @@
           "amount": 20
         },
         {
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
+        },
+        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Standard Membership - one week",
@@ -1559,22 +1564,17 @@
           "amount": 1.49
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "USD 92.00",
-          "amount": 92
+          "name": "6600 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "100 Credits",
           "price": "USD 1.49",
           "amount": 1.49
-        },
-        {
-          "name": "6600 Credits",
-          "price": "USD 100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:28.922Z"
+      "fetchedAt": "2026-10-26T09:47:09.367Z"
     },
     "cg": {
       "currency": "USD",
@@ -1630,7 +1630,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:30.322Z"
+      "fetchedAt": "2026-10-26T09:47:10.869Z"
     },
     "ch": {
       "currency": "CHF",
@@ -1676,30 +1676,30 @@
           "amount": 1
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "CHF 100.00",
-          "amount": 100
-        },
-        {
           "name": "100 Credits",
           "price": "CHF 1.00",
           "amount": 1
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "CHF 100.00",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:31.791Z"
+      "fetchedAt": "2026-10-26T09:47:12.361Z"
     },
     "ci": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "12,00 $US",
-          "amount": 12
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "0,99 $US",
           "amount": 0.99
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "12,00 $US",
+          "amount": 12
         },
         {
           "name": "330 Credits",
@@ -1707,29 +1707,9 @@
           "amount": 6
         },
         {
-          "name": "1320 Credits",
-          "price": "25,00 $US",
-          "amount": 25
-        },
-        {
-          "name": "Pro plan (monthly)",
-          "price": "45,00 $US",
-          "amount": 45
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "1,99 $US",
           "amount": 1.99
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "99,00 $US",
-          "amount": 99
-        },
-        {
-          "name": "660 Credits",
-          "price": "12,00 $US",
-          "amount": 12
         },
         {
           "name": "100 Credits",
@@ -1737,12 +1717,32 @@
           "amount": 1.99
         },
         {
+          "name": "Pro plan (monthly)",
+          "price": "45,00 $US",
+          "amount": 45
+        },
+        {
+          "name": "660 Credits",
+          "price": "12,00 $US",
+          "amount": 12
+        },
+        {
+          "name": "1320 Credits",
+          "price": "25,00 $US",
+          "amount": 25
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "99,00 $US",
+          "amount": 99
+        },
+        {
           "name": "Standard Membership-one week",
           "price": "0,99 $US",
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:33.323Z"
+      "fetchedAt": "2026-10-26T09:47:13.939Z"
     },
     "cl": {
       "currency": "CLP",
@@ -1768,14 +1768,14 @@
           "amount": 9990
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "$1.990",
-          "amount": 1990
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "$39.990",
           "amount": 39990
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "$1.990",
+          "amount": 1990
         },
         {
           "name": "1320 Credits",
@@ -1793,12 +1793,12 @@
           "amount": 99990
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "$99.990",
-          "amount": 99990
+          "name": "Ultra plan (monthly)",
+          "price": "$199.990",
+          "amount": 199990
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:34.765Z"
+      "fetchedAt": "2026-10-26T09:47:15.451Z"
     },
     "cm": {
       "currency": "USD",
@@ -1814,24 +1814,24 @@
           "amount": 6
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "0,99 $US",
-          "amount": 0.99
-        },
-        {
           "name": "660 Credits",
           "price": "12,00 $US",
           "amount": 12
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "45,00 $US",
-          "amount": 45
+          "name": "Standard Membership-one week",
+          "price": "0,99 $US",
+          "amount": 0.99
         },
         {
           "name": "Standard Membership - one week",
           "price": "1,99 $US",
           "amount": 1.99
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "45,00 $US",
+          "amount": 45
         },
         {
           "name": "1320 Credits",
@@ -1854,7 +1854,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:36.245Z"
+      "fetchedAt": "2026-10-26T09:47:16.849Z"
     },
     "cn": {
       "available": false,
@@ -1899,14 +1899,14 @@
           "amount": 99900
         },
         {
-          "name": "3300 Credits",
-          "price": "$ 229.900,00",
-          "amount": 229900
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "$ 399.900,00",
           "amount": 399900
+        },
+        {
+          "name": "3300 Credits",
+          "price": "$ 229.900,00",
+          "amount": 229900
         },
         {
           "name": "Kling AI 3.0 Motion Control 1 Use",
@@ -1914,7 +1914,7 @@
           "amount": 7900
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:37.781Z"
+      "fetchedAt": "2026-10-26T09:47:18.451Z"
     },
     "cr": {
       "currency": "USD",
@@ -1970,15 +1970,15 @@
           "amount": 92
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:39.318Z"
+      "fetchedAt": "2026-10-26T09:47:19.923Z"
     },
     "cv": {
       "currency": "USD",
       "items": [
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
         },
         {
           "name": "330 Credits",
@@ -1986,17 +1986,17 @@
           "amount": 5
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
-          "name": "660 Credits",
+          "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "Standard plan (monthly)",
+          "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -2026,7 +2026,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:40.785Z"
+      "fetchedAt": "2026-10-26T09:47:21.356Z"
     },
     "cy": {
       "currency": "EUR",
@@ -2047,14 +2047,14 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "1320 Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Pro plan (monthly)",
@@ -2072,17 +2072,17 @@
           "amount": 60
         },
         {
+          "name": "6600 Credits",
+          "price": "100,00 €",
+          "amount": 100
+        },
+        {
           "name": "Ultra plan (monthly)",
           "price": "199,99 €",
           "amount": 199.99
-        },
-        {
-          "name": "100 Credits",
-          "price": "1,99 €",
-          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:42.284Z"
+      "fetchedAt": "2026-10-26T09:47:22.879Z"
     },
     "cz": {
       "currency": "CZK",
@@ -2128,9 +2128,9 @@
           "amount": 1290
         },
         {
-          "name": "6600 Credits",
-          "price": "2 790,00 Kč",
-          "amount": 2790
+          "name": "100 Credits",
+          "price": "39,00 Kč",
+          "amount": 39
         },
         {
           "name": "Premier plan (monthly)",
@@ -2138,7 +2138,7 @@
           "amount": 2490
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:43.742Z"
+      "fetchedAt": "2026-10-26T09:47:24.364Z"
     },
     "de": {
       "currency": "EUR",
@@ -2194,7 +2194,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:45.319Z"
+      "fetchedAt": "2026-10-26T09:47:25.846Z"
     },
     "dk": {
       "currency": "DKK",
@@ -2250,11 +2250,16 @@
           "amount": 899
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:46.769Z"
+      "fetchedAt": "2026-10-26T09:47:27.387Z"
     },
     "dm": {
       "currency": "USD",
       "items": [
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
+        },
         {
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
@@ -2299,14 +2304,9 @@
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 0.59",
-          "amount": 0.59
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:48.245Z"
+      "fetchedAt": "2026-10-26T09:47:28.953Z"
     },
     "do": {
       "currency": "USD",
@@ -2327,14 +2327,14 @@
           "amount": 1.19
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -2342,35 +2342,35 @@
           "amount": 20
         },
         {
-          "name": "3300 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
         },
         {
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
+        },
+        {
+          "name": "6600 Credits",
+          "price": "USD 100.00",
+          "amount": 100
+        },
+        {
           "name": "Premier plan (monthly)",
           "price": "USD 92.00",
           "amount": 92
-        },
-        {
-          "name": "Standard plan (annual)",
-          "price": "USD 120.99",
-          "amount": 120.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:49.727Z"
+      "fetchedAt": "2026-10-26T09:47:30.422Z"
     },
     "dz": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard Membership - one week",
-          "price": "$1.49",
-          "amount": 1.49
+          "name": "Standard plan (monthly)",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "100 Credits",
@@ -2378,24 +2378,14 @@
           "amount": 1.49
         },
         {
-          "name": "Standard plan (monthly)",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "$5.00",
           "amount": 5
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "$1.19",
-          "amount": 1.19
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "$0.59",
-          "amount": 0.59
+          "name": "Standard Membership - one week",
+          "price": "$1.49",
+          "amount": 1.49
         },
         {
           "name": "Standard Membership-one week",
@@ -2408,6 +2398,16 @@
           "amount": 37
         },
         {
+          "name": "Standard Membership-one week",
+          "price": "$0.59",
+          "amount": 0.59
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "$1.19",
+          "amount": 1.19
+        },
+        {
           "name": "660 Credits",
           "price": "$10.00",
           "amount": 10
@@ -2418,7 +2418,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:51.277Z"
+      "fetchedAt": "2026-10-26T09:47:31.832Z"
     },
     "ec": {
       "currency": "USD",
@@ -2439,24 +2439,24 @@
           "amount": 1.19
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
         {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
+        },
+        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Premier plan (monthly)",
@@ -2474,7 +2474,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:52.796Z"
+      "fetchedAt": "2026-10-26T09:47:33.426Z"
     },
     "ee": {
       "currency": "EUR",
@@ -2515,6 +2515,11 @@
           "amount": 1.99
         },
         {
+          "name": "Premier plan (monthly)",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
           "name": "Ultra plan (monthly)",
           "price": "199,99 €",
           "amount": 199.99
@@ -2523,14 +2528,9 @@
           "name": "3300 Credits",
           "price": "60,00 €",
           "amount": 60
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "99,00 €",
-          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:54.252Z"
+      "fetchedAt": "2026-10-26T09:47:34.913Z"
     },
     "eg": {
       "currency": "EGP",
@@ -2546,14 +2546,14 @@
           "amount": 79.99
         },
         {
-          "name": "330 Credits",
-          "price": "EGP 249.99",
-          "amount": 249.99
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "EGP 499.99",
           "amount": 499.99
+        },
+        {
+          "name": "330 Credits",
+          "price": "EGP 249.99",
+          "amount": 249.99
         },
         {
           "name": "660 Credits",
@@ -2586,7 +2586,7 @@
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:55.776Z"
+      "fetchedAt": "2026-10-26T09:47:36.324Z"
     },
     "es": {
       "currency": "EUR",
@@ -2602,14 +2602,14 @@
           "amount": 6
         },
         {
-          "name": "660 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "0,99 €",
           "amount": 0.99
+        },
+        {
+          "name": "660 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -2642,7 +2642,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:57.434Z"
+      "fetchedAt": "2026-10-26T09:47:37.936Z"
     },
     "fi": {
       "currency": "EUR",
@@ -2678,6 +2678,11 @@
           "amount": 39
         },
         {
+          "name": "Premier plan (monthly)",
+          "price": "99,00 €",
+          "amount": 99
+        },
+        {
           "name": "Ultra plan (monthly)",
           "price": "199,99 €",
           "amount": 199.99
@@ -2688,17 +2693,12 @@
           "amount": 1.99
         },
         {
-          "name": "3300 Credits",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "6600 Credits",
           "price": "100,00 €",
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:47:58.776Z"
+      "fetchedAt": "2026-10-26T09:47:39.437Z"
     },
     "fj": {
       "currency": "USD",
@@ -2709,14 +2709,14 @@
           "amount": 10
         },
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Standard Membership - one week",
@@ -2754,7 +2754,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:00.310Z"
+      "fetchedAt": "2026-10-26T09:47:40.871Z"
     },
     "fm": {
       "currency": "USD",
@@ -2810,7 +2810,7 @@
           "amount": 22.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:01.883Z"
+      "fetchedAt": "2026-10-26T09:47:42.320Z"
     },
     "fr": {
       "currency": "EUR",
@@ -2866,23 +2866,18 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:03.259Z"
+      "fetchedAt": "2026-10-26T09:47:43.895Z"
     },
     "ga": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "660 Credits",
+          "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -2890,6 +2885,11 @@
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership - one week",
@@ -2922,7 +2922,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:04.769Z"
+      "fetchedAt": "2026-10-26T09:47:45.376Z"
     },
     "gb": {
       "currency": "GBP",
@@ -2978,7 +2978,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:06.298Z"
+      "fetchedAt": "2026-10-26T09:47:46.845Z"
     },
     "gd": {
       "currency": "USD",
@@ -3034,7 +3034,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:07.790Z"
+      "fetchedAt": "2026-10-26T09:47:48.343Z"
     },
     "ge": {
       "currency": "USD",
@@ -3065,14 +3065,14 @@
           "amount": 1.99
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 45.00",
-          "amount": 45
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 45.00",
+          "amount": 45
         },
         {
           "name": "13200 Credits",
@@ -3080,17 +3080,17 @@
           "amount": 250
         },
         {
+          "name": "100 Credits",
+          "price": "USD 1.99",
+          "amount": 1.99
+        },
+        {
           "name": "3300 Credits",
           "price": "USD 60.00",
           "amount": 60
-        },
-        {
-          "name": "Ultra plan (monthly)",
-          "price": "USD 199.99",
-          "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:09.273Z"
+      "fetchedAt": "2026-10-26T09:47:49.849Z"
     },
     "gh": {
       "currency": "USD",
@@ -3111,14 +3111,14 @@
           "amount": 0.99
         },
         {
-          "name": "660 Credits",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 45.00",
           "amount": 45
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "1320 Credits",
@@ -3146,7 +3146,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:10.473Z"
+      "fetchedAt": "2026-10-26T09:47:51.369Z"
     },
     "gm": {
       "currency": "USD",
@@ -3202,7 +3202,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:12.190Z"
+      "fetchedAt": "2026-10-26T09:47:52.850Z"
     },
     "gr": {
       "currency": "EUR",
@@ -3258,7 +3258,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:13.764Z"
+      "fetchedAt": "2026-10-26T09:47:54.372Z"
     },
     "gt": {
       "currency": "USD",
@@ -3279,19 +3279,19 @@
           "amount": 1.19
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
+        },
+        {
+          "name": "6600 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Premier plan (monthly)",
@@ -3299,26 +3299,31 @@
           "amount": 92
         },
         {
-          "name": "3300 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
         },
         {
-          "name": "6600 Credits",
-          "price": "USD 100.00",
-          "amount": 100
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:15.291Z"
+      "fetchedAt": "2026-10-26T09:47:55.956Z"
     },
     "gw": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
@@ -3363,32 +3368,22 @@
           "name": "Standard Membership-one week",
           "price": "USD 0.79",
           "amount": 0.79
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:16.793Z"
+      "fetchedAt": "2026-10-26T09:47:57.363Z"
     },
     "gy": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -3399,6 +3394,11 @@
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "660 Credits",
@@ -3426,7 +3426,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:18.326Z"
+      "fetchedAt": "2026-10-26T09:47:58.901Z"
     },
     "hk": {
       "currency": "HKD",
@@ -3447,14 +3447,14 @@
           "amount": 8
         },
         {
-          "name": "660 Credits",
-          "price": "HK$ 88.00",
-          "amount": 88
-        },
-        {
           "name": "1320 Credits",
           "price": "HK$ 148.00",
           "amount": 148
+        },
+        {
+          "name": "660 Credits",
+          "price": "HK$ 88.00",
+          "amount": 88
         },
         {
           "name": "Pro plan (monthly)",
@@ -3477,12 +3477,12 @@
           "amount": 688
         },
         {
-          "name": "6600 Credits",
-          "price": "HK$ 788.00",
-          "amount": 788
+          "name": "Ultra plan (monthly)",
+          "price": "HK$ 1,488.00",
+          "amount": 1488
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:19.790Z"
+      "fetchedAt": "2026-10-26T09:48:00.384Z"
     },
     "hn": {
       "currency": "USD",
@@ -3503,14 +3503,14 @@
           "amount": 1.19
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -3538,7 +3538,7 @@
           "amount": 1.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:21.260Z"
+      "fetchedAt": "2026-10-26T09:48:01.934Z"
     },
     "hr": {
       "currency": "EUR",
@@ -3569,14 +3569,14 @@
           "amount": 39
         },
         {
-          "name": "1320 Credits",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "1320 Credits",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "3300 Credits",
@@ -3594,7 +3594,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:22.942Z"
+      "fetchedAt": "2026-10-26T09:48:03.374Z"
     },
     "hu": {
       "currency": "HUF",
@@ -3635,11 +3635,6 @@
           "amount": 17990
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "HUF39,990.00",
-          "amount": 39990
-        },
-        {
           "name": "3300 Credits",
           "price": "HUF22,990.00",
           "amount": 22990
@@ -3648,9 +3643,14 @@
           "name": "Kling AI 3.0 Motion Control 1 Use",
           "price": "HUF499.00",
           "amount": 499
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "HUF39,990.00",
+          "amount": 39990
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:24.273Z"
+      "fetchedAt": "2026-10-26T09:48:04.897Z"
     },
     "id": {
       "currency": "IDR",
@@ -3701,12 +3701,12 @@
           "amount": 999
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "Rp 1,499juta",
-          "amount": 1499
+          "name": "Ultra plan (monthly)",
+          "price": "Rp 2,999juta",
+          "amount": 2999
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:25.687Z"
+      "fetchedAt": "2026-10-26T09:48:06.319Z"
     },
     "ie": {
       "currency": "EUR",
@@ -3747,6 +3747,11 @@
           "amount": 1.99
         },
         {
+          "name": "6600 Credits",
+          "price": "€100.00",
+          "amount": 100
+        },
+        {
           "name": "3300 Credits",
           "price": "€60.00",
           "amount": 60
@@ -3755,14 +3760,9 @@
           "name": "Premier plan (monthly)",
           "price": "€99.00",
           "amount": 99
-        },
-        {
-          "name": "6600 Credits",
-          "price": "€100.00",
-          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:27.236Z"
+      "fetchedAt": "2026-10-26T09:48:07.867Z"
     },
     "il": {
       "currency": "ILS",
@@ -3773,14 +3773,14 @@
           "amount": 14.9
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "₪4.90",
-          "amount": 4.9
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "₪34.90",
           "amount": 34.9
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "₪4.90",
+          "amount": 4.9
         },
         {
           "name": "660 Credits",
@@ -3818,7 +3818,7 @@
           "amount": 299.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:28.856Z"
+      "fetchedAt": "2026-10-26T09:48:09.463Z"
     },
     "in": {
       "currency": "INR",
@@ -3874,7 +3874,7 @@
           "amount": 3999
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:30.252Z"
+      "fetchedAt": "2026-10-26T09:48:10.876Z"
     },
     "iq": {
       "currency": "USD",
@@ -3930,7 +3930,7 @@
           "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:31.748Z"
+      "fetchedAt": "2026-10-26T09:48:12.377Z"
     },
     "is": {
       "currency": "USD",
@@ -3961,6 +3961,11 @@
           "amount": 45
         },
         {
+          "name": "3300 Credits",
+          "price": "USD 60.00",
+          "amount": 60
+        },
+        {
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
@@ -3969,11 +3974,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
-        },
-        {
-          "name": "3300 Credits",
-          "price": "USD 60.00",
-          "amount": 60
         },
         {
           "name": "100 Credits",
@@ -3986,7 +3986,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:33.252Z"
+      "fetchedAt": "2026-10-26T09:48:13.910Z"
     },
     "it": {
       "currency": "EUR",
@@ -4032,17 +4032,17 @@
           "amount": 60
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "99,00 €",
-          "amount": 99
-        },
-        {
           "name": "6600 Credits",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "99,00 €",
+          "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:34.812Z"
+      "fetchedAt": "2026-10-26T09:48:15.380Z"
     },
     "jm": {
       "currency": "USD",
@@ -4058,14 +4058,14 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
         },
         {
           "name": "Pro plan (monthly)",
@@ -4088,17 +4088,17 @@
           "amount": 50
         },
         {
-          "name": "Standard plan (annual)",
-          "price": "USD 120.99",
-          "amount": 120.99
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "USD 92.00",
           "amount": 92
+        },
+        {
+          "name": "13200 Credits",
+          "price": "USD 200.00",
+          "amount": 200
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:36.291Z"
+      "fetchedAt": "2026-10-26T09:48:17.011Z"
     },
     "jo": {
       "currency": "USD",
@@ -4154,7 +4154,7 @@
           "amount": 37
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:37.818Z"
+      "fetchedAt": "2026-10-26T09:48:18.320Z"
     },
     "jp": {
       "currency": "JPY",
@@ -4210,7 +4210,7 @@
           "amount": 15000
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:39.217Z"
+      "fetchedAt": "2026-10-26T09:48:19.869Z"
     },
     "ke": {
       "currency": "USD",
@@ -4231,6 +4231,11 @@
           "amount": 0.99
         },
         {
+          "name": "660 Credits",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
@@ -4239,11 +4244,6 @@
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 12.00",
-          "amount": 12
         },
         {
           "name": "Pro plan (monthly)",
@@ -4266,7 +4266,7 @@
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:40.742Z"
+      "fetchedAt": "2026-10-26T09:48:21.389Z"
     },
     "kg": {
       "currency": "USD",
@@ -4277,14 +4277,14 @@
           "amount": 10
         },
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "USD 0.99",
           "amount": 0.99
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "660 Credits",
@@ -4292,14 +4292,14 @@
           "amount": 10
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "1320 Credits",
@@ -4307,14 +4307,14 @@
           "amount": 22
         },
         {
-          "name": "3300 Credits",
-          "price": "USD 50.00",
-          "amount": 50
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "USD 99.00",
           "amount": 99
+        },
+        {
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "100 Credits",
@@ -4322,7 +4322,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:42.260Z"
+      "fetchedAt": "2026-10-26T09:48:22.860Z"
     },
     "kh": {
       "currency": "USD",
@@ -4343,14 +4343,14 @@
           "amount": 10
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -4363,14 +4363,14 @@
           "amount": 22
         },
         {
-          "name": "Ultra plan (monthly)",
-          "price": "USD 199.99",
-          "amount": 199.99
-        },
-        {
           "name": "3300 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "6600 Credits",
+          "price": "USD 100.00",
+          "amount": 100
         },
         {
           "name": "Premier plan (monthly)",
@@ -4378,20 +4378,20 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:43.746Z"
+      "fetchedAt": "2026-10-26T09:48:24.422Z"
     },
     "kn": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "660 Credits",
@@ -4434,7 +4434,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:45.263Z"
+      "fetchedAt": "2026-10-26T09:48:25.900Z"
     },
     "kr": {
       "currency": "KRW",
@@ -4465,14 +4465,14 @@
           "amount": 55000
         },
         {
-          "name": "1320 Credits",
-          "price": "￦33,000",
-          "amount": 33000
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "￦2,200",
           "amount": 2200
+        },
+        {
+          "name": "1320 Credits",
+          "price": "￦33,000",
+          "amount": 33000
         },
         {
           "name": "3300 Credits",
@@ -4485,12 +4485,12 @@
           "amount": 129000
         },
         {
-          "name": "6600 Credits",
-          "price": "￦149,000",
-          "amount": 149000
+          "name": "100 Credits",
+          "price": "￦2,200",
+          "amount": 2200
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:46.823Z"
+      "fetchedAt": "2026-10-26T09:48:27.384Z"
     },
     "kw": {
       "currency": "USD",
@@ -4521,14 +4521,14 @@
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "$20.00",
-          "amount": 20
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "$37.00",
           "amount": 37
+        },
+        {
+          "name": "1320 Credits",
+          "price": "$20.00",
+          "amount": 20
         },
         {
           "name": "3300 Credits",
@@ -4546,7 +4546,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:48.274Z"
+      "fetchedAt": "2026-10-26T09:48:28.866Z"
     },
     "ky": {
       "currency": "USD",
@@ -4562,14 +4562,14 @@
           "amount": 5
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership-one week",
@@ -4602,7 +4602,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:49.751Z"
+      "fetchedAt": "2026-10-26T09:48:30.389Z"
     },
     "kz": {
       "currency": "KZT",
@@ -4658,7 +4658,7 @@
           "amount": 29990
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:51.220Z"
+      "fetchedAt": "2026-10-26T09:48:31.896Z"
     },
     "la": {
       "currency": "USD",
@@ -4684,16 +4684,6 @@
           "amount": 10
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
-          "name": "Standard Membership - one week",
-          "price": "USD 1.99",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 22.00",
           "amount": 22
@@ -4702,6 +4692,16 @@
           "name": "3300 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 39.00",
+          "amount": 39
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "USD 1.99",
+          "amount": 1.99
         },
         {
           "name": "100 Credits",
@@ -4714,7 +4714,7 @@
           "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:52.770Z"
+      "fetchedAt": "2026-10-26T09:48:33.371Z"
     },
     "lb": {
       "currency": "USD",
@@ -4735,14 +4735,14 @@
           "amount": 10
         },
         {
-          "name": "660 Credits",
-          "price": "$10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "$1.19",
           "amount": 1.19
+        },
+        {
+          "name": "660 Credits",
+          "price": "$10.00",
+          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -4765,12 +4765,12 @@
           "amount": 92
         },
         {
-          "name": "13200 Credits",
-          "price": "$200.00",
-          "amount": 200
+          "name": "6600 Credits",
+          "price": "$100.00",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:54.279Z"
+      "fetchedAt": "2026-10-26T09:48:34.823Z"
     },
     "lc": {
       "currency": "USD",
@@ -4826,7 +4826,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:55.829Z"
+      "fetchedAt": "2026-10-26T09:48:36.376Z"
     },
     "lk": {
       "currency": "USD",
@@ -4857,9 +4857,9 @@
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -4867,9 +4867,9 @@
           "amount": 1.49
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "3300 Credits",
@@ -4882,11 +4882,16 @@
           "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:57.272Z"
+      "fetchedAt": "2026-10-26T09:48:37.889Z"
     },
     "lr": {
       "currency": "USD",
       "items": [
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
@@ -4906,11 +4911,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -4938,7 +4938,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:48:58.757Z"
+      "fetchedAt": "2026-10-26T09:48:39.583Z"
     },
     "lt": {
       "currency": "EUR",
@@ -4969,14 +4969,14 @@
           "amount": 22
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "39,00 €",
           "amount": 39
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Premier plan (monthly)",
@@ -4994,7 +4994,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:00.317Z"
+      "fetchedAt": "2026-10-26T09:48:40.857Z"
     },
     "lu": {
       "currency": "EUR",
@@ -5015,14 +5015,14 @@
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "0,99 €",
           "amount": 0.99
+        },
+        {
+          "name": "1320 Credits",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Pro plan (monthly)",
@@ -5035,14 +5035,14 @@
           "amount": 1.99
         },
         {
-          "name": "3300 Credits",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "6600 Credits",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "3300 Credits",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Kling AI 3.0 Motion Control 1 Use",
@@ -5050,7 +5050,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:01.863Z"
+      "fetchedAt": "2026-10-26T09:48:42.333Z"
     },
     "lv": {
       "currency": "EUR",
@@ -5076,6 +5076,11 @@
           "amount": 10
         },
         {
+          "name": "Pro plan (monthly)",
+          "price": "39,00 €",
+          "amount": 39
+        },
+        {
           "name": "Standard Membership - one week",
           "price": "1,99 €",
           "amount": 1.99
@@ -5086,9 +5091,9 @@
           "amount": 22
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "39,00 €",
-          "amount": 39
+          "name": "100 Credits",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "3300 Credits",
@@ -5099,14 +5104,9 @@
           "name": "Ultra plan (monthly)",
           "price": "199,99 €",
           "amount": 199.99
-        },
-        {
-          "name": "Kling AI 2.6 Motion Control 1 Use",
-          "price": "0,99 €",
-          "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:03.225Z"
+      "fetchedAt": "2026-10-26T09:48:44.029Z"
     },
     "ly": {
       "currency": "USD",
@@ -5117,14 +5117,14 @@
           "amount": 1.49
         },
         {
-          "name": "330 Credits",
-          "price": "$5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "$10.00",
           "amount": 10
+        },
+        {
+          "name": "330 Credits",
+          "price": "$5.00",
+          "amount": 5
         },
         {
           "name": "Standard Membership-one week",
@@ -5162,7 +5162,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:04.764Z"
+      "fetchedAt": "2026-10-26T09:48:45.369Z"
     },
     "ma": {
       "available": false,
@@ -5172,14 +5172,14 @@
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "330 Credits",
           "price": "USD 6.00",
           "amount": 6
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 12.00",
+          "amount": 12
         },
         {
           "name": "Standard Membership-one week",
@@ -5222,15 +5222,15 @@
           "amount": 60
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:06.178Z"
+      "fetchedAt": "2026-10-26T09:48:46.879Z"
     },
     "me": {
       "currency": "EUR",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "5,00 €",
-          "amount": 5
+          "name": "660 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Standard plan (monthly)",
@@ -5238,9 +5238,9 @@
           "amount": 10
         },
         {
-          "name": "660 Credits",
-          "price": "10,00 €",
-          "amount": 10
+          "name": "330 Credits",
+          "price": "5,00 €",
+          "amount": 5
         },
         {
           "name": "Standard Membership-one week",
@@ -5253,14 +5253,14 @@
           "amount": 35
         },
         {
-          "name": "1320 Credits",
-          "price": "20,00 €",
-          "amount": 20
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "0,99 €",
           "amount": 0.99
+        },
+        {
+          "name": "1320 Credits",
+          "price": "20,00 €",
+          "amount": 20
         },
         {
           "name": "3300 Credits",
@@ -5278,18 +5278,23 @@
           "amount": 399
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:07.774Z"
+      "fetchedAt": "2026-10-26T09:48:48.392Z"
     },
     "mg": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Standard plan (monthly)",
+          "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -5302,11 +5307,6 @@
           "name": "1320 Credits",
           "price": "USD 20.00",
           "amount": 20
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -5334,25 +5334,30 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:09.299Z"
+      "fetchedAt": "2026-10-26T09:48:49.876Z"
     },
     "mk": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -5370,11 +5375,6 @@
           "amount": 1.49
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "3300 Credits",
           "price": "USD 50.00",
           "amount": 50
@@ -5390,20 +5390,20 @@
           "amount": 192.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:10.834Z"
+      "fetchedAt": "2026-10-26T09:48:51.351Z"
     },
     "ml": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Standard Membership-one week",
@@ -5446,7 +5446,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:12.279Z"
+      "fetchedAt": "2026-10-26T09:48:52.848Z"
     },
     "mm": {
       "currency": "USD",
@@ -5467,16 +5467,6 @@
           "amount": 1.19
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
@@ -5485,6 +5475,16 @@
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "100 Credits",
@@ -5502,20 +5502,20 @@
           "amount": 179.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:13.483Z"
+      "fetchedAt": "2026-10-26T09:48:54.467Z"
     },
     "mn": {
       "currency": "USD",
       "items": [
         {
-          "name": "Standard plan (monthly)",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -5558,7 +5558,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:15.261Z"
+      "fetchedAt": "2026-10-26T09:48:55.882Z"
     },
     "mo": {
       "currency": "USD",
@@ -5579,14 +5579,14 @@
           "amount": 1.19
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -5614,11 +5614,16 @@
           "amount": 92
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:16.798Z"
+      "fetchedAt": "2026-10-26T09:48:57.334Z"
     },
     "mr": {
       "currency": "USD",
       "items": [
+        {
+          "name": "330 Credits",
+          "price": "$5.00",
+          "amount": 5
+        },
         {
           "name": "Standard Membership - one week",
           "price": "$1.49",
@@ -5633,11 +5638,6 @@
           "name": "Standard plan (monthly)",
           "price": "$10.00",
           "amount": 10
-        },
-        {
-          "name": "330 Credits",
-          "price": "$5.00",
-          "amount": 5
         },
         {
           "name": "Pro plan (monthly)",
@@ -5670,7 +5670,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:18.295Z"
+      "fetchedAt": "2026-10-26T09:48:58.869Z"
     },
     "ms": {
       "currency": "USD",
@@ -5726,7 +5726,7 @@
           "amount": 22.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:19.763Z"
+      "fetchedAt": "2026-10-26T09:49:00.333Z"
     },
     "mt": {
       "currency": "EUR",
@@ -5737,14 +5737,14 @@
           "amount": 10
         },
         {
-          "name": "660 Credits",
-          "price": "10,00 €",
-          "amount": 10
-        },
-        {
           "name": "330 Credits",
           "price": "6,00 €",
           "amount": 6
+        },
+        {
+          "name": "660 Credits",
+          "price": "10,00 €",
+          "amount": 10
         },
         {
           "name": "Standard Membership-one week",
@@ -5752,9 +5752,9 @@
           "amount": 0.99
         },
         {
-          "name": "3300 Credits",
-          "price": "60,00 €",
-          "amount": 60
+          "name": "1320 Credits",
+          "price": "22,00 €",
+          "amount": 22
         },
         {
           "name": "Pro plan (monthly)",
@@ -5762,14 +5762,14 @@
           "amount": 39
         },
         {
-          "name": "1320 Credits",
-          "price": "22,00 €",
-          "amount": 22
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "3300 Credits",
+          "price": "60,00 €",
+          "amount": 60
         },
         {
           "name": "Standard Membership-one week",
@@ -5782,7 +5782,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:21.293Z"
+      "fetchedAt": "2026-10-26T09:49:01.877Z"
     },
     "mu": {
       "currency": "USD",
@@ -5808,9 +5808,9 @@
           "amount": 12
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 25.00",
-          "amount": 25
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -5818,9 +5818,9 @@
           "amount": 1.99
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "1320 Credits",
+          "price": "USD 25.00",
+          "amount": 25
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -5838,7 +5838,7 @@
           "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:22.804Z"
+      "fetchedAt": "2026-10-26T09:49:03.393Z"
     },
     "mv": {
       "currency": "USD",
@@ -5859,14 +5859,14 @@
           "amount": 1.19
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "1320 Credits",
@@ -5894,30 +5894,30 @@
           "amount": 92
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:24.334Z"
+      "fetchedAt": "2026-10-26T09:49:05.007Z"
     },
     "mw": {
       "currency": "USD",
       "items": [
-        {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
         {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -5950,7 +5950,7 @@
           "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:25.846Z"
+      "fetchedAt": "2026-10-26T09:49:06.491Z"
     },
     "mx": {
       "currency": "MXN",
@@ -5961,14 +5961,14 @@
           "amount": 99
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "$29.00",
-          "amount": 29
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "$199.00",
           "amount": 199
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "$29.00",
+          "amount": 29
         },
         {
           "name": "Standard Membership-one week",
@@ -6001,25 +6001,25 @@
           "amount": 1999
         },
         {
-          "name": "6600 Credits",
-          "price": "$1,999.00",
-          "amount": 1999
+          "name": "Ultra plan (monthly)",
+          "price": "$3,999.00",
+          "amount": 3999
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:27.383Z"
+      "fetchedAt": "2026-10-26T09:49:08.018Z"
     },
     "my": {
       "currency": "MYR",
       "items": [
         {
-          "name": "Standard Membership - one week",
-          "price": "RM4.90",
-          "amount": 4.9
-        },
-        {
           "name": "330 Credits",
           "price": "RM22.90",
           "amount": 22.9
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "RM4.90",
+          "amount": 4.9
         },
         {
           "name": "Standard Membership-one week",
@@ -6062,7 +6062,7 @@
           "amount": 499.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:28.736Z"
+      "fetchedAt": "2026-10-26T09:49:09.353Z"
     },
     "mz": {
       "currency": "USD",
@@ -6073,14 +6073,19 @@
           "amount": 10
         },
         {
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
+        },
+        {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -6093,19 +6098,14 @@
           "amount": 1.49
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Kling AI 2.6 Motion Control 1 Use",
           "price": "USD 0.99",
           "amount": 0.99
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -6118,7 +6118,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:30.292Z"
+      "fetchedAt": "2026-10-26T09:49:10.930Z"
     },
     "na": {
       "currency": "USD",
@@ -6134,14 +6134,14 @@
           "amount": 5
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership - one week",
@@ -6174,11 +6174,16 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:31.738Z"
+      "fetchedAt": "2026-10-26T09:49:12.377Z"
     },
     "ne": {
       "currency": "USD",
       "items": [
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
@@ -6205,11 +6210,6 @@
           "amount": 1.49
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Premier plan (28k credits, monthly)",
           "price": "USD 192.99",
           "amount": 192.99
@@ -6230,7 +6230,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:33.304Z"
+      "fetchedAt": "2026-10-26T09:49:13.881Z"
     },
     "ng": {
       "currency": "NGN",
@@ -6241,24 +6241,24 @@
           "amount": 1900
         },
         {
-          "name": "330 Credits",
-          "price": "₦ 7,900.00",
-          "amount": 7900
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "₦ 14,900.00",
           "amount": 14900
         },
         {
-          "name": "660 Credits",
-          "price": "₦ 14,900.00",
-          "amount": 14900
+          "name": "330 Credits",
+          "price": "₦ 7,900.00",
+          "amount": 7900
         },
         {
           "name": "Standard Membership - one week",
           "price": "₦ 2,500.00",
           "amount": 2500
+        },
+        {
+          "name": "660 Credits",
+          "price": "₦ 14,900.00",
+          "amount": 14900
         },
         {
           "name": "1320 Credits",
@@ -6276,17 +6276,17 @@
           "amount": 79900
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "₦ 149,900.00",
-          "amount": 149900
-        },
-        {
           "name": "100 Credits",
           "price": "₦ 2,500.00",
           "amount": 2500
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "₦ 149,900.00",
+          "amount": 149900
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:34.793Z"
+      "fetchedAt": "2026-10-26T09:49:15.365Z"
     },
     "ni": {
       "currency": "USD",
@@ -6342,7 +6342,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:36.325Z"
+      "fetchedAt": "2026-10-26T09:49:17.197Z"
     },
     "nl": {
       "currency": "EUR",
@@ -6393,12 +6393,12 @@
           "amount": 100
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "€ 99,00",
-          "amount": 99
+          "name": "100 Credits",
+          "price": "€ 1,99",
+          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:37.775Z"
+      "fetchedAt": "2026-10-26T09:49:18.360Z"
     },
     "no": {
       "currency": "NOK",
@@ -6414,14 +6414,14 @@
           "amount": 129
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "19,00 kr",
-          "amount": 19
-        },
-        {
           "name": "660 Credits",
           "price": "129,00 kr",
           "amount": 129
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "19,00 kr",
+          "amount": 19
         },
         {
           "name": "1320 Credits",
@@ -6429,14 +6429,14 @@
           "amount": 249
         },
         {
-          "name": "3300 Credits",
-          "price": "599,00 kr",
-          "amount": 599
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "499,00 kr",
           "amount": 499
+        },
+        {
+          "name": "3300 Credits",
+          "price": "599,00 kr",
+          "amount": 599
         },
         {
           "name": "Standard Membership - one week",
@@ -6444,17 +6444,17 @@
           "amount": 19
         },
         {
-          "name": "100 Credits",
-          "price": "19,00 kr",
-          "amount": 19
-        },
-        {
           "name": "6600 Credits",
           "price": "1.290,00 kr",
           "amount": 1290
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "1.190,00 kr",
+          "amount": 1190
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:39.277Z"
+      "fetchedAt": "2026-10-26T09:49:19.924Z"
     },
     "np": {
       "currency": "USD",
@@ -6510,7 +6510,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:40.916Z"
+      "fetchedAt": "2026-10-26T09:49:21.667Z"
     },
     "nr": {
       "currency": "USD",
@@ -6566,7 +6566,7 @@
           "amount": 0.59
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:42.333Z"
+      "fetchedAt": "2026-10-26T09:49:22.902Z"
     },
     "nz": {
       "currency": "NZD",
@@ -6612,17 +6612,17 @@
           "amount": 100
         },
         {
+          "name": "6600 Credits",
+          "price": "$200.00",
+          "amount": 200
+        },
+        {
           "name": "100 Credits",
           "price": "$2.99",
           "amount": 2.99
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "$179.00",
-          "amount": 179
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:43.757Z"
+      "fetchedAt": "2026-10-26T09:49:24.426Z"
     },
     "om": {
       "currency": "USD",
@@ -6658,9 +6658,9 @@
           "amount": 10
         },
         {
-          "name": "1320 Credits",
-          "price": "$20.00",
-          "amount": 20
+          "name": "Pro plan (monthly)",
+          "price": "$37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership-one week",
@@ -6668,17 +6668,17 @@
           "amount": 0.59
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "$37.00",
-          "amount": 37
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "$1.19",
           "amount": 1.19
+        },
+        {
+          "name": "1320 Credits",
+          "price": "$20.00",
+          "amount": 20
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:45.229Z"
+      "fetchedAt": "2026-10-26T09:49:25.871Z"
     },
     "pa": {
       "currency": "USD",
@@ -6704,14 +6704,14 @@
           "amount": 37
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 20.00",
           "amount": 20
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Standard Membership - one week",
@@ -6734,7 +6734,7 @@
           "amount": 92
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:46.816Z"
+      "fetchedAt": "2026-10-26T09:49:27.457Z"
     },
     "pe": {
       "currency": "PEN",
@@ -6780,17 +6780,17 @@
           "amount": 229.9
         },
         {
-          "name": "13200 Credits",
-          "price": "S/ 899.90",
-          "amount": 899.9
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "S/ 349.90",
           "amount": 349.9
+        },
+        {
+          "name": "13200 Credits",
+          "price": "S/ 899.90",
+          "amount": 899.9
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:48.287Z"
+      "fetchedAt": "2026-10-26T09:49:28.920Z"
     },
     "pg": {
       "currency": "USD",
@@ -6811,9 +6811,9 @@
           "amount": 1.19
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "Pro plan (monthly)",
@@ -6821,19 +6821,19 @@
           "amount": 37
         },
         {
+          "name": "Premier plan (monthly)",
+          "price": "USD 92.00",
+          "amount": 92
+        },
+        {
           "name": "100 Credits",
           "price": "USD 1.49",
           "amount": 1.49
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "USD 92.00",
-          "amount": 92
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -6846,7 +6846,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:49.805Z"
+      "fetchedAt": "2026-10-26T09:49:30.332Z"
     },
     "ph": {
       "currency": "PHP",
@@ -6882,14 +6882,14 @@
           "amount": 29
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "₱ 79.00",
-          "amount": 79
-        },
-        {
           "name": "660 Credits",
           "price": "₱ 599.00",
           "amount": 599
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "₱ 79.00",
+          "amount": 79
         },
         {
           "name": "Pro plan (monthly)",
@@ -6902,7 +6902,7 @@
           "amount": 1290
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:51.295Z"
+      "fetchedAt": "2026-10-26T09:49:31.857Z"
     },
     "pk": {
       "currency": "PKR",
@@ -6923,11 +6923,6 @@
           "amount": 300
         },
         {
-          "name": "660 Credits",
-          "price": "Rs 2,900.00",
-          "amount": 2900
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "Rs 400.00",
           "amount": 400
@@ -6936,6 +6931,11 @@
           "name": "1320 Credits",
           "price": "Rs 4,900.00",
           "amount": 4900
+        },
+        {
+          "name": "660 Credits",
+          "price": "Rs 2,900.00",
+          "amount": 2900
         },
         {
           "name": "Pro plan (monthly)",
@@ -6948,9 +6948,9 @@
           "amount": 12900
         },
         {
-          "name": "Ultra plan (monthly)",
-          "price": "Rs 49,900.00",
-          "amount": 49900
+          "name": "Premier plan (monthly)",
+          "price": "Rs 24,900.00",
+          "amount": 24900
         },
         {
           "name": "6600 Credits",
@@ -6958,7 +6958,7 @@
           "amount": 24900
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:52.784Z"
+      "fetchedAt": "2026-10-26T09:49:33.500Z"
     },
     "pl": {
       "currency": "PLN",
@@ -6969,14 +6969,14 @@
           "amount": 24.99
         },
         {
-          "name": "Standard plan (monthly)",
-          "price": "49,99 zł",
-          "amount": 49.99
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "4,99 zł",
           "amount": 4.99
+        },
+        {
+          "name": "Standard plan (monthly)",
+          "price": "49,99 zł",
+          "amount": 49.99
         },
         {
           "name": "660 Credits",
@@ -7009,12 +7009,12 @@
           "amount": 4.99
         },
         {
-          "name": "Premier plan (monthly)",
-          "price": "499,99 zł",
-          "amount": 499.99
+          "name": "Kling AI 3.0 Motion Control 1 Use",
+          "price": "4,99 zł",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:54.349Z"
+      "fetchedAt": "2026-10-26T09:49:34.939Z"
     },
     "pt": {
       "currency": "EUR",
@@ -7025,14 +7025,14 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "330 Credits",
           "price": "6,00 €",
           "amount": 6
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "660 Credits",
@@ -7060,26 +7060,21 @@
           "amount": 60
         },
         {
-          "name": "6600 Credits",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "99,00 €",
           "amount": 99
+        },
+        {
+          "name": "6600 Credits",
+          "price": "100,00 €",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:55.740Z"
+      "fetchedAt": "2026-10-26T09:49:36.357Z"
     },
     "pw": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
         {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
@@ -7089,6 +7084,11 @@
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
         },
         {
           "name": "330 Credits",
@@ -7126,20 +7126,20 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:57.282Z"
+      "fetchedAt": "2026-10-26T09:49:37.929Z"
     },
     "py": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Standard Membership-one week",
@@ -7152,14 +7152,14 @@
           "amount": 37
         },
         {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
-        },
-        {
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -7182,7 +7182,7 @@
           "amount": 1.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:49:58.730Z"
+      "fetchedAt": "2026-10-26T09:49:39.371Z"
     },
     "qa": {
       "currency": "QAR",
@@ -7228,17 +7228,17 @@
           "amount": 199.99
         },
         {
-          "name": "Ultra plan (monthly)",
-          "price": "QAR 699.99",
-          "amount": 699.99
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "QAR 349.99",
           "amount": 349.99
+        },
+        {
+          "name": "6600 Credits",
+          "price": "QAR 399.99",
+          "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:00.315Z"
+      "fetchedAt": "2026-10-26T09:49:40.829Z"
     },
     "ro": {
       "currency": "RON",
@@ -7249,14 +7249,14 @@
           "amount": 49.99
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "4,99 lei",
-          "amount": 4.99
-        },
-        {
           "name": "330 Credits",
           "price": "29,99 lei",
           "amount": 29.99
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "4,99 lei",
+          "amount": 4.99
         },
         {
           "name": "660 Credits",
@@ -7279,22 +7279,22 @@
           "amount": 199.99
         },
         {
-          "name": "3300 Credits",
-          "price": "299,99 lei",
-          "amount": 299.99
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "499,99 lei",
           "amount": 499.99
         },
         {
-          "name": "6600 Credits",
-          "price": "499,99 lei",
-          "amount": 499.99
+          "name": "3300 Credits",
+          "price": "299,99 lei",
+          "amount": 299.99
+        },
+        {
+          "name": "Kling AI 3.0 Motion Control 1 Use",
+          "price": "9,99 lei",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:01.864Z"
+      "fetchedAt": "2026-10-26T09:49:42.365Z"
     },
     "rs": {
       "currency": "EUR",
@@ -7350,63 +7350,63 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:03.293Z"
+      "fetchedAt": "2026-10-26T09:49:43.866Z"
     },
     "ru": {
       "currency": "RUB",
       "items": [
+        {
+          "name": "Premier plan (28k credits, monthly)",
+          "price": "17 990,00 ₽",
+          "amount": 17990
+        },
+        {
+          "name": "Pro plan (annual)",
+          "price": "39 990,00 ₽",
+          "amount": 39990
+        },
+        {
+          "name": "Standard plan (annual)",
+          "price": "9 990,00 ₽",
+          "amount": 9990
+        },
+        {
+          "name": "Premier plan (28k credits, monthly)",
+          "price": "29 990,00 ₽",
+          "amount": 29990
+        },
         {
           "name": "Standard Membership-one week",
           "price": "99,00 ₽",
           "amount": 99
         },
         {
-          "name": "330 Credits",
-          "price": "449,00 ₽",
-          "amount": 449
+          "name": "Standard Membership-one week",
+          "price": "49,00 ₽",
+          "amount": 49
         },
         {
-          "name": "Standard plan (monthly)",
-          "price": "899,00 ₽",
-          "amount": 899
+          "name": "Standard Membership-one week",
+          "price": "99,00 ₽",
+          "amount": 99
         },
         {
-          "name": "660 Credits",
-          "price": "899,00 ₽",
-          "amount": 899
+          "name": "Standard Membership-one week",
+          "price": "49,00 ₽",
+          "amount": 49
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "149,00 ₽",
-          "amount": 149
+          "name": "Kling AI 3.0 Motion Control 3 Uses",
+          "price": "399,00 ₽",
+          "amount": 399
         },
         {
-          "name": "1320 Credits",
-          "price": "1 790,00 ₽",
-          "amount": 1790
-        },
-        {
-          "name": "Pro plan (monthly)",
-          "price": "2 990,00 ₽",
-          "amount": 2990
-        },
-        {
-          "name": "3300 Credits",
-          "price": "4 490,00 ₽",
-          "amount": 4490
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "7 990,00 ₽",
-          "amount": 7990
-        },
-        {
-          "name": "100 Credits",
-          "price": "149,00 ₽",
-          "amount": 149
+          "name": "Kling AI 3.0 Motion Control 15 Uses",
+          "price": "1 990,00 ₽",
+          "amount": 1990
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:04.753Z"
+      "fetchedAt": "2026-10-26T09:49:45.679Z"
     },
     "rw": {
       "currency": "USD",
@@ -7427,14 +7427,14 @@
           "amount": 5
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "USD 1.49",
-          "amount": 1.49
-        },
-        {
           "name": "Pro plan (monthly)",
           "price": "USD 37.00",
           "amount": 37
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "USD 1.49",
+          "amount": 1.49
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -7462,7 +7462,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:06.516Z"
+      "fetchedAt": "2026-10-26T09:49:46.890Z"
     },
     "sa": {
       "currency": "SAR",
@@ -7493,19 +7493,14 @@
           "amount": 39.99
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "SAR 149.99",
-          "amount": 149.99
-        },
-        {
           "name": "1320 Credits",
           "price": "SAR 89.99",
           "amount": 89.99
         },
         {
-          "name": "100 Credits",
-          "price": "SAR 4.99",
-          "amount": 4.99
+          "name": "Pro plan (monthly)",
+          "price": "SAR 149.99",
+          "amount": 149.99
         },
         {
           "name": "3300 Credits",
@@ -7513,25 +7508,30 @@
           "amount": 199.99
         },
         {
+          "name": "100 Credits",
+          "price": "SAR 4.99",
+          "amount": 4.99
+        },
+        {
           "name": "Premier plan (monthly)",
           "price": "SAR 399.99",
           "amount": 399.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:07.739Z"
+      "fetchedAt": "2026-10-26T09:49:48.342Z"
     },
     "sb": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
         },
         {
           "name": "Premier plan (28k credits, monthly)",
@@ -7574,16 +7574,11 @@
           "amount": 0.59
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:09.264Z"
+      "fetchedAt": "2026-10-26T09:49:49.898Z"
     },
     "sc": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
         {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
@@ -7593,6 +7588,11 @@
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership-one week",
@@ -7630,7 +7630,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:10.762Z"
+      "fetchedAt": "2026-10-26T09:49:51.385Z"
     },
     "se": {
       "currency": "SEK",
@@ -7681,12 +7681,12 @@
           "amount": 1195
         },
         {
-          "name": "100 Credits",
-          "price": "19,00 kr",
-          "amount": 19
+          "name": "Ultra plan (monthly)",
+          "price": "2 295,00 kr",
+          "amount": 2295
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:12.266Z"
+      "fetchedAt": "2026-10-26T09:49:52.905Z"
     },
     "sg": {
       "currency": "SGD",
@@ -7742,7 +7742,7 @@
           "amount": 129.98
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:13.811Z"
+      "fetchedAt": "2026-10-26T09:49:54.407Z"
     },
     "si": {
       "currency": "EUR",
@@ -7798,7 +7798,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:16.015Z"
+      "fetchedAt": "2026-10-26T09:49:55.920Z"
     },
     "sk": {
       "currency": "EUR",
@@ -7839,28 +7839,33 @@
           "amount": 1.99
         },
         {
-          "name": "3300 Credits",
-          "price": "60,00 €",
-          "amount": 60
-        },
-        {
           "name": "Premier plan (monthly)",
           "price": "99,00 €",
           "amount": 99
         },
         {
-          "name": "Standard plan (annual)",
-          "price": "129,99 €",
-          "amount": 129.99
+          "name": "3300 Credits",
+          "price": "60,00 €",
+          "amount": 60
+        },
+        {
+          "name": "6600 Credits",
+          "price": "100,00 €",
+          "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:16.917Z"
+      "fetchedAt": "2026-10-26T09:49:57.346Z"
     },
     "sl": {
       "currency": "USD",
       "items": [
         {
           "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -7903,14 +7908,9 @@
           "name": "Standard Membership-one week",
           "price": "USD 1.19",
           "amount": 1.19
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 0.79",
-          "amount": 0.79
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:18.298Z"
+      "fetchedAt": "2026-10-26T09:49:59.093Z"
     },
     "sn": {
       "currency": "USD",
@@ -7946,11 +7946,6 @@
           "amount": 45
         },
         {
-          "name": "100 Credits",
-          "price": "USD 1.99",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
@@ -7961,12 +7956,17 @@
           "amount": 0.49
         },
         {
+          "name": "100 Credits",
+          "price": "USD 1.99",
+          "amount": 1.99
+        },
+        {
           "name": "Standard Membership-one week",
           "price": "USD 0.99",
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:20.031Z"
+      "fetchedAt": "2026-10-26T09:50:00.412Z"
     },
     "sr": {
       "currency": "USD",
@@ -8022,7 +8022,7 @@
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:21.330Z"
+      "fetchedAt": "2026-10-26T09:50:01.895Z"
     },
     "st": {
       "currency": "USD",
@@ -8078,7 +8078,7 @@
           "amount": 22.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:22.731Z"
+      "fetchedAt": "2026-10-26T09:50:04.086Z"
     },
     "sv": {
       "currency": "USD",
@@ -8099,14 +8099,14 @@
           "amount": 1.19
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -8134,7 +8134,7 @@
           "amount": 192.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:24.313Z"
+      "fetchedAt": "2026-10-26T09:50:04.962Z"
     },
     "sz": {
       "currency": "USD",
@@ -8145,52 +8145,52 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
-        {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
-        },
-        {
-          "name": "Premier plan (28k credits, monthly)",
-          "price": "USD 192.99",
-          "amount": 192.99
-        },
-        {
           "name": "Pro plan (annual)",
-          "price": "USD 439.00",
-          "amount": 439
+          "price": "USD 444.99",
+          "amount": 444.99
+        },
+        {
+          "name": "Premier plan (monthly)",
+          "price": "USD 92.00",
+          "amount": 92
         },
         {
           "name": "Standard plan (annual)",
-          "price": "USD 119.00",
-          "amount": 119
+          "price": "USD 120.99",
+          "amount": 120.99
         },
         {
-          "name": "Premier plan (28k credits, monthly)",
-          "price": "USD 319.00",
-          "amount": 319
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
+          "name": "Premier plan (annual)",
+          "price": "USD 1,000.00",
+          "amount": 1000
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 0.79",
-          "amount": 0.79
+          "name": "Pro Membership One-Month",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
+          "name": "Standard Membership One-Month",
+          "price": "USD 10.00",
+          "amount": 10
+        },
+        {
+          "name": "Premier Membership One-Month",
+          "price": "USD 92.00",
+          "amount": 92
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 10.00",
+          "amount": 10
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:25.908Z"
+      "fetchedAt": "2026-10-26T09:50:06.485Z"
     },
     "tc": {
       "currency": "USD",
@@ -8246,7 +8246,7 @@
           "amount": 319
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:27.328Z"
+      "fetchedAt": "2026-10-26T09:50:07.883Z"
     },
     "td": {
       "currency": "USD",
@@ -8302,7 +8302,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:28.787Z"
+      "fetchedAt": "2026-10-26T09:50:09.404Z"
     },
     "th": {
       "currency": "THB",
@@ -8313,12 +8313,12 @@
           "amount": 199
         },
         {
-          "name": "Standard Membership-one week",
+          "name": "Standard Membership - one week",
           "price": "฿49.00",
           "amount": 49
         },
         {
-          "name": "Standard Membership - one week",
+          "name": "Standard Membership-one week",
           "price": "฿49.00",
           "amount": 49
         },
@@ -8358,7 +8358,7 @@
           "amount": 49
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:30.282Z"
+      "fetchedAt": "2026-10-26T09:50:11.253Z"
     },
     "tj": {
       "currency": "USD",
@@ -8379,14 +8379,19 @@
           "amount": 0.99
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 39.00",
-          "amount": 39
-        },
-        {
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "1320 Credits",
+          "price": "USD 22.00",
+          "amount": 22
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 39.00",
+          "amount": 39
         },
         {
           "name": "Standard Membership - one week",
@@ -8394,9 +8399,9 @@
           "amount": 1.99
         },
         {
-          "name": "1320 Credits",
-          "price": "USD 22.00",
-          "amount": 22
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         },
         {
           "name": "100 Credits",
@@ -8407,25 +8412,25 @@
           "name": "Premier plan (monthly)",
           "price": "USD 99.00",
           "amount": 99
-        },
-        {
-          "name": "3300 Credits",
-          "price": "USD 50.00",
-          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:31.722Z"
+      "fetchedAt": "2026-10-26T09:50:12.331Z"
     },
     "tm": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Standard plan (monthly)",
+          "price": "USD 10.00",
+          "amount": 10
+        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Standard plan (monthly)",
+          "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
         },
@@ -8443,11 +8448,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.49",
           "amount": 1.49
-        },
-        {
-          "name": "660 Credits",
-          "price": "USD 10.00",
-          "amount": 10
         },
         {
           "name": "1320 Credits",
@@ -8470,7 +8470,7 @@
           "amount": 119
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:33.246Z"
+      "fetchedAt": "2026-10-26T09:50:13.889Z"
     },
     "tn": {
       "currency": "USD",
@@ -8481,14 +8481,29 @@
           "amount": 1.49
         },
         {
+          "name": "Standard Membership - one week",
+          "price": "$1.49",
+          "amount": 1.49
+        },
+        {
           "name": "330 Credits",
           "price": "$5.00",
           "amount": 5
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "$1.49",
-          "amount": 1.49
+          "name": "Pro plan (monthly)",
+          "price": "$37.00",
+          "amount": 37
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "$1.19",
+          "amount": 1.19
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "$1.19",
+          "amount": 1.19
         },
         {
           "name": "1320 Credits",
@@ -8497,8 +8512,8 @@
         },
         {
           "name": "Standard Membership-one week",
-          "price": "$1.19",
-          "amount": 1.19
+          "price": "$0.59",
+          "amount": 0.59
         },
         {
           "name": "Standard plan (monthly)",
@@ -8506,27 +8521,12 @@
           "amount": 10
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "$1.19",
-          "amount": 1.19
-        },
-        {
-          "name": "Standard Membership-one week",
-          "price": "$0.59",
-          "amount": 0.59
-        },
-        {
           "name": "660 Credits",
           "price": "$10.00",
           "amount": 10
-        },
-        {
-          "name": "Pro plan (monthly)",
-          "price": "$37.00",
-          "amount": 37
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:34.786Z"
+      "fetchedAt": "2026-10-26T09:50:15.376Z"
     },
     "to": {
       "currency": "USD",
@@ -8582,7 +8582,7 @@
           "amount": 22.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:36.227Z"
+      "fetchedAt": "2026-10-26T09:50:16.856Z"
     },
     "tr": {
       "currency": "TRY",
@@ -8638,20 +8638,25 @@
           "amount": 9999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:37.824Z"
+      "fetchedAt": "2026-10-26T09:50:18.463Z"
     },
     "tt": {
       "currency": "USD",
       "items": [
+        {
+          "name": "330 Credits",
+          "price": "USD 5.00",
+          "amount": 5
+        },
         {
           "name": "Standard plan (monthly)",
           "price": "USD 10.00",
           "amount": 10
         },
         {
-          "name": "330 Credits",
-          "price": "USD 5.00",
-          "amount": 5
+          "name": "1320 Credits",
+          "price": "USD 20.00",
+          "amount": 20
         },
         {
           "name": "Pro plan (monthly)",
@@ -8667,11 +8672,6 @@
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
-        },
-        {
-          "name": "1320 Credits",
-          "price": "USD 20.00",
-          "amount": 20
         },
         {
           "name": "Standard Membership - one week",
@@ -8694,7 +8694,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:39.348Z"
+      "fetchedAt": "2026-10-26T09:50:19.855Z"
     },
     "tw": {
       "currency": "TWD",
@@ -8750,7 +8750,7 @@
           "amount": 2990
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:40.781Z"
+      "fetchedAt": "2026-10-26T09:50:21.376Z"
     },
     "tz": {
       "currency": "TZS",
@@ -8791,6 +8791,11 @@
           "amount": 3900
         },
         {
+          "name": "Premier plan (monthly)",
+          "price": "249,900.00 TZS",
+          "amount": 249900
+        },
+        {
           "name": "100 Credits",
           "price": "3,900.00 TZS",
           "amount": 3900
@@ -8799,14 +8804,9 @@
           "name": "3300 Credits",
           "price": "149,900.00 TZS",
           "amount": 149900
-        },
-        {
-          "name": "Premier plan (28k credits, monthly)",
-          "price": "599,900.00 TZS",
-          "amount": 599900
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:42.277Z"
+      "fetchedAt": "2026-10-26T09:50:22.875Z"
     },
     "ua": {
       "currency": "USD",
@@ -8847,11 +8847,6 @@
           "amount": 45
         },
         {
-          "name": "100 Credits",
-          "price": "1,99 USD",
-          "amount": 1.99
-        },
-        {
           "name": "3300 Credits",
           "price": "60,00 USD",
           "amount": 60
@@ -8860,9 +8855,14 @@
           "name": "Premier plan (monthly)",
           "price": "99,00 USD",
           "amount": 99
+        },
+        {
+          "name": "100 Credits",
+          "price": "1,99 USD",
+          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:43.755Z"
+      "fetchedAt": "2026-10-26T09:50:24.469Z"
     },
     "ug": {
       "currency": "USD",
@@ -8883,6 +8883,11 @@
           "amount": 0.99
         },
         {
+          "name": "Pro plan (monthly)",
+          "price": "USD 45.00",
+          "amount": 45
+        },
+        {
           "name": "660 Credits",
           "price": "USD 12.00",
           "amount": 12
@@ -8891,11 +8896,6 @@
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
-        },
-        {
-          "name": "Pro plan (monthly)",
-          "price": "USD 45.00",
-          "amount": 45
         },
         {
           "name": "1320 Credits",
@@ -8918,7 +8918,7 @@
           "amount": 149
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:45.271Z"
+      "fetchedAt": "2026-10-26T09:50:25.905Z"
     },
     "us": {
       "currency": "USD",
@@ -8974,7 +8974,7 @@
           "amount": 100
         }
       ],
-      "fetchedAt": "2026-10-26T08:26:51.735Z"
+      "fetchedAt": "2026-10-26T09:50:27.545Z"
     },
     "uy": {
       "currency": "USD",
@@ -9010,14 +9010,14 @@
           "amount": 20
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "USD 1.49",
-          "amount": 1.49
-        },
-        {
           "name": "3300 Credits",
           "price": "USD 50.00",
           "amount": 50
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "USD 1.49",
+          "amount": 1.49
         },
         {
           "name": "6600 Credits",
@@ -9030,7 +9030,7 @@
           "amount": 92
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:48.407Z"
+      "fetchedAt": "2026-10-26T09:50:28.896Z"
     },
     "uz": {
       "currency": "USD",
@@ -9081,12 +9081,12 @@
           "amount": 22
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "USD 0.99",
-          "amount": 0.99
+          "name": "3300 Credits",
+          "price": "USD 50.00",
+          "amount": 50
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:49.795Z"
+      "fetchedAt": "2026-10-26T09:50:30.373Z"
     },
     "vc": {
       "currency": "USD",
@@ -9142,25 +9142,20 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:51.241Z"
+      "fetchedAt": "2026-10-26T09:50:31.895Z"
     },
     "ve": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Standard Membership-one week",
-          "price": "USD 1.19",
-          "amount": 1.19
-        },
         {
           "name": "330 Credits",
           "price": "USD 5.00",
           "amount": 5
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "USD 37.00",
-          "amount": 37
+          "name": "Standard Membership-one week",
+          "price": "USD 1.19",
+          "amount": 1.19
         },
         {
           "name": "Standard plan (monthly)",
@@ -9171,6 +9166,11 @@
           "name": "660 Credits",
           "price": "USD 10.00",
           "amount": 10
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "USD 37.00",
+          "amount": 37
         },
         {
           "name": "Standard Membership - one week",
@@ -9198,7 +9198,7 @@
           "amount": 439
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:52.810Z"
+      "fetchedAt": "2026-10-26T09:50:33.424Z"
     },
     "vg": {
       "currency": "USD",
@@ -9254,7 +9254,7 @@
           "amount": 4.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:54.296Z"
+      "fetchedAt": "2026-10-26T09:50:34.894Z"
     },
     "vn": {
       "currency": "VND",
@@ -9310,7 +9310,7 @@
           "amount": 2499000
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:55.911Z"
+      "fetchedAt": "2026-10-26T09:50:36.370Z"
     },
     "vu": {
       "currency": "USD",
@@ -9366,7 +9366,7 @@
           "amount": 4.49
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:57.285Z"
+      "fetchedAt": "2026-10-26T09:50:37.907Z"
     },
     "xk": {
       "currency": "EUR",
@@ -9382,14 +9382,14 @@
           "amount": 6
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "660 Credits",
           "price": "10,00 €",
           "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Pro plan (monthly)",
@@ -9397,14 +9397,14 @@
           "amount": 39
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "22,00 €",
           "amount": 22
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "3300 Credits",
@@ -9422,7 +9422,7 @@
           "amount": 229
         }
       ],
-      "fetchedAt": "2026-10-19T09:50:58.796Z"
+      "fetchedAt": "2026-10-26T09:50:39.370Z"
     },
     "ye": {
       "currency": "USD",
@@ -9438,14 +9438,14 @@
           "amount": 5
         },
         {
-          "name": "Standard Membership-one week",
-          "price": "$1.19",
-          "amount": 1.19
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "$10.00",
           "amount": 10
+        },
+        {
+          "name": "Standard Membership-one week",
+          "price": "$1.19",
+          "amount": 1.19
         },
         {
           "name": "100 Credits",
@@ -9478,7 +9478,7 @@
           "amount": 192.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:51:00.216Z"
+      "fetchedAt": "2026-10-26T09:50:40.920Z"
     },
     "za": {
       "currency": "ZAR",
@@ -9504,14 +9504,14 @@
           "amount": 199.99
         },
         {
-          "name": "Pro plan (monthly)",
-          "price": "R799.99",
-          "amount": 799.99
-        },
-        {
           "name": "1320 Credits",
           "price": "R399.99",
           "amount": 399.99
+        },
+        {
+          "name": "Pro plan (monthly)",
+          "price": "R799.99",
+          "amount": 799.99
         },
         {
           "name": "Standard Membership - one week",
@@ -9534,7 +9534,7 @@
           "amount": 1999.99
         }
       ],
-      "fetchedAt": "2026-10-19T09:51:01.766Z"
+      "fetchedAt": "2026-10-26T09:50:42.383Z"
     },
     "zm": {
       "currency": "USD",
@@ -9545,11 +9545,6 @@
           "amount": 12
         },
         {
-          "name": "660 Credits",
-          "price": "USD 12.00",
-          "amount": 12
-        },
-        {
           "name": "Standard Membership-one week",
           "price": "USD 0.99",
           "amount": 0.99
@@ -9558,6 +9553,16 @@
           "name": "330 Credits",
           "price": "USD 6.00",
           "amount": 6
+        },
+        {
+          "name": "660 Credits",
+          "price": "USD 12.00",
+          "amount": 12
+        },
+        {
+          "name": "Standard Membership - one week",
+          "price": "USD 1.99",
+          "amount": 1.99
         },
         {
           "name": "100 Credits",
@@ -9565,11 +9570,6 @@
           "amount": 1.99
         },
         {
-          "name": "Standard Membership - one week",
-          "price": "USD 1.99",
-          "amount": 1.99
-        },
-        {
           "name": "1320 Credits",
           "price": "USD 25.00",
           "amount": 25
@@ -9590,20 +9590,20 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T09:51:03.300Z"
+      "fetchedAt": "2026-10-26T09:50:43.898Z"
     },
     "zw": {
       "currency": "USD",
       "items": [
         {
-          "name": "330 Credits",
-          "price": "USD 6.00",
-          "amount": 6
-        },
-        {
           "name": "Standard plan (monthly)",
           "price": "USD 12.00",
           "amount": 12
+        },
+        {
+          "name": "330 Credits",
+          "price": "USD 6.00",
+          "amount": 6
         },
         {
           "name": "Standard Membership-one week",
@@ -9616,6 +9616,11 @@
           "amount": 12
         },
         {
+          "name": "Premier plan (monthly)",
+          "price": "USD 99.00",
+          "amount": 99
+        },
+        {
           "name": "Standard Membership - one week",
           "price": "USD 1.99",
           "amount": 1.99
@@ -9624,11 +9629,6 @@
           "name": "Pro plan (monthly)",
           "price": "USD 45.00",
           "amount": 45
-        },
-        {
-          "name": "Premier plan (monthly)",
-          "price": "USD 99.00",
-          "amount": 99
         },
         {
           "name": "1320 Credits",
@@ -9646,7 +9646,7 @@
           "amount": 499
         }
       ],
-      "fetchedAt": "2026-10-19T09:51:04.792Z"
+      "fetchedAt": "2026-10-26T09:50:45.459Z"
     }
   }
 }
