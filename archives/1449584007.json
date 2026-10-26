@@ -1,5 +1,5 @@
 {
-  "resultCount": 16,
+  "resultCount": 17,
   "results": [
     {
       "month": "202512",
@@ -307,7 +307,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 44,
+      "rank": 66,
       "artistName": "Mazbox Limited",
       "id": "1449584007",
       "name": "Koala Sampler • Beat Maker",
@@ -330,10 +330,36 @@
     },
     {
       "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 55,
+      "artistName": "Mazbox Limited",
+      "id": "1449584007",
+      "name": "Koala Sampler • Beat Maker",
+      "releaseDate": "2019-02-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/9f/0c/6b9f0c94-3077-f8bf-aa7b-cbfea30eedcb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id6011"
+        },
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/koala-sampler-beat-maker/id1449584007"
+    },
+    {
+      "month": "202610",
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 49,
+      "rank": 26,
       "artistName": "Mazbox Limited",
       "id": "1449584007",
       "name": "Koala Sampler • Beat Maker",
@@ -359,7 +385,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 29,
+      "rank": 24,
       "artistName": "Mazbox Limited",
       "id": "1449584007",
       "name": "Koala Sampler • Beat Maker",
@@ -385,7 +411,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 42,
+      "rank": 33,
       "artistName": "Mazbox Limited",
       "id": "1449584007",
       "name": "Koala Sampler • Beat Maker",

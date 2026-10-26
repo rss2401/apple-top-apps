@@ -1,5 +1,5 @@
 {
-  "resultCount": 4,
+  "resultCount": 5,
   "results": [
     {
       "month": "202512",
@@ -91,6 +91,32 @@
       "releaseDate": "2020-07-29",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/84/d4/bd/84d4bd03-a866-1a99-ecd8-a0289ae8c8ca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "教育",
+          "url": "https://itunes.apple.com/cn/genre/id6017"
+        },
+        {
+          "genreId": "6016",
+          "name": "娱乐",
+          "url": "https://itunes.apple.com/cn/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/rakugakiar/id1515215584"
+    },
+    {
+      "month": "202610",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 84,
+      "artistName": "Whatever Co.",
+      "id": "1515215584",
+      "name": "RakugakiAR",
+      "releaseDate": "2020-07-29",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/df/0e/4cdf0e23-a172-0578-97ea-6fe2e3d4d753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6017",

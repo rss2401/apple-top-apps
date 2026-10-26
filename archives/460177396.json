@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "month": "202604",
@@ -41,6 +41,32 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/fb/86fefbfe-29cb-5db8-372c-3b442a20eb50/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/100x100bb.png",
       "genres": [],
       "url": "https://apps.apple.com/us/app/twitch-live-streaming/id460177396"
+    },
+    {
+      "month": "202610",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 73,
+      "artistName": "Twitch Interactive, Inc.",
+      "id": "460177396",
+      "name": "Twitch : streaming en live",
+      "releaseDate": "2011-10-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c6/71/3ac671dd-d53c-7fcc-8c26-d4c7f1b325f9/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo et vidéo",
+          "url": "https://itunes.apple.com/fr/genre/id6008"
+        },
+        {
+          "genreId": "6005",
+          "name": "Réseaux sociaux",
+          "url": "https://itunes.apple.com/fr/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/twitch-streaming-en-live/id460177396"
     }
   ]
 }
