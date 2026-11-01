@@ -1,0 +1,40 @@
+{
+  "id": "1303222868",
+  "name": "Paprika Recipe Manager 3",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:33:18.663Z",
+  "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Paprika 4 Premium (Discount)",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Paprika 4 Premium",
+          "price": "£14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:33:17.118Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Paprika 4 Premium (Discount)",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Paprika 4 Premium",
+          "price": "$14.99",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:33:18.662Z"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1477376905",
+  "name": "GitHub",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:51:29.251Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "GitHub Pro",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "Copilot Pro",
+          "price": "$10.00",
+          "amount": 10
+        },
+        {
+          "name": "Copilot Pro+",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Copilot Max",
+          "price": "$99.00",
+          "amount": 99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:51:29.251Z"
+    }
+  }
+}

@@ -227,28 +227,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/f2/6c/f6f26cf9-3164-4c52-df88-e7738ff1a91a/mzl.dinnlthr.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/75/4f/a3754faf-44ae-6d66-9fb0-35b4d5e84b28/mzl.cfrywhhy.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/09/10/6a/09106a82-df22-cd2d-fbf2-175bf0143999/mzl.gdnzqmth.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/04/6e/ef046e02-128a-a080-0406-918b0e1ec2f2/mzl.ypjyeetz.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/99/b6/a399b6cf-02ee-0008-1585-150dd0c2404f/mzl.gbkcqxfa.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/05/45/d3054553-9636-3692-4ce6-fac9dc6f0dff/mzl.vqacxdcj.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/87/e1/2d87e1c3-02a8-8456-cc91-6cc5329f27ee/mzl.zcmzafbz.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/b9/67/1ab96706-eb0a-82cc-6288-5315dfe694ad/mzl.cjfnrale.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -381,20 +359,44 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f6/f2/6c/f6f26cf9-3164-4c52-df88-e7738ff1a91a/mzl.dinnlthr.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/75/4f/a3754faf-44ae-6d66-9fb0-35b4d5e84b28/mzl.cfrywhhy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/09/10/6a/09106a82-df22-cd2d-fbf2-175bf0143999/mzl.gdnzqmth.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/04/6e/ef046e02-128a-a080-0406-918b0e1ec2f2/mzl.ypjyeetz.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a3/99/b6/a399b6cf-02ee-0008-1585-150dd0c2404f/mzl.gbkcqxfa.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/05/45/d3054553-9636-3692-4ce6-fac9dc6f0dff/mzl.vqacxdcj.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2d/87/e1/2d87e1c3-02a8-8456-cc91-6cc5329f27ee/mzl.zcmzafbz.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1a/b9/67/1ab96706-eb0a-82cc-6288-5315dfe694ad/mzl.cjfnrale.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/27/ee/b327ee1f-d14c-6650-21cf-71294902677e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Bug fixes and performance improvements.",
       "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "price": 0,
+      "bundleId": "com.microsoft.lync2013.iphone",
+      "trackId": 605841731,
+      "trackName": "Skype for Business",
       "minimumOsVersion": "15.0",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6000",
         "6007"
       ],
-      "releaseDate": "2013-03-12T07:00:00Z",
+      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
       "sellerName": "Microsoft Corporation",
-      "releaseNotes": "Bug fixes and performance improvements.",
+      "releaseDate": "2013-03-12T07:00:00Z",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "6.34.119",
       "wrapperType": "software",
       "currency": "USD",
@@ -402,9 +404,7 @@
       "trackCensoredName": "Skype for Business",
       "trackViewUrl": "https://apps.apple.com/us/app/skype-for-business/id605841731?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.31059,
-      "bundleId": "com.microsoft.lync2013.iphone",
-      "averageUserRatingForCurrentVersion": 4.31059,
+      "averageUserRating": 4.31046,
       "sellerUrl": "http://www.microsoft.com/lync",
       "languageCodesISO2A": [
         "AR",
@@ -441,16 +441,16 @@
       ],
       "fileSizeBytes": "84004864",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 16256,
+      "userRatingCountForCurrentVersion": 16253,
       "trackContentRating": "4+",
-      "trackId": 605841731,
-      "trackName": "Skype for Business",
-      "currentVersionReleaseDate": "2025-06-10T03:45:59Z",
+      "averageUserRatingForCurrentVersion": 4.31046,
+      "price": 0,
       "genres": [
         "Business",
         "Productivity"
       ],
-      "userRatingCount": 16256,
+      "artistName": "Microsoft Corporation",
+      "userRatingCount": 16253,
       "country": "USA"
     }
   ]

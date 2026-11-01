@@ -210,7 +210,6 @@
       "artistViewUrl": "https://apps.apple.com/gb/developer/the-associated-board-of-the-royal-schools/id491902885?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/df/92/b3df924e-386a-2096-5bf8-9c2aee2fb0e4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/df/92/b3df924e-386a-2096-5bf8-9c2aee2fb0e4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/69/50/8c695048-8f1a-0da0-1268-fef0c0221255/pr_source.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/a9/d9/91a9d9e1-2343-059c-8217-15c24163efeb/pr_source.png/406x228bb.png",
@@ -236,7 +235,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/df/92/b3df924e-386a-2096-5bf8-9c2aee2fb0e4/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -372,47 +371,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "trackCensoredName": "ABRSM Music Theory Trainer",
       "trackViewUrl": "https://apps.apple.com/gb/app/abrsm-music-theory-trainer/id1415709055?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.57303,
-      "minimumOsVersion": "12.0",
+      "averageUserRating": 3.54444,
+      "sellerUrl": "https://gb.abrsm.org/en/exam-support/practice-tools-and-applications/theory-works",
+      "averageUserRatingForCurrentVersion": 3.54444,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "323999744",
       "formattedPrice": "£4.99",
-      "userRatingCountForCurrentVersion": 89,
+      "userRatingCountForCurrentVersion": 90,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.57303,
-      "sellerUrl": "https://gb.abrsm.org/en/exam-support/practice-tools-and-applications/theory-works",
-      "releaseDate": "2018-09-07T09:41:31Z",
-      "artistId": 491902885,
       "artistName": "The Associated Board of the Royal Schools of Music (Publishing) Limited",
+      "artistId": 491902885,
       "genres": [
         "Education",
         "Music"
       ],
-      "sellerName": "The Associated Board of the Royal Schools of Music (Publishing) Limited",
-      "trackId": 1415709055,
-      "trackName": "ABRSM Music Theory Trainer",
+      "price": 4.99,
       "genreIds": [
         "6017",
         "6011"
       ],
+      "minimumOsVersion": "12.0",
+      "sellerName": "The Associated Board of the Royal Schools of Music (Publishing) Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
+      "releaseDate": "2018-09-07T09:41:31Z",
+      "trackId": 1415709055,
+      "trackName": "ABRSM Music Theory Trainer",
       "currentVersionReleaseDate": "2026-07-09T18:24:32Z",
+      "releaseNotes": "Minor bug fixes.",
       "version": "2.0.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "ABRSM Music Theory Trainer contains over 6,000 specially-written questions designed to test and challenge your music theory knowledge. Start by learning the basics then test yourself and see if you can get a perfect score. Every time you complete a round, you unlock the next level. Watch your music theory knowledge build up in these fun and addictive challenges and become a music theory expert!\n\nIn the app, you can learn about:\n\nThe musical stave, pitches, clefs\nScales, keys and chords\nRhythm and time signatures\nMusical terminology and signs\nVoices and instruments\n\nAnd much, much more!\n\nStrong foundations in musical knowledge and understanding are essential for developing well-rounded and confident musicians. That’s why we believe in the importance of music theory.\n\nHey, phone users! Music notation is complex and phone screens are small. This app is best viewed on an iPad, but there is still a lot you can learn and enjoy if you’re using the app on a smaller phone. Make sure you check out the preview screenshots in the App Store to see how the app will look on your device.",
       "bundleId": "org.abrsm.TheoryWorks",
-      "releaseNotes": "Minor bug fixes.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "price": 4.99,
-      "userRatingCount": 89,
+      "userRatingCount": 90,
       "country": "GBR"
     }
   ]

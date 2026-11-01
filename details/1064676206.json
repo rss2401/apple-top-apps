@@ -224,20 +224,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/63/da/8e/63da8e76-99f3-d2e8-da21-61ccc3ddb1c3/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/b0/f1/38/b0f1383b-a0d1-ffd1-673b-2911094e3cda/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/b2/e6/78/b2e6786d-23a9-9d99-74d3-cdb36d4d6dcf/pr_source.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/512x512bb.jpg",
-      "features": [],
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
         "iPad23G-iPad23G",
@@ -382,20 +368,36 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/63/da/8e/63da8e76-99f3-d2e8-da21-61ccc3ddb1c3/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/b0/f1/38/b0f1383b-a0d1-ffd1-673b-2911094e3cda/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/b2/e6/78/b2e6786d-23a9-9d99-74d3-cdb36d4d6dcf/pr_source.jpg/392x696bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/bc/23/1ebc2320-6fd1-013e-8b0f-27d63bc05512/mzl.ehivcvqm.png/512x512bb.jpg",
+      "releaseNotes": "GDPR compliance fix",
       "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "price": 0,
+      "bundleId": "com.microsoft.autofacetouchup",
+      "trackId": 1064676206,
+      "trackName": "Microsoft Selfie",
       "minimumOsVersion": "8.0",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6008",
         "6016"
       ],
-      "releaseDate": "2015-12-28T05:51:35Z",
+      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
       "sellerName": "Microsoft Corporation",
-      "releaseNotes": "GDPR compliance fix",
+      "releaseDate": "2015-12-28T05:51:35Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.2.6",
       "wrapperType": "software",
       "currency": "USD",
@@ -404,8 +406,6 @@
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-selfie/id1064676206?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.20725,
-      "bundleId": "com.microsoft.autofacetouchup",
-      "averageUserRatingForCurrentVersion": 3.20725,
       "sellerUrl": "http://aka.ms/selfiepromo",
       "languageCodesISO2A": [
         "DA",
@@ -437,13 +437,13 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 386,
       "trackContentRating": "4+",
-      "trackId": 1064676206,
-      "trackName": "Microsoft Selfie",
-      "currentVersionReleaseDate": "2018-06-16T01:02:07Z",
+      "averageUserRatingForCurrentVersion": 3.20725,
+      "price": 0,
       "genres": [
         "Photo & Video",
         "Entertainment"
       ],
+      "artistName": "Microsoft Corporation",
       "userRatingCount": 386,
       "country": "USA"
     }

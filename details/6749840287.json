@@ -215,6 +215,12 @@
       "country": "USA"
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/da/2a/52da2a75-fa90-b50b-26b3-c404ae12553a/01-connect.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/ca/8d/3cca8d87-6212-7a7a-d770-f9dd95400afd/02-chat.png/320x480bb.jpg",
@@ -234,12 +240,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/19/0b/b9190b25-ad9a-7e6c-4e9b-87cddf6ed54b/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M5_U0029_-_2026-03-14_at_12.23.37.jpeg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/10/36/74103626-4a87-2cb9-f510-8babb63469ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a5/6d/1da56d78-d85c-6225-e756-3befc9f5ca5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/tunap-paul/id1830510913?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a5/6d/1da56d78-d85c-6225-e756-3befc9f5ca5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a5/6d/1da56d78-d85c-6225-e756-3befc9f5ca5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,13 +376,29 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/tunap-paul/id1830510913?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/10/36/74103626-4a87-2cb9-f510-8babb63469ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/10/36/74103626-4a87-2cb9-f510-8babb63469ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "genres": [
+        "Produktivität"
+      ],
+      "price": 3.99,
+      "artistId": 1830510913,
+      "artistName": "Tunap Paul",
+      "bundleId": "app.cogwheel.conduit",
+      "releaseDate": "2025-08-17T07:00:00Z",
       "minimumOsVersion": "16.0",
-      "sellerUrl": "https://github.com/cogwheel0/conduit",
+      "genreIds": [
+        "6007"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Tunap Paul",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T00:13:22Z",
+      "version": "4.2.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Conduit ist ein nativer Mobile-Client für Open WebUI, direkte Modell-Endpunkte und selbst gehostete Agenten. Ihre Chats liegen zuerst auf dem Gerät. Nichts läuft über einen vom Maintainer betriebenen Backend-Server.\n\nDrei Wege zur Verbindung\n- Open WebUI — Ihr selbst gehosteter Server mit Chats, Ordnern, Notizen, Kanälen, Workspace, Tools, Websuche und Bildgenerierung\n- Direkt — OpenAI-kompatible APIs, Ollama, OpenRouter und lokale Endpunkte. Kein Open-WebUI-Konto nötig\n- Hermes — Ihr selbst gehosteter Agent mit Live-Tools, Freigaben für sensible Schritte und geplanten Aufgaben\n\nFürs Mobile gebaut\n- Echtzeit-Streaming-Chat mit Modellauswahl, temporären Chats, Suche und Ordnern\n- Datei-, Bild-, Audio- und Zwischenablage-Uploads für multimodale Prompts\n- Spracheingabe, Voice-Call-Modus, Teilen-Menü, Schnellaktionen, Home-Bildschirm-Widgets und Kurzbefehle\n- Umfangreiches Rendering für Markdown, Code, LaTeX, Mermaid, Chart.js, Zitate, Reasoning und Tool-Aufrufe\n- Notizen, gespeicherte Prompts, Kanäle, Terminal und weitere Funktionen, wenn Ihr Server sie unterstützt\n\nFür reale Deployments\n- Anmeldung mit Benutzername/Passwort, LDAP, JWT, OAuth/SSO, Reverse-Proxy-Flows und eigenen HTTP-Headern\n- Zugangsdaten sicher im Keychain gespeichert\n- Keine Werbung, keine Analytics-SDKs und kein vom Entwickler betriebener Relay-Server\n\nWichtig\n- Conduit hostet keine Modelle und bietet keinen KI-Dienst an. Sie verbinden Server und Anbieter, die Sie selbst kontrollieren.\n- Verfügbare Funktionen hängen davon ab, womit Sie sich verbinden.\n- Conduit ist Open Source und nicht offiziell mit Open WebUI oder Hermes verbunden.",
       "averageUserRatingForCurrentVersion": 3.96552,
+      "sellerUrl": "https://github.com/cogwheel0/conduit",
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -393,37 +413,17 @@
         "ES",
         "ZH"
       ],
-      "fileSizeBytes": "114333696",
+      "fileSizeBytes": "114932736",
       "formattedPrice": "3,99 €",
       "userRatingCountForCurrentVersion": 29,
       "trackContentRating": "4+",
-      "genres": [
-        "Produktivität"
-      ],
-      "price": 3.99,
-      "releaseNotes": "https://github.com/cogwheel0/conduit/releases/tag/v4.2.1",
-      "artistId": 1830510913,
-      "artistName": "Tunap Paul",
-      "releaseDate": "2025-08-17T07:00:00Z",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6749840287,
-      "trackName": "Conduit: Open WebUI & KI",
-      "currentVersionReleaseDate": "2026-10-17T19:32:17Z",
-      "genreIds": [
-        "6007"
-      ],
-      "version": "4.2.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Conduit ist ein nativer Mobile-Client für Open WebUI, direkte Modell-Endpunkte und selbst gehostete Agenten. Ihre Chats liegen zuerst auf dem Gerät. Nichts läuft über einen vom Maintainer betriebenen Backend-Server.\n\nDrei Wege zur Verbindung\n- Open WebUI — Ihr selbst gehosteter Server mit Chats, Ordnern, Notizen, Kanälen, Workspace, Tools, Websuche und Bildgenerierung\n- Direkt — OpenAI-kompatible APIs, Ollama, OpenRouter und lokale Endpunkte. Kein Open-WebUI-Konto nötig\n- Hermes — Ihr selbst gehosteter Agent mit Live-Tools, Freigaben für sensible Schritte und geplanten Aufgaben\n\nFürs Mobile gebaut\n- Echtzeit-Streaming-Chat mit Modellauswahl, temporären Chats, Suche und Ordnern\n- Datei-, Bild-, Audio- und Zwischenablage-Uploads für multimodale Prompts\n- Spracheingabe, Voice-Call-Modus, Teilen-Menü, Schnellaktionen, Home-Bildschirm-Widgets und Kurzbefehle\n- Umfangreiches Rendering für Markdown, Code, LaTeX, Mermaid, Chart.js, Zitate, Reasoning und Tool-Aufrufe\n- Notizen, gespeicherte Prompts, Kanäle, Terminal und weitere Funktionen, wenn Ihr Server sie unterstützt\n\nFür reale Deployments\n- Anmeldung mit Benutzername/Passwort, LDAP, JWT, OAuth/SSO, Reverse-Proxy-Flows und eigenen HTTP-Headern\n- Zugangsdaten sicher im Keychain gespeichert\n- Keine Werbung, keine Analytics-SDKs und kein vom Entwickler betriebener Relay-Server\n\nWichtig\n- Conduit hostet keine Modelle und bietet keinen KI-Dienst an. Sie verbinden Server und Anbieter, die Sie selbst kontrollieren.\n- Verfügbare Funktionen hängen davon ab, womit Sie sich verbinden.\n- Conduit ist Open Source und nicht offiziell mit Open WebUI oder Hermes verbunden.",
       "trackCensoredName": "Conduit: Open WebUI & KI",
       "trackViewUrl": "https://apps.apple.com/de/app/conduit-open-webui-ki/id6749840287?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.96552,
-      "sellerName": "Tunap Paul",
-      "bundleId": "app.cogwheel.conduit",
+      "trackId": 6749840287,
+      "trackName": "Conduit: Open WebUI & KI",
+      "releaseNotes": "https://github.com/cogwheel0/conduit/releases/tag/v4.2.2",
       "userRatingCount": 29,
       "country": "DEU"
     },

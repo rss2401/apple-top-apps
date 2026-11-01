@@ -192,30 +192,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1f/6e/4b1f6eb1-d607-4e59-b792-a736b8b71c77/iOS_PS_iPhone_6.5_Value_3_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/5d/d4/1c5dd43a-de53-1893-ac11-547cf73146cf/iOS_PS_iPhone_6.5_Value_1_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/cc/15/e4cc15c0-406a-b217-f034-65496109a0c7/iOS_PS_iPhone_6.5_Value_2_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/3e/f7/dc3ef78f-708a-dd23-9563-1edecf219dfe/iOS_PS_iPhone_6.5_Value_4_1.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/2d/46/d82d46d5-4748-32a9-dbce-359a9e1a88dd/iPad_Value_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/51/55/1c515582-a8b4-dd83-e5ba-886ad5d19429/iPad_Value_4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/7d/35/4d7d35d6-ca49-d416-8e2c-56aac2544078/iPad_Value_2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/b0/bb/85b0bb96-6271-8f6b-a623-687059d11ed5/iPad_Value_1.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -348,20 +324,46 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1f/6e/4b1f6eb1-d607-4e59-b792-a736b8b71c77/iOS_PS_iPhone_6.5_Value_3_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/5d/d4/1c5dd43a-de53-1893-ac11-547cf73146cf/iOS_PS_iPhone_6.5_Value_1_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/cc/15/e4cc15c0-406a-b217-f034-65496109a0c7/iOS_PS_iPhone_6.5_Value_2_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/3e/f7/dc3ef78f-708a-dd23-9563-1edecf219dfe/iOS_PS_iPhone_6.5_Value_4_1.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/2d/46/d82d46d5-4748-32a9-dbce-359a9e1a88dd/iPad_Value_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/51/55/1c515582-a8b4-dd83-e5ba-886ad5d19429/iPad_Value_4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/7d/35/4d7d35d6-ca49-d416-8e2c-56aac2544078/iPad_Value_2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/b0/bb/85b0bb96-6271-8f6b-a623-687059d11ed5/iPad_Value_1.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
       "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "price": 0,
+      "bundleId": "com.microsoft.ProjectFlame",
+      "trackId": 6737987442,
+      "trackName": "Microsoft Dragon Copilot",
       "minimumOsVersion": "17.0",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6020",
         "6007"
       ],
-      "releaseDate": "2025-01-10T08:00:00Z",
+      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
       "sellerName": "Microsoft Corporation",
-      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
+      "releaseDate": "2025-01-10T08:00:00Z",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.0.0",
       "wrapperType": "software",
       "currency": "USD",
@@ -370,8 +372,6 @@
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 3.52941,
-      "bundleId": "com.microsoft.ProjectFlame",
-      "averageUserRatingForCurrentVersion": 3.52941,
       "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
       "languageCodesISO2A": [
         "NL",
@@ -383,13 +383,13 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "17+",
-      "trackId": 6737987442,
-      "trackName": "Microsoft Dragon Copilot",
-      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
+      "averageUserRatingForCurrentVersion": 3.52941,
+      "price": 0,
       "genres": [
         "Medical",
         "Productivity"
       ],
+      "artistName": "Microsoft Corporation",
       "userRatingCount": 17,
       "country": "USA"
     }

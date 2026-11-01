@@ -1,0 +1,63 @@
+{
+  "id": "6800616114",
+  "name": "play_music_theory",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:45:06.765Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "the instrument",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:45:00.753Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "the instrument",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:45:02.237Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "the instrument",
+          "price": "£4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:45:03.695Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "the instrument",
+          "price": "¥800",
+          "amount": 800
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:45:05.260Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "the instrument",
+          "price": "$4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:45:06.759Z"
+    }
+  }
+}

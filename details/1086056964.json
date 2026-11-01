@@ -2,10 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/05/8d/84058de6-e78d-f49e-ca19-8c9d686496b5/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/sainsburys/id976550044?uo=4",
-      "advisories": [],
-      "isGameCenterEnabled": false,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/05/8d/84058de6-e78d-f49e-ca19-8c9d686496b5/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/05/8d/84058de6-e78d-f49e-ca19-8c9d686496b5/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/e3/59/5ce35919-f67a-403b-908c-39b999b0b332/1iOS_1290_x_2796.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/ce/a3/dacea351-f1fb-23b5-6a20-f2124d0d468f/2iOS_1290_x_2796.jpg/320x480bb.jpg",
@@ -25,8 +24,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/5b/90/c95b90f7-3918-fc67-619f-e085778b797f/Ipad_2048_x_2732-6.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/05/8d/84058de6-e78d-f49e-ca19-8c9d686496b5/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/05/8d/84058de6-e78d-f49e-ca19-8c9d686496b5/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -162,47 +161,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
-      "averageUserRating": 4.71807,
       "trackCensoredName": "Sainsbury's",
+      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.71712,
+      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
+      "averageUserRatingForCurrentVersion": 4.71712,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "116473856",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 230276,
-      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
+      "userRatingCountForCurrentVersion": 230875,
       "trackContentRating": "4+",
-      "artistId": 976550044,
       "artistName": "Sainsbury's",
+      "artistId": 976550044,
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "uk.co.sainsburys.groceries",
       "genreIds": [
         "6024",
         "6012"
       ],
-      "releaseNotes": "We’ve made some improvements to the Sainsbury’s app to make shopping easier, both in-store and when building your basket.\nIn SmartShop, you can now explore other areas of the app without losing your basket, and we’ve improved the scanner experience. We’ve also added a ‘Lists Coming Soon’ entry point, paving the way for shopping lists in SmartShop.\nYou may have noticed changes to Favourites too. A new grid layout lets you see more products at once, making it easier to browse and build your basket.",
-      "averageUserRatingForCurrentVersion": 4.71807,
-      "currentVersionReleaseDate": "2026-10-22T15:59:19Z",
+      "minimumOsVersion": "15.6",
       "sellerName": "Sainsburys Supermarkets Ltd",
-      "trackId": 1086056964,
-      "trackName": "Sainsbury's",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2016-05-12T09:23:17Z",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "minimumOsVersion": "15.6",
+      "releaseDate": "2016-05-12T09:23:17Z",
+      "trackId": 1086056964,
+      "trackName": "Sainsbury's",
+      "currentVersionReleaseDate": "2026-10-22T15:59:19Z",
+      "releaseNotes": "We’ve made some improvements to the Sainsbury’s app to make shopping easier, both in-store and when building your basket.\nIn SmartShop, you can now explore other areas of the app without losing your basket, and we’ve improved the scanner experience. We’ve also added a ‘Lists Coming Soon’ entry point, paving the way for shopping lists in SmartShop.\nYou may have noticed changes to Favourites too. A new grid layout lets you see more products at once, making it easier to browse and build your basket.",
       "version": "4.3.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Save time. Save money. Shop your way. \n \nThe Sainsbury’s app brings together everything you need to shop with Sainsbury’s, whether you’re planning your weekly shop, shopping in-store, collecting Nectar rewards or getting groceries delivered fast. \n \nWith the Sainsbury’s app you can: \n \n• Shop groceries online and book delivery or Click & Collect slots \n• Unlock personalised offers, Nectar Prices and rewards \n• Use SmartShop to scan as you shop and stay in control of your spend \n• Create shopping lists and save favourites for quicker repeat shops \n• Get groceries delivered in as little as 60 minutes with Chop Chop \n• Find products and locate them in selected stores with Search Your Store \n \nOne app. Multiple ways to shop.",
-      "userRatingCount": 230276,
+      "bundleId": "uk.co.sainsburys.groceries",
+      "userRatingCount": 230875,
       "country": "GBR"
     }
   ]

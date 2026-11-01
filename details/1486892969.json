@@ -221,36 +221,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/39/59/bd395907-b1d5-ba2c-aff3-cb69906a192f/d6a28ac3-3714-46da-8e63-33dbd63da61d_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a0/44/88/a044884a-d9cc-56f1-2cf7-5641eb844b38/cfe1ba81-553a-4769-9cc1-1dd50e1d8886_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/67/f4/ab67f465-b433-c45c-5cf1-eee08e928431/66fce96a-ec54-4178-aab1-242a9086b94f_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4e/c7/25/4ec72531-d937-6fb0-8fa5-04ec6cb711c5/706ab869-506c-4838-a61b-89be6760dc51_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6d/8f/f7/6d8ff760-eaa1-cf67-a597-60e4b89b37c3/bc8b9666-56a7-43c3-8cec-83faaf29df27_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/93/28/6f9328f9-2428-29e9-39c6-781e1203f418/91f0ccef-ca0e-4540-895d-35f7a6a9d1a0_6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/17/97/7e/17977ee9-d928-0766-30bb-0c593af55357/3961c253-6331-431c-8d19-13b543cd4ea0_7.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/5d/e0/8f5de047-6462-b569-77a6-416e295f8947/a2c6a760-4eba-46a8-b857-30c842a768ed_8.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/62/29/f1/6229f1ab-f88f-8f35-db17-13873d22b1d8/54b64b09-84a0-4d25-a458-1dd4f6c4b668_1.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/28/2a/01/282a0132-4cd2-d63f-ef82-58148b70adb5/cdd9cc83-1f6d-4416-8158-003924b06583_2.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/10/e8/da/10e8da48-4c8c-9e86-5eca-51c847e035d5/8988f687-fccd-41d1-bf6f-d5f72c45ef22_3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/67/18/c8/6718c8cb-cd85-110d-d6cc-ab2e835a2680/3badde77-0c55-45d3-ae16-9b75ec041156_4.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b3/de/80/b3de801f-e29d-375e-525d-7e4e7aa873da/abcea56e-4c2f-4ecb-85a0-c0d07e96d404_5_U00282_U0029.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d7/4b/2c/d74b2c2f-796a-c896-fec2-f98389110f24/39c3a1c6-3192-4a72-a5bf-d0bb4cbe684d_6.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f3/ee/6f/f3ee6fc0-641b-b7db-6c8f-d7f2cb0933c6/6f2356e8-749f-4cfa-8018-a1d371561d8f_7.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/40/ce/12/40ce1220-198d-589b-add5-bd119f1b5926/6415c338-e661-40b9-9cf6-0d5068eafaf7_8.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -383,21 +353,53 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/bd/39/59/bd395907-b1d5-ba2c-aff3-cb69906a192f/d6a28ac3-3714-46da-8e63-33dbd63da61d_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a0/44/88/a044884a-d9cc-56f1-2cf7-5641eb844b38/cfe1ba81-553a-4769-9cc1-1dd50e1d8886_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/67/f4/ab67f465-b433-c45c-5cf1-eee08e928431/66fce96a-ec54-4178-aab1-242a9086b94f_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4e/c7/25/4ec72531-d937-6fb0-8fa5-04ec6cb711c5/706ab869-506c-4838-a61b-89be6760dc51_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6d/8f/f7/6d8ff760-eaa1-cf67-a597-60e4b89b37c3/bc8b9666-56a7-43c3-8cec-83faaf29df27_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/93/28/6f9328f9-2428-29e9-39c6-781e1203f418/91f0ccef-ca0e-4540-895d-35f7a6a9d1a0_6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/17/97/7e/17977ee9-d928-0766-30bb-0c593af55357/3961c253-6331-431c-8d19-13b543cd4ea0_7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8f/5d/e0/8f5de047-6462-b569-77a6-416e295f8947/a2c6a760-4eba-46a8-b857-30c842a768ed_8.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/62/29/f1/6229f1ab-f88f-8f35-db17-13873d22b1d8/54b64b09-84a0-4d25-a458-1dd4f6c4b668_1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/28/2a/01/282a0132-4cd2-d63f-ef82-58148b70adb5/cdd9cc83-1f6d-4416-8158-003924b06583_2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/10/e8/da/10e8da48-4c8c-9e86-5eca-51c847e035d5/8988f687-fccd-41d1-bf6f-d5f72c45ef22_3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/67/18/c8/6718c8cb-cd85-110d-d6cc-ab2e835a2680/3badde77-0c55-45d3-ae16-9b75ec041156_4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b3/de/80/b3de801f-e29d-375e-525d-7e4e7aa873da/abcea56e-4c2f-4ecb-85a0-c0d07e96d404_5_U00282_U0029.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d7/4b/2c/d74b2c2f-796a-c896-fec2-f98389110f24/39c3a1c6-3192-4a72-a5bf-d0bb4cbe684d_6.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f3/ee/6f/f3ee6fc0-641b-b7db-6c8f-d7f2cb0933c6/6f2356e8-749f-4cfa-8018-a1d371561d8f_7.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/40/ce/12/40ce1220-198d-589b-add5-bd119f1b5926/6415c338-e661-40b9-9cf6-0d5068eafaf7_8.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/30/af/8c30af41-c70e-1a7b-547c-0981b53c07f3/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "releaseNotes": "Bug fixes and performance improvements.",
       "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "price": 0,
+      "bundleId": "com.microsoft.mahjong",
+      "trackId": 1486892969,
+      "trackName": "Mahjong by Microsoft",
       "minimumOsVersion": "15.0",
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6014",
         "7003",
         "7012"
       ],
-      "releaseDate": "2021-01-12T08:00:00Z",
+      "currentVersionReleaseDate": "2026-10-14T22:15:21Z",
       "sellerName": "Microsoft Corporation",
-      "releaseNotes": "Bug fixes and performance improvements.",
+      "releaseDate": "2021-01-12T08:00:00Z",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "4.9.1",
       "wrapperType": "software",
       "currency": "USD",
@@ -406,8 +408,6 @@
       "trackViewUrl": "https://apps.apple.com/us/app/mahjong-by-microsoft/id1486892969?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 4.49655,
-      "bundleId": "com.microsoft.mahjong",
-      "averageUserRatingForCurrentVersion": 4.49655,
       "sellerUrl": "https://www.microsoftcasualgames.com/",
       "languageCodesISO2A": [
         "DA",
@@ -430,14 +430,14 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 2471,
       "trackContentRating": "4+",
-      "trackId": 1486892969,
-      "trackName": "Mahjong by Microsoft",
-      "currentVersionReleaseDate": "2026-10-14T22:15:21Z",
+      "averageUserRatingForCurrentVersion": 4.49655,
+      "price": 0,
       "genres": [
         "Games",
         "Casual",
         "Puzzle"
       ],
+      "artistName": "Microsoft Corporation",
       "userRatingCount": 2471,
       "country": "USA"
     }

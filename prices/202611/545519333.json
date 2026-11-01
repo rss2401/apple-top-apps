@@ -1,0 +1,51 @@
+{
+  "id": "545519333",
+  "name": "Amazon Prime Video",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:27:47.866Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Werbefrei",
+          "price": "2,99 €",
+          "amount": 2.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:27:42.043Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-01T09:27:43.489Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Ad free",
+          "price": "£2.99",
+          "amount": 2.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:27:44.986Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [],
+      "fetchedAt": "2026-11-01T09:27:46.002Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Ad free",
+          "price": "$2.99",
+          "amount": 2.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:27:47.865Z"
+    }
+  }
+}

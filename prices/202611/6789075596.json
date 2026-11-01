@@ -1,0 +1,39 @@
+{
+  "id": "6789075596",
+  "name": "Kakeibo : Gestion de budget",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:48:14.324Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Kakeibo Premium annuel Bienvenue",
+          "price": "25,99 €",
+          "amount": 25.99
+        },
+        {
+          "name": "Kakeibo Premium mensuel",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Kakeibo Premium 12 mois",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
+          "name": "Kakeibo Premium 1 an",
+          "price": "39,99 €",
+          "amount": 39.99
+        },
+        {
+          "name": "Kakeibo Premium annuel",
+          "price": "119,00 €",
+          "amount": 119
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:48:14.324Z"
+    }
+  }
+}

@@ -448,29 +448,10 @@
       "country": "USA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/67/1d/77671d5d-86d1-3721-f65e-f1ead55a3c4f/Frame_1912057883.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/f3/f2/27f3f267-9427-7f6e-1769-ebcbedd0bfbf/Frame_1912057884.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/83/38/3683382b-77cd-fcdb-79d4-e87ae948e625/Frame_1912057885.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/ce/55/00ce55cc-0aaa-e7f9-0594-26e5e8eb2d2d/Frame_1912057886.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/ef/96/2def968d-1c5f-8d00-7e56-48dfe179569a/Frame_1912057887.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/e7/17/71e71792-0184-a11d-8788-ece71db0a336/Frame_1912057888.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/ac/c2/e7acc27a-eac0-b980-7b5f-108bf4791410/Frame_1912057889.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/31/9b/1f319b56-c82d-63f2-a49e-62653c330182/Frame_1912057890.jpg/392x696bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/bc/b9/f6bcb95d-d3a1-356c-cb75-abcdbe80560e/Frame_1912057900.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0f/9f/0a0f9f5e-579d-b2a9-fa80-5cea64b102da/Frame_1912057901.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/90/be/2b90be16-5830-f8e0-ed0d-9bc461caf644/Frame_1912057902.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/c7/9d/adc79df6-d921-7bc4-a0f4-5697953dc5ab/Frame_1912057903.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/31/d5/5931d561-98d5-b7bb-7707-bec5125645e6/Frame_1912057904.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b8/05/d7b80506-fdba-8848-e147-702c32cef94e/Frame_1912057905.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/bf/20/fdbf20bf-0195-7799-682f-877370a1e110/Frame_1912057906.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/57/75/eb577572-85d0-4afd-02d9-bd9ffbe0d93a/Frame_1912057907.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/52/0d/35520da2-e8eb-39d4-2437-33d79fa4b65f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -604,19 +585,66 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
         "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées de contenu à caractère médical"
+        "Scènes rares/modérées de contenu à caractère médical",
+        "Scènes rares/modérées réservées aux adultes (suggestives)"
       ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/alibaba-com-global-supplier-services-pte-ltd/id6798182401?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/52/0d/35520da2-e8eb-39d4-2437-33d79fa4b65f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/52/0d/35520da2-e8eb-39d4-2437-33d79fa4b65f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/65/59/d06559aa-cb31-8e11-aca8-19c00ecce217/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/65/59/d06559aa-cb31-8e11-aca8-19c00ecce217/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/65/59/d06559aa-cb31-8e11-aca8-19c00ecce217/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/67/1d/77671d5d-86d1-3721-f65e-f1ead55a3c4f/Frame_1912057883.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/f3/f2/27f3f267-9427-7f6e-1769-ebcbedd0bfbf/Frame_1912057884.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/83/38/3683382b-77cd-fcdb-79d4-e87ae948e625/Frame_1912057885.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/ce/55/00ce55cc-0aaa-e7f9-0594-26e5e8eb2d2d/Frame_1912057886.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/ef/96/2def968d-1c5f-8d00-7e56-48dfe179569a/Frame_1912057887.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/e7/17/71e71792-0184-a11d-8788-ece71db0a336/Frame_1912057888.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/ac/c2/e7acc27a-eac0-b980-7b5f-108bf4791410/Frame_1912057889.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/31/9b/1f319b56-c82d-63f2-a49e-62653c330182/Frame_1912057890.jpg/392x696bb.jpg"
       ],
-      "averageUserRatingForCurrentVersion": 4.51158,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/bc/b9/f6bcb95d-d3a1-356c-cb75-abcdbe80560e/Frame_1912057900.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/0f/9f/0a0f9f5e-579d-b2a9-fa80-5cea64b102da/Frame_1912057901.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/90/be/2b90be16-5830-f8e0-ed0d-9bc461caf644/Frame_1912057902.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/c7/9d/adc79df6-d921-7bc4-a0f4-5697953dc5ab/Frame_1912057903.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/31/d5/5931d561-98d5-b7bb-7707-bec5125645e6/Frame_1912057904.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/b8/05/d7b80506-fdba-8848-e147-702c32cef94e/Frame_1912057905.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/bf/20/fdbf20bf-0195-7799-682f-877370a1e110/Frame_1912057906.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/57/75/eb577572-85d0-4afd-02d9-bd9ffbe0d93a/Frame_1912057907.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artistId": 6798182401,
+      "artistName": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
+      "genres": [
+        "Shopping",
+        "Économie et entreprise"
+      ],
+      "price": 0,
+      "bundleId": "com.alibaba.sourcing",
+      "releaseDate": "2012-02-24T16:58:30Z",
+      "releaseNotes": "Inclut des corrections de bugs et une amélioration des performances.",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6024",
+        "6000"
+      ],
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "trackId": 503451073,
+      "trackName": "Commerce B2B avec Alibaba",
+      "sellerName": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-28T02:05:48Z",
+      "version": "26.37.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Qu'est-ce qu'Alibaba.com ?\nAlibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.\n\nAchetez en toute confiance\nNotre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.\n\nProduits personnalisables\nRencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. \n\nApprovisionnement facile\nDécouvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.\n\nExpédition rapide\nAlibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.\n\nDiffusions en direct et visites d'usine\nInteragissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.\n\nCatégories populaires et salons professionnels\n Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.\n\nContrôle de qualité\nChoisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.\n\nRéductions et promotions\nDébloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.\n\nRestez à jour\nUtilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.\n\nPrise en charge des langues et des devises\nAlibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.\n\nAbonnement au Mode IA\nLe Mode IA est votre agent de sourcing IA tout-en-un sur Alibaba.com. Il vous aide à découvrir les tendances, à développer des idées de produits, à évaluer les fournisseurs, à envoyer des demandes de devis et à négocier, ainsi qu'à trouver et comparer des produits correspondants, le tout dans un seul et même processus. Le Mode IA est gratuit pour tous les utilisateurs et inclut un crédit de base. Abonnez-vous aux formules Pro ou Elite pour débloquer davantage de crédits et tirer pleinement parti du Mode IA.\n\nOptions d’abonnement :\n• Pro mensuel — 19,90 US$ par mois\n• Pro annuel — 199,00 US$ par an\n• Elite mensuel — 99,00 US$ par mois\n• Elite annuel — 990,00 US$ par an\n\nLes prix peuvent varier selon les régions. Le paiement sera débité de votre compte Apple après confirmation de l’achat. Les abonnements sont renouvelés automatiquement, sauf si le renouvellement automatique est désactivé avant la fin de la période d’abonnement en cours. Vous pouvez gérer ou résilier vos abonnements dans les paramètres de votre compte App Store.\n\nConditions d'utilisation (CLUF) : https://cdn.contract.alibaba.com/terms/c_platform_service_agreement/20251120045741417/20251120045741417.html?lng=en",
+      "trackViewUrl": "https://apps.apple.com/fr/app/commerce-b2b-avec-alibaba/id503451073?uo=4",
       "sellerUrl": "http://www.alibaba.com",
+      "averageUserRating": 4.51112,
+      "trackCensoredName": "Commerce B2B avec Alibaba",
       "languageCodesISO2A": [
         "AR",
         "DA",
@@ -639,41 +667,13 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "182977536",
+      "fileSizeBytes": "183300096",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 13777,
-      "trackContentRating": "17+",
-      "artistId": 6798182401,
-      "artistName": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
-      "price": 0,
-      "trackId": 503451073,
-      "trackName": "Commerce B2B avec Alibaba",
-      "releaseDate": "2012-02-24T16:58:30Z",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6024",
-        "6000"
-      ],
-      "releaseNotes": "Découvrez les abonnements au Mode IA. Accédez à des fonctionnalités avancées de sourcing basées sur l'IA grâce aux formules Pro et Elite.",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "26.36.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Qu'est-ce qu'Alibaba.com ?\nAlibaba.com est l'un des principaux marchés mondiaux de commerce électronique B2B. Notre application vous permet de vous approvisionner en produits auprès de fournisseurs mondiaux, le tout depuis le confort de votre appareil mobile.\n\nAchetez en toute confiance\nNotre service d'assurance protège vos commandes et vos paiements sur la plateforme, vous permettant d'acheter en toute sécurité et facilement avec une assistance étendue.\n\nProduits personnalisables\nRencontrez des fournisseurs avec des années d'expérience dans la personnalisation et l'exécution des commandes pour les vendeurs sur Amazon, eBay, Wish, Etsy, Mercari, Lazada, etc. \n\nApprovisionnement facile\nDécouvrez des millions de produits prêts à expédier dans toutes les catégories de l'industrie. Dites aux fournisseurs ce dont vous avez besoin et obtenez rapidement des devis grâce aux services de demande de devis.\n\nExpédition rapide\nAlibaba.com s'associe aux principaux transitaires pour fournir des solutions de transport terrestre, maritime et aérien avec des services de livraison ponctuels, un suivi de bout en bout et des prix compétitifs.\n\nDiffusions en direct et visites d'usine\nInteragissez avec les fabricants en temps réel via des démonstrations de produits et des visites d'usines, fournissant un aperçu et une surveillance de la fabrication de vos produits.\n\nCatégories populaires et salons professionnels\n Trouvez une large gamme d'articles populaires - des biens de consommation tendance aux matières premières - et rejoignez nos salons professionnels annuels pour découvrir des produits de niche et des remises.\n\nContrôle de qualité\nChoisissez les services de surveillance et d'inspection de la production d'Alibaba.com pour réduire les retards de production et les risques de qualité.\n\nRéductions et promotions\nDébloquez de nouvelles remises et promotions des fabricants et fournisseurs en vedette.\n\nRestez à jour\nUtilisez l'application Alibaba.com pour rester à jour sur les nouveaux produits et les promotions de vos fournisseurs préférés.\n\nPrise en charge des langues et des devises\nAlibaba.com prend en charge 18 langues et 54 devises locales. Utilisez notre traducteur en temps réel pour communiquer avec les vendeurs dans votre langue maternelle.\n\nAbonnement au Mode IA\nLe Mode IA est votre agent de sourcing IA tout-en-un sur Alibaba.com. Il vous aide à découvrir les tendances, à développer des idées de produits, à évaluer les fournisseurs, à envoyer des demandes de devis et à négocier, ainsi qu'à trouver et comparer des produits correspondants, le tout dans un seul et même processus. Le Mode IA est gratuit pour tous les utilisateurs et inclut un crédit de base. Abonnez-vous aux formules Pro ou Elite pour débloquer davantage de crédits et tirer pleinement parti du Mode IA.\n\nOptions d’abonnement :\n• Pro mensuel — 19,90 US$ par mois\n• Pro annuel — 199,00 US$ par an\n• Elite mensuel — 99,00 US$ par mois\n• Elite annuel — 990,00 US$ par an\n\nLes prix peuvent varier selon les régions. Le paiement sera débité de votre compte Apple après confirmation de l’achat. Les abonnements sont renouvelés automatiquement, sauf si le renouvellement automatique est désactivé avant la fin de la période d’abonnement en cours. Vous pouvez gérer ou résilier vos abonnements dans les paramètres de votre compte App Store.\n\nConditions d'utilisation (CLUF) : https://cdn.contract.alibaba.com/terms/c_platform_service_agreement/20251120045741417/20251120045741417.html?lng=en",
-      "averageUserRating": 4.51158,
-      "trackCensoredName": "Commerce B2B avec Alibaba",
-      "trackViewUrl": "https://apps.apple.com/fr/app/commerce-b2b-avec-alibaba/id503451073?uo=4",
       "contentAdvisoryRating": "17+",
-      "currentVersionReleaseDate": "2026-10-23T11:25:14Z",
-      "genres": [
-        "Shopping",
-        "Économie et entreprise"
-      ],
-      "bundleId": "com.alibaba.sourcing",
-      "userRatingCount": 13777,
+      "userRatingCountForCurrentVersion": 14106,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.51112,
+      "userRatingCount": 14106,
       "country": "FRA"
     },
     {

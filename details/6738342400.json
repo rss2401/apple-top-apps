@@ -435,9 +435,12 @@
       "country": "CHN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
@@ -454,9 +457,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -593,9 +593,10 @@
       "advisories": [],
       "kind": "software",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.6875,
+      "averageUserRating": 4.70587,
       "trackCensoredName": "Tampermonkey",
       "trackViewUrl": "https://apps.apple.com/jp/app/tampermonkey/id6738342400?uo=4",
+      "averageUserRatingForCurrentVersion": 4.70587,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -624,38 +625,37 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 4.6875,
       "fileSizeBytes": "7003136",
       "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 16,
+      "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "4+",
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
       "genres": [
         "仕事効率化",
         "開発ツール"
       ],
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
       "price": 500,
+      "bundleId": "net.tampermonkey.SafariWebExt",
       "minimumOsVersion": "15.0",
-      "trackName": "Tampermonkey",
-      "sellerName": "Jan Biniok",
-      "trackId": 6738342400,
       "genreIds": [
         "6007",
         "6026"
       ],
       "releaseDate": "2024-11-18T08:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "トグル時にエディターメニューが正しく閉じられない問題を修正\nダッシュボードにスクリプトとサイトのアイコンが表示されない問題を修正\niOSでのエクスポートファイルの保存問題を修正\n@require の data: URI 処理を修正",
+      "trackName": "Tampermonkey",
+      "trackId": 6738342400,
+      "sellerName": "Jan Biniok",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
-      "releaseNotes": "トグル時にエディターメニューが正しく閉じられない問題を修正\nダッシュボードにスクリプトとサイトのアイコンが表示されない問題を修正\niOSでのエクスポートファイルの保存問題を修正\n@require の data: URI 処理を修正",
       "version": "5.6.6243",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Tampermonkeyは、すべての主要なブラウザと互換性のある非常に人気のあるブラウザー拡張機能です。\nユーザースクリプト—機能を追加または変更する小さなJavaScriptプログラム—を使用してウェブページをカスタマイズし、強化できます。\nTampermonkeyを使えば、これらのスクリプトを簡単に作成、管理、実行できます。",
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 16,
+      "userRatingCount": 17,
       "country": "JPN"
     },
     {
@@ -883,10 +883,6 @@
       "country": "USA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
@@ -902,9 +898,11 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/jan-biniok/id1482490088?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -1038,8 +1036,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "fileSizeBytes": "7003136",
+      "formattedPrice": "2,99 €",
+      "userRatingCountForCurrentVersion": 9,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -1068,41 +1072,37 @@
         "UK",
         "VI"
       ],
-      "averageUserRating": 3.77778,
-      "fileSizeBytes": "7003136",
-      "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 9,
-      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 3.77778,
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/fr/app/tampermonkey/id6738342400?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.77778,
       "artistId": 1482490088,
       "artistName": "Jan Biniok",
-      "price": 2.99,
       "genres": [
         "Productivité",
         "Outils de développement"
       ],
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
-      "releaseDate": "2024-11-18T08:00:00Z",
-      "releaseNotes": "Corrigé la fermeture du menu de l'éditeur lors du basculement\nCorrigé l'affichage des icônes des scripts et des sites dans le tableau de bord\nCorrigé l'enregistrement des fichiers d'export sur iOS\nCorrigé le traitement des URI data: pour @require",
-      "version": "5.6.6243",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Tampermonkey est une extension de navigateur très populaire, compatible avec tous les principaux navigateurs. \nIl vous permet de personnaliser et d'améliorer les pages web en utilisant des scripts utilisateur — de petits programmes JavaScript qui ajoutent ou modifient des fonctionnalités. \nCréez, gérez et exécutez facilement ces scripts sur n'importe quel site web avec Tampermonkey.",
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/fr/app/tampermonkey/id6738342400?uo=4",
-      "minimumOsVersion": "15.0",
+      "price": 2.99,
       "trackId": 6738342400,
       "trackName": "Tampermonkey",
       "genreIds": [
         "6007",
         "6026"
       ],
-      "sellerName": "Jan Biniok",
+      "bundleId": "net.tampermonkey.SafariWebExt",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "sellerName": "Jan Biniok",
+      "minimumOsVersion": "15.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
+      "releaseNotes": "Corrigé la fermeture du menu de l'éditeur lors du basculement\nCorrigé l'affichage des icônes des scripts et des sites dans le tableau de bord\nCorrigé l'enregistrement des fichiers d'export sur iOS\nCorrigé le traitement des URI data: pour @require",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "version": "5.6.6243",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Tampermonkey est une extension de navigateur très populaire, compatible avec tous les principaux navigateurs. \nIl vous permet de personnaliser et d'améliorer les pages web en utilisant des scripts utilisateur — de petits programmes JavaScript qui ajoutent ou modifient des fonctionnalités. \nCréez, gérez et exécutez facilement ces scripts sur n'importe quel site web avec Tampermonkey.",
       "userRatingCount": 9,
       "country": "FRA"
     },

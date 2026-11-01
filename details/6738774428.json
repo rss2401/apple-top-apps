@@ -3,8 +3,8 @@
   "results": [
     {
       "artistViewUrl": "https://apps.apple.com/de/developer/svax-gmbh/id1613174243?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/08/e2/8908e2fa-ee5b-64b2-6b73-d581f59b2b7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/08/e2/8908e2fa-ee5b-64b2-6b73-d581f59b2b7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6f/4f/1b6f4f28-9fba-4448-1da7-6dd8421a0023/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6f/4f/1b6f4f28-9fba-4448-1da7-6dd8421a0023/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/fa/1e/1afa1ea5-289a-9012-fb09-5d7a6656e98e/APP_1_DEUTSCH_1290x2796.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/75/d2/8b75d277-cfc2-ec3e-d748-020bd8aac027/APP_2_DEUTSCH_1290x2796.jpg/320x480bb.jpg",
@@ -14,10 +14,9 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/08/e2/8908e2fa-ee5b-64b2-6b73-d581f59b2b7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/6f/4f/1b6f4f28-9fba-4448-1da7-6dd8421a0023/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -150,46 +149,47 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "trackCensoredName": "move2pay",
       "trackViewUrl": "https://apps.apple.com/de/app/move2pay/id6738774428?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.62607,
       "languageCodesISO2A": [
         "EN",
         "DE"
       ],
-      "fileSizeBytes": "201237504",
+      "fileSizeBytes": "201376768",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 2693,
+      "userRatingCountForCurrentVersion": 3311,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.61824,
+      "currentVersionReleaseDate": "2026-10-26T15:49:00Z",
+      "averageUserRating": 4.61824,
       "sellerUrl": "https://movetopay.com/",
-      "releaseNotes": "• Spotlight auf Home: ausgewählte Shops und Angebote ganz oben\n• Mehr entdecken auf Produktseiten\n• Ein Bonus-Angebot nach dem Kauf\n• Bis zu 50 % Bewegungsrabatt in ausgewählten Shops\n• Klügere Filter, die sich gegenseitig eingrenzen\n• Benachrichtigungen auf all deinen Geräten\n• Einfacheres Verbinden der Fitness-App und zuverlässigere Anmeldung\n• Stabilitätsverbesserungen und Fehlerbehebungen",
-      "averageUserRatingForCurrentVersion": 4.62607,
-      "artistId": 1613174243,
-      "artistName": "SVAX GmbH",
       "genres": [
         "Gesundheit und Fitness"
       ],
       "price": 0,
+      "artistName": "SVAX GmbH",
+      "artistId": 1613174243,
+      "minimumOsVersion": "16.0",
+      "bundleId": "eu.benmo.app",
       "releaseDate": "2024-12-09T08:00:00Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "trackName": "move2pay",
+      "trackId": 6738774428,
       "primaryGenreName": "Health & Fitness",
       "primaryGenreId": 6013,
-      "minimumOsVersion": "16.0",
+      "sellerName": "SVAX GmbH",
       "genreIds": [
         "6013"
       ],
-      "trackId": 6738774428,
-      "trackName": "move2pay",
-      "currentVersionReleaseDate": "2026-10-23T05:38:52Z",
-      "version": "3.9.6",
+      "version": "3.10.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Beweg dich. Bezahl mit move2pay. \n\nmove2pay ist das erste digitale Bewegungskonto. Verbinde Apple Health oder andere Fitness-Apps und lass deine tägliche Bewegung automatisch zu Guthaben werden. Ob Schritte, Laufen, Gehen, Radfahren oder Training - jede Aktivität lässt dein Bewegungskonto wachsen. Mit deinem Guthaben kannst du bei zahlreichen Marken einen Teil deines Einkaufs bezahlen. Den Rest zahlst du wie gewohnt mit deiner bevorzugten Zahlungsmethode.\n\nSo funktioniert's\nApple Health oder Fitness-App verbinden\nSchritte und Aktivitäten automatisch synchronisieren\nBewegungsguthaben sammeln\nBeim Bezahlen Guthaben einsetzen\n\nWarum move2pay\nBewegung wird wertvoll\nKeine zusätzliche Hardware notwendig\nAutomatische Synchronisation mit Apple Health\nSicher, einfach und kostenlos\n\n[:mav: 3.2.1]",
-      "bundleId": "eu.benmo.app",
-      "sellerName": "SVAX GmbH",
-      "userRatingCount": 2693,
+      "releaseNotes": "• Neu: per QR-Code auf move2pay.de anmelden\n• Angebote & Drops jetzt auch auf Shop- und Produktseiten\n• Verbesserungen der Benutzeroberfläche\n• Fehlerbehebungen und Stabilitätsverbesserungen",
+      "userRatingCount": 3311,
       "country": "DEU"
     }
   ]

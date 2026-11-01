@@ -192,7 +192,11 @@
       "userRatingCount": 3467
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/naoya-araki/id435849505?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/02/e4/2602e419-5974-3106-abc2-88c4d0bdb919/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/02/e4/2602e419-5974-3106-abc2-88c4d0bdb919/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,10 +342,11 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/02/e4/2602e419-5974-3106-abc2-88c4d0bdb919/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/naoya-araki/id435849505?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/02/e4/2602e419-5974-3106-abc2-88c4d0bdb919/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/02/e4/2602e419-5974-3106-abc2-88c4d0bdb919/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [],
+      "trackCensoredName": "Sleep Meister - 睡眠サイクルアラーム",
+      "trackViewUrl": "https://apps.apple.com/jp/app/sleep-meister-%E7%9D%A1%E7%9C%A0%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0/id599456126?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.60968,
+      "releaseNotes": "軽微な修正を行いました",
       "artistId": 435849505,
       "artistName": "Naoya Araki",
       "genres": [
@@ -349,25 +354,25 @@
         "ライフスタイル"
       ],
       "price": 300,
+      "bundleId": "com.amuate.sleepmeister",
+      "releaseDate": "2013-02-19T20:33:46Z",
+      "minimumOsVersion": "26.0",
       "trackName": "Sleep Meister - 睡眠サイクルアラーム",
       "trackId": 599456126,
-      "releaseNotes": "軽微な修正を行いました",
-      "releaseDate": "2013-02-19T20:33:46Z",
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "sellerName": "Naoya Araki",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6013",
         "6012"
       ],
+      "primaryGenreName": "Health & Fitness",
+      "primaryGenreId": 6013,
+      "sellerName": "Naoya Araki",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-17T03:19:30Z",
       "version": "1.25.4",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "AppStore 総合ランキング1位!\n\nSleep Meister（スリープ・マイスター）は、端末に内臓されている加速度センサを用いて人の体動を感知し、眠りの浅いタイミングでアラームを鳴らすことにより、快適な目覚めをサポートする目覚ましアラームアプリです。\n\nまたその他にも、ヘルスケアとの連携や、寝言（物音）の録音機能、グラフやリストによる睡眠データの管理、各種SNSへの睡眠データの投稿、入眠時に自動停止する音楽プレイヤーなどなど、機能も充実。 \n\n快適な毎朝を迎えましょう！ \n\n【機能・特徴】\n・iOS 27 対応\n・ヘルスケアアプリ連携（睡眠分析）\n・睡眠サイクルの記録\n・眠りの浅いタイミングで鳴動するアラーム\n・寝言（物音）の録音機能\n・入眠時に自動停止する音楽プレイヤー \n\n【使用方法】 \n1. 設定にてアラーム音、スヌーズ等、お好みに応じて設定して下さい。 \n2. アラーム時刻を設定し、STARTボタンを押すと睡眠サイクルの計測が始まります。 \n3. 設定のヘルプを参考に、お使いの端末を寝具にセットして下さい。 \n4. 設定時刻に従い、眠りの浅いタイミングでアラームが鳴ります。 \n5. 起床後はスライダーを右へスライドさせて計測を停止して下さい。 \n\n【URLスキーム】 \nsleepmeister: \n\n【無料版・有料版の違い】 \n広告の有無",
-      "averageUserRatingForCurrentVersion": 4.61043,
-      "averageUserRating": 4.61043,
+      "averageUserRatingForCurrentVersion": 4.60968,
       "sellerUrl": "https://amuate.com/",
       "languageCodesISO2A": [
         "EN",
@@ -375,14 +380,9 @@
       ],
       "fileSizeBytes": "16496640",
       "formattedPrice": "¥300",
-      "userRatingCountForCurrentVersion": 3468,
+      "userRatingCountForCurrentVersion": 3469,
       "trackContentRating": "4+",
-      "trackCensoredName": "Sleep Meister - 睡眠サイクルアラーム",
-      "trackViewUrl": "https://apps.apple.com/jp/app/sleep-meister-%E7%9D%A1%E7%9C%A0%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%A0/id599456126?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.amuate.sleepmeister",
-      "minimumOsVersion": "26.0",
-      "userRatingCount": 3468,
+      "userRatingCount": 3469,
       "country": "JPN"
     }
   ]

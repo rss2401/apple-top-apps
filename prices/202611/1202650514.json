@@ -1,0 +1,72 @@
+{
+  "id": "1202650514",
+  "name": "HealthFit",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:37:30.692Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Fanatischer Unterstützer",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Toller Unterstützer",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:37:26.209Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Supporter fanatique",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Supporter fantastique",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:37:27.651Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Fanatical Supporter",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Awesome Supporter",
+          "price": "£4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:37:29.239Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Fanatical Supporter",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Awesome Supporter",
+          "price": "$4.99",
+          "amount": 4.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:37:30.691Z"
+    }
+  }
+}

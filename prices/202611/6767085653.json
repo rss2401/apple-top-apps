@@ -1,0 +1,49 @@
+{
+  "id": "6767085653",
+  "name": "Cursor",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:51:27.956Z",
+  "storefronts": {
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Pro",
+          "price": "$25.99",
+          "amount": 25.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Pro+",
+          "price": "$77.99",
+          "amount": 77.99
+        },
+        {
+          "name": "Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "X Super",
+          "price": "$129.99",
+          "amount": 129.99
+        },
+        {
+          "name": "X Ultra",
+          "price": "$259.99",
+          "amount": 259.99
+        },
+        {
+          "name": "X Premium",
+          "price": "$300.00",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:51:27.950Z"
+    }
+  }
+}

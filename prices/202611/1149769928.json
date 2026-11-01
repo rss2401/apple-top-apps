@@ -1,0 +1,34 @@
+{
+  "id": "1149769928",
+  "name": "iCompta 6",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:42:33.782Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Téléchargement",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "Téléchargement",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Supporter",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Supporter",
+          "price": "29,99 €",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:42:33.781Z"
+    }
+  }
+}

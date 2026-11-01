@@ -1,0 +1,41 @@
+{
+  "id": "378503081",
+  "name": "Groundwire: VoIP SIP Softphone",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:29:15.547Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "ZRTP For Outgoing Calls",
+          "price": "29,99 €",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:29:12.520Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "ZRTP For Outgoing Calls",
+          "price": "£24.99",
+          "amount": 24.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:29:14.088Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "ZRTP For Outgoing Calls",
+          "price": "¥4,000",
+          "amount": 4000
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:29:15.546Z"
+    }
+  }
+}

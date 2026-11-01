@@ -191,25 +191,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/80/b2/e080b228-4891-4a3d-c968-2a338a5f3b32/be2f775a-ab95-490f-b66c-11cb8a5d37ec_ConnectorImageX_-_55a.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/87/31/7f87316a-ad9c-c456-c949-2c7bdca259a4/69cbe29b-7d03-4b05-bacd-0d5d242556f1_ParkingImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/fb/09/f3fb0941-b346-016f-d1f7-f62fd47e0366/88fbb8cc-a46a-4695-bbab-ada4f086e6a5_FacilitiesImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/c8/cf/3ec8cf35-9465-e311-0bed-06710c63ff2b/1178a38d-70de-4419-9a51-ca4f84a3a015_DiningImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/6b/77/d96b772c-22e1-aa5e-0872-4cd1aa501457/485a8ccd-639f-4793-99bb-cc9d4eda7eda_DiscoverImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/92/83/599283fe-63b5-2b6b-8151-3f177a104e9f/f6dcef92-6b05-454a-a645-6abc53a5a533_BookaSpaceImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/bc/f9/0abcf9f1-078e-9d22-b5e9-f3d659564236/8f422eb6-7aaa-44a3-9e6e-99928b602506_ILSImageX_-_55a__U00281_U0029.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/6e/30/7d6e3073-c1ed-c69e-9d7c-46944ac0bc0c/9b0e013a-bbb3-4e78-a84e-a14642b8733b_ShuttleImageX_-_55a__U00281_U0029.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,19 +323,40 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "features": [],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e0/80/b2/e080b228-4891-4a3d-c968-2a338a5f3b32/be2f775a-ab95-490f-b66c-11cb8a5d37ec_ConnectorImageX_-_55a.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/87/31/7f87316a-ad9c-c456-c949-2c7bdca259a4/69cbe29b-7d03-4b05-bacd-0d5d242556f1_ParkingImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/fb/09/f3fb0941-b346-016f-d1f7-f62fd47e0366/88fbb8cc-a46a-4695-bbab-ada4f086e6a5_FacilitiesImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/c8/cf/3ec8cf35-9465-e311-0bed-06710c63ff2b/1178a38d-70de-4419-9a51-ca4f84a3a015_DiningImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/6b/77/d96b772c-22e1-aa5e-0872-4cd1aa501457/485a8ccd-639f-4793-99bb-cc9d4eda7eda_DiscoverImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/92/83/599283fe-63b5-2b6b-8151-3f177a104e9f/f6dcef92-6b05-454a-a645-6abc53a5a533_BookaSpaceImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/bc/f9/0abcf9f1-078e-9d22-b5e9-f3d659564236/8f422eb6-7aaa-44a3-9e6e-99928b602506_ILSImageX_-_55a__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/6e/30/7d6e3073-c1ed-c69e-9d7c-46944ac0bc0c/9b0e013a-bbb3-4e78-a84e-a14642b8733b_ShuttleImageX_-_55a__U00281_U0029.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a7/35/bba7351e-9f1d-a888-7ada-baf23b1ba056/AppIcon.prod-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "releaseNotes": "A couple of bug fixes",
       "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
-      "price": 0,
+      "bundleId": "com.microsoft.myhub",
+      "trackId": 1476326475,
+      "trackName": "Microsoft MyHub",
       "minimumOsVersion": "18.0",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6000"
       ],
-      "releaseDate": "2020-07-01T07:00:00Z",
+      "currentVersionReleaseDate": "2026-09-17T13:08:42Z",
       "sellerName": "Microsoft Corporation",
-      "releaseNotes": "A couple of bug fixes",
+      "releaseDate": "2020-07-01T07:00:00Z",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.1.7",
       "wrapperType": "software",
       "currency": "USD",
@@ -363,8 +365,6 @@
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-myhub/id1476326475?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3.5356,
-      "bundleId": "com.microsoft.myhub",
-      "averageUserRatingForCurrentVersion": 3.5356,
       "languageCodesISO2A": [
         "EN"
       ],
@@ -372,12 +372,12 @@
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 323,
       "trackContentRating": "4+",
-      "trackId": 1476326475,
-      "trackName": "Microsoft MyHub",
-      "currentVersionReleaseDate": "2026-09-17T13:08:42Z",
+      "averageUserRatingForCurrentVersion": 3.5356,
+      "price": 0,
       "genres": [
         "Business"
       ],
+      "artistName": "Microsoft Corporation",
       "userRatingCount": 323,
       "country": "USA"
     }

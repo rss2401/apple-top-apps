@@ -2,9 +2,19 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/mueller-handels-gmbh-co-kg/id1157953992?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/bb/24/bbbb24b8-54e0-a156-a098-30e8389fced4/01_DE_Startseite_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/a3/d8/ada3d895-e801-ab26-09bb-285f18c04297/02_DE_Coupons_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/58/b5/8458b59c-0963-d336-2855-0079cfdebab4/03_DE_Kundenkarte_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/2a/87/0c2a8748-b28e-8321-0052-f7b04946657e/04_DE_Bluecode_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/61/18/7c611813-fc62-c487-3eb5-2fa9015571b4/05_DE_Onlineshop_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/d8/f8/9dd8f8d8-e11a-9ed8-5d36-c3da7392471d/06_DE_Prospekte_iPhone16.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/da/35/0bda35b2-ece1-8505-a239-bd8a779a562c/07_DE_Mehr_iPhone16.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -142,44 +152,10 @@
         "Selten/schwach ausgeprägt: Wettkämpfe"
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/bb/24/bbbb24b8-54e0-a156-a098-30e8389fced4/01_DE_Startseite_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/a3/d8/ada3d895-e801-ab26-09bb-285f18c04297/02_DE_Coupons_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/58/b5/8458b59c-0963-d336-2855-0079cfdebab4/03_DE_Kundenkarte_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/2a/87/0c2a8748-b28e-8321-0052-f7b04946657e/04_DE_Bluecode_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/61/18/7c611813-fc62-c487-3eb5-2fa9015571b4/05_DE_Onlineshop_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/d8/f8/9dd8f8d8-e11a-9ed8-5d36-c3da7392471d/06_DE_Prospekte_iPhone16.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/da/35/0bda35b2-ece1-8505-a239-bd8a779a562c/07_DE_Mehr_iPhone16.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "trackViewUrl": "https://apps.apple.com/de/app/m%C3%BCller/id1516484066?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.74066,
-      "trackCensoredName": "Müller",
-      "minimumOsVersion": "15.1",
-      "price": 0,
-      "genres": [
-        "Shopping"
-      ],
-      "artistId": 1157953992,
-      "artistName": "Mueller Handels GmbH & Co. KG",
-      "bundleId": "at.helloagain.muellerde",
-      "releaseNotes": "Verbesserungen in Ihrer Müller App!\nWir haben unsere Müller App weiter optimiert, um Ihnen ein noch schnelleres, stabileres und intuitiveres Nutzungserlebnis zu bieten. Mit diesem Update erwarten Sie nützliche Anpassungen und neue Highlights:\n- Single Sign-on: Müller App und Müller Onlineshop mit einem gemeinsamen Kundenkonto. Melden Sie sich künftig mit denselben Zugangsdaten in der Müller App und im Müller Onlineshop an.\n- Verbesserungen für englischsprachige App-Version",
-      "genreIds": [
-        "6024"
-      ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Mueller Grosshandels Ltd. & Co. KG",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-08T08:21:06Z",
-      "version": "2.22.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Sammeln, shoppen, sparen und gewinnen!\n\nDie Müller App bietet Ihnen viele Vorteile, wie z.B. eine digitale Kundenkarte, Coupons, Gewinnspiele & vieles mehr. Profitieren Sie von diesen Vorteilen.\n\nSo funktioniert es:\n\n1. Müller App kostenlos herunterladen\n2. Registrieren Sie sich für die Müller Kundenkarte via E-Mail Adresse und Passwort\n3. Um von den vielen Vorteilen der App zu profitieren, ist die Angabe von wenigen persönlichen Daten notwendig. Sie entscheiden selbst, welche Daten Sie angeben möchten, und können Benachrichtigungen von uns selbständig aktivieren.\n\nDie Vorteile und Funktionen der Müller App:\n\nDigitale Kundenkarte\nIhre Treue wird belohnt! Durch Einkäufe und Weiterempfehlungen sammeln Sie Müller Blüten auf Ihrer Kundenkarte. Diese können Sie bei zukünftigen Einkäufen einlösen und bares Geld sparen. Sichern Sie sich den Willkommensbonus für Ihren ersten Einkauf! \nDie App ist als digitale Kundenkarte auf Ihrem Mobiltelefon immer mit dabei. In Ihrem Blütenkonto sehen Sie jederzeit den aktuellen Blüten Stand Ihrer Kundenkarte sowie eine Übersicht über Ihre vergangenen Einkäufe.\n\nCoupons & Gewinnspiele\nAls App Nutzer erhalten Sie einen Überblick über aktuelle Coupons aus unserer Drogerie und aus weiteren Sortimenten. Einfach Coupons aktivieren, Kundenkarte an der Kasse scannen lassen und bares Geld sparen.\n\nAußerdem profitieren Sie von exklusiven Gewinnspielen.\n\nWeitere Funktionen\n\nFilialfinder: In unserem Filialfinder finden Sie Ihre nächste Müller Filiale, Öffnungszeiten und weitere Informationen zu unseren Müller-Filialen.\n\nOnlineshop: In der App können Sie wie gewohnt in unseren Produktkategorien stöbern, bestimmte Artikel aus unserem Sortiment suchen und direkt shoppen. Müller ist mehr als nur eine Drogerie – Sie finden im Onlineshop alle Sortimente: Drogerie, Parfümerie, Naturshop, Spielware, Schreibware, Multi-Media, Haushalt, Schreibwaren und Strümpfe.\n\nProspekte & Magazine: In der Prospekt Übersicht finden Sie alle aktuellen Müller Prospekte, z.B. unsere regelmäßigen Drogerie Angebote und können diese durchblättern. Außerdem finden Sie hier unsere Kundenmagazine, lassen Sie sich inspirieren!\n\nDigitaler Kassenbon: Nach dem Einkauf erhalten Sie Ihren Kassenbon in der App – nachhaltig und praktisch, denn so kann er nicht verloren gehen.\n\nAutomatischer WLAN Login:\nSie haben die Möglichkeit der Nutzung des Kunden WLANs bereits bequem auch schon von zu Hause aus zuzustimmen. \nIhr Gerät verbindet sich dann bei jedem Besuch unserer Filialen mit dem Müller gratis WLAN.\n\nIn Deutschland und Österreich MüllerPay: MüllerPay ist die von Müller angebotene mobile Zahlungsmethode, um in den Müller Filialen mit der Müller App zu bezahlen. Mit MüllerPay können Sie Ihre digitale Kundenkarte scannen lassen und zeitgleich kontaktlos bezahlen. So sammeln Sie automatisch beim Bezahlvorgang Müller Blüten und lösen Vorteile ein. Technisch möglich macht dies das mobile Bezahlverfahren Bluecode.\n\nIhre Meinung ist uns wichtig! Wir freuen uns über Ihr Feedback, um unsere Müller App weiterzuentwickeln und zu verbessern\nNutzen Sie das Kontaktformular innerhalb der App oder schreiben Sie an unseren App-Kundenservice.\n\nDeutschland: service@app.de.mueller.eu\nÖsterreich: service@app.at.mueller.eu\nSchweiz: service@app.ch.mueller.eu\nSlowenien: aplikacija@app.si.mueller.eu\nSpanien: service@app.es.mueller.eu\nKroatien: aplikacija@app.hr.mueller.eu\nUngarn: kapcsolat@app.hu.mueller.eu",
+      "artistViewUrl": "https://apps.apple.com/de/developer/mueller-handels-gmbh-co-kg/id1157953992?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9f/53/059f53e5-64e2-0deb-9a4b-dd1e02826177/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://www.mueller.de/service/app/",
       "languageCodesISO2A": [
         "HR",
         "EN",
@@ -191,14 +167,38 @@
       ],
       "fileSizeBytes": "86560768",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 135773,
+      "userRatingCountForCurrentVersion": 137861,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.74066,
-      "sellerUrl": "https://www.mueller.de/service/app/",
-      "releaseDate": "2020-06-25T07:00:00Z",
+      "averageUserRatingForCurrentVersion": 4.73967,
+      "artistId": 1157953992,
+      "artistName": "Mueller Handels GmbH & Co. KG",
+      "price": 0,
+      "minimumOsVersion": "15.1",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6024"
+      ],
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "trackId": 1516484066,
       "trackName": "Müller",
-      "userRatingCount": 135773,
+      "releaseDate": "2020-06-25T07:00:00Z",
+      "currentVersionReleaseDate": "2026-10-08T08:21:06Z",
+      "releaseNotes": "Verbesserungen in Ihrer Müller App!\nWir haben unsere Müller App weiter optimiert, um Ihnen ein noch schnelleres, stabileres und intuitiveres Nutzungserlebnis zu bieten. Mit diesem Update erwarten Sie nützliche Anpassungen und neue Highlights:\n- Single Sign-on: Müller App und Müller Onlineshop mit einem gemeinsamen Kundenkonto. Melden Sie sich künftig mit denselben Zugangsdaten in der Müller App und im Müller Onlineshop an.\n- Verbesserungen für englischsprachige App-Version",
+      "sellerName": "Mueller Grosshandels Ltd. & Co. KG",
+      "version": "2.22.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Sammeln, shoppen, sparen und gewinnen!\n\nDie Müller App bietet Ihnen viele Vorteile, wie z.B. eine digitale Kundenkarte, Coupons, Gewinnspiele & vieles mehr. Profitieren Sie von diesen Vorteilen.\n\nSo funktioniert es:\n\n1. Müller App kostenlos herunterladen\n2. Registrieren Sie sich für die Müller Kundenkarte via E-Mail Adresse und Passwort\n3. Um von den vielen Vorteilen der App zu profitieren, ist die Angabe von wenigen persönlichen Daten notwendig. Sie entscheiden selbst, welche Daten Sie angeben möchten, und können Benachrichtigungen von uns selbständig aktivieren.\n\nDie Vorteile und Funktionen der Müller App:\n\nDigitale Kundenkarte\nIhre Treue wird belohnt! Durch Einkäufe und Weiterempfehlungen sammeln Sie Müller Blüten auf Ihrer Kundenkarte. Diese können Sie bei zukünftigen Einkäufen einlösen und bares Geld sparen. Sichern Sie sich den Willkommensbonus für Ihren ersten Einkauf! \nDie App ist als digitale Kundenkarte auf Ihrem Mobiltelefon immer mit dabei. In Ihrem Blütenkonto sehen Sie jederzeit den aktuellen Blüten Stand Ihrer Kundenkarte sowie eine Übersicht über Ihre vergangenen Einkäufe.\n\nCoupons & Gewinnspiele\nAls App Nutzer erhalten Sie einen Überblick über aktuelle Coupons aus unserer Drogerie und aus weiteren Sortimenten. Einfach Coupons aktivieren, Kundenkarte an der Kasse scannen lassen und bares Geld sparen.\n\nAußerdem profitieren Sie von exklusiven Gewinnspielen.\n\nWeitere Funktionen\n\nFilialfinder: In unserem Filialfinder finden Sie Ihre nächste Müller Filiale, Öffnungszeiten und weitere Informationen zu unseren Müller-Filialen.\n\nOnlineshop: In der App können Sie wie gewohnt in unseren Produktkategorien stöbern, bestimmte Artikel aus unserem Sortiment suchen und direkt shoppen. Müller ist mehr als nur eine Drogerie – Sie finden im Onlineshop alle Sortimente: Drogerie, Parfümerie, Naturshop, Spielware, Schreibware, Multi-Media, Haushalt, Schreibwaren und Strümpfe.\n\nProspekte & Magazine: In der Prospekt Übersicht finden Sie alle aktuellen Müller Prospekte, z.B. unsere regelmäßigen Drogerie Angebote und können diese durchblättern. Außerdem finden Sie hier unsere Kundenmagazine, lassen Sie sich inspirieren!\n\nDigitaler Kassenbon: Nach dem Einkauf erhalten Sie Ihren Kassenbon in der App – nachhaltig und praktisch, denn so kann er nicht verloren gehen.\n\nAutomatischer WLAN Login:\nSie haben die Möglichkeit der Nutzung des Kunden WLANs bereits bequem auch schon von zu Hause aus zuzustimmen. \nIhr Gerät verbindet sich dann bei jedem Besuch unserer Filialen mit dem Müller gratis WLAN.\n\nIn Deutschland und Österreich MüllerPay: MüllerPay ist die von Müller angebotene mobile Zahlungsmethode, um in den Müller Filialen mit der Müller App zu bezahlen. Mit MüllerPay können Sie Ihre digitale Kundenkarte scannen lassen und zeitgleich kontaktlos bezahlen. So sammeln Sie automatisch beim Bezahlvorgang Müller Blüten und lösen Vorteile ein. Technisch möglich macht dies das mobile Bezahlverfahren Bluecode.\n\nIhre Meinung ist uns wichtig! Wir freuen uns über Ihr Feedback, um unsere Müller App weiterzuentwickeln und zu verbessern\nNutzen Sie das Kontaktformular innerhalb der App oder schreiben Sie an unseren App-Kundenservice.\n\nDeutschland: service@app.de.mueller.eu\nÖsterreich: service@app.at.mueller.eu\nSchweiz: service@app.ch.mueller.eu\nSlowenien: aplikacija@app.si.mueller.eu\nSpanien: service@app.es.mueller.eu\nKroatien: aplikacija@app.hr.mueller.eu\nUngarn: kapcsolat@app.hu.mueller.eu",
+      "bundleId": "at.helloagain.muellerde",
+      "averageUserRating": 4.73967,
+      "trackCensoredName": "Müller",
+      "trackViewUrl": "https://apps.apple.com/de/app/m%C3%BCller/id1516484066?uo=4",
+      "contentAdvisoryRating": "4+",
+      "genres": [
+        "Shopping"
+      ],
+      "userRatingCount": 137861,
       "country": "DEU"
     }
   ]

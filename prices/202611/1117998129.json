@@ -1,0 +1,71 @@
+{
+  "id": "1117998129",
+  "name": "ヒューマン・アナトミー・アトラス2026",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:28:56.141Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Animationen",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Erweiterte Animationen",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "3D-Zahnanatomie",
+          "price": "8,99 €",
+          "amount": 8.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:28:53.177Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Animations",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Animations Avancées",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Anatomie dentaire en 3D",
+          "price": "8,99 €",
+          "amount": 8.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:28:54.716Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "患者の教育用アニメーション",
+          "price": "¥3,000",
+          "amount": 3000
+        },
+        {
+          "name": "高度なアニメーション",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "3Dでの歯科解剖学的構造",
+          "price": "¥1,300",
+          "amount": 1300
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:28:56.140Z"
+    }
+  }
+}

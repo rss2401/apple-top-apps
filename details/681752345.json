@@ -435,7 +435,6 @@
       "country": "JPN"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/30/5b/4f305be3-e0a4-328d-e986-ffcae9cee8cc/en.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/25/fb/ad25fb79-bd39-5592-eeea-b5f84530d8e8/result_1.jpg/320x480bb.jpg",
@@ -455,10 +454,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/4f/3d/8f4f3d11-6bf5-3c00-341b-3e18abdf048a/cee9a05d-8a63-49e3-b52b-f107fac38c78_2048x2732bb__U00285_U0029.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/10/4d/9a104d6e-70a9-3c61-3c52-6671a05018b8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/11/31/14113181-f867-7d39-b302-a9390df5d572/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/gb/developer/trip-com-travel-singapore-pte-ltd/id1551583839?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/11/31/14113181-f867-7d39-b302-a9390df5d572/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/11/31/14113181-f867-7d39-b302-a9390df5d572/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -593,15 +593,11 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/trip-com-travel-singapore-pte-ltd/id1551583839?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/10/4d/9a104d6e-70a9-3c61-3c52-6671a05018b8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/10/4d/9a104d6e-70a9-3c61-3c52-6671a05018b8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Explore our new Autumn Map. Autumn doesn't last long, so we've mapped it. Discover the world's top autumn destinations in one view, complete with iconic foliage guides and live trends so that you can catch the season at its peak.\n\nHappy travels!",
+      "features": [
+        "iosUniversal"
+      ],
       "sellerUrl": "https://www.trip.com/pages/appdownload/",
-      "fileSizeBytes": "189990912",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 24268,
-      "trackContentRating": "4+",
+      "trackCensoredName": "Trip.com: Flight, Hotel, Train",
       "languageCodesISO2A": [
         "AR",
         "DA",
@@ -628,37 +624,41 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 4.56827,
+      "fileSizeBytes": "190879744",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 24300,
+      "trackViewUrl": "https://apps.apple.com/gb/app/trip-com-flight-hotel-train/id681752345?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.56646,
+      "averageUserRating": 4.56646,
+      "contentAdvisoryRating": "4+",
       "artistId": 1551583839,
       "artistName": "Trip.com Travel Singapore Pte. Ltd.",
+      "price": 0,
       "genres": [
         "Travel",
         "Lifestyle"
       ],
-      "price": 0,
+      "minimumOsVersion": "15.0",
       "bundleId": "com.ctrip.EBooking",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackName": "Trip.com: Flight, Hotel, Train",
-      "trackId": 681752345,
       "releaseDate": "2013-08-05T16:28:36Z",
+      "releaseNotes": "Explore our new Autumn Map. Autumn doesn't last long, so we've mapped it. Discover the world's top autumn destinations in one view, complete with iconic foliage guides and live trends so that you can catch the season at its peak.\n\nHappy travels!",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
       "sellerName": "Trip.com Travel Singapore Pte. Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "8.59.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Rated 'Excellent' on Trustpilot.\n\nThe Trip.com app is your trusted travel companion whenever and wherever you are. Get the app now to create your perfect trip at a fantastic price!\n \n#Why is the Trip.com App Trust-worthy?\n \n24/7 SERVICE GUARANTEE ► You can rely on timely customer support and post-booking protection with our 24/7 service guarantee. Our awarding-winning customer support helps every customer with a stress-free trip.\n \n24 LANGUAGES SUPPORTED ► Switch the app to your native language and manage all your bookings with ease.\n \n31 CURRENCIES & MULTIPLE PAYMENT OPTIONS ► We have a payment solution for international travellers. All frequently-used payment methods supported in the app.\n \nTRAVEL INSURANCE ► Fly with peace of mind with our comprehensive travel insurance plans.\n \nOFFICIAL PARTNERSHIPS ► Trip.com app is an official partner of National Rail, Eurostar, Ryanair, British Airways, meaning you have access to industry-leading travel products. In short, you can count on us for a reliable travel experience!\n \nMEMBER-ONLY REWARDS ► Become a Trip member and get exclusive rewards, such as earning in our rewards scheme Trip Coins that will help you save more in the future. Join us now for free and get more for less!\n \n#How can you get the best service at the best price on the Trip.com app?\n \nFLIGHTS.\n \nFIND YOUR PERFECT FLIGHT ► The Trip.com app offers flights to around 5,000 cities worldwide. You can even book a chartered flight! The Trip.com app lets you filter by price, flight duration, travel time, airline, or number of stops. Pick a multi-city itinerary, so you can fly into one city and out of another.\n \nLOW-PRICE MAP ► The map offers our cheapest available flights worldwide, from Europe, Asia to the Americas, Oceania, and Africa. Get inspiration from thousands of routes and find your next adventure.\n \nPRICE DROP ALERTS ► Can't find a flight in your price range? Just set up a price drop alert. We'll let you know as soon as it hits the point you're happy with.\n \nFLIGHT STATUS CHECKER ► Enter your flight number and get real-time flight info.\n \nTRAINS.\n \nWORLDWIDE TRAIN TICKETS ► Whether you're hitting the rails in Europe (incl. the UK, France, Italy, Spain, and Germany), mainland China, Taiwan, Hong Kong, or South Korea, you'll find everything you need on Trip.com.\n \nOFFICIAL PARTNERSHIPS ► We connect directly with the train's information for updated schedule info and prices, which lets you search quickly through available fares, saving you time and money.\n \nSPLIT TICKETS ► Book your journey in separate segments and enjoy lower fares without compromising on your travel experience.\n \nLIVE TRACKER ► We'll keep an eye on the status of your train. Check back one day before departure for the latest information.\n \nHOTELS.\n \nADVANCED SEARCH FILTER ► On Trip.com, you can browse more than 1.4 million options worldwide. Whether you’re in the mood for a money-saving apartment stay or a luxury five-stay hotel, a cozy B&B or a fun-filled resort, it’s easy to find the right accommodation.\n \nWE PRICE MATCH ► We aim to offer you the best possible price. If you find a cheaper option elsewhere, we'll refund the difference.\n \nVERIFIED USER REVIEWS ► We have over 30 million verified hotel reviews to help you make your decision.\n \nHOTEL AND FLIGHT BUNDLE BOOKING ► Save money by booking your hotel and flight together. If your flight is rescheduled, we'll guarantee your hotel room.\n \nAND MORE.\n \nTRIP.BEST RANKINGS ► You can find top attractions, family-friendly spots, natural sites and much more!\n \nTRIP MANAGEMENT IN ONE APP ► You can add itinerary to your calendar, or save as a photo for offline use.\n \nCAR RENTAL ► Free cancellation available!\n \nDownload the Trip.com app now to discover more amazing features and create your perfect trip - just like that!",
+      "trackId": 681752345,
+      "trackName": "Trip.com: Flight, Hotel, Train",
       "genreIds": [
         "6003",
         "6012"
       ],
-      "minimumOsVersion": "15.0",
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "currentVersionReleaseDate": "2026-10-23T01:50:26Z",
-      "version": "8.59.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Rated 'Excellent' on Trustpilot.\n\nThe Trip.com app is your trusted travel companion whenever and wherever you are. Get the app now to create your perfect trip at a fantastic price!\n \n#Why is the Trip.com App Trust-worthy?\n \n24/7 SERVICE GUARANTEE ► You can rely on timely customer support and post-booking protection with our 24/7 service guarantee. Our awarding-winning customer support helps every customer with a stress-free trip.\n \n24 LANGUAGES SUPPORTED ► Switch the app to your native language and manage all your bookings with ease.\n \n31 CURRENCIES & MULTIPLE PAYMENT OPTIONS ► We have a payment solution for international travellers. All frequently-used payment methods supported in the app.\n \nTRAVEL INSURANCE ► Fly with peace of mind with our comprehensive travel insurance plans.\n \nOFFICIAL PARTNERSHIPS ► Trip.com app is an official partner of National Rail, Eurostar, Ryanair, British Airways, meaning you have access to industry-leading travel products. In short, you can count on us for a reliable travel experience!\n \nMEMBER-ONLY REWARDS ► Become a Trip member and get exclusive rewards, such as earning in our rewards scheme Trip Coins that will help you save more in the future. Join us now for free and get more for less!\n \n#How can you get the best service at the best price on the Trip.com app?\n \nFLIGHTS.\n \nFIND YOUR PERFECT FLIGHT ► The Trip.com app offers flights to around 5,000 cities worldwide. You can even book a chartered flight! The Trip.com app lets you filter by price, flight duration, travel time, airline, or number of stops. Pick a multi-city itinerary, so you can fly into one city and out of another.\n \nLOW-PRICE MAP ► The map offers our cheapest available flights worldwide, from Europe, Asia to the Americas, Oceania, and Africa. Get inspiration from thousands of routes and find your next adventure.\n \nPRICE DROP ALERTS ► Can't find a flight in your price range? Just set up a price drop alert. We'll let you know as soon as it hits the point you're happy with.\n \nFLIGHT STATUS CHECKER ► Enter your flight number and get real-time flight info.\n \nTRAINS.\n \nWORLDWIDE TRAIN TICKETS ► Whether you're hitting the rails in Europe (incl. the UK, France, Italy, Spain, and Germany), mainland China, Taiwan, Hong Kong, or South Korea, you'll find everything you need on Trip.com.\n \nOFFICIAL PARTNERSHIPS ► We connect directly with the train's information for updated schedule info and prices, which lets you search quickly through available fares, saving you time and money.\n \nSPLIT TICKETS ► Book your journey in separate segments and enjoy lower fares without compromising on your travel experience.\n \nLIVE TRACKER ► We'll keep an eye on the status of your train. Check back one day before departure for the latest information.\n \nHOTELS.\n \nADVANCED SEARCH FILTER ► On Trip.com, you can browse more than 1.4 million options worldwide. Whether you’re in the mood for a money-saving apartment stay or a luxury five-stay hotel, a cozy B&B or a fun-filled resort, it’s easy to find the right accommodation.\n \nWE PRICE MATCH ► We aim to offer you the best possible price. If you find a cheaper option elsewhere, we'll refund the difference.\n \nVERIFIED USER REVIEWS ► We have over 30 million verified hotel reviews to help you make your decision.\n \nHOTEL AND FLIGHT BUNDLE BOOKING ► Save money by booking your hotel and flight together. If your flight is rescheduled, we'll guarantee your hotel room.\n \nAND MORE.\n \nTRIP.BEST RANKINGS ► You can find top attractions, family-friendly spots, natural sites and much more!\n \nTRIP MANAGEMENT IN ONE APP ► You can add itinerary to your calendar, or save as a photo for offline use.\n \nCAR RENTAL ► Free cancellation available!\n \nDownload the Trip.com app now to discover more amazing features and create your perfect trip - just like that!",
-      "trackCensoredName": "Trip.com: Flight, Hotel, Train",
-      "trackViewUrl": "https://apps.apple.com/gb/app/trip-com-flight-hotel-train/id681752345?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.56827,
-      "userRatingCount": 24268,
+      "currentVersionReleaseDate": "2026-10-30T01:35:37Z",
+      "userRatingCount": 24300,
       "country": "GBR"
     }
   ]

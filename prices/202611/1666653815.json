@@ -1,0 +1,75 @@
+{
+  "id": "1666653815",
+  "name": "HBO Max: Stream Movies & TV",
+  "month": "202611",
+  "fetchedAt": "2026-11-01T09:30:53.659Z",
+  "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "TNT Sports",
+          "price": "£30.99",
+          "amount": 30.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:30:51.712Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Standard Monthly",
+          "price": "$18.49",
+          "amount": 18.49
+        },
+        {
+          "name": "Standard Monthly",
+          "price": "$18.49",
+          "amount": 18.49
+        },
+        {
+          "name": "Basic With Ads Monthly",
+          "price": "$10.99",
+          "amount": 10.99
+        },
+        {
+          "name": "Basic With Ads Monthly",
+          "price": "$10.99",
+          "amount": 10.99
+        },
+        {
+          "name": "Premium Monthly",
+          "price": "$22.99",
+          "amount": 22.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Standard Yearly",
+          "price": "$184.99",
+          "amount": 184.99
+        },
+        {
+          "name": "Premium Yearly",
+          "price": "$229.99",
+          "amount": 229.99
+        },
+        {
+          "name": "Basic With Ads Yearly",
+          "price": "$109.99",
+          "amount": 109.99
+        }
+      ],
+      "fetchedAt": "2026-11-01T09:30:53.658Z"
+    }
+  }
+}
