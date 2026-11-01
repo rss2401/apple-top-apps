@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -195,6 +195,32 @@
       "releaseDate": "2012-02-24",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/52/0d/35520da2-e8eb-39d4-2437-33d79fa4b65f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/fr/genre/id6024"
+        },
+        {
+          "genreId": "6000",
+          "name": "Économie et entreprise",
+          "url": "https://itunes.apple.com/fr/genre/id6000"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/commerce-b2b-avec-alibaba/id503451073"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 91,
+      "artistName": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
+      "id": "503451073",
+      "name": "Commerce B2B avec Alibaba",
+      "releaseDate": "2012-02-24",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/65/59/d06559aa-cb31-8e11-aca8-19c00ecce217/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.png",
       "genres": [
         {
           "genreId": "6024",

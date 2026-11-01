@@ -1,5 +1,5 @@
 {
-  "resultCount": 22,
+  "resultCount": 25,
   "results": [
     {
       "month": "202512",
@@ -553,6 +553,84 @@
       "mediaType": "apps",
       "feed": "top-paid",
       "rank": 48,
+      "artistName": "Tantsissa",
+      "id": "1062745479",
+      "name": "HeartWatch: Heart Rate Monitor",
+      "releaseDate": "2015-12-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Health & Fitness",
+          "url": "https://itunes.apple.com/us/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "Medical",
+          "url": "https://itunes.apple.com/us/genre/id6020"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/heartwatch-heart-rate-monitor/id1062745479"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 22,
+      "artistName": "Tantsissa",
+      "id": "1062745479",
+      "name": "HeartWatch: Herzfrequenz",
+      "releaseDate": "2015-12-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Gesundheit und Fitness",
+          "url": "https://itunes.apple.com/de/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "Medizin",
+          "url": "https://itunes.apple.com/de/genre/id6020"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/heartwatch-herzfrequenz/id1062745479"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 36,
+      "artistName": "Tantsissa",
+      "id": "1062745479",
+      "name": "HeartWatch: Moniteur Cardiaque",
+      "releaseDate": "2015-12-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "Médecine",
+          "url": "https://itunes.apple.com/fr/genre/id6020"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 41,
       "artistName": "Tantsissa",
       "id": "1062745479",
       "name": "HeartWatch: Heart Rate Monitor",

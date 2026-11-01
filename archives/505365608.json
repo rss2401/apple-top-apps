@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 9,
   "results": [
     {
       "month": "202607",
@@ -143,6 +143,84 @@
       "releaseDate": "2012-03-01",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ca/29/aeca29b3-7e2e-08bb-aff2-8e506eabe548/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Travel",
+          "url": "https://itunes.apple.com/gb/genre/id6003"
+        },
+        {
+          "genreId": "6006",
+          "name": "Reference",
+          "url": "https://itunes.apple.com/gb/genre/id6006"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/wikicamps-australia/id505365608"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 35,
+      "artistName": "WikiCamps pty ltd",
+      "id": "505365608",
+      "name": "WikiCamps Australia",
+      "releaseDate": "2012-03-01",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/b9/ea95b950-3b15-e305-6ff6-3fed0088024e/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Reisen",
+          "url": "https://itunes.apple.com/de/genre/id6003"
+        },
+        {
+          "genreId": "6006",
+          "name": "Nachschlagewerke",
+          "url": "https://itunes.apple.com/de/genre/id6006"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/wikicamps-australia/id505365608"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 23,
+      "artistName": "WikiCamps pty ltd",
+      "id": "505365608",
+      "name": "WikiCamps Australia",
+      "releaseDate": "2012-03-01",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/b9/ea95b950-3b15-e305-6ff6-3fed0088024e/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6003",
+          "name": "Voyages",
+          "url": "https://itunes.apple.com/fr/genre/id6003"
+        },
+        {
+          "genreId": "6006",
+          "name": "Références",
+          "url": "https://itunes.apple.com/fr/genre/id6006"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/wikicamps-australia/id505365608"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 35,
+      "artistName": "WikiCamps pty ltd",
+      "id": "505365608",
+      "name": "WikiCamps Australia",
+      "releaseDate": "2012-03-01",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/95/b9/ea95b950-3b15-e305-6ff6-3fed0088024e/au_productionAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6003",
