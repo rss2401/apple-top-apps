@@ -2,7 +2,7 @@
   "id": "897446215",
   "name": "Canva（キャンバ） - 信じられないほど、素晴らしく",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:26:36.792Z",
+  "fetchedAt": "2026-11-02T09:46:28.300Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:34.402Z"
+      "fetchedAt": "2026-11-02T09:46:25.152Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 27
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:36.036Z"
+      "fetchedAt": "2026-11-02T09:46:26.760Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +170,63 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:36.791Z"
+      "fetchedAt": "2026-11-02T09:46:27.317Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "$14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "$15.00",
+          "amount": 15
+        },
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "$18.00",
+          "amount": 18
+        },
+        {
+          "name": "Canva Business - Monthly",
+          "price": "$25.00",
+          "amount": 25
+        },
+        {
+          "name": "Canva Credit",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "$119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "$119.99",
+          "amount": 119.99
+        },
+        {
+          "name": "Canva Credit 2 Pack",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Canva Teams - Monthly",
+          "price": "$30.00",
+          "amount": 30
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "$143.99",
+          "amount": 143.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:46:28.299Z"
     }
   }
 }

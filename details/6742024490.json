@@ -3,9 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,6 +141,9 @@
         "Infrequent/Mild Profanity or Crude Humor"
       ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/89/69/4c896984-9ff8-b2c5-da3a-1170536ec2b4/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/ab/67/34ab6725-b208-8a2f-ce78-fec0183aa860/2.png/320x480bb.jpg",
@@ -165,7 +165,6 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/reco-social-inc/id1796378435?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/54/20/38542091-86c2-08fa-09d1-7c4296b9c9ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/54/20/38542091-86c2-08fa-09d1-7c4296b9c9ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Under-the-hood enhancements to squash pesky bugs, eliminate application crashes, and elevate overall performance.",
       "artistId": 1796378435,
       "artistName": "Reco Social, Inc.",
       "genres": [
@@ -173,38 +172,39 @@
         "Lifestyle"
       ],
       "price": 0,
-      "bundleId": "com.recoapp",
-      "trackId": 6742024490,
       "trackName": "Reco Social",
-      "minimumOsVersion": "16.4",
+      "trackId": 6742024490,
       "releaseDate": "2025-03-12T07:00:00Z",
-      "sellerName": "Reco Social, Inc.",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
       "genreIds": [
         "6005",
         "6012"
       ],
+      "minimumOsVersion": "16.4",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "sellerName": "Reco Social, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-23T16:10:23Z",
+      "releaseNotes": "Under-the-hood enhancements to squash pesky bugs, eliminate application crashes, and elevate overall performance.",
       "version": "1.8.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Let’s get real.\nSocial media is full of content. But real recommendations? Real conversations? Those are harder to find. Reco changes that.Reco is the social platform where the content you love becomes something you can actually use — and conversations you can actually have.\nReal recommendations: Every post is hiding something — a restaurant, a film, a place, a product. Reco’s AI finds it automatically. No tags. No sponsorships. Just what’s real. \nRealTalk: Ask any creator anything. The community votes the best questions to the top. Creators respond. It’s not just comments. It’s a real exchange.\nSave & collect: When a recommendation catches your eye, don’t lose it in the scroll. Save it. Organize it. Come back to it when you’re ready.\nScan anything: Send Reco any post — from anywhere — and it finds every recommendation hiding inside.\n\nYou’ve been scrolling long enough.\nDownload Reco. Let’s get real.",
+      "bundleId": "com.recoapp",
+      "averageUserRatingForCurrentVersion": 4.71799,
       "sellerUrl": "https://www.recosocial.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "246104064",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 31720,
+      "userRatingCountForCurrentVersion": 31871,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.7181,
       "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.71799,
       "trackCensoredName": "Reco Social",
       "trackViewUrl": "https://apps.apple.com/us/app/reco-social/id6742024490?uo=4",
-      "averageUserRating": 4.7181,
-      "userRatingCount": 31720,
+      "userRatingCount": 31871,
       "country": "USA"
     }
   ]

@@ -202,10 +202,11 @@
       "country": "USA"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/gb/developer/peter-allday/id368070262?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/4f/6b/dc4f6b53-0ac0-8efe-2120-368426854a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/4f/6b/dc4f6b53-0ac0-8efe-2120-368426854a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -338,11 +339,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/peter-allday/id368070262?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/4f/6b/dc4f6b53-0ac0-8efe-2120-368426854a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/4f/6b/dc4f6b53-0ac0-8efe-2120-368426854a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/6b/6e/e56b6e57-97ae-c7ec-ac7d-47e1823a024b/mzl.hwoekfnt.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/c8/bf/a9c8bfaf-a2a7-b181-6c95-65b7ae7cdf47/mzl.vonnnbss.png/392x696bb.png",
@@ -359,27 +356,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/4f/6b/dc4f6b53-0ac0-8efe-2120-368426854a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "bundleId": "com.alldayapps.linelearner",
+      "features": [
+        "iosUniversal"
+      ],
+      "trackCensoredName": "LineLearner",
+      "trackViewUrl": "https://apps.apple.com/gb/app/linelearner/id368070258?uo=4",
+      "averageUserRating": 3.78947,
+      "contentAdvisoryRating": "4+",
       "releaseNotes": "Fixing build issue.",
-      "artistName": "Peter Allday",
-      "releaseDate": "2010-04-22T19:21:09Z",
+      "averageUserRatingForCurrentVersion": 3.78947,
       "price": 3.99,
       "artistId": 368070262,
+      "artistName": "Peter Allday",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007",
+        "6016"
+      ],
+      "minimumOsVersion": "12.0",
       "sellerName": "Peter Allday",
+      "releaseDate": "2010-04-22T19:21:09Z",
       "trackId": 368070258,
       "trackName": "LineLearner",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2024-07-13T11:43:52Z",
       "version": "6.16.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Line Learner helps you to learn lines as quickly and easily as you learn a catchy song.\nLine Learner enables you to record scenes from plays.  It allows you to listen to the full recording while you learn your part.  You can then select to leave gaps in the recording for you to speak your part aloud.  A prompt button is there to remind you of your line if you forget.\nYou can choose to repeat individual scenes, or the whole play.\nWith line learner you can record your script, and share it with others, who can record their lines, and share them back, giving you the ability to rehearse together even when apart.\nThe app allows you to load up a script in PDF or Word format and display it as you record your lines.\nAfter you have recorded your lines you can alter the pitch of the other characters so as to more easily tell their lines apart from your own.\nSome quotes from some of our users:\n\" I attribute much of my success to using your app\"\n\"Great app, really enjoying it!\"\n\"I say this app is damn near perfect!\"\n\"I really love your app and find it very useful.\"",
-      "trackCensoredName": "LineLearner",
-      "trackViewUrl": "https://apps.apple.com/gb/app/linelearner/id368070258?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.78947,
+      "sellerUrl": "http://www.alldayapps.com",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -387,16 +391,12 @@
       "formattedPrice": "£3.99",
       "userRatingCountForCurrentVersion": 38,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.78947,
-      "sellerUrl": "http://www.alldayapps.com",
-      "minimumOsVersion": "12.0",
+      "bundleId": "com.alldayapps.linelearner",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "genres": [
         "Productivity",
         "Entertainment"
-      ],
-      "genreIds": [
-        "6007",
-        "6016"
       ],
       "userRatingCount": 38,
       "country": "GBR"

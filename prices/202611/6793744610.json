@@ -2,7 +2,7 @@
   "id": "6793744610",
   "name": "2AM CAM",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:45:57.722Z",
+  "fetchedAt": "2026-11-02T10:07:39.746Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -170,7 +170,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:56.166Z"
+      "fetchedAt": "2026-11-02T10:07:38.202Z"
     },
     "us": {
       "currency": "USD",
@@ -181,14 +181,24 @@
           "amount": 1.99
         },
         {
+          "name": "128 GB · Monthly",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
           "name": "64 GB · Annual",
           "price": "$19.99",
           "amount": 19.99
         },
         {
-          "name": "128 GB · Monthly",
-          "price": "$2.99",
-          "amount": 2.99
+          "name": "256 GB · Annual",
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "512 GB · Monthly",
+          "price": "$8.99",
+          "amount": 8.99
         },
         {
           "name": "128 GB · Annual",
@@ -201,19 +211,9 @@
           "amount": 89.99
         },
         {
-          "name": "256 GB · Annual",
-          "price": "$49.99",
-          "amount": 49.99
-        },
-        {
           "name": "256 GB · Monthly",
           "price": "$4.99",
           "amount": 4.99
-        },
-        {
-          "name": "512 GB · Monthly",
-          "price": "$8.99",
-          "amount": 8.99
         },
         {
           "name": "1 TB · Annual",
@@ -226,7 +226,7 @@
           "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:57.714Z"
+      "fetchedAt": "2026-11-02T10:07:39.745Z"
     }
   }
 }

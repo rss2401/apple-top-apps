@@ -2,12 +2,22 @@
   "id": "6742177802",
   "name": "New York Road Runners",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:50:24.559Z",
+  "fetchedAt": "2026-11-02T10:09:53.192Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-02T10:09:50.170Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-11-02T10:09:51.635Z"
+    },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-01T09:50:24.559Z"
+      "fetchedAt": "2026-11-02T10:09:53.192Z"
     }
   }
 }

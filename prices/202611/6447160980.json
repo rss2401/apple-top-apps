@@ -2,7 +2,7 @@
   "id": "6447160980",
   "name": "TikTok Lite",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:25:51.677Z",
+  "fetchedAt": "2026-11-02T09:45:40.501Z",
   "storefronts": {
     "jp": {
       "currency": "JPY",
@@ -33,14 +33,19 @@
           "amount": 800
         },
         {
+          "name": "420 Coins",
+          "price": "¥960",
+          "amount": 960
+        },
+        {
           "name": "130 Coins",
           "price": "¥300",
           "amount": 300
         },
         {
-          "name": "420 Coins",
-          "price": "¥960",
-          "amount": 960
+          "name": "70 Coins",
+          "price": "¥160",
+          "amount": 160
         },
         {
           "name": "65 Coins",
@@ -51,14 +56,9 @@
           "name": "330 Coins",
           "price": "¥760",
           "amount": 760
-        },
-        {
-          "name": "70 Coins",
-          "price": "¥160",
-          "amount": 160
         }
       ],
-      "fetchedAt": "2026-11-01T09:25:51.676Z"
+      "fetchedAt": "2026-11-02T09:45:40.500Z"
     }
   }
 }

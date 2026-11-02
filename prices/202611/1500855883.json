@@ -2,7 +2,7 @@
   "id": "1500855883",
   "name": "CapCut - 動画編集アプリ",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:27:40.005Z",
+  "fetchedAt": "2026-11-02T09:47:40.643Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -13,6 +13,11 @@
           "amount": 11.99
         },
         {
+          "name": "Pro Monthly Subscription",
+          "price": "23,99 €",
+          "amount": 23.99
+        },
+        {
           "name": "Monatsabonnement",
           "price": "11,99 €",
           "amount": 11.99
@@ -23,9 +28,9 @@
           "amount": 23.99
         },
         {
-          "name": "Pro Monthly Subscription",
-          "price": "23,99 €",
-          "amount": 23.99
+          "name": "Standard Monthly Subscription",
+          "price": "11,99 €",
+          "amount": 11.99
         },
         {
           "name": "Standard Monthly Subscription",
@@ -39,11 +44,6 @@
         },
         {
           "name": "Monatsabonnement",
-          "price": "11,99 €",
-          "amount": 11.99
-        },
-        {
-          "name": "Standard Monthly Subscription",
           "price": "11,99 €",
           "amount": 11.99
         },
@@ -58,18 +58,18 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:34.722Z"
+      "fetchedAt": "2026-11-02T09:47:35.381Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Abonnement mensuel",
+          "name": "Abonnement Standard mensuel",
           "price": "11,99 €",
           "amount": 11.99
         },
         {
-          "name": "Abonnement Standard mensuel",
+          "name": "Abonnement mensuel",
           "price": "11,99 €",
           "amount": 11.99
         },
@@ -114,7 +114,7 @@
           "amount": 23.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:35.830Z"
+      "fetchedAt": "2026-11-02T09:47:36.948Z"
     },
     "gb": {
       "currency": "GBP",
@@ -130,14 +130,14 @@
           "amount": 10.99
         },
         {
-          "name": "Standard Monthly Subscription",
-          "price": "£10.99",
-          "amount": 10.99
-        },
-        {
           "name": "Pro Monthly Subscription",
           "price": "£21.99",
           "amount": 21.99
+        },
+        {
+          "name": "Standard Monthly Subscription",
+          "price": "£10.99",
+          "amount": 10.99
         },
         {
           "name": "Pro Monthly Subscription",
@@ -170,7 +170,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:37.427Z"
+      "fetchedAt": "2026-11-02T09:47:38.327Z"
     },
     "jp": {
       "currency": "JPY",
@@ -211,14 +211,14 @@
           "amount": 1080
         },
         {
-          "name": "Yearly Subscription",
-          "price": "¥9,900",
-          "amount": 9900
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "¥1,080",
           "amount": 1080
+        },
+        {
+          "name": "Yearly Subscription",
+          "price": "¥9,900",
+          "amount": 9900
         },
         {
           "name": "Monthly Subscription",
@@ -226,7 +226,7 @@
           "amount": 1080
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:38.188Z"
+      "fetchedAt": "2026-11-02T09:47:39.324Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:40.004Z"
+      "fetchedAt": "2026-11-02T09:47:40.642Z"
     }
   }
 }

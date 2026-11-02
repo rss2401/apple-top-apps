@@ -2,17 +2,22 @@
   "id": "1661419573",
   "name": "atvTools",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:45:17.217Z",
+  "fetchedAt": "2026-11-02T09:43:37.567Z",
   "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [],
+      "fetchedAt": "2026-11-02T09:43:33.064Z"
+    },
     "de": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-01T09:45:12.784Z"
+      "fetchedAt": "2026-11-02T09:43:34.678Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-01T09:45:14.183Z"
+      "fetchedAt": "2026-11-02T09:43:36.046Z"
     },
     "gb": {
       "currency": "GBP",
@@ -22,7 +27,7 @@
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-01T09:45:17.208Z"
+      "fetchedAt": "2026-11-02T09:43:37.567Z"
     }
   }
 }

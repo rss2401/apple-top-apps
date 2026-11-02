@@ -2,17 +2,22 @@
   "id": "436672029",
   "name": "AliExpress - Shopping App",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:32:44.167Z",
+  "fetchedAt": "2026-11-02T09:52:52.724Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-02T09:52:49.980Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-01T09:32:42.666Z"
+      "fetchedAt": "2026-11-02T09:52:51.476Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-01T09:32:44.166Z"
+      "fetchedAt": "2026-11-02T09:52:52.724Z"
     }
   }
 }

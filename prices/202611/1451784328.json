@@ -2,7 +2,7 @@
   "id": "1451784328",
   "name": "Google One",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:52:03.984Z",
+  "fetchedAt": "2026-11-02T10:13:22.968Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -11,6 +11,21 @@
           "name": "100 GB",
           "price": "$1.99",
           "amount": 1.99
+        },
+        {
+          "name": "200 GB",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "100 GB",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
           "name": "100 GB",
@@ -23,42 +38,27 @@
           "amount": 2.99
         },
         {
-          "name": "200 GB",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
           "name": "Google AI Plus (2 TB)",
           "price": "$9.99",
           "amount": 9.99
         },
         {
-          "name": "Google AI Plus (2 TB)",
-          "price": "$99.99",
-          "amount": 99.99
+          "name": "100 GB",
+          "price": "$1.99",
+          "amount": 1.99
         },
         {
-          "name": "Google AI Pro (10 TB)",
-          "price": "$49.99",
-          "amount": 49.99
+          "name": "200 GB",
+          "price": "$29.99",
+          "amount": 29.99
         },
         {
-          "name": "Google AI Ultra (20 TB)",
-          "price": "$99.99",
-          "amount": 99.99
-        },
-        {
-          "name": "Google AI Ultra (30 TB)",
-          "price": "$149.99",
-          "amount": 149.99
-        },
-        {
-          "name": "Google AI Pro (5 TB)",
+          "name": "100 GB",
           "price": "$19.99",
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:52:03.984Z"
+      "fetchedAt": "2026-11-02T10:13:22.967Z"
     }
   }
 }

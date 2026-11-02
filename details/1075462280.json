@@ -3,11 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/c0/8a/09c08a8b-ba07-f083-6270-71db68a88e81/Screenshot_iPhone_18_Pro_17-10-2026_at_21.21.30.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/32/79/d03279d6-60b7-9e1d-cd97-7ba1ac1f9c17/Screenshot_iPhone_18_Pro_17-10-2026_at_21.21.38.png/320x480bb.jpg",
@@ -24,9 +19,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/07/6d/98076dcf-90cd-bc60-3e0e-c2849e4d1eb0/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/jrustonapps-b-v/id549019599?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/07/6d/98076dcf-90cd-bc60-3e0e-c2849e4d1eb0/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/07/6d/98076dcf-90cd-bc60-3e0e-c2849e4d1eb0/AppIcon-2-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,30 +160,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "genres": [
-        "Wetter",
-        "Reisen"
-      ],
-      "price": 3.99,
-      "artistId": 549019599,
-      "artistName": "JRustonApps B.V.",
-      "bundleId": "com.jrustonapps.My-Aurora-Forecast-Pro",
-      "releaseDate": "2016-01-26T23:26:37Z",
-      "minimumOsVersion": "17.0",
-      "genreIds": [
-        "6001",
-        "6003"
-      ],
-      "primaryGenreName": "Weather",
-      "primaryGenreId": 6001,
-      "sellerName": "JRustonApps B.V.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-21T12:36:43Z",
-      "version": "26.8.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Meine Polarlicht-Vorhersage Pro ist die beste App, um Nordlichter zu beobachten. Ausgestattet mit einem glatten, dunklen Design spricht es sowohl Touristen wie auch ernsthafte Polarlicht-Beobachter an, indem sie ihnen sagt, was sie wissen wollen - ob das die genaue Wahrscheinlichkeit ist, eine Aurora Borealis zu sehen oder Details über Sonnenwinde zu erfahren und hochauflösende Sonnenbilder zu betrachten. Mit dieser App werden Sie in kürzester Zeit ein Nordlicht zu Gesicht bekommen.\n\n- Hier finden Sie den aktuellen KP-Index und wie wahrscheinlich es ist, dass Sie ein Nordlichtsehen werden.\n- Eine Liste der besten Standorte, von denen es jetzt beabachtet werden kann.\n- Eine Karte, die zeigt, wie stark das Polarlicht auf der Grundlage der OVATION Polarlicht-Vorhersage des Weltraumwetterprognosezentrum (SWPC, Space Weather Prediction Center) ausfallen wird. \n- Push-Benachrichtigungen, wenn die Polarlich-Aktivität voraussichtlich stark sein wird.\n- Die Prognosen für die nächste Stunde, mehrere Stunden und mehreren Wochen, so können Sie lange im Voraus (je nach Witterung) planen, Polarlichter zu beobachten.\n- Solarwindstatistiken und Sonnenbilder.\n- Reise-Informationen, so dass, wenn Sie erwägen, an Orte zu reisen wie Island, Schweden, Finnland oder sogar Alaska oder Kanada können Sie Touren zu finden, die wir Ihnen empfehlen können.\n\nWenn Sie die neuesten Updates über geomagnetische Aktivität wünschen und den Anblick einer Aurora Borealis genießen wollen, ist diese App ist Sie richtig. Diese Version ist anderen Anwendungen wie Aurora Forecast, AuroraWatch UK und hello aurora ähnlich.",
-      "averageUserRatingForCurrentVersion": 4.74326,
+      "averageUserRatingForCurrentVersion": 4.7416,
       "sellerUrl": "https://www.jrustonapps.com/apps/my-aurora-forecast",
       "languageCodesISO2A": [
         "NL",
@@ -201,16 +178,39 @@
       ],
       "fileSizeBytes": "49721344",
       "formattedPrice": "3,99 €",
-      "userRatingCountForCurrentVersion": 1632,
+      "userRatingCountForCurrentVersion": 1637,
       "trackContentRating": "4+",
-      "trackCensoredName": "Polarlicht-Vorhersage Pro",
-      "trackViewUrl": "https://apps.apple.com/de/app/polarlicht-vorhersage-pro/id1075462280?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.74326,
       "trackId": 1075462280,
       "trackName": "Polarlicht-Vorhersage Pro",
+      "artistId": 549019599,
+      "artistName": "JRustonApps B.V.",
+      "genres": [
+        "Wetter",
+        "Reisen"
+      ],
+      "price": 3.99,
+      "primaryGenreName": "Weather",
+      "primaryGenreId": 6001,
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2016-01-26T23:26:37Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6001",
+        "6003"
+      ],
+      "sellerName": "JRustonApps B.V.",
+      "currentVersionReleaseDate": "2026-10-21T12:36:43Z",
       "releaseNotes": "- Das Design der App wurde verbessert.\n- Unterstützung für das iPhone Duo.",
-      "userRatingCount": 1632,
+      "version": "26.8.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Meine Polarlicht-Vorhersage Pro ist die beste App, um Nordlichter zu beobachten. Ausgestattet mit einem glatten, dunklen Design spricht es sowohl Touristen wie auch ernsthafte Polarlicht-Beobachter an, indem sie ihnen sagt, was sie wissen wollen - ob das die genaue Wahrscheinlichkeit ist, eine Aurora Borealis zu sehen oder Details über Sonnenwinde zu erfahren und hochauflösende Sonnenbilder zu betrachten. Mit dieser App werden Sie in kürzester Zeit ein Nordlicht zu Gesicht bekommen.\n\n- Hier finden Sie den aktuellen KP-Index und wie wahrscheinlich es ist, dass Sie ein Nordlichtsehen werden.\n- Eine Liste der besten Standorte, von denen es jetzt beabachtet werden kann.\n- Eine Karte, die zeigt, wie stark das Polarlicht auf der Grundlage der OVATION Polarlicht-Vorhersage des Weltraumwetterprognosezentrum (SWPC, Space Weather Prediction Center) ausfallen wird. \n- Push-Benachrichtigungen, wenn die Polarlich-Aktivität voraussichtlich stark sein wird.\n- Die Prognosen für die nächste Stunde, mehrere Stunden und mehreren Wochen, so können Sie lange im Voraus (je nach Witterung) planen, Polarlichter zu beobachten.\n- Solarwindstatistiken und Sonnenbilder.\n- Reise-Informationen, so dass, wenn Sie erwägen, an Orte zu reisen wie Island, Schweden, Finnland oder sogar Alaska oder Kanada können Sie Touren zu finden, die wir Ihnen empfehlen können.\n\nWenn Sie die neuesten Updates über geomagnetische Aktivität wünschen und den Anblick einer Aurora Borealis genießen wollen, ist diese App ist Sie richtig. Diese Version ist anderen Anwendungen wie Aurora Forecast, AuroraWatch UK und hello aurora ähnlich.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.7416,
+      "trackCensoredName": "Polarlicht-Vorhersage Pro",
+      "trackViewUrl": "https://apps.apple.com/de/app/polarlicht-vorhersage-pro/id1075462280?uo=4",
+      "bundleId": "com.jrustonapps.My-Aurora-Forecast-Pro",
+      "userRatingCount": 1637,
       "country": "DEU"
     }
   ]

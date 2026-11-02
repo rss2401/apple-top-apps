@@ -595,10 +595,20 @@
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/gb/developer/ryanair-ltd/id504270605?uo=4",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5f/49/60/5f4960f5-1f45-30db-3c62-61a382d533f9/3d370e5b-62c3-411c-a8b3-48f0712b5f2a_English_-_Home_-_IOS_1242_x_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/39/c6/96/39c69600-b864-b09c-70aa-18b153fc318b/4baef9d2-27e4-43a4-a382-f6a46bc3e9ef_English_-_Active_Trip_-_IOS_1242_x_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/f1/41/e6f141f4-3a2c-e783-17c0-f41bb5313dfc/8ada58e8-ea9b-4403-b10f-9d6d91132bae_English_-_Boarding_Pass_-_IOS_1242_x_2208.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/5c/ee/d45cee7f-3ce2-1026-30ff-73bd6b4c1841/bdb29d03-c692-4f83-91ab-c20eb65cd0dc_English_-_DOT_-_IOS_1242_x_2208.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/69/d5/cb69d5bd-73ae-9f5d-021b-ac78a84d7510/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/69/d5/cb69d5bd-73ae-9f5d-021b-ac78a84d7510/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/69/d5/cb69d5bd-73ae-9f5d-021b-ac78a84d7510/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/ryanair-ltd/id504270605?uo=4",
+      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -735,44 +745,10 @@
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5f/49/60/5f4960f5-1f45-30db-3c62-61a382d533f9/3d370e5b-62c3-411c-a8b3-48f0712b5f2a_English_-_Home_-_IOS_1242_x_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/39/c6/96/39c69600-b864-b09c-70aa-18b153fc318b/4baef9d2-27e4-43a4-a382-f6a46bc3e9ef_English_-_Active_Trip_-_IOS_1242_x_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/f1/41/e6f141f4-3a2c-e783-17c0-f41bb5313dfc/8ada58e8-ea9b-4403-b10f-9d6d91132bae_English_-_Boarding_Pass_-_IOS_1242_x_2208.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/5c/ee/d45cee7f-3ce2-1026-30ff-73bd6b4c1841/bdb29d03-c692-4f83-91ab-c20eb65cd0dc_English_-_DOT_-_IOS_1242_x_2208.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/69/d5/cb69d5bd-73ae-9f5d-021b-ac78a84d7510/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "features": [],
+      "sellerUrl": "https://www.ryanair.com/ie/en/",
+      "averageUserRatingForCurrentVersion": 4.50854,
+      "averageUserRating": 4.50854,
       "trackCensoredName": "Ryanair",
-      "trackViewUrl": "https://apps.apple.com/gb/app/ryanair/id504270602?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.5086,
-      "genres": [
-        "Travel"
-      ],
-      "price": 0,
-      "artistId": 504270605,
-      "artistName": "Ryanair Ltd.",
-      "releaseDate": "2012-03-13T17:47:14Z",
-      "trackId": 504270602,
-      "trackName": "Ryanair",
-      "currentVersionReleaseDate": "2026-10-19T10:25:01Z",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6003"
-      ],
-      "primaryGenreName": "Travel",
-      "primaryGenreId": 6003,
-      "sellerName": "Ryanair Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "We are always working hard to improve your experience on the Ryanair app. In this release, we have improved usability issues and fixed general bugs.",
-      "version": "3.242.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "With this App at your fingertips, Europe is at your feet.\n\nWe’re Ryanair, so of course you’ll find the lowest fares in Europe on our app. But you’ll also get handy extras like being able to check in while you’re on the move, a mobile boarding pass delivered straight to your phone and a choice of in-flight extras in one quick click.\n\nSo why are you still reading? Download it now and get flying!",
-      "averageUserRatingForCurrentVersion": 4.5086,
       "languageCodesISO2A": [
         "NL",
         "EN",
@@ -786,11 +762,35 @@
       ],
       "fileSizeBytes": "354723840",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 876170,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 879775,
+      "trackViewUrl": "https://apps.apple.com/gb/app/ryanair/id504270602?uo=4",
       "trackContentRating": "12+",
-      "sellerUrl": "https://www.ryanair.com/ie/en/",
+      "releaseNotes": "We are always working hard to improve your experience on the Ryanair app. In this release, we have improved usability issues and fixed general bugs.",
+      "genres": [
+        "Travel"
+      ],
+      "artistId": 504270605,
+      "artistName": "Ryanair Ltd.",
       "bundleId": "com.ryanair.cheapflights",
-      "userRatingCount": 876170,
+      "releaseDate": "2012-03-13T17:47:14Z",
+      "primaryGenreName": "Travel",
+      "primaryGenreId": 6003,
+      "sellerName": "Ryanair Ltd.",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6003"
+      ],
+      "trackId": 504270602,
+      "trackName": "Ryanair",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-19T10:25:01Z",
+      "version": "3.242.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "With this App at your fingertips, Europe is at your feet.\n\nWe’re Ryanair, so of course you’ll find the lowest fares in Europe on our app. But you’ll also get handy extras like being able to check in while you’re on the move, a mobile boarding pass delivered straight to your phone and a choice of in-flight extras in one quick click.\n\nSo why are you still reading? Download it now and get flying!",
+      "price": 0,
+      "userRatingCount": 879775,
       "country": "GBR"
     }
   ]

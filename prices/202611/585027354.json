@@ -2,7 +2,7 @@
   "id": "585027354",
   "name": "Google マップ",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:27:18.850Z",
+  "fetchedAt": "2026-11-02T09:47:16.974Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:12.917Z"
+      "fetchedAt": "2026-11-02T09:47:10.950Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:14.492Z"
+      "fetchedAt": "2026-11-02T09:47:12.470Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:15.964Z"
+      "fetchedAt": "2026-11-02T09:47:13.976Z"
     },
     "jp": {
       "currency": "JPY",
@@ -186,14 +186,14 @@
           "amount": 290
         },
         {
-          "name": "100 GB",
-          "price": "¥290",
-          "amount": 290
-        },
-        {
           "name": "200 GB",
           "price": "¥440",
           "amount": 440
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
         },
         {
           "name": "200 GB",
@@ -226,7 +226,7 @@
           "amount": 440
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:17.408Z"
+      "fetchedAt": "2026-11-02T09:47:15.473Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 0.89
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:18.850Z"
+      "fetchedAt": "2026-11-02T09:47:16.974Z"
     }
   }
 }

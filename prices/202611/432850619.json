@@ -2,8 +2,64 @@
   "id": "432850619",
   "name": "FL Studio Mobile",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:33:48.697Z",
+  "fetchedAt": "2026-11-02T09:49:52.626Z",
   "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "Acoustic Guitars",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "Tuned 808 Bass",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "Varazdin Orchestral Mobile",
+          "price": "¥28.00",
+          "amount": 28
+        },
+        {
+          "name": "Voices",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "Amped Guitar & Bass",
+          "price": "¥22.00",
+          "amount": 22
+        },
+        {
+          "name": "Synth Lead",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "Sliced Beats",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "Groove Machine Synth",
+          "price": "¥0.00",
+          "amount": 0
+        },
+        {
+          "name": "Synth Plucks",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "Chill-Lo-Fi Mobile",
+          "price": "¥15.00",
+          "amount": 15
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:49:45.156Z"
+    },
     "de": {
       "currency": "EUR",
       "items": [
@@ -43,14 +99,14 @@
           "amount": 1.99
         },
         {
-          "name": "Acoustic Guitars",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "Technocraft",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "Acoustic Guitars",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "PsyTrance",
@@ -58,7 +114,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:33:44.138Z"
+      "fetchedAt": "2026-11-02T09:49:46.607Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +170,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:33:45.614Z"
+      "fetchedAt": "2026-11-02T09:49:48.153Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +226,63 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:33:47.123Z"
+      "fetchedAt": "2026-11-02T09:49:49.636Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Tuned 808 Bass",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Amped Guitar & Bass",
+          "price": "¥500",
+          "amount": 500
+        },
+        {
+          "name": "Varazdin Orchestral Mobile",
+          "price": "¥600",
+          "amount": 600
+        },
+        {
+          "name": "Synth Lead",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Voices",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Sliced Beats",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Acoustic Guitars",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Synth Plucks",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Groove Machine Synth",
+          "price": "¥0",
+          "amount": 0
+        },
+        {
+          "name": "Transistor Bass",
+          "price": "¥0",
+          "amount": 0
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:49:51.187Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +338,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:33:48.690Z"
+      "fetchedAt": "2026-11-02T09:49:52.617Z"
     }
   }
 }

@@ -2,7 +2,7 @@
   "id": "6754315964",
   "name": "Plezy: Media Server Client",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:45:30.968Z",
+  "fetchedAt": "2026-11-02T10:06:41.318Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -13,7 +13,18 @@
           "amount": 3.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:27.802Z"
+      "fetchedAt": "2026-11-02T10:06:06.681Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Supporter",
+          "price": "3,99 €",
+          "amount": 3.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T10:06:38.473Z"
     },
     "gb": {
       "currency": "GBP",
@@ -24,7 +35,7 @@
           "amount": 3.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:29.403Z"
+      "fetchedAt": "2026-11-02T10:06:39.845Z"
     },
     "us": {
       "currency": "USD",
@@ -35,7 +46,7 @@
           "amount": 3.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:30.968Z"
+      "fetchedAt": "2026-11-02T10:06:41.317Z"
     }
   }
 }

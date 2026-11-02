@@ -231,14 +231,9 @@
       "userRatingCount": 94613
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -372,7 +367,9 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/60x60bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/25/c8/9325c8ae-791d-baf3-848b-a44685af4a99/d7625096-d624-4be9-a48f-3fd8aee0aebe_iPhone_-_1242x2208_-_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/2a/ed/822aede0-87f0-d479-ff2c-9b932e88497e/5c7b016c-a9c4-4f7b-9dd9-1d1a3ad033d2_iPhone_-_1242x2208_-_2.png/392x696bb.png",
@@ -389,34 +386,37 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.71594,
-      "trackCensoredName": "Microsoft Power BI",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4",
-      "contentAdvisoryRating": "4+",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/ea/4e/caea4e63-9dc0-18bd-6217-8cf806c7122c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "isGameCenterEnabled": false,
+      "averageUserRating": 4.71601,
       "releaseNotes": "- Improved stability and fixed various bugs.​",
-      "price": 0,
       "artistId": 298856275,
       "artistName": "Microsoft Corporation",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "price": 0,
       "bundleId": "com.microsoft.powerbimobile",
       "minimumOsVersion": "18.0",
-      "currentVersionReleaseDate": "2026-10-25T14:06:08Z",
+      "releaseDate": "2014-12-21T16:44:56Z",
+      "trackId": 929738808,
+      "trackName": "Microsoft Power BI",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "genreIds": [
         "6000",
         "6007"
       ],
-      "releaseDate": "2014-12-21T16:44:56Z",
-      "trackId": 929738808,
-      "trackName": "Microsoft Power BI",
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-25T14:06:08Z",
       "version": "38.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Access your data from anywhere. Get notifications, annotate and share, and dive deep into your data with powerful features for decision making on the go. \n \nHighlights: \n \n• View all your important data in one place \n \n• Tap to explore, filter, and focus on what’s most important \n  \n• Easily annotate and share reports and visualizations  \n  \n• Set data alerts and get real-time notifications  \n \n• Ask questions in your own words and get meaningful insights into your data with the Q&A virtual analyst \n \n• Securely access your on-premises data \n  \n• Scan barcodes and QR codes to easily track inventory and get real-world data in context \n \n• Start exploring your Power BI data instantly, with no setup needed \n \nGet the full Power BI suite and never miss a beat with Power BI Desktop, the Power BI web service, and Power BI Mobile!\n\nBy installing this app, you agree to the terms at: https://go.microsoft.com/fwlink/?linkid=2178902",
-      "averageUserRatingForCurrentVersion": 4.71594,
-      "fileSizeBytes": "224378880",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 97640,
-      "trackContentRating": "4+",
-      "sellerUrl": "http://powerbi.microsoft.com/",
+      "trackCensoredName": "Microsoft Power BI",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -452,15 +452,15 @@
         "UK",
         "VI"
       ],
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "genres": [
-        "Business",
-        "Productivity"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Microsoft Corporation",
-      "userRatingCount": 97640,
+      "fileSizeBytes": "224378880",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 97668,
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-power-bi/id929738808?uo=4",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.71601,
+      "sellerUrl": "http://powerbi.microsoft.com/",
+      "userRatingCount": 97668,
       "country": "USA"
     }
   ]

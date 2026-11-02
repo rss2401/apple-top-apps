@@ -383,10 +383,6 @@
       "country": "JPN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/smashmelon-llc/id1895995887?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d7/7e/eed77e45-8c61-f140-ab3d-ab1ae4fdfd28/German-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/12/e4/5512e45a-1d86-3702-8df3-65194327775f/German-2.png/320x480bb.jpg",
@@ -400,6 +396,8 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhoneXS-iPhoneXS",
@@ -496,16 +494,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/smashmelon-llc/id1895995887?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "trackCensoredName": "Whisper Notes: Sprache zu Text",
-      "trackViewUrl": "https://apps.apple.com/de/app/whisper-notes-sprache-zu-text/id6447090616?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.40925,
-      "averageUserRatingForCurrentVersion": 4.40925,
+      "averageUserRatingForCurrentVersion": 4.41489,
+      "fileSizeBytes": "687790080",
+      "formattedPrice": "8,99 €",
+      "userRatingCountForCurrentVersion": 282,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://whispernotes.app",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -545,38 +546,37 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "687790080",
-      "sellerUrl": "https://whispernotes.app",
-      "formattedPrice": "8,99 €",
-      "userRatingCountForCurrentVersion": 281,
-      "trackContentRating": "4+",
-      "price": 8.99,
-      "trackId": 6447090616,
-      "trackName": "Whisper Notes: Sprache zu Text",
+      "releaseNotes": "Aufnahmen lassen sich wieder über Kurzbefehle starten. Beim automatischen Export von Transkripten kann jetzt auch das Audio eingeschlossen werden.",
+      "artistName": "SmashMelon LLC",
+      "artistId": 1895995887,
       "releaseDate": "2023-04-04T07:00:00Z",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
+      "price": 8.99,
+      "trackName": "Whisper Notes: Sprache zu Text",
+      "trackId": 6447090616,
       "minimumOsVersion": "18.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "SmashMelon LLC",
       "genreIds": [
         "6007",
         "6002"
       ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "currentVersionReleaseDate": "2026-10-25T07:00:48Z",
-      "releaseNotes": "Aufnahmen lassen sich wieder über Kurzbefehle starten. Beim automatischen Export von Transkripten kann jetzt auch das Audio eingeschlossen werden.",
       "version": "1.9.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Die Offline-Transkriptions-App, der über 70.000 Journalisten, Forscher und Profis vertrauen.\n\nVerwandle Meetings, Vorlesungen und Sprachmemos in präzisen Text mit Sprecher-Labels – schnell, 100 % offline, auf deinem Gerät. Kein Abo. Einmal kaufen, für immer deins.\n\n■ Kernfunktionen\n- Sprachmemos aufnehmen, Ideen sofort festhalten – über Sperrbildschirm, Widgets, Kontrollzentrum, Aktionstaste oder per „Hey Siri“\n- Audio und Video aus jeder App importieren (WhatsApp, Fotos, Sprachmemos usw.), mehrere zugleich – sogar Untertitel extrahieren\n- Aus Meetings, Vorlesungen und Interviews werden Transkripte mit Sprecher-Labels – wer sagte was, jeden Sprecher benennen\n- Direkt beim Lesen korrigieren: Absatz doppelt antippen und bearbeiten\n- 101 Sprachen, automatisch erkannt (für Deutsch optimiert), präzise auch bei Lärm und Sprachmix – drei Modelle (Parakeet, Whisper, SenseVoice)\n- Export als SRT, VTT oder TXT – Zeitstempel und Sprecher-Labels inklusive – oder automatisch in Dateien oder iCloud Drive sichern\n\n■ Privatsphäre & Tempo\nWeil alles auf deinem Gerät läuft, wird nichts hochgeladen – und nichts kann durchsickern. Aktiviere vor der Aufnahme den Flugmodus und lass ihn an: Whisper Notes funktioniert genau gleich. Wichtig, wenn die Aufnahme ein Interview ist, ein Kundengespräch – oder etwas, das nie auf einen fremden Server gehört.\n\n5 Minuten Audio auf dem iPhone 15: ca. 18 Sekunden mit Parakeet, ca. 1 Minute mit Whisper. SenseVoice ist deutlich schneller als Whisper und am stärksten bei Chinesisch, Japanisch und Koreanisch. Jedes Modell hat seine Stärken – wähle frei nach Sprache und Einsatz. Ältere Geräte sind langsamer, funktionieren aber gut.\n\n■ Ehrliche Preise\nWeil die Transkription auf deinem Gerät läuft, haben wir keine Serverkosten – und damit keinen Grund für Monatsgebühren. Ähnliche Apps kosten meist $100+/Jahr; bei uns zahlst du einmal.\nKeine Abos, keine In-App-Käufe, keine Werbung.\nNicht zufrieden? Tippe auf Einstellungen → Rückerstattung anfordern.\n\n■ Häufige Fragen\n\nFunktioniert die App komplett offline?\nJa. Dein Audio verlässt nie dein Gerät. Funktioniert im Flugzeug, im Funkloch, überall.\n\nKann ich WhatsApp-Sprachnachrichten oder Videos transkribieren?\nJa. Teile oder sichere Audio/Video aus WhatsApp in Whisper Notes und transkribiere offline. Perfekt, um Untertitel ohne Cloud-Upload zu extrahieren.\n\nGibt es ein Zeitlimit für Aufnahmen?\nBis zu 24 Stunden pro Aufnahme – stundenlange Aufnahmen schafft jedes unterstützte iPhone, längere dauern nur länger.\n\nGibt es Echtzeit-Transkription während der Aufnahme?\nNicht während der Aufnahme, aber bei der Transkription: Danach siehst du das Transkript in Echtzeit entstehen.\n\nUnterstützt ihr Sprecher-Labels (diarization)?\nJa – komplett offline. Tippe bei einer Notiz auf ⋯ → Sprecher erkennen und benenne die Sprecher um.\n\nWo werden meine Daten gespeichert?\nNur auf deinem Gerät. Wir haben keinerlei Zugriff. Hinweis: Löschst du die App, werden auch deine Aufnahmen gelöscht (wir behalten keine heimlichen Backups). Exportiere wichtige Dateien regelmäßig.\n\nKann ich ein Transkript zusammenfassen?\nJa — kopiere es in ein KI-Tool deiner Wahl. Whisper Notes selbst lädt nie etwas hoch; deine Audios und Texte bleiben auf deinem Gerät.\n\nUnd wenn ich beim Transkribieren die App wechsle?\niOS begrenzt Hintergrundprozesse: Die Transkription pausiert und läuft automatisch weiter, wenn du zurückkommst.\n\nWelche Geräte werden empfohlen?\niPhone 12 und neuer. Ältere Geräte (iPhone 11, iPhone SE 2. Generation) werden nicht empfohlen – dort funktioniert die App nicht richtig.\n\nWelche Sprachen werden unterstützt?\nDeutsch, English, Español, Français, Português, Italiano, Nederlands, 简体中文, 繁體中文, 日本語, 한국어, Hindi, Arabic, Русский, Türkçe, Polski, Українська, Tiếng Việt, Thai, Tagalog, Bahasa Indonesia, Svenska, Norsk, Dansk, Suomi, Čeština, Greek, Hebrew, Română, Magyar, Persian, Urdu und über 65 weitere Sprachen.\n\n■ Kontakt\nFragen? Schreib an support@whispernotes.app\nMehr Infos: whispernotes.app",
-      "bundleId": "com.mazzystar.WhisperMemo",
-      "artistId": 1895995887,
+      "trackCensoredName": "Whisper Notes: Sprache zu Text",
+      "trackViewUrl": "https://apps.apple.com/de/app/whisper-notes-sprache-zu-text/id6447090616?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.41489,
       "genres": [
         "Produktivität",
         "Dienst­programme"
       ],
-      "artistName": "SmashMelon LLC",
-      "userRatingCount": 281,
+      "bundleId": "com.mazzystar.WhisperMemo",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "SmashMelon LLC",
+      "userRatingCount": 282,
       "country": "DEU"
     },
     {
@@ -974,26 +974,7 @@
       "country": "CHN"
     },
     {
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3e/65/033e6523-3e66-67d1-eedd-5644a8782cb6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.41.54.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/e6/b5/99e6b5e7-6cc3-3626-f21b-6ca6589229b5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.00.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/92/39/1a9239d8-164f-686c-777f-19a83b615026/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.10.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/smashmelon-llc/id1895995887?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/21/22/292122fc-53dc-e42d-ddcb-11a3442cb964/English-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/85/b0/a585b087-9422-a4f9-a9bc-9c5616b3c74f/English-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/8c/78/e68c787d-7501-a883-ed59-7f09f1251d51/English-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/ba/85/dbba85a4-0cd2-0d14-b379-03a3b99cd1a2/English-4.png/320x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhoneXS-iPhoneXS",
@@ -1092,6 +1073,52 @@
       ],
       "advisories": [],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/21/22/292122fc-53dc-e42d-ddcb-11a3442cb964/English-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/85/b0/a585b087-9422-a4f9-a9bc-9c5616b3c74f/English-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/8c/78/e68c787d-7501-a883-ed59-7f09f1251d51/English-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/db/ba/85/dbba85a4-0cd2-0d14-b379-03a3b99cd1a2/English-4.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3e/65/033e6523-3e66-67d1-eedd-5644a8782cb6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.41.54.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/e6/b5/99e6b5e7-6cc3-3626-f21b-6ca6589229b5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.00.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/92/39/1a9239d8-164f-686c-777f-19a83b615026/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.10.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/smashmelon-llc/id1895995887?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "artistId": 1895995887,
+      "artistName": "SmashMelon LLC",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "price": 7.99,
+      "trackName": "Whisper Notes - Speech to Text",
+      "trackId": 6447090616,
+      "releaseDate": "2023-04-04T07:00:00Z",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "minimumOsVersion": "18.0",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "SmashMelon LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-25T07:00:48Z",
+      "releaseNotes": "Fixed starting a recording from Shortcuts. Auto-exported transcripts can now include the audio.",
+      "version": "1.9.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Maybe the best offline transcription app — 70,000+ journalists, researchers, and professionals seem to think so.\n\nTurn meetings, lectures, and voice memos into accurate text with speaker labels — fast, 100% offline, on your device. No subscription. One purchase, yours forever.\n\n■ Core Features\n- Record voice memos and capture ideas instantly—from the Lock Screen, widgets, Control Center, the Action button, or just say \"Hey Siri\"\n- Import audio and video from any app (WhatsApp, Photos, Voice Memos, etc.), several files at once—even extract subtitles\n- Turn meetings, lectures, and interviews into transcripts with speaker labels—see who said what and name each speaker\n- Fix a word where you read it: double-tap any paragraph to edit in place\n- 101 languages, auto-detected (optimized for English), accurate even in noise and mixed languages—three models (Parakeet, Whisper, SenseVoice), switch freely\n- Export as SRT, VTT, or TXT—timestamps and speaker labels included—or auto-save every new transcript to Files or iCloud Drive\n\n■ Privacy & Speed\nBecause everything runs on your device, there is nothing to upload—and nothing to leak. Turn on airplane mode before you record and leave it on: Whisper Notes works exactly the same. That matters when the recording is an interview, a client meeting, or something you would never put on someone else's server.\n\nTranscribing 5 minutes of audio on iPhone 15: ~18 seconds with Parakeet, ~1 minute with Whisper. SenseVoice is much faster than Whisper and strongest for Chinese, Japanese, and Korean. Each model has its strengths—choose freely based on language and use case. Older devices are slower but work fine.\n\n■ Honest Pricing\nBecause transcription runs on your device, we have no server costs—so there is nothing to charge you monthly for. Most similar apps charge $100+/year; we charge once.\nNo subscriptions, no in-app purchases, no ads.\nNot satisfied? Tap Settings → Request Refund.\n\n■ Common Questions\n\nDoes it work completely offline?\nYes. Your audio never leaves your device. Works on flights, in remote areas, anywhere.\n\nCan I transcribe WhatsApp voice messages or videos?\nYes. Share or save audio/video from WhatsApp to Whisper Notes and transcribe offline. Perfect for extracting subtitles without uploading to cloud services.\n\nIs there a recording time limit?\nUp to 24 hours per recording, and hours-long recordings transcribe on every supported iPhone. Longer recordings just take more time.\n\nDoes it support real-time transcription while recording?\nNot during recording, but yes during transcription—after you finish recording, you'll see the transcript appear in real-time as it's being generated.\n\nDo you support speaker labels (diarization)?\nYes—fully offline. Tap ⋯ on a note → Detect Speakers, then rename each speaker.\n\nWhere is my data stored?\nOnly on your device. We have zero access. Note: If you delete the app, your recordings are deleted too (because we don't keep secret backups). Please export important files regularly.\n\nCan I summarize a transcript?\nYes — copy it into whichever AI tool you prefer. Whisper Notes itself never uploads anything; your audio and text stay on your device.\n\nWhat if I switch apps while transcribing?\niOS limits background processing, so transcription pauses and continues automatically when you come back.\n\nWhich devices are recommended?\niPhone 12 and newer. Older devices (iPhone 11, iPhone SE 2nd gen) are not recommended—the app will not function properly on these devices.\n\nWhat languages are supported?\nEnglish, Español, Français, Deutsch, Português, Italiano, Nederlands, 简体中文, 繁體中文, 日本語, 한국어, Hindi, Arabic, Русский, Türkçe, Polski, Українська, Tiếng Việt, Thai, Tagalog, Bahasa Indonesia, Svenska, Norsk, Dansk, Suomi, Čeština, Greek, Hebrew, Română, Magyar, Persian, Urdu, and 65+ more languages.\n\n■ Contact\nQuestions? Email support@whispernotes.app\nLearn more: whispernotes.app",
+      "bundleId": "com.mazzystar.WhisperMemo",
+      "averageUserRatingForCurrentVersion": 4.68122,
       "sellerUrl": "https://whispernotes.app",
       "languageCodesISO2A": [
         "AR",
@@ -1134,59 +1161,29 @@
       ],
       "fileSizeBytes": "687790080",
       "formattedPrice": "$7.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 686,
-      "trackViewUrl": "https://apps.apple.com/us/app/whisper-notes-speech-to-text/id6447090616?uo=4",
+      "userRatingCountForCurrentVersion": 687,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.68076,
-      "averageUserRating": 4.68076,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.68122,
       "trackCensoredName": "Whisper Notes - Speech to Text",
-      "artistId": 1895995887,
-      "artistName": "SmashMelon LLC",
-      "genres": [
-        "Productivity",
-        "Utilities"
-      ],
-      "price": 7.99,
-      "sellerName": "SmashMelon LLC",
-      "trackId": 6447090616,
-      "trackName": "Whisper Notes - Speech to Text",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "releaseDate": "2023-04-04T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "18.0",
-      "currentVersionReleaseDate": "2026-10-25T07:00:48Z",
-      "releaseNotes": "Fixed starting a recording from Shortcuts. Auto-exported transcripts can now include the audio.",
-      "version": "1.9.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Maybe the best offline transcription app — 70,000+ journalists, researchers, and professionals seem to think so.\n\nTurn meetings, lectures, and voice memos into accurate text with speaker labels — fast, 100% offline, on your device. No subscription. One purchase, yours forever.\n\n■ Core Features\n- Record voice memos and capture ideas instantly—from the Lock Screen, widgets, Control Center, the Action button, or just say \"Hey Siri\"\n- Import audio and video from any app (WhatsApp, Photos, Voice Memos, etc.), several files at once—even extract subtitles\n- Turn meetings, lectures, and interviews into transcripts with speaker labels—see who said what and name each speaker\n- Fix a word where you read it: double-tap any paragraph to edit in place\n- 101 languages, auto-detected (optimized for English), accurate even in noise and mixed languages—three models (Parakeet, Whisper, SenseVoice), switch freely\n- Export as SRT, VTT, or TXT—timestamps and speaker labels included—or auto-save every new transcript to Files or iCloud Drive\n\n■ Privacy & Speed\nBecause everything runs on your device, there is nothing to upload—and nothing to leak. Turn on airplane mode before you record and leave it on: Whisper Notes works exactly the same. That matters when the recording is an interview, a client meeting, or something you would never put on someone else's server.\n\nTranscribing 5 minutes of audio on iPhone 15: ~18 seconds with Parakeet, ~1 minute with Whisper. SenseVoice is much faster than Whisper and strongest for Chinese, Japanese, and Korean. Each model has its strengths—choose freely based on language and use case. Older devices are slower but work fine.\n\n■ Honest Pricing\nBecause transcription runs on your device, we have no server costs—so there is nothing to charge you monthly for. Most similar apps charge $100+/year; we charge once.\nNo subscriptions, no in-app purchases, no ads.\nNot satisfied? Tap Settings → Request Refund.\n\n■ Common Questions\n\nDoes it work completely offline?\nYes. Your audio never leaves your device. Works on flights, in remote areas, anywhere.\n\nCan I transcribe WhatsApp voice messages or videos?\nYes. Share or save audio/video from WhatsApp to Whisper Notes and transcribe offline. Perfect for extracting subtitles without uploading to cloud services.\n\nIs there a recording time limit?\nUp to 24 hours per recording, and hours-long recordings transcribe on every supported iPhone. Longer recordings just take more time.\n\nDoes it support real-time transcription while recording?\nNot during recording, but yes during transcription—after you finish recording, you'll see the transcript appear in real-time as it's being generated.\n\nDo you support speaker labels (diarization)?\nYes—fully offline. Tap ⋯ on a note → Detect Speakers, then rename each speaker.\n\nWhere is my data stored?\nOnly on your device. We have zero access. Note: If you delete the app, your recordings are deleted too (because we don't keep secret backups). Please export important files regularly.\n\nCan I summarize a transcript?\nYes — copy it into whichever AI tool you prefer. Whisper Notes itself never uploads anything; your audio and text stay on your device.\n\nWhat if I switch apps while transcribing?\niOS limits background processing, so transcription pauses and continues automatically when you come back.\n\nWhich devices are recommended?\niPhone 12 and newer. Older devices (iPhone 11, iPhone SE 2nd gen) are not recommended—the app will not function properly on these devices.\n\nWhat languages are supported?\nEnglish, Español, Français, Deutsch, Português, Italiano, Nederlands, 简体中文, 繁體中文, 日本語, 한국어, Hindi, Arabic, Русский, Türkçe, Polski, Українська, Tiếng Việt, Thai, Tagalog, Bahasa Indonesia, Svenska, Norsk, Dansk, Suomi, Čeština, Greek, Hebrew, Română, Magyar, Persian, Urdu, and 65+ more languages.\n\n■ Contact\nQuestions? Email support@whispernotes.app\nLearn more: whispernotes.app",
-      "bundleId": "com.mazzystar.WhisperMemo",
-      "genreIds": [
-        "6007",
-        "6002"
-      ],
-      "userRatingCount": 686,
+      "trackViewUrl": "https://apps.apple.com/us/app/whisper-notes-speech-to-text/id6447090616?uo=4",
+      "userRatingCount": 687,
       "country": "USA"
     },
     {
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3e/65/033e6523-3e66-67d1-eedd-5644a8782cb6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.41.54.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/e6/b5/99e6b5e7-6cc3-3626-f21b-6ca6589229b5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.00.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/92/39/1a9239d8-164f-686c-777f-19a83b615026/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.10.png/360x480bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/45/ac/2445ac54-ef12-a673-72c3-cc83fc69adf0/French-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/ed/9e/40ed9e6f-5a4b-6d99-8a2f-2965decd62d1/French-2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/30/18/9a301815-7280-c60c-8bc4-404c51594bb1/French-3.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/da/21/1cda2147-58a8-dbd1-3757-4c0a231cbb4c/French-4.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3e/65/033e6523-3e66-67d1-eedd-5644a8782cb6/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.41.54.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/e6/b5/99e6b5e7-6cc3-3626-f21b-6ca6589229b5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.00.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/92/39/1a9239d8-164f-686c-777f-19a83b615026/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-12-21_at_21.42.10.png/360x480bb.jpg"
-      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/smashmelon-llc/id1895995887?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -1289,6 +1286,10 @@
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/smashmelon-llc/id1895995887?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/42/b1/ef42b1c9-ce9d-72b5-9faa-deab4a8ef816/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://whispernotes.app",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -1328,42 +1329,41 @@
         "UK",
         "VI"
       ],
+      "averageUserRatingForCurrentVersion": 4.29114,
       "fileSizeBytes": "687790080",
       "formattedPrice": "8,99 €",
       "userRatingCountForCurrentVersion": 79,
       "trackContentRating": "4+",
-      "sellerUrl": "https://whispernotes.app",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Whisper Notes: Parole en Texte",
-      "trackViewUrl": "https://apps.apple.com/fr/app/whisper-notes-parole-en-texte/id6447090616?uo=4",
-      "averageUserRating": 4.29114,
-      "averageUserRatingForCurrentVersion": 4.29114,
-      "artistId": 1895995887,
-      "artistName": "SmashMelon LLC",
-      "genres": [
-        "Productivité",
-        "Utilitaires"
-      ],
+      "releaseNotes": "Correction du lancement d’un enregistrement depuis Raccourcis. L’export automatique des transcriptions peut désormais inclure l’audio.",
+      "releaseDate": "2023-04-04T07:00:00Z",
       "price": 8.99,
       "trackId": 6447090616,
       "trackName": "Whisper Notes: Parole en Texte",
-      "releaseNotes": "Correction du lancement d’un enregistrement depuis Raccourcis. L’export automatique des transcriptions peut désormais inclure l’audio.",
-      "releaseDate": "2023-04-04T07:00:00Z",
-      "minimumOsVersion": "18.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "SmashMelon LLC",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "SmashMelon LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-25T07:00:48Z",
       "version": "1.9.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "L’app de transcription hors ligne à laquelle plus de 70 000 journalistes, chercheurs et professionnels font confiance.\n\nTransformez réunions, cours et mémos vocaux en texte précis avec étiquettes des intervenants — vite, 100 % hors ligne, sur votre appareil. Sans abonnement. Un achat, à vous pour toujours.\n\n■ Fonctions principales\n- Enregistrez mémos vocaux et idées à l’instant : écran verrouillé, widgets, centre de contrôle, bouton Action ou « Dis Siri »\n- Importez audio et vidéo de toute app (WhatsApp, Photos, Dictaphone…), plusieurs d’un coup — extrayez même des sous-titres\n- Réunions, cours, interviews : transcriptions avec étiquettes des intervenants — voyez qui a dit quoi et nommez chacun\n- Corrigez en lisant : touchez deux fois un paragraphe\n- 101 langues, détection automatique (optimisé pour le français), précis malgré bruit et langues mêlées — trois modèles (Parakeet, Whisper, SenseVoice)\n- Exportez en SRT, VTT ou TXT — horodatage et étiquettes des intervenants inclus — ou export auto vers Fichiers ou iCloud Drive\n\n■ Confidentialité et vitesse\nTout s’exécute sur votre appareil : rien n’est envoyé, rien ne peut fuiter. Activez le mode Avion avant d’enregistrer, laissez-le actif : Whisper Notes fonctionne exactement pareil. Essentiel pour une interview, un rendez-vous client, tout ce qui ne doit jamais finir sur un serveur tiers.\n\nTranscrire 5 minutes d’audio sur iPhone 15 : ~18 secondes avec Parakeet, ~1 minute avec Whisper. SenseVoice est bien plus rapide que Whisper et excelle en chinois, japonais et coréen. Chaque modèle a ses forces — choisissez selon la langue et l’usage. Les appareils plus anciens sont plus lents mais fonctionnent bien.\n\n■ Un prix honnête\nLa transcription se fait sur votre appareil : aucun coût de serveur, donc rien à facturer chaque mois. La plupart des apps similaires facturent $100+/an ; nous, une seule fois.\nPas d’abonnement, pas d’achats intégrés, pas de publicité.\nPas convaincu ? Touchez Réglages → Demander un remboursement.\n\n■ Questions fréquentes\n\nFonctionne-t-elle 100 % hors ligne ?\nOui. Votre audio ne quitte jamais votre appareil. En avion, en zone blanche, partout.\n\nPuis-je transcrire des vocaux ou vidéos WhatsApp ?\nOui. Partagez ou enregistrez l’audio/vidéo de WhatsApp vers Whisper Notes et transcrivez hors ligne — idéal pour extraire des sous-titres sans rien envoyer au cloud.\n\nY a-t-il une limite d’enregistrement ?\nJusqu’à 24 h. Tout iPhone compatible transcrit des heures d’audio, juste plus lentement.\n\nTranscrit-elle en temps réel pendant l’enregistrement ?\nPas pendant l’enregistrement. Dès qu’il est terminé, le texte s’affiche en temps réel au fil de sa génération.\n\nGère-t-elle les étiquettes des intervenants (diarization) ?\nOui — 100 % hors ligne. Touchez ⋯ sur une note → Détecter les intervenants, puis renommez-les.\n\nOù sont stockées mes données ?\nUniquement sur votre appareil. Nous n’y avons aucun accès. Attention : supprimer l’app supprime aussi vos enregistrements (nous ne gardons aucune copie cachée). Exportez souvent vos fichiers importants.\n\nPuis-je résumer une transcription ?\nOui — copiez-la dans l’outil d’IA de votre choix. Whisper Notes ne téléverse jamais rien ; vos audios et vos textes restent sur votre appareil.\n\nEt si je change d’app pendant la transcription ?\niOS limite le traitement en arrière-plan : la transcription se met en pause et reprend seule à votre retour.\n\nQuels appareils sont recommandés ?\niPhone 12 et plus récents. Les modèles plus anciens (iPhone 11, iPhone SE 2e génération) sont déconseillés : l’app n’y fonctionnera pas correctement.\n\nQuelles langues sont prises en charge ?\nFrançais, English, Español, Deutsch, Italiano, Português, Nederlands, 简体中文, 繁體中文, 日本語, 한국어, Hindi, Arabic, Русский, Türkçe, Polski, Українська, Tiếng Việt, Thai, Bahasa Indonesia, Svenska, Norsk, Dansk, Suomi, Čeština, Greek, Hebrew, Persian, Urdu, Română, et 65+ autres langues.\n\n■ Contact\nQuestions ? Écrivez à support@whispernotes.app\nEn savoir plus : whispernotes.app",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Whisper Notes: Parole en Texte",
+      "trackViewUrl": "https://apps.apple.com/fr/app/whisper-notes-parole-en-texte/id6447090616?uo=4",
+      "averageUserRating": 4.29114,
+      "minimumOsVersion": "18.0",
+      "artistId": 1895995887,
+      "artistName": "SmashMelon LLC",
       "bundleId": "com.mazzystar.WhisperMemo",
+      "genres": [
+        "Productivité",
+        "Utilitaires"
+      ],
       "userRatingCount": 79,
       "country": "FRA"
     }

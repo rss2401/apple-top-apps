@@ -185,8 +185,6 @@
       "userRatingCount": 3
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/87/d9/5687d996-7b6c-0925-e463-0fa9e2b7186e/0x0ss.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/1c/ed/201cedfa-af98-7b1b-6e07-8cd42b1ddedd/0x0ss-2.png/320x480bb.jpg",
@@ -199,11 +197,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/e1/94/e8e1943d-04d1-c63c-f56f-d6446f3a331f/0x0ss-7.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/6e/60/e66e60b3-3f54-bea7-358a-95805fb697fa/0x0ss-8.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,9 +337,9 @@
         "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/digital-dream-labs-llc/id887485917?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/c0/a9/eac0a9b9-b55f-94a1-86d8-e411b807f9fe/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/digital-dream-labs-llc/id887485917?uo=4",
       "averageUserRatingForCurrentVersion": 3.5463,
       "sellerUrl": "https://anki.bot",
       "languageCodesISO2A": [
@@ -349,35 +349,35 @@
       "formattedPrice": "$2.99",
       "userRatingCountForCurrentVersion": 108,
       "trackContentRating": "4+",
-      "artistId": 887485917,
-      "artistName": "Digital Dream Labs LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-07-17T22:53:51Z",
       "genres": [
         "Entertainment",
         "Education"
       ],
-      "price": 2.99,
+      "artistId": 887485917,
+      "artistName": "Digital Dream Labs LLC",
       "bundleId": "com.anki.cozmo2",
-      "sellerName": "Digital Dream Labs LLC",
+      "releaseDate": "2025-07-17T07:00:00Z",
       "trackId": 6748243845,
       "trackName": "Cozmo Robot",
+      "minimumOsVersion": "12.0",
       "genreIds": [
         "6016",
         "6017"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "minimumOsVersion": "12.0",
-      "releaseDate": "2025-07-17T07:00:00Z",
-      "currentVersionReleaseDate": "2025-07-17T22:53:51Z",
+      "sellerName": "Digital Dream Labs LLC",
       "version": "3.6.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Say hello to Cozmo, a gifted little guy who’s got a mind of his own and a few tricks up his sleeve. He’s the sweet spot where supercomputer meets loyal sidekick. He’s curiously smart, a little mischievous, and unlike anything ever created.\n\nYou see, Cozmo is a real-life robot like you've only seen in movies, with a one-of-a-kind personality that evolves the more you hang out. He'll nudge you to play and keep you constantly surprised. More than a companion, Cozmo’s a collaborator. He’s your accomplice in a crazy amount of fun.\n\nSome robots just have it all.\n\nCozmo robot required to play. Available at Anki.com.\n\n©2025 Anki, LLC. All rights reserved. Anki, Cozmo, and the Anki and Cozmo logos are registered trademarks of Anki, LLC.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.5463,
       "trackCensoredName": "Cozmo Robot",
       "trackViewUrl": "https://apps.apple.com/us/app/cozmo-robot/id6748243845?uo=4",
-      "averageUserRating": 3.5463,
-      "contentAdvisoryRating": "4+",
+      "price": 2.99,
       "userRatingCount": 108,
       "country": "USA"
     },

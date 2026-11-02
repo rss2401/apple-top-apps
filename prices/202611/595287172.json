@@ -2,7 +2,7 @@
   "id": "595287172",
   "name": "Hinge Dating App: Date & Meet",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:40:20.792Z",
+  "fetchedAt": "2026-11-02T10:01:02.921Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 25.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:40:19.345Z"
+      "fetchedAt": "2026-11-02T10:00:59.699Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,63 @@
           "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:40:20.792Z"
+      "fetchedAt": "2026-11-02T10:01:01.135Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Hinge+ Subscription",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Bundle of three Roses",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Boost",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Hinge+ Subscription",
+          "price": "£12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "Hinge+ Subscription",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Hinge+ Subscription",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Hinge Subscription",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Hinge Subscription",
+          "price": "£29.49",
+          "amount": 29.49
+        },
+        {
+          "name": "Hinge+ Subscription",
+          "price": "£12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "Membership",
+          "price": "£17.99",
+          "amount": 17.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T10:01:02.921Z"
     }
   }
 }

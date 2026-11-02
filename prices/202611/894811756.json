@@ -1,0 +1,40 @@
+{
+  "id": "894811756",
+  "name": "PromptSmart Pro - Teleprompter",
+  "month": "202611",
+  "fetchedAt": "2026-11-02T09:58:03.544Z",
+  "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "PromptSmart Pro Extended",
+          "price": "£3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "PromptSmart Extended",
+          "price": "£34.99",
+          "amount": 34.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:58:01.959Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "PromptSmart Pro Extended",
+          "price": "$3.99",
+          "amount": 3.99
+        },
+        {
+          "name": "PromptSmart Extended",
+          "price": "$34.99",
+          "amount": 34.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:58:03.543Z"
+    }
+  }
+}

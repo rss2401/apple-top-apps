@@ -2,7 +2,7 @@
   "id": "535886823",
   "name": "Google Chrome - ウェブブラウザ",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:26:32.007Z",
+  "fetchedAt": "2026-11-02T09:46:22.302Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -38,6 +38,11 @@
           "amount": 9.99
         },
         {
+          "name": "Google AI Plus (2 TB)",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "200 GB",
           "price": "2,99 €",
           "amount": 2.99
@@ -51,14 +56,9 @@
           "name": "100 GB",
           "price": "1,99 €",
           "amount": 1.99
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "9,99 €",
-          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:26.404Z"
+      "fetchedAt": "2026-11-02T09:46:16.809Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:27.877Z"
+      "fetchedAt": "2026-11-02T09:46:18.408Z"
     },
     "gb": {
       "currency": "GBP",
@@ -161,16 +161,16 @@
         },
         {
           "name": "100 GB",
-          "price": "£15.99",
-          "amount": 15.99
+          "price": "£1.79",
+          "amount": 1.79
         },
         {
-          "name": "200 GB",
-          "price": "£2.99",
-          "amount": 2.99
+          "name": "100 GB",
+          "price": "£15.99",
+          "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:29.422Z"
+      "fetchedAt": "2026-11-02T09:46:19.988Z"
     },
     "jp": {
       "currency": "JPY",
@@ -226,7 +226,7 @@
           "amount": 2900
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:30.912Z"
+      "fetchedAt": "2026-11-02T09:46:21.411Z"
     },
     "us": {
       "currency": "USD",
@@ -242,14 +242,14 @@
           "amount": 1.99
         },
         {
-          "name": "100 GB",
-          "price": "$1.99",
-          "amount": 1.99
-        },
-        {
           "name": "200 GB",
           "price": "$2.99",
           "amount": 2.99
+        },
+        {
+          "name": "100 GB",
+          "price": "$1.99",
+          "amount": 1.99
         },
         {
           "name": "200 GB",
@@ -282,7 +282,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:32.006Z"
+      "fetchedAt": "2026-11-02T09:46:22.295Z"
     }
   }
 }

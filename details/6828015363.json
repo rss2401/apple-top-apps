@@ -194,9 +194,6 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/61/bf/1b61bf71-8eeb-d18c-510c-9617ccb559d4/a01.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/ef/36/45ef368e-b317-175a-c623-c666d0513d46/a02.jpg/320x480bb.jpg",
@@ -207,9 +204,12 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/15/b0/f915b0e0-b3af-ad37-a1bd-2d4853eaf493/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/shenzhen-aoshuang-future-technology-co-ltd/id1792380641?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/15/b0/f915b0e0-b3af-ad37-a1bd-2d4853eaf493/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/15/b0/f915b0e0-b3af-ad37-a1bd-2d4853eaf493/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,29 +342,6 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "genres": [
-        "Unterhaltung",
-        "Musik"
-      ],
-      "price": 2.99,
-      "artistId": 1792380641,
-      "artistName": "Shenzhen Aoshuang Future Technology Co., Ltd",
-      "bundleId": "com.mafty.bitbop",
-      "releaseDate": "2026-10-30T07:00:00Z",
-      "minimumOsVersion": "17.0",
-      "genreIds": [
-        "6016",
-        "6011"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Shenzhen Aoshuang Future Technology Co., Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-31T03:40:15Z",
-      "version": "1.0.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "BitBop: Your Games. Your Music.\n\nRediscover the soundtracks that made your favorite games unforgettable. BitBop is a retro game music emulator that transforms your game collection into a personal music library, letting you experience the original soundtracks of your favorite games without having to play them.\n\nSimply import your supported game files, and BitBop identifies each title, extracts its music, and organizes everything into beautiful soundtrack albums.\n\nFEATURES\n\n• Emulate authentic retro game music directly from supported game files.\n• Automatically discover and organize soundtracks into albums.\n• Automatic cover and metadata detection where available.\n• Create custom playlists featuring tracks from different games and consoles.\n• Enjoy your favorite game soundtracks without launching or playing the games.\n• Experience a clean, intuitive music player designed for iPhone.\n\nSUPPORTED SYSTEMS\n\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy / Game Boy Color\n• Game Boy Advance\n• Nintendo DS\n• Virtual Boy\n• Sega Genesis / Mega Drive\n\nCompatibility and soundtrack availability vary by game.\n\nWhether you’re revisiting childhood favorites or discovering something new, BitBop brings generations of video game music together in one place.\n\nYour Games. Your Music.\n\nNote: BitBop does not include copyrighted game files, audio files, or soundtracks. Users must provide their own legally obtained game files.",
       "averageUserRatingForCurrentVersion": 0,
       "sellerUrl": "https://manicemu.site",
       "languageCodesISO2A": [
@@ -374,12 +351,35 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "trackCensoredName": "BitBop - Music Emulator",
-      "trackViewUrl": "https://apps.apple.com/de/app/bitbop-music-emulator/id6828015363?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
       "trackId": 6828015363,
       "trackName": "BitBop - Music Emulator",
+      "artistId": 1792380641,
+      "artistName": "Shenzhen Aoshuang Future Technology Co., Ltd",
+      "genres": [
+        "Unterhaltung",
+        "Musik"
+      ],
+      "price": 2.99,
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "minimumOsVersion": "17.0",
+      "releaseDate": "2026-10-30T07:00:00Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6016",
+        "6011"
+      ],
+      "sellerName": "Shenzhen Aoshuang Future Technology Co., Ltd",
+      "currentVersionReleaseDate": "2026-10-31T03:40:15Z",
+      "version": "1.0.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "BitBop: Your Games. Your Music.\n\nRediscover the soundtracks that made your favorite games unforgettable. BitBop is a retro game music emulator that transforms your game collection into a personal music library, letting you experience the original soundtracks of your favorite games without having to play them.\n\nSimply import your supported game files, and BitBop identifies each title, extracts its music, and organizes everything into beautiful soundtrack albums.\n\nFEATURES\n\n• Emulate authentic retro game music directly from supported game files.\n• Automatically discover and organize soundtracks into albums.\n• Automatic cover and metadata detection where available.\n• Create custom playlists featuring tracks from different games and consoles.\n• Enjoy your favorite game soundtracks without launching or playing the games.\n• Experience a clean, intuitive music player designed for iPhone.\n\nSUPPORTED SYSTEMS\n\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy / Game Boy Color\n• Game Boy Advance\n• Nintendo DS\n• Virtual Boy\n• Sega Genesis / Mega Drive\n\nCompatibility and soundtrack availability vary by game.\n\nWhether you’re revisiting childhood favorites or discovering something new, BitBop brings generations of video game music together in one place.\n\nYour Games. Your Music.\n\nNote: BitBop does not include copyrighted game files, audio files, or soundtracks. Users must provide their own legally obtained game files.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "trackCensoredName": "BitBop - Music Emulator",
+      "trackViewUrl": "https://apps.apple.com/de/app/bitbop-music-emulator/id6828015363?uo=4",
+      "bundleId": "com.mafty.bitbop",
       "userRatingCount": 0,
       "country": "DEU"
     }

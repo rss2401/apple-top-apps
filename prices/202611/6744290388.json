@@ -2,7 +2,7 @@
   "id": "6744290388",
   "name": "Splash - Party Spiele",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:39:36.796Z",
+  "fetchedAt": "2026-11-02T10:00:21.544Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -34,11 +34,6 @@
         },
         {
           "name": "Splash Plus",
-          "price": "19,99 €",
-          "amount": 19.99
-        },
-        {
-          "name": "Splash Plus",
           "price": "29,99 €",
           "amount": 29.99
         },
@@ -46,6 +41,11 @@
           "name": "Splash Plus",
           "price": "2,99 €",
           "amount": 2.99
+        },
+        {
+          "name": "Splash Plus",
+          "price": "19,99 €",
+          "amount": 19.99
         },
         {
           "name": "Splash Plus",
@@ -58,7 +58,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:39:36.790Z"
+      "fetchedAt": "2026-11-02T10:00:21.540Z"
     }
   }
 }

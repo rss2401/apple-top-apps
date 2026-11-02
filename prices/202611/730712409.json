@@ -1,9 +1,60 @@
 {
   "id": "730712409",
-  "name": "ProCam - プロカメラ",
+  "name": "ProCam - 专业相机",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:30:42.704Z",
+  "fetchedAt": "2026-11-02T09:44:21.248Z",
   "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [
+        {
+          "name": "ZERO: 直接传感器捕捉",
+          "price": "¥0.00",
+          "amount": 0
+        },
+        {
+          "name": "高级系列",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "4K Ultra HD 视频",
+          "price": "¥38.00",
+          "amount": 38
+        },
+        {
+          "name": "AI 空间",
+          "price": "¥0.00",
+          "amount": 0
+        },
+        {
+          "name": "4K Ultra HD 延时摄影",
+          "price": "¥22.00",
+          "amount": 22
+        },
+        {
+          "name": "都市系列",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "基本系列",
+          "price": "¥8.00",
+          "amount": 8
+        },
+        {
+          "name": "批量照片动作",
+          "price": "¥0.00",
+          "amount": 0
+        },
+        {
+          "name": "8K Max 延时摄影",
+          "price": "¥38.00",
+          "amount": 38
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:44:21.240Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [

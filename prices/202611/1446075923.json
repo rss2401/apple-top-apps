@@ -2,7 +2,7 @@
   "id": "1446075923",
   "name": "Disney+",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:28:08.523Z",
+  "fetchedAt": "2026-11-02T09:48:03.130Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:28:04.141Z"
+      "fetchedAt": "2026-11-02T09:47:57.608Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,63 @@
           "amount": 10.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:28:05.455Z"
+      "fetchedAt": "2026-11-02T09:47:59.052Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Disney+ Premium",
+          "price": "£15.99",
+          "amount": 15.99
+        },
+        {
+          "name": "Disney+ Premium",
+          "price": "£15.99",
+          "amount": 15.99
+        },
+        {
+          "name": "Disney+ Premium",
+          "price": "£15.99",
+          "amount": 15.99
+        },
+        {
+          "name": "Disney+ Standard",
+          "price": "£11.99",
+          "amount": 11.99
+        },
+        {
+          "name": "Disney+ Standard with Ads",
+          "price": "£6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Disney+ Premium",
+          "price": "£15.99",
+          "amount": 15.99
+        },
+        {
+          "name": "Disney+ Standard",
+          "price": "£11.99",
+          "amount": 11.99
+        },
+        {
+          "name": "Disney+ Standard",
+          "price": "£11.99",
+          "amount": 11.99
+        },
+        {
+          "name": "Disney+ Standard with Ads",
+          "price": "£6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Disney+ Standard",
+          "price": "£11.99",
+          "amount": 11.99
+        }
+      ],
+      "fetchedAt": "2026-11-02T09:48:00.368Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +226,7 @@
           "amount": 1670
         }
       ],
-      "fetchedAt": "2026-11-01T09:28:06.922Z"
+      "fetchedAt": "2026-11-02T09:48:01.763Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +282,7 @@
           "amount": 214.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:28:08.521Z"
+      "fetchedAt": "2026-11-02T09:48:03.124Z"
     }
   }
 }

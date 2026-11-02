@@ -2,8 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "advisories": [],
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/8a/b8/fc8ab8ec-9f65-d4f2-b466-79c6c7f572fd/IMG_1379.PNG/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/62/11/48621184-431a-5069-9962-48b67031a6c4/IMG_1380.PNG/320x480bb.jpg",
@@ -26,6 +24,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/d7/3f/77d73fcf-ea6e-a0fc-bc8c-952b7b638f3d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -161,12 +160,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/jp/developer/akihiro-sekine/id1810496539?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/d7/3f/77d73fcf-ea6e-a0fc-bc8c-952b7b638f3d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/d7/3f/77d73fcf-ea6e-a0fc-bc8c-952b7b638f3d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "minimumOsVersion": "17.0",
-      "currentVersionReleaseDate": "2026-07-18T04:00:49Z",
       "averageUserRatingForCurrentVersion": 5,
       "sellerUrl": "https://fururu.app",
       "languageCodesISO2A": [
@@ -176,26 +174,26 @@
       "formattedPrice": "¥500",
       "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
-      "artistId": 1810496539,
-      "artistName": "Akihiro Sekine",
       "genres": [
         "教育",
         "ユーティリティ"
       ],
+      "artistId": 1810496539,
+      "artistName": "Akihiro Sekine",
       "price": 500,
       "bundleId": "com.fma.20250428.aftG1first",
-      "trackId": 6745473802,
-      "trackName": "色彩検定１級１次",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-05-29T07:00:00Z",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6017",
         "6002"
       ],
-      "releaseDate": "2025-05-29T07:00:00Z",
-      "releaseNotes": "●開発ツール（Xcode）のバージョンを上げて、コンパイルし直しました。",
-      "sellerName": "FURURU",
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "sellerName": "FURURU",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-18T04:00:49Z",
+      "releaseNotes": "●開発ツール（Xcode）のバージョンを上げて、コンパイルし直しました。",
       "version": "1.10",
       "wrapperType": "software",
       "currency": "JPY",
@@ -204,6 +202,8 @@
       "trackCensoredName": "色彩検定１級１次",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E8%89%B2%E5%BD%A9%E6%A4%9C%E5%AE%9A%EF%BC%91%E7%B4%9A%EF%BC%91%E6%AC%A1/id6745473802?uo=4",
       "contentAdvisoryRating": "4+",
+      "trackName": "色彩検定１級１次",
+      "trackId": 6745473802,
       "userRatingCount": 2,
       "country": "JPN"
     }

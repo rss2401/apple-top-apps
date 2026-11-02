@@ -203,7 +203,12 @@
     },
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/squircle-apps-llp/id458980813?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,6 +341,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
@@ -353,51 +359,45 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/squircle-apps-llp/id458980813?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "averageUserRating": 2.5,
+      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
+      "trackCensoredName": "Deck-Man: Cassette Player",
+      "trackViewUrl": "https://apps.apple.com/jp/app/deck-man-cassette-player/id6817070335?uo=4",
+      "contentAdvisoryRating": "4+",
       "price": 800,
+      "artistId": 458980813,
+      "artistName": "Squircle Apps LLP",
       "genres": [
         "ミュージック",
         "エンターテインメント"
       ],
-      "artistName": "Squircle Apps LLP",
+      "bundleId": "com.squircle.duoman",
       "releaseDate": "2026-10-14T07:00:00Z",
-      "trackId": 6817070335,
-      "trackName": "Deck-Man: Cassette Player",
-      "minimumOsVersion": "26.0",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "genreIds": [
         "6011",
         "6016"
       ],
-      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
+      "trackId": 6817070335,
+      "trackName": "Deck-Man: Cassette Player",
+      "minimumOsVersion": "26.0",
       "sellerName": "Squircle Apps LLP",
-      "releaseNotes": "Important bug fixes",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
-      "sellerUrl": "https://squircleapps.com",
-      "averageUserRating": 2.5,
+      "userRatingCountForCurrentVersion": 2,
+      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 2.5,
+      "sellerUrl": "https://squircleapps.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "57400320",
       "formattedPrice": "¥800",
-      "userRatingCountForCurrentVersion": 2,
-      "trackContentRating": "4+",
-      "trackCensoredName": "Deck-Man: Cassette Player",
-      "trackViewUrl": "https://apps.apple.com/jp/app/deck-man-cassette-player/id6817070335?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.squircle.duoman",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 458980813,
+      "releaseNotes": "Important bug fixes",
       "userRatingCount": 2,
       "country": "JPN"
     },
@@ -406,6 +406,27 @@
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/squircle-apps-llp/id458980813?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -538,77 +559,70 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/squircle-apps-llp/id458980813?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Important bug fixes",
-      "artistId": 458980813,
-      "artistName": "Squircle Apps LLP",
+      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
       "genres": [
         "Music",
         "Entertainment"
       ],
+      "artistId": 458980813,
+      "artistName": "Squircle Apps LLP",
       "price": 4.99,
+      "releaseNotes": "Important bug fixes",
       "bundleId": "com.squircle.duoman",
-      "trackId": 6817070335,
-      "trackName": "Deck-Man: Cassette Player",
-      "minimumOsVersion": "26.0",
-      "releaseDate": "2026-10-14T07:00:00Z",
       "sellerName": "Squircle Apps LLP",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
       "genreIds": [
         "6011",
         "6016"
       ],
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "minimumOsVersion": "26.0",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
+      "averageUserRating": 4.58442,
+      "trackCensoredName": "Deck-Man: Cassette Player",
+      "trackViewUrl": "https://apps.apple.com/us/app/deck-man-cassette-player/id6817070335?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.58442,
       "sellerUrl": "https://squircleapps.com",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "57400320",
       "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 138,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.58696,
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Deck-Man: Cassette Player",
-      "trackViewUrl": "https://apps.apple.com/us/app/deck-man-cassette-player/id6817070335?uo=4",
-      "averageUserRating": 4.58696,
-      "userRatingCount": 138,
+      "userRatingCountForCurrentVersion": 154,
+      "trackId": 6817070335,
+      "trackName": "Deck-Man: Cassette Player",
+      "userRatingCount": 154,
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/squircle-apps-llp/id458980813?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -741,52 +755,11 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4,
-      "trackCensoredName": "Deck-Man: Cassette Player",
-      "trackViewUrl": "https://apps.apple.com/de/app/deck-man-cassette-player/id6817070335?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Important bug fixes",
-      "artistId": 458980813,
-      "artistName": "Squircle Apps LLP",
-      "genres": [
-        "Musik",
-        "Unterhaltung"
-      ],
-      "price": 5.99,
-      "bundleId": "com.squircle.duoman",
-      "trackId": 6817070335,
-      "trackName": "Deck-Man: Cassette Player",
-      "minimumOsVersion": "26.0",
-      "releaseDate": "2026-10-14T07:00:00Z",
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Squircle Apps LLP",
-      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
-      "version": "1.0.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
+      "artistViewUrl": "https://apps.apple.com/de/developer/squircle-apps-llp/id458980813?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4,
       "sellerUrl": "https://squircleapps.com",
       "languageCodesISO2A": [
         "EN"
@@ -795,33 +768,41 @@
       "formattedPrice": "5,99 €",
       "userRatingCountForCurrentVersion": 5,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4,
+      "genres": [
+        "Musik",
+        "Unterhaltung"
+      ],
+      "price": 5.99,
+      "bundleId": "com.squircle.duoman",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
+      "trackId": 6817070335,
+      "trackName": "Deck-Man: Cassette Player",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Squircle Apps LLP",
+      "minimumOsVersion": "26.0",
+      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
+      "releaseNotes": "Important bug fixes",
+      "version": "1.0.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
+      "averageUserRating": 4,
+      "trackCensoredName": "Deck-Man: Cassette Player",
+      "trackViewUrl": "https://apps.apple.com/de/app/deck-man-cassette-player/id6817070335?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 458980813,
+      "artistName": "Squircle Apps LLP",
       "userRatingCount": 5,
       "country": "DEU"
     },
     {
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -954,65 +935,77 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/37/7f/c3377fb7-0e12-f8bc-afa0-66763e0ea62b/iPad_Copy_3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/de/36/97de369f-bded-df36-14b3-e32988255f36/iPad_4.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "artistViewUrl": "https://apps.apple.com/fr/developer/squircle-apps-llp/id458980813?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
-      "averageUserRatingForCurrentVersion": 3,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "sellerUrl": "https://squircleapps.com",
-      "fileSizeBytes": "57400320",
-      "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 6,
-      "trackContentRating": "4+",
-      "artistId": 458980813,
-      "artistName": "Squircle Apps LLP",
+      "isGameCenterEnabled": false,
+      "releaseDate": "2026-10-14T07:00:00Z",
       "genres": [
         "Musique",
         "Divertissement"
       ],
+      "artistId": 458980813,
+      "artistName": "Squircle Apps LLP",
       "price": 5.99,
       "genreIds": [
         "6011",
         "6016"
       ],
-      "releaseNotes": "Important bug fixes",
+      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6817070335,
       "trackName": "Deck-Man: Cassette Player",
-      "releaseDate": "2026-10-14T07:00:00Z",
-      "minimumOsVersion": "26.0",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Squircle Apps LLP",
+      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
+      "releaseNotes": "Important bug fixes",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
+      "averageUserRatingForCurrentVersion": 3,
+      "sellerUrl": "https://squircleapps.com",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "57400320",
+      "formattedPrice": "5,99 €",
+      "userRatingCountForCurrentVersion": 6,
+      "trackContentRating": "4+",
+      "bundleId": "com.squircle.duoman",
       "trackCensoredName": "Deck-Man: Cassette Player",
       "trackViewUrl": "https://apps.apple.com/fr/app/deck-man-cassette-player/id6817070335?uo=4",
       "contentAdvisoryRating": "4+",
       "averageUserRating": 3,
-      "bundleId": "com.squircle.duoman",
+      "minimumOsVersion": "26.0",
       "userRatingCount": 6,
       "country": "FRA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/gb/developer/squircle-apps-llp/id458980813?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
-      ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/squircle-apps-llp/id458980813?uo=4",
+      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/7b/fd/fa7bfdab-6a5a-5ee1-8a03-de22b85b0f91/iPad_1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a7/2d/61a72d07-7637-de6a-8fa0-9283e3084c7d/iPad_3.png/360x480bb.jpg",
@@ -1021,7 +1014,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/5f/40/4b5f4094-dec4-ea82-a41b-757ba9f740f0/deck-man-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/ec/62/fbec6209-3fb1-28d3-b5c8-1998676dac5b/iphone_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/7e/75/a57e7528-09c4-9ea4-e77b-719f37bde658/iphone_1_Copy.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/d7/73/fdd77371-5986-9d84-a8d9-4d017d5dcaea/iphone_1_Copy_4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/a0/40/99a0402d-425c-528b-225b-d2ffa8631013/iphone_1_Copy_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/7c/3b/bc7c3be0-3a5a-408e-7d0e-3e8041e1b763/iphone_1_Copy_2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/2b/26/f42b267c-fa7b-c45c-2166-7124ccae94ba/iphone_1_Copy_5.png/320x480bb.jpg"
+      ],
       "features": [
         "iosUniversal"
       ],
@@ -1159,46 +1159,46 @@
       ],
       "advisories": [],
       "kind": "software",
+      "averageUserRating": 4.15385,
+      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Deck-Man: Cassette Player",
       "trackViewUrl": "https://apps.apple.com/gb/app/deck-man-cassette-player/id6817070335?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.09091,
+      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
       "sellerUrl": "https://squircleapps.com",
-      "averageUserRatingForCurrentVersion": 4.09091,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "57400320",
       "formattedPrice": "£4.99",
-      "userRatingCountForCurrentVersion": 11,
+      "userRatingCountForCurrentVersion": 13,
       "trackContentRating": "4+",
-      "artistName": "Squircle Apps LLP",
-      "artistId": 458980813,
+      "averageUserRatingForCurrentVersion": 4.15385,
       "genres": [
         "Music",
         "Entertainment"
       ],
       "price": 4.99,
+      "releaseNotes": "Important bug fixes",
+      "trackName": "Deck-Man: Cassette Player",
+      "trackId": 6817070335,
+      "minimumOsVersion": "26.0",
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "genreIds": [
         "6011",
         "6016"
       ],
-      "minimumOsVersion": "26.0",
       "sellerName": "Squircle Apps LLP",
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "releaseDate": "2026-10-14T07:00:00Z",
-      "trackId": 6817070335,
-      "trackName": "Deck-Man: Cassette Player",
-      "currentVersionReleaseDate": "2026-10-24T04:34:10Z",
-      "releaseNotes": "Important bug fixes",
       "version": "1.0.2",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Deck-Man (formerly referred to as \"duo-man\") is a playful music player that brings the look, feel, and simplicity of classic portable cassette players to your iPhone Duo.\nTurn your phone into a retro cassette player. No ads, no subscriptions, no in-app purchases. Just your music, with a little nostalgia.\n\nA Cassette Player Reimagined:\nOpen your phone, browse your favorite albums as cassette tapes, insert one into the player, and close it to start listening.\n\nThe Little Details make that make it fun:\nBrowse your albums as cassette tapes and load them into your player.\nEnjoy familiar play, pause, fast-forward, and rewind controls.\nHear authentic mechanical clicks and cassette sounds recorded from a real portable cassette player.\nEnjoy playful interactions inspired by the original cassette-playing experience.\n\nYour Music Your Way\nListen to your favorite albums with support for Apple Music and local music files.\n\nBuy Once.\nNo ads. No Upsells. No subscriptions. No in-app purchases. No interruptions.\n\n\nDeck-Man has been featured by TechCrunch, 9to5Mac, MacRumors, and TechRadar for its imaginative take on the classic portable cassette player.",
       "bundleId": "com.squircle.duoman",
-      "userRatingCount": 11,
+      "artistId": 458980813,
+      "artistName": "Squircle Apps LLP",
+      "userRatingCount": 13,
       "country": "GBR"
     }
   ]

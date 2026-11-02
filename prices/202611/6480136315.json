@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Music & Song Creator: Suno",
+  "name": "Suno - AI Songs & Music",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:54:05.775Z",
+  "fetchedAt": "2026-11-02T09:58:46.983Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -43,22 +43,22 @@
           "amount": 198
         },
         {
-          "name": "1 Download Credit",
-          "price": "¥22.00",
-          "amount": 22
-        },
-        {
-          "name": "2000 Credits",
-          "price": "¥98.00",
-          "amount": 98
-        },
-        {
           "name": "3 Download Credits",
           "price": "¥58.00",
           "amount": 58
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "¥38.00",
+          "amount": 38
+        },
+        {
+          "name": "1 Download Credit",
+          "price": "¥22.00",
+          "amount": 22
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:01.128Z"
+      "fetchedAt": "2026-11-02T09:58:42.653Z"
     },
     "de": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:02.695Z"
+      "fetchedAt": "2026-11-02T09:58:44.014Z"
     },
     "fr": {
       "currency": "EUR",
@@ -155,14 +155,14 @@
           "amount": 5.99
         },
         {
-          "name": "Premier Plan",
-          "price": "299,00 €",
-          "amount": 299
-        },
-        {
           "name": "3 Download Credits",
           "price": "9,95 €",
           "amount": 9.95
+        },
+        {
+          "name": "Premier Plan",
+          "price": "299,00 €",
+          "amount": 299
         },
         {
           "name": "2000 Credits",
@@ -170,7 +170,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:04.013Z"
+      "fetchedAt": "2026-11-02T09:58:45.504Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:05.775Z"
+      "fetchedAt": "2026-11-02T09:58:46.982Z"
     }
   }
 }

@@ -413,6 +413,7 @@
       "country": "JPN"
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/bf/ed/26bfed55-ce3f-9042-5413-f0a923ae8045/AS_U65b0_U7248_U82f1_U8bed-1242-2688-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/47/20/5d47204f-886a-e1fa-8cb5-d5fce3fd24e1/AS_U65b0_U7248_U82f1_U8bed-1242-2688-2.png/320x480bb.jpg",
@@ -424,13 +425,9 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-      "advisories": [
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Profanity or Crude Humor",
-        "Infrequent/Mild Realistic Violence"
-      ],
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/us/developer/storymatrix-pte-ltd/id1608373134?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -563,13 +560,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Realistic Violence"
+      ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/storymatrix-pte-ltd/id1608373134?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/06/621d0653-5b14-893d-fba2-e13ea62cd120/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
-      "sellerUrl": "https://www.dramabox.com/",
-      "averageUserRatingForCurrentVersion": 4.75294,
+      "features": [],
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -590,37 +588,39 @@
       ],
       "fileSizeBytes": "199168000",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 889225,
+      "userRatingCountForCurrentVersion": 890002,
       "trackContentRating": "17+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 1608373134,
-      "artistName": "STORYMATRIX PTE. LTD.",
+      "averageUserRating": 4.75282,
+      "sellerUrl": "https://www.dramabox.com/",
+      "averageUserRatingForCurrentVersion": 4.75282,
+      "trackCensoredName": "DramaBox - Stream Drama Shorts",
+      "trackViewUrl": "https://apps.apple.com/us/app/dramabox-stream-drama-shorts/id6445905219?uo=4",
+      "contentAdvisoryRating": "17+",
+      "trackId": 6445905219,
+      "trackName": "DramaBox - Stream Drama Shorts",
       "genres": [
         "Entertainment"
       ],
-      "price": 0,
-      "bundleId": "com.storymatrix.drama",
       "releaseNotes": "1. Added many popular dramas.\n2. Optimize the appearance of some pages.",
-      "currentVersionReleaseDate": "2026-10-27T03:45:15Z",
-      "trackId": 6445905219,
-      "trackName": "DramaBox - Stream Drama Shorts",
       "releaseDate": "2023-04-18T07:00:00Z",
-      "minimumOsVersion": "15.1",
       "genreIds": [
         "6016"
       ],
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "minimumOsVersion": "15.1",
       "sellerName": "STORYMATRIX PTE. LTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T03:45:15Z",
       "version": "7.0.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Looking for something to watch during your daily commute, lunch break, or just to unwind after a long day? Look no further than our Dramabox!\nWith our app, you can access a huge selection of high-quality content from some of the best creators out there. From indie films to award-winning TV series, we've got something for everyone. And with new content added regularly, you'll always have something fresh to watch.\n\nHere are just a few of the features you'll love about our app:\n\n- Stream your favorite shows and movies in HD quality, no matter where you are.\n- Discover new content based on your viewing preferences and what's trending in the app.\n- Get personalized recommendations based on your viewing history and ratings.\n- Enjoy ad-free streaming and uninterrupted viewing.\n- Create playlists and save your favorite titles for later.\n\nSo what are you waiting for? Download our app now and start watching the best short movies, TV series, and drama today!\n\nNote: If you subscribe through Apple, the payment will be deducted from your App Store account when you confirm the purchase. \nUnless the user turns off automatic renewal at least 24 hours before the current subscription period ends. Otherwise, the system automatically extends the validity period. Within 24 hours of the end of the current subscription period, the system will charge the account renewal fee according to the price of the selected plan. After completing the purchase, users can manage their subscriptions and automatic renewal in account Settings.\nPrivacy policy: https://support.dramaboxdb.com/privacy.html\nDramaBox Paid Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula\nDeveloper site：https://www.dramabox.com",
-      "trackCensoredName": "DramaBox - Stream Drama Shorts",
-      "trackViewUrl": "https://apps.apple.com/us/app/dramabox-stream-drama-shorts/id6445905219?uo=4",
-      "averageUserRating": 4.75294,
-      "contentAdvisoryRating": "17+",
-      "userRatingCount": 889225,
+      "bundleId": "com.storymatrix.drama",
+      "price": 0,
+      "artistId": 1608373134,
+      "artistName": "STORYMATRIX PTE. LTD.",
+      "userRatingCount": 890002,
       "country": "USA"
     },
     {

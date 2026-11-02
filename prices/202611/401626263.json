@@ -2,17 +2,27 @@
   "id": "401626263",
   "name": "Airbnb",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:41:47.291Z",
+  "fetchedAt": "2026-11-02T09:53:31.707Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-02T09:53:27.545Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-01T09:41:45.943Z"
+      "fetchedAt": "2026-11-02T09:53:29.060Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-01T09:41:47.290Z"
+      "fetchedAt": "2026-11-02T09:53:30.465Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-11-02T09:53:31.706Z"
     }
   }
 }

@@ -2,7 +2,7 @@
   "id": "284815942",
   "name": "Google アプリ",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:26:15.542Z",
+  "fetchedAt": "2026-11-02T09:46:04.521Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -49,16 +49,16 @@
         },
         {
           "name": "Google AI Plus (400 GB)",
-          "price": "4,99 €",
-          "amount": 4.99
+          "price": "49,99 €",
+          "amount": 49.99
         },
         {
-          "name": "Google AI Plus (2 TB)",
-          "price": "99,99 €",
-          "amount": 99.99
+          "name": "Google AI Plus (400 GB)",
+          "price": "4,99 €",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:09.909Z"
+      "fetchedAt": "2026-11-02T09:45:58.817Z"
     },
     "fr": {
       "currency": "EUR",
@@ -89,14 +89,14 @@
           "amount": 19.99
         },
         {
-          "name": "Google AI Pro (5 TB)",
-          "price": "21,99 €",
-          "amount": 21.99
-        },
-        {
           "name": "Google AI Plus (400 GB)",
           "price": "4,99 €",
           "amount": 4.99
+        },
+        {
+          "name": "Google AI Pro (5 TB)",
+          "price": "21,99 €",
+          "amount": 21.99
         },
         {
           "name": "Google AI Plus (400 GB)",
@@ -114,7 +114,7 @@
           "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:11.591Z"
+      "fetchedAt": "2026-11-02T09:46:00.369Z"
     },
     "gb": {
       "currency": "GBP",
@@ -165,12 +165,12 @@
           "amount": 0.69
         },
         {
-          "name": "Google AI Pro (5 TB)",
-          "price": "£18.99",
-          "amount": 18.99
+          "name": "100 GB Month",
+          "price": "£1.79",
+          "amount": 1.79
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:12.810Z"
+      "fetchedAt": "2026-11-02T09:46:01.877Z"
     },
     "jp": {
       "currency": "JPY",
@@ -201,14 +201,14 @@
           "amount": 720
         },
         {
-          "name": "100 GB（年間）",
-          "price": "¥2,900",
-          "amount": 2900
-        },
-        {
           "name": "Google AI Plus (400 GB)",
           "price": "¥720",
           "amount": 720
+        },
+        {
+          "name": "100 GB（年間）",
+          "price": "¥2,900",
+          "amount": 2900
         },
         {
           "name": "Google AI Pro (5 TB)",
@@ -221,12 +221,12 @@
           "amount": 130
         },
         {
-          "name": "Google AI Pro (5 TB)",
-          "price": "¥2,900",
-          "amount": 2900
+          "name": "Google AI Plus (400 GB)",
+          "price": "¥7,200",
+          "amount": 7200
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:14.438Z"
+      "fetchedAt": "2026-11-02T09:46:03.318Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 0.89
         }
       ],
-      "fetchedAt": "2026-11-01T09:26:15.541Z"
+      "fetchedAt": "2026-11-02T09:46:04.520Z"
     }
   }
 }

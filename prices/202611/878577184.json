@@ -1,13 +1,18 @@
 {
   "id": "878577184",
-  "name": "SHEIN-Shopping Online",
+  "name": "SHEIN - Shopping Online",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:43:08.578Z",
+  "fetchedAt": "2026-11-02T09:50:57.025Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-01T09:43:08.575Z"
+      "fetchedAt": "2026-11-02T09:50:55.715Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-11-02T09:50:57.024Z"
     }
   }
 }

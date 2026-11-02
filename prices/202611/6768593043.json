@@ -2,7 +2,7 @@
   "id": "6768593043",
   "name": "BlinkDrama: Drames Courts TV",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:45:38.331Z",
+  "fetchedAt": "2026-11-02T10:06:50.342Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -43,22 +43,22 @@
           "amount": 22.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "29,99 €",
-          "amount": 29.99
-        },
-        {
           "name": "Weekly Pass Pro",
           "price": "22,99 €",
           "amount": 22.99
         },
         {
-          "name": "Weekly Pass Pro",
-          "price": "8,99 €",
-          "amount": 8.99
+          "name": "One-time Purchase",
+          "price": "29,99 €",
+          "amount": 29.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "39,99 €",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:35.323Z"
+      "fetchedAt": "2026-11-02T10:06:47.251Z"
     },
     "gb": {
       "currency": "GBP",
@@ -89,6 +89,11 @@
           "amount": 19.99
         },
         {
+          "name": "Weekly Pass Pro",
+          "price": "£19.99",
+          "amount": 19.99
+        },
+        {
           "name": "One-time Purchase",
           "price": "£19.99",
           "amount": 19.99
@@ -97,24 +102,19 @@
           "name": "Weekly Pass Pro",
           "price": "£19.99",
           "amount": 19.99
-        },
-        {
-          "name": "Weekly Pass Pro",
-          "price": "£19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Weekly Pass Pro",
-          "price": "£7.99",
-          "amount": 7.99
         },
         {
           "name": "One-time Purchase",
           "price": "£24.99",
           "amount": 24.99
+        },
+        {
+          "name": "Weekly Pass Pro",
+          "price": "£7.99",
+          "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:36.766Z"
+      "fetchedAt": "2026-11-02T10:06:48.764Z"
     },
     "us": {
       "currency": "USD",
@@ -151,18 +151,18 @@
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "Weekly Pass Pro",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "Weekly Pass Pro",
           "price": "$19.99",
           "amount": 19.99
+        },
+        {
+          "name": "Weekly Pass Pro",
+          "price": "$7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "Weekly Pass Pro",
+          "price": "$7.99",
+          "amount": 7.99
         },
         {
           "name": "Weekly Pass Pro",
@@ -170,7 +170,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:45:38.330Z"
+      "fetchedAt": "2026-11-02T10:06:50.335Z"
     }
   }
 }

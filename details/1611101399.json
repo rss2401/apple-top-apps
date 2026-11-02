@@ -2,10 +2,16 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/77/4c/04/774c040b-d1bf-9a98-6ef2-d2358ab9744d/b2820c1a-fb97-43c8-a85b-c06746ea4880_1242_U00d72208__Uff11_U679a_U3081.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0e/62/22/0e6222b5-1a80-e231-0c70-155ca110dd03/11198df5-ed49-47c1-b614-b323e9a9adce_1242_U00d72208__Uff12_U679a_U3081.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/6a/1b/7b6a1be7-695d-2a59-251c-d42e4a5cb5d0/499cdb84-949e-43ec-81c6-9aa179f9155e_1242_U00d72208__Uff13_U679a_U3081.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/jp/developer/boardwalk/id522617035?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,29 +144,27 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "features": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/77/4c/04/774c040b-d1bf-9a98-6ef2-d2358ab9744d/b2820c1a-fb97-43c8-a85b-c06746ea4880_1242_U00d72208__Uff11_U679a_U3081.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0e/62/22/0e6222b5-1a80-e231-0c70-155ca110dd03/11198df5-ed49-47c1-b614-b323e9a9adce_1242_U00d72208__Uff12_U679a_U3081.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/6a/1b/7b6a1be7-695d-2a59-251c-d42e4a5cb5d0/499cdb84-949e-43ec-81c6-9aa179f9155e_1242_U00d72208__Uff13_U679a_U3081.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "advisories": [],
-      "averageUserRating": 2.29868,
-      "trackCensoredName": "LIVE QR PLUS",
-      "trackViewUrl": "https://apps.apple.com/jp/app/live-qr-plus/id1611101399?uo=4",
-      "contentAdvisoryRating": "4+",
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/boardwalk/id522617035?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/77/62/2f7762c5-8932-e4be-459a-affe6a3ea044/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 2.30052,
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
+      ],
+      "fileSizeBytes": "118387712",
+      "formattedPrice": "無料",
+      "userRatingCountForCurrentVersion": 762,
+      "trackContentRating": "4+",
       "genres": [
         "エンターテインメント"
       ],
       "artistId": 522617035,
       "artistName": "boardwalk",
-      "trackName": "LIVE QR PLUS",
-      "currentVersionReleaseDate": "2026-07-28T03:49:43Z",
-      "trackId": 1611101399,
+      "price": 0,
+      "bundleId": "jp.tickebo.ticket.liveqrplus",
       "releaseDate": "2022-03-06T08:00:00Z",
       "minimumOsVersion": "16.6",
       "genreIds": [
@@ -170,23 +174,19 @@
       "primaryGenreId": 6016,
       "sellerName": "Boardwalk Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-28T03:49:43Z",
       "releaseNotes": "顔写真登録および顔認証機能を改善しました。\nあわせて一部画面の表示レイアウトを見直し、アプリの安定性を向上しました。",
       "version": "1.2.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "LIVE QR PLUSならスマホをかざすだけで、かんたん認証・識別入退場管理。不正徹底防止で安心、安全\n\n・顔認証機能で本人以外の不正利用を徹底防止\n・機種変更してもスムーズに利用可能\n・座席の確認も入場もアプリ一つで完結",
-      "averageUserRatingForCurrentVersion": 2.29868,
-      "bundleId": "jp.tickebo.ticket.liveqrplus",
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "118387712",
-      "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 760,
-      "trackContentRating": "4+",
-      "price": 0,
-      "userRatingCount": 760,
+      "averageUserRating": 2.30052,
+      "trackCensoredName": "LIVE QR PLUS",
+      "trackViewUrl": "https://apps.apple.com/jp/app/live-qr-plus/id1611101399?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackName": "LIVE QR PLUS",
+      "trackId": 1611101399,
+      "userRatingCount": 762,
       "country": "JPN"
     }
   ]

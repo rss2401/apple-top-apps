@@ -2,10 +2,11 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/gb/developer/tarikhology-limited/id6825990033?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e1/29/f4e1299f-4f25-debe-fedf-5ed0d8391ec5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e1/29/f4e1299f-4f25-debe-fedf-5ed0d8391ec5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,11 +139,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/tarikhology-limited/id6825990033?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e1/29/f4e1299f-4f25-debe-fedf-5ed0d8391ec5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e1/29/f4e1299f-4f25-debe-fedf-5ed0d8391ec5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/4a/5b/174a5bed-c624-e207-6d64-6e2cba10aebb/iphone63-01-every-age.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/cf/a1/72cfa11f-c121-de30-ad12-8a79a7cae2b0/iphone63-02-kids.png/320x480bb.jpg",
@@ -165,26 +162,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/e1/29/f4e1299f-4f25-debe-fedf-5ed0d8391ec5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "bundleId": "uk.co.tarikhology.seerah",
-      "artistName": "Tarikhology Limited",
-      "releaseDate": "2026-10-29T07:00:00Z",
+      "features": [
+        "iosUniversal"
+      ],
+      "trackCensoredName": "The Prophet's Life",
+      "trackViewUrl": "https://apps.apple.com/gb/app/the-prophets-life/id6825990031?uo=4",
+      "averageUserRating": 5,
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 5,
       "price": 2.49,
       "artistId": 6825990033,
+      "artistName": "Tarikhology Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6017",
+        "6014",
+        "7019"
+      ],
+      "minimumOsVersion": "15.0",
       "sellerName": "Tarikhology Limited",
+      "releaseDate": "2026-10-29T07:00:00Z",
       "trackId": 6825990031,
       "trackName": "The Prophet's Life",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-29T12:09:52Z",
       "version": "6.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "The seerah of the Prophet Muhammad (peace be upon him) for every member of the family, from before his birth to his final days.\n\nTHREE READERS, ONE STORY\n• Kids (5–10): 36 illustrated stories told one picture at a time, read aloud, with word helpers and a star quiz.\n• Teens (11–17): 57 chapters in short sections, with clear answers to the questions people ask and the key people explained.\n• Grown-ups (18+): The Misrepresented Prophet in full, with footnotes, the Arabic of verses and hadith, and the years in Madinah.\n\nLISTEN LIKE AN AUDIOBOOK\nEvery chapter in all three readers has full English narration. Follow along as each part is highlighted.\n\nLEARN BY DOING\nPut the story in order, match the words, test yourself with recall cards and keep a private journal.\n\nFOLLOW THE JOURNEY\nA timeline and illustrated map, badges as you go, a certificate to earn, and a family and teacher area.\n\nREAD IN YOUR LANGUAGE\nThe whole app in 18 languages, from Arabic and Bengali to Urdu, Turkish and Chinese.\n\nNo ads. No accounts. Works offline.",
-      "trackCensoredName": "The Prophet's Life",
-      "trackViewUrl": "https://apps.apple.com/gb/app/the-prophets-life/id6825990031?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
+      "sellerUrl": "https://tarikhology.co.uk/the-prophets-life",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -209,18 +214,13 @@
       "formattedPrice": "£2.49",
       "userRatingCountForCurrentVersion": 9,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "sellerUrl": "https://tarikhology.co.uk/the-prophets-life",
-      "minimumOsVersion": "15.0",
+      "bundleId": "uk.co.tarikhology.seerah",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "genres": [
         "Education",
         "Games",
         "Word"
-      ],
-      "genreIds": [
-        "6017",
-        "6014",
-        "7019"
       ],
       "userRatingCount": 9,
       "country": "GBR"

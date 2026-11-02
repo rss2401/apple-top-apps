@@ -1,9 +1,65 @@
 {
   "id": "868827305",
-  "name": "Collins Bird Guide",
+  "name": "Le Guide Ornitho",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:49:45.842Z",
+  "fetchedAt": "2026-11-02T10:10:46.021Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Vidéothèque Volume 1",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Identifier - par mois",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Vidéothèque Volume 2",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Vidéothèque Volume 3",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Identifier - par année",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
+          "name": "Cartes de répartition EBBA2",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Atlas des oiseaux UK",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Troisième édition",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Vidéothèque",
+          "price": "11,99 €",
+          "amount": 11.99
+        },
+        {
+          "name": "Atlas des oiseaux allemands",
+          "price": "2,49 €",
+          "amount": 2.49
+        }
+      ],
+      "fetchedAt": "2026-11-02T10:10:46.021Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [

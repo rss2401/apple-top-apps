@@ -206,10 +206,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/9f/fe/639ffe70-8700-e7a5-93a7-c1f9d5625eb5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/gb/developer/nectar-360-ltd/id385266476?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/9f/fe/639ffe70-8700-e7a5-93a7-c1f9d5625eb5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/9f/fe/639ffe70-8700-e7a5-93a7-c1f9d5625eb5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Loot Boxes"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -342,53 +345,50 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Loot Boxes"
-      ],
       "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "averageUserRatingForCurrentVersion": 4.45674,
       "sellerUrl": "https://www.nectar.com",
-      "trackCensoredName": "Nectar: Shop & Collect Points",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "144510976",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 62163,
-      "trackViewUrl": "https://apps.apple.com/gb/app/nectar-shop-collect-points/id385266473?uo=4",
+      "userRatingCountForCurrentVersion": 62164,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.4568,
-      "averageUserRating": 4.4568,
+      "trackCensoredName": "Nectar: Shop & Collect Points",
+      "trackViewUrl": "https://apps.apple.com/gb/app/nectar-shop-collect-points/id385266473?uo=4",
+      "averageUserRating": 4.45674,
+      "releaseNotes": "We’ve improved our app stability and performance to ensure a smoother experience.",
       "contentAdvisoryRating": "4+",
       "artistId": 385266476,
       "artistName": "Nectar 360 Ltd",
-      "price": 0,
       "genres": [
         "Shopping",
         "Food & Drink"
       ],
-      "minimumOsVersion": "16.0",
-      "bundleId": "com.nectar.universal",
+      "price": 0,
       "releaseDate": "2010-08-16T07:00:00Z",
-      "releaseNotes": "We’ve improved our app stability and performance to ensure a smoother experience.",
+      "minimumOsVersion": "16.0",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "sellerName": "Nectar 360 Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "11.30.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "About the app\n\nDownload the Nectar app to get more value when you shop. Collect points with over 900 brands, like Argos and Esso or convert your Nectar points into Avios with British Airways. You can spend your points on everyday essentials or save them up for something special. Plus, bag Your Nectar Prices and personalised points offers at Sainsbury’s. Find all your offers in one place and always have your Nectar card on you, with your digital Nectar card in the app.\n\nOur app’s best bits\n\n- Unlock Sainsbury’s offers and Your Nectar Prices \n- Use your digital Nectar card \n- See your points balance and Nectar Prices savings \n- Search from over 900 partners to collect points with \n- Find out where you can spend your points \n- Lock your points to keep them secure, unlock them when you’re ready to spend\n\nGetting started\n\nAlready have a Nectar account? \n- Log in to the app using your email address and password\n\nGot a Nectar card but haven’t registered? \n- If you haven’t registered your Nectar card online yet, download the app, click register and then 'I have a Nectar card' to start using the app\n\nNew to Nectar? \n- Download the app and sign up now",
-      "trackId": 385266473,
-      "trackName": "Nectar: Shop & Collect Points",
       "genreIds": [
         "6024",
         "6023"
       ],
+      "sellerName": "Nectar 360 Ltd",
+      "trackId": 385266473,
+      "trackName": "Nectar: Shop & Collect Points",
       "currentVersionReleaseDate": "2026-10-26T10:30:43Z",
-      "userRatingCount": 62163,
+      "version": "11.30.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "About the app\n\nDownload the Nectar app to get more value when you shop. Collect points with over 900 brands, like Argos and Esso or convert your Nectar points into Avios with British Airways. You can spend your points on everyday essentials or save them up for something special. Plus, bag Your Nectar Prices and personalised points offers at Sainsbury’s. Find all your offers in one place and always have your Nectar card on you, with your digital Nectar card in the app.\n\nOur app’s best bits\n\n- Unlock Sainsbury’s offers and Your Nectar Prices \n- Use your digital Nectar card \n- See your points balance and Nectar Prices savings \n- Search from over 900 partners to collect points with \n- Find out where you can spend your points \n- Lock your points to keep them secure, unlock them when you’re ready to spend\n\nGetting started\n\nAlready have a Nectar account? \n- Log in to the app using your email address and password\n\nGot a Nectar card but haven’t registered? \n- If you haven’t registered your Nectar card online yet, download the app, click register and then 'I have a Nectar card' to start using the app\n\nNew to Nectar? \n- Download the app and sign up now",
+      "bundleId": "com.nectar.universal",
+      "userRatingCount": 62164,
       "country": "GBR"
     }
   ]

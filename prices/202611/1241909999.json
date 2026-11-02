@@ -2,20 +2,20 @@
   "id": "1241909999",
   "name": "WorkOutDoors",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:35:23.271Z",
+  "fetchedAt": "2026-11-02T09:55:27.607Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Very Generous Tip",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
           "name": "Generous Tip",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "Very Generous Tip",
+          "price": "5,99 €",
+          "amount": 5.99
         },
         {
           "name": "Massive Tip",
@@ -33,7 +33,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:35:18.739Z"
+      "fetchedAt": "2026-11-02T09:55:22.999Z"
     },
     "fr": {
       "currency": "EUR",
@@ -64,7 +64,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:35:20.285Z"
+      "fetchedAt": "2026-11-02T09:55:24.519Z"
     },
     "gb": {
       "currency": "GBP",
@@ -95,7 +95,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:35:21.770Z"
+      "fetchedAt": "2026-11-02T09:55:26.027Z"
     },
     "us": {
       "currency": "USD",
@@ -126,7 +126,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:35:23.270Z"
+      "fetchedAt": "2026-11-02T09:55:27.606Z"
     }
   }
 }

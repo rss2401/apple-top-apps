@@ -188,9 +188,9 @@
       "userRatingCount": 527848
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/telekom-deutschland-gmbh/id930125248?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/7d/21/be7d2159-1bb7-1374-b2e9-2908e1516e32/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/7d/21/be7d2159-1bb7-1374-b2e9-2908e1516e32/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/41/99/c8419931-548e-58f8-9e3c-ab0c70fd5155/Screen_1_iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/16/46/07164647-2bbd-1d18-154a-ae9e9bc98a71/Screen_2_iPhone.png/320x480bb.jpg",
@@ -213,7 +213,12 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/7d/21/be7d2159-1bb7-1374-b2e9-2908e1516e32/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/telekom-deutschland-gmbh/id930125248?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/7d/21/be7d2159-1bb7-1374-b2e9-2908e1516e32/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/7d/21/be7d2159-1bb7-1374-b2e9-2908e1516e32/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,53 +351,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "trackCensoredName": "MeinMagenta: Handy & Festnetz",
-      "trackViewUrl": "https://apps.apple.com/de/app/meinmagenta-handy-festnetz/id407932476?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.26654,
-      "averageUserRatingForCurrentVersion": 4.26654,
-      "releaseNotes": "- Alles rund um deine Geräte – jetzt an einem Ort in deiner App. Entdecke den neuen Bereich „Meine Geräte“ für Mobilfunk, Festnetz und TV.\n- Verbesserungen der Bedienbarkeit und Fehlerbehebungen\n\nJetzt die neueste Version installieren und bewerten.\n\nVielen Dank für Ihr Feedback!\nIhre Telekom",
-      "languageCodesISO2A": [
-        "EN",
-        "DE",
-        "UK"
-      ],
-      "fileSizeBytes": "624497664",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 547486,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.telekom.de/hilfe/meinmagenta-app",
-      "artistId": 930125248,
-      "artistName": "Telekom Deutschland GmbH",
       "genres": [
         "Dienst­programme",
         "Produktivität"
       ],
-      "price": 0,
-      "bundleId": "de.telekom.Kundencenter",
-      "trackId": 407932476,
-      "trackName": "MeinMagenta: Handy & Festnetz",
+      "artistId": 930125248,
+      "artistName": "Telekom Deutschland GmbH",
+      "currentVersionReleaseDate": "2026-10-29T07:49:40Z",
       "genreIds": [
         "6002",
         "6007"
       ],
       "releaseDate": "2010-12-15T18:21:25Z",
       "minimumOsVersion": "18.0",
-      "sellerName": "Telekom Deutschland GmbH",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
+      "sellerName": "Telekom Deutschland GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-29T07:49:40Z",
+      "releaseNotes": "- Alles rund um deine Geräte – jetzt an einem Ort in deiner App. Entdecke den neuen Bereich „Meine Geräte“ für Mobilfunk, Festnetz und TV.\n- Verbesserungen der Bedienbarkeit und Fehlerbehebungen\n\nJetzt die neueste Version installieren und bewerten.\n\nVielen Dank für Ihr Feedback!\nIhre Telekom",
       "version": "26.2619.22",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Alle wichtigen Infos zu Telekom Services wie Datenverbrauch, Vertrag, Rechnungen, Guthaben, Auftragsübersicht und vieles mehr – in einer App.\n\nDATENVERBRAUCH & KOSTEN PRÜFEN:\nMit der MeinMagenta App können Sie jederzeit Ihr verbleibendes Datenvolumen einsehen. Falls Ihr Datenvolumen aufgebraucht ist, können Sie einen DayFlat- oder SpeedOn-Pass einfach dazu buchen.\n\nPREPAID-TARIF GUTHABEN AUFLADEN:\nPrüfen Sie mit MeinMagenta jederzeit Ihr Prepaid Guthaben auf dem Handy sowie verbleibende Minuten- und SMS-Kontingente. Für die Aufladung Ihres Guthabens stehen Ihnen drei komfortable Möglichkeiten zur Verfügung: Sofort-Aufladung, der Auflade-Code und die automatische Aufladung.\n\nRECHNUNGEN EINSEHEN:\nMit MeinMagenta haben Sie Zugriff auf Ihre monatlichen Rechnungen. Sehen Sie auf einen Blick, was gezahlt oder gutgeschrieben wurde und ob Ihr Konto aktuell ausgeglichen ist.\n\nINTERNET UND WLAN OPTIMIEREN:\nRichten Sie Ihren Telekom Router und WLAN-Verstärker mit der MeinMagenta App ein. Prüfen Sie einfach und von überall, ob mit WLAN und Router alles in Ordnung ist. Zeigen Sie verbundene Geräte an. Nutzen Sie die Einstellungen für Ihr Internet und Ihre Internet-Sicherheit. Finden Sie hilfreiche Tipps und Funktionen zur direkten Behebung von Störungen. \n\nMAGENTA MOMENTS:\nAls Kund*in profitieren Sie von unserem exklusiven Treueprogramm! Mit Magenta Moments erwarten Sie regelmäßig besondere Geschenke, Vorteile und Überraschungen. Ob Mobilfunk, Streaming oder Shopping - wir danken Ihnen für Ihre Treue.\n\nKÜNSTLICHE INTELLIGENZ FÜR IHRE FRAGEN:\nIm Bereich „Magenta AI“ erhalten Sie präzise und schnelle Antworten, indem Sie entweder Ihre Stimme verwenden oder Ihre Anfrage eintippen. Zusammen mit unserem Partner Perplexity liefern wir Ihnen hilfreiche und zusammengefasste Antworten auf alle Ihre Fragen. Für Ihre Telekom Anliegen wie Vertrag, Rechnung, Auftrag oder Störung hilft Ihnen Frag Magenta, unser digitaler Assistent, rund um die Uhr und ganz ohne Wartezeit.\n\nHILFE UND SERVICE:\nMit MeinMagenta können Sie häufige Anliegen im Handumdrehen selbst lösen. Übersichtliche Hilfekategorien, Lösungsassistenten sowie eine komfortable Volltextsuche helfen Ihnen dabei.\n\nAPP WIDGET:\nLassen Sie sich Ihren Datenverbrauch schnell anzeigen, ohne die App auf Ihrem Handy zu öffnen.\n\nBitte beachten Sie, dass MeinMagenta die iOS-Version 17.0 oder höher erfordert.\n\nWir freuen uns über Ihre Meinung unter www.telekom.de/community\n\nViel Spaß mit der App!\nIhre Telekom",
-      "userRatingCount": 547486,
+      "languageCodesISO2A": [
+        "EN",
+        "DE",
+        "UK"
+      ],
+      "sellerUrl": "https://www.telekom.de/hilfe/meinmagenta-app",
+      "fileSizeBytes": "624497664",
+      "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 547553,
+      "trackContentRating": "4+",
+      "averageUserRating": 4.26635,
+      "averageUserRatingForCurrentVersion": 4.26635,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "MeinMagenta: Handy & Festnetz",
+      "trackViewUrl": "https://apps.apple.com/de/app/meinmagenta-handy-festnetz/id407932476?uo=4",
+      "bundleId": "de.telekom.Kundencenter",
+      "trackId": 407932476,
+      "trackName": "MeinMagenta: Handy & Festnetz",
+      "price": 0,
+      "userRatingCount": 547553,
       "country": "DEU"
     }
   ]

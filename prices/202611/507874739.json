@@ -2,7 +2,7 @@
   "id": "507874739",
   "name": "Google ドライブ - 安全なオンライン ストレージ",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:27:11.439Z",
+  "fetchedAt": "2026-11-02T09:47:09.083Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -48,17 +48,17 @@
           "amount": 9.99
         },
         {
-          "name": "200 Go",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "100 Go",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "200 Go",
+          "price": "2,99 €",
+          "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:08.537Z"
+      "fetchedAt": "2026-11-02T09:47:06.606Z"
     },
     "jp": {
       "currency": "JPY",
@@ -114,7 +114,7 @@
           "amount": 290
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:09.895Z"
+      "fetchedAt": "2026-11-02T09:47:07.989Z"
     },
     "us": {
       "currency": "USD",
@@ -170,7 +170,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:27:11.439Z"
+      "fetchedAt": "2026-11-02T09:47:09.075Z"
     }
   }
 }

@@ -211,6 +211,9 @@
       "userRatingCount": 1138512
     },
     {
+      "artistViewUrl": "https://apps.apple.com/cn/developer/alipay-hangzhou-technology-co-ltd/id333206292?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/0b/9df50b9c-2ebe-bb6b-bcc0-fb4ac366ba94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/0b/9df50b9c-2ebe-bb6b-bcc0-fb4ac366ba94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/29/6d/83296df0-055b-882a-2dea-eb493a72f178/iPadPro-1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/2f/fa/5e2ffabc-fe2a-3c85-503f-342e6c3136f0/iPadPro-2.png/576x768bb.png",
@@ -237,9 +240,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/61/91/64619105-240f-a6e9-760a-a7a63fae7c9f/222a28c8-52df-4e91-bf28-4e24f0d79aab_iPhone6_Plus.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/4a/3b/b74a3bbe-6b45-0da4-5b7c-a3c09dd7d331/54b7aac6-ac23-4490-8a19-248bc3c13f13_iPhone6_Plus.png/392x696bb.png"
       ],
-      "artistViewUrl": "https://apps.apple.com/cn/developer/alipay-hangzhou-technology-co-ltd/id333206292?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/0b/9df50b9c-2ebe-bb6b-bcc0-fb4ac366ba94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f5/0b/9df50b9c-2ebe-bb6b-bcc0-fb4ac366ba94/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -379,9 +379,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E4%BC%99%E4%BC%B4/id333206289?uo=4",
-      "sellerUrl": "http://qianbao.alipay.com/",
-      "trackCensoredName": "支付宝-你的AI生活伙伴",
       "languageCodesISO2A": [
         "EN",
         "ZH",
@@ -389,14 +386,16 @@
       ],
       "fileSizeBytes": "505760768",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 1146209,
+      "userRatingCountForCurrentVersion": 1146798,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.12999,
-      "averageUserRating": 4.12999,
+      "averageUserRatingForCurrentVersion": 4.12976,
+      "trackCensoredName": "支付宝-你的AI生活伙伴",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E4%BC%99%E4%BC%B4/id333206289?uo=4",
+      "averageUserRating": 4.12976,
       "contentAdvisoryRating": "4+",
+      "sellerUrl": "http://qianbao.alipay.com/",
+      "currentVersionReleaseDate": "2026-10-21T01:35:39Z",
       "releaseNotes": "支付宝最新版来啦！适配 iPhone Duo 折叠屏，大屏体验更丝滑；AI生活伙伴-蚂蚁阿宝上线，搜「蚂蚁阿宝」即可体验，快来更新吧！",
-      "trackName": "支付宝-你的AI生活伙伴",
-      "trackId": 333206289,
       "artistId": 333206292,
       "artistName": "Alipay (Hangzhou) Technology Co., Ltd.",
       "genres": [
@@ -404,23 +403,24 @@
         "财务"
       ],
       "price": 0,
-      "sellerName": "Alipay (Hangzhou) Technology Co., Ltd.",
       "bundleId": "com.alipay.iphoneclient",
+      "trackName": "支付宝-你的AI生活伙伴",
+      "trackId": 333206289,
+      "releaseDate": "2009-10-15T23:00:27Z",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6012",
         "6015"
       ],
-      "minimumOsVersion": "15.0",
+      "sellerName": "Alipay (Hangzhou) Technology Co., Ltd.",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2009-10-15T23:00:27Z",
-      "currentVersionReleaseDate": "2026-10-21T01:35:39Z",
       "version": "12.12.38",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "蚂蚁集团旗下支付宝，是全球领先的数字支付开放平台与服务业数字化开放平台，已经服务10亿用户。我们面向消费者、商家提供便捷、安全的数字支付服务，面向合作伙伴持续开放技术、产品，助力实现数字化升级。\n\n目前，商家、机构合作伙伴通过支付宝APP为消费者提供政务办事、扫码点单、生活缴费等超过1000种生活服务。",
-      "userRatingCount": 1146209,
+      "userRatingCount": 1146798,
       "country": "CHN"
     }
   ]

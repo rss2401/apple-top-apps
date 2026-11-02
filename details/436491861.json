@@ -192,6 +192,7 @@
       "userRatingCount": 4981254
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/4b/8c/694b8c48-5511-9f82-e16e-9454de69f6fd/DOMINOS_APP-STORE_STILLS_APPLE_5.5_FRAME-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/f0/70/03f07052-ccb6-7c67-1bd2-a6994160b3b4/DOMINOS_APP-STORE_STILLS_APPLE_5.5_FRAME-2.jpg/392x696bb.jpg",
@@ -208,10 +209,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/51/3c/7e513c3c-8015-ccb7-3bfb-14f1849ba7c5/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/dominos-pizza-llc/id436491865?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/51/3c/7e513c3c-8015-ccb7-3bfb-14f1849ba7c5/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/51/3c/7e513c3c-8015-ccb7-3bfb-14f1849ba7c5/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -344,51 +344,51 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/dominos-pizza-llc/id436491865?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/51/3c/7e513c3c-8015-ccb7-3bfb-14f1849ba7c5/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/51/3c/7e513c3c-8015-ccb7-3bfb-14f1849ba7c5/LiquidGlassAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.77778,
+      "features": [
+        "iosUniversal"
+      ],
       "languageCodesISO2A": [
         "EN",
         "ES"
       ],
       "fileSizeBytes": "392935424",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 4980451,
+      "userRatingCountForCurrentVersion": 4980423,
       "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 436491865,
-      "artistName": "Domino's Pizza LLC",
+      "averageUserRating": 4.77777,
+      "averageUserRatingForCurrentVersion": 4.77777,
+      "trackCensoredName": "Domino's Pizza USA",
+      "trackViewUrl": "https://apps.apple.com/us/app/dominos-pizza-usa/id436491861?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 436491861,
+      "trackName": "Domino's Pizza USA",
       "genres": [
         "Food & Drink",
         "Lifestyle"
       ],
-      "price": 0,
-      "bundleId": "com.dominos.iphone",
       "releaseNotes": "This update contains performance improvements and bug fixes.",
-      "currentVersionReleaseDate": "2026-10-26T14:34:47Z",
-      "trackId": 436491861,
-      "trackName": "Domino's Pizza USA",
       "releaseDate": "2011-06-08T00:37:24Z",
-      "minimumOsVersion": "17.0",
       "genreIds": [
         "6023",
         "6012"
       ],
       "primaryGenreName": "Food & Drink",
       "primaryGenreId": 6023,
+      "minimumOsVersion": "17.0",
       "sellerName": "Domino's Pizza LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-26T14:34:47Z",
       "version": "13.11.3",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Get more of what you love—right here in the Domino’s app. Build your perfect pizza, or pick a specialty pizza, then pick your favorite sides, drinks and desserts. Choose delivery or carryout, and join Domino’s Rewards to earn points you can redeem for more of your favorites. Track every update with the Domino’s Tracker. Enable Live Activities for at‑a‑glance updates.\n \nUse the Domino’s Pizza app to order from restaurants in the United States, not including Puerto Rico. To place an order in Puerto Rico, visit www.DominosPR.com\n \nFEATURES:\n\n\n     1. Faster, easier ordering\n     2. Deals & Rewards\n     3. Order tracking\n     4. Live Activities for at‑a‑glance updates",
-      "trackCensoredName": "Domino's Pizza USA",
-      "trackViewUrl": "https://apps.apple.com/us/app/dominos-pizza-usa/id436491861?uo=4",
-      "averageUserRating": 4.77778,
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 4980451,
+      "bundleId": "com.dominos.iphone",
+      "price": 0,
+      "artistId": 436491865,
+      "artistName": "Domino's Pizza LLC",
+      "userRatingCount": 4980423,
       "country": "USA"
     }
   ]

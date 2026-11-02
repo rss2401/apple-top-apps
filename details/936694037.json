@@ -2,10 +2,11 @@
   "resultCount": 2,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/gb/developer/livebird-technologies-private-limited/id551521372?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -138,11 +139,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/livebird-technologies-private-limited/id551521372?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/30/71/83/3071835f-fd64-a235-8c71-42421ff90bb9/a8239345-31fc-4140-a8b2-b94e5844f71c_English_1-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c6/d8/4b/c6d84bc5-88df-8f8c-26d8-fba9776b3012/29a6ddae-08e0-41d0-877f-ccdc1a7961d4_English_2-02.jpg/392x696bb.jpg",
@@ -159,27 +156,34 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "bundleId": "com.livebird.VoiceRecorder",
+      "features": [
+        "iosUniversal"
+      ],
+      "trackCensoredName": "Voice Recorder - Audio Record",
+      "trackViewUrl": "https://apps.apple.com/gb/app/voice-recorder-audio-record/id936694037?uo=4",
+      "averageUserRating": 4.66969,
+      "contentAdvisoryRating": "4+",
       "releaseNotes": "Thanks for choosing Voice Recorder! This update focuses on making your recording experience smoother and more reliable.\n\n- Added compatibility with iOS 27.\n- Play your recordings alongside audio from other apps, such as YouTube.\n- Fixed issues with uploading recordings to Dropbox.\n- Fixed bugs in the audio converter.\n\nWe’re always listening! If you have feedback or need a hand, reach out to us through our support channels. Happy Recording!",
-      "artistName": "LiveBird Technologies Private Limited",
-      "releaseDate": "2014-11-20T14:26:18Z",
+      "averageUserRatingForCurrentVersion": 4.66969,
       "price": 5.99,
       "artistId": 551521372,
+      "artistName": "LiveBird Technologies Private Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "minimumOsVersion": "15.0",
       "sellerName": "LiveBird Technologies Private Limited",
+      "releaseDate": "2014-11-20T14:26:18Z",
       "trackId": 936694037,
       "trackName": "Voice Recorder - Audio Record",
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-10T05:18:47Z",
       "version": "10.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Live sound with its true feelings. Enjoy recording, playback and audio editing with Voice Recorder. We have fine tuned it for your day-to-day activities. Attending something important and want to record it\nfor later playback, Voice Recorder will allow you to record your meetings, lectures, and other events with codec noise reduction technology. You can record anything within 10-100 meters around you.\n\nEdit the recording as per your need and save it for later playback. Voice Recorder has multiple playback options helping you decide how you want to hear your recording. Developed specially for Apple, it plays just as excellent with Apple EarPods as it plays with our old earphones.\n\nYou can auto upload and even share the recording on cloud (Dropbox) in seconds. \n\nVoice Recorder is an easy to use and handy app to record the meeting, lecture, music and many more. The interface is designed to make it quick. With single tap you can record and share the recordings.\n\nEnjoy sound, record, edit, play and listen!\n\nList of Features\n\n# Audio Recorder\n- Quality options: (Low:8KHz, Medium:22.05KHz, High:44.1KHz)\n- Format options: (WAV, CAF, M4A)\n- External input device support : Bluetooth Mic, Other External Mic (Tested with Tascam mic)\n- Background recording support\n\n(New)\n- Continue recording into existing recordings.\n- Call Interruption handling - Recording will continue after a call or other interruption.\n\n# Audio Player\n- Quick audio player\n- Playback controls (Fast backward, Fast backward)\n- External output device support (Bluetooth and External speaker devices)\n- Background audio playing\n\n# Audio Trimming\n- Select a part of recording and trim it.\n\n# Sharing\n- Email recordings\n- Dropbox sharing (Auto upload recording support)\n- Upload to iCloud Drive\n- Import recordings to computer with iTunes file sharing\n- Airdrop sharing with iOS and Mac devices.\n\n# Universal App\n- Support for both iPhone and iPad devices.\n\n# AVAILABLE IN 11 DIFFERENT LANGUAGE\nEnglish, Español, Français, Deutsch, Português (Br.),Português, Italiano, 中文 (Simplified), Русский, 日本語, 한국어",
-      "trackCensoredName": "Voice Recorder - Audio Record",
-      "trackViewUrl": "https://apps.apple.com/gb/app/voice-recorder-audio-record/id936694037?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.67028,
+      "sellerUrl": "https://livebirdtechnologies.com/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -194,29 +198,20 @@
       ],
       "fileSizeBytes": "37570560",
       "formattedPrice": "£5.99",
-      "userRatingCountForCurrentVersion": 9044,
+      "userRatingCountForCurrentVersion": 9049,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.67028,
-      "sellerUrl": "https://livebirdtechnologies.com/",
-      "minimumOsVersion": "15.0",
+      "bundleId": "com.livebird.VoiceRecorder",
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
       "genres": [
         "Business",
         "Productivity"
       ],
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
-      "userRatingCount": 9044,
+      "userRatingCount": 9049,
       "country": "GBR"
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0e/fb/78/0efb78d1-1988-4870-d8d4-05482d374ef7/1ace28ec-3c49-40a1-902c-f9ac1a8f28d7_German_1-11.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1a/4c/ed/1a4cedca-a346-f51d-dd12-2a1a46b99af9/79ad0314-f14e-4c82-9089-d306274dee62_German_2-12.jpg/392x696bb.jpg",
@@ -233,9 +228,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/livebird-technologies-private-limited/id551521372?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -368,30 +368,7 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "genres": [
-        "Wirtschaft",
-        "Produktivität"
-      ],
-      "price": 6.99,
-      "artistId": 551521372,
-      "artistName": "LiveBird Technologies Private Limited",
-      "bundleId": "com.livebird.VoiceRecorder",
-      "releaseDate": "2014-11-20T14:26:18Z",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6000",
-        "6007"
-      ],
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "sellerName": "LiveBird Technologies Private Limited",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-10T05:18:47Z",
-      "version": "10.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Voice Recorder ist ein einfach zu bedienen und praktische Anwendung der Sitzung, Vortrag, Musik und vieles mehr aufzeichnen. Die Schnittstelle ist so konzipiert, es schnell zu machen. Mit einzigen Antippen können Sie aufnehmen und die Aufnahmen teilen.\n\nLive-Sound mit seinem wahren Gefühle. Genießen Sie die Aufnahme, Wiedergabe und Audio-Editing mit Voice Recorder. Wir haben abgestimmt es gut für den Tag-zu-Tag-Aktivitäten. Der Besuch etwas Wichtiges und wollen es aufnehmen\nfür die spätere Wiedergabe, wird Voice Recorder können Sie Ihre Meetings, Vorträge aufzuzeichnen und andere Veranstaltungen mit Codec-Rauschunterdrückung. Sie können alles innerhalb von 10 bis 100 Metern um die Sie aufnehmen.\n\nBearbeiten Sie die Aufnahme nach Ihren Bedarf und speichern Sie sie für eine spätere Wiedergabe. Voice Recorder verfügt über mehrere Optionen der Wiedergabe helfen Sie entscheiden, wie Sie die Aufnahme hören wollen. Entwickelt speziell für Apple, es spielt ebenso hervorragend mit Apple EarPods wie es mit unseren alten Kopfhörer spielt.\n\nSie können die automatische Upload und sogar die Aufnahme auf Wolke (Dropbox) in Sekunden teilen.\n\nGenießen Sie Sound, aufnehmen, bearbeiten, spielen und hören!\n\nListe der Funktionen\n\n# Audio Recorder\n- Qualitätsoptionen: (Low: 8 kHz, Mittel: 22,05 kHz, Hoch: 44,1 KHz)\n- Format Optionen: (WAV, CAF, M4A)\n- Externe Eingabegerät Unterstützung: Bluetooth Mic, Andere externe Mic (Getestet mit Tascam mic)\n- Hintergrund Aufnahmeunterstützung\n\n(Neu)\n- Fahren Sie weiter in bestehende Aufnahmen der Aufnahme.\n- Anrufunterbrechung Handhabung - Die Aufnahme wird weiterhin nach einem Anruf oder eine andere Unterbrechung.\n\n# Audio-Abspielgerät; Audio-Player; Musikabspielgerät\n- Schnell-Audio-Player\n- Steuerelemente für die Wiedergabe (Schnellrücklauf, Schnellrücklauf)\n- Externe Ausgabegerät Unterstützung (Bluetooth und externen Lautsprecher-Geräte)\n- Hintergrund Audio-Wiedergabe\n\n# Audio Trimmen\nWählen Sie einen Teil der Aufnahme und schneiden Sie es -.\n\n# Freigabe\n- E-Mail-Aufnahmen\n- Dropbox-Sharing (Auto-Upload-Aufnahme-Unterstützung)\nLaden Sie icloud-Laufwerk -\n- Import-Aufnahmen auf den Computer mit iTunes File-Sharing\n- Fallschirmabwurf Austausch mit iOS und Mac-Geräten.\n\n# Universal-App\n- Unterstützung für beide iPhone und iPad-Geräte.\n\n# In 11 verschiedenen SPRACHE\nEnglisch, Spanisch, Französisch, Deutsch, Português (Br.), Português, Italiano, 中文 (vereinfacht), Русский, 日本語, 한국어",
-      "averageUserRatingForCurrentVersion": 4.5514,
+      "averageUserRatingForCurrentVersion": 4.55136,
       "sellerUrl": "http://www.livebirdtechnologies.com",
       "languageCodesISO2A": [
         "EN",
@@ -407,16 +384,39 @@
       ],
       "fileSizeBytes": "37570560",
       "formattedPrice": "6,99 €",
-      "userRatingCountForCurrentVersion": 2646,
+      "userRatingCountForCurrentVersion": 2648,
       "trackContentRating": "4+",
-      "trackCensoredName": "Voice Recorder : Ton aufnehmen",
-      "trackViewUrl": "https://apps.apple.com/de/app/voice-recorder-ton-aufnehmen/id936694037?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.5514,
       "trackId": 936694037,
       "trackName": "Voice Recorder : Ton aufnehmen",
+      "artistId": 551521372,
+      "artistName": "LiveBird Technologies Private Limited",
+      "genres": [
+        "Wirtschaft",
+        "Produktivität"
+      ],
+      "price": 6.99,
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2014-11-20T14:26:18Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "sellerName": "LiveBird Technologies Private Limited",
+      "currentVersionReleaseDate": "2026-10-10T05:18:47Z",
       "releaseNotes": "Danke, dass Sie sich für Voice Recorder entschieden haben! Dieses Update sorgt für ein reibungsloseres und zuverlässigeres Aufnahmeerlebnis.\n\n- Kompatibilität mit iOS 27 hinzugefügt.\n- Spielen Sie Ihre Aufnahmen parallel zu Audioinhalten aus anderen Apps (z. B. YouTube) ab.\n- Probleme beim Hochladen von Aufnahmen auf Dropbox behoben.\n- Fehler im Audiokonverter behoben.\n\nWir haben immer ein offenes Ohr für Sie! Wenn Sie Feedback haben oder Hilfe benötigen, kontaktieren Sie uns bitte über unsere Support-Kanäle. Viel Spaß beim Aufnehmen!",
-      "userRatingCount": 2646,
+      "version": "10.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Voice Recorder ist ein einfach zu bedienen und praktische Anwendung der Sitzung, Vortrag, Musik und vieles mehr aufzeichnen. Die Schnittstelle ist so konzipiert, es schnell zu machen. Mit einzigen Antippen können Sie aufnehmen und die Aufnahmen teilen.\n\nLive-Sound mit seinem wahren Gefühle. Genießen Sie die Aufnahme, Wiedergabe und Audio-Editing mit Voice Recorder. Wir haben abgestimmt es gut für den Tag-zu-Tag-Aktivitäten. Der Besuch etwas Wichtiges und wollen es aufnehmen\nfür die spätere Wiedergabe, wird Voice Recorder können Sie Ihre Meetings, Vorträge aufzuzeichnen und andere Veranstaltungen mit Codec-Rauschunterdrückung. Sie können alles innerhalb von 10 bis 100 Metern um die Sie aufnehmen.\n\nBearbeiten Sie die Aufnahme nach Ihren Bedarf und speichern Sie sie für eine spätere Wiedergabe. Voice Recorder verfügt über mehrere Optionen der Wiedergabe helfen Sie entscheiden, wie Sie die Aufnahme hören wollen. Entwickelt speziell für Apple, es spielt ebenso hervorragend mit Apple EarPods wie es mit unseren alten Kopfhörer spielt.\n\nSie können die automatische Upload und sogar die Aufnahme auf Wolke (Dropbox) in Sekunden teilen.\n\nGenießen Sie Sound, aufnehmen, bearbeiten, spielen und hören!\n\nListe der Funktionen\n\n# Audio Recorder\n- Qualitätsoptionen: (Low: 8 kHz, Mittel: 22,05 kHz, Hoch: 44,1 KHz)\n- Format Optionen: (WAV, CAF, M4A)\n- Externe Eingabegerät Unterstützung: Bluetooth Mic, Andere externe Mic (Getestet mit Tascam mic)\n- Hintergrund Aufnahmeunterstützung\n\n(Neu)\n- Fahren Sie weiter in bestehende Aufnahmen der Aufnahme.\n- Anrufunterbrechung Handhabung - Die Aufnahme wird weiterhin nach einem Anruf oder eine andere Unterbrechung.\n\n# Audio-Abspielgerät; Audio-Player; Musikabspielgerät\n- Schnell-Audio-Player\n- Steuerelemente für die Wiedergabe (Schnellrücklauf, Schnellrücklauf)\n- Externe Ausgabegerät Unterstützung (Bluetooth und externen Lautsprecher-Geräte)\n- Hintergrund Audio-Wiedergabe\n\n# Audio Trimmen\nWählen Sie einen Teil der Aufnahme und schneiden Sie es -.\n\n# Freigabe\n- E-Mail-Aufnahmen\n- Dropbox-Sharing (Auto-Upload-Aufnahme-Unterstützung)\nLaden Sie icloud-Laufwerk -\n- Import-Aufnahmen auf den Computer mit iTunes File-Sharing\n- Fallschirmabwurf Austausch mit iOS und Mac-Geräten.\n\n# Universal-App\n- Unterstützung für beide iPhone und iPad-Geräte.\n\n# In 11 verschiedenen SPRACHE\nEnglisch, Spanisch, Französisch, Deutsch, Português (Br.), Português, Italiano, 中文 (vereinfacht), Русский, 日本語, 한국어",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.55136,
+      "trackCensoredName": "Voice Recorder : Ton aufnehmen",
+      "trackViewUrl": "https://apps.apple.com/de/app/voice-recorder-ton-aufnehmen/id936694037?uo=4",
+      "bundleId": "com.livebird.VoiceRecorder",
+      "userRatingCount": 2648,
       "country": "DEU"
     }
   ]

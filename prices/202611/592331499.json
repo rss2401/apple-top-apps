@@ -2,7 +2,7 @@
   "id": "592331499",
   "name": "BeautyCam-新世代カメラ＆ナチュラルAI",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:49:58.053Z",
+  "fetchedAt": "2026-11-02T10:11:35.716Z",
   "storefronts": {
     "jp": {
       "currency": "JPY",
@@ -38,6 +38,16 @@
           "amount": 4500
         },
         {
+          "name": "Beautycam VIP Yearly",
+          "price": "¥4,800",
+          "amount": 4800
+        },
+        {
+          "name": "BeautyCam VIP Monthly",
+          "price": "¥1,200",
+          "amount": 1200
+        },
+        {
           "name": "BeautyCam VIP Monthly",
           "price": "¥1,200",
           "amount": 1200
@@ -46,19 +56,9 @@
           "name": "Beautycam VIP Yearly",
           "price": "¥4,000",
           "amount": 4000
-        },
-        {
-          "name": "BeautyCam VIP Monthly",
-          "price": "¥1,200",
-          "amount": 1200
-        },
-        {
-          "name": "BeautyCam ID Photo",
-          "price": "¥600",
-          "amount": 600
         }
       ],
-      "fetchedAt": "2026-11-01T09:49:58.052Z"
+      "fetchedAt": "2026-11-02T10:11:35.715Z"
     }
   }
 }

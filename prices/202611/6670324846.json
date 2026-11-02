@@ -2,7 +2,7 @@
   "id": "6670324846",
   "name": "Grok",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:54:43.339Z",
+  "fetchedAt": "2026-11-02T09:50:43.349Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:38.826Z"
+      "fetchedAt": "2026-11-02T09:50:39.028Z"
     },
     "fr": {
       "currency": "EUR",
@@ -89,12 +89,12 @@
           "amount": 60
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "100,00 €",
           "amount": 100
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
         },
@@ -114,7 +114,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:40.222Z"
+      "fetchedAt": "2026-11-02T09:50:40.522Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:41.783Z"
+      "fetchedAt": "2026-11-02T09:50:42.006Z"
     },
     "us": {
       "currency": "USD",
@@ -196,14 +196,14 @@
           "amount": 10
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "$300.00",
-          "amount": 300
-        },
-        {
           "name": "Extra Usage Credits 50 USD",
           "price": "$50.00",
           "amount": 50
+        },
+        {
+          "name": "SuperGrok Heavy",
+          "price": "$300.00",
+          "amount": 300
         },
         {
           "name": "SuperGrok Plus",
@@ -217,16 +217,16 @@
         },
         {
           "name": "SuperGrok",
-          "price": "$300.00",
-          "amount": 300
+          "price": "$30.00",
+          "amount": 30
         },
         {
           "name": "SuperGrok",
-          "price": "$30.00",
-          "amount": 30
+          "price": "$300.00",
+          "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-01T09:54:43.339Z"
+      "fetchedAt": "2026-11-02T09:50:43.348Z"
     }
   }
 }
