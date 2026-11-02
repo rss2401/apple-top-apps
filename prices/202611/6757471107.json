@@ -2,31 +2,11 @@
   "id": "6757471107",
   "name": "Lovable: Build Apps With AI",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:12:48.947Z",
+  "fetchedAt": "2026-11-02T10:16:22.653Z",
   "storefronts": {
     "us": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Pro Plan",
-          "price": "$39.99",
-          "amount": 39.99
-        },
-        {
-          "name": "Business Plan",
-          "price": "$79.99",
-          "amount": 79.99
-        },
-        {
-          "name": "50 Credits (Mobile Pro)",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "100 Credits (Mobile Business)",
-          "price": "$79.99",
-          "amount": 79.99
-        },
         {
           "name": "25 Credits (Mobile Pro)",
           "price": "$9.99",
@@ -38,7 +18,12 @@
           "amount": 39.99
         },
         {
-          "name": "50 Credits (Mobile Business)",
+          "name": "50 Credits (Mobile Pro)",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Pro Plan",
           "price": "$39.99",
           "amount": 39.99
         },
@@ -46,9 +31,24 @@
           "name": "25 Credits (Mobile Business)",
           "price": "$19.99",
           "amount": 19.99
+        },
+        {
+          "name": "100 Credits (Mobile Business)",
+          "price": "$79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Business Plan",
+          "price": "$79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "50 Credits (Mobile Business)",
+          "price": "$39.99",
+          "amount": 39.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:12:48.946Z"
+      "fetchedAt": "2026-11-02T10:16:22.653Z"
     }
   }
 }

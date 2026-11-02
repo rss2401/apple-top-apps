@@ -2,7 +2,7 @@
   "id": "6670324846",
   "name": "Grok",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:50:43.349Z",
+  "fetchedAt": "2026-11-02T10:16:02.994Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:39.028Z"
+      "fetchedAt": "2026-11-02T10:15:58.753Z"
     },
     "fr": {
       "currency": "EUR",
@@ -89,9 +89,9 @@
           "amount": 60
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -99,9 +99,9 @@
           "amount": 100
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -114,7 +114,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:40.522Z"
+      "fetchedAt": "2026-11-02T10:16:00.237Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:42.006Z"
+      "fetchedAt": "2026-11-02T10:16:01.681Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-02T09:50:43.348Z"
+      "fetchedAt": "2026-11-02T10:16:02.994Z"
     }
   }
 }
