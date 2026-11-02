@@ -1,12 +1,12 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202611",
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 29,
+      "rank": 43,
       "artistName": "Justin Guitar",
       "id": "6761114951",
       "name": "JustinGuitar Note Trainer",
@@ -26,32 +26,6 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/justinguitar-note-trainer/id6761114951"
-    },
-    {
-      "month": "202611",
-      "country": "us",
-      "mediaType": "apps",
-      "feed": "top-paid",
-      "rank": 89,
-      "artistName": "Justin Guitar",
-      "id": "6761114951",
-      "name": "JustinGuitar Note Trainer",
-      "releaseDate": "2026-06-16",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/15/70/971570f7-3da2-e72b-b2df-20268d19d331/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6017",
-          "name": "Education",
-          "url": "https://itunes.apple.com/us/genre/id6017"
-        },
-        {
-          "genreId": "6011",
-          "name": "Music",
-          "url": "https://itunes.apple.com/us/genre/id6011"
-        }
-      ],
-      "url": "https://apps.apple.com/us/app/justinguitar-note-trainer/id6761114951"
     }
   ]
 }

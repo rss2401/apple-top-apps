@@ -1,5 +1,5 @@
 {
-  "resultCount": 9,
+  "resultCount": 11,
   "results": [
     {
       "month": "202607",
@@ -144,10 +144,31 @@
     },
     {
       "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 55,
+      "artistName": "Seungyun Kim",
+      "id": "6763737180",
+      "name": "YoungPhoto - Aesthetic Camera",
+      "releaseDate": "2026-06-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/38/49/18384936-c2ec-e3c3-90e9-5981d332fb15/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Foto und Video",
+          "url": "https://itunes.apple.com/de/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/youngphoto-aesthetic-camera/id6763737180"
+    },
+    {
+      "month": "202611",
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 34,
+      "rank": 35,
       "artistName": "Seungyun Kim",
       "id": "6763737180",
       "name": "YoungPhoto - Aesthetic Camera",
@@ -168,7 +189,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 39,
+      "rank": 30,
       "artistName": "Seungyun Kim",
       "id": "6763737180",
       "name": "YoungPhoto - エモい構図カメラ",
@@ -183,6 +204,27 @@
         }
       ],
       "url": "https://apps.apple.com/jp/app/youngphoto-%E3%82%A8%E3%83%A2%E3%81%84%E6%A7%8B%E5%9B%B3%E3%82%AB%E3%83%A1%E3%83%A9/id6763737180"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 77,
+      "artistName": "Seungyun Kim",
+      "id": "6763737180",
+      "name": "YoungPhoto - Aesthetic Camera",
+      "releaseDate": "2026-06-26",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/38/49/18384936-c2ec-e3c3-90e9-5981d332fb15/Ophoto-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/us/genre/id6008"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/youngphoto-aesthetic-camera/id6763737180"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "resultCount": 25,
+  "resultCount": 27,
   "results": [
     {
       "month": "202512",
@@ -575,10 +575,36 @@
     },
     {
       "month": "202611",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 30,
+      "artistName": "Tantsissa",
+      "id": "1062745479",
+      "name": "HeartWatch: 心脏和活动监测器",
+      "releaseDate": "2015-12-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "健康健美",
+          "url": "https://itunes.apple.com/cn/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "医疗",
+          "url": "https://itunes.apple.com/cn/genre/id6020"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/heartwatch-%E5%BF%83%E8%84%8F%E5%92%8C%E6%B4%BB%E5%8A%A8%E7%9B%91%E6%B5%8B%E5%99%A8/id1062745479"
+    },
+    {
+      "month": "202611",
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 22,
+      "rank": 34,
       "artistName": "Tantsissa",
       "id": "1062745479",
       "name": "HeartWatch: Herzfrequenz",
@@ -604,7 +630,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 36,
+      "rank": 66,
       "artistName": "Tantsissa",
       "id": "1062745479",
       "name": "HeartWatch: Moniteur Cardiaque",
@@ -624,6 +650,32 @@
         }
       ],
       "url": "https://apps.apple.com/fr/app/heartwatch-moniteur-cardiaque/id1062745479"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 41,
+      "artistName": "Tantsissa",
+      "id": "1062745479",
+      "name": "HeartWatch： 心拍数の測定と管理",
+      "releaseDate": "2015-12-07",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/06/9b/94069b9f-c96c-279a-6d34-8fecf4aa7f9d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "ヘルスケア／フィットネス",
+          "url": "https://itunes.apple.com/jp/genre/id6013"
+        },
+        {
+          "genreId": "6020",
+          "name": "メディカル",
+          "url": "https://itunes.apple.com/jp/genre/id6020"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/heartwatch-%E5%BF%83%E6%8B%8D%E6%95%B0%E3%81%AE%E6%B8%AC%E5%AE%9A%E3%81%A8%E7%AE%A1%E7%90%86/id1062745479"
     },
     {
       "month": "202611",

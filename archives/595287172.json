@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202607",
@@ -110,7 +110,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 91,
+      "rank": 84,
       "artistName": "Hinge, Inc.",
       "id": "595287172",
       "name": "Hinge Dating App: Date & Meet",
@@ -136,7 +136,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 74,
+      "rank": 66,
       "artistName": "Hinge, Inc.",
       "id": "595287172",
       "name": "Hinge: appli de rencontre",
@@ -156,6 +156,32 @@
         }
       ],
       "url": "https://apps.apple.com/fr/app/hinge-appli-de-rencontre/id595287172"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 91,
+      "artistName": "Hinge, Inc.",
+      "id": "595287172",
+      "name": "Hinge Dating App: Meet & Date",
+      "releaseDate": "2013-02-06",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/bf/f4/30bff44f-4a90-8616-4030-781ac2250f4d/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        },
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/hinge-dating-app-meet-date/id595287172"
     }
   ]
 }

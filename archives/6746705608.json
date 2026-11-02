@@ -1,5 +1,5 @@
 {
-  "resultCount": 27,
+  "resultCount": 28,
   "results": [
     {
       "month": "202512",
@@ -535,6 +535,32 @@
     },
     {
       "month": "202611",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 31,
+      "artistName": "Tantsissa",
+      "id": "6746705608",
+      "name": "AutoSnore: 鼾声记录器",
+      "releaseDate": "2025-11-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6020",
+          "name": "医疗",
+          "url": "https://itunes.apple.com/cn/genre/id6020"
+        },
+        {
+          "genreId": "6013",
+          "name": "健康健美",
+          "url": "https://itunes.apple.com/cn/genre/id6013"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/autosnore-%E9%BC%BE%E5%A3%B0%E8%AE%B0%E5%BD%95%E5%99%A8/id6746705608"
+    },
+    {
+      "month": "202611",
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
@@ -564,7 +590,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 49,
+      "rank": 85,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: Appli ronflement",
@@ -590,7 +616,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 19,
+      "rank": 26,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: いびきレコーダー",
@@ -616,7 +642,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 78,
+      "rank": 83,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: Snoring Recorder",

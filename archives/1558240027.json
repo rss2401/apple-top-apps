@@ -1,5 +1,5 @@
 {
-  "resultCount": 14,
+  "resultCount": 13,
   "results": [
     {
       "month": "202512",
@@ -255,7 +255,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 74,
+      "rank": 73,
       "artistName": "Meta Platforms, Inc.",
       "id": "1558240027",
       "name": "Meta AI",
@@ -281,7 +281,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 12,
+      "rank": 14,
       "artistName": "Meta Platforms, Inc.",
       "id": "1558240027",
       "name": "Meta AI",
@@ -307,7 +307,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 37,
+      "rank": 39,
       "artistName": "Meta Platforms, Inc.",
       "id": "1558240027",
       "name": "Meta AI",
@@ -327,32 +327,6 @@
         }
       ],
       "url": "https://apps.apple.com/gb/app/meta-ai/id1558240027"
-    },
-    {
-      "month": "202611",
-      "country": "us",
-      "mediaType": "apps",
-      "feed": "top-free",
-      "rank": 95,
-      "artistName": "Meta Platforms, Inc.",
-      "id": "1558240027",
-      "name": "Meta AI",
-      "releaseDate": "2021-09-09",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/f3/c3/8af3c3d6-bfc8-f15a-51f3-a475999bc537/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6007",
-          "name": "Productivity",
-          "url": "https://itunes.apple.com/us/genre/id6007"
-        },
-        {
-          "genreId": "6008",
-          "name": "Photo & Video",
-          "url": "https://itunes.apple.com/us/genre/id6008"
-        }
-      ],
-      "url": "https://apps.apple.com/us/app/meta-ai/id1558240027"
     }
   ]
 }

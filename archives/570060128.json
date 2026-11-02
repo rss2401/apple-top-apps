@@ -1,5 +1,5 @@
 {
-  "resultCount": 22,
+  "resultCount": 24,
   "results": [
     {
       "month": "202512",
@@ -497,10 +497,36 @@
     },
     {
       "month": "202611",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 73,
+      "artistName": "Duolingo",
+      "id": "570060128",
+      "name": "多邻国Duolingo英语日语法语",
+      "releaseDate": "2012-11-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/99/8b/e9998b23-eef1-33e5-5817-2729377b2bc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "教育",
+          "url": "https://itunes.apple.com/cn/genre/id6017"
+        },
+        {
+          "genreId": "6005",
+          "name": "社交",
+          "url": "https://itunes.apple.com/cn/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/%E5%A4%9A%E9%82%BB%E5%9B%BDduolingo%E8%8B%B1%E8%AF%AD%E6%97%A5%E8%AF%AD%E6%B3%95%E8%AF%AD/id570060128"
+    },
+    {
+      "month": "202611",
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 37,
+      "rank": 19,
       "artistName": "Duolingo",
       "id": "570060128",
       "name": "Duolingo: Sprachen und Schach",
@@ -526,7 +552,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 28,
+      "rank": 18,
       "artistName": "Duolingo",
       "id": "570060128",
       "name": "Duolingo : Langues et échecs",
@@ -549,10 +575,36 @@
     },
     {
       "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 76,
+      "artistName": "Duolingo",
+      "id": "570060128",
+      "name": "Duolingo: Language & Chess",
+      "releaseDate": "2012-11-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/99/8b/e9998b23-eef1-33e5-5817-2729377b2bc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "Education",
+          "url": "https://itunes.apple.com/gb/genre/id6017"
+        },
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/duolingo-language-chess/id570060128"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 91,
+      "rank": 84,
       "artistName": "Duolingo",
       "id": "570060128",
       "name": "Duolingo: Learn Languages",

@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 7,
   "results": [
     {
       "month": "202512",
@@ -132,6 +132,32 @@
       "releaseDate": "2016-11-01",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/78/66/63786651-c982-ecda-5fb3-337b7da9053a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "工具",
+          "url": "https://itunes.apple.com/cn/genre/id6002"
+        },
+        {
+          "genreId": "6007",
+          "name": "效率",
+          "url": "https://itunes.apple.com/cn/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/%E5%A4%B8%E5%85%8B-ai%E6%97%97%E8%88%B0%E5%BA%94%E7%94%A8/id1160172628"
+    },
+    {
+      "month": "202611",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 18,
+      "artistName": "广州市动悦信息技术有限公司",
+      "id": "1160172628",
+      "name": "夸克-AI旗舰应用",
+      "releaseDate": "2016-11-01",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/93/ba/1f93ba83-7a2a-7ae2-8775-fbabe9a2824b/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6002",

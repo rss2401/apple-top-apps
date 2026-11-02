@@ -1,5 +1,5 @@
 {
-  "resultCount": 29,
+  "resultCount": 30,
   "results": [
     {
       "month": "202512",
@@ -440,10 +440,36 @@
     },
     {
       "month": "202611",
+      "country": "cn",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 32,
+      "artistName": "Anki Software, LLC",
+      "id": "373493387",
+      "name": "AnkiMobile Flashcards",
+      "releaseDate": "2010-05-27",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/6b/da/306bdac5-3088-c97f-c682-e4626bfc6b43/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6017",
+          "name": "教育",
+          "url": "https://itunes.apple.com/cn/genre/id6017"
+        },
+        {
+          "genreId": "6007",
+          "name": "效率",
+          "url": "https://itunes.apple.com/cn/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/cn/app/ankimobile-flashcards/id373493387"
+    },
+    {
+      "month": "202611",
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 5,
+      "rank": 4,
       "artistName": "Anki Software, LLC",
       "id": "373493387",
       "name": "AnkiMobile Flashcards",
@@ -458,7 +484,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 2,
+      "rank": 3,
       "artistName": "Anki Software, LLC",
       "id": "373493387",
       "name": "AnkiMobile Flashcards",
@@ -503,7 +529,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 9,
+      "rank": 8,
       "artistName": "Anki Software, LLC",
       "id": "373493387",
       "name": "AnkiMobile Flashcards",
