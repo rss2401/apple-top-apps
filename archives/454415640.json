@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202610",
@@ -13,6 +13,32 @@
       "releaseDate": "2011-09-06",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/c7/14/8dc7149b-4a33-34d7-afda-ebd42fe14483/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "Shopping",
+          "url": "https://itunes.apple.com/de/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/de/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/idealo-preisvergleich-online/id454415640"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 50,
+      "artistName": "idealo internet GmbH",
+      "id": "454415640",
+      "name": "idealo: Preisvergleich Online",
+      "releaseDate": "2011-09-06",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a1/c5/15a1c5a7-a350-d462-5b65-27452655a36c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6024",

@@ -1,5 +1,5 @@
 {
-  "resultCount": 3,
+  "resultCount": 4,
   "results": [
     {
       "month": "202512",
@@ -59,6 +59,32 @@
       "mediaType": "apps",
       "feed": "top-free",
       "rank": 80,
+      "artistName": "Yahoo Japan Corporation",
+      "id": "1478237405",
+      "name": "Yahoo!フリマ（旧PayPayフリマ）",
+      "releaseDate": "2019-10-06",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/be/8e/22be8ec7-def8-0f2d-3000-ee1b941e1bb7/fleamarket-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6024",
+          "name": "ショッピング",
+          "url": "https://itunes.apple.com/jp/genre/id6024"
+        },
+        {
+          "genreId": "6012",
+          "name": "ライフスタイル",
+          "url": "https://itunes.apple.com/jp/genre/id6012"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/yahoo-%E3%83%95%E3%83%AA%E3%83%9E-%E6%97%A7paypay%E3%83%95%E3%83%AA%E3%83%9E/id1478237405"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 99,
       "artistName": "Yahoo Japan Corporation",
       "id": "1478237405",
       "name": "Yahoo!フリマ（旧PayPayフリマ）",

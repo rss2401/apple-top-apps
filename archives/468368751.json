@@ -1,12 +1,12 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202611",
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 77,
+      "rank": 67,
       "artistName": "AM PowerSoftware",
       "id": "468368751",
       "name": "LightSpectrum Pro",
@@ -26,32 +26,6 @@
         }
       ],
       "url": "https://apps.apple.com/fr/app/lightspectrum-pro/id468368751"
-    },
-    {
-      "month": "202611",
-      "country": "jp",
-      "mediaType": "apps",
-      "feed": "top-paid",
-      "rank": 89,
-      "artistName": "AM PowerSoftware",
-      "id": "468368751",
-      "name": "LightSpectrum Pro",
-      "releaseDate": "2011-10-03",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6002",
-          "name": "ユーティリティ",
-          "url": "https://itunes.apple.com/jp/genre/id6002"
-        },
-        {
-          "genreId": "6008",
-          "name": "写真／ビデオ",
-          "url": "https://itunes.apple.com/jp/genre/id6008"
-        }
-      ],
-      "url": "https://apps.apple.com/jp/app/lightspectrum-pro/id468368751"
     }
   ]
 }

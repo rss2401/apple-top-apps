@@ -1,5 +1,5 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
     {
       "month": "202607",
@@ -26,6 +26,32 @@
         }
       ],
       "url": "https://apps.apple.com/us/app/dj-rehab-music/id6752807769"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 89,
+      "artistName": "Brian McCoy",
+      "id": "6752807769",
+      "name": "DJ Rehab Mashups & Remixes",
+      "releaseDate": "2025-09-20",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/fa/03/58fa03b8-6491-1c63-9295-56cec09c547c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/dj-rehab-mashups-remixes/id6752807769"
     }
   ]
 }
