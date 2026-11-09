@@ -2,7 +2,7 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:15:49.881Z",
+  "fetchedAt": "2026-11-09T10:13:43.731Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 800
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:44.206Z"
+      "fetchedAt": "2026-11-09T10:13:38.453Z"
     },
     "fr": {
       "currency": "EUR",
@@ -94,9 +94,9 @@
           "amount": 22
         },
         {
-          "name": "Usage Credits (500)",
-          "price": "400,00 €",
-          "amount": 400
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Usage Credits (100)",
@@ -104,17 +104,17 @@
           "amount": 100
         },
         {
+          "name": "Usage Credits (500)",
+          "price": "400,00 €",
+          "amount": 400
+        },
+        {
           "name": "Usage Credits (1000)",
           "price": "800,00 €",
           "amount": 800
-        },
-        {
-          "name": "Usage Credits (250)",
-          "price": "229,00 €",
-          "amount": 229
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:45.763Z"
+      "fetchedAt": "2026-11-09T10:13:39.546Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:47.336Z"
+      "fetchedAt": "2026-11-09T10:13:41.301Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,7 +196,7 @@
           "amount": 40000
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:47.873Z"
+      "fetchedAt": "2026-11-09T10:13:42.057Z"
     },
     "us": {
       "currency": "USD",
@@ -217,14 +217,14 @@
           "amount": 249.99
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "$214.99",
-          "amount": 214.99
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "$20.00",
           "amount": 20
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "$214.99",
+          "amount": 214.99
         },
         {
           "name": "Usage Credits (50)",
@@ -252,7 +252,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:49.881Z"
+      "fetchedAt": "2026-11-09T10:13:43.730Z"
     }
   }
 }

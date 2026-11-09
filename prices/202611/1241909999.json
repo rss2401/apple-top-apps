@@ -2,20 +2,20 @@
   "id": "1241909999",
   "name": "WorkOutDoors",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:55:27.607Z",
+  "fetchedAt": "2026-11-09T10:12:40.349Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Generous Tip",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Very Generous Tip",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "Generous Tip",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Massive Tip",
@@ -33,17 +33,12 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:55:22.999Z"
+      "fetchedAt": "2026-11-09T10:12:35.982Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Massive Tip",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Generous Tip",
           "price": "1,99 €",
           "amount": 1.99
@@ -59,12 +54,17 @@
           "amount": 5.99
         },
         {
+          "name": "Massive Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "Fanatical Tip",
           "price": "22,99 €",
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:55:24.519Z"
+      "fetchedAt": "2026-11-09T10:12:37.382Z"
     },
     "gb": {
       "currency": "GBP",
@@ -95,7 +95,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:55:26.027Z"
+      "fetchedAt": "2026-11-09T10:12:38.834Z"
     },
     "us": {
       "currency": "USD",
@@ -126,7 +126,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:55:27.606Z"
+      "fetchedAt": "2026-11-09T10:12:40.348Z"
     }
   }
 }

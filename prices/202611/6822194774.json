@@ -2,7 +2,7 @@
   "id": "6822194774",
   "name": "TypeDraw",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:05:38.143Z",
+  "fetchedAt": "2026-11-09T10:22:36.389Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -11,28 +11,133 @@
     },
     "de": {
       "currency": "EUR",
-      "items": [],
-      "fetchedAt": "2026-11-02T10:05:32.161Z"
+      "items": [
+        {
+          "name": "Atlantic Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Bordeaux Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Highlands Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Sahara Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:22:30.147Z"
     },
     "fr": {
       "currency": "EUR",
-      "items": [],
-      "fetchedAt": "2026-11-02T10:05:33.649Z"
+      "items": [
+        {
+          "name": "Atlantic Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Sahara Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Highlands Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Bordeaux Notebook",
+          "price": "1,99 €",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:22:31.579Z"
     },
     "gb": {
       "currency": "GBP",
-      "items": [],
-      "fetchedAt": "2026-11-02T10:05:35.113Z"
+      "items": [
+        {
+          "name": "Atlantic Notebook",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Sahara Notebook",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Bordeaux Notebook",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Highlands Notebook",
+          "price": "£1.99",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:22:33.140Z"
     },
     "jp": {
       "currency": "JPY",
-      "items": [],
-      "fetchedAt": "2026-11-02T10:05:36.571Z"
+      "items": [
+        {
+          "name": "Bordeaux Notebook",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Atlantic Notebook",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Highlands Notebook",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Sahara Notebook",
+          "price": "¥300",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:22:34.606Z"
     },
     "us": {
       "currency": "USD",
-      "items": [],
-      "fetchedAt": "2026-11-02T10:05:38.142Z"
+      "items": [
+        {
+          "name": "Atlantic Notebook",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Bordeaux Notebook",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Sahara Notebook",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Highlands Notebook",
+          "price": "$1.99",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:22:36.389Z"
     }
   }
 }

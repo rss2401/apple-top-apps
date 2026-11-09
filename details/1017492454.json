@@ -542,23 +542,13 @@
       "country": "JPN"
     },
     {
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/bd/07/9dbd07ca-e99c-b68c-02e0-40d08983cb26/APP_IPHONE_55-0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/3f/eb/833febb1-86f1-cfe6-f6d7-91def6632c01/APP_IPHONE_55-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/5e/6c/ca5e6cfb-99b8-e052-b8b8-08d1b2c3b8ed/APP_IPHONE_55-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/db/a0/27dba064-29a5-d90c-1ad2-d5e9830d0b97/APP_IPHONE_55-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/ce/e1/7bcee17a-62eb-f8ee-1f60-2432975e8df7/APP_IPHONE_55-4.png/392x696bb.png"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/f0/0c/b7f00cf0-a877-2d51-7575-cda4d3534a0c/APP_IPAD_PRO_129-0.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/94/49/089449d8-e7bd-a971-1eba-1ffb14c3dc83/APP_IPAD_PRO_129-1.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/0d/ab/5c0dab3f-62b2-6fb1-0e49-381c24c48843/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/0d/ab/5c0dab3f-62b2-6fb1-0e49-381c24c48843/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/0d/ab/5c0dab3f-62b2-6fb1-0e49-381c24c48843/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -692,13 +682,47 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence"
-      ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/bd/07/9dbd07ca-e99c-b68c-02e0-40d08983cb26/APP_IPHONE_55-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/3f/eb/833febb1-86f1-cfe6-f6d7-91def6632c01/APP_IPHONE_55-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/5e/6c/ca5e6cfb-99b8-e052-b8b8-08d1b2c3b8ed/APP_IPHONE_55-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/db/a0/27dba064-29a5-d90c-1ad2-d5e9830d0b97/APP_IPHONE_55-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/ce/e1/7bcee17a-62eb-f8ee-1f60-2432975e8df7/APP_IPHONE_55-4.png/392x696bb.png"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/f0/0c/b7f00cf0-a877-2d51-7575-cda4d3534a0c/APP_IPAD_PRO_129-0.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/94/49/089449d8-e7bd-a971-1eba-1ffb14c3dc83/APP_IPAD_PRO_129-1.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/d0/43/5dd04320-7868-efbb-ca69-aef86e28b6a2/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/d0/43/5dd04320-7868-efbb-ca69-aef86e28b6a2/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/d0/43/5dd04320-7868-efbb-ca69-aef86e28b6a2/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/100x100bb.jpg",
+      "trackId": 1017492454,
+      "trackName": "YouTube Music",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "artistId": 281956209,
+      "artistName": "Google",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-08T18:02:38Z",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "releaseNotes": "We update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements.",
+      "sellerName": "Google LLC",
+      "minimumOsVersion": "17.0",
+      "version": "9.45",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Connecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs, playlists you created, and artists you subscribed to\n\nStay on top of the trend and discover new music:\n● Check out new releases\n● Discover music based genres (Hip Hop, Pop, Country, Dance & Electronic, Blues, Indie & Alternative, Jazz, Kpop, Latin, Rock, and more)\n● Discover music based mood (Chill, Feel Good, Energy Booster, Sleep, Focus, Romance, Workout, Commute, Party)\n● Explore top charts from all over the world\n\nEnhanced your listening experience with unique features:\n● Song lyrics so you can sing along to your favorites\n● Upload songs from your devices so you can enjoy them in one place with YouTube Music\n● Listen on your phone, desktop, smart speaker, smart TV, car, smart watch and within your favorite apps.\n● Compatible with Google Maps, Waze, Google Assistant, and more.\n\nUpgrade to Music Premium (available in select countries) to enjoy:\n● Listen to music ad-free\n● Play music in the background\n● Switch seamlessly between song audio and music videos, only with YouTube Music\n\nYouTube Music Premium members may still see, hear, or experience branding or promotions embedded by creators.\n\n------------\nIf you subscribe via iTunes:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Accounts will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice\nPrivacy policy: https://www.google.com/policies/privacy",
+      "sellerUrl": "https://support.google.com/youtubemusic",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -773,43 +797,19 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "302176256",
+      "fileSizeBytes": "298637312",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1516047,
+      "userRatingCountForCurrentVersion": 1516206,
       "trackContentRating": "9+",
-      "averageUserRating": 4.76679,
-      "sellerUrl": "https://support.google.com/youtubemusic",
-      "averageUserRatingForCurrentVersion": 4.76679,
+      "averageUserRatingForCurrentVersion": 4.76661,
+      "bundleId": "com.google.ios.youtubemusic",
       "trackCensoredName": "YouTube Music",
       "trackViewUrl": "https://apps.apple.com/us/app/youtube-music/id1017492454?uo=4",
       "contentAdvisoryRating": "9+",
-      "trackId": 1017492454,
-      "trackName": "YouTube Music",
-      "genres": [
-        "Music",
-        "Entertainment"
-      ],
-      "releaseNotes": "We update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements.",
-      "releaseDate": "2015-11-12T15:56:43Z",
-      "genreIds": [
-        "6011",
-        "6016"
-      ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "minimumOsVersion": "17.0",
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-01T18:10:06Z",
-      "version": "9.44",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Connecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs, playlists you created, and artists you subscribed to\n\nStay on top of the trend and discover new music:\n● Check out new releases\n● Discover music based genres (Hip Hop, Pop, Country, Dance & Electronic, Blues, Indie & Alternative, Jazz, Kpop, Latin, Rock, and more)\n● Discover music based mood (Chill, Feel Good, Energy Booster, Sleep, Focus, Romance, Workout, Commute, Party)\n● Explore top charts from all over the world\n\nEnhanced your listening experience with unique features:\n● Song lyrics so you can sing along to your favorites\n● Upload songs from your devices so you can enjoy them in one place with YouTube Music\n● Listen on your phone, desktop, smart speaker, smart TV, car, smart watch and within your favorite apps.\n● Compatible with Google Maps, Waze, Google Assistant, and more.\n\nUpgrade to Music Premium (available in select countries) to enjoy:\n● Listen to music ad-free\n● Play music in the background\n● Switch seamlessly between song audio and music videos, only with YouTube Music\n\nYouTube Music Premium members may still see, hear, or experience branding or promotions embedded by creators.\n\n------------\nIf you subscribe via iTunes:\n\nPayment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Accounts will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.\n\nYouTube paid service terms: https://www.youtube.com/t/terms_paidservice\nPrivacy policy: https://www.google.com/policies/privacy",
-      "bundleId": "com.google.ios.youtubemusic",
+      "averageUserRating": 4.76661,
       "price": 0,
-      "artistId": 281956209,
-      "artistName": "Google",
-      "userRatingCount": 1516047,
+      "releaseDate": "2015-11-12T15:56:43Z",
+      "userRatingCount": 1516206,
       "country": "USA"
     }
   ]

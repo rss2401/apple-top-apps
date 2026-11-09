@@ -199,7 +199,7 @@
     },
     {
       "isGameCenterEnabled": false,
-      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,16 +332,16 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
       "kind": "software",
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/aa/8e/97aa8e85-a0a6-02d8-b956-b85bcf71b54e/3gs.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/1e/fd/c61efd41-4ad1-8ba5-a340-977e6d91b2ff/6.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d0/dd/03d0dd7d-6eda-095b-27c9-cc27285139a7/XS.png/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/jp/developer/sean-cho/id1660678472?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/76/df/7376dfdc-077f-f7ff-a957-29edfdbbe6e0/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/100x100bb.jpg",
@@ -353,17 +353,10 @@
         "ユーティリティ"
       ],
       "price": 150,
-      "bundleId": "com.seancho.Oldi",
-      "releaseDate": "2026-03-20T07:00:00Z",
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "Sean Cho",
       "minimumOsVersion": "18.0",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Sean Cho",
+      "releaseDate": "2026-03-20T07:00:00Z",
       "trackId": 6760838876,
       "trackName": "オルディ Oldi - Phone Camera",
       "currentVersionReleaseDate": "2026-10-29T16:15:16Z",
@@ -371,8 +364,7 @@
       "wrapperType": "software",
       "currency": "JPY",
       "description": "さまざまな旧型iPhoneカメラを体験できるアプリです。\n\n単なるフィルターではなく、センサーレイヤーから最もリアルに旧型iPhoneを再現します。\n\n対応機種: 3GS, 4, 4S, 5, 5S, SE, 6, 6S, 7, 8, X, XS",
-      "sellerUrl": "https://www.instagram.com/oldi_phonecamera/",
-      "averageUserRatingForCurrentVersion": 4.625,
+      "averageUserRatingForCurrentVersion": 4.65385,
       "languageCodesISO2A": [
         "AR",
         "NL",
@@ -392,13 +384,21 @@
       ],
       "fileSizeBytes": "29591552",
       "formattedPrice": "¥150",
-      "userRatingCountForCurrentVersion": 24,
+      "userRatingCountForCurrentVersion": 26,
       "trackContentRating": "4+",
-      "averageUserRating": 4.625,
+      "sellerUrl": "https://www.instagram.com/oldi_phonecamera/",
+      "bundleId": "com.seancho.Oldi",
+      "averageUserRating": 4.65385,
       "trackCensoredName": "オルディ Oldi - Phone Camera",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%82%AA%E3%83%AB%E3%83%87%E3%82%A3-oldi-phone-camera/id6760838876?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 24,
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "userRatingCount": 26,
       "country": "JPN"
     }
   ]

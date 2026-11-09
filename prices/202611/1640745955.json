@@ -2,7 +2,7 @@
   "id": "1640745955",
   "name": "Poe – Fast AI Chat",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:16:10.651Z",
+  "fetchedAt": "2026-11-09T10:29:10.715Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -18,14 +18,14 @@
           "amount": 199.99
         },
         {
-          "name": "Poe Monthly Subscription - Plus",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Poe Monthly Subscription - Basic",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Poe Monthly Subscription - Plus",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Poe Annual Subscription - Basic",
@@ -38,7 +38,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:16:10.651Z"
+      "fetchedAt": "2026-11-09T10:29:10.714Z"
     }
   }
 }

@@ -2,7 +2,7 @@
   "id": "1062022008",
   "name": "LumaFusion",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:55:12.468Z",
+  "fetchedAt": "2026-11-09T10:07:32.671Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -76,6 +76,78 @@
       ],
       "fetchedAt": "2026-11-02T09:55:10.942Z"
     },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Creator Pass Monthly",
+          "price": "£6.99",
+          "amount": 6.99
+        },
+        {
+          "name": "Creator Pass Yearly",
+          "price": "£51.99",
+          "amount": 51.99
+        },
+        {
+          "name": "Speed Ramping & Keyframing",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "Multicam Studio",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "FCPXML Export",
+          "price": "£14.99",
+          "amount": 14.99
+        },
+        {
+          "name": "CoreMelt PaintX Plug-In",
+          "price": "£19.99",
+          "amount": 19.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:07:29.699Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "クリエイターパス月額",
+          "price": "¥1,260",
+          "amount": 1260
+        },
+        {
+          "name": "クリエイターパス年間",
+          "price": "¥7,900",
+          "amount": 7900
+        },
+        {
+          "name": "Multicam Studio",
+          "price": "¥2,080",
+          "amount": 2080
+        },
+        {
+          "name": "FCPXML Export",
+          "price": "¥2,080",
+          "amount": 2080
+        },
+        {
+          "name": "スピードランプとキーフレーム",
+          "price": "¥2,080",
+          "amount": 2080
+        },
+        {
+          "name": "CoreMelt PaintX Plug-In",
+          "price": "¥3,000",
+          "amount": 3000
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:07:31.065Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -110,7 +182,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:55:12.459Z"
+      "fetchedAt": "2026-11-09T10:07:32.671Z"
     }
   }
 }

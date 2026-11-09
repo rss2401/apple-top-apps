@@ -211,15 +211,6 @@
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6d/20/ab6d20b1-6760-a373-b25d-9a514e440f1e/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [],
-      "advisories": [
-        "無制限のWebアクセス",
-        "頻繁／極度なアルコール、タバコ、ドラッグの使用または言及",
-        "まれ／軽度なコンテスト"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/familymart-co-ltd/id968346046?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6d/20/ab6d20b1-6760-a373-b25d-9a514e440f1e/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6d/20/ab6d20b1-6760-a373-b25d-9a514e440f1e/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -352,36 +343,41 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "bundleId": "jp.co.family.familymart-app",
-      "minimumOsVersion": "16.0",
-      "averageUserRatingForCurrentVersion": 4.34384,
+      "advisories": [
+        "無制限のWebアクセス",
+        "頻繁／極度なアルコール、タバコ、ドラッグの使用または言及",
+        "まれ／軽度なコンテスト"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/familymart-co-ltd/id968346046?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6d/20/ab6d20b1-6760-a373-b25d-9a514e440f1e/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/6d/20/ab6d20b1-6760-a373-b25d-9a514e440f1e/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "JA"
       ],
       "fileSizeBytes": "100842496",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 969462,
+      "userRatingCountForCurrentVersion": 975507,
       "trackContentRating": "17+",
-      "currentVersionReleaseDate": "2026-09-10T06:00:32Z",
+      "averageUserRatingForCurrentVersion": 4.34166,
+      "releaseNotes": "軽微な修正をしました。",
       "artistId": 968346046,
       "artistName": "FamilyMart Co.,Ltd.",
-      "genres": [
-        "ライフスタイル",
-        "フード／ドリンク"
-      ],
       "price": 0,
+      "bundleId": "jp.co.family.familymart-app",
+      "releaseDate": "2016-09-05T09:48:09Z",
       "trackId": 1138196572,
       "trackName": "ファミマのアプリ「ファミペイ」",
+      "minimumOsVersion": "16.0",
       "genreIds": [
         "6012",
         "6023"
       ],
-      "releaseNotes": "軽微な修正をしました。",
-      "releaseDate": "2016-09-05T09:48:09Z",
       "primaryGenreName": "Lifestyle",
       "primaryGenreId": 6012,
       "sellerName": "FamilyMart Co.,Ltd.",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-10T06:00:32Z",
       "version": "6.7.0",
       "wrapperType": "software",
       "currency": "JPY",
@@ -389,8 +385,12 @@
       "trackCensoredName": "ファミマのアプリ「ファミペイ」",
       "trackViewUrl": "https://apps.apple.com/jp/app/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%9E%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%95%E3%82%A1%E3%83%9F%E3%83%9A%E3%82%A4/id1138196572?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.34384,
-      "userRatingCount": 969462,
+      "averageUserRating": 4.34166,
+      "genres": [
+        "ライフスタイル",
+        "フード／ドリンク"
+      ],
+      "userRatingCount": 975507,
       "country": "JPN"
     }
   ]

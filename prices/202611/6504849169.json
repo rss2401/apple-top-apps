@@ -2,7 +2,7 @@
   "id": "6504849169",
   "name": "NetShort - Popular Dramas & TV",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:57:18.260Z",
+  "fetchedAt": "2026-11-09T10:14:41.723Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -105,16 +105,16 @@
         },
         {
           "name": "VIP Hebdomadaire",
-          "price": "29,99 €",
-          "amount": 29.99
+          "price": "22,99 €",
+          "amount": 22.99
         },
         {
           "name": "VIP Hebdomadaire",
-          "price": "22,99 €",
-          "amount": 22.99
+          "price": "29,99 €",
+          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:14.228Z"
+      "fetchedAt": "2026-11-09T10:14:37.604Z"
     },
     "gb": {
       "currency": "GBP",
@@ -141,13 +141,13 @@
         },
         {
           "name": "Weekly VIP",
-          "price": "£29.99",
-          "amount": 29.99
+          "price": "£19.99",
+          "amount": 19.99
         },
         {
           "name": "Weekly VIP",
-          "price": "£19.99",
-          "amount": 19.99
+          "price": "£29.99",
+          "amount": 29.99
         },
         {
           "name": "Weekly VIP",
@@ -165,12 +165,12 @@
           "amount": 24.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "£6.99",
-          "amount": 6.99
+          "name": "Weekly VIP",
+          "price": "£24.99",
+          "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:15.548Z"
+      "fetchedAt": "2026-11-09T10:14:39.072Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,24 +196,19 @@
           "amount": 3000
         },
         {
-          "name": "週間VIP",
-          "price": "¥3,000",
-          "amount": 3000
-        },
-        {
           "name": "コインチャージ",
           "price": "¥1,100",
           "amount": 1100
         },
         {
           "name": "週間VIP",
-          "price": "¥4,000",
-          "amount": 4000
+          "price": "¥3,000",
+          "amount": 3000
         },
         {
           "name": "週間VIP",
-          "price": "¥3,000",
-          "amount": 3000
+          "price": "¥4,000",
+          "amount": 4000
         },
         {
           "name": "週間VIP",
@@ -224,9 +219,14 @@
           "name": "週間VIP",
           "price": "¥3,000",
           "amount": 3000
+        },
+        {
+          "name": "コインチャージ",
+          "price": "¥2,500",
+          "amount": 2500
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:17.158Z"
+      "fetchedAt": "2026-11-09T10:14:40.714Z"
     },
     "us": {
       "currency": "USD",
@@ -257,14 +257,14 @@
           "amount": 24.99
         },
         {
-          "name": "Weekly VIP",
-          "price": "$19.99",
-          "amount": 19.99
+          "name": "One-time Purchase",
+          "price": "$6.99",
+          "amount": 6.99
         },
         {
           "name": "Weekly VIP",
-          "price": "$5.99",
-          "amount": 5.99
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "One-time Purchase",
@@ -273,16 +273,16 @@
         },
         {
           "name": "Weekly VIP",
-          "price": "$19.99",
-          "amount": 19.99
+          "price": "$24.99",
+          "amount": 24.99
         },
         {
           "name": "Weekly VIP",
-          "price": "$24.99",
-          "amount": 24.99
+          "price": "$5.99",
+          "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:18.259Z"
+      "fetchedAt": "2026-11-09T10:14:41.723Z"
     }
   }
 }

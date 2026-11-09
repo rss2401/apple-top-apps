@@ -2,7 +2,7 @@
   "id": "6811329112",
   "name": "Yuma : Menus de la semaine",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:09:54.778Z",
+  "fetchedAt": "2026-11-09T10:26:27.086Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -11,6 +11,11 @@
           "name": "Yuma Premium Annuel",
           "price": "29,99 €",
           "amount": 29.99
+        },
+        {
+          "name": "Yuma Premium Mensuel",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Yuma Premium Annuel",
@@ -28,9 +33,9 @@
           "amount": 39.99
         },
         {
-          "name": "Yuma Premium Mensuel",
-          "price": "9,99 €",
-          "amount": 9.99
+          "name": "Yuma Premium Annuel",
+          "price": "39,99 €",
+          "amount": 39.99
         },
         {
           "name": "Yuma Premium Annuel",
@@ -38,27 +43,22 @@
           "amount": 29.99
         },
         {
-          "name": "Yuma Premium Annuel",
-          "price": "39,99 €",
-          "amount": 39.99
-        },
-        {
           "name": "Yuma Premium Mensuel",
           "price": "9,99 €",
           "amount": 9.99
         },
         {
-          "name": "Yuma Premium Annuel",
-          "price": "149,99 €",
-          "amount": 149.99
+          "name": "Yuma Premium Hebdomadaire",
+          "price": "4,99 €",
+          "amount": 4.99
         },
         {
           "name": "Yuma Premium Annuel",
-          "price": "59,99 €",
-          "amount": 59.99
+          "price": "149,99 €",
+          "amount": 149.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:09:54.777Z"
+      "fetchedAt": "2026-11-09T10:26:27.086Z"
     }
   }
 }

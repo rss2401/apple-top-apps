@@ -2,7 +2,7 @@
   "id": "897446215",
   "name": "Canva（キャンバ） - 信じられないほど、素晴らしく",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:46:28.300Z",
+  "fetchedAt": "2026-11-09T10:03:57.182Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:25.152Z"
+      "fetchedAt": "2026-11-09T10:03:51.400Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,63 @@
           "amount": 27
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:26.760Z"
+      "fetchedAt": "2026-11-09T10:03:52.910Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "£12.99",
+          "amount": 12.99
+        },
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "£13.00",
+          "amount": 13
+        },
+        {
+          "name": "Canva Pro - Monthly",
+          "price": "£13.00",
+          "amount": 13
+        },
+        {
+          "name": "Canva Business - Monthly",
+          "price": "£18.00",
+          "amount": 18
+        },
+        {
+          "name": "Canva Credit",
+          "price": "£1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "£99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "£100.00",
+          "amount": 100
+        },
+        {
+          "name": "Canva Pro - Yearly",
+          "price": "£100.00",
+          "amount": 100
+        },
+        {
+          "name": "Canva Credit 2 Pack",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "Canva Business - Yearly",
+          "price": "£179.99",
+          "amount": 179.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:03:52.965Z"
     },
     "jp": {
       "currency": "JPY",
@@ -170,7 +226,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:27.317Z"
+      "fetchedAt": "2026-11-09T10:03:55.075Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +282,7 @@
           "amount": 143.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:28.299Z"
+      "fetchedAt": "2026-11-09T10:03:57.176Z"
     }
   }
 }

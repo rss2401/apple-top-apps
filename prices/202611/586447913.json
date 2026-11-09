@@ -2,8 +2,64 @@
   "id": "586447913",
   "name": "Microsoft Word",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:53:24.761Z",
+  "fetchedAt": "2026-11-09T10:11:06.246Z",
   "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "£8.49",
+          "amount": 8.49
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "£10.49",
+          "amount": 10.49
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "£8.49",
+          "amount": 8.49
+        },
+        {
+          "name": "Office 365 Home",
+          "price": "£7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "Microsoft 365 Personal",
+          "price": "£84.99",
+          "amount": 84.99
+        },
+        {
+          "name": "Office 365 Home",
+          "price": "£79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Microsoft 365 Family",
+          "price": "£104.99",
+          "amount": 104.99
+        },
+        {
+          "name": "Office 365 Home",
+          "price": "£7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "Office 365 Home",
+          "price": "£79.99",
+          "amount": 79.99
+        },
+        {
+          "name": "Microsoft 365 Premium Monthly",
+          "price": "£18.99",
+          "amount": 18.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:11:04.555Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:24.753Z"
+      "fetchedAt": "2026-11-09T10:11:06.245Z"
     }
   }
 }

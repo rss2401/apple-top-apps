@@ -199,9 +199,6 @@
       "userRatingCount": 6757
     },
     {
-      "artistViewUrl": "https://apps.apple.com/de/developer/skyjos-co-ltd/id499470116?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/82/b6/f982b600-1d22-a5e7-5faf-5edc22c9cd09/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/82/b6/f982b600-1d22-a5e7-5faf-5edc22c9cd09/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/85/8a/99858a73-e872-41a2-5af7-075f842967d8/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2025-09-11_at_19.05.30.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/58/1e/4f581ece-96f5-ea7a-9aca-2ef3b9569d13/Simulator_Screenshot_-_iPhone_13_Pro_Max_-_2025-09-11_at_19.13.17.png/320x480bb.jpg",
@@ -221,12 +218,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/95/a0/4b95a080-4a3b-4c66-cd57-bd30c2496918/pr_source.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/82/b6/f982b600-1d22-a5e7-5faf-5edc22c9cd09/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/50/de/cf50de06-b33f-5a1e-00b0-a0feef1fa051/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/skyjos-co-ltd/id499470116?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/50/de/cf50de06-b33f-5a1e-00b0-a0feef1fa051/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/50/de/cf50de06-b33f-5a1e-00b0-a0feef1fa051/FEAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -359,11 +358,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
-      "trackCensoredName": "FE File Explorer",
-      "trackViewUrl": "https://apps.apple.com/de/app/fe-file-explorer/id499470113?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.68828,
+      "averageUserRating": 4.68832,
+      "averageUserRatingForCurrentVersion": 4.68832,
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -380,39 +378,41 @@
         "SV",
         "ZH"
       ],
-      "fileSizeBytes": "107786240",
+      "fileSizeBytes": "111622144",
       "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 6769,
+      "userRatingCountForCurrentVersion": 6770,
       "trackContentRating": "4+",
-      "sellerUrl": "https://www.skyjos.com/fileexplorer",
-      "releaseNotes": "* Verbindungen können jetzt über MDM gelöscht werden. Weitere Informationen finden Sie im Benutzerhandbuch.\n* Fehlerbehebungen und Stabilitätsverbesserungen.",
-      "averageUserRatingForCurrentVersion": 4.68828,
+      "sellerUrl": "https://www.skyjos.com/fileexplorer/",
+      "trackCensoredName": "FE File Explorer",
+      "trackViewUrl": "https://apps.apple.com/de/app/fe-file-explorer/id499470113?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 499470116,
       "artistName": "Skyjos Co., Ltd.",
-      "genres": [
-        "Dienst­programme",
-        "Produktivität"
-      ],
       "price": 5.99,
-      "releaseDate": "2012-02-28T23:21:55Z",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Skyjos Co., Ltd.",
+      "minimumOsVersion": "15.0",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "trackId": 499470113,
-      "trackName": "FE File Explorer",
-      "currentVersionReleaseDate": "2026-08-28T23:57:36Z",
-      "version": "11.6.4",
+      "releaseDate": "2012-02-28T23:21:55Z",
+      "currentVersionReleaseDate": "2026-10-26T16:31:15Z",
+      "releaseNotes": "* Unterstützung für private Schlüssel im PuTTY-PPK-v3-Format für SFTP-Verbindungen hinzugefügt.\n* Unterstützung für Google Drive-Verknüpfungen hinzugefügt.\n* Ein Problem behoben, bei dem der iCloud-Stammordner fehlen konnte.\n* Fehler behoben und die Stabilität verbessert.",
+      "version": "11.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "FE File Explorer ist eine Dateimanager-App für iPhone und iPad. Sie ermöglicht nicht nur den Zugriff auf lokale Dateien, sondern auch auf Dateien auf Ihrem Computer, NAS und in Cloudspeichern. Übertragen Sie Dateien zwischen diesen Speicherorten. Streamen Sie Filme und Musik auf Ihr iPhone oder iPad. Zeigen Sie Dokumente, Fotos und andere Dateien auf Ihrem Computer oder in der Cloud direkt an und verwalten Sie sie, ohne sie auf Ihr iPhone oder iPad herunterladen zu müssen.\n\nFUNKTIONEN:\n* Zugriff auf Netzwerkfreigaben unter macOS, Windows und Linux sowie auf Time Capsule und NAS über das SMB/CIFS-Protokoll\n* Zugriff auf WebDAV-, FTP- und SFTP-Server\n* Zugriff auf Cloudspeicher: Google Drive, Dropbox, OneDrive und Box\n\n* Automatische Erkennung von Computern, NAS-Geräten und Servern beim Einrichten neuer Verbindungen\n* Dateien direkt auf dem iPhone oder iPad anzeigen, kopieren, verschieben, umbenennen und löschen\n* Filme und Musik von Netzwerkfreigaben und Cloudspeichern auf das iPhone oder iPad streamen\n* Fotos, Musik und Filme per AirPlay auf Apple TV wiedergeben\n* Dateien sortieren und durchsuchen\n* Dateien komprimieren und entpacken\n* Dunkelmodus\n* Unterstützung mehrerer Fenster auf dem iPad\n* Integration in die iOS-App „Dateien“\n* Verteilung von Konfigurationen über MDM (Mobile Device Management)\n* Integrierter FTP- und HTTP-Server\n\n* Dateiübertragung:\nDateien zwischen Servern, Cloudspeichern, iPhone und iPad kopieren.\nDateien per Drag-and-drop übertragen.\nDateiübertragung in der Nähe: Dateien direkt zwischen zwei iOS-Geräten in der Nähe übertragen.\n\n===== KONTAKT =====\nE-Mail: support@skyjos.com\nTwitter: @SkyjosApps\nFacebook: @SkyjosApp",
       "bundleId": "com.skyjos.fileexplorer",
-      "sellerName": "Skyjos Co., Ltd.",
-      "userRatingCount": 6769,
+      "trackId": 499470113,
+      "trackName": "FE File Explorer",
+      "genres": [
+        "Dienst­programme",
+        "Produktivität"
+      ],
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "userRatingCount": 6770,
       "country": "DEU"
     },
     {

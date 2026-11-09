@@ -197,18 +197,6 @@
       "userRatingCount": 5964
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/spurry-inc/id1034218010?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/83/75/26837521-0fd7-3453-681b-b010b587c57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/83/75/26837521-0fd7-3453-681b-b010b587c57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/37/c7/d137c7bc-2ef7-be98-ce05-2995d709250c/mzl.mzjvxjll.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5b/5e/70/5b5e7096-14d0-3c32-b2e5-6f82543dc4f5/mzl.vwqaqyzu.png/392x696bb.png",
@@ -224,6 +212,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/83/75/26837521-0fd7-3453-681b-b010b587c57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -356,22 +347,43 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/spurry-inc/id1034218010?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/83/75/26837521-0fd7-3453-681b-b010b587c57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/83/75/26837521-0fd7-3453-681b-b010b587c57d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "41339904",
+      "formattedPrice": "£4.99",
+      "userRatingCountForCurrentVersion": 6168,
+      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.75454,
+      "currentVersionReleaseDate": "2026-08-27T14:20:12Z",
       "releaseNotes": "Bug fixes and improvements.",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "trackId": 1113930361,
-      "trackName": "Life in the UK 2026 Test Prep",
+      "genres": [
+        "Education"
+      ],
       "artistId": 1034218010,
       "artistName": "Spurry Inc.",
       "price": 4.99,
-      "minimumOsVersion": "15.0",
+      "bundleId": "co.spurry.liukpaid",
+      "trackId": 1113930361,
+      "trackName": "Life in the UK 2026 Test Prep",
+      "releaseDate": "2016-05-16T19:58:12Z",
       "genreIds": [
         "6017"
       ],
-      "releaseDate": "2016-05-16T19:58:12Z",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "sellerName": "Spurry Inc.",
+      "minimumOsVersion": "15.0",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-08-27T14:20:12Z",
       "version": "3.1",
       "wrapperType": "software",
       "currency": "GBP",
@@ -379,20 +391,8 @@
       "trackCensoredName": "Life in the UK 2026 Test Prep",
       "trackViewUrl": "https://apps.apple.com/gb/app/life-in-the-uk-2026-test-prep/id1113930361?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.75406,
-      "averageUserRating": 4.75406,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "41339904",
-      "formattedPrice": "£4.99",
-      "userRatingCountForCurrentVersion": 6148,
-      "trackContentRating": "12+",
-      "genres": [
-        "Education"
-      ],
-      "bundleId": "co.spurry.liukpaid",
-      "userRatingCount": 6148,
+      "averageUserRating": 4.75454,
+      "userRatingCount": 6168,
       "country": "GBR"
     }
   ]

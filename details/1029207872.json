@@ -274,10 +274,13 @@
       "userRatingCount": 28966
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/4a/92/c44a9289-9c4a-b0fe-fd4b-652adec4ac9d/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/4a/92/c44a9289-9c4a-b0fe-fd4b-652adec4ac9d/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/13/43/9a134315-288b-050b-3531-0de3c4e228be/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/13/43/9a134315-288b-050b-3531-0de3c4e228be/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -431,39 +434,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/d5/9f/55d59f03-566e-1812-b719-34b500da9d76/02190c22-84a2-4271-90c9-feb6dae20e4b_APP_IPAD_PRO_129-6.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/4a/92/c44a9289-9c4a-b0fe-fd4b-652adec4ac9d/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/13/43/9a134315-288b-050b-3531-0de3c4e228be/keep_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "* Bug fixes and performance improvements",
+      "trackCensoredName": "Google Keep - Notes and lists",
       "trackViewUrl": "https://apps.apple.com/us/app/google-keep-notes-and-lists/id1029207872?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.58413,
-      "trackCensoredName": "Google Keep - Notes and lists",
-      "averageUserRatingForCurrentVersion": 4.58413,
-      "artistId": 281956209,
-      "genres": [
-        "Productivity",
-        "Business"
-      ],
-      "price": 0,
-      "bundleId": "com.google.Keep",
-      "trackId": 1029207872,
-      "trackName": "Google Keep - Notes and lists",
+      "averageUserRating": 4.58406,
       "minimumOsVersion": "18.0",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "releaseDate": "2015-09-24T19:53:14Z",
-      "sellerName": "Google LLC",
+      "bundleId": "com.google.Keep",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-26T17:26:42Z",
-      "version": "2.2026.43101",
+      "sellerName": "Google LLC",
+      "releaseDate": "2015-09-24T19:53:14Z",
+      "trackId": 1029207872,
+      "trackName": "Google Keep - Notes and lists",
+      "currentVersionReleaseDate": "2026-11-04T18:42:58Z",
+      "version": "2.2026.44103",
       "wrapperType": "software",
       "currency": "USD",
       "description": "• Capture, edit, share, and collaborate on your notes on any device, anywhere.\n• Add notes, lists, photos, and audio to Keep.\n• Organize your notes with labels and colors.\n• Set and forget. Get reminded about a note at the right time or place.\n• Record a voice memo and have it automatically transcribed.\n• Grab the text from an image to help you quickly find that note again through search.\n\nWHEN AND WHERE YOU NEED IT\nNeed to remember to pick up some groceries? Set a location-based reminder to pull up your grocery list right when you get to the store. Need to finish a to-do? Set a time-based reminder to make sure you never miss a thing.\n\nSHARE YOUR THOUGHTS WITH FAMILY AND FRIENDS\nNext time you go to the store, share your shopping list on Keep and watch as items get checked off in real time. No need for text messages back and forth. Get things done together, faster.\n\nFIND WHAT YOU NEED, FAST\nQuickly filter and search for notes by color and other attributes like lists with the label “To-dos”, audio notes with reminders or just see shared notes. Find what you're looking for even faster, and let Keep do the remembering for you.\n\nALWAYS WITHIN REACH\nKeep works on your phone, tablet and computer. Everything you add to Keep syncs across your devices so your important stuff is always with you.\n\nTry Google Keep on the web at http://keep.google.com and find it in the Chrome Web Store at http://g.co/keepinchrome.",
+      "averageUserRatingForCurrentVersion": 4.58406,
       "sellerUrl": "http://www.google.com/keep/",
       "languageCodesISO2A": [
         "AF",
@@ -540,13 +535,18 @@
         "CY",
         "ZU"
       ],
-      "fileSizeBytes": "229186560",
+      "fileSizeBytes": "217360384",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 29022,
+      "userRatingCountForCurrentVersion": 29028,
       "trackContentRating": "4+",
-      "releaseNotes": "* Bug fixes and performance improvements",
+      "price": 0,
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "artistId": 281956209,
       "artistName": "Google",
-      "userRatingCount": 29022,
+      "userRatingCount": 29028,
       "country": "USA"
     }
   ]

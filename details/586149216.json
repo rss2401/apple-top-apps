@@ -401,7 +401,10 @@
       "country": "JPN"
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/monash-university/id427380448?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/4d/b5/cb4db510-2321-a42b-9ca0-ed7bbd9f9fa2/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_13.59.58.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/63/16/f26316fd-eb9b-ffb5-ed09-ffe07d5602d1/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.01.00.png/320x480bb.jpg",
@@ -414,17 +417,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/85/57/57855770-987d-4896-8db0-3bf958ed4605/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.39.56.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/f5/f4/0ff5f42d-03f6-ee53-c246-a1e388de3005/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.39.35.png/320x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/monash-university/id427380448?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/ff/07/35ff07e7-8ab7-33d2-6539-44d164524002/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.22.56.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/e8/03/8de8035d-51f5-9131-000e-abc65e47eb81/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.51.24.png/360x480bb.jpg",
@@ -433,6 +425,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/43/21/09432104-f92b-c077-9dea-26cf96523945/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.23.37.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -565,7 +561,17 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 4.20594,
+      "advisories": [
+        "Infrequent/Mild Medical/Treatment Information"
+      ],
+      "kind": "software",
+      "trackCensoredName": "Monash FODMAP Diet",
+      "trackViewUrl": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=4",
+      "contentAdvisoryRating": "12+",
+      "releaseNotes": "Smarter sync, better feel. Turn on iCloud sync in Settings to keep your FODMAP filters, country, and measurement units up to date across all your devices and enjoy more reliable syncing with fewer duplicate entries. We've added haptic feedback throughout the app, improved VoiceOver support across Diary, Guide, and Recipes (including better announcements on the foldable iPhone), and polished the app's animations.",
+      "averageUserRating": 4.20301,
+      "averageUserRatingForCurrentVersion": 4.20301,
+      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -577,40 +583,34 @@
       ],
       "fileSizeBytes": "31853568",
       "formattedPrice": "$7.99",
+      "userRatingCountForCurrentVersion": 2591,
       "trackContentRating": "12+",
-      "userRatingCountForCurrentVersion": 2588,
-      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
+      "artistId": 427380448,
+      "artistName": "Monash University",
       "genres": [
         "Medical",
         "Health & Fitness"
       ],
       "price": 7.99,
-      "artistId": 427380448,
-      "artistName": "Monash University",
+      "bundleId": "com.Monash.FODMAP",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "releaseDate": "2012-12-17T18:43:36Z",
-      "trackName": "Monash FODMAP Diet",
       "trackId": 586149216,
+      "trackName": "Monash FODMAP Diet",
+      "minimumOsVersion": "17",
       "genreIds": [
         "6020",
         "6013"
       ],
-      "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
-      "minimumOsVersion": "17",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
       "sellerName": "Monash University",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "Smarter sync, better feel. Turn on iCloud sync in Settings to keep your FODMAP filters, country, and measurement units up to date across all your devices and enjoy more reliable syncing with fewer duplicate entries. We've added haptic feedback throughout the app, improved VoiceOver support across Diary, Guide, and Recipes (including better announcements on the foldable iPhone), and polished the app's animations.",
+      "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
       "version": "5",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Researchers at Monash University have developed the low FODMAP diet and a corresponding app to assist in the management of gastrointestinal symptoms associated with irritable bowel syndrome (IBS). The Monash University FODMAP diet works by swapping foods high in fermentable carbohydrates (FODMAPs), with low FODMAP alternatives. Around 75% of people with IBS experience symptom relief on a low FODMAP diet.\n\nThe app comes directly from the research team at Monash and includes the following:\n\n- General information about the FODMAP diet and IBS.\n- Easy to understand tutorials to guide you through the app and the 3-Step FODMAP diet.\n- A Food Guide detailing the FODMAP content for hundreds of foods using a simple 'traffic light system'. \n- A list of branded products that have been certified by Monash as low FODMAP.\n- A collection of over 70 nutritious, low FODMAP recipes.\n- Functions that allow you to create your own shopping list and add notes to individual foods\n- A Diary that enables you to record food eaten, IBS symptoms, bowel habits and stress levels. The Diary will also guide you through step 2 of the diet - FODMAP reintroduction.\n- The ability to adjust units of measurement (metric or imperial) and activate colour blindness assistance.",
-      "trackCensoredName": "Monash FODMAP Diet",
-      "trackViewUrl": "https://apps.apple.com/us/app/monash-fodmap-diet/id586149216?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.20594,
-      "bundleId": "com.Monash.FODMAP",
-      "userRatingCount": 2588,
+      "userRatingCount": 2591,
       "country": "USA"
     },
     {
@@ -631,8 +631,8 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen"
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -766,19 +766,13 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen"
+      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/monash-university/id427380448?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 3.45045,
-      "fileSizeBytes": "31853568",
-      "formattedPrice": "8,99 €",
-      "userRatingCountForCurrentVersion": 111,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -788,13 +782,20 @@
         "NB",
         "ES"
       ],
+      "fileSizeBytes": "31853568",
+      "formattedPrice": "8,99 €",
+      "userRatingCountForCurrentVersion": 111,
+      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 3.45045,
+      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
       "releaseNotes": "Intelligentere Synchronisierung, besseres Gefühl. Aktivieren Sie die iCloud-Synchronisierung in den Einstellungen, um Ihre FODMAP-Filter, Ihr Land und Ihre Maßeinheiten auf allen Geräten aktuell zu halten – und profitieren Sie von einer zuverlässigeren Synchronisierung mit weniger doppelten Einträgen. Wir haben haptisches Feedback in der gesamten App hinzugefügt, die VoiceOver-Unterstützung in den Bereichen Tagebuch, Leitfaden und Rezepte verbessert (einschließlich besserer Ansagen auf dem faltbaren iPhone) und die Animationen der App überarbeitet.",
-      "artistName": "Monash University",
       "artistId": 427380448,
-      "releaseDate": "2012-12-17T18:43:36Z",
+      "artistName": "Monash University",
       "price": 8.99,
-      "trackName": "Monash FODMAP Diet",
+      "bundleId": "com.Monash.FODMAP",
+      "releaseDate": "2012-12-17T18:43:36Z",
       "trackId": 586149216,
+      "trackName": "Monash FODMAP Diet",
       "minimumOsVersion": "17",
       "genreIds": [
         "6020",
@@ -802,6 +803,8 @@
       ],
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
+      "sellerName": "Monash University",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
       "version": "5",
       "wrapperType": "software",
@@ -815,36 +818,20 @@
         "Medizin",
         "Gesundheit und Fitness"
       ],
-      "bundleId": "com.Monash.FODMAP",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Monash University",
       "userRatingCount": 111,
       "country": "DEU"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/monash-university/id427380448?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/monash-university/id427380448?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/79/25/4b7925e9-b8aa-b615-4425-bb90a6686c5f/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.07.49.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/1e/8d/7e1e8d33-1b48-28a9-94a5-3e09fa4f6854/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.04.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/10/de/9a10de99-933b-f04c-cdca-d5c8c3c2aece/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.09.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/cb/00/4ecb0026-5b76-e414-492e-90c69e1f0235/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.21.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/c5/0d/16c50da9-7db9-5aab-4767-aa491f14450c/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.42.png/320x480bb.jpg"
+      "advisories": [
+        "Scènes rares/modérées de contenu à caractère médical"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e8/35/bde835ad-5574-8bd3-e0c1-f2ae81294767/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.24.50.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/85/bc/cc85bc8a-295d-e148-fbe3-5e277a0f5418/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.55.49.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/3d/6a/ee3d6a32-9dd9-a91e-3519-61b76a9ea693/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.43.17.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/97/64/349764e4-3af1-6de9-e286-8419437811db/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.56.02.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/91/ad/d891adcd-3d06-8d92-3061-5ad2578cf520/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.25.35.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -977,17 +964,55 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [
-        "Scènes rares/modérées de contenu à caractère médical"
-      ],
       "kind": "software",
-      "bundleId": "com.Monash.FODMAP",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.24022,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/e8/35/bde835ad-5574-8bd3-e0c1-f2ae81294767/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.24.50.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/85/bc/cc85bc8a-295d-e148-fbe3-5e277a0f5418/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.55.49.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/3d/6a/ee3d6a32-9dd9-a91e-3519-61b76a9ea693/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.43.17.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/97/64/349764e4-3af1-6de9-e286-8419437811db/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-11-05_at_10.56.02.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/91/ad/d891adcd-3d06-8d92-3061-5ad2578cf520/Simulator_Screenshot_-_iPad_Air_13-inch__U0028M3_U0029_-_2025-04-28_at_14.25.35.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/79/25/4b7925e9-b8aa-b615-4425-bb90a6686c5f/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.07.49.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/1e/8d/7e1e8d33-1b48-28a9-94a5-3e09fa4f6854/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.04.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/10/de/9a10de99-933b-f04c-cdca-d5c8c3c2aece/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.09.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/cb/00/4ecb0026-5b76-e414-492e-90c69e1f0235/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.21.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/c5/0d/16c50da9-7db9-5aab-4767-aa491f14450c/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.08.42.png/320x480bb.jpg"
+      ],
       "trackCensoredName": "Monash FODMAP Diet",
       "trackViewUrl": "https://apps.apple.com/fr/app/monash-fodmap-diet/id586149216?uo=4",
-      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.24022,
+      "releaseNotes": "Synchronisation plus intelligente, meilleure sensation. Activez la synchronisation iCloud dans Réglages pour garder vos filtres FODMAP, votre pays et vos unités de mesure à jour sur tous vos appareils, et profitez d'une synchronisation plus fiable avec moins de doublons. Nous avons ajouté des retours haptiques dans toute l'application, amélioré la prise en charge de VoiceOver dans le Journal, le Guide et les Recettes (y compris de meilleures annonces sur l'iPhone pliable), et peaufiné les animations de l'application.",
+      "artistId": 427380448,
+      "artistName": "Monash University",
+      "genres": [
+        "Médecine",
+        "Forme et santé"
+      ],
+      "price": 8.99,
+      "bundleId": "com.Monash.FODMAP",
+      "genreIds": [
+        "6020",
+        "6013"
+      ],
+      "releaseDate": "2012-12-17T18:43:36Z",
+      "sellerName": "Monash University",
+      "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "17",
+      "trackId": 586149216,
+      "trackName": "Monash FODMAP Diet",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "version": "5",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Des chercheurs de l'Université Monash ont mis au point le régime à faible teneur en FODMAP et une application correspondante pour aider à la prise en charge des symptômes gastro-intestinaux associés au syndrome du côlon irritable (SCI). Le régime FODMAP de l'Université Monash fonctionne en remplaçant des aliments riches en glucides fermentescibles (FODMAP) par des alternatives à faible teneur en FODMAP. Environ 75 % des personnes atteintes du SCI ressentent un soulagement des symptômes grâce à un régime pauvre en FODMAP.\n\nL'application provient directement de l'équipe de recherche de Monash et comprend les éléments suivants :\n\n- Informations générales sur le régime FODMAP et le SCI.\n- Des tutoriels faciles à comprendre pour vous guider à travers l'application et le régime FODMAP en 3 étapes.\n- Un guide alimentaire détaillant la teneur en FODMAP de centaines d'aliments à l'aide d'un simple « système de feux de signalisation ». \n- Une liste de produits de marque qui ont été certifiés par Monash comme étant à faible teneur en FODMAP.\n- Une collection de plus de 70 recettes nutritives à faible teneur en FODMAP. \n- Des fonctions qui vous permettent de créer votre propre liste d'achats et d'ajouter des notes sur des aliments individuels\n- Un journal qui vous permet de noter les aliments consommés, les symptômes du SCI, les habitudes intestinales et les niveaux de stress. Le journal vous guidera également à travers l'étape 2 du régime - la réintroduction des FODMAP.\nLa possibilité d'adapter les unités de mesure (métriques ou impériales) et d'activer l'aide au daltonisme.",
       "averageUserRatingForCurrentVersion": 4.24022,
+      "sellerUrl": "https://www.monashfodmap.com/contact-us/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -1001,36 +1026,10 @@
       "formattedPrice": "8,99 €",
       "userRatingCountForCurrentVersion": 179,
       "trackContentRating": "12+",
-      "artistId": 427380448,
-      "artistName": "Monash University",
-      "genres": [
-        "Médecine",
-        "Forme et santé"
-      ],
-      "price": 8.99,
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "sellerName": "Monash University",
-      "trackId": 586149216,
-      "trackName": "Monash FODMAP Diet",
-      "minimumOsVersion": "17",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2012-12-17T18:43:36Z",
-      "genreIds": [
-        "6020",
-        "6013"
-      ],
-      "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
-      "releaseNotes": "Synchronisation plus intelligente, meilleure sensation. Activez la synchronisation iCloud dans Réglages pour garder vos filtres FODMAP, votre pays et vos unités de mesure à jour sur tous vos appareils, et profitez d'une synchronisation plus fiable avec moins de doublons. Nous avons ajouté des retours haptiques dans toute l'application, amélioré la prise en charge de VoiceOver dans le Journal, le Guide et les Recettes (y compris de meilleures annonces sur l'iPhone pliable), et peaufiné les animations de l'application.",
-      "version": "5",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Des chercheurs de l'Université Monash ont mis au point le régime à faible teneur en FODMAP et une application correspondante pour aider à la prise en charge des symptômes gastro-intestinaux associés au syndrome du côlon irritable (SCI). Le régime FODMAP de l'Université Monash fonctionne en remplaçant des aliments riches en glucides fermentescibles (FODMAP) par des alternatives à faible teneur en FODMAP. Environ 75 % des personnes atteintes du SCI ressentent un soulagement des symptômes grâce à un régime pauvre en FODMAP.\n\nL'application provient directement de l'équipe de recherche de Monash et comprend les éléments suivants :\n\n- Informations générales sur le régime FODMAP et le SCI.\n- Des tutoriels faciles à comprendre pour vous guider à travers l'application et le régime FODMAP en 3 étapes.\n- Un guide alimentaire détaillant la teneur en FODMAP de centaines d'aliments à l'aide d'un simple « système de feux de signalisation ». \n- Une liste de produits de marque qui ont été certifiés par Monash comme étant à faible teneur en FODMAP.\n- Une collection de plus de 70 recettes nutritives à faible teneur en FODMAP. \n- Des fonctions qui vous permettent de créer votre propre liste d'achats et d'ajouter des notes sur des aliments individuels\n- Un journal qui vous permet de noter les aliments consommés, les symptômes du SCI, les habitudes intestinales et les niveaux de stress. Le journal vous guidera également à travers l'étape 2 du régime - la réintroduction des FODMAP.\nLa possibilité d'adapter les unités de mesure (métriques ou impériales) et d'activer l'aide au daltonisme.",
       "userRatingCount": 179,
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/4d/b5/cb4db510-2321-a42b-9ca0-ed7bbd9f9fa2/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_13.59.58.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/63/16/f26316fd-eb9b-ffb5-ed09-ffe07d5602d1/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-04-28_at_14.01.00.png/320x480bb.jpg",
@@ -1052,6 +1051,13 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/monash-university/id427380448?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1184,18 +1190,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/monash-university/id427380448?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/68/c0a36894-1197-e0cf-6ca9-4f14b6bc25f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.jpeg/100x100bb.jpg",
       "advisories": [
         "Infrequent/Mild Medical/Treatment Information"
       ],
-      "releaseNotes": "Smarter sync, better feel. Turn on iCloud sync in Settings to keep your FODMAP filters, country, and measurement units up to date across all your devices and enjoy more reliable syncing with fewer duplicate entries. We've added haptic feedback throughout the app, improved VoiceOver support across Diary, Guide, and Recipes (including better announcements on the foldable iPhone), and polished the app's animations.",
-      "averageUserRatingForCurrentVersion": 4.11329,
+      "kind": "software",
       "sellerUrl": "https://www.monashfodmap.com/contact-us/",
       "languageCodesISO2A": [
         "EN",
@@ -1208,38 +1206,40 @@
       ],
       "fileSizeBytes": "31853568",
       "formattedPrice": "£7.99",
-      "userRatingCountForCurrentVersion": 459,
+      "userRatingCountForCurrentVersion": 460,
       "trackContentRating": "12+",
+      "contentAdvisoryRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.11522,
+      "averageUserRating": 4.11522,
+      "trackCensoredName": "Monash FODMAP Diet",
+      "trackViewUrl": "https://apps.apple.com/gb/app/monash-fodmap-diet/id586149216?uo=4",
       "artistId": 427380448,
       "artistName": "Monash University",
+      "genres": [
+        "Medical",
+        "Health & Fitness"
+      ],
       "price": 7.99,
+      "bundleId": "com.Monash.FODMAP",
       "trackId": 586149216,
       "trackName": "Monash FODMAP Diet",
-      "bundleId": "com.Monash.FODMAP",
-      "sellerName": "Monash University",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
+      "releaseDate": "2012-12-17T18:43:36Z",
+      "minimumOsVersion": "17",
       "genreIds": [
         "6020",
         "6013"
       ],
-      "releaseDate": "2012-12-17T18:43:36Z",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
+      "sellerName": "Monash University",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Smarter sync, better feel. Turn on iCloud sync in Settings to keep your FODMAP filters, country, and measurement units up to date across all your devices and enjoy more reliable syncing with fewer duplicate entries. We've added haptic feedback throughout the app, improved VoiceOver support across Diary, Guide, and Recipes (including better announcements on the foldable iPhone), and polished the app's animations.",
       "currentVersionReleaseDate": "2026-10-22T00:48:09Z",
       "version": "5",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Researchers at Monash University have developed the low FODMAP diet and a corresponding app to assist in the management of gastrointestinal symptoms associated with irritable bowel syndrome (IBS). The Monash University FODMAP diet works by swapping foods high in fermentable carbohydrates (FODMAPs), with low FODMAP alternatives. Around 75% of people with IBS experience symptom relief on a low FODMAP diet.\n\nThe app comes directly from the research team at Monash and includes the following:\n\n- General information about the FODMAP diet and IBS.\n- Easy to understand tutorials to guide you through the app and the 3-Step FODMAP diet.\n- A Food Guide detailing the FODMAP content for hundreds of foods using a simple 'traffic light system'. \n- A list of branded products that have been certified by Monash as low FODMAP.\n- A collection of over 70 nutritious, low FODMAP recipes.\n- Functions that allow you to create your own shopping list and add notes to individual foods\n- A Diary that enables you to record food eaten, IBS symptoms, bowel habits and stress levels. The Diary will also guide you through step 2 of the diet - FODMAP reintroduction.\n- The ability to adjust units of measurement (metric or imperial) and activate colour blindness assistance.",
-      "trackCensoredName": "Monash FODMAP Diet",
-      "trackViewUrl": "https://apps.apple.com/gb/app/monash-fodmap-diet/id586149216?uo=4",
-      "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.11329,
-      "minimumOsVersion": "17",
-      "genres": [
-        "Medical",
-        "Health & Fitness"
-      ],
-      "userRatingCount": 459,
+      "userRatingCount": 460,
       "country": "GBR"
     }
   ]

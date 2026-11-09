@@ -2,7 +2,7 @@
   "id": "294631159",
   "name": "WeatherPro",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:01:15.475Z",
+  "fetchedAt": "2026-11-09T10:18:21.135Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -23,7 +23,28 @@
           "amount": 0.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:01:15.475Z"
+      "fetchedAt": "2026-11-09T10:18:19.510Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Europe Premium 12 mois",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Europe Premium 3 mois",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": " Premium Mensuel",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:18:21.134Z"
     }
   }
 }

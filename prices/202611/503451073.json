@@ -2,7 +2,7 @@
   "id": "503451073",
   "name": "Commerce B2B avec Alibaba",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:02:48.587Z",
+  "fetchedAt": "2026-11-09T10:19:37.545Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -28,7 +28,33 @@
           "amount": 22.9
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:48.587Z"
+      "fetchedAt": "2026-11-09T10:19:36.050Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [
+        {
+          "name": "Elite (Annual)",
+          "price": "£990.00",
+          "amount": 990
+        },
+        {
+          "name": "Elite (Monthly)",
+          "price": "£99.00",
+          "amount": 99
+        },
+        {
+          "name": "Pro (Annual)",
+          "price": "£199.00",
+          "amount": 199
+        },
+        {
+          "name": "Pro (Monthly)",
+          "price": "£19.90",
+          "amount": 19.9
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:19:37.545Z"
     }
   }
 }

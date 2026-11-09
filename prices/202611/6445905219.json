@@ -2,8 +2,120 @@
   "id": "6445905219",
   "name": "DramaBox - Stream Drama Shorts",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:57:25.595Z",
+  "fetchedAt": "2026-11-09T10:14:54.084Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Sonderangebot",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Sonderangebot",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Sonderangebot",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Mitgliedschaft",
+          "price": "14,99 €",
+          "amount": 14.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:14:51.002Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Offre spéciale",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Offre spéciale",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Offre spéciale",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Adhésion",
+          "price": "8,99 €",
+          "amount": 8.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:14:52.513Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -49,16 +161,16 @@
         },
         {
           "name": "Membership",
-          "price": "$5.99",
-          "amount": 5.99
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Membership",
-          "price": "$19.99",
-          "amount": 19.99
+          "price": "$5.99",
+          "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:25.594Z"
+      "fetchedAt": "2026-11-09T10:14:54.081Z"
     }
   }
 }

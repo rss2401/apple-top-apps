@@ -2,7 +2,7 @@
   "id": "6670324846",
   "name": "Grok",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:16:02.994Z",
+  "fetchedAt": "2026-11-09T10:08:44.957Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:58.753Z"
+      "fetchedAt": "2026-11-09T10:08:40.110Z"
     },
     "fr": {
       "currency": "EUR",
@@ -89,9 +89,9 @@
           "amount": 60
         },
         {
-          "name": "SuperGrok Heavy",
-          "price": "349,00 €",
-          "amount": 349
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "Extra Usage Credits 100 USD",
@@ -99,9 +99,9 @@
           "amount": 100
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
+          "name": "SuperGrok Heavy",
+          "price": "349,00 €",
+          "amount": 349
         },
         {
           "name": "SuperGrok",
@@ -114,7 +114,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-02T10:16:00.237Z"
+      "fetchedAt": "2026-11-09T10:08:41.595Z"
     },
     "gb": {
       "currency": "GBP",
@@ -150,12 +150,12 @@
           "amount": 300
         },
         {
-          "name": "SuperGrok Plus",
+          "name": "Extra Usage Credits 100 USD",
           "price": "£100.00",
           "amount": 100
         },
         {
-          "name": "Extra Usage Credits 100 USD",
+          "name": "SuperGrok Plus",
           "price": "£100.00",
           "amount": 100
         },
@@ -170,7 +170,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-02T10:16:01.681Z"
+      "fetchedAt": "2026-11-09T10:08:43.068Z"
     },
     "us": {
       "currency": "USD",
@@ -206,27 +206,27 @@
           "amount": 300
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "$100.00",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "$100.00",
           "amount": 100
         },
         {
-          "name": "SuperGrok",
-          "price": "$30.00",
-          "amount": 30
+          "name": "SuperGrok Plus",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
           "price": "$300.00",
           "amount": 300
+        },
+        {
+          "name": "SuperGrok",
+          "price": "$30.00",
+          "amount": 30
         }
       ],
-      "fetchedAt": "2026-11-02T10:16:02.994Z"
+      "fetchedAt": "2026-11-09T10:08:44.957Z"
     }
   }
 }

@@ -61,7 +61,7 @@
         "name": "Apple Music Classical",
         "releaseDate": "2023-03-28",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/81/c9/d481c9f0-1cf5-4fe4-febb-414ad783726c/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-85-220-0.png/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/bc/44/8bbc44fd-a002-8eb9-ad68-b52c261f9c64/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/100x100bb.jpg",
         "genres": [
           {
             "genreId": "6011",
@@ -98,12 +98,17 @@
         "name": "Apple Support",
         "releaseDate": "2016-12-14",
         "kind": "apps",
-        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/77/89/f0778921-4693-2517-4831-45e49b9746b5/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220-0.png/100x100bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/1e/02/bd1e028f-cab6-5301-16e2-c9ced7bc9a9f/AppIcon-0-1x_U007epad-0-0-0-1-0-0-P3-0-0-0-85-220-0.png/100x100bb.jpg",
         "genres": [
           {
             "genreId": "6002",
             "name": "Utilities",
             "url": "https://itunes.apple.com/genre/id6002"
+          },
+          {
+            "genreId": "6006",
+            "name": "Reference",
+            "url": "https://itunes.apple.com/genre/id6006"
           }
         ],
         "url": "https://apps.apple.com/us/app/apple-support/id1130498044?uo=4"

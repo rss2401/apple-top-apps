@@ -1,8 +1,8 @@
 {
   "id": "570060128",
-  "name": "Duolingo - Language Lessons",
+  "name": "Duolingo-英語/韓国語などのリスニングや英単語の練習",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:53:39.248Z",
+  "fetchedAt": "2026-11-09T10:04:29.905Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -29,36 +29,36 @@
         },
         {
           "name": "Super Duolingo",
+          "price": "¥588.00",
+          "amount": 588
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥588.00",
+          "amount": 588
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥588.00",
+          "amount": 588
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥588.00",
+          "amount": 588
+        },
+        {
+          "name": "Super Duolingo",
           "price": "¥738.00",
           "amount": 738
         },
         {
           "name": "Super Duolingo",
-          "price": "¥588.00",
-          "amount": 588
-        },
-        {
-          "name": "Super Duolingo",
-          "price": "¥588.00",
-          "amount": 588
-        },
-        {
-          "name": "Super Duolingo",
-          "price": "¥588.00",
-          "amount": 588
-        },
-        {
-          "name": "Super Duolingo",
           "price": "¥738.00",
           "amount": 738
-        },
-        {
-          "name": "Super Duolingo - Family Plan",
-          "price": "¥958.00",
-          "amount": 958
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:33.744Z"
+      "fetchedAt": "2026-11-09T10:04:22.182Z"
     },
     "de": {
       "currency": "EUR",
@@ -100,11 +100,6 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "110,99 €",
-          "amount": 110.99
-        },
-        {
-          "name": "Super Duolingo",
           "price": "89,99 €",
           "amount": 89.99
         },
@@ -112,9 +107,14 @@
           "name": "Super Duolingo - Family Plan",
           "price": "122,99 €",
           "amount": 122.99
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "89,99 €",
+          "amount": 89.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:35.620Z"
+      "fetchedAt": "2026-11-09T10:04:24.185Z"
     },
     "fr": {
       "currency": "EUR",
@@ -151,11 +151,6 @@
         },
         {
           "name": "Super Duolingo",
-          "price": "137,99 €",
-          "amount": 137.99
-        },
-        {
-          "name": "Super Duolingo",
           "price": "94,99 €",
           "amount": 94.99
         },
@@ -168,9 +163,14 @@
           "name": "Super Duolingo - Family Plan",
           "price": "122,99 €",
           "amount": 122.99
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "137,99 €",
+          "amount": 137.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:37.071Z"
+      "fetchedAt": "2026-11-09T10:04:25.727Z"
     },
     "gb": {
       "currency": "GBP",
@@ -226,7 +226,63 @@
           "amount": 68.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:38.577Z"
+      "fetchedAt": "2026-11-09T10:04:27.445Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Super Duolingo",
+          "price": "¥9,900",
+          "amount": 9900
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥11,400",
+          "amount": 11400
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥14,200",
+          "amount": 14200
+        },
+        {
+          "name": "ジェムいっぱいのタル (1200)",
+          "price": "¥800",
+          "amount": 800
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥14,200",
+          "amount": 14200
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥11,400",
+          "amount": 11400
+        },
+        {
+          "name": "ジェムの荷車 (3000)",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥9,900",
+          "amount": 9900
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "¥14,200",
+          "amount": 14200
+        },
+        {
+          "name": "ジェムの荷車 (6500)",
+          "price": "¥3,000",
+          "amount": 3000
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:04:28.924Z"
     },
     "us": {
       "currency": "USD",
@@ -267,22 +323,22 @@
           "amount": 119.99
         },
         {
-          "name": "Super Duolingo",
-          "price": "$95.99",
-          "amount": 95.99
-        },
-        {
           "name": "Chest of Gems",
           "price": "$0.99",
           "amount": 0.99
         },
         {
-          "name": "Chest of Gems (1200)",
-          "price": "$4.99",
-          "amount": 4.99
+          "name": "Super Duolingo",
+          "price": "$95.99",
+          "amount": 95.99
+        },
+        {
+          "name": "Super Duolingo",
+          "price": "$79.99",
+          "amount": 79.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:39.247Z"
+      "fetchedAt": "2026-11-09T10:04:29.905Z"
     }
   }
 }

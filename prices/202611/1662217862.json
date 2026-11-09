@@ -2,7 +2,7 @@
   "id": "1662217862",
   "name": "Wipr 2",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:54:04.875Z",
+  "fetchedAt": "2026-11-09T10:11:35.243Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,14 +18,14 @@
           "amount": 29.99
         },
         {
-          "name": "Monthly Recurring Tip",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Tip",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "Monthly Recurring Tip",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Yearly Recurring Tip",
@@ -38,7 +38,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:54:00.452Z"
+      "fetchedAt": "2026-11-09T10:11:31.227Z"
     },
     "fr": {
       "currency": "EUR",
@@ -54,6 +54,11 @@
           "amount": 29.99
         },
         {
+          "name": "Yearly Recurring Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "Monthly Recurring Tip",
           "price": "1,99 €",
           "amount": 1.99
@@ -64,17 +69,12 @@
           "amount": 5.99
         },
         {
-          "name": "Yearly Recurring Tip",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Mega Tip",
           "price": "22,99 €",
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:54:01.866Z"
+      "fetchedAt": "2026-11-09T10:11:32.714Z"
     },
     "gb": {
       "currency": "GBP",
@@ -90,6 +90,11 @@
           "amount": 24.99
         },
         {
+          "name": "Tip",
+          "price": "£4.99",
+          "amount": 4.99
+        },
+        {
           "name": "Monthly Recurring Tip",
           "price": "£1.99",
           "amount": 1.99
@@ -100,17 +105,12 @@
           "amount": 9.99
         },
         {
-          "name": "Tip",
-          "price": "£4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Mega Tip",
           "price": "£19.99",
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:54:03.671Z"
+      "fetchedAt": "2026-11-09T10:11:34.249Z"
     },
     "us": {
       "currency": "USD",
@@ -146,7 +146,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:54:04.874Z"
+      "fetchedAt": "2026-11-09T10:11:35.242Z"
     }
   }
 }

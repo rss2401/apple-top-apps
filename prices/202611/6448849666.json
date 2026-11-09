@@ -2,7 +2,7 @@
   "id": "6448849666",
   "name": "Bible Chat: Daily Devotional",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:57:30.557Z",
+  "fetchedAt": "2026-11-09T10:14:57.112Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -13,29 +13,9 @@
           "amount": 4.99
         },
         {
-          "name": "Bible Chat - Premium - Monthly",
-          "price": "$12.99",
-          "amount": 12.99
-        },
-        {
-          "name": "BibleChat - Premium - Yearly ",
-          "price": "$59.99",
-          "amount": 59.99
-        },
-        {
-          "name": "BibleChat - Premium - Yearly ",
-          "price": "$59.99",
-          "amount": 59.99
-        },
-        {
-          "name": "Biblechat",
-          "price": "$29.99",
-          "amount": 29.99
-        },
-        {
-          "name": "Support 2 Christians",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Bible Chat - Elite - Weekly",
+          "price": "$6.99",
+          "amount": 6.99
         },
         {
           "name": "BibleChat - Premium - Weekly",
@@ -43,22 +23,42 @@
           "amount": 5.99
         },
         {
-          "name": "BibleChat - Premium - Yearly",
-          "price": "$39.99",
-          "amount": 39.99
+          "name": "Bible Chat - Premium - Monthly",
+          "price": "$12.99",
+          "amount": 12.99
         },
         {
-          "name": "BibleChat - Premium - Lifetime",
-          "price": "$99.99",
-          "amount": 99.99
+          "name": "Bible Chat - Standard - Weekly",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
+          "name": "BibleChat - Premium - Yearly ",
+          "price": "$59.99",
+          "amount": 59.99
+        },
+        {
+          "name": "BibleChat - Ultra - Weekly",
+          "price": "$6.99",
+          "amount": 6.99
         },
         {
           "name": "Bible Chat - Lite - Monthly",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "BibleChat - Premium - Yearly",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Bible Chat - Elite - Yearly",
+          "price": "$59.99",
+          "amount": 59.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:30.551Z"
+      "fetchedAt": "2026-11-09T10:14:57.107Z"
     }
   }
 }

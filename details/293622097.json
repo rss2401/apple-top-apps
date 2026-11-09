@@ -203,10 +203,13 @@
       "userRatingCount": 46783
     },
     {
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -362,49 +365,46 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/15/2f/8c152fc8-90e3-e739-f548-3bb46e3c328c/logo_earth_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "releaseNotes": "Thanks for using Google Earth! This version includes bug fixes.\nOur recent release brings a fresh new look, with new features to help you collaborate with others across devices, create maps on the go, and add photos from your camera to your maps.",
+      "trackCensoredName": "Google Earth",
       "trackViewUrl": "https://apps.apple.com/us/app/google-earth/id293622097?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.01039,
-      "trackCensoredName": "Google Earth",
-      "averageUserRatingForCurrentVersion": 4.01039,
-      "artistId": 281956209,
-      "genres": [
-        "Travel",
-        "Navigation"
-      ],
-      "price": 0,
-      "bundleId": "com.google.b612",
-      "trackId": 293622097,
-      "trackName": "Google Earth",
+      "averageUserRating": 4.01018,
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6003",
         "6010"
       ],
-      "releaseDate": "2008-10-27T07:00:00Z",
-      "sellerName": "Google LLC",
+      "bundleId": "com.google.b612",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Google LLC",
+      "releaseDate": "2008-10-27T07:00:00Z",
+      "trackId": 293622097,
+      "trackName": "Google Earth",
       "currentVersionReleaseDate": "2026-10-20T16:05:04Z",
       "version": "10.123.75",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Create and collaborate on immersive, data-driven maps from anywhere, with the new Google Earth.\nSee the world from above with high-resolution satellite imagery, explore 3D terrain and buildings in hundreds of cities, and dive in to streets and neighborhoods with Street View's 360° perspectives.",
+      "averageUserRatingForCurrentVersion": 4.01018,
       "sellerUrl": "https://www.google.com/earth/",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "165777408",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 47555,
+      "userRatingCountForCurrentVersion": 47582,
       "trackContentRating": "4+",
-      "releaseNotes": "Thanks for using Google Earth! This version includes bug fixes.\nOur recent release brings a fresh new look, with new features to help you collaborate with others across devices, create maps on the go, and add photos from your camera to your maps.",
+      "price": 0,
+      "genres": [
+        "Travel",
+        "Navigation"
+      ],
+      "artistId": 281956209,
       "artistName": "Google",
-      "userRatingCount": 47555,
+      "userRatingCount": 47582,
       "country": "USA"
     }
   ]

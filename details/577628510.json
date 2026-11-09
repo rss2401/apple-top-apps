@@ -604,7 +604,6 @@
       "country": "USA"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/27/03/ba/2703ba0c-21e8-dc55-4979-1aa1211554a6/5e43c33d-fc23-4025-af18-35f6ff96e481_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-11-23_at_11.42.17.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1d/bd/5a/1dbd5a74-40bc-507c-6fb4-e7b182b2c7f9/mzl.wrzyfeio.png/392x696bb.png",
@@ -618,6 +617,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/33/e9/9833e9ee-fb56-df24-0ec1-d7eb12308d05/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -766,23 +766,20 @@
         "RU",
         "ES"
       ],
+      "fileSizeBytes": "34310144",
+      "formattedPrice": "0,99 €",
       "userRatingCountForCurrentVersion": 404,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 2.67822,
       "sellerUrl": "https://www.teamspeak.com",
-      "formattedPrice": "0,99 €",
-      "fileSizeBytes": "34310144",
+      "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
       "artistId": 577628513,
       "artistName": "TeamSpeak Systems Inc",
-      "genres": [
-        "Soziale Netze",
-        "Wirtschaft"
-      ],
       "price": 0.99,
       "bundleId": "com.teamspeak.teamspeak",
+      "releaseDate": "2012-12-10T19:20:52Z",
       "trackId": 577628510,
       "trackName": "TeamSpeak 3",
-      "releaseDate": "2012-12-10T19:20:52Z",
       "minimumOsVersion": "15.6",
       "genreIds": [
         "6005",
@@ -793,7 +790,6 @@
       "sellerName": "TeamSpeak Systems Inc",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-11-25T19:12:52Z",
-      "releaseNotes": "- Fixed a bug that caused connection attempts to fail when joining servers requiring a password.",
       "version": "3.8.2",
       "wrapperType": "software",
       "currency": "EUR",
@@ -802,6 +798,10 @@
       "trackViewUrl": "https://apps.apple.com/de/app/teamspeak-3/id577628510?uo=4",
       "contentAdvisoryRating": "17+",
       "averageUserRating": 2.67822,
+      "genres": [
+        "Soziale Netze",
+        "Wirtschaft"
+      ],
       "userRatingCount": 404,
       "country": "DEU"
     },

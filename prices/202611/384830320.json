@@ -2,7 +2,7 @@
   "id": "384830320",
   "name": "Life360: Stay Connected & Safe",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:53:02.171Z",
+  "fetchedAt": "2026-11-09T10:10:43.545Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
@@ -58,7 +58,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:00.397Z"
+      "fetchedAt": "2026-11-09T10:10:41.710Z"
     },
     "us": {
       "currency": "USD",
@@ -89,14 +89,14 @@
           "amount": 16.99
         },
         {
-          "name": "Life360 Gold Membership",
-          "price": "$16.99",
-          "amount": 16.99
-        },
-        {
           "name": "Life360 Silver Membership",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Life360 Gold Membership",
+          "price": "$16.99",
+          "amount": 16.99
         },
         {
           "name": "Life360 Silver Membership",
@@ -114,7 +114,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:53:02.170Z"
+      "fetchedAt": "2026-11-09T10:10:43.544Z"
     }
   }
 }

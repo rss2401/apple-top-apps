@@ -2,7 +2,7 @@
   "id": "432850619",
   "name": "FL Studio Mobile",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:49:52.626Z",
+  "fetchedAt": "2026-11-09T10:07:51.520Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -58,7 +58,7 @@
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:45.156Z"
+      "fetchedAt": "2026-11-09T10:07:44.659Z"
     },
     "de": {
       "currency": "EUR",
@@ -99,22 +99,22 @@
           "amount": 1.99
         },
         {
-          "name": "Technocraft",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Acoustic Guitars",
           "price": "0,99 €",
           "amount": 0.99
         },
         {
-          "name": "PsyTrance",
-          "price": "2,99 €",
-          "amount": 2.99
+          "name": "Technocraft",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Groove Machine Synth",
+          "price": "0,00 €",
+          "amount": 0
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:46.607Z"
+      "fetchedAt": "2026-11-09T10:07:46.025Z"
     },
     "fr": {
       "currency": "EUR",
@@ -170,20 +170,20 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:48.153Z"
+      "fetchedAt": "2026-11-09T10:07:47.527Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [
         {
-          "name": "Varazdin Orchestral Mobile",
-          "price": "£3.99",
-          "amount": 3.99
-        },
-        {
           "name": "Sliced Beats",
           "price": "£0.99",
           "amount": 0.99
+        },
+        {
+          "name": "Varazdin Orchestral Mobile",
+          "price": "£3.99",
+          "amount": 3.99
         },
         {
           "name": "Tuned 808 Bass",
@@ -211,14 +211,14 @@
           "amount": 0
         },
         {
-          "name": "Drumaxx",
-          "price": "£1.99",
-          "amount": 1.99
-        },
-        {
           "name": "Acoustic Guitars",
           "price": "£0.99",
           "amount": 0.99
+        },
+        {
+          "name": "Drumaxx",
+          "price": "£1.99",
+          "amount": 1.99
         },
         {
           "name": "Synth Plucks",
@@ -226,15 +226,15 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:49.636Z"
+      "fetchedAt": "2026-11-09T10:07:48.958Z"
     },
     "jp": {
       "currency": "JPY",
       "items": [
         {
-          "name": "Tuned 808 Bass",
-          "price": "¥150",
-          "amount": 150
+          "name": "Varazdin Orchestral Mobile",
+          "price": "¥600",
+          "amount": 600
         },
         {
           "name": "Amped Guitar & Bass",
@@ -242,9 +242,9 @@
           "amount": 500
         },
         {
-          "name": "Varazdin Orchestral Mobile",
-          "price": "¥600",
-          "amount": 600
+          "name": "Tuned 808 Bass",
+          "price": "¥150",
+          "amount": 150
         },
         {
           "name": "Synth Lead",
@@ -282,7 +282,7 @@
           "amount": 0
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:51.187Z"
+      "fetchedAt": "2026-11-09T10:07:50.519Z"
     },
     "us": {
       "currency": "USD",
@@ -338,7 +338,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:52.617Z"
+      "fetchedAt": "2026-11-09T10:07:51.514Z"
     }
   }
 }

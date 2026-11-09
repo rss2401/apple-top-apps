@@ -221,7 +221,9 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/73/de/5473deba-b4ec-27d0-517a-b3a2a979b53f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -354,29 +356,28 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/theorie24-gmbh/id889975674?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/73/de/5473deba-b4ec-27d0-517a-b3a2a979b53f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/73/de/5473deba-b4ec-27d0-517a-b3a2a979b53f/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.75172,
-      "fileSizeBytes": "107674624",
-      "formattedPrice": "6,99 €",
-      "userRatingCountForCurrentVersion": 2469,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.theorie24.de",
       "languageCodesISO2A": [
         "DE"
       ],
+      "fileSizeBytes": "107674624",
+      "formattedPrice": "6,99 €",
+      "userRatingCountForCurrentVersion": 2473,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.75211,
+      "sellerUrl": "https://www.theorie24.de",
       "releaseNotes": "+ Enthält alle aktuellen Fragen für 2026!\n+ Seit April 2025 gibt es keine neue Fragen, im Verkehrsministerium sind Änderungen erst für 2027 geplant.\n+ Detail-Verbesserungen und Optimierungen",
-      "artistName": "theorie24 GmbH",
       "artistId": 889975674,
-      "releaseDate": "2014-10-22T23:46:03Z",
+      "artistName": "theorie24 GmbH",
       "price": 6.99,
-      "trackName": "Führerschein 2026 PRO",
+      "bundleId": "de.theorie24.fs.auto",
+      "releaseDate": "2014-10-22T23:46:03Z",
       "trackId": 920788519,
+      "trackName": "Führerschein 2026 PRO",
       "minimumOsVersion": "11.0",
       "genreIds": [
         "6017",
@@ -384,6 +385,8 @@
       ],
       "primaryGenreName": "Education",
       "primaryGenreId": 6017,
+      "sellerName": "theorie24 GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-03-31T20:35:29Z",
       "version": "4.3.0",
       "wrapperType": "software",
@@ -392,15 +395,12 @@
       "trackCensoredName": "Führerschein 2026 PRO",
       "trackViewUrl": "https://apps.apple.com/de/app/f%C3%BChrerschein-2026-pro/id920788519?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.75172,
+      "averageUserRating": 4.75211,
       "genres": [
         "Bildung",
         "Dienst­programme"
       ],
-      "bundleId": "de.theorie24.fs.auto",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "theorie24 GmbH",
-      "userRatingCount": 2469,
+      "userRatingCount": 2473,
       "country": "DEU"
     }
   ]

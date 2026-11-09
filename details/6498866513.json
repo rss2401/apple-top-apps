@@ -206,8 +206,8 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/20/f2/1b20f2ed-984a-aeb3-99ea-845dce05b781/app-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Häufig/stark ausgeprägt: medizinische/Behandlungs-Informationen"
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -341,29 +341,30 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Häufig/stark ausgeprägt: medizinische/Behandlungs-Informationen"
+      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/bjoern-steiger-stiftung-dienstleistung-gmbh/id1741838681?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/20/f2/1b20f2ed-984a-aeb3-99ea-845dce05b781/app-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/20/f2/1b20f2ed-984a-aeb3-99ea-845dce05b781/app-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.88124,
-      "fileSizeBytes": "21565440",
-      "formattedPrice": "14,99 €",
-      "userRatingCountForCurrentVersion": 160,
-      "trackContentRating": "17+",
-      "sellerUrl": "https://www.notfallguru.de",
       "languageCodesISO2A": [
         "EN"
       ],
+      "fileSizeBytes": "21565440",
+      "formattedPrice": "14,99 €",
+      "userRatingCountForCurrentVersion": 161,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.88199,
+      "sellerUrl": "https://www.notfallguru.de",
       "releaseNotes": "Danke, dass du die Notfallguru App nutzt! Mit diesem großen, kostenlosen Update integrieren wir die umfangreichen Inhalte der Plattform „ToxInfo“.\nZusätzlich ist künftig eine Funktion für Push-Nachrichten integriert.",
-      "artistName": "Bjoern Steiger Stiftung Dienstleistung GmbH",
       "artistId": 1741838681,
-      "releaseDate": "2024-07-17T07:00:00Z",
+      "artistName": "Bjoern Steiger Stiftung Dienstleistung GmbH",
       "price": 14.99,
-      "trackName": "Notfallguru",
+      "bundleId": "de.notfallguru.app",
+      "releaseDate": "2024-07-17T07:00:00Z",
       "trackId": 6498866513,
+      "trackName": "Notfallguru",
       "minimumOsVersion": "15.6",
       "genreIds": [
         "6020",
@@ -371,6 +372,8 @@
       ],
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
+      "sellerName": "Bjoern Steiger Stiftung Dienstleistung GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-30T23:06:54Z",
       "version": "2.0.0",
       "wrapperType": "software",
@@ -379,15 +382,12 @@
       "trackCensoredName": "Notfallguru",
       "trackViewUrl": "https://apps.apple.com/de/app/notfallguru/id6498866513?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.88124,
+      "averageUserRating": 4.88199,
       "genres": [
         "Medizin",
         "Nachschlagewerke"
       ],
-      "bundleId": "de.notfallguru.app",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Bjoern Steiger Stiftung Dienstleistung GmbH",
-      "userRatingCount": 160,
+      "userRatingCount": 161,
       "country": "DEU"
     }
   ]

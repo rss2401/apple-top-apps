@@ -206,6 +206,15 @@
       "country": "JPN"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/am-powersoftware/id303958914?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/40/05/60/400560b2-db22-6ad0-5d3f-6838cf19f57f/dcca0646-6ad9-4f76-8f0a-da39c46ac5bc_Screen_Shot_2020-10-16_at_23.11.47.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/52/29/ba/5229bafd-c01e-5156-b562-d16145df5f03/c720c1a4-d3f2-40ba-9cb2-b04883fcbe08_Screen_Shot_2020-10-16_at_23.13.28.png/392x696bb.png",
@@ -226,13 +235,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/fr/developer/am-powersoftware/id303958914?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cd/5c/10cd5cc6-5be2-7d3b-8a62-ac540974cc9a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -365,21 +367,10 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "advisories": [],
-      "kind": "software",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "92279808",
-      "formattedPrice": "1,99 €",
-      "userRatingCountForCurrentVersion": 4,
-      "trackContentRating": "4+",
-      "sellerUrl": "http://www.ampowersoftware.it/lightspectrum-pro/",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "LightSpectrum Pro",
       "trackViewUrl": "https://apps.apple.com/fr/app/lightspectrum-pro/id468368751?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 3.75,
-      "averageUserRatingForCurrentVersion": 3.75,
       "artistId": 303958914,
       "artistName": "AM PowerSoftware",
       "genres": [
@@ -389,23 +380,32 @@
       "price": 1.99,
       "trackId": 468368751,
       "trackName": "LightSpectrum Pro",
-      "releaseNotes": "This update brings support for all the latest iPhone models, introduces automatic light source recognition for a smarter analysis experience, improves overall performance and stability, and includes several minor bug fixes to ensure smoother operation.",
-      "releaseDate": "2011-10-03T23:50:47Z",
       "minimumOsVersion": "15.6",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "genreIds": [
         "6002",
         "6008"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "sellerName": "Antonio Mauriello",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2011-10-03T23:50:47Z",
       "currentVersionReleaseDate": "2026-06-14T23:23:32Z",
+      "releaseNotes": "This update brings support for all the latest iPhone models, introduces automatic light source recognition for a smarter analysis experience, improves overall performance and stability, and includes several minor bug fixes to ensure smoother operation.",
       "version": "4.4.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "With LightSpectrumPro EVO you can measure the color temperature of a light source without having to spend hundreds of dollars on professional devices. LightSpectrumPro EVO has an error of 2 - 8% compared to existing professional products on the market. in addition to the color temperature measurement in Kelvin, LightSpectrumPro EVO allows you to view the color spectrum of the light being examined with a band ranging from 360nm to 800nm. in addition to the spectrum it is possible to display the position of the white point on the CIE 1931 diagram and to apply a filter for wavelengths to display in overlay on the image captured by the cameras which elements reflect a specific frequency and with what intensity.",
+      "averageUserRatingForCurrentVersion": 3.75,
+      "sellerUrl": "http://www.ampowersoftware.it/lightspectrum-pro/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "92279808",
+      "formattedPrice": "1,99 €",
+      "userRatingCountForCurrentVersion": 4,
+      "trackContentRating": "4+",
       "bundleId": "LightSpectrumPro",
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 4,
       "country": "FRA"
     }

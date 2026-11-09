@@ -222,9 +222,8 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/86/5a/30865ac4-015d-00c7-4c68-6ea63dbbd96b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
-        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -358,29 +357,31 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: realistisch dargestellte Gewalt",
+        "Selten/schwach ausgeprägt: Horror-/Gruselszenen"
+      ],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/weissfly-ug-haftungsbeschrankt/id1615223295?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/86/5a/30865ac4-015d-00c7-4c68-6ea63dbbd96b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/86/5a/30865ac4-015d-00c7-4c68-6ea63dbbd96b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "averageUserRatingForCurrentVersion": 4.59563,
-      "fileSizeBytes": "159778816",
-      "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 183,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://harzer-wandernadel-community.web.app",
       "languageCodesISO2A": [
         "DE"
       ],
+      "fileSizeBytes": "159778816",
+      "formattedPrice": "5,99 €",
+      "userRatingCountForCurrentVersion": 184,
+      "trackContentRating": "12+",
+      "averageUserRatingForCurrentVersion": 4.57609,
+      "sellerUrl": "https://harzer-wandernadel-community.web.app",
       "releaseNotes": "- Kleine Verbesserungen und Fehlerkorrekturen.",
-      "artistName": "weissfly UG (haftungsbeschrankt)",
       "artistId": 1615223295,
-      "releaseDate": "2022-09-05T07:00:00Z",
+      "artistName": "weissfly UG (haftungsbeschrankt)",
       "price": 5.99,
-      "trackName": "Harzer Wandernadel Community",
+      "bundleId": "com.hwn.community",
+      "releaseDate": "2022-09-05T07:00:00Z",
       "trackId": 1620616675,
+      "trackName": "Harzer Wandernadel Community",
       "minimumOsVersion": "15.1",
       "genreIds": [
         "6003",
@@ -388,6 +389,8 @@
       ],
       "primaryGenreName": "Travel",
       "primaryGenreId": 6003,
+      "sellerName": "weissfly UG",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-23T20:36:36Z",
       "version": "1.17.658",
       "wrapperType": "software",
@@ -396,15 +399,12 @@
       "trackCensoredName": "Harzer Wandernadel Community",
       "trackViewUrl": "https://apps.apple.com/de/app/harzer-wandernadel-community/id1620616675?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.59563,
+      "averageUserRating": 4.57609,
       "genres": [
         "Reisen",
         "Gesundheit und Fitness"
       ],
-      "bundleId": "com.hwn.community",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "weissfly UG",
-      "userRatingCount": 183,
+      "userRatingCount": 184,
       "country": "DEU"
     }
   ]

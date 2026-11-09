@@ -2,7 +2,7 @@
   "id": "1449584007",
   "name": "Koala Sampler",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:49:03.128Z",
+  "fetchedAt": "2026-11-09T10:06:44.523Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,17 +18,12 @@
           "amount": 5.99
         },
         {
-          "name": "Analog Astronaut Samplepack",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "Cirrus Cuts Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "Ese-O's Sample Pack",
+          "name": "Analog Astronaut Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         },
@@ -38,12 +33,17 @@
           "amount": 2.99
         },
         {
+          "name": "Ese-O's Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
           "name": "Solar Studies Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:48:57.226Z"
+      "fetchedAt": "2026-11-09T10:06:38.493Z"
     },
     "fr": {
       "currency": "EUR",
@@ -59,12 +59,12 @@
           "amount": 5.99
         },
         {
-          "name": "Analog Astronaut Samplepack",
+          "name": "Cirrus Cuts Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "Cirrus Cuts Sample Pack",
+          "name": "Soon Come Dub Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
@@ -74,17 +74,17 @@
           "amount": 2.99
         },
         {
-          "name": "Solar Studies Samplepack",
+          "name": "Analog Astronaut Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "Soon Come Dub Sample Pack",
+          "name": "Solar Studies Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:48:58.626Z"
+      "fetchedAt": "2026-11-09T10:06:39.968Z"
     },
     "gb": {
       "currency": "GBP",
@@ -125,7 +125,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:00.154Z"
+      "fetchedAt": "2026-11-09T10:06:41.514Z"
     },
     "jp": {
       "currency": "JPY",
@@ -166,7 +166,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:01.636Z"
+      "fetchedAt": "2026-11-09T10:06:42.972Z"
     },
     "us": {
       "currency": "USD",
@@ -207,7 +207,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:49:03.127Z"
+      "fetchedAt": "2026-11-09T10:06:44.523Z"
     }
   }
 }

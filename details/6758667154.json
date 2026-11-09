@@ -836,21 +836,7 @@
       "country": "FRA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/8d/e8/018de898-1728-72dc-ccf5-b90462f5dbe4/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/a6/1f/c1a61fe4-5c8d-062f-4fb5-f98af2ab571d/6.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/76/81/417681fa-8aa0-2574-604e-b9e053fa5a8c/5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/e1/e9/79e1e973-d01e-6020-d268-2071d4700ee6/4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/ce/b6/5fceb6ba-52ee-8097-0e45-698aa8d0440a/VibeShort_1290x2796.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/eb/8d/b8eb8d4a-784b-e41c-5e82-3e94989107e4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/eb/8d/b8eb8d4a-784b-e41c-5e82-3e94989107e4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/eb/8d/b8eb8d4a-784b-e41c-5e82-3e94989107e4/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/agile-quadrant-media-limited/id1874289215?uo=4",
       "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -983,15 +969,48 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9a/85/1b9a851c-271a-628a-8004-4a0ddee1dff7/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/60x60bb.jpg",
+      "ipadScreenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/8d/e8/018de898-1728-72dc-ccf5-b90462f5dbe4/2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/a6/1f/c1a61fe4-5c8d-062f-4fb5-f98af2ab571d/6.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/76/81/417681fa-8aa0-2574-604e-b9e053fa5a8c/5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/e1/e9/79e1e973-d01e-6020-d268-2071d4700ee6/4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/ce/b6/5fceb6ba-52ee-8097-0e45-698aa8d0440a/VibeShort_1290x2796.png/320x480bb.jpg"
+      ],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9a/85/1b9a851c-271a-628a-8004-4a0ddee1dff7/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/agile-quadrant-media-limited/id1874289215?uo=4",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/9a/85/1b9a851c-271a-628a-8004-4a0ddee1dff7/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "features": [],
       "advisories": [
         "Infrequent/Mild Horror/Fear Themes",
         "Frequent/Intense Mature/Suggestive Themes"
       ],
-      "kind": "software",
-      "sellerUrl": "https://www.vibeshort.live",
-      "averageUserRatingForCurrentVersion": 4.68545,
-      "averageUserRating": 4.68545,
-      "trackCensoredName": "VibeShort: AI Short Dramas",
+      "artistId": 1874289215,
+      "artistName": "AGILE QUADRANT MEDIA LIMITED",
+      "genres": [
+        "Entertainment"
+      ],
+      "price": 0,
+      "sellerName": "AGILE QUADRANT MEDIA LIMITED",
+      "bundleId": "com.vibeshort.visualnovel.ios",
+      "currentVersionReleaseDate": "2026-11-06T03:21:58Z",
+      "releaseDate": "2026-02-25T08:00:00Z",
+      "trackId": 6758667154,
+      "trackName": "VibeShort: AI Short Dramas",
+      "genreIds": [
+        "6016"
+      ],
+      "minimumOsVersion": "15.1",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "releaseNotes": "We've made some improvements to enhance your VibeShort experience!​\n• Improved app performance for smoother viewing.\n• Fixed known issues and enhanced app stability.​\nUpdate VibeShort and enjoy AI dramas!",
+      "version": "2.31.1",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "AI Short Dramas, Reels & Mini Series\nVibeShort is an AI-powered short-drama app that combines short dramas, reels, TV series, and interactive comic-style stories into one vertical entertainment experience. Discover AI-generated tales with cinematic visuals, emotionally rich characters, and unexpected twists – anytime, anywhere.\n\nAI-Powered Short Drama Experience\nRediscover short-form storytelling through AI. VibeShort turns every narrative into visually captivating episodes, featuring expressive characters, dynamic scenes, and immersive plots. Explore a growing library of romance, fantasy, billionaire dramas, revenge sagas, and more.\n\nWhy Choose VibeShort?\nYour Daily Short-Drama Entertainment Hub\nBite-sized episodes – Each episode lasts just 1–2 minutes, packed with twists and cliffhangers designed for on-the-go viewing.\nFresh content daily – New dramas, reels, and mini series drop every day, with trending stories updated regularly.\nCinematic HD quality – Enjoy high-definition visuals and immersive sound, fully optimized for your mobile screen.\nVertical streaming – A smooth, mobile-first interface lets you watch seamlessly with one hand.\nOffline viewing – Download episodes and watch your favorites without an internet connection.\n\nExplore Popular Genres\nRomance – Emotional love stories, secret affairs, CEO romances, second chances, and heartfelt drama series.\nBillionaire Romance – Powerful CEOs, hidden identities, wealth, ambition, and unforgettable love.\nWerewolf Fantasy – Alpha wolves, fated mates, supernatural realms, and fantasy romance adventures.\nRevenge – Betrayal, comebacks, family conflicts, and characters fighting to reclaim their futures.\nTime Travel & Fantasy – Rebirth, parallel worlds, magical quests, and choices that change destiny.\nSci-Fi & Action – Futuristic worlds, heroic journeys, and adrenaline-fueled short tales.\nComedy & Slice of Life – Fun moments, relatable characters, and lighthearted entertainment.\n\nFeatured Short Dramas & Mini Series\nFated to the Alpha\nA fantasy werewolf short drama about a hidden identity, unexpected love, danger, and a powerful bond between two destined souls.\nRevenge Unscripted\nA revenge drama filled with betrayal, comeback plans, and emotional twists as a woman returns to take back control of her life.\nLove Beyond Time\nA time-travel romance short drama where every decision changes the future. Can love survive when destiny keeps changing?\nBeastward Academy: Reborn, I Claimed My Sister's Serpent\nA fantasy drama about rebirth, betrayal, and a second chance to rewrite fate with memories from the past.\nMy Dad Is Poseidon\nA fantasy comedy series where an ancient sea god leaves behind his powers for a peaceful life, only to face unexpected modern adventures.\n\nSubscriptions & Related Information\n• Weekly Pass Pro: Valid for 7 days, $19.99/week, auto-renews at $19.99/week\n• Annual Pass Pro: Valid for 1 year, $149.99/year, auto-renews at $149.99/year\nSubscription & Payment Rules:\n1. Subscriptions are processed through the Apple App Store. Payment will be charged to your Apple ID account upon confirmation of purchase.\n2. All subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.\n3. The renewal fee will be charged to your account within 24 hours prior to the end of the current subscription period, at the rate of your selected plan.\n4. You can manage or cancel your subscription at any time by going to your Apple ID account settings > Subscriptions.\n\nPrivacy Policy: https://www.vibeshort.live/vibeshort-privacy-policy.html\nTerms of Service: https://www.vibeshort.live/vibeshort-terms-of-service.html\nPayment Agreement: https://www.vibeshort.live/vibeshort-user-recharge-agreement.html\nCustomer Email: service@vibeshort.live",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -1012,37 +1031,18 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "161049600",
-      "formattedPrice": "Free",
-      "contentAdvisoryRating": "17+",
-      "userRatingCountForCurrentVersion": 6139,
-      "trackViewUrl": "https://apps.apple.com/gb/app/vibeshort-ai-short-dramas/id6758667154?uo=4",
+      "userRatingCountForCurrentVersion": 6282,
       "trackContentRating": "17+",
-      "releaseNotes": "VibeShort’s New Version Is Here!\n\nThis update brings several improvements to enhance your experience:\n\n• iPhone Duo Support: Improved compatibility with foldable devices for a better viewing experience.\n• Performance Improvements: Enjoy smoother app performance and a more seamless streaming experience.\n• Bug Fixes: Fixed known issues and continued refining the overall experience.\n\nThank you for your continued support of VibeShort! Update now for a smoother viewing experience and discover more exciting AI short dramas!",
-      "genres": [
-        "Entertainment"
-      ],
-      "artistId": 1874289215,
-      "artistName": "AGILE QUADRANT MEDIA LIMITED",
-      "bundleId": "com.vibeshort.visualnovel.ios",
-      "releaseDate": "2026-02-25T08:00:00Z",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "AGILE QUADRANT MEDIA LIMITED",
-      "minimumOsVersion": "15.1",
-      "genreIds": [
-        "6016"
-      ],
-      "trackId": 6758667154,
-      "trackName": "VibeShort: AI Short Dramas",
+      "sellerUrl": "https://www.vibeshort.live",
+      "averageUserRatingForCurrentVersion": 4.68609,
+      "trackCensoredName": "VibeShort: AI Short Dramas",
+      "trackViewUrl": "https://apps.apple.com/gb/app/vibeshort-ai-short-dramas/id6758667154?uo=4",
+      "contentAdvisoryRating": "17+",
+      "formattedPrice": "Free",
+      "fileSizeBytes": "158493696",
+      "averageUserRating": 4.68609,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-27T02:30:51Z",
-      "version": "2.31.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "AI Short Dramas, Reels & Mini Series\nVibeShort is an AI-powered short-drama app that combines short dramas, reels, TV series, and interactive comic-style stories into one vertical entertainment experience. Discover AI-generated tales with cinematic visuals, emotionally rich characters, and unexpected twists – anytime, anywhere.\n\nAI-Powered Short Drama Experience\nRediscover short-form storytelling through AI. VibeShort turns every narrative into visually captivating episodes, featuring expressive characters, dynamic scenes, and immersive plots. Explore a growing library of romance, fantasy, billionaire dramas, revenge sagas, and more.\n\nWhy Choose VibeShort?\nYour Daily Short-Drama Entertainment Hub\nBite-sized episodes – Each episode lasts just 1–2 minutes, packed with twists and cliffhangers designed for on-the-go viewing.\nFresh content daily – New dramas, reels, and mini series drop every day, with trending stories updated regularly.\nCinematic HD quality – Enjoy high-definition visuals and immersive sound, fully optimized for your mobile screen.\nVertical streaming – A smooth, mobile-first interface lets you watch seamlessly with one hand.\nOffline viewing – Download episodes and watch your favorites without an internet connection.\n\nExplore Popular Genres\nRomance – Emotional love stories, secret affairs, CEO romances, second chances, and heartfelt drama series.\nBillionaire Romance – Powerful CEOs, hidden identities, wealth, ambition, and unforgettable love.\nWerewolf Fantasy – Alpha wolves, fated mates, supernatural realms, and fantasy romance adventures.\nRevenge – Betrayal, comebacks, family conflicts, and characters fighting to reclaim their futures.\nTime Travel & Fantasy – Rebirth, parallel worlds, magical quests, and choices that change destiny.\nSci-Fi & Action – Futuristic worlds, heroic journeys, and adrenaline-fueled short tales.\nComedy & Slice of Life – Fun moments, relatable characters, and lighthearted entertainment.\n\nFeatured Short Dramas & Mini Series\nFated to the Alpha\nA fantasy werewolf short drama about a hidden identity, unexpected love, danger, and a powerful bond between two destined souls.\nRevenge Unscripted\nA revenge drama filled with betrayal, comeback plans, and emotional twists as a woman returns to take back control of her life.\nLove Beyond Time\nA time-travel romance short drama where every decision changes the future. Can love survive when destiny keeps changing?\nBeastward Academy: Reborn, I Claimed My Sister's Serpent\nA fantasy drama about rebirth, betrayal, and a second chance to rewrite fate with memories from the past.\nMy Dad Is Poseidon\nA fantasy comedy series where an ancient sea god leaves behind his powers for a peaceful life, only to face unexpected modern adventures.\n\nSubscriptions & Related Information\n• Weekly Pass Pro: Valid for 7 days, $19.99/week, auto-renews at $19.99/week\n• Annual Pass Pro: Valid for 1 year, $149.99/year, auto-renews at $149.99/year\nSubscription & Payment Rules:\n1. Subscriptions are processed through the Apple App Store. Payment will be charged to your Apple ID account upon confirmation of purchase.\n2. All subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current subscription period.\n3. The renewal fee will be charged to your account within 24 hours prior to the end of the current subscription period, at the rate of your selected plan.\n4. You can manage or cancel your subscription at any time by going to your Apple ID account settings > Subscriptions.\n\nPrivacy Policy: https://www.vibeshort.live/vibeshort-privacy-policy.html\nTerms of Service: https://www.vibeshort.live/vibeshort-terms-of-service.html\nPayment Agreement: https://www.vibeshort.live/vibeshort-user-recharge-agreement.html\nCustomer Email: service@vibeshort.live",
-      "price": 0,
-      "userRatingCount": 6139,
+      "userRatingCount": 6282,
       "country": "GBR"
     }
   ]

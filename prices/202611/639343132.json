@@ -2,20 +2,20 @@
   "id": "639343132",
   "name": "iConnectHue für Philips Hue",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:01:57.552Z",
+  "fetchedAt": "2026-11-09T10:18:51.132Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [
         {
-          "name": "Pro-Mitgliedschaft 12 Monate",
-          "price": "19,99 €",
-          "amount": 19.99
-        },
-        {
           "name": "Ankommen & Verlassen",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "Pro-Mitgliedschaft 12 Monate",
+          "price": "19,99 €",
+          "amount": 19.99
         },
         {
           "name": "Animations-Upgrade",
@@ -58,7 +58,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:01:57.552Z"
+      "fetchedAt": "2026-11-09T10:18:51.131Z"
     },
     "gb": {
       "currency": "GBP",

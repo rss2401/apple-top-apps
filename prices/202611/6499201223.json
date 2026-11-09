@@ -2,8 +2,13 @@
   "id": "6499201223",
   "name": "CalCs - Calendar Complications",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:48:34.643Z",
+  "fetchedAt": "2026-11-09T10:06:15.977Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-09T10:06:14.426Z"
+    },
     "jp": {
       "currency": "JPY",
       "items": [
@@ -23,7 +28,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-02T09:48:34.643Z"
+      "fetchedAt": "2026-11-09T10:06:15.976Z"
     }
   }
 }

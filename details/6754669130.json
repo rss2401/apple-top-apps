@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/4b/5f/6b4b5f95-44af-f6ed-d26e-ed077197af22/IOS_01__U5ba3_U4f20_U8bed.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/cc/13/12cc1392-c9fb-272e-ba81-ad8435e28f67/IOS_02__U6d3b_U8dc3_U793e_U7fa4.jpg/320x480bb.jpg",
@@ -12,10 +13,7 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/00/da/4500da89-8b06-1e4d-cd64-75a60d4f34d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -148,48 +146,50 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
+      "features": [],
       "artistViewUrl": "https://apps.apple.com/de/developer/hong-kong-haini-technology-limited/id1837097975?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/00/da/4500da89-8b06-1e4d-cd64-75a60d4f34d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/00/da/4500da89-8b06-1e4d-cd64-75a60d4f34d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.66797,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.67817,
       "sellerUrl": "https://litbuy.com",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "83219456",
+      "fileSizeBytes": "80544768",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 2566,
+      "userRatingCountForCurrentVersion": 2781,
       "trackContentRating": "4+",
+      "artistId": 1837097975,
+      "artistName": "Hong Kong Haini Technology Limited",
       "genres": [
         "Shopping"
       ],
       "price": 0,
       "bundleId": "com.litbuy.litbuy",
-      "releaseDate": "2025-11-22T08:00:00Z",
       "genreIds": [
         "6024"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
       "trackId": 6754669130,
       "trackName": "LitBuy",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-11-22T08:00:00Z",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
       "sellerName": "Hong Kong Haini Technology Limited",
-      "minimumOsVersion": "13.0",
-      "currentVersionReleaseDate": "2026-10-23T18:49:15Z",
-      "releaseNotes": "Fixed an issue on some devices where closing an image preview could occasionally open another page by mistake.",
-      "version": "1.4.2",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-04T17:19:23Z",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "version": "1.4.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Litbuy is your all-in-one shopping agent and parcel-forwarding app designed for purchasing products from popular online marketplaces in China — fast, easy, and reliable.\nWhether you're looking for fashion, electronics, accessories, or daily essentials, Litbuy helps you order, check quality, consolidate, and ship worldwide with a seamless user experience.\n Key Features\n• Paste the link & order instantly\nJust paste a product link, choose options, and place your order in seconds.\n• Real warehouse QC photos before shipping\nReceive clear, real QC photos from our warehouse so you can approve your items with confidence.\n• Pack First, Pay Later\nPreview the actual weight and size of your parcel — pay only the accurate shipping fee.\n• Real-time parcel tracking\nTrack every step of your shipment with detailed, up-to-date logistics information.\n• Consolidation & extra packaging\nCombine multiple orders into one parcel and enjoy free extra protection for safer delivery.\n• Lower shipping fees with exclusive 40% OFF & 30% OFF coupons",
-      "averageUserRating": 4.66797,
-      "trackCensoredName": "LitBuy",
+      "averageUserRating": 4.67817,
       "trackViewUrl": "https://apps.apple.com/de/app/litbuy/id6754669130?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 1837097975,
-      "artistName": "Hong Kong Haini Technology Limited",
-      "userRatingCount": 2566,
+      "trackCensoredName": "LitBuy",
+      "minimumOsVersion": "13.0",
+      "userRatingCount": 2781,
       "country": "DEU"
     }
   ]

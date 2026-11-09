@@ -743,21 +743,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/4b/95/c74b9526-1d6a-dc6b-8bf7-833001ed38ae/02456a89-a0a6-4c61-bf40-5ba1833c9b2b_Reddit_SS_Brand_Update_Colorful_Set_Ipad_6.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5c/8d/b05c8da2-f405-1284-3467-3feaa31fb2c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/af/da74aff1-df6b-851c-0bde-b50fd50ef659/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/af/da74aff1-df6b-851c-0bde-b50fd50ef659/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/74/af/da74aff1-df6b-851c-0bde-b50fd50ef659/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "artistViewUrl": "https://apps.apple.com/gb/developer/reddit-inc/id808295587?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5c/8d/b05c8da2-f405-1284-3467-3feaa31fb2c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5c/8d/b05c8da2-f405-1284-3467-3feaa31fb2c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Infrequent/Mild Medical/Treatment Information",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Frequent/Intense Profanity or Crude Humour",
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -890,12 +880,23 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Infrequent/Mild Cartoon or Fantasy Violence",
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Medical/Treatment Information",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Frequent/Intense Profanity or Crude Humour"
+      ],
       "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "averageUserRatingForCurrentVersion": 4.71188,
       "sellerUrl": "https://www.reddit.com/mobile/download",
+      "averageUserRating": 4.71169,
+      "trackCensoredName": "Reddit",
       "languageCodesISO2A": [
         "BN",
         "BG",
@@ -931,15 +932,13 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "475553792",
+      "fileSizeBytes": "480504832",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 386212,
-      "trackContentRating": "17+",
-      "trackCensoredName": "Reddit",
-      "trackViewUrl": "https://apps.apple.com/gb/app/reddit/id1064216828?uo=4",
-      "averageUserRating": 4.71188,
-      "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
       "contentAdvisoryRating": "17+",
+      "userRatingCountForCurrentVersion": 386561,
+      "trackViewUrl": "https://apps.apple.com/gb/app/reddit/id1064216828?uo=4",
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.71169,
       "artistId": 808295587,
       "artistName": "REDDIT, INC.",
       "genres": [
@@ -947,25 +946,26 @@
         "Social Networking"
       ],
       "price": 0,
-      "releaseDate": "2016-04-07T08:12:27Z",
+      "trackName": "Reddit",
+      "trackId": 1064216828,
       "minimumOsVersion": "16.0",
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6009",
         "6005"
       ],
       "sellerName": "REDDIT, INC.",
-      "trackId": 1064216828,
-      "trackName": "Reddit",
-      "currentVersionReleaseDate": "2026-10-26T20:55:02Z",
-      "version": "2026.43.0",
+      "releaseDate": "2016-04-07T08:12:27Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-06T12:49:32Z",
+      "releaseNotes": "Thanks for updating the Reddit app! We've updated our iOS app with bug fixes and changes to improve your overall experience.",
+      "version": "2026.44.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Welcome to Reddit — where authentic conversations bring real people together.\nReddit is the world's largest community-driven platform to ask questions, connect with real people, share ideas and discover what matters across thousands of communities.\nWith over 100,000 communities covering every interest, Reddit is where genuine conversations happen. From breaking news and Premier League debates to personal finance advice, memes and pub culture chats, Reddit connects you with real people sharing real opinions across the UK.\n\nWhy Choose Reddit?\n■ Find communities and forums for every interest\nWhether you're into pop culture, Premier League sports, tech or personal finance, Reddit has thoughtful discussions on every topic. Dive into trending posts and talk with people who share your interests.\n■ Ask questions and get real answers\nReddit is for real talk with real people. Get advice, honest answers and recommendations from communities who've been there.\n■ Talk about anything that matters\nMeet people who share your passions, get advice or just find something new. Find communities dedicated to the things you care about and connect across the UK and beyond.\n\nBest UK Communities to Join on Reddit\n■ r/AskReddit & r/todayilearned\nAsk questions and get genuine answers from communities who care. Whether exploring personal goals or reacting to current events, there's always something new to discover.\n■ r/News and r/unitedkingdom\nDiscover breaking news, discuss real events and stay informed about everything happening across the UK and around the world.\n■ r/Funny and r/CasualUK\nLooking for laughs? Find communities dedicated to clever memes, daily jokes and the kind of dry British humour you won't find anywhere else.\n■ r/Gaming\nMeet experienced gamers, ask for advice and explore gaming content across thoughtful discussions.\n■ r/Music & r/Movies\nTalk about your favourite films and music. Find new things to love and share your perspectives on everything from classic British cinema to the latest hits.\nHow Does Reddit's Voting System Work?\nInstead of likes and hearts, Reddit's community-driven platform runs on upvotes and downvotes. Voting helps the best discussions and threads rise to the top of every community. Karma boosts your visibility and unlocks access to specific forums.\n\nJoin millions of Brits and discover everything that piques your interest, only on Reddit.\nReddit Premium \nPurchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more.\nPayment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device's Account Settings. No partial refunds.\nPrivacy Policy: https://www.redditinc.com/policies/privacy-policy\nUser Agreement: https://www.redditinc.com/policies/user-agreement\nReddit Rules: https://redditinc.com/policies/reddit-rules\nIf you have any problems with the app, get support at RedditHelp.com",
       "bundleId": "com.reddit.Reddit",
-      "userRatingCount": 386212,
+      "userRatingCount": 386561,
       "country": "GBR"
     }
   ]

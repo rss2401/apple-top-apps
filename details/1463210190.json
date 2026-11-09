@@ -195,17 +195,6 @@
       "userRatingCount": 558
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/doctors-handbooks-ltd/id1659498532?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/01/61/1a016132-2ae8-9cf6-2888-4c0c930c2a09/66311e28-8851-4c79-a006-3a513d6c0929_page-0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/23/d0/8123d0f1-708d-b681-2c3e-5fb4b87e05c5/0c4e1ef1-1cc2-433b-88ea-76d71fa87c69_page-1.jpg/392x696bb.jpg",
@@ -228,6 +217,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -360,22 +352,43 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/doctors-handbooks-ltd/id1659498532?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/5c/ec/b45cec16-4e7c-4e30-8a89-8861e854974a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://www.doctorshandbook.co.uk",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "111112192",
+      "formattedPrice": "£2.99",
+      "userRatingCountForCurrentVersion": 566,
+      "trackContentRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.88516,
+      "currentVersionReleaseDate": "2025-08-29T02:43:06Z",
       "releaseNotes": "Updated to include NHS trust in Wales, Northern Ireland and NHS boards in Scotland",
-      "primaryGenreName": "Medical",
-      "primaryGenreId": 6020,
-      "trackId": 1463210190,
-      "trackName": "Foundation Doctor Handbook",
+      "genres": [
+        "Medical"
+      ],
       "artistId": 1659498532,
       "artistName": "DOCTOR'S HANDBOOKS LTD",
       "price": 2.99,
-      "minimumOsVersion": "17.6",
+      "bundleId": "com.Nicholas-Farmer.foundationHandbook",
+      "trackId": 1463210190,
+      "trackName": "Foundation Doctor Handbook",
+      "releaseDate": "2019-08-07T07:36:37Z",
       "genreIds": [
         "6020"
       ],
-      "releaseDate": "2019-08-07T07:36:37Z",
+      "primaryGenreName": "Medical",
+      "primaryGenreId": 6020,
       "sellerName": "DOCTORS HANDBOOKS LTD",
+      "minimumOsVersion": "17.6",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-08-29T02:43:06Z",
       "version": "11",
       "wrapperType": "software",
       "currency": "GBP",
@@ -383,21 +396,8 @@
       "trackCensoredName": "Foundation Doctor Handbook",
       "trackViewUrl": "https://apps.apple.com/gb/app/foundation-doctor-handbook/id1463210190?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.88536,
-      "averageUserRating": 4.88536,
-      "sellerUrl": "https://www.doctorshandbook.co.uk",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "111112192",
-      "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 567,
-      "trackContentRating": "17+",
-      "genres": [
-        "Medical"
-      ],
-      "bundleId": "com.Nicholas-Farmer.foundationHandbook",
-      "userRatingCount": 567,
+      "averageUserRating": 4.88516,
+      "userRatingCount": 566,
       "country": "GBR"
     }
   ]

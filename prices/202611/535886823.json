@@ -2,7 +2,7 @@
   "id": "535886823",
   "name": "Google Chrome - ウェブブラウザ",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:46:22.302Z",
+  "fetchedAt": "2026-11-09T10:03:48.733Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -43,11 +43,6 @@
           "amount": 9.99
         },
         {
-          "name": "200 GB",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "Google AI Plus (400 GB)",
           "price": "4,99 €",
           "amount": 4.99
@@ -56,9 +51,14 @@
           "name": "100 GB",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "200 GB",
+          "price": "2,99 €",
+          "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:16.809Z"
+      "fetchedAt": "2026-11-09T10:03:43.313Z"
     },
     "fr": {
       "currency": "EUR",
@@ -89,6 +89,21 @@
           "amount": 2.99
         },
         {
+          "name": "100 Go",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "200 Go",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "Google AI Plus (400 GB)",
           "price": "4,99 €",
           "amount": 4.99
@@ -97,24 +112,9 @@
           "name": "Google AI Plus (2 TB)",
           "price": "9,99 €",
           "amount": 9.99
-        },
-        {
-          "name": "200 Go",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
-          "name": "100 Go",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
-          "name": "200 Go",
-          "price": "29,99 €",
-          "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:18.408Z"
+      "fetchedAt": "2026-11-09T10:03:44.807Z"
     },
     "gb": {
       "currency": "GBP",
@@ -145,6 +145,21 @@
           "amount": 2.99
         },
         {
+          "name": "Google AI Plus (2 TB)",
+          "price": "£7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "£7.99",
+          "amount": 7.99
+        },
+        {
+          "name": "200 GB",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
           "name": "Google AI Plus (400 GB)",
           "price": "£4.49",
           "amount": 4.49
@@ -153,24 +168,9 @@
           "name": "Google AI Plus (2 TB)",
           "price": "£7.99",
           "amount": 7.99
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "£7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "100 GB",
-          "price": "£1.79",
-          "amount": 1.79
-        },
-        {
-          "name": "100 GB",
-          "price": "£15.99",
-          "amount": 15.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:19.988Z"
+      "fetchedAt": "2026-11-09T10:03:46.245Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,6 +196,26 @@
           "amount": 440
         },
         {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "¥1,450",
+          "amount": 1450
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "¥1,450",
+          "amount": 1450
+        },
+        {
+          "name": "200 GB",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
           "name": "Google AI Plus (400 GB)",
           "price": "¥720",
           "amount": 720
@@ -204,29 +224,9 @@
           "name": "200 GB",
           "price": "¥440",
           "amount": 440
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "¥1,450",
-          "amount": 1450
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "¥1,450",
-          "amount": 1450
-        },
-        {
-          "name": "200 GB",
-          "price": "¥440",
-          "amount": 440
-        },
-        {
-          "name": "100 GB",
-          "price": "¥2,900",
-          "amount": 2900
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:21.411Z"
+      "fetchedAt": "2026-11-09T10:03:47.849Z"
     },
     "us": {
       "currency": "USD",
@@ -262,14 +262,14 @@
           "amount": 9.99
         },
         {
-          "name": "Google AI Plus (400 GB)",
-          "price": "$4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Google AI Plus (2 TB)",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Google AI Plus (400 GB)",
+          "price": "$4.99",
+          "amount": 4.99
         },
         {
           "name": "200 GB",
@@ -282,7 +282,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:46:22.295Z"
+      "fetchedAt": "2026-11-09T10:03:48.733Z"
     }
   }
 }

@@ -2,7 +2,7 @@
   "id": "962194608",
   "name": "Google Photos: Backup & Edit",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:57:24.928Z",
+  "fetchedAt": "2026-11-09T10:14:49.364Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -58,7 +58,63 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:23.381Z"
+      "fetchedAt": "2026-11-09T10:14:46.833Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "100 GB（月間）",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "100 GB（月間）",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "200 GB（月間）",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "100 GB（月間）",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "¥1,450",
+          "amount": 1450
+        },
+        {
+          "name": "200 GB（月間）",
+          "price": "¥440",
+          "amount": 440
+        },
+        {
+          "name": "100 GB（月間）",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "100 GB",
+          "price": "¥290",
+          "amount": 290
+        },
+        {
+          "name": "100 GB（年間）",
+          "price": "¥2,900",
+          "amount": 2900
+        },
+        {
+          "name": "Google AI Plus (2 TB)",
+          "price": "¥1,450",
+          "amount": 1450
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:14:48.431Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +170,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:57:24.928Z"
+      "fetchedAt": "2026-11-09T10:14:49.359Z"
     }
   }
 }

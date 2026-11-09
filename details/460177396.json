@@ -482,19 +482,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/c6/29/3dc62974-b130-bf54-744e-1967648b79c5/8e164e4c-4e20-4bce-ab2e-2cea087a71df_5_APP_IPAD_105_5.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/9f/63/6c9f63e4-dd16-4c14-18d2-847ac2aa8978/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/af/88/d5af88c1-ef7a-2d28-90c0-1f3335b21efe/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/twitch-interactive-inc/id358612219?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/9f/63/6c9f63e4-dd16-4c14-18d2-847ac2aa8978/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/9f/63/6c9f63e4-dd16-4c14-18d2-847ac2aa8978/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
-      "advisories": [
-        "Scènes rares/modérées réservées aux adultes (suggestives)",
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Simulations rares/modérées de jeu de hasard",
-        "Scènes rares/modérées d’horreur ou d’épouvante",
-        "Scènes rares/modérées de violence (animation ou fantastique)",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées de violence réaliste"
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/af/88/d5af88c1-ef7a-2d28-90c0-1f3335b21efe/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/af/88/d5af88c1-ef7a-2d28-90c0-1f3335b21efe/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -628,15 +622,19 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
+      "advisories": [
+        "Scènes rares/modérées d’horreur ou d’épouvante",
+        "Scènes rares/modérées de violence réaliste",
+        "Scènes rares/modérées réservées aux adultes (suggestives)",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Simulations rares/modérées de jeu de hasard",
+        "Scènes rares/modérées de violence (animation ou fantastique)",
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire"
       ],
-      "fileSizeBytes": "503343104",
-      "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 443475,
-      "trackContentRating": "12+",
+      "kind": "software",
+      "averageUserRatingForCurrentVersion": 4.70482,
       "sellerUrl": "http://mobile.twitch.tv",
+      "trackCensoredName": "Twitch : streaming en live",
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -667,38 +665,40 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 4.70519,
-      "trackCensoredName": "Twitch : streaming en live",
+      "fileSizeBytes": "504215552",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 444968,
       "trackViewUrl": "https://apps.apple.com/fr/app/twitch-streaming-en-live/id460177396?uo=4",
+      "trackContentRating": "12+",
+      "releaseNotes": "Corrections de bugs, amélioration de la stabilité et optimisation de l'app",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.70519,
-      "artistId": 358612219,
-      "artistName": "Twitch Interactive, Inc.",
+      "averageUserRating": 4.70482,
+      "bundleId": "tv.twitch",
+      "price": 0,
       "genres": [
         "Photo et vidéo",
         "Réseaux sociaux"
       ],
-      "price": 0,
+      "artistId": 358612219,
+      "artistName": "Twitch Interactive, Inc.",
       "trackId": 460177396,
       "trackName": "Twitch : streaming en live",
       "genreIds": [
         "6008",
         "6005"
       ],
-      "bundleId": "tv.twitch",
+      "minimumOsVersion": "16.4",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
       "sellerName": "Twitch Interactive, Inc.",
-      "minimumOsVersion": "16.4",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-27T16:48:16Z",
-      "releaseNotes": "Corrections de bugs, amélioration de la stabilité et optimisation de l'app",
-      "releaseDate": "2011-10-26T07:00:00Z",
-      "version": "31.8",
+      "currentVersionReleaseDate": "2026-11-02T18:44:44Z",
+      "version": "31.9",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Twitch est le point de rencontre de milliers de communautés qui se rassemblent autour de leurs streamers préférés, des jeux qu’elles aiment, du rire, des autres, de tout. Téléchargez Twitch et rejoignez des millions de personnes qui aiment les jeux en live, la musique, le sport, l’esport, les podcasts, les émissions de cuisine, les streams IRL, et tout ce qui peut traverser les esprits formidablement absurdes de notre communauté. Rendez-vous dans le chat. \n\nVoici une petite liste des autres merveilles de Twitch : \n\ntout le monde pense « communauté ». Et c’est parce que nous en sommes une : quel que soit le sujet qui vous fait vibrer, vous trouverez vos semblables sur Twitch. \nSoutenez, soyez soutenu : découvrez de nouveaux streamers et abonnez-vous à ceux que vous préférez. Et débloquez des avantages exclusifs en récompense de votre soutien. \nLancez votre propre chaîne : l’application Twitch est l’un des meilleurs outils pour commencer le streaming. \nIl suffit de créer un compte, de lancer un live depuis l’application, et de rassembler les gens autour de vos passions. \nOn ne sait jamais ce qu’on va trouver : des jeux populaires y sont toujours en live, mais aussi des festivals de musique, des lancements de fusées, des balades dans les rues de Tokyo et même du yoga avec des chèvres. Oui, des chèvres. \nMode sombre : vous l’adorez tous, celui-là. Le noir et le violet n’ont jamais fait aussi bon ménage. \n\nLes conditions d'utilisation de Twitch sont disponibles à l'adresse https://www.twitch.tv/p/legal/terms-of-service/\n\nPour laisser un commentaire ou obtenir de l’aide, visitez notre centre d’assistance sur https://help.twitch.tv\n \nAttention : cette application intègre le logiciel de mesure propriétaire de Nielsen qui contribue aux études de marché, telles que les audiences TV de Nielsen. Pour plus d’informations, rendez-vous sur http://priv-policy.imrworldwide.com/priv/mobile/us/en/optout.html",
-      "userRatingCount": 443475,
+      "releaseDate": "2011-10-26T07:00:00Z",
+      "userRatingCount": 444968,
       "country": "FRA"
     }
   ]

@@ -1,13 +1,18 @@
 {
   "id": "1130498044",
-  "name": "Apple Support",
+  "name": "Apple 支持",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:12:58.012Z",
+  "fetchedAt": "2026-11-09T10:24:43.848Z",
   "storefronts": {
+    "cn": {
+      "currency": "CNY",
+      "items": [],
+      "fetchedAt": "2026-11-09T10:24:42.362Z"
+    },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-02T10:12:58.012Z"
+      "fetchedAt": "2026-11-09T10:24:43.845Z"
     }
   }
 }

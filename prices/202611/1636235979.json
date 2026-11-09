@@ -2,7 +2,7 @@
   "id": "1636235979",
   "name": "ReelShort - Stream Drama & TV",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:02:16.855Z",
+  "fetchedAt": "2026-11-09T10:19:10.287Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -48,17 +48,17 @@
           "amount": 5.99
         },
         {
-          "name": "Subscription",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Weekly Subscription",
           "price": "22,99 €",
           "amount": 22.99
+        },
+        {
+          "name": "Subscription",
+          "price": "9,99 €",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:11.028Z"
+      "fetchedAt": "2026-11-09T10:19:04.742Z"
     },
     "fr": {
       "currency": "EUR",
@@ -99,22 +99,22 @@
           "amount": 22.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
           "name": "Subscription",
           "price": "6,99 €",
           "amount": 6.99
         },
         {
-          "name": "Subscription",
-          "price": "8,99 €",
-          "amount": 8.99
+          "name": "One-time Purchase",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Weekly Subscription",
+          "price": "19,99 €",
+          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:12.601Z"
+      "fetchedAt": "2026-11-09T10:19:06.131Z"
     },
     "gb": {
       "currency": "GBP",
@@ -165,12 +165,12 @@
           "amount": 14.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "£2.99",
-          "amount": 2.99
+          "name": "Weekly Subscription",
+          "price": "£22.99",
+          "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:14.248Z"
+      "fetchedAt": "2026-11-09T10:19:07.591Z"
     },
     "jp": {
       "currency": "JPY",
@@ -221,12 +221,12 @@
           "amount": 2500
         },
         {
-          "name": "subscription",
+          "name": "Weekly Subscription",
           "price": "¥2,500",
           "amount": 2500
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:15.572Z"
+      "fetchedAt": "2026-11-09T10:19:09.096Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:16.853Z"
+      "fetchedAt": "2026-11-09T10:19:10.287Z"
     }
   }
 }

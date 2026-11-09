@@ -2,20 +2,20 @@
   "id": "6757432427",
   "name": "Base44: Build with AI",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:15:31.512Z",
+  "fetchedAt": "2026-11-09T10:28:48.195Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
         {
-          "name": "Starter plan",
-          "price": "¥148.00",
-          "amount": 148
-        },
-        {
           "name": "Builder plan",
           "price": "¥328.00",
           "amount": 328
+        },
+        {
+          "name": "Starter plan",
+          "price": "¥148.00",
+          "amount": 148
         },
         {
           "name": "Pro plan",
@@ -38,7 +38,7 @@
           "amount": 1298
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:30.064Z"
+      "fetchedAt": "2026-11-09T10:28:46.565Z"
     },
     "us": {
       "currency": "USD",
@@ -74,7 +74,7 @@
           "amount": 959.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:15:31.512Z"
+      "fetchedAt": "2026-11-09T10:28:48.195Z"
     }
   }
 }

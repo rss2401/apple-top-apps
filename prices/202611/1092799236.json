@@ -1,8 +1,8 @@
 {
   "id": "1092799236",
-  "name": "Yuka - Produkt Scanner",
+  "name": "Yuka - Scan de produits",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:09:00.714Z",
+  "fetchedAt": "2026-11-09T10:26:30.121Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -24,6 +24,27 @@
         }
       ],
       "fetchedAt": "2026-11-02T10:09:00.713Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Membre Premium",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Membre Premium",
+          "price": "15,00 €",
+          "amount": 15
+        },
+        {
+          "name": "Membre Premium",
+          "price": "20,00 €",
+          "amount": 20
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:26:30.121Z"
     }
   }
 }

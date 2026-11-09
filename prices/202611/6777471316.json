@@ -2,7 +2,7 @@
   "id": "6777471316",
   "name": "mise – Essensplaner",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:05:06.595Z",
+  "fetchedAt": "2026-11-09T10:22:03.092Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -34,11 +34,6 @@
         },
         {
           "name": "Yearly Membership",
-          "price": "34,99 €",
-          "amount": 34.99
-        },
-        {
-          "name": "Yearly Membership",
           "price": "59,99 €",
           "amount": 59.99
         },
@@ -53,12 +48,17 @@
           "amount": 34.99
         },
         {
-          "name": "Yearly Subscription",
+          "name": "Yearly Membership",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "Win back offer",
           "price": "22,99 €",
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:05:06.594Z"
+      "fetchedAt": "2026-11-09T10:22:03.092Z"
     }
   }
 }

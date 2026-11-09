@@ -2,28 +2,18 @@
   "id": "6757948828",
   "name": "海底大猎杀2026",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:59:33.380Z",
+  "fetchedAt": "2026-11-09T10:16:40.548Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
-        {
-          "name": "500 RIVER COINS",
-          "price": "¥15.00",
-          "amount": 15
-        },
-        {
-          "name": "500 MULTIPLAYER COINS",
-          "price": "¥15.00",
-          "amount": 15
-        },
         {
           "name": "500 OCEAN COINS",
           "price": "¥15.00",
           "amount": 15
         },
         {
-          "name": "500 REEF COINS",
+          "name": "500 RIVER COINS",
           "price": "¥15.00",
           "amount": 15
         },
@@ -33,12 +23,22 @@
           "amount": 15
         },
         {
+          "name": "500 MULTIPLAYER COINS",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "500 REEF COINS",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
           "name": "REMOVE AD",
           "price": "¥22.00",
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-11-02T09:59:33.380Z"
+      "fetchedAt": "2026-11-09T10:16:40.548Z"
     }
   }
 }

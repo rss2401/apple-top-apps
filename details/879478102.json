@@ -252,10 +252,13 @@
       "userRatingCount": 403229
     },
     {
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/90/c7/6f90c7aa-cd0d-3880-4bb2-fe59229d5005/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/90/c7/6f90c7aa-cd0d-3880-4bb2-fe59229d5005/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ca/88/7cca883a-7729-c929-82af-b2826d8482d8/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ca/88/7cca883a-7729-c929-82af-b2826d8482d8/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -404,39 +407,31 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/a1/94/73a19413-5a25-1e46-77f8-94102bb8da16/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/90/c7/6f90c7aa-cd0d-3880-4bb2-fe59229d5005/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ca/88/7cca883a-7729-c929-82af-b2826d8482d8/slides_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "* Security improvements, bug fixes, and performance improvements.",
+      "trackCensoredName": "Google Slides",
       "trackViewUrl": "https://apps.apple.com/us/app/google-slides/id879478102?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.67637,
-      "trackCensoredName": "Google Slides",
-      "averageUserRatingForCurrentVersion": 4.67637,
-      "artistId": 281956209,
-      "genres": [
-        "Productivity",
-        "Business"
-      ],
-      "price": 0,
-      "bundleId": "com.google.Slides",
-      "trackId": 879478102,
-      "trackName": "Google Slides",
+      "averageUserRating": 4.67642,
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6007",
         "6000"
       ],
-      "releaseDate": "2014-08-26T09:20:43Z",
-      "sellerName": "Google LLC",
+      "bundleId": "com.google.Slides",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-28T17:20:32Z",
-      "version": "1.2026.43103",
+      "sellerName": "Google LLC",
+      "releaseDate": "2014-08-26T09:20:43Z",
+      "trackId": 879478102,
+      "trackName": "Google Slides",
+      "currentVersionReleaseDate": "2026-11-03T13:34:21Z",
+      "version": "1.2026.44101",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Create, edit, and collaborate on presentations with the Google Slides app. With Slides you can:\n\n* Create new presentations or edit existing ones\n* Share presentations and collaborate with others in the same presentation at the same time\n* Work anywhere, anytime - even offline\n* Add and rearrange slides, format text and shapes, and more\n* Present right from your device\n* Never worry about losing your work -- everything is automatically saved as you type\n* Present slides to video calls - scheduled meetings will automatically appear\n* Open, edit, and save PowerPoint files\n\nGoogle Slides is part of Google Workspace: where teams of any size can chat, create, and collaborate.\n \nGoogle Workspace subscribers have access to additional Google Slides features, including: \n* Collaborating on a single presentation online with your business partner, your whole team, or external contacts. You control who gets permission to edit, view, or just add comments.\n* Starting from scratch or expediting the process by choosing a template. You can enhance your presentations with videos, images, drawings, and smooth transitions.\n* Working across PCs, Macs, mobiles, and tablets—View or even present your slides from your phone or tablet, so you have the option to practice your presentation up until the last minute.\n\nPermissions Notice\nCamera: This is used for camera mode in video calls and to insert images taken with the camera.\nMicrophone: This is used to transmit audio in video calls.\nPhotos: This is used to access photos under the control of Photos application to let the users pick images to insert into slides.",
+      "averageUserRatingForCurrentVersion": 4.67642,
       "sellerUrl": "http://www.google.com/slides/about/",
       "languageCodesISO2A": [
         "AF",
@@ -507,13 +502,18 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "444790784",
+      "fileSizeBytes": "445491200",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 417006,
+      "userRatingCountForCurrentVersion": 417936,
       "trackContentRating": "4+",
-      "releaseNotes": "* Security improvements, bug fixes, and performance improvements.",
+      "price": 0,
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "artistId": 281956209,
       "artistName": "Google",
-      "userRatingCount": 417006,
+      "userRatingCount": 417936,
       "country": "USA"
     }
   ]

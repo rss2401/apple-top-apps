@@ -2,7 +2,7 @@
   "id": "1543684531",
   "name": "QZ - qdomyos-zwift",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:02:04.983Z",
+  "fetchedAt": "2026-11-09T10:18:57.043Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -13,7 +13,18 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T10:02:03.532Z"
+      "fetchedAt": "2026-11-09T10:18:55.522Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Swag Bag",
+          "price": "1,99 €",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:18:57.041Z"
     },
     "gb": {
       "currency": "GBP",

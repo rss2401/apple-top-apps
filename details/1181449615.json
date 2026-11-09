@@ -208,15 +208,6 @@
       "userRatingCount": 525
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/imagitech-ltd/id584774459?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/27/9f0d27ee-94f1-95c4-9e2f-8b250d458b51/AppIcon_CPC-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/27/9f0d27ee-94f1-95c4-9e2f-8b250d458b51/AppIcon_CPC-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/82/2a/3b822a88-837b-9963-7037-37afc75ccc85/pr_source.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/12/58/861258f7-bdda-c850-7afe-f51be26215b6/pr_source.jpg/392x696bb.jpg",
@@ -243,6 +234,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/27/9f0d27ee-94f1-95c4-9e2f-8b250d458b51/AppIcon_CPC-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -375,23 +369,43 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/imagitech-ltd/id584774459?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/27/9f0d27ee-94f1-95c4-9e2f-8b250d458b51/AppIcon_CPC-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/0d/27/9f0d27ee-94f1-95c4-9e2f-8b250d458b51/AppIcon_CPC-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "sellerUrl": "https://completetheorytest.co.uk",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "117829632",
+      "formattedPrice": "£14.99",
+      "userRatingCountForCurrentVersion": 560,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.40357,
+      "currentVersionReleaseDate": "2026-09-14T10:38:35Z",
       "releaseNotes": "Our expert team of engineers have carried out a thorough tune-up of the apps engine helping you to keep your learning on track.\n\nEnjoying your journey with our app? Please keep our fuel tank topped up with your feedback!",
-      "primaryGenreName": "Education",
-      "primaryGenreId": 6017,
-      "trackId": 1181449615,
-      "trackName": "Driver CPC Case Studies Test",
+      "genres": [
+        "Education",
+        "Reference"
+      ],
       "artistId": 584774459,
       "artistName": "Imagitech Ltd",
       "price": 14.99,
-      "minimumOsVersion": "15.5",
+      "bundleId": "uk.co.focusmm.TC-Theory-CPC",
+      "trackId": 1181449615,
+      "trackName": "Driver CPC Case Studies Test",
+      "releaseDate": "2017-02-10T01:10:59Z",
       "genreIds": [
         "6017",
         "6006"
       ],
-      "releaseDate": "2017-02-10T01:10:59Z",
+      "primaryGenreName": "Education",
+      "primaryGenreId": 6017,
       "sellerName": "Imagitech LTD",
+      "minimumOsVersion": "15.5",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-09-14T10:38:35Z",
       "version": "3.0.78",
       "wrapperType": "software",
       "currency": "GBP",
@@ -399,22 +413,8 @@
       "trackCensoredName": "Driver CPC Case Studies Test",
       "trackViewUrl": "https://apps.apple.com/gb/app/driver-cpc-case-studies-test/id1181449615?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.4025,
-      "averageUserRating": 4.4025,
-      "sellerUrl": "https://completetheorytest.co.uk",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "117829632",
-      "formattedPrice": "£14.99",
-      "userRatingCountForCurrentVersion": 559,
-      "trackContentRating": "4+",
-      "genres": [
-        "Education",
-        "Reference"
-      ],
-      "bundleId": "uk.co.focusmm.TC-Theory-CPC",
-      "userRatingCount": 559,
+      "averageUserRating": 4.40357,
+      "userRatingCount": 560,
       "country": "GBR"
     }
   ]

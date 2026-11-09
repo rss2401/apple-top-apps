@@ -1,0 +1,44 @@
+{
+  "id": "6456886656",
+  "name": "Layla",
+  "month": "202611",
+  "fetchedAt": "2026-11-09T10:26:45.100Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Blue Morpho Plan",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "Blue Morpho (Yearly)",
+          "price": "299,99 €",
+          "amount": 299.99
+        },
+        {
+          "name": "Birdwing (Yearly)",
+          "price": "199,99 €",
+          "amount": 199.99
+        },
+        {
+          "name": "Monarch (Yearly)",
+          "price": "59,99 €",
+          "amount": 59.99
+        },
+        {
+          "name": "Birdwing Plan",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Monarch Plan",
+          "price": "5,99 €",
+          "amount": 5.99
+        }
+      ],
+      "fetchedAt": "2026-11-09T10:26:45.100Z"
+    }
+  }
+}

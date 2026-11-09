@@ -2,15 +2,6 @@
   "resultCount": 4,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/edvard-wikhall/id1847830664?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/19/3e3719b6-4971-fbaf-163f-93f76cb0742d/plezy-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/19/3e3719b6-4971-fbaf-163f-93f76cb0742d/plezy-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/06/e4/4c06e4f3-2e0e-fa61-0156-4b906595aae2/ios-home.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fd/4a/e4/fd4ae48d-51c6-9af8-fa28-b0bf47f9d801/ios-library.png/320x480bb.jpg",
@@ -25,6 +16,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/19/3e3719b6-4971-fbaf-163f-93f76cb0742d/plezy-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,44 +152,49 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-10-27T16:35:55Z",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/edvard-wikhall/id1847830664?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/19/3e3719b6-4971-fbaf-163f-93f76cb0742d/plezy-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/37/19/3e3719b6-4971-fbaf-163f-93f76cb0742d/plezy-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "fileSizeBytes": "129835008",
+      "formattedPrice": "$5.99",
+      "userRatingCountForCurrentVersion": 125,
+      "trackContentRating": "4+",
+      "releaseNotes": "## New features\n\n- Skip Intro and Skip Credits recognise chapters with generic or non-English names\n- Add to… playlists and collections on Jellyfin and Emby\n- Scan Library Files on Jellyfin and Emby\n- New airings show a NEW badge in the Live TV guide\n- Explore can be the Startup Section\n- The Performance Overlay shows Direct Play or Transcoding\n\n## plezy:// links\n\n- Links can open Plezy in a chosen profile\n- Links play a movie or show by TMDB, TVDB, IMDb or Plex ID from any server\n- A show link plays the next episode, or shuffles the show\n- Show link on movies, shows, episodes and profiles gives the link and a QR code\n- Live TV links work on Apple TV\n- Outplayer, Infuse and VLC on iOS return to Plezy with where playback stopped\n\n## Watch Together\n\n- Opening an ended room from Recent Rooms starts it again under the same code\n- A host playing a download shares it while its server is online\n- Guests play their own download of the room's file instead of streaming it\n- Videos played from Downloads join the room\n\n## Playback\n\n- Subtitle lines near the start of a video no longer go missing\n- Audio Passthrough stays on after a Dolby track fails to pass through\n- Plex shows play in season order even when episode air dates are wrong\n- Back on the Play Next prompt leaves the player\n- Audio Sync moves in 10 ms steps\n- The volume slider shows the level while dragging\n\n## UI\n\n- Posters in dense grids are no longer cropped at the top and bottom\n- Profiles no longer show the Plex account name when only one account is signed in\n- Watch Together, themes, Supporter and newer settings are translated in every language\n- Explore posters load for Plex users with Seerr's Enable Image Caching on\n- Cancel on a download notification stops the download instead of restarting it\n- Continue Watching fits on the first screen of Home on compact phones\n- Screens and sheets stay clear of the status column on iPhone Duo\n- The Home profile avatar opens the profile menu instead of Control Center on iPhone Duo\n\n## TV\n\n- The remote keeps working after switching profiles\n- Backing out of a finished episode focuses the next episode in Continue Watching\n- The Top Shelf shows series posters unless Episode Poster Style is Season Poster",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "averageUserRatingForCurrentVersion": 4.54399,
+      "sellerUrl": "https://plezy.app",
+      "price": 5.99,
       "genres": [
         "Entertainment"
       ],
       "artistId": 1847830664,
       "artistName": "Edvard Wikhall",
-      "price": 5.99,
-      "releaseNotes": "## New features\n\n- Skip Intro and Skip Credits recognise chapters with generic or non-English names\n- Add to… playlists and collections on Jellyfin and Emby\n- Scan Library Files on Jellyfin and Emby\n- New airings show a NEW badge in the Live TV guide\n- Explore can be the Startup Section\n- The Performance Overlay shows Direct Play or Transcoding\n\n## plezy:// links\n\n- Links can open Plezy in a chosen profile\n- Links play a movie or show by TMDB, TVDB, IMDb or Plex ID from any server\n- A show link plays the next episode, or shuffles the show\n- Show link on movies, shows, episodes and profiles gives the link and a QR code\n- Live TV links work on Apple TV\n- Outplayer, Infuse and VLC on iOS return to Plezy with where playback stopped\n\n## Watch Together\n\n- Opening an ended room from Recent Rooms starts it again under the same code\n- A host playing a download shares it while its server is online\n- Guests play their own download of the room's file instead of streaming it\n- Videos played from Downloads join the room\n\n## Playback\n\n- Subtitle lines near the start of a video no longer go missing\n- Audio Passthrough stays on after a Dolby track fails to pass through\n- Plex shows play in season order even when episode air dates are wrong\n- Back on the Play Next prompt leaves the player\n- Audio Sync moves in 10 ms steps\n- The volume slider shows the level while dragging\n\n## UI\n\n- Posters in dense grids are no longer cropped at the top and bottom\n- Profiles no longer show the Plex account name when only one account is signed in\n- Watch Together, themes, Supporter and newer settings are translated in every language\n- Explore posters load for Plex users with Seerr's Enable Image Caching on\n- Cancel on a download notification stops the download instead of restarting it\n- Continue Watching fits on the first screen of Home on compact phones\n- Screens and sheets stay clear of the status column on iPhone Duo\n- The Home profile avatar opens the profile menu instead of Control Center on iPhone Duo\n\n## TV\n\n- The remote keeps working after switching profiles\n- Backing out of a finished episode focuses the next episode in Continue Watching\n- The Top Shelf shows series posters unless Episode Poster Style is Season Poster",
       "bundleId": "com.edde746.plezy",
-      "sellerName": "Edvard Wikhall",
+      "trackId": 6754315964,
+      "trackName": "Plezy: Media Server Client",
+      "releaseDate": "2025-10-30T07:00:00Z",
+      "minimumOsVersion": "15.5",
       "genreIds": [
         "6016"
       ],
-      "releaseDate": "2025-10-30T07:00:00Z",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "minimumOsVersion": "15.5",
+      "sellerName": "Edvard Wikhall",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T16:35:55Z",
       "version": "2.25.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Plezy is a modern client for Plex, Jellyfin, and Emby, built for high-quality playback, effortless discovery, and offline access. Connect multiple servers at once and enjoy your media in one clean, native app—no subscription required.\n\nBROWSE & DISCOVER\n- Browse libraries, collections, playlists, folders, extras, and personalized recommendations\n- Search across every connected Plex, Jellyfin, and Emby server\n- Explore trending, popular, watchlist, and recommendation rows from Plex Discover, Trakt, MyAnimeList, AniList, Simkl, and Seerr\n- Match catalog titles back to your own libraries and request movies or shows through Seerr\n- See resolution, HDR, Dolby Vision, and audio-format badges at a glance\n\nPLAYBACK\n- Wide codec support including HEVC, AV1, VP9, and more\n- HDR playback, direct play, and configurable transcode quality\n- Switch between media versions with detailed file and stream information\n- Full ASS/SSA subtitles with styling controls and online subtitle search\n- Auto-play the next episode with skip intro and skip credits\n- Chapter navigation, thumbnail scrubbing, playback speed, audio sync, sleep timer, and video zoom\n- Picture-in-Picture, loudness normalization, and stereo downmix with center-channel boost\n- Resume progress and remembered audio/subtitle choices\n\nMUSIC\n- Browse artists, albums, and tracks with rich artwork\n- Gapless playback with a reorderable queue, Play Next, and Add to Queue\n- Synced lyrics, a persistent mini-player, and sleep timer\n- Background playback with lock-screen and media controls\n- Offline albums and tracks, plus selectable streaming quality\n\nLIVE TV & DVR\n- Browse and tune live channels with favorites and a full program guide\n- See what's on, browse show schedules, and manage DVR recording rules\n- Use Live TV across multiple supported servers\n\nDOWNLOADS & OFFLINE\n- Download movies, shows, albums, and tracks\n- Pause or resume the background queue\n- Create automatic download rules, including optional show specials\n- Browse offline and sync watch state when you reconnect\n\nPROFILES & INTEGRATIONS\n- Use multiple profiles with per-profile settings, downloads, and watch state\n- Switch Plex Home users with optional PIN protection\n- Discover Jellyfin and Emby servers locally and use Quick Connect\n- Sync watchlists, ratings, watched state, and scrobbles with connected services\n- Watch together with synchronized play, pause, and seeking\n- Control desktop and TV devices with Plezy Remote\n- Available in English plus 21 translations\n\nSome features require a supported server, media format, or connected service.",
-      "averageUserRating": 4.53279,
+      "averageUserRating": 4.54399,
       "trackCensoredName": "Plezy: Media Server Client",
       "trackViewUrl": "https://apps.apple.com/us/app/plezy-media-server-client/id6754315964?uo=4",
       "contentAdvisoryRating": "4+",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.53279,
-      "sellerUrl": "https://plezy.app",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "129835008",
-      "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 122,
-      "trackId": 6754315964,
-      "trackName": "Plezy: Media Server Client",
-      "userRatingCount": 122,
+      "userRatingCount": 125,
       "country": "USA"
     },
     {

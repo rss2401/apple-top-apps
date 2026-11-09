@@ -181,15 +181,6 @@
       "userRatingCount": 2
     },
     {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/max-b-helgemo/id6777792347?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/28/5a/33285ae0-f8d9-a83c-4164-67ad772ec707/iphone-69-01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/3b/76/6e3b768e-68c2-9c1c-2bf7-34612d1ee31c/iphone-69-02-detail.png/320x480bb.jpg",
@@ -203,7 +194,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/92/97/f79297ce-3ead-4e21-9c80-615c85e582d2/ipad-13-04-help.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,42 +331,47 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "currentVersionReleaseDate": "2026-11-01T04:53:51Z",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/max-b-helgemo/id6777792347?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "fileSizeBytes": "5836800",
+      "formattedPrice": "$6.99",
+      "userRatingCountForCurrentVersion": 45,
+      "trackContentRating": "4+",
+      "releaseNotes": "- small fixes",
+      "languageCodesISO2A": [],
+      "averageUserRatingForCurrentVersion": 4.86667,
+      "sellerUrl": "https://blueprintdaw.com",
+      "price": 6.99,
       "genres": [
         "Music"
       ],
       "artistId": 6777792347,
       "artistName": "MAX B HELGEMO",
-      "price": 6.99,
-      "releaseNotes": "- looping: hold the |‹ button to loop a section and record a part over it. drag the blue marks to adjust, and pinch the bar to zoom in\n- pre-roll: get a 1 or 2 bar count, or a run of the song, before you're in. it's in the click panel\n- audio interfaces: record more than one track at once, each from its own input\n- share the mix as a wav or a smaller m4a, every track as its own wav, or the whole session\n- fixed the record button getting squeezed on smaller screens and with display zoom",
       "bundleId": "com.maxhelgemo.blueprintpocket",
-      "sellerName": "MAX B HELGEMO",
+      "trackId": 6777792345,
+      "trackName": "Blueprint 4-Track",
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6011"
       ],
-      "releaseDate": "2026-07-17T07:00:00Z",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "minimumOsVersion": "13.0",
+      "sellerName": "MAX B HELGEMO",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.2",
+      "currentVersionReleaseDate": "2026-11-08T02:20:02Z",
+      "version": "1.2.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.\n\nThe sound of the machine is built in. Each track has its own set of knobs and there is no undo.\n\n  - Records from the built-in mic, a headset mic, or a USB audio interface.\n  - Loops any section of a song so you can record a part over it.\n  - Sends any track through a space echo with spring reverb.\n  - Bends pitch and tempo together with a varispeed knob in the master panel.\n  - Has track merging/clearing, punch-in recording, and a metronome with pre-roll.\n  - Your recordings are WAV files saved on your phone. Share the mix, every track as its own WAV, or the whole session.\n  - Works entirely offline and collects nothing.\n  - Pay once. No subscription, no ads, no account.\n  - Works on iPhone and iPad.\n\n  TIPS\n\n  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.\n  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.\n  - Tap record while playing to punch in over a part you want to redo.\n  - Hold the |‹ button to loop a section.\n  - Tap the ? at the top left for a guide to the controls.\n\nBlueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer. Follow along on instagram at @blueprintdaw.",
-      "averageUserRating": 4.86047,
+      "averageUserRating": 4.86667,
       "trackCensoredName": "Blueprint 4-Track",
       "trackViewUrl": "https://apps.apple.com/us/app/blueprint-4-track/id6777792345?uo=4",
       "contentAdvisoryRating": "4+",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.86047,
-      "sellerUrl": "https://blueprintdaw.com",
-      "languageCodesISO2A": [],
-      "fileSizeBytes": "5836800",
-      "formattedPrice": "$6.99",
-      "userRatingCountForCurrentVersion": 43,
-      "trackId": 6777792345,
-      "trackName": "Blueprint 4-Track",
-      "userRatingCount": 43,
+      "userRatingCount": 45,
       "country": "USA"
     },
     {
@@ -763,7 +763,6 @@
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/28/5a/33285ae0-f8d9-a83c-4164-67ad772ec707/iphone-69-01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/3b/76/6e3b768e-68c2-9c1c-2bf7-34612d1ee31c/iphone-69-02-detail.png/320x480bb.jpg",
@@ -777,7 +776,14 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/92/97/f79297ce-3ead-4e21-9c80-615c85e582d2/ipad-13-04-help.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/max-b-helgemo/id6777792347?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/4e/f4/294ef4e6-39a9-a203-0ba9-db779a4fab6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -910,50 +916,44 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/max-b-helgemo/id6777792347?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b8/34/6db8345d-993c-c30d-dd94-716226d03375/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "advisories": [],
-      "releaseNotes": "- looping: hold the |‹ button to loop a section and record a part over it. drag the blue marks to adjust, and pinch the bar to zoom in\n- pre-roll: get a 1 or 2 bar count, or a run of the song, before you're in. it's in the click panel\n- audio interfaces: record more than one track at once, each from its own input\n- share the mix as a wav or a smaller m4a, every track as its own wav, or the whole session\n- fixed the record button getting squeezed on smaller screens and with display zoom",
-      "averageUserRatingForCurrentVersion": 4.78571,
+      "kind": "software",
       "sellerUrl": "https://blueprintdaw.com",
       "languageCodesISO2A": [],
       "fileSizeBytes": "5836800",
       "formattedPrice": "£6.99",
-      "userRatingCountForCurrentVersion": 14,
+      "userRatingCountForCurrentVersion": 15,
       "trackContentRating": "4+",
-      "artistId": 6777792347,
-      "artistName": "MAX B HELGEMO",
-      "price": 6.99,
-      "trackId": 6777792345,
-      "trackName": "Blueprint 4-Track",
-      "bundleId": "com.maxhelgemo.blueprintpocket",
-      "sellerName": "MAX B HELGEMO",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genreIds": [
-        "6011"
-      ],
-      "releaseDate": "2026-07-17T07:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-01T04:53:51Z",
-      "version": "1.2",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.\n\nThe sound of the machine is built in. Each track has its own set of knobs and there is no undo.\n\n  - Records from the built-in mic, a headset mic, or a USB audio interface.\n  - Loops any section of a song so you can record a part over it.\n  - Sends any track through a space echo with spring reverb.\n  - Bends pitch and tempo together with a varispeed knob in the master panel.\n  - Has track merging/clearing, punch-in recording, and a metronome with pre-roll.\n  - Your recordings are WAV files saved on your phone. Share the mix, every track as its own WAV, or the whole session.\n  - Works entirely offline and collects nothing.\n  - Pay once. No subscription, no ads, no account.\n  - Works on iPhone and iPad.\n\n  TIPS\n\n  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.\n  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.\n  - Tap record while playing to punch in over a part you want to redo.\n  - Hold the |‹ button to loop a section.\n  - Tap the ? at the top left for a guide to the controls.\n\nBlueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer. Follow along on instagram at @blueprintdaw.",
+      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.8,
+      "averageUserRating": 4.8,
       "trackCensoredName": "Blueprint 4-Track",
       "trackViewUrl": "https://apps.apple.com/gb/app/blueprint-4-track/id6777792345?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.78571,
-      "minimumOsVersion": "13.0",
+      "artistId": 6777792347,
+      "artistName": "MAX B HELGEMO",
       "genres": [
         "Music"
       ],
-      "userRatingCount": 14,
+      "price": 6.99,
+      "bundleId": "com.maxhelgemo.blueprintpocket",
+      "trackId": 6777792345,
+      "trackName": "Blueprint 4-Track",
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "minimumOsVersion": "13.0",
+      "genreIds": [
+        "6011"
+      ],
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "MAX B HELGEMO",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "- small fixes",
+      "currentVersionReleaseDate": "2026-11-08T02:20:02Z",
+      "version": "1.2.1",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Great for demos, first takes, and fresh ideas: voice and guitar at the kitchen table, or a band passing one phone around the room.\n\nThe sound of the machine is built in. Each track has its own set of knobs and there is no undo.\n\n  - Records from the built-in mic, a headset mic, or a USB audio interface.\n  - Loops any section of a song so you can record a part over it.\n  - Sends any track through a space echo with spring reverb.\n  - Bends pitch and tempo together with a varispeed knob in the master panel.\n  - Has track merging/clearing, punch-in recording, and a metronome with pre-roll.\n  - Your recordings are WAV files saved on your phone. Share the mix, every track as its own WAV, or the whole session.\n  - Works entirely offline and collects nothing.\n  - Pay once. No subscription, no ads, no account.\n  - Works on iPhone and iPad.\n\n  TIPS\n\n  - Overdub with wired headphones, so the mic doesn't pick up the other tracks.\n  - Don't use Bluetooth headphones while recording: they add delay, and only play in mono.\n  - Tap record while playing to punch in over a part you want to redo.\n  - Hold the |‹ button to loop a section.\n  - Tap the ? at the top left for a guide to the controls.\n\nBlueprint is made by one person. If something feels confusing or missing, email max@blueprintdaw.com and I will answer. Follow along on instagram at @blueprintdaw.",
+      "userRatingCount": 15,
       "country": "GBR"
     }
   ]

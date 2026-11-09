@@ -3,6 +3,16 @@
   "results": [
     {
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/louis-seiger/id1864387019?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/31/4b/3f/314b3fb7-7c31-9fe0-0bf3-5a0e8dbdd51b/08_autoscoring.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/5a/bc/475abc7c-4b0b-be5d-ecfb-454591f5eece/01_pfad.jpg/320x480bb.jpg",
@@ -21,16 +31,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/2b/c1/f52bc1b2-a897-b6cf-9dd5-6dfa30f17b48/04_statistics.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/f9/3a/1bf93aac-ab98-6327-cc8e-a9dcc081189c/03_challenge.jpg/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/94/00/b094000b-f12f-2978-eb23-a9b48cbcf5b9/05_cricket.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/louis-seiger/id1864387019?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ec/b8/9decb895-56de-b205-76f7-0f58f9eeb18d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -164,7 +164,31 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
-      "averageUserRatingForCurrentVersion": 4.66667,
+      "trackCensoredName": "DartStreak",
+      "trackViewUrl": "https://apps.apple.com/de/app/dartstreak/id6757082762?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.66667,
+      "genres": [
+        "Sport"
+      ],
+      "artistId": 1864387019,
+      "artistName": "Louis Seiger",
+      "price": 4.99,
+      "bundleId": "sgr.Dartsreak",
+      "primaryGenreName": "Sports",
+      "primaryGenreId": 6004,
+      "genreIds": [
+        "6004"
+      ],
+      "releaseDate": "2026-01-07T08:00:00Z",
+      "sellerName": "Louis Seiger",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T20:27:54Z",
+      "releaseNotes": "NEU: Autoscoring \nStell dein Handy neben die Scheibe, und die Kamera zählt deine Pfeile. Kein Eintippen mehr zwischen den Aufnahmen. Funktioniert in X01, Cricket, Bob's 27 und bei deinen Trainingsaufgaben.\n\n• Eine kurze Anleitung zeigt dir, wo dein Handy am besten steht.\n• Falsch erkannt? Tipp auf den Pfeil und korrigier ihn mit einem Griff.\n• Der Wurf, der ein Leg, ein Spiel oder eine Aufgabe entscheidet, wartet immer auf deine Bestätigung.\n• Alle Pfeile daneben? Einfach den Haken tippen.\n\nNEU: Caller\nEin Caller sagt deine Punkte an, sobald der dritte Pfeil steckt, und meldet im Checkout-Bereich, was du noch brauchst („You require …“). Über den Lautsprecher im Spiel schaltest du ihn an oder aus.\n\nViel Spaß beim Werfen! Feedback zum Autoscoring hilft uns sehr.",
+      "version": "2.0.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "DartStreak hilft dir, dein Dartspiel mit kurzen, fokussierten täglichen Challenges zu verbessern.\n \nJeden Tag wartet eine neue Mission auf dich, die gezielt deine Genauigkeit, dein Scoring und dein Finish schärft. Trage jeden geworfenen Dart ein und sieh deinen Fortschritt sofort.\n \nFunktionen:\n• Tägliche Dart-Challenges\n• Zusätzliche Trainingsmissionen\n• Streak-System, das dich motiviert dranzubleiben\n• Detaillierte Statistiken zu Singles, Doubles, Triples und Checkouts\n• Einfaches, ablenkungsfreies Design\n \nDartStreak ist für Gelegenheitsspieler und ambitionierte Hobbyspieler gemacht, die Tag für Tag besser werden wollen.",
       "languageCodesISO2A": [
         "EN",
         "DE"
@@ -173,34 +197,10 @@
       "formattedPrice": "4,99 €",
       "userRatingCountForCurrentVersion": 27,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.66667,
       "trackId": 6757082762,
       "trackName": "DartStreak",
-      "artistId": 1864387019,
-      "artistName": "Louis Seiger",
-      "genres": [
-        "Sport"
-      ],
-      "price": 4.99,
-      "primaryGenreName": "Sports",
-      "primaryGenreId": 6004,
       "minimumOsVersion": "15.0",
-      "releaseDate": "2026-01-07T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6004"
-      ],
-      "sellerName": "Louis Seiger",
-      "currentVersionReleaseDate": "2026-10-27T20:27:54Z",
-      "releaseNotes": "NEU: Autoscoring \nStell dein Handy neben die Scheibe, und die Kamera zählt deine Pfeile. Kein Eintippen mehr zwischen den Aufnahmen. Funktioniert in X01, Cricket, Bob's 27 und bei deinen Trainingsaufgaben.\n\n• Eine kurze Anleitung zeigt dir, wo dein Handy am besten steht.\n• Falsch erkannt? Tipp auf den Pfeil und korrigier ihn mit einem Griff.\n• Der Wurf, der ein Leg, ein Spiel oder eine Aufgabe entscheidet, wartet immer auf deine Bestätigung.\n• Alle Pfeile daneben? Einfach den Haken tippen.\n\nNEU: Caller\nEin Caller sagt deine Punkte an, sobald der dritte Pfeil steckt, und meldet im Checkout-Bereich, was du noch brauchst („You require …“). Über den Lautsprecher im Spiel schaltest du ihn an oder aus.\n\nViel Spaß beim Werfen! Feedback zum Autoscoring hilft uns sehr.",
-      "version": "2.0.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "DartStreak hilft dir, dein Dartspiel mit kurzen, fokussierten täglichen Challenges zu verbessern.\n \nJeden Tag wartet eine neue Mission auf dich, die gezielt deine Genauigkeit, dein Scoring und dein Finish schärft. Trage jeden geworfenen Dart ein und sieh deinen Fortschritt sofort.\n \nFunktionen:\n• Tägliche Dart-Challenges\n• Zusätzliche Trainingsmissionen\n• Streak-System, das dich motiviert dranzubleiben\n• Detaillierte Statistiken zu Singles, Doubles, Triples und Checkouts\n• Einfaches, ablenkungsfreies Design\n \nDartStreak ist für Gelegenheitsspieler und ambitionierte Hobbyspieler gemacht, die Tag für Tag besser werden wollen.",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.66667,
-      "trackCensoredName": "DartStreak",
-      "trackViewUrl": "https://apps.apple.com/de/app/dartstreak/id6757082762?uo=4",
-      "bundleId": "sgr.Dartsreak",
       "userRatingCount": 27,
       "country": "DEU"
     }

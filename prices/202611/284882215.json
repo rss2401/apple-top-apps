@@ -2,7 +2,7 @@
   "id": "284882215",
   "name": "Facebook",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:52:19.781Z",
+  "fetchedAt": "2026-11-09T10:09:59.851Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 5.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:52:15.591Z"
+      "fetchedAt": "2026-11-09T10:09:55.316Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:52:17.077Z"
+      "fetchedAt": "2026-11-09T10:09:56.724Z"
     },
     "gb": {
       "currency": "GBP",
@@ -145,14 +145,14 @@
           "amount": 3.49
         },
         {
-          "name": "310 Stars",
-          "price": "£5.99",
-          "amount": 5.99
-        },
-        {
           "name": "530 Stars",
           "price": "£9.99",
           "amount": 9.99
+        },
+        {
+          "name": "310 Stars",
+          "price": "£5.99",
+          "amount": 5.99
         },
         {
           "name": "Supporter",
@@ -170,7 +170,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:52:18.633Z"
+      "fetchedAt": "2026-11-09T10:09:58.334Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-02T09:52:19.779Z"
+      "fetchedAt": "2026-11-09T10:09:59.851Z"
     }
   }
 }
