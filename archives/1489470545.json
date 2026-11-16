@@ -1,5 +1,5 @@
 {
-  "resultCount": 8,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -185,10 +185,36 @@
     },
     {
       "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 95,
+      "artistName": "DevelopW LLC",
+      "id": "1489470545",
+      "name": "iFacialMocap",
+      "releaseDate": "2020-01-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/e8/a5/3ae8a5ff-b268-b600-300e-93d093a92873/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        },
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/ifacialmocap/id1489470545"
+    },
+    {
+      "month": "202611",
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 32,
+      "rank": 58,
       "artistName": "DevelopW LLC",
       "id": "1489470545",
       "name": "iFacialMocap",

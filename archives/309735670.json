@@ -1,5 +1,5 @@
 {
-  "resultCount": 17,
+  "resultCount": 18,
   "results": [
     {
       "month": "202512",
@@ -367,10 +367,36 @@
     },
     {
       "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 84,
+      "artistName": "Indeed Inc.",
+      "id": "309735670",
+      "name": "Indeed Jobs",
+      "releaseDate": "2010-01-28",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/9b/85/049b8577-7cb4-2832-bf41-3115cc573738/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Wirtschaft",
+          "url": "https://itunes.apple.com/de/genre/id6000"
+        },
+        {
+          "genreId": "6002",
+          "name": "Dienst­programme",
+          "url": "https://itunes.apple.com/de/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/indeed-jobs/id309735670"
+    },
+    {
+      "month": "202611",
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 87,
+      "rank": 75,
       "artistName": "Indeed Inc.",
       "id": "309735670",
       "name": "Indeed: Recherche d’Emploi",
@@ -396,7 +422,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 69,
+      "rank": 76,
       "artistName": "Indeed Inc.",
       "id": "309735670",
       "name": "Indeed Job Search",
@@ -422,7 +448,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 81,
+      "rank": 86,
       "artistName": "Indeed Inc.",
       "id": "309735670",
       "name": "Indeed Job Search",

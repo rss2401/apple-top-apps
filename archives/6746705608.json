@@ -1,5 +1,5 @@
 {
-  "resultCount": 27,
+  "resultCount": 28,
   "results": [
     {
       "month": "202512",
@@ -538,7 +538,7 @@
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 24,
+      "rank": 32,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: 鼾声记录器",
@@ -564,7 +564,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 32,
+      "rank": 24,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: Schnarch-Rekorder",
@@ -587,10 +587,36 @@
     },
     {
       "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 34,
+      "artistName": "Tantsissa",
+      "id": "6746705608",
+      "name": "AutoSnore: Appli ronflement",
+      "releaseDate": "2025-11-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f6/95/b3f69583-5d59-be31-99b4-92228ea153b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6020",
+          "name": "Médecine",
+          "url": "https://itunes.apple.com/fr/genre/id6020"
+        },
+        {
+          "genreId": "6013",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id6013"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/autosnore-appli-ronflement/id6746705608"
+    },
+    {
+      "month": "202611",
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 13,
+      "rank": 17,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: いびきレコーダー",
@@ -616,7 +642,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 70,
+      "rank": 81,
       "artistName": "Tantsissa",
       "id": "6746705608",
       "name": "AutoSnore: Snoring Recorder",

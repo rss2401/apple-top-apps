@@ -1,5 +1,5 @@
 {
-  "resultCount": 15,
+  "resultCount": 16,
   "results": [
     {
       "month": "202512",
@@ -344,7 +344,7 @@
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 57,
+      "rank": 50,
       "artistName": "Jan Biniok",
       "id": "6738342400",
       "name": "Tampermonkey",
@@ -370,7 +370,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 86,
+      "rank": 85,
       "artistName": "Jan Biniok",
       "id": "6738342400",
       "name": "Tampermonkey",
@@ -390,6 +390,32 @@
         }
       ],
       "url": "https://apps.apple.com/fr/app/tampermonkey/id6738342400"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 61,
+      "artistName": "Jan Biniok",
+      "id": "6738342400",
+      "name": "Tampermonkey",
+      "releaseDate": "2024-11-18",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6007",
+          "name": "仕事効率化",
+          "url": "https://itunes.apple.com/jp/genre/id6007"
+        },
+        {
+          "genreId": "6026",
+          "name": "開発ツール",
+          "url": "https://itunes.apple.com/jp/genre/id6026"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/tampermonkey/id6738342400"
     }
   ]
 }
