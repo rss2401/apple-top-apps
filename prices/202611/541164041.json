@@ -2,7 +2,7 @@
   "id": "541164041",
   "name": "Microsoft Copilot",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:20:23.936Z",
+  "fetchedAt": "2026-11-16T10:28:53.147Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -28,7 +28,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-11-16T10:20:19.408Z"
+      "fetchedAt": "2026-11-16T10:28:47.125Z"
     },
     "de": {
       "currency": "EUR",
@@ -69,14 +69,14 @@
           "amount": 99
         },
         {
+          "name": "Microsoft 365 Personal",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
           "name": "Microsoft 365 Premium Annual",
           "price": "219,00 €",
           "amount": 219
-        },
-        {
-          "name": "Microsoft 365 Family",
-          "price": "129,00 €",
-          "amount": 129
         },
         {
           "name": "Microsoft 365 Personal",
@@ -84,7 +84,7 @@
           "amount": 10
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:36.510Z"
+      "fetchedAt": "2026-11-16T10:28:48.743Z"
     },
     "gb": {
       "currency": "GBP",
@@ -140,7 +140,7 @@
           "amount": 18.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:20:20.826Z"
+      "fetchedAt": "2026-11-16T10:28:50.257Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,7 +196,7 @@
           "amount": 32000
         }
       ],
-      "fetchedAt": "2026-11-16T10:20:22.452Z"
+      "fetchedAt": "2026-11-16T10:28:51.741Z"
     },
     "us": {
       "currency": "USD",
@@ -252,7 +252,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:20:23.931Z"
+      "fetchedAt": "2026-11-16T10:28:53.147Z"
     }
   }
 }

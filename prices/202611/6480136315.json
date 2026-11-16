@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Suno - AI Songs & Music",
+  "name": "Music & Song Creator: Suno",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:12:41.289Z",
+  "fetchedAt": "2026-11-16T10:29:09.601Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -58,7 +58,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:37.122Z"
+      "fetchedAt": "2026-11-16T10:29:03.465Z"
     },
     "de": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:38.611Z"
+      "fetchedAt": "2026-11-16T10:29:05.033Z"
     },
     "fr": {
       "currency": "EUR",
@@ -170,7 +170,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:40.148Z"
+      "fetchedAt": "2026-11-16T10:29:06.428Z"
     },
     "gb": {
       "currency": "GBP",
@@ -186,19 +186,14 @@
           "amount": 30
         },
         {
-          "name": "500 Credits",
-          "price": "£4.00",
-          "amount": 4
-        },
-        {
           "name": "Pro Plan",
           "price": "£99.00",
           "amount": 99
         },
         {
-          "name": "1000 Credits",
-          "price": "£8.00",
-          "amount": 8
+          "name": "500 Credits",
+          "price": "£4.00",
+          "amount": 4
         },
         {
           "name": "1 Download Credit",
@@ -209,6 +204,11 @@
           "name": "1 Download Credit",
           "price": "£4.99",
           "amount": 4.99
+        },
+        {
+          "name": "1000 Credits",
+          "price": "£8.00",
+          "amount": 8
         },
         {
           "name": "3 Download Credits",
@@ -226,7 +226,7 @@
           "amount": 299
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:55.902Z"
+      "fetchedAt": "2026-11-16T10:29:07.952Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:41.289Z"
+      "fetchedAt": "2026-11-16T10:29:09.601Z"
     }
   }
 }
