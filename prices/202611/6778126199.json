@@ -1,9 +1,25 @@
 {
   "id": "6778126199",
-  "name": "Whipp: Meal Planner & Recipes",
+  "name": "Whipp: Essensplaner & Rezepte",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:10:51.732Z",
+  "fetchedAt": "2026-11-16T10:21:40.215Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Whipp Premium (Yearly)",
+          "price": "39,99 €",
+          "amount": 39.99
+        },
+        {
+          "name": "Whipp Premium (Monthly)",
+          "price": "7,99 €",
+          "amount": 7.99
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:21:40.215Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [

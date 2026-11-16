@@ -2,17 +2,22 @@
   "id": "404990064",
   "name": "SkyView®",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:11:53.726Z",
+  "fetchedAt": "2026-11-16T10:08:47.627Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:08:44.659Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-09T10:11:52.263Z"
+      "fetchedAt": "2026-11-16T10:08:46.126Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-09T10:11:53.725Z"
+      "fetchedAt": "2026-11-16T10:08:47.627Z"
     }
   }
 }

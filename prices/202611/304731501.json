@@ -1,9 +1,25 @@
 {
   "id": "304731501",
-  "name": "Tempo - Metronome メトロノーム",
+  "name": "Tempo Métronome avec Setlists",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:28:06.167Z",
+  "fetchedAt": "2026-11-16T10:23:53.734Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Pack de thèmes Premium",
+          "price": "0,99 €",
+          "amount": 0.99
+        },
+        {
+          "name": "Éditeur de thèmes",
+          "price": "0,99 €",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:23:50.653Z"
+    },
     "jp": {
       "currency": "JPY",
       "items": [
@@ -18,7 +34,23 @@
           "amount": 150
         }
       ],
-      "fetchedAt": "2026-11-09T10:28:06.166Z"
+      "fetchedAt": "2026-11-16T10:23:52.298Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Premium Theme Pack",
+          "price": "$0.99",
+          "amount": 0.99
+        },
+        {
+          "name": "Theme Editor",
+          "price": "$0.99",
+          "amount": 0.99
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:23:53.734Z"
     }
   }
 }

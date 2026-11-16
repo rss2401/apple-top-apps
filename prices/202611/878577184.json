@@ -1,18 +1,23 @@
 {
   "id": "878577184",
-  "name": "SHEIN - Shopping Online",
+  "name": "SHEIN - オンラインショッピング",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:08:59.252Z",
+  "fetchedAt": "2026-11-16T10:01:39.769Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-09T10:08:58.089Z"
+      "fetchedAt": "2026-11-16T10:01:37.229Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:01:38.586Z"
     },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-09T10:08:59.252Z"
+      "fetchedAt": "2026-11-16T10:01:39.769Z"
     }
   }
 }

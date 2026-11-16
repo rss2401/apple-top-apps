@@ -243,9 +243,6 @@
       "userRatingCount": 611
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/badoo-software-ltd/id351331197?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/70/a9/3c70a92f-280d-3dce-aab7-87525e86c0c8/0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/28/c7/8b28c7f0-5974-9738-d1fe-573c21c89464/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -263,10 +260,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/a3/40/1fa34094-ccbd-84c2-650c-6b9c3b14ec13/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/fr/developer/badoo-software-ltd/id351331197?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "advisories": [
+        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
+        "Scènes fréquentes/intenses réservées aux adultes (suggestives)",
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Scènes rares/modérées à caractère sexuel ou de nudité"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -398,19 +400,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Scènes rares/modérées d’humour vulgaire ou blasphématoire",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
-        "Scènes rares/modérées à caractère sexuel ou de nudité",
-        "Scènes fréquentes/intenses réservées aux adultes (suggestives)"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.27419,
-      "trackCensoredName": "Badoo Premium",
-      "trackViewUrl": "https://apps.apple.com/fr/app/badoo-premium/id403684733?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "averageUserRatingForCurrentVersion": 4.27419,
+      "sellerUrl": "http://badoo.com",
       "languageCodesISO2A": [
         "SQ",
         "BS",
@@ -452,38 +452,40 @@
         "UK",
         "VI"
       ],
-      "sellerUrl": "http://badoo.com",
-      "averageUserRatingForCurrentVersion": 4.27419,
-      "fileSizeBytes": "247818240",
+      "fileSizeBytes": "247450624",
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 620,
       "trackContentRating": "17+",
-      "artistId": 351331197,
-      "artistName": "Badoo Software Ltd",
+      "averageUserRating": 4.27419,
+      "trackCensoredName": "Badoo Premium",
+      "trackViewUrl": "https://apps.apple.com/fr/app/badoo-premium/id403684733?uo=4",
+      "contentAdvisoryRating": "17+",
       "genres": [
         "Réseaux sociaux",
         "Style de vie"
       ],
-      "price": 2.99,
+      "artistId": 351331197,
+      "artistName": "Badoo Software Ltd",
+      "bundleId": "com.badoo.BadooSPP",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "isVppDeviceBasedLicensingEnabled": true,
       "minimumOsVersion": "17.0",
       "trackName": "Badoo Premium",
-      "sellerName": "Badoo Software Ltd",
       "trackId": 403684733,
+      "releaseDate": "2010-12-21T12:58:03Z",
+      "currentVersionReleaseDate": "2026-11-09T09:50:51Z",
+      "releaseNotes": "Correction de bugs et amélioration de la performance.",
+      "version": "5.487.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Badoo, c'est le moyen idéal de faire des rencontres avec des millions d'utilisateurs partout dans le monde. Et tu peux maintenant t'abonner à Badoo Premium tout en profitant d'une super réduction ! C'est une offre à durée limitée : ne rate pas ta chance ! Grâce à Badoo Premium, tu sauras qui t'a donné un Like, tu pourras booster ton profil, et débloquer plein d'autres fonctions exclusives. \n\nTu verras que les options ne manquent pas : \n\n- Discute avec des millions de célibataires \n- Découvre les gens à proximité ou ceux que tu as croisés en chemin \n- Profite de nos dernières fonctions grâce à nos mises à jour fréquentes \n- Dis adieu aux profils fake : notre processus de vérification est le meilleur ! \n- Fais-toi toutes sortes d'amis comme bon te semble... et plus si affinités ! \n\nInscris-toi dès maintenant et viens faire de super rencontres sur Badoo ! Les paiements seront prélevés de ton compte iTunes. \n\nTon abonnement se renouvellera automatiquement, sauf si tu désactives cette option au moins 24 heures avant la fin de la période en cours. Tu peux annuler ton abonnement à tout moment à partir des paramètres de l’iTunes Store. Si tu choisis de ne pas t'abonner à Badoo Premium, tu peux continuer à utiliser Badoo gratuitement. \n\nTes données personnelles sont stockées sur Badoo en toute sécurité. Pense bien à lire notre Politique de Confidentialité et nos Conditions Générales d’Utilisation : \n\nhttps://www.badoo.com/privacy \nhttps://badoo.com/terms",
+      "sellerName": "Badoo Software Ltd",
+      "price": 2.99,
       "genreIds": [
         "6005",
         "6012"
       ],
-      "releaseDate": "2010-12-21T12:58:03Z",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "currentVersionReleaseDate": "2026-10-05T08:09:40Z",
-      "releaseNotes": "Correction de bugs et amélioration de la performance.",
-      "version": "5.482.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Badoo, c'est le moyen idéal de faire des rencontres avec des millions d'utilisateurs partout dans le monde. Et tu peux maintenant t'abonner à Badoo Premium tout en profitant d'une super réduction ! C'est une offre à durée limitée : ne rate pas ta chance ! Grâce à Badoo Premium, tu sauras qui t'a donné un Like, tu pourras booster ton profil, et débloquer plein d'autres fonctions exclusives. \n\nTu verras que les options ne manquent pas : \n\n- Discute avec des millions de célibataires \n- Découvre les gens à proximité ou ceux que tu as croisés en chemin \n- Profite de nos dernières fonctions grâce à nos mises à jour fréquentes \n- Dis adieu aux profils fake : notre processus de vérification est le meilleur ! \n- Fais-toi toutes sortes d'amis comme bon te semble... et plus si affinités ! \n\nInscris-toi dès maintenant et viens faire de super rencontres sur Badoo ! Les paiements seront prélevés de ton compte iTunes. \n\nTon abonnement se renouvellera automatiquement, sauf si tu désactives cette option au moins 24 heures avant la fin de la période en cours. Tu peux annuler ton abonnement à tout moment à partir des paramètres de l’iTunes Store. Si tu choisis de ne pas t'abonner à Badoo Premium, tu peux continuer à utiliser Badoo gratuitement. \n\nTes données personnelles sont stockées sur Badoo en toute sécurité. Pense bien à lire notre Politique de Confidentialité et nos Conditions Générales d’Utilisation : \n\nhttps://www.badoo.com/privacy \nhttps://badoo.com/terms",
-      "bundleId": "com.badoo.BadooSPP",
-      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 620,
       "country": "FRA"
     },
@@ -734,6 +736,14 @@
       "country": "GBR"
     },
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/b1/d2/53b1d299-08e6-58c0-1f9e-527530af1fbe/0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/2e/09/9e2e09c0-c3bc-2c8d-c79b-025104c658c4/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/e5/e7/82e5e732-ad34-5a4b-1abf-5a6249b9066a/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/ed/88/6bed88e1-100a-b473-4378-3388b528d4ef/3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/79/f6/6f79f628-5cb3-64d3-1f37-d43becab4cbe/4_APP_IPHONE_55_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/1f/a9/bf1fa914-22d5-db9d-08f5-2ee5d89cf389/5_APP_IPHONE_55_5.jpg/392x696bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/a8/80/75a880d9-0172-e2f9-0730-33768b6d3137/0_APP_IPAD_PRO_129_0.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/db/5c/16db5cf5-e08c-293d-36fc-59d3cea4cb42/1_APP_IPAD_PRO_129_1.jpg/576x768bb.jpg",
@@ -743,10 +753,17 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/44/f4/4044f4a0-cc71-312a-2031-56a511819187/5_APP_IPAD_PRO_129_5.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artistViewUrl": "https://apps.apple.com/de/developer/badoo-software-ltd/id351331197?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Häufig/stark ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
+        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit"
+      ],
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/badoo-software-ltd/id351331197?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ec/e0/7dece0c6-e3f0-8db1-68a7-d9f95f745bb4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -880,54 +897,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: Gebrauch von Alkohol, Tabak oder Drogen bzw. Verweise hierzu",
-        "Selten/schwach ausgeprägt: sexuelle Inhalte oder Nacktheit",
-        "Häufig/stark ausgeprägt: Szenen mit erotischen Anspielungen"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/e3/bf95e38f-4888-5597-f5e3-cb12a9efa8cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/b1/d2/53b1d299-08e6-58c0-1f9e-527530af1fbe/0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9e/2e/09/9e2e09c0-c3bc-2c8d-c79b-025104c658c4/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/e5/e7/82e5e732-ad34-5a4b-1abf-5a6249b9066a/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/ed/88/6bed88e1-100a-b473-4378-3388b528d4ef/3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/79/f6/6f79f628-5cb3-64d3-1f37-d43becab4cbe/4_APP_IPHONE_55_4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/1f/a9/bf1fa914-22d5-db9d-08f5-2ee5d89cf389/5_APP_IPHONE_55_5.jpg/392x696bb.jpg"
-      ],
-      "currentVersionReleaseDate": "2026-10-05T08:09:40Z",
-      "releaseNotes": "Bugs behoben und Leistung verbessert (Woohoo!)",
-      "trackCensoredName": "Badoo Premium",
-      "trackViewUrl": "https://apps.apple.com/de/app/badoo-premium/id403684733?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.46253,
-      "artistName": "Badoo Software Ltd",
-      "artistId": 351331197,
-      "genres": [
-        "Soziale Netze",
-        "Lifestyle"
-      ],
-      "price": 2.99,
-      "bundleId": "com.badoo.BadooSPP",
-      "minimumOsVersion": "17.0",
-      "releaseDate": "2011-01-05T13:56:18Z",
-      "genreIds": [
-        "6005",
-        "6012"
-      ],
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 403684733,
-      "trackName": "Badoo Premium",
-      "sellerName": "Badoo Software Ltd",
-      "version": "5.482.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Mit Millionen von Mitgliedern ist Badoo die größte Dating-Community der Welt. Und jeden Tag kommen zahlreiche neue Leute dazu, um zu chatten, zu flirten und zu daten. \nFür kurze Zeit hast du jetzt die Chance, dir Badoo Premium zum ermäßigten Preis zu holen! Mit Badoo Premium kannst du deinem Profil einen Boost geben, sehen, wem du gefällst und vieles mehr.\n\nAußerdem kannst du natürlich immer...\n\n•\tChatten, flirten und neue Leute kennenlernen.\n•\tSehen, wer gerade in deiner Nähe ist.\n•\tRegelmäßige Updates mit neuen Funktionen runterladen.\n•\tRelaxen – dank unserem Verifizierungsverfahren haben Fake-User nämlich keine Chance.\n•\tFröhlich nach links und rechts swipen.\n\nAlso hol dir die App und nutze deine Chance! \n\nDer Betrag wird über deinen iTunes-Account abgerechnet und dein Abo verlängert sich automatisch, wenn du das automatische Verlängern nicht mindestens 24 Stunden vor Ablauf des aktuellen Abo-Zeitraums deaktivierst. Du kannst das automatische Verlängern nach dem Kauf jederzeit in den iTunes-Store-Einstellungen deaktivieren. Wenn du dir Badoo Premium nicht holen willst, kannst du Badoo weiterhin kostenlos verwenden.\n\nDeine personenbezogenen Daten werden bei Badoo sicher verwahrt. Bitte lies dir dazu unsere Datenschutzrichtlinien und Geschäftsbedingungen durch:\nhttps://badoo.com/de/privacy\nhttps://badoo.com/de/terms",
       "sellerUrl": "http://badoo.com",
       "languageCodesISO2A": [
         "SQ",
@@ -970,12 +944,42 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "247818240",
+      "fileSizeBytes": "247450624",
       "formattedPrice": "2,99 €",
-      "userRatingCountForCurrentVersion": 854,
+      "userRatingCountForCurrentVersion": 857,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.46253,
-      "userRatingCount": 854,
+      "averageUserRatingForCurrentVersion": 4.45974,
+      "averageUserRating": 4.45974,
+      "sellerName": "Badoo Software Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-09T09:50:51Z",
+      "trackCensoredName": "Badoo Premium",
+      "trackViewUrl": "https://apps.apple.com/de/app/badoo-premium/id403684733?uo=4",
+      "contentAdvisoryRating": "17+",
+      "price": 2.99,
+      "artistId": 351331197,
+      "artistName": "Badoo Software Ltd",
+      "genres": [
+        "Soziale Netze",
+        "Lifestyle"
+      ],
+      "releaseNotes": "Bugs behoben und Leistung verbessert (Woohoo!)",
+      "trackName": "Badoo Premium",
+      "trackId": 403684733,
+      "releaseDate": "2011-01-05T13:56:18Z",
+      "genreIds": [
+        "6005",
+        "6012"
+      ],
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "minimumOsVersion": "17.0",
+      "version": "5.487.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Mit Millionen von Mitgliedern ist Badoo die größte Dating-Community der Welt. Und jeden Tag kommen zahlreiche neue Leute dazu, um zu chatten, zu flirten und zu daten. \nFür kurze Zeit hast du jetzt die Chance, dir Badoo Premium zum ermäßigten Preis zu holen! Mit Badoo Premium kannst du deinem Profil einen Boost geben, sehen, wem du gefällst und vieles mehr.\n\nAußerdem kannst du natürlich immer...\n\n•\tChatten, flirten und neue Leute kennenlernen.\n•\tSehen, wer gerade in deiner Nähe ist.\n•\tRegelmäßige Updates mit neuen Funktionen runterladen.\n•\tRelaxen – dank unserem Verifizierungsverfahren haben Fake-User nämlich keine Chance.\n•\tFröhlich nach links und rechts swipen.\n\nAlso hol dir die App und nutze deine Chance! \n\nDer Betrag wird über deinen iTunes-Account abgerechnet und dein Abo verlängert sich automatisch, wenn du das automatische Verlängern nicht mindestens 24 Stunden vor Ablauf des aktuellen Abo-Zeitraums deaktivierst. Du kannst das automatische Verlängern nach dem Kauf jederzeit in den iTunes-Store-Einstellungen deaktivieren. Wenn du dir Badoo Premium nicht holen willst, kannst du Badoo weiterhin kostenlos verwenden.\n\nDeine personenbezogenen Daten werden bei Badoo sicher verwahrt. Bitte lies dir dazu unsere Datenschutzrichtlinien und Geschäftsbedingungen durch:\nhttps://badoo.com/de/privacy\nhttps://badoo.com/de/terms",
+      "bundleId": "com.badoo.BadooSPP",
+      "userRatingCount": 857,
       "country": "DEU"
     }
   ]

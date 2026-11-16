@@ -247,13 +247,14 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/a4/4a84a4cf-4794-a52b-39b5-79ca8248219a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/a4/4a84a4cf-4794-a52b-39b5-79ca8248219a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/84/a4/4a84a4cf-4794-a52b-39b5-79ca8248219a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -384,11 +385,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.65348,
       "sellerUrl": "http://go.microsoft.com/fwlink/?linkid=273865",
       "languageCodesISO2A": [
         "CS",
@@ -416,39 +417,40 @@
       ],
       "fileSizeBytes": "129580032",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 720982,
+      "userRatingCountForCurrentVersion": 722051,
       "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.65348,
+      "averageUserRatingForCurrentVersion": 4.65352,
       "trackCensoredName": "Intune Company Portal",
       "trackViewUrl": "https://apps.apple.com/us/app/intune-company-portal/id719171358?uo=4",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.65352,
       "genres": [
         "Business",
         "Productivity"
       ],
       "price": 0,
-      "trackId": 719171358,
-      "trackName": "Intune Company Portal",
-      "currentVersionReleaseDate": "2026-10-30T12:35:03Z",
-      "minimumOsVersion": "17.0",
       "releaseDate": "2013-11-19T22:20:10Z",
       "primaryGenreName": "Business",
       "primaryGenreId": 6000,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 719171358,
+      "trackName": "Intune Company Portal",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6000",
         "6007"
       ],
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-30T12:35:03Z",
       "releaseNotes": "We’ve been improving the stability of the Company Portal. This helps keep your information safe and makes the app work more efficiently.",
       "version": "5.2610.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft Intune helps organizations manage access to corporate apps, data, and resources. Company Portal is the app that lets you, as an employee of your company, securely access those resources.\n\nBefore you can use this app, make sure your IT admin has set up your work account. Your company must also have a subscription to Microsoft Intune.\n\nCompany Portal helps simplify the tasks you need to do for work: \n\n• Enroll your device to access corporate resources, including Office, email, and OneDrive for Business\n• Quickly reset the password to your work account if you should forget it\n• Find apps that will help you with your daily tasks as provided by your company\n• View and manage all your enrolled devices – and wipe them yourself if they get lost or stolen\n• Get help from your IT department with easy-to-find contact information\n\nA note about Intune: every organization has different access requirements, and will use Intune in ways that they determine will best manage their information. Some functionality might be unavailable in certain countries. If you have questions about how this app is being used within your organization, your company’s IT administrator should have those answers for you. Microsoft, your network provider, and your device’s manufacturer do not know how Intune will be used by your organization.",
       "bundleId": "com.microsoft.CompanyPortal",
-      "userRatingCount": 720982,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "userRatingCount": 722051,
       "country": "USA"
     }
   ]

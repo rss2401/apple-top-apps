@@ -192,20 +192,7 @@
       "userRatingCount": 129153
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/kick-streaming/id1661481865?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/70/0b/68700bf4-6441-bb04-f2d2-588486d368d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/70/0b/68700bf4-6441-bb04-f2d2-588486d368d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Simulated Gambling",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Profanity or Crude Humor"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -336,9 +323,31 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Profanity or Crude Humor",
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Simulated Gambling"
       ],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/kick-streaming/id1661481865?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/76/a2/9276a27a-4405-f8fe-859f-9fe0c29de1e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/76/a2/9276a27a-4405-f8fe-859f-9fe0c29de1e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/bc/eb/26bceb1d-48ae-8d00-9c28-c41e2bbe0f44/01-home.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/11/62/591162cd-fb00-c1e1-25fa-dd95d6c3a8b3/02-browse.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/27/94/37279418-3994-9d2c-f91b-e5137269564c/03-follow.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/f9/c5/45f9c5a8-ea02-8957-84f1-a58a089bd492/04-watch.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/f5/6a/03f56aaf-6bed-21a6-3e28-1cf61eccbb56/05-search.png/320x480bb.jpg"
+      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/1e/0f/141e0ff4-569c-bf19-f1ed-a9716cf9f3ba/App_Store_Tablet.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/ce/e0/d4cee0dd-f426-95b4-e780-7fdf2e7a0080/App_Store_Tablet-1.png/360x480bb.jpg",
@@ -347,44 +356,28 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/68/d0/1568d084-4c2f-4267-e056-a1c2727ac539/App_Store_Tablet__U00283_U0029.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/70/0b/68700bf4-6441-bb04-f2d2-588486d368d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/bc/eb/26bceb1d-48ae-8d00-9c28-c41e2bbe0f44/01-home.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/11/62/591162cd-fb00-c1e1-25fa-dd95d6c3a8b3/02-browse.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/27/94/37279418-3994-9d2c-f91b-e5137269564c/03-follow.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/f9/c5/45f9c5a8-ea02-8957-84f1-a58a089bd492/04-watch.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/f5/6a/03f56aaf-6bed-21a6-3e28-1cf61eccbb56/05-search.png/320x480bb.jpg"
-      ],
-      "trackCensoredName": "KICK - Live Streaming",
-      "trackViewUrl": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.67077,
-      "currentVersionReleaseDate": "2026-10-18T21:33:53Z",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/76/a2/9276a27a-4405-f8fe-859f-9fe0c29de1e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "releaseNotes": "Bug fixes and other improvements",
+      "price": 0,
       "artistId": 1661481865,
       "artistName": "Kick Streaming",
-      "genres": [
-        "Photo & Video",
-        "Entertainment"
-      ],
-      "price": 0,
+      "trackId": 6446202561,
+      "trackName": "KICK - Live Streaming",
       "bundleId": "com.kick.mobile",
+      "releaseDate": "2023-03-26T07:00:00Z",
       "genreIds": [
         "6008",
         "6016"
       ],
+      "minimumOsVersion": "16.4",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "trackId": 6446202561,
-      "trackName": "KICK - Live Streaming",
-      "releaseDate": "2023-03-26T07:00:00Z",
-      "releaseNotes": "Bug fixes.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "sellerName": "Kick Streaming Pty Ltd",
-      "version": "40.32.2",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "40.35.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "KICK’s a live streaming platform where creators kick it with their communities. (Yeah, we said the thing…)\n\n\nOur creators march to the beat of their own drum, as do we, disrupting our opps with a 95-5 subscription split, our creator incentive program, and the freedom to multistream.\n\n\nThat’s why the likes of xQc, Asmongold, and MaxHolloway all pick KICK.\n\n\nFor viewers, it’s the fear of missing out that compels them to tune in, the chance to be part of internet culture, all in real-time and ad-free.\n\n\nbut lets be real, no one reads these, so if youve made it this far, at least give the app 5 stars. it will good for my performance review. thanks :)\n\n\nP.S. Peep the boring stuff at https://kick.com/terms-of-service\n\nPrivacy Policy: https://kick.com/privacy-policy\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "sellerUrl": "https://www.kick.com",
       "languageCodesISO2A": [
         "AR",
         "BG",
@@ -423,13 +416,22 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "158978048",
+      "fileSizeBytes": "152092672",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 145177,
+      "userRatingCountForCurrentVersion": 149227,
       "trackContentRating": "17+",
-      "minimumOsVersion": "16.4",
-      "averageUserRatingForCurrentVersion": 4.67077,
-      "userRatingCount": 145177,
+      "averageUserRatingForCurrentVersion": 4.67468,
+      "averageUserRating": 4.67468,
+      "trackCensoredName": "KICK - Live Streaming",
+      "trackViewUrl": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561?uo=4",
+      "contentAdvisoryRating": "17+",
+      "sellerUrl": "https://www.kick.com",
+      "currentVersionReleaseDate": "2026-11-13T21:20:01Z",
+      "genres": [
+        "Photo & Video",
+        "Entertainment"
+      ],
+      "userRatingCount": 149227,
       "country": "USA"
     }
   ]

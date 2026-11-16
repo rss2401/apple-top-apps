@@ -206,7 +206,13 @@
       "userRatingCount": 7175
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/netstory-pte-ltd/id1754094607?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,23 +343,19 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [
-        "頻繁／極度な成人向けまたはわいせつなテーマ",
         "まれ／軽度なアルコール、タバコ、ドラッグの使用または言及",
         "まれ／軽度なバイオレンス",
         "まれ／軽度なホラーまたは恐怖に関するテーマ",
+        "頻繁／極度な成人向けまたはわいせつなテーマ",
         "まれ／軽度な性的表現またはヌード",
         "まれ／軽度な過激な言葉遣いまたは下品なユーモア"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/netstory-pte-ltd/id1754094607?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/10/57/32105752-e361-b627-39fa-efac5fe7883c/iPhone-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ac/77/fcac7788-e289-558b-ef9c-8368f5739a96/iPhone-2.jpg/320x480bb.jpg",
@@ -373,37 +375,36 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/50/56/af505664-21af-72f3-04c7-fe884245b1d7/iPad-7.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "- 新しいショートドラマを追加し、魅力的なストーリーを継続的に更新します。\n- ゴールドコイン機能の体験を最適化し、コンテンツのアンロックがより便利になりました。\n- アプリのパフォーマンスを向上させ、よりスムーズな視聴体験を提供します。",
-      "artistId": 1754094607,
-      "artistName": "NETSTORY PTE. LTD.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "NetShort - 人気短編ドラマ",
+      "trackViewUrl": "https://apps.apple.com/jp/app/netshort-%E4%BA%BA%E6%B0%97%E7%9F%AD%E7%B7%A8%E3%83%89%E3%83%A9%E3%83%9E/id6504849169?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.21751,
+      "currentVersionReleaseDate": "2026-11-16T02:50:55Z",
       "genres": [
         "エンターテインメント"
       ],
       "price": 0,
+      "artistId": 1754094607,
+      "artistName": "NETSTORY PTE. LTD.",
       "bundleId": "com.netshort.abroad",
-      "releaseDate": "2024-07-13T07:00:00Z",
-      "sellerName": "NETSTORY PTE. LTD.",
+      "trackId": 6504849169,
+      "trackName": "NetShort - 人気短編ドラマ",
+      "releaseNotes": "- 新しいショートドラマを追加し、魅力的なストーリーを継続的に更新します。\n- ゴールドコイン機能の体験を最適化し、コンテンツのアンロックがより便利になりました。\n- アプリのパフォーマンスを向上させ、よりスムーズな視聴体験を提供します。",
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6504849169,
-      "trackName": "NetShort - 人気短編ドラマ",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "minimumOsVersion": "15.0",
-      "currentVersionReleaseDate": "2026-11-06T02:39:47Z",
-      "version": "2.3.8",
+      "sellerName": "NETSTORY PTE. LTD.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "2.3.9",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "数分で夢中になれる、縦型ショートドラマをいつでもどこでも。\n\n恋愛、復讐、サスペンス、ファンタジーなど、1話ごとに続きが気になる物語をスマホで手軽に視聴できます。\nNetShortは、スキマ時間に楽しめる縦型ショートドラマアプリです。\n\n1話数分だから、通勤中や休憩時間、寝る前など、ちょっとしたスキマ時間にも気軽に視聴できます。\n甘く切ない恋愛、裏切りから始まる復讐、予想を裏切るどんでん返し、財閥をめぐる愛憎劇、危険なマフィアとの恋、異世界で始まる運命の物語など、思わず続きを見たくなる作品を続々配信。\n\nテンポの良い展開と濃密なストーリーで、短い時間でも物語に没入できる縦型ドラマを楽しめます。\n\nNetShortの特徴\n■ 1話数分で楽しめるショートドラマ\n長時間の視聴時間は必要ありません。1話ごとに凝縮されたストーリーを、好きなタイミングで気軽に視聴できます。\n■ スマホに最適な縦型ドラマ\nスマホ画面に合わせた縦型フォーマットだから、片手でも見やすく、場所を選ばず快適に視聴できます。\n■ 恋愛・復讐・サスペンスなど豊富なジャンル\n胸キュンするロマンス、切ない愛憎劇、爽快な復讐、先の読めないサスペンス、ファンタジーや異世界転生まで、その日の気分にぴったりの作品が見つかります。\n■ テンポの良い展開で一気見\n短編だからこそ味わえる、スピーディーで濃密なストーリー。予想外の展開に引き込まれ、思わず次のエピソードを見たくなります。\n■ 新作エピソードを続々配信\nオリジナル縦型ドラマや注目のショートドラマを随時追加。新しい物語との出会いをいつでも楽しめます。\n■ 高画質で臨場感のある映像\n登場人物の表情や物語の緊張感まで、スマホでも見やすい高画質でしっかり味わえます。\n■ VIPでさらに快適に\nVIPなら、より快適な視聴体験で好きなドラマに集中できます。物語を最後までじっくり視聴したい方にもおすすめです。\n短い時間で、濃いストーリーを。\n\n恋に落ちる瞬間、隠された真実、裏切り、運命の再会、そして爽快な逆転劇。\n\nNetShortなら、あなたの気分にぴったりのショートドラマがきっと見つかります。\n今すぐNetShortをダウンロードして、次に夢中になる物語を見つけましょう。\n\n注意事項\nApple を通じてサブスクリプションを購入した場合、購入確定後、料金はあなたの App Store アカウントから請求されます。\n サブスクリプションは購入後 24 時間以内に有効となります（Apple Store の注文状況によります）。\n現在のサブスクリプション期間が終了する 24 時間前までに、選択したプランの料金で自動更新の請求が行われます。更新が完了すると、サブスクリプション期間は自動的に延長されます。\nサブスクリプションは以下の手順で解約できます：\n 設定 > iTunes と App Store > Apple ID > Apple ID を表示 > サブスクリプション > NetShort\n現在のサブスクリプション期間終了の 24 時間前までに解約しない場合、自動的に更新されます。\n\n関連規約\n利用規約：https://netshort.com/agreement/1\nプライバシーポリシー：https://netshort.com/agreement/2\n自動更新規約：https://netshort.com/agreement/3\n会員サービス規約：https://netshort.com/agreement/4\n\nFacebookでフォロー：https://www.facebook.com/profile.php?id=61564956644828\nYouTubeでチャンネル登録：https://www.youtube.com/@NetShort-app",
-      "trackCensoredName": "NetShort - 人気短編ドラマ",
-      "trackViewUrl": "https://apps.apple.com/jp/app/netshort-%E4%BA%BA%E6%B0%97%E7%9F%AD%E7%B7%A8%E3%83%89%E3%83%A9%E3%83%9E/id6504849169?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.21504,
-      "averageUserRatingForCurrentVersion": 4.21504,
       "sellerUrl": "https://www.netshort.com",
+      "averageUserRatingForCurrentVersion": 4.21751,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -423,26 +424,19 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "177025024",
+      "fileSizeBytes": "184233984",
       "formattedPrice": "無料",
-      "userRatingCountForCurrentVersion": 56347,
+      "userRatingCountForCurrentVersion": 57782,
       "trackContentRating": "17+",
-      "userRatingCount": 56347,
+      "releaseDate": "2024-07-13T07:00:00Z",
+      "userRatingCount": 57782,
       "country": "JPN"
     },
     {
-      "advisories": [
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humor"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/netstory-pte-ltd/id1754094607?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -573,9 +567,22 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "advisories": [
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Profanity or Crude Humor"
       ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/6a/68/526a6858-4d96-f297-6fc4-47633e5c5bb0/iPhone-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/54/ec/c654ec46-d90e-2c79-5fb4-5391c58a8007/iPhone-2.jpg/320x480bb.jpg",
@@ -595,32 +602,28 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/af/96/d1af96f1-b697-0142-c833-19cf6f355696/Pad-7.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/netstory-pte-ltd/id1754094607?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "trackId": 6504849169,
-      "trackName": "NetShort - Popular Dramas & TV",
-      "genreIds": [
-        "6016"
-      ],
-      "genres": [
-        "Entertainment"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "releaseNotes": "- Added popular new short dramas, with exciting stories updated continuously.\n- Optimized/Optimised the Gold Coin feature for easier unlocking of exciting content.\n- Improved app performance for a smoother viewing experience.",
+      "price": 0,
+      "trackCensoredName": "NetShort - Popular Dramas & TV",
+      "trackViewUrl": "https://apps.apple.com/us/app/netshort-popular-dramas-tv/id6504849169?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.74547,
       "artistId": 1754094607,
       "artistName": "NETSTORY PTE. LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T02:39:47Z",
+      "bundleId": "com.netshort.abroad",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
-      "releaseNotes": "- Added popular new short dramas, with exciting stories updated continuously.\n- Optimized/Optimised the Gold Coin feature for easier unlocking of exciting content.\n- Improved app performance for a smoother viewing experience.",
-      "sellerName": "NETSTORY PTE. LTD.",
       "minimumOsVersion": "15.0",
-      "version": "2.3.8",
+      "sellerName": "NETSTORY PTE. LTD.",
+      "releaseDate": "2024-07-12T07:00:00Z",
+      "trackId": 6504849169,
+      "trackName": "NetShort - Popular Dramas & TV",
+      "currentVersionReleaseDate": "2026-11-16T02:50:55Z",
+      "version": "2.3.9",
       "wrapperType": "software",
       "currency": "USD",
       "description": "NetShort – Watch Short Dramas in Minutes\n\nLooking for a quick story that is easy to start? NetShort brings vertical short dramas to your phone, with romance, secrets, emotional twists, fantasy plots, revenge stories, and suspenseful moments made for mobile viewing.\n\nEach episode is short, fast-paced, and simple to enjoy during a break, commute, trip, or relaxing evening. Watch one episode when you have a few minutes, or continue a series when you want a longer drama session.\n\n■ Stories That Start Quickly\nNetShort is designed for viewers who enjoy short-form drama without a long setup. Episodes focus on key story moments such as confessions, reunions, hidden identities, family secrets, second chances, and unexpected turns.\n\n■ Explore popular short drama themes, including:\n- Billionaire romance and CEO love stories\n- Werewolf bonds and supernatural romance\n- Revenge, comeback, and family secret stories\n- Fantasy, time travel, rebirth, and second chances\n- Mystery, crime, suspense, and hidden identities\n- Sweet love, heartbreak, and emotional drama\n\n■ Find a Series for Your Mood\nWhether you want a romantic story, a fantasy twist, a revenge comeback, or a mystery with suspense, NetShort helps you discover short series that match what you like.\n\nYou can browse trending titles, follow series you enjoy, continue watching from where you left off, and receive updates when new episodes are available.\n\n■ Made for Mobile Watching\nNetShort makes short dramas easy to watch on your phone:\n- Vertical episodes made for phone screens\n- Short episodes that fit busy schedules\n- HD playback for clearer viewing\n- Offline downloads for supported content\n- Watch history and saved favorites\n- Playback controls for your preferred pace\n- Smart filters to help you find stories faster\n\n■ Fresh Episodes and Easy Discovery\nNetShort regularly updates its drama library with new episodes and series. Personalized recommendations help you discover romance, fantasy, revenge, mystery, suspense, and other short dramas based on your viewing interests.\n\n■ VIP Access\nSome content and features may require VIP access or in-app purchases. VIP members can enjoy benefits such as:\n- Ad-free viewing where available\n- HD playback for supported episodes\n- Offline downloads for supported content\n- Access to more episodes in selected series\n\n■ Why Try NetShort?\nNetShort is made for viewers who like compact stories with clear emotions, quick pacing, and mobile-first viewing. From romantic turns to fantasy surprises and revenge-driven plots, each series is built to deliver drama in a short amount of time.\n\nIf you enjoy short dramas, vertical series, mini dramas, romance stories, fantasy plots, revenge stories, mystery thrillers, or suspenseful cliffhangers, NetShort is ready whenever you want to watch.\n\nDownload NetShort and start watching short dramas on your phone.\n\nNotice\nIf you subscribe via Apple, payment will be charged to your App Store account upon purchase confirmation.\nYour subscription will take effect within 24 hours after purchase, depending on your order status in the App Store.\nWithin the 24 hours before your current subscription expires, your account will be charged for renewal based on the price of your selected plan. Upon successful renewal, your subscription period will be automatically extended.\nYou can cancel your subscription by going to: Settings > iTunes & App Store > Apple ID > View Apple ID > Subscriptions > NetShort.\nIf you do not cancel your subscription at least 24 hours before your current subscription expires, it will automatically renew.\n\nRelated Agreements\nTerms of Service: https://netshort.com/agreement/1\nPrivacy Policy: https://netshort.com/agreement/2\nRecharge Agreement: https://netshort.com/agreement/3\n\nFollow us on Facebook: https://www.facebook.com/profile.php?id=61564956644828\nFollow us on YouTube: https://www.youtube.com/@NetShort-app",
-      "sellerUrl": "https://www.netshort.com",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -640,19 +643,20 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "177025024",
+      "fileSizeBytes": "184233984",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 242732,
+      "userRatingCountForCurrentVersion": 247904,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.7441,
-      "bundleId": "com.netshort.abroad",
-      "trackCensoredName": "NetShort - Popular Dramas & TV",
-      "trackViewUrl": "https://apps.apple.com/us/app/netshort-popular-dramas-tv/id6504849169?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.7441,
-      "price": 0,
-      "releaseDate": "2024-07-12T07:00:00Z",
-      "userRatingCount": 242732,
+      "sellerUrl": "https://www.netshort.com",
+      "averageUserRatingForCurrentVersion": 4.74547,
+      "genreIds": [
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Entertainment"
+      ],
+      "userRatingCount": 247904,
       "country": "USA"
     },
     {
@@ -1105,10 +1109,42 @@
       "country": "FRA"
     },
     {
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/26/3f/da263f42-7cf2-8be6-9389-938d90867625/iPad-1.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/d6/e1/1cd6e1c2-c9ac-545a-2ce4-aca0f42260ee/iPad-2.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7e/94/ba7e9444-7e46-ff80-2042-634a70157177/iPad-3.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/b3/ba/04b3ba6e-ece9-c8d5-7486-0402e936bc2d/iPad-4.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/dd/88/5ddd88fe-8aaf-342c-c580-f8d56658e3eb/iPad-5.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/91/64/d3916471-cde0-9a5c-709f-e56a2d8ca5f4/iPad-6.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/39/66/5139664b-5cdd-8200-0027-b95c97e69dd2/Pad-7.jpg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/bc/89/70bc895d-cb21-a870-a701-21993c737c14/iPhone-1.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/09/2d/bd092d6c-2940-35c3-f4b6-7af52b96e2bc/iPhone-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/cc/a9/c7cca996-ebaf-5d22-0ac0-b359391ce0fb/iPhone-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/35/03/8f350328-8e5b-ac8f-a402-5f424127829c/iPhone-4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/bb/ab/58bbab2b-e3d8-256e-07bf-bcc58151fec5/iPhone-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/3b/ca/e93bcad5-75f3-2d8a-4d0b-224e6670e488/iPhone-6.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/b8/bf/6bb8bfc8-952f-85a5-a438-0f830792237c/iPhone-7.jpg/320x480bb.jpg"
+      ],
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [
+        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+        "Infrequent/Mild Realistic Violence",
+        "Infrequent/Mild Horror/Fear Themes",
+        "Frequent/Intense Mature/Suggestive Themes",
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Profanity or Crude Humour"
+      ],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/netstory-pte-ltd/id1754094607?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/43/e5/2e43e5c8-4b90-2872-67fa-786a36f1f5e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1239,66 +1275,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [
-        "Frequent/Intense Mature/Suggestive Themes",
-        "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Profanity or Crude Humour"
-      ],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/bc/89/70bc895d-cb21-a870-a701-21993c737c14/iPhone-1.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/09/2d/bd092d6c-2940-35c3-f4b6-7af52b96e2bc/iPhone-2.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/cc/a9/c7cca996-ebaf-5d22-0ac0-b359391ce0fb/iPhone-3.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/35/03/8f350328-8e5b-ac8f-a402-5f424127829c/iPhone-4.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/bb/ab/58bbab2b-e3d8-256e-07bf-bcc58151fec5/iPhone-5.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/3b/ca/e93bcad5-75f3-2d8a-4d0b-224e6670e488/iPhone-6.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/b8/bf/6bb8bfc8-952f-85a5-a438-0f830792237c/iPhone-7.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/26/3f/da263f42-7cf2-8be6-9389-938d90867625/iPad-1.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/d6/e1/1cd6e1c2-c9ac-545a-2ce4-aca0f42260ee/iPad-2.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/7e/94/ba7e9444-7e46-ff80-2042-634a70157177/iPad-3.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/b3/ba/04b3ba6e-ece9-c8d5-7486-0402e936bc2d/iPad-4.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/dd/88/5ddd88fe-8aaf-342c-c580-f8d56658e3eb/iPad-5.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/91/64/d3916471-cde0-9a5c-709f-e56a2d8ca5f4/iPad-6.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/39/66/5139664b-5cdd-8200-0027-b95c97e69dd2/Pad-7.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/netstory-pte-ltd/id1754094607?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/eb/ee/4febeede-16b1-2b8c-6356-3c5301b1dc15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "- Added popular new short dramas, with exciting stories updated continuously.\n- Optimized/Optimised the Gold Coin feature for easier unlocking of exciting content.\n- Improved app performance for a smoother viewing experience.",
-      "artistId": 1754094607,
-      "artistName": "NETSTORY PTE. LTD.",
-      "genres": [
-        "Entertainment"
-      ],
-      "price": 0,
-      "bundleId": "com.netshort.abroad",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6016"
-      ],
-      "releaseDate": "2024-07-13T07:00:00Z",
-      "trackId": 6504849169,
-      "trackName": "NetShort - Popular Dramas & TV",
-      "sellerName": "NETSTORY PTE. LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T02:39:47Z",
-      "version": "2.3.8",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "NetShort – Watch Short Dramas in Minutes\n\nLooking for a quick story that is easy to start? NetShort brings vertical short dramas to your phone, with romance, secrets, emotional twists, fantasy plots, revenge stories, and suspenseful moments made for mobile viewing.\n\nEach episode is short, fast-paced, and simple to enjoy during a break, commute, trip, or relaxing evening. Watch one episode when you have a few minutes, or continue a series when you want a longer drama session.\n\n■ Stories That Start Quickly\nNetShort is designed for viewers who enjoy short-form drama without a long setup. Episodes focus on key story moments such as confessions, reunions, hidden identities, family secrets, second chances, and unexpected turns.\n\n■ Explore popular short drama themes, including:\n- Billionaire romance and CEO love stories\n- Werewolf bonds and supernatural romance\n- Revenge, comeback, and family secret stories\n- Fantasy, time travel, rebirth, and second chances\n- Mystery, crime, suspense, and hidden identities\n- Sweet love, heartbreak, and emotional drama\n\n■ Find a Series for Your Mood\nWhether you want a romantic story, a fantasy twist, a revenge comeback, or a mystery with suspense, NetShort helps you discover short series that match what you like.\n\nYou can browse trending titles, follow series you enjoy, continue watching from where you left off, and receive updates when new episodes are available.\n\n■ Made for Mobile Watching\nNetShort makes short dramas easy to watch on your phone:\n- Vertical episodes made for phone screens\n- Short episodes that fit busy schedules\n- HD playback for clearer viewing\n- Offline downloads for supported content\n- Watch history and saved favorites\n- Playback controls for your preferred pace\n- Smart filters to help you find stories faster\n\n■ Fresh Episodes and Easy Discovery\nNetShort regularly updates its drama library with new episodes and series. Personalized recommendations help you discover romance, fantasy, revenge, mystery, suspense, and other short dramas based on your viewing interests.\n\n■ VIP Access\nSome content and features may require VIP access or in-app purchases. VIP members can enjoy benefits such as:\n- Ad-free viewing where available\n- HD playback for supported episodes\n- Offline downloads for supported content\n- Access to more episodes in selected series\n\n■ Why Try NetShort?\nNetShort is made for viewers who like compact stories with clear emotions, quick pacing, and mobile-first viewing. From romantic turns to fantasy surprises and revenge-driven plots, each series is built to deliver drama in a short amount of time.\n\nIf you enjoy short dramas, vertical series, mini dramas, romance stories, fantasy plots, revenge stories, mystery thrillers, or suspenseful cliffhangers, NetShort is ready whenever you want to watch.\n\nDownload NetShort and start watching short dramas on your phone.\n\nNotice\nIf you subscribe via Apple, payment will be charged to your App Store account upon purchase confirmation.\nYour subscription will take effect within 24 hours after purchase, depending on your order status in the App Store.\nWithin the 24 hours before your current subscription expires, your account will be charged for renewal based on the price of your selected plan. Upon successful renewal, your subscription period will be automatically extended.\nYou can cancel your subscription by going to: Settings > iTunes & App Store > Apple ID > View Apple ID > Subscriptions > NetShort.\nIf you do not cancel your subscription at least 24 hours before your current subscription expires, it will automatically renew.\n\nRelated Agreements\nTerms of Service: https://netshort.com/agreement/1\nPrivacy Policy: https://netshort.com/agreement/2\nRecharge Agreement: https://netshort.com/agreement/3\n\nFollow us on Facebook: https://www.facebook.com/profile.php?id=61564956644828\nFollow us on YouTube: https://www.youtube.com/@NetShort-app",
-      "averageUserRating": 4.68107,
-      "averageUserRatingForCurrentVersion": 4.68107,
+      "sellerUrl": "https://www.netshort.com",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -1318,15 +1299,40 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "177025024",
+      "fileSizeBytes": "184233984",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 16267,
+      "userRatingCountForCurrentVersion": 16769,
       "trackContentRating": "17+",
-      "sellerUrl": "https://www.netshort.com",
-      "contentAdvisoryRating": "17+",
+      "averageUserRatingForCurrentVersion": 4.68156,
+      "releaseNotes": "- Added popular new short dramas, with exciting stories updated continuously.\n- Optimized/Optimised the Gold Coin feature for easier unlocking of exciting content.\n- Improved app performance for a smoother viewing experience.",
+      "artistId": 1754094607,
+      "artistName": "NETSTORY PTE. LTD.",
+      "genres": [
+        "Entertainment"
+      ],
+      "price": 0,
+      "trackId": 6504849169,
+      "trackName": "NetShort - Popular Dramas & TV",
+      "bundleId": "com.netshort.abroad",
+      "releaseDate": "2024-07-13T07:00:00Z",
+      "minimumOsVersion": "15.0",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "NETSTORY PTE. LTD.",
+      "genreIds": [
+        "6016"
+      ],
+      "currentVersionReleaseDate": "2026-11-16T02:50:55Z",
+      "version": "2.3.9",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "NetShort – Watch Short Dramas in Minutes\n\nLooking for a quick story that is easy to start? NetShort brings vertical short dramas to your phone, with romance, secrets, emotional twists, fantasy plots, revenge stories, and suspenseful moments made for mobile viewing.\n\nEach episode is short, fast-paced, and simple to enjoy during a break, commute, trip, or relaxing evening. Watch one episode when you have a few minutes, or continue a series when you want a longer drama session.\n\n■ Stories That Start Quickly\nNetShort is designed for viewers who enjoy short-form drama without a long setup. Episodes focus on key story moments such as confessions, reunions, hidden identities, family secrets, second chances, and unexpected turns.\n\n■ Explore popular short drama themes, including:\n- Billionaire romance and CEO love stories\n- Werewolf bonds and supernatural romance\n- Revenge, comeback, and family secret stories\n- Fantasy, time travel, rebirth, and second chances\n- Mystery, crime, suspense, and hidden identities\n- Sweet love, heartbreak, and emotional drama\n\n■ Find a Series for Your Mood\nWhether you want a romantic story, a fantasy twist, a revenge comeback, or a mystery with suspense, NetShort helps you discover short series that match what you like.\n\nYou can browse trending titles, follow series you enjoy, continue watching from where you left off, and receive updates when new episodes are available.\n\n■ Made for Mobile Watching\nNetShort makes short dramas easy to watch on your phone:\n- Vertical episodes made for phone screens\n- Short episodes that fit busy schedules\n- HD playback for clearer viewing\n- Offline downloads for supported content\n- Watch history and saved favorites\n- Playback controls for your preferred pace\n- Smart filters to help you find stories faster\n\n■ Fresh Episodes and Easy Discovery\nNetShort regularly updates its drama library with new episodes and series. Personalized recommendations help you discover romance, fantasy, revenge, mystery, suspense, and other short dramas based on your viewing interests.\n\n■ VIP Access\nSome content and features may require VIP access or in-app purchases. VIP members can enjoy benefits such as:\n- Ad-free viewing where available\n- HD playback for supported episodes\n- Offline downloads for supported content\n- Access to more episodes in selected series\n\n■ Why Try NetShort?\nNetShort is made for viewers who like compact stories with clear emotions, quick pacing, and mobile-first viewing. From romantic turns to fantasy surprises and revenge-driven plots, each series is built to deliver drama in a short amount of time.\n\nIf you enjoy short dramas, vertical series, mini dramas, romance stories, fantasy plots, revenge stories, mystery thrillers, or suspenseful cliffhangers, NetShort is ready whenever you want to watch.\n\nDownload NetShort and start watching short dramas on your phone.\n\nNotice\nIf you subscribe via Apple, payment will be charged to your App Store account upon purchase confirmation.\nYour subscription will take effect within 24 hours after purchase, depending on your order status in the App Store.\nWithin the 24 hours before your current subscription expires, your account will be charged for renewal based on the price of your selected plan. Upon successful renewal, your subscription period will be automatically extended.\nYou can cancel your subscription by going to: Settings > iTunes & App Store > Apple ID > View Apple ID > Subscriptions > NetShort.\nIf you do not cancel your subscription at least 24 hours before your current subscription expires, it will automatically renew.\n\nRelated Agreements\nTerms of Service: https://netshort.com/agreement/1\nPrivacy Policy: https://netshort.com/agreement/2\nRecharge Agreement: https://netshort.com/agreement/3\n\nFollow us on Facebook: https://www.facebook.com/profile.php?id=61564956644828\nFollow us on YouTube: https://www.youtube.com/@NetShort-app",
+      "averageUserRating": 4.68156,
       "trackCensoredName": "NetShort - Popular Dramas & TV",
       "trackViewUrl": "https://apps.apple.com/gb/app/netshort-popular-dramas-tv/id6504849169?uo=4",
-      "userRatingCount": 16267,
+      "contentAdvisoryRating": "17+",
+      "userRatingCount": 16769,
       "country": "GBR"
     }
   ]

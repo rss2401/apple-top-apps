@@ -248,12 +248,15 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/56/12/e6561205-43e3-1e0a-9463-fbc4395a56a3/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
+      ],
+      "advisories": [
+        "Unrestricted Web Access"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -385,13 +388,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Unrestricted Web Access"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.60527,
       "sellerUrl": "https://microsoft.com/msn/mobile",
       "languageCodesISO2A": [
         "AR",
@@ -438,37 +439,38 @@
       ],
       "fileSizeBytes": "276040704",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 124473,
+      "userRatingCountForCurrentVersion": 124553,
       "trackContentRating": "17+",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.60527,
+      "averageUserRatingForCurrentVersion": 4.60531,
       "trackCensoredName": "MSN",
       "trackViewUrl": "https://apps.apple.com/us/app/msn/id945416273?uo=4",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.60531,
       "genres": [
         "News"
       ],
       "price": 0,
-      "trackId": 945416273,
-      "trackName": "MSN",
-      "currentVersionReleaseDate": "2026-11-02T08:08:58Z",
-      "minimumOsVersion": "18.0",
       "releaseDate": "2014-12-11T09:41:00Z",
       "primaryGenreName": "News",
       "primaryGenreId": 6009,
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 945416273,
+      "trackName": "MSN",
+      "minimumOsVersion": "18.0",
       "genreIds": [
         "6009"
       ],
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-02T08:08:58Z",
       "releaseNotes": "Microsoft Start is now MSN, same great experience and personalized content feed.",
       "version": "34.4.441029001",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The MSN app keeps you informed, productive, and entertained with tailored content, real-time weather, stock tracking, short videos and more.​\n\n​Key features​\n\nYour tailored feed, with you on the go.\nQuality content from thousands of trusted publishers.​\n\nWeather report​\nGet hourly and 10-day forecasts, air quality, UV index and more.​ \n\n​Financial news​ hub​\nSee the latest on the market, trends and your favorite stocks. ​\n\nYour personalized video feed​​\nScroll short clips of the latest news, trending stories and viral moments. ​",
       "bundleId": "com.microsoft.axp-ios.BingNews",
-      "userRatingCount": 124473,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "userRatingCount": 124553,
       "country": "USA"
     }
   ]

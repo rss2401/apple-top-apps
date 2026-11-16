@@ -425,6 +425,32 @@
     },
     {
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/rtd/id1804158489?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/74/08/4374087f-6950-5735-87a8-6f6125fa80ed/01_iphone_config-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/58/a22d580a-da9b-b040-dbd2-4a91fe644290/02_iphone_config-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/48/b6/8d48b67d-a74d-66ff-d7c2-f93184a7a7f9/03_iphone_config-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/38/ee/eb38ee23-d0e7-2aa2-686e-e8b2d1dc9477/04_iphone_config-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/22/e2/b122e2e8-c898-c26e-9ac9-fe6c288736c4/05_iphone_config-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/bb/e5/78bbe575-659c-5787-031c-8e2fe0aa14f3/06_iphone_config-6.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/8a/95/9d8a95be-5419-d925-3f2c-7c50da2c73ea/01_ipad_config-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/f2/c1/66f2c15b-1951-2330-87ce-c4c7efd68c52/02_ipad_config-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a2/0a/7ba20a75-fcf9-94dd-5677-d60e19e7c62c/03_ipad_config-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/c6/b1/d8c6b179-3e9d-8741-bf50-fd59b2de78e9/04_ipad_config-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/49/3d/6e493d5e-92e2-72cb-0431-c7ada9867c76/05_ipad_config-5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/46/40/b04640ba-e221-7a78-7f89-fa07238048e2/06_ipad_config-6.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -556,34 +582,10 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/rtd/id1804158489?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/74/08/4374087f-6950-5735-87a8-6f6125fa80ed/01_iphone_config-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/58/a22d580a-da9b-b040-dbd2-4a91fe644290/02_iphone_config-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/48/b6/8d48b67d-a74d-66ff-d7c2-f93184a7a7f9/03_iphone_config-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/38/ee/eb38ee23-d0e7-2aa2-686e-e8b2d1dc9477/04_iphone_config-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/22/e2/b122e2e8-c898-c26e-9ac9-fe6c288736c4/05_iphone_config-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/bb/e5/78bbe575-659c-5787-031c-8e2fe0aa14f3/06_iphone_config-6.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/8a/95/9d8a95be-5419-d925-3f2c-7c50da2c73ea/01_ipad_config-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/f2/c1/66f2c15b-1951-2330-87ce-c4c7efd68c52/02_ipad_config-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a2/0a/7ba20a75-fcf9-94dd-5677-d60e19e7c62c/03_ipad_config-3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d8/c6/b1/d8c6b179-3e9d-8741-bf50-fd59b2de78e9/04_ipad_config-4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/49/3d/6e493d5e-92e2-72cb-0431-c7ada9867c76/05_ipad_config-5.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/46/40/b04640ba-e221-7a78-7f89-fa07238048e2/06_ipad_config-6.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "releaseNotes": "10.2では、iPhone Duoに対応しました。\n\n- iPhone Duoを開いている時も閉じている時も、それぞれに合わせたレイアウトで表示されます。\n- 高ISOでの色を改善：ISOブーストで撮影した写真も自然な色を保ちます。\n- より信頼性の高いフォーカスシステム。\n- 大きな写真ライブラリでのパフォーマンスを改善。\n- その他の修正と改善。",
       "artistId": 1804158489,
       "artistName": "RTD",
@@ -593,18 +595,18 @@
       ],
       "price": 500,
       "bundleId": "com.interealtime.LightBoost",
+      "minimumOsVersion": "18.6",
       "releaseDate": "2013-12-12T08:00:00Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "sellerName": "RTD",
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6008",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 754105884,
       "trackName": "NightCap カメラ：長時間露光",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "minimumOsVersion": "18.6",
       "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
       "version": "10.2",
       "wrapperType": "software",

@@ -2,10 +2,13 @@
   "resultCount": 1,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/98/ad/fa98add6-e466-e724-929f-b4e883214022/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/butterfly-effect-pte-ltd/id1724709802?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/98/ad/fa98add6-e466-e724-929f-b4e883214022/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [
         "Infrequent/Mild Medical/Treatment Information"
       ],
@@ -29,10 +32,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/8d/40/388d40be-ff80-f2f2-6bbe-6f04c83b5440/en_ipad_09.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/cc/75/22cc75fc-3173-432d-e11f-dc69532d4ddb/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/cc/75/22cc75fc-3173-432d-e11f-dc69532d4ddb/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/cc/75/22cc75fc-3173-432d-e11f-dc69532d4ddb/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/butterfly-effect-pte-ltd/id1724709802?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/98/ad/fa98add6-e466-e724-929f-b4e883214022/IconManus-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,29 +163,33 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "bundleId": "tech.butterfly.app",
-      "price": 0,
+      "averageUserRatingForCurrentVersion": 4.72686,
+      "currentVersionReleaseDate": "2026-11-14T07:01:22Z",
+      "averageUserRating": 4.72686,
+      "contentAdvisoryRating": "12+",
+      "trackCensoredName": "Manus - AI Agent & Automation",
+      "trackViewUrl": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
       "artistId": 1724709802,
       "artistName": "BUTTERFLY EFFECT PTE. LTD.",
+      "price": 0,
+      "releaseNotes": "Introducing Manus 2.0\n- Remote Control: Control your computer or cloud computer from your phone.\n- Manus Studio Collaboration: Let Manus write code, use the apps on your computer, and edit docs, slides, and videos with you.\n- Phone & Cloud Computer: Buy a phone number or cloud computer for Manus to get things done.\n- Bug Fixes: Performance improvements and stability fixes.",
       "minimumOsVersion": "18.0",
       "genreIds": [
         "6007",
         "6002"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-03-27T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
       "sellerName": "BUTTERFLY EFFECT PTE. LTD.",
-      "currentVersionReleaseDate": "2026-11-08T12:26:07Z",
-      "releaseNotes": "Introducing Manus 2.0\n- Remote Control: Control your computer or cloud computer from your phone.\n- Manus Studio Collaboration: Let Manus write code, use the apps on your computer, and edit docs, slides, and videos with you.\n- Phone & Cloud Computer: Buy a phone number or cloud computer for Manus to get things done.\n- Bug Fixes: Performance improvements and stability fixes.",
-      "version": "26.19.11",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "26.19.13",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Leave it to Manus - The AI agent that doesn't just think, it delivers.\n\nManus is a general AI agent that bridges mind and action. Unlike\nchatbots that stop at generating text, Manus uses its own virtual \"computer\"\nto autonomously plan, research, write code, and deliver a finished product.\nIt works asynchronously in the cloud—close the app and Manus keeps working,\nnotifying you when your task is complete.\n\nADVANCED SPREADSHEETS & DATA ANALYSIS\n- Instantly handle complex financial modeling, data analysis, and automated\nreporting.\n- Transform raw Excel or CSV data into clear visual insights and interactive\ndashboards.\n\nBOARDROOM-QUALITY SLIDES\n- Generate complete, polished slide decks tailored to your needs with one\nprompt.\n- Manus handles structure, design, and content—ready to present in a\nboardroom, classroom, or online.\n\nDESIGN VIEW & MEDIA GENERATION\n- Create and edit images with precision on an interactive canvas.\n- Transform simple text prompts into high-quality images and complete video\nstories.\n\nSMARTER WIDE RESEARCH\n- Powered by the Manus 1.6 Max architecture, conduct deep, accurate, and comprehensive web research.\n- Multiple sub-agents work in parallel to synthesize findings and draft\ndetailed reports automatically.\n\nFREE & UNLIMITED CHAT\n- Ask any question and get instant, accurate answers.\n- One-click upgrade to Agent Mode for complex, multi-step execution.\n\nTHE MANUS DIFFERENCE\n- Asynchronous Cloud Execution: Close the app. Manus keeps working. Get\nnotified when done.\n- Autonomous Task Decomposition: Complex requests are broken into a to-do\nlist and executed step by step.\n- Always in Control: Stop, edit, or redirect your task at any time.\n\nTasks that used to take 20 hours can now be done in 1. Download Manus and\nput your work on autopilot.\n\nPrivacy Policy: https://manus.im/privacy\nTerms of Use: https://manus.im/terms",
-      "averageUserRatingForCurrentVersion": 4.72705,
-      "averageUserRating": 4.72705,
-      "trackCensoredName": "Manus - AI Agent & Automation",
       "languageCodesISO2A": [
         "AR",
         "CS",
@@ -210,21 +214,19 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "346902528",
+      "fileSizeBytes": "348135424",
       "formattedPrice": "Free",
-      "contentAdvisoryRating": "12+",
-      "userRatingCountForCurrentVersion": 40257,
-      "trackViewUrl": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
+      "userRatingCountForCurrentVersion": 40606,
       "trackContentRating": "12+",
-      "trackId": 6740909540,
-      "trackName": "Manus - AI Agent & Automation",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
       "genres": [
         "Productivity",
         "Utilities"
       ],
-      "userRatingCount": 40257,
+      "trackName": "Manus - AI Agent & Automation",
+      "trackId": 6740909540,
+      "releaseDate": "2025-03-27T07:00:00Z",
+      "bundleId": "tech.butterfly.app",
+      "userRatingCount": 40606,
       "country": "USA"
     }
   ]

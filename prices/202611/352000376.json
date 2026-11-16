@@ -2,23 +2,23 @@
   "id": "352000376",
   "name": "Shift Worker",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:24:06.170Z",
+  "fetchedAt": "2026-11-16T10:20:43.136Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
       "items": [
         {
-          "name": "Shift Worker Premium Monthly",
-          "price": "£1.99",
-          "amount": 1.99
-        },
-        {
           "name": "Shift Worker Premium Yearly",
           "price": "£17.99",
           "amount": 17.99
+        },
+        {
+          "name": "Shift Worker Premium Monthly",
+          "price": "£1.99",
+          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:24:06.164Z"
+      "fetchedAt": "2026-11-16T10:20:43.131Z"
     }
   }
 }

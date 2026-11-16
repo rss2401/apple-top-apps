@@ -2,20 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/2e/1f/122e1fd9-e677-328f-ce99-52dd3bb33bb1/1-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/86/a5/9686a5e9-19a3-e65e-dc28-4509c020f0d4/2-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/01/cf/5d01cf20-b8c2-d03a-24eb-620c0852c5e3/3-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/5f/2b/dc5f2bd9-ed1b-7261-da7e-812a4daff748/4-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/93/c5/5093c5d9-ea2e-b507-ef3a-f842b1e0f8c5/5-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/67/4a/5a674af4-d739-b3bc-a711-d11459777fa2/6-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/89/95/f9899577-85da-f673-7976-59314bb7db4a/7-equijump-appstore-ipad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/b5/f6/bab5f623-e776-a518-1463-d2309e42475c/8-equijump-appstore-ipad.jpg/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -147,14 +133,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/nina-gill/id1651618994?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/33/69/d533693a-4744-e293-1410-e970164ab256/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/33/69/d533693a-4744-e293-1410-e970164ab256/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/33/69/d533693a-4744-e293-1410-e970164ab256/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/33/69/d533693a-4744-e293-1410-e970164ab256/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/db/31/96db31ef-161a-6187-48e9-5e3af9edcaa9/1-equijump-appstore.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/56/db/c956db1a-ef4c-6f8f-7653-6e71870d5de4/2-equijump-appstore.jpg/320x480bb.jpg",
@@ -165,41 +157,51 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/21/9e/f8219e0b-5062-19e1-8978-9588ecbd6744/7-equijump-appstore.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/06/b7/af06b76e-a75e-bd0b-7113-93a040d7abf8/8-equijump-appstore.jpg/320x480bb.jpg"
       ],
-      "bundleId": "com.fancyfootwork.equijump",
-      "genres": [
-        "Sports"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/2e/1f/122e1fd9-e677-328f-ce99-52dd3bb33bb1/1-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/86/a5/9686a5e9-19a3-e65e-dc28-4509c020f0d4/2-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/01/cf/5d01cf20-b8c2-d03a-24eb-620c0852c5e3/3-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/5f/2b/dc5f2bd9-ed1b-7261-da7e-812a4daff748/4-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/93/c5/5093c5d9-ea2e-b507-ef3a-f842b1e0f8c5/5-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/67/4a/5a674af4-d739-b3bc-a711-d11459777fa2/6-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/89/95/f9899577-85da-f673-7976-59314bb7db4a/7-equijump-appstore-ipad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/b5/f6/bab5f623-e776-a518-1463-d2309e42475c/8-equijump-appstore-ipad.jpg/360x480bb.jpg"
       ],
       "artistId": 1651618994,
       "artistName": "Nina Gill",
-      "price": 3.99,
-      "trackId": 6737974493,
-      "trackName": "Equijump",
-      "releaseDate": "2025-08-27T07:00:00Z",
-      "minimumOsVersion": "12.0",
-      "genreIds": [
-        "6004"
+      "genres": [
+        "Sports"
       ],
+      "price": 3.99,
+      "trackName": "Equijump",
+      "trackId": 6737974493,
+      "bundleId": "com.fancyfootwork.equijump",
       "primaryGenreName": "Sports",
       "primaryGenreId": 6004,
       "sellerName": "Nina Gill",
+      "minimumOsVersion": "12.0",
+      "releaseDate": "2025-08-27T07:00:00Z",
+      "genreIds": [
+        "6004"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-08-27T13:40:21Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Do you love jumping but sometimes find yourself stuck for ideas? Are you looking for ways to build your horse’s confidence with gridwork, improve your rhythm around courses, and keep schooling interesting with fun jumping exercises? Are you running out of inspiration and want fresh, exciting new set-ups?\n\nIf the answer is yes to any of the above, then you need the Equijump app by Fancy Footwork Equestrian in your life.\n\nThis app includes 60 different set-ups using between one and eight fences, made up of:\n\t•\t15 jumping exercises\n\t•\t15 grids\n\t•\t15 courses\n\t•\tAnd a random exercise generator with 15 further fun set-ups!\n\nYou can search the content based on:\n\t•\tThe number of fences you want to build\n\t•\tWhether you want to focus on a grid, course, or exercise\n\t•\tOr, if you can’t decide what to go for, let the random exercise generator choose for you!\nJust press the button, watch the wheel spin, and wait for the confetti to fall as your set-up is revealed!\n\nEach of the 15 jumping exercises includes two different ways to ride them and uses between 1 and 5 fences.\nEach course uses between 4 and 8 fences and includes two different routes, plus an extended route.\nThe 15 grids use between 2 and 5 fences, and the 15 random generator set-ups use between 1 and 4 fences.\n\nIn total, the app contains 105 different ideas and options!\n\nThere’s also a Favourites folder, so you can save any set-up for quick and easy access, and a Stride Guide to help you with jump distances, where applicable.\n\nAll for a one-off price!\nNo monthly subscription, no annual membership — buy it once and it’s yours to keep forever!",
-      "averageUserRating": 5,
       "trackCensoredName": "Equijump",
+      "trackViewUrl": "https://apps.apple.com/gb/app/equijump/id6737974493?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "152812544",
       "formattedPrice": "£3.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "trackViewUrl": "https://apps.apple.com/gb/app/equijump/id6737974493?uo=4",
       "sellerUrl": "https://www.fancyfootworkequestrian.co.uk/equijump-app",
       "userRatingCount": 1,
       "country": "GBR"

@@ -218,12 +218,15 @@
       "userRatingCount": 66967
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
+      ],
+      "advisories": [
+        "Unrestricted Web Access"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -355,10 +358,9 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
-      ],
-      "advisories": [
-        "Unrestricted Web Access"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
       "screenshotUrls": [
@@ -374,36 +376,32 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/48/46/68484684-a637-debb-dd54-c17e5d40a611/AppIcon-0-1x_U007epad-0-0-0-8-0-0-0-85-220-0.png/512x512bb.jpg",
-      "releaseNotes": "We've updated the app to bring you the best Assistant experience. This release contains bug fixes and stability improvements.",
+      "averageUserRating": 4.73095,
       "trackCensoredName": "Google Assistant",
       "trackViewUrl": "https://apps.apple.com/us/app/google-assistant/id1220976145?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.73102,
-      "artistId": 281956209,
-      "artistName": "Google",
+      "price": 0,
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "price": 0,
+      "artistId": 281956209,
+      "artistName": "Google",
+      "releaseDate": "2017-05-18T12:48:44Z",
+      "trackName": "Google Assistant",
+      "trackId": 1220976145,
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Google LLC",
-      "releaseDate": "2017-05-18T12:48:44Z",
-      "minimumOsVersion": "15.0",
-      "trackId": 1220976145,
-      "trackName": "Google Assistant",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2025-07-23T12:24:44Z",
+      "releaseNotes": "We've updated the app to bring you the best Assistant experience. This release contains bug fixes and stability improvements.",
       "version": "1.9.148701",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Google Assistant helps you get everyday tasks done more easily and is thoughtfully designed to offer help throughout your day while keeping your information private, safe and secure.\n\nSet reminders, get quick answers, find directions with Google Maps, and more while on-the-go with the help of your Google Assistant.\n\nWith the Assistant app, you can:\n- Send text messages (e.g. \"Text Kat “I’m on my way”)\n- Set reminders (e.g. \"Remind me to buy a birthday gift for Sarah\")\n- Play music (e.g. \"Play jazz music on YouTube\")\n- Navigate places (e.g. \"Navigate to the nearest coffee shop\")\n- Weather information (e.g. \"What’s the weather today\")\n- Learn more about your privacy controls (e.g., “Where can I change my privacy settings?”)\n-Delete your recent Google Assistant activity (e.g., “Delete what I said this week”)",
-      "sellerUrl": "https://assistant.google.com/",
+      "bundleId": "com.google.OPA",
       "languageCodesISO2A": [
         "AR",
         "DA",
@@ -429,12 +427,16 @@
         "VI"
       ],
       "fileSizeBytes": "267389952",
-      "averageUserRatingForCurrentVersion": 4.73102,
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 66940,
+      "userRatingCountForCurrentVersion": 66942,
       "trackContentRating": "17+",
-      "bundleId": "com.google.OPA",
-      "userRatingCount": 66940,
+      "sellerUrl": "https://assistant.google.com/",
+      "averageUserRatingForCurrentVersion": 4.73095,
+      "sellerName": "Google LLC",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 66942,
       "country": "USA"
     }
   ]

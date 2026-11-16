@@ -1,8 +1,8 @@
 {
   "id": "1510944943",
-  "name": "Cleanup: Nettoyeur de stockage",
+  "name": "Cleanup: Phone Storage Cleaner",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:23:13.445Z",
+  "fetchedAt": "2026-11-16T10:21:02.997Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -65,13 +65,13 @@
       "items": [
         {
           "name": "Cleanup Pro 1 Week",
-          "price": "$7.99",
-          "amount": 7.99
+          "price": "$11.99",
+          "amount": 11.99
         },
         {
           "name": "Cleanup Pro 1 Week",
-          "price": "$11.99",
-          "amount": 11.99
+          "price": "$7.99",
+          "amount": 7.99
         },
         {
           "name": "Cleanup Pro 1 Week",
@@ -114,7 +114,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:23:13.445Z"
+      "fetchedAt": "2026-11-16T10:21:02.997Z"
     }
   }
 }

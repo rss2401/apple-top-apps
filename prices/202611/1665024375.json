@@ -2,7 +2,7 @@
   "id": "1665024375",
   "name": "Runway: AI视频图片生成",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:31:46.818Z",
+  "fetchedAt": "2026-11-16T10:25:49.272Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -18,24 +18,24 @@
           "amount": 68
         },
         {
-          "name": "Pro - Monthly",
-          "price": "¥228.00",
-          "amount": 228
-        },
-        {
           "name": "2000 Generation  Credits",
           "price": "¥148.00",
           "amount": 148
         },
         {
-          "name": "Standard - Yearly",
-          "price": "¥998.00",
-          "amount": 998
+          "name": "Pro - Monthly",
+          "price": "¥228.00",
+          "amount": 228
         },
         {
           "name": "1500 Generation Credits",
           "price": "¥98.00",
           "amount": 98
+        },
+        {
+          "name": "Standard - Yearly",
+          "price": "¥998.00",
+          "amount": 998
         },
         {
           "name": "Unlimited - Monthly",
@@ -48,17 +48,17 @@
           "amount": 198
         },
         {
-          "name": "Max - Monthly",
-          "price": "¥698.00",
-          "amount": 698
-        },
-        {
           "name": "4000 Credits",
           "price": "¥298.00",
           "amount": 298
+        },
+        {
+          "name": "7500 Credits",
+          "price": "¥498.00",
+          "amount": 498
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:45.324Z"
+      "fetchedAt": "2026-11-16T10:25:47.682Z"
     },
     "us": {
       "currency": "USD",
@@ -94,14 +94,14 @@
           "amount": 30
         },
         {
-          "name": "Standard - Yearly",
-          "price": "$143.99",
-          "amount": 143.99
-        },
-        {
           "name": "10000 Generation Credits",
           "price": "$100.00",
           "amount": 100
+        },
+        {
+          "name": "Standard - Yearly",
+          "price": "$143.99",
+          "amount": 143.99
         },
         {
           "name": "1500 Generation Credits",
@@ -114,7 +114,7 @@
           "amount": 95
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:46.818Z"
+      "fetchedAt": "2026-11-16T10:25:49.272Z"
     }
   }
 }

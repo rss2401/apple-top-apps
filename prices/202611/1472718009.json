@@ -2,7 +2,7 @@
   "id": "1472718009",
   "name": "TP-Link Tapo",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:27:19.673Z",
+  "fetchedAt": "2026-11-16T10:24:11.686Z",
   "storefronts": {
     "gb": {
       "currency": "GBP",
@@ -48,17 +48,17 @@
           "amount": 53.99
         },
         {
-          "name": "Tapo Care Premium (Yearly)",
-          "price": "£97.99",
-          "amount": 97.99
-        },
-        {
           "name": "Tapo Care Basic 1 Cam/year",
           "price": "£25.49",
           "amount": 25.49
+        },
+        {
+          "name": "Tapo Care Premium (Yearly)",
+          "price": "£97.99",
+          "amount": 97.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:27:19.668Z"
+      "fetchedAt": "2026-11-16T10:24:11.684Z"
     }
   }
 }

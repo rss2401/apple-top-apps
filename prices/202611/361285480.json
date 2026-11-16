@@ -2,11 +2,16 @@
   "id": "361285480",
   "name": "Keynote: Design Presentations",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:29:39.015Z",
+  "fetchedAt": "2026-11-16T10:26:51.136Z",
   "storefronts": {
     "us": {
       "currency": "USD",
       "items": [
+        {
+          "name": "Intelligence Usage Pack",
+          "price": "$49.99",
+          "amount": 49.99
+        },
         {
           "name": "Monthly",
           "price": "$12.99",
@@ -18,7 +23,7 @@
           "amount": 129
         }
       ],
-      "fetchedAt": "2026-11-09T10:29:39.009Z"
+      "fetchedAt": "2026-11-16T10:26:51.136Z"
     }
   }
 }

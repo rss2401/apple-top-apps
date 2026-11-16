@@ -2,7 +2,7 @@
   "id": "6471839445",
   "name": "RYUKIN",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:13:56.964Z",
+  "fetchedAt": "2026-11-16T10:10:52.137Z",
   "storefronts": {
     "jp": {
       "currency": "JPY",
@@ -23,17 +23,12 @@
           "amount": 240
         },
         {
-          "name": "白ねこ金魚",
-          "price": "¥240",
-          "amount": 240
-        },
-        {
-          "name": "ゴースト",
-          "price": "¥240",
-          "amount": 240
-        },
-        {
           "name": "ゴースト花嫁",
+          "price": "¥240",
+          "amount": 240
+        },
+        {
+          "name": "白ねこ金魚",
           "price": "¥240",
           "amount": 240
         },
@@ -53,12 +48,17 @@
           "amount": 240
         },
         {
-          "name": "ほねほね金魚",
+          "name": "ゴースト",
+          "price": "¥240",
+          "amount": 240
+        },
+        {
+          "name": "ゴースト 半透明",
           "price": "¥240",
           "amount": 240
         }
       ],
-      "fetchedAt": "2026-11-09T10:13:56.962Z"
+      "fetchedAt": "2026-11-16T10:10:52.131Z"
     }
   }
 }

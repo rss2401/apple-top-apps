@@ -425,10 +425,12 @@
       "country": "JPN"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/threema-gmbh/id535112011?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/38/63/bd38637f-d43b-4c18-1da8-931fe0626c71/ios-6.9-7.1-en_us-01-promo.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/1e/b6/671eb6e3-7442-3bde-689d-ebb77484bce9/ios-6.9-7.1-en_us-02-promo.png/320x480bb.jpg",
@@ -449,9 +451,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/threema-gmbh/id535112011?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -582,17 +584,36 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "trackCensoredName": "Threema. The Secure Messenger",
-      "trackViewUrl": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=4",
-      "contentAdvisoryRating": "4+",
       "releaseNotes": "• New: Report spam in one-to-one and group chats, and block the sender or group creator\n\nThreema 7.5.1\n• Fixed a bug that could occur when updating the app\n\nThreema 7.5\n• Note: This version requires iOS 18 or higher\n• Improvements in relation to notifications of group calls\n• Improvements in relation to calls\n• Improvements in relation to voice messages\n• Various performance improvements\n• Various improvements for devices running iOS 27",
-      "averageUserRating": 4.23901,
+      "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
+      "bundleId": "ch.threema.iapp",
+      "price": 6.99,
+      "genreIds": [
+        "6005",
+        "6002"
+      ],
+      "trackId": 578665578,
+      "trackName": "Threema. The Secure Messenger",
+      "releaseDate": "2012-12-28T11:53:33Z",
+      "minimumOsVersion": "18.0",
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "sellerName": "Threema GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "7.5.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Threema is the world’s best-selling secure messenger, used by more than 12 million people in over 175 countries, developed in Switzerland, and designed with privacy and data protection in mind. Whether chats, calls, or files, everything is end-to-end encrypted, and no data trail is left behind. Instead of a phone number or email address, a randomly generated Threema ID serves as a unique identifier – anonymous and secure. Threema protects what really matters: your privacy.\n\nAdvantages of Threema:\n• Text and voice messages, including emoji reactions\n• End-to-end encrypted voice, video, and group calls\n• Location sharing\n• Sending files in all formats (PDF, GIF, MP3, ZIP, and more)\n• Ability to edit sent messages and delete them for chat partners\n• Desktop app and web client for convenient chatting on your PC\n• Group creation and polls\n• Light or dark mode\n• No ads, no trackers, no data collection\n• Identity verification of contacts by scanning their QR code\n\nReliable security:\n• Open source and regular audits\n• Servers in Switzerland\n• Anonymous use possible: no phone number or email address required\n• Messages are deleted from the server immediately after delivery\n\nDo you have any questions or problems? Our FAQ can help: https://threema.com/support\n\nEnjoy using Threema!",
       "averageUserRatingForCurrentVersion": 4.23901,
       "sellerUrl": "https://threema.com",
+      "fileSizeBytes": "125228032",
+      "formattedPrice": "$6.99",
+      "userRatingCountForCurrentVersion": 728,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "BG",
         "CS",
@@ -614,39 +635,23 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "125228032",
-      "formattedPrice": "$6.99",
-      "userRatingCountForCurrentVersion": 728,
-      "trackContentRating": "4+",
+      "averageUserRating": 4.23901,
+      "trackViewUrl": "https://apps.apple.com/us/app/threema-the-secure-messenger/id578665578?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Threema. The Secure Messenger",
       "artistId": 535112011,
       "artistName": "Threema GmbH",
       "genres": [
         "Social Networking",
         "Utilities"
       ],
-      "price": 6.99,
-      "bundleId": "ch.threema.iapp",
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "releaseDate": "2012-12-28T11:53:33Z",
-      "trackId": 578665578,
-      "trackName": "Threema. The Secure Messenger",
-      "minimumOsVersion": "18.0",
-      "genreIds": [
-        "6005",
-        "6002"
-      ],
-      "sellerName": "Threema GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
-      "version": "7.5.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Threema is the world’s best-selling secure messenger, used by more than 12 million people in over 175 countries, developed in Switzerland, and designed with privacy and data protection in mind. Whether chats, calls, or files, everything is end-to-end encrypted, and no data trail is left behind. Instead of a phone number or email address, a randomly generated Threema ID serves as a unique identifier – anonymous and secure. Threema protects what really matters: your privacy.\n\nAdvantages of Threema:\n• Text and voice messages, including emoji reactions\n• End-to-end encrypted voice, video, and group calls\n• Location sharing\n• Sending files in all formats (PDF, GIF, MP3, ZIP, and more)\n• Ability to edit sent messages and delete them for chat partners\n• Desktop app and web client for convenient chatting on your PC\n• Group creation and polls\n• Light or dark mode\n• No ads, no trackers, no data collection\n• Identity verification of contacts by scanning their QR code\n\nReliable security:\n• Open source and regular audits\n• Servers in Switzerland\n• Anonymous use possible: no phone number or email address required\n• Messages are deleted from the server immediately after delivery\n\nDo you have any questions or problems? Our FAQ can help: https://threema.com/support\n\nEnjoy using Threema!",
       "userRatingCount": 728,
       "country": "USA"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/de/developer/threema-gmbh/id535112011?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0e/ae/fa/0eaefad2-f4c3-eeac-32aa-91a328903a5c/1-ios-6.9-7.1-de_de-01-promo.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/1f/ed/2c1fed4e-4678-7e59-82f4-14da429e3a4e/2-ios-6.9-7.1-de_de-02-promo.png/320x480bb.jpg",
@@ -667,10 +672,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/threema-gmbh/id535112011?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -804,16 +805,19 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRating": 4.22037,
-      "sellerUrl": "https://threema.ch",
-      "averageUserRatingForCurrentVersion": 4.22037,
+      "isGameCenterEnabled": false,
       "trackCensoredName": "Threema. Der sichere Messenger",
       "trackViewUrl": "https://apps.apple.com/de/app/threema-der-sichere-messenger/id578665578?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.22072,
+      "sellerUrl": "https://threema.ch",
+      "averageUserRatingForCurrentVersion": 4.22072,
       "languageCodesISO2A": [
         "BG",
         "CS",
@@ -837,25 +841,26 @@
       ],
       "fileSizeBytes": "125228032",
       "formattedPrice": "7,99 €",
-      "userRatingCountForCurrentVersion": 8272,
+      "userRatingCountForCurrentVersion": 8286,
       "trackContentRating": "4+",
-      "price": 7.99,
-      "trackName": "Threema. Der sichere Messenger",
-      "trackId": 578665578,
-      "artistId": 535112011,
-      "artistName": "Threema GmbH",
+      "releaseNotes": "• Neu: Spam in Einzel- und Gruppenchats melden und Person oder Gruppen-Admin blockieren\n\nThreema 7.5.1\n• Behebung eines Fehlers beim Aktualisieren der App\n\nThreema 7.5\n• Hinweis: Diese Version setzt iOS 18 oder höher voraus\n• Verbesserungen im Zusammenhang mit Benachrichtigungen von Gruppenanrufen\n• Verbesserungen im Zusammenhang mit Anrufen\n• Verbesserungen im Zusammenhang mit Sprachnachrichten\n• Verschiedene Performance-Optimierungen\n• Verschiedene Verbesserungen für Geräte mit iOS 27",
       "genres": [
         "Soziale Netze",
         "Dienst­programme"
       ],
+      "price": 7.99,
+      "artistId": 535112011,
+      "artistName": "Threema GmbH",
+      "trackId": 578665578,
+      "trackName": "Threema. Der sichere Messenger",
+      "minimumOsVersion": "18.0",
       "genreIds": [
         "6005",
         "6002"
       ],
-      "minimumOsVersion": "18.0",
-      "sellerName": "Threema GmbH",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
+      "sellerName": "Threema GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
       "version": "7.5.2",
@@ -864,19 +869,14 @@
       "description": "Threema ist der weltweit meistverkaufte sichere Messenger, der von mehr als 12 Millionen Menschen in über 175 Ländern verwendet wird – entwickelt in der Schweiz und konsequent auf Datenschutz und Privatsphäre ausgelegt. Ob Chats, Anrufe oder Dateien: Alles ist Ende-zu-Ende-verschlüsselt, und keine Datenspur bleibt zurück. Anstelle einer Telefonnummer oder E-Mail-Adresse dient eine zufällig erzeugte Threema-ID als eindeutige Kennung – anonym und sicher. Threema schützt, was wirklich zählt: Ihre Privatsphäre.\n\nVorteile mit Threema:\n• Text- und Sprachnachrichten inkl. Emoji-Reaktionen\n• Durchgängig verschlüsselte Sprach-, Video- und Gruppenanrufe\n• Teilen des Standorts\n• Versand von Dateien aller Formate (PDF, GIF, MP3, ZIP und mehr)\n• Möglichkeit, bereits gesendete Nachrichten zu bearbeiten und für Chatpartner zu löschen\n• Desktop-App und Web-Client, um bequem am PC zu chatten\n• Erstellen von Gruppen und Umfragen\n• Helles oder dunkles Design\n• Keine Werbung, keine Tracker, keine Datensammelei\n• Verifikation der Identität von Kontakten durch Scannen des QR-Codes\n\nZuverlässige Sicherheit:\n• Open Source und regelmässige Audits\n• Server in der Schweiz\n• Anonyme Nutzung möglich: keine Telefonnummer oder E-Mail-Adresse erforderlich\n• Löschung von Nachrichten vom Server sofort nach Zustellung\n\nHaben Sie Fragen oder Probleme? Unsere FAQ helfen weiter: https://threema.com/support\n\nViel Freude mit Threema!",
       "bundleId": "ch.threema.iapp",
       "releaseDate": "2012-12-13T05:32:09Z",
-      "releaseNotes": "• Neu: Spam in Einzel- und Gruppenchats melden und Person oder Gruppen-Admin blockieren\n\nThreema 7.5.1\n• Behebung eines Fehlers beim Aktualisieren der App\n\nThreema 7.5\n• Hinweis: Diese Version setzt iOS 18 oder höher voraus\n• Verbesserungen im Zusammenhang mit Benachrichtigungen von Gruppenanrufen\n• Verbesserungen im Zusammenhang mit Anrufen\n• Verbesserungen im Zusammenhang mit Sprachnachrichten\n• Verschiedene Performance-Optimierungen\n• Verschiedene Verbesserungen für Geräte mit iOS 27",
-      "userRatingCount": 8272,
+      "userRatingCount": 8286,
       "country": "DEU"
     },
     {
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/fr/developer/threema-gmbh/id535112011?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1007,19 +1007,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "kind": "software",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/34/77/b63477b8-0102-bf76-90c4-9fe5496a63d8/ios-i_pad_3-7.1-fr_fr-01-promo.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/29/eb3129c0-7b46-157b-ed81-1dd468487415/ios-i_pad_3-7.1-fr_fr-02-promo.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/ca/6f/5fca6fe7-9815-86aa-ea60-e79597a5da96/ios-i_pad_3-7.1-fr_fr-03-promo.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/0b/1e/c50b1e2d-0259-6bd5-2a52-b51742116b19/ios-i_pad_3-7.1-fr_fr-04-promo.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/b1/06/a1b10654-7932-3551-8d73-8c9a2a5fae53/ios-i_pad_3-7.1-fr_fr-05-promo.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/03/e7/5e03e7fe-c8bd-54de-fdc9-2352cd753e16/ios-i_pad_3-7.1-fr_fr-06-promo.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/62/6c/76626ce6-01ec-8787-abbe-c292df1f0de4/ios-6.9-7.1-fr_fr-01-promo.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/b8/de/68b8ded4-f398-e78f-6d66-5a0439aa8242/ios-6.9-7.1-fr_fr-02-promo.png/320x480bb.jpg",
@@ -1030,11 +1026,21 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/f1/50/d0f15090-dbf7-5661-a961-f84c82378811/ios-6.9-7.1-fr_fr-07-promo.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/3e/51/903e519d-f534-60b0-9082-ebe52cfe7952/ios-6.9-7.1-fr_fr-08-promo.png/320x480bb.jpg"
       ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/34/77/b63477b8-0102-bf76-90c4-9fe5496a63d8/ios-i_pad_3-7.1-fr_fr-01-promo.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/31/29/eb3129c0-7b46-157b-ed81-1dd468487415/ios-i_pad_3-7.1-fr_fr-02-promo.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/ca/6f/5fca6fe7-9815-86aa-ea60-e79597a5da96/ios-i_pad_3-7.1-fr_fr-03-promo.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/0b/1e/c50b1e2d-0259-6bd5-2a52-b51742116b19/ios-i_pad_3-7.1-fr_fr-04-promo.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/b1/06/a1b10654-7932-3551-8d73-8c9a2a5fae53/ios-i_pad_3-7.1-fr_fr-05-promo.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/03/e7/5e03e7fe-c8bd-54de-fdc9-2352cd753e16/ios-i_pad_3-7.1-fr_fr-06-promo.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "averageUserRating": 4.29167,
+      "releaseNotes": "• New: Report spam in one-to-one and group chats, and block the sender or group creator\n\nThreema 7.5.1\n• Fixed a bug that could occur when updating the app\n\nThreema 7.5\n• Note: This version requires iOS 18 or higher\n• Improvements in relation to notifications of group calls\n• Improvements in relation to calls\n• Improvements in relation to voice messages\n• Various performance improvements\n• Various improvements for devices running iOS 27",
       "trackCensoredName": "Threema. Messagerie sécurisée",
       "trackViewUrl": "https://apps.apple.com/fr/app/threema-messagerie-s%C3%A9curis%C3%A9e/id578665578?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.3007,
-      "releaseNotes": "• New: Report spam in one-to-one and group chats, and block the sender or group creator\n\nThreema 7.5.1\n• Fixed a bug that could occur when updating the app\n\nThreema 7.5\n• Note: This version requires iOS 18 or higher\n• Improvements in relation to notifications of group calls\n• Improvements in relation to calls\n• Improvements in relation to voice messages\n• Various performance improvements\n• Various improvements for devices running iOS 27",
       "artistId": 535112011,
       "artistName": "Threema GmbH",
       "genres": [
@@ -1043,25 +1049,25 @@
       ],
       "price": 7.99,
       "bundleId": "ch.threema.iapp",
-      "genreIds": [
-        "6005",
-        "6002"
-      ],
-      "releaseDate": "2013-04-29T15:26:24Z",
       "sellerName": "Threema GmbH",
-      "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
-      "isVppDeviceBasedLicensingEnabled": true,
       "minimumOsVersion": "18.0",
       "trackId": 578665578,
       "trackName": "Threema. Messagerie sécurisée",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
+      "releaseDate": "2013-04-29T15:26:24Z",
+      "genreIds": [
+        "6005",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
       "version": "7.5.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Threema est la messagerie sécurisée la plus vendue au monde, utilisée par plus de 12 millions de personnes dans plus de 175 pays, développée en Suisse et conçue dans un souci de confidentialité et de protection des données. Qu’il s’agisse de chats, d’appels ou de fichiers, tout est chiffré de bout en bout et aucune trace de données n’est laissée derrière. Au lieu d’un numéro de téléphone ou d’une adresse e-mail, un identifiant Threema généré aléatoirement sert d’identifiant unique – anonyme et sécurisé. Threema protège ce qui compte vraiment : votre vie privée.\n\nAvantages de Threema :\n• Messages texte et vocaux, y compris les réactions emoji\n• Appels vocaux, vidéo et de groupe chiffrés de bout en bout\n• Partage de localisation\n• Envoi de fichiers dans tous les formats (PDF, GIF, MP3, ZIP, etc.)\n• Possibilité de modifier les messages envoyés et de les supprimer pour les interlocuteurs\n• Application de bureau et client Web pour discuter facilement sur votre PC\n• Création de groupes et sondages\n• Mode clair ou sombre\n• Pas de publicité, pas de trackers, pas de collecte de données\n• Vérification d’identité des contacts en scannant leur code QR\n\nSécurité fiable :\n• Open source et audits réguliers\n• Serveurs en Suisse\n• Utilisation anonyme possible : aucun numéro de téléphone ni adresse e-mail requis\n• Les messages sont supprimés du serveur immédiatement après la livraison\n\nAvez-vous des questions ou des problèmes ? Notre FAQ peut vous aider : https://threema.com/support\n\nProfitez bien de Threema !",
-      "averageUserRatingForCurrentVersion": 4.3007,
       "sellerUrl": "https://threema.ch",
+      "averageUserRatingForCurrentVersion": 4.29167,
       "languageCodesISO2A": [
         "BG",
         "CS",
@@ -1085,9 +1091,9 @@
       ],
       "fileSizeBytes": "125228032",
       "formattedPrice": "7,99 €",
-      "userRatingCountForCurrentVersion": 143,
+      "userRatingCountForCurrentVersion": 144,
       "trackContentRating": "4+",
-      "userRatingCount": 143,
+      "userRatingCount": 144,
       "country": "FRA"
     },
     {
@@ -1111,10 +1117,8 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/threema-gmbh/id535112011?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "advisories": [],
       "features": [
         "iosUniversal"
       ],
@@ -1248,11 +1252,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/gb/developer/threema-gmbh/id535112011?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/d4/b0/bfd4b033-7c8a-c9fa-7b9b-58d104879a98/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.05128,
       "sellerUrl": "https://threema.com",
+      "fileSizeBytes": "125228032",
+      "formattedPrice": "£6.99",
+      "userRatingCountForCurrentVersion": 156,
+      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "BG",
         "CS",
@@ -1274,15 +1287,7 @@
         "TR",
         "UK"
       ],
-      "fileSizeBytes": "125228032",
-      "formattedPrice": "£6.99",
-      "userRatingCountForCurrentVersion": 157,
-      "trackContentRating": "4+",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.05732,
-      "averageUserRating": 4.05732,
-      "trackCensoredName": "Threema. The Secure Messenger",
-      "trackViewUrl": "https://apps.apple.com/gb/app/threema-the-secure-messenger/id578665578?uo=4",
+      "releaseNotes": "• New: Report spam in one-to-one and group chats, and block the sender or group creator\n\nThreema 7.5.1\n• Fixed a bug that could occur when updating the app\n\nThreema 7.5\n• Note: This version requires iOS 18 or higher\n• Improvements in relation to notifications of group calls\n• Improvements in relation to calls\n• Improvements in relation to voice messages\n• Various performance improvements\n• Various improvements for devices running iOS 27",
       "artistId": 535112011,
       "artistName": "Threema GmbH",
       "genres": [
@@ -1291,25 +1296,28 @@
       ],
       "price": 6.99,
       "bundleId": "ch.threema.iapp",
-      "trackId": 578665578,
-      "trackName": "Threema. The Secure Messenger",
-      "releaseDate": "2012-12-28T11:53:33Z",
-      "minimumOsVersion": "18.0",
       "genreIds": [
         "6005",
         "6002"
       ],
+      "minimumOsVersion": "18.0",
+      "trackId": 578665578,
+      "trackName": "Threema. The Secure Messenger",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
+      "releaseDate": "2012-12-28T11:53:33Z",
       "sellerName": "Threema GmbH",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "• New: Report spam in one-to-one and group chats, and block the sender or group creator\n\nThreema 7.5.1\n• Fixed a bug that could occur when updating the app\n\nThreema 7.5\n• Note: This version requires iOS 18 or higher\n• Improvements in relation to notifications of group calls\n• Improvements in relation to calls\n• Improvements in relation to voice messages\n• Various performance improvements\n• Various improvements for devices running iOS 27",
       "currentVersionReleaseDate": "2026-11-03T10:18:04Z",
       "version": "7.5.2",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Threema is the world’s best-selling secure messenger, used by more than 12 million people in over 175 countries, developed in Switzerland, and designed with privacy and data protection in mind. Whether chats, calls, or files, everything is end-to-end encrypted, and no data trail is left behind. Instead of a phone number or email address, a randomly generated Threema ID serves as a unique identifier – anonymous and secure. Threema protects what really matters: your privacy.\n\nAdvantages of Threema:\n• Text and voice messages, including emoji reactions\n• End-to-end encrypted voice, video, and group calls\n• Location sharing\n• Sending files in all formats (PDF, GIF, MP3, ZIP, and more)\n• Ability to edit sent messages and delete them for chat partners\n• Desktop app and web client for convenient chatting on your PC\n• Group creation and polls\n• Light or dark mode\n• No ads, no trackers, no data collection\n• Identity verification of contacts by scanning their QR code\n\nReliable security:\n• Open source and regular audits\n• Servers in Switzerland\n• Anonymous use possible: no phone number or email address required\n• Messages are deleted from the server immediately after delivery\n\nDo you have any questions or problems? Our FAQ can help: https://threema.com/support\n\nEnjoy using Threema!",
-      "userRatingCount": 157,
+      "trackCensoredName": "Threema. The Secure Messenger",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.05128,
+      "trackViewUrl": "https://apps.apple.com/gb/app/threema-the-secure-messenger/id578665578?uo=4",
+      "userRatingCount": 156,
       "country": "GBR"
     }
   ]

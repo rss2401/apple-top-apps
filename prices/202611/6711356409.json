@@ -2,11 +2,16 @@
   "id": "6711356409",
   "name": "HeyGen: AI视频生成器",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:31:49.514Z",
+  "fetchedAt": "2026-11-16T10:25:52.332Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
+        {
+          "name": " HeyGen Creator Credit Monthly",
+          "price": "¥198.00",
+          "amount": 198
+        },
         {
           "name": "HeyGen Creator Credit Weekly",
           "price": "¥68.00",
@@ -14,11 +19,6 @@
         },
         {
           "name": "Creator Monthly",
-          "price": "¥198.00",
-          "amount": 198
-        },
-        {
-          "name": " HeyGen Creator Credit Monthly",
           "price": "¥198.00",
           "amount": 198
         },
@@ -48,17 +48,17 @@
           "amount": 38
         },
         {
-          "name": "150 Premium Credits",
-          "price": "¥68.00",
-          "amount": 68
+          "name": "HeyGen Pro 2000 Credit Monthly",
+          "price": "¥698.00",
+          "amount": 698
         },
         {
-          "name": "HeyGen Pro 1500 Credit Monthly",
-          "price": "¥498.00",
-          "amount": 498
+          "name": "Team Monthly",
+          "price": "¥598.00",
+          "amount": 598
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:48.177Z"
+      "fetchedAt": "2026-11-16T10:25:50.794Z"
     },
     "us": {
       "currency": "USD",
@@ -99,14 +99,14 @@
           "amount": 4.99
         },
         {
-          "name": "HeyGen Pro 1000 Credit Monthly",
-          "price": "$49.00",
-          "amount": 49
-        },
-        {
           "name": "150 Premium Credits",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "HeyGen Pro 1000 Credit Monthly",
+          "price": "$49.00",
+          "amount": 49
         },
         {
           "name": "HeyGen Pro 2000 Credit Monthly",
@@ -114,7 +114,7 @@
           "amount": 99
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:49.514Z"
+      "fetchedAt": "2026-11-16T10:25:52.331Z"
     }
   }
 }

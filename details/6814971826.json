@@ -398,9 +398,6 @@
       "country": "DEU"
     },
     {
-      "features": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -532,14 +529,18 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/yaniv-van-der-stigchel/id6791340700?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/da/ca/7adaca81-c1ed-75f3-2d07-8e04a30ed2e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/da/ca/7adaca81-c1ed-75f3-2d07-8e04a30ed2e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/da/ca/7adaca81-c1ed-75f3-2d07-8e04a30ed2e6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/2c/65/552c6507-4fdd-1a38-1752-7544622d9bc6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/2c/65/552c6507-4fdd-1a38-1752-7544622d9bc6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/2c/65/552c6507-4fdd-1a38-1752-7544622d9bc6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/23/5e/61235ee5-d914-4687-0810-c124a370b832/01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/54/7f/3a547f04-5474-7b20-9b94-d44bb1c3dee5/02.png/320x480bb.jpg",
@@ -550,34 +551,38 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/47/ad/f447ad40-be4a-53ae-d40c-11dccdbf68d9/07.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/cd/59/b0cd59ab-6b27-91db-3fc0-667e86075169/08.png/320x480bb.jpg"
       ],
-      "bundleId": "com.miniapps.SharpStop",
-      "releaseNotes": "New in 1.3:\n• Meet your guide: pick its colours and eyes, give it a name, and it shows you around.\n• A clearer Milky Way chart, with My location and new Australian dark-sky places.\n• Frame shows real people at true scale.\n• Cleaner screens: explanations sit behind a ? until you want them.",
+      "ipadScreenshotUrls": [],
+      "artistId": 6791340700,
+      "artistName": "Yaniv van der Stigchel",
       "genres": [
         "Photo & Video",
         "Utilities"
       ],
-      "artistId": 6791340700,
-      "artistName": "Yaniv van der Stigchel",
       "price": 4.99,
-      "trackId": 6814971826,
       "trackName": "SharpStop Depth of Field Calc",
-      "releaseDate": "2026-09-24T07:00:00Z",
+      "trackId": 6814971826,
+      "bundleId": "com.miniapps.SharpStop",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Yaniv van der Stigchel",
+      "releaseNotes": "New in 1.3.3:\n• Fixed: the page no longer jumps when you tap − or + on aperture or focal length.\n• Quick questions are easier to answer: larger buttons, and an answer can take you straight to the idea form.\n• Early access: under ⋯ you can sign up for a separate app that forecasts the light at your own spots.",
       "minimumOsVersion": "17.0",
+      "releaseDate": "2026-09-24T07:00:00Z",
       "genreIds": [
         "6008",
         "6002"
       ],
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "Yaniv van der Stigchel",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-08T23:48:17Z",
-      "version": "1.3",
+      "currentVersionReleaseDate": "2026-11-15T20:44:46Z",
+      "version": "1.3.3",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "See what will be sharp before you press the shutter. SharpStop draws the sharp zone on the scene, plans a focus stack shot by shot, and tells you when tonight's Milky Way core is up.\n\nEvery tool answers in a sentence, not only in numbers: \"Sharp from 1.8 m to infinity: you're at hyperfocal\", or \"4 shots: focus at 0.47, 0.70, 1.4, 2.5 m\".\n\nDEPTH OF FIELD, DRAWN\nCamera, subject and horizon in one side view, with the sharp zone shaded from near limit to far limit. Change the focal length, aperture or distance and the band moves with it. The real front-to-back split is spelled out, because the old one-third rule only holds near the hyperfocal distance. One tap focuses at hyperfocal.\n\nFOCUS STACKING PLAN\nEnter the nearest and farthest things that must be sharp. SharpStop works out the fewest shots that cover the range with a small overlap, gives the focus distance for each one and draws the stacked zones on the scene. In the field, tick each frame off on a checklist with big targets, then share the plan as text.\n\nMILKY WAY AND STAR TRAILS\nFor a dark-sky site or your own coordinates, you see when the galactic core is up in full darkness, how much of the moon is lit and which way to face, plus the three best nights in the next 30 days. The NPF rule gives the longest exposure before stars trail for your aperture and pixel pitch, with the 500 rule beside it for comparison. Nights you shoot go into a night log.\n\nND FILTERS AND FIELD OF VIEW\nYour shutter speed with the filter on, in stops, optical density and ND factor at once, with a warning past 30 minutes. Field of view shows what fits in the frame at your subject distance, with a person drawn to scale.\n\nYOUR KIT, SAVED\nSave bodies and lenses and load them with a tap. Six sensor formats from 1 inch to medium format, each with its own circle of confusion. Print a hyperfocal card for any lens as a PDF. A glossary explains every term in plain words. Metres or feet.\n\nBUILT FOR THE DARK\nAmber on black, so a glance at 4am does not undo your night vision. Everything is calculated on the phone and works offline. The only part that goes online is the feedback form, when you choose to send a message. No account, no ads.\n\nWHAT IT IS NOT\nDepth of field is a standard for acceptable sharpness in a normal-sized print, not a physical edge: at 100% on screen the limits will look soft, and SharpStop says so. The core position is approximate (about half a degree), and weather and light pollution are not included. It does not meter light, model lens breathing or connect to your camera.",
-      "averageUserRating": 0,
       "trackCensoredName": "SharpStop Depth of Field Calc",
+      "trackViewUrl": "https://apps.apple.com/gb/app/sharpstop-depth-of-field-calc/id6814971826?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -585,13 +590,10 @@
         "JA",
         "KO"
       ],
-      "fileSizeBytes": "5822464",
+      "fileSizeBytes": "7350272",
       "formattedPrice": "£4.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/gb/app/sharpstop-depth-of-field-calc/id6814971826?uo=4",
       "userRatingCount": 0,
       "country": "GBR"
     }

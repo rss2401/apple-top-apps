@@ -1,23 +1,28 @@
 {
   "id": "1115120118",
-  "name": "Klarna: Verwalte Geld smarter",
+  "name": "Klarna | Pay your way",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:17:55.165Z",
+  "fetchedAt": "2026-11-16T10:06:55.031Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-09T10:17:52.342Z"
+      "fetchedAt": "2026-11-16T10:06:50.421Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-09T10:17:53.918Z"
+      "fetchedAt": "2026-11-16T10:06:52.010Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-09T10:17:55.165Z"
+      "fetchedAt": "2026-11-16T10:06:53.528Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:06:55.030Z"
     }
   }
 }

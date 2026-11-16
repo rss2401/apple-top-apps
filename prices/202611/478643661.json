@@ -2,7 +2,7 @@
   "id": "478643661",
   "name": "Handy Art Reference Tool",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:48:49.327Z",
+  "fetchedAt": "2026-11-16T10:13:07.024Z",
   "storefronts": {
     "jp": {
       "currency": "JPY",
@@ -19,6 +19,22 @@
         }
       ],
       "fetchedAt": "2026-11-02T09:48:49.320Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [
+        {
+          "name": "Feet Models",
+          "price": "$1.99",
+          "amount": 1.99
+        },
+        {
+          "name": "Animal Skull Pack",
+          "price": "$1.99",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:13:07.024Z"
     }
   }
 }

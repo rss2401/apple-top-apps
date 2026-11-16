@@ -192,23 +192,14 @@
       "country": "DEU"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/gb/developer/bram-bos/id325340444?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/01/7f/2b017fbf-cfb4-90fe-0f19-bf417cb617c4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/01/7f/2b017fbf-cfb4-90fe-0f19-bf417cb617c4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/4b/8d/744b8dbe-4846-77d7-8e89-3de1abf1eb4d/iphone_medum_1.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/0a/f3/6e0af3f6-add2-3aeb-794c-59066e4251ce/ipad_1.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/3d/8f/a53d8f5e-064e-0a00-50d1-3ed76e7aef13/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/bram-bos/id325340444?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/3d/8f/a53d8f5e-064e-0a00-50d1-3ed76e7aef13/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/3d/8f/a53d8f5e-064e-0a00-50d1-3ed76e7aef13/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -340,45 +331,57 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "sellerUrl": "https://ruismaker.com",
-      "languageCodesISO2A": [
-        "EN"
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/4b/8d/744b8dbe-4846-77d7-8e89-3de1abf1eb4d/iphone_medum_1.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "7266304",
-      "formattedPrice": "£9.99",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/0a/f3/6e0af3f6-add2-3aeb-794c-59066e4251ce/ipad_1.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/01/7f/2b017fbf-cfb4-90fe-0f19-bf417cb617c4/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Midgar - Ambience Effect",
+      "trackViewUrl": "https://apps.apple.com/gb/app/midgar-ambience-effect/id6824241131?uo=4",
+      "averageUserRating": 3.66667,
+      "artistId": 325340444,
+      "artistName": "Bram Bos",
       "genres": [
         "Music"
       ],
-      "artistId": 325340444,
-      "artistName": "Bram Bos",
+      "price": 9.99,
       "bundleId": "com.brambos.midgar",
-      "sellerName": "Bram Bos",
       "minimumOsVersion": "15.6",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
+      "releaseNotes": "Thanks for the support and the feedback! \nDon't forget to leave a review if you're enjoying MIDGAR!\n\nWhat's new:\n- Randomiser (the most requested feature)\n- Fixed a an issue where knobs behaved erratically when leaving a window diagonally",
+      "currentVersionReleaseDate": "2026-11-15T08:00:46Z",
+      "releaseDate": "2026-11-08T08:00:00Z",
+      "trackId": 6824241131,
+      "trackName": "Midgar - Ambience Effect",
       "genreIds": [
         "6011"
       ],
+      "sellerName": "Bram Bos",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-08T10:06:24Z",
-      "version": "1.0",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "version": "1.0.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Sometimes all you have is a simple beat, a dry synth or a handful of found sounds. MIDGAR takes a few minimal sounds and turns them into moving, multilayered sound carpets or a dirty barrage of shimmering glitchy delays.\n\nMIDGAR features a chain of cleverly interacting effect sections (each one can be dialled in separately) which can be used for intricately glitched drums, massive lush ambient shimmer reverbs, and lots of creative stuff in between.\n\n- The Phrase Delay records rhythmic snippets of your sound, plays them back at various speeds and bounces them across the stereo field, optionally introducing stuttery glitches. \n- DS-1 then dirties up the resulting stacked sound with a modified guitar effect (if you want). \n- The Fluctuator uses unconventional filters to create spectral - and spatial - movement in your signal. \n- Two simulated PT2399 CMOS chips provide stereo delay functionality. \n- And finally the shimmer reverb is set up for ridiculously huge spatial effects (shimmer optional).\n\nEverything is laid out in a single, hands-on UI. The hardest part will be mustering the self-restraint to not put all the effects on all your sounds.\n\nComes with AUv3 plugin extensions for iOS, iPadOS and macOS, for use in your AUv3 compatible hosts/DAWs/sequencers (e.g. Logic Pro, AUM, Cubasis, Drambo, etc.)\n\nHandcrafted with love in The Netherlands #noAI\n\nFind the manual on ruismaker.com",
-      "averageUserRating": 0,
-      "trackCensoredName": "Midgar - Ambience Effect",
-      "trackViewUrl": "https://apps.apple.com/gb/app/midgar-ambience-effect/id6824241131?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackId": 6824241131,
-      "trackName": "Midgar - Ambience Effect",
-      "price": 9.99,
-      "releaseDate": "2026-11-08T08:00:00Z",
-      "userRatingCount": 0,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "7264256",
+      "formattedPrice": "£9.99",
+      "userRatingCountForCurrentVersion": 3,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://ruismaker.com",
+      "averageUserRatingForCurrentVersion": 3.66667,
+      "userRatingCount": 3,
       "country": "GBR"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Music & Song Creator: Suno",
+  "name": "Suno - AI Songs & Music",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:31:57.218Z",
+  "fetchedAt": "2026-11-16T10:12:41.289Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -38,6 +38,11 @@
           "amount": 58
         },
         {
+          "name": "1 Download Credit",
+          "price": "¥38.00",
+          "amount": 38
+        },
+        {
           "name": "2000 Credits",
           "price": "¥98.00",
           "amount": 98
@@ -51,14 +56,9 @@
           "name": "1 Download Credit",
           "price": "¥22.00",
           "amount": 22
-        },
-        {
-          "name": "3 Download Credits",
-          "price": "¥58.00",
-          "amount": 58
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:51.258Z"
+      "fetchedAt": "2026-11-16T10:12:37.122Z"
     },
     "de": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:52.799Z"
+      "fetchedAt": "2026-11-16T10:12:38.611Z"
     },
     "fr": {
       "currency": "EUR",
@@ -155,14 +155,14 @@
           "amount": 5.99
         },
         {
-          "name": "Premier Plan",
-          "price": "299,00 €",
-          "amount": 299
-        },
-        {
           "name": "3 Download Credits",
           "price": "9,95 €",
           "amount": 9.95
+        },
+        {
+          "name": "Premier Plan",
+          "price": "299,00 €",
+          "amount": 299
         },
         {
           "name": "2000 Credits",
@@ -170,7 +170,7 @@
           "amount": 18
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:54.277Z"
+      "fetchedAt": "2026-11-16T10:12:40.148Z"
     },
     "gb": {
       "currency": "GBP",
@@ -247,6 +247,11 @@
           "amount": 96
         },
         {
+          "name": "1 Download Credit",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
           "name": "500 Credits",
           "price": "$4.00",
           "amount": 4
@@ -255,11 +260,6 @@
           "name": "1000 Credits",
           "price": "$8.00",
           "amount": 8
-        },
-        {
-          "name": "1 Download Credit",
-          "price": "$2.99",
-          "amount": 2.99
         },
         {
           "name": "1 Download Credit",
@@ -282,7 +282,7 @@
           "amount": 16
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:57.218Z"
+      "fetchedAt": "2026-11-16T10:12:41.289Z"
     }
   }
 }

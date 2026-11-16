@@ -382,9 +382,6 @@
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jarrod-norwell/id1449237747?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/17/58/5717588e-b757-7c32-8e24-0ff70688ae69/Frame_9_U00281_U0029.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/78/a4/2378a4ce-2b4b-4ecf-b5d3-a0996d77d8a9/Frame_10.png/320x480bb.jpg",
@@ -399,10 +396,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jarrod-norwell/id1449237747?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -533,59 +530,61 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.125,
-      "trackCensoredName": "Folium",
-      "trackViewUrl": "https://apps.apple.com/fr/app/folium/id6498623389?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "averageUserRatingForCurrentVersion": 2.125,
+      "sellerUrl": "https://jarrodnorwell.com/apps/folium",
       "languageCodesISO2A": [
         "EN"
       ],
-      "sellerUrl": "https://jarrodnorwell.com/apps/folium",
-      "averageUserRatingForCurrentVersion": 2.125,
       "fileSizeBytes": "67571712",
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 104,
       "trackContentRating": "4+",
-      "artistId": 1449237747,
-      "artistName": "Jarrod Norwell",
+      "averageUserRating": 2.125,
+      "trackCensoredName": "Folium",
+      "trackViewUrl": "https://apps.apple.com/fr/app/folium/id6498623389?uo=4",
+      "contentAdvisoryRating": "4+",
       "genres": [
         "Divertissement",
         "Jeux"
       ],
-      "price": 2.99,
-      "minimumOsVersion": "16.0",
-      "trackName": "Folium",
-      "sellerName": "Jarrod Norwell",
-      "trackId": 6498623389,
-      "genreIds": [
-        "6016",
-        "6014"
-      ],
-      "releaseDate": "2024-05-31T07:00:00Z",
+      "artistId": 1449237747,
+      "artistName": "Jarrod Norwell",
+      "bundleId": "com.antique.Folium-iOS",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "16.0",
+      "trackName": "Folium",
+      "trackId": 6498623389,
+      "releaseDate": "2024-05-31T07:00:00Z",
       "currentVersionReleaseDate": "2026-10-04T16:51:21Z",
       "releaseNotes": "Added\n- a pull-to-refresh gesture that repopulates games across all available systems\n- functional left and right analogue sticks for PlayStation 1 emulation, including diagonal movement\n- load and save states for ColecoVision, Game Boy, Game Boy Color, Game Boy Advance, Nintendo and Super Nintendo Entertainment System, and WonderSwan\n- a new selection option in Application settings to choose the system shown at launch\n- new graphics settings for Game Boy, Game Boy Advance, and Game Boy Color\n- new Nintendo DS settings to toggle boot screen skipping and select the console model\n- PlayStation 1 emulation support for Ape Escape and Gran Turismo 2\n- PlayStation 1 support for CHD, IMG, and ISO formats, with artwork retrieval and caching where available\n\nChanged\n- from Avocado to my own fork with much of the code rewritten\n\nFixed\n- a crash in PlayStation 1 emulation when exiting a game or launching a new one immediately after\n- an issue where Nintendo 3DS titles were read from file names instead of embedded headers\n- a blue tint in the rendered image in SEGA Genesis emulation\n\nMiscellaneous\n- replaced Cherry’s base from Gearcoleco with MesenCE and rewrote part of the bridging code\n- updated Cytrus to the latest version, adding features and improving performance",
       "version": "2.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Folium is a beautifully designed, high performing multi-system emulation app bringing retro console and handheld gaming to Apple devices\n\nSupported Systems\nBandai\n- WonderSwan\n- WonderSwan Color\n\nColeco\n- ColecoVision\n\nNintendo\n- 3DS\n- DS\n- Game Boy\n- Game Boy Advance\n- Game Boy Color\n- Nintendo Entertainment System\n- Super Nintendo Entertainment System\n\nSEGA\n- Genesis\n- Mega Drive\n\nSony\n- PlayStation 1\n\nSupported Game Controllers\nBackbone\n- One\n\nNintendo Switch\n- Joy-Con\n- Pro Controller\n\nPlayStation\n- DualSense\n- DualShock 4\n\nXbox Series\n- S\n- X\n\nhttps://apple.com/legal/internet-services/itunes/dev/stdeula",
-      "bundleId": "com.antique.Folium-iOS",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Jarrod Norwell",
+      "price": 2.99,
+      "genreIds": [
+        "6016",
+        "6014"
+      ],
       "userRatingCount": 104,
       "country": "FRA"
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/17/58/5717588e-b757-7c32-8e24-0ff70688ae69/Frame_9_U00281_U0029.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/78/a4/2378a4ce-2b4b-4ecf-b5d3-a0996d77d8a9/Frame_10.png/320x480bb.jpg",
@@ -598,8 +597,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/aa/9b/a5aa9b4e-7fdd-cc36-e82f-995921627f61/Frame_15.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/a8/4a/8fa84a55-ee5c-8a0b-9023-1851ae21d918/Frame_16.png/360x480bb.jpg"
       ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/de/developer/jarrod-norwell/id1449237747?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/c2/70/6cc27037-2904-7fce-f4eb-d8b77fd4fe24/App_Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
@@ -733,33 +730,15 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "genres": [
-        "Unterhaltung",
-        "Spiele"
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
       ],
-      "price": 2.99,
-      "artistId": 1449237747,
-      "artistName": "Jarrod Norwell",
-      "bundleId": "com.antique.Folium-iOS",
-      "releaseDate": "2024-05-31T07:00:00Z",
-      "minimumOsVersion": "16.0",
-      "genreIds": [
-        "6016",
-        "6014"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "Jarrod Norwell",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-04T16:51:21Z",
-      "version": "2.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Folium is a beautifully designed, high performing multi-system emulation app bringing retro console and handheld gaming to Apple devices\n\nSupported Systems\nBandai\n- WonderSwan\n- WonderSwan Color\n\nColeco\n- ColecoVision\n\nNintendo\n- 3DS\n- DS\n- Game Boy\n- Game Boy Advance\n- Game Boy Color\n- Nintendo Entertainment System\n- Super Nintendo Entertainment System\n\nSEGA\n- Genesis\n- Mega Drive\n\nSony\n- PlayStation 1\n\nSupported Game Controllers\nBackbone\n- One\n\nNintendo Switch\n- Joy-Con\n- Pro Controller\n\nPlayStation\n- DualSense\n- DualShock 4\n\nXbox Series\n- S\n- X\n\nhttps://apple.com/legal/internet-services/itunes/dev/stdeula",
-      "averageUserRatingForCurrentVersion": 2.45283,
-      "sellerUrl": "https://jarrodnorwell.com/apps/folium",
       "languageCodesISO2A": [
         "EN"
       ],
@@ -767,13 +746,38 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 106,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 2.45283,
+      "sellerUrl": "https://jarrodnorwell.com/apps/folium",
+      "averageUserRating": 2.45283,
       "trackCensoredName": "Folium",
       "trackViewUrl": "https://apps.apple.com/de/app/folium/id6498623389?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 2.45283,
+      "artistId": 1449237747,
+      "artistName": "Jarrod Norwell",
+      "genres": [
+        "Unterhaltung",
+        "Spiele"
+      ],
+      "price": 2.99,
       "trackId": 6498623389,
       "trackName": "Folium",
+      "genreIds": [
+        "6016",
+        "6014"
+      ],
+      "minimumOsVersion": "16.0",
+      "releaseDate": "2024-05-31T07:00:00Z",
+      "sellerName": "Jarrod Norwell",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-04T16:51:21Z",
       "releaseNotes": "Added\n- a pull-to-refresh gesture that repopulates games across all available systems\n- functional left and right analogue sticks for PlayStation 1 emulation, including diagonal movement\n- load and save states for ColecoVision, Game Boy, Game Boy Color, Game Boy Advance, Nintendo and Super Nintendo Entertainment System, and WonderSwan\n- a new selection option in Application settings to choose the system shown at launch\n- new graphics settings for Game Boy, Game Boy Advance, and Game Boy Color\n- new Nintendo DS settings to toggle boot screen skipping and select the console model\n- PlayStation 1 emulation support for Ape Escape and Gran Turismo 2\n- PlayStation 1 support for CHD, IMG, and ISO formats, with artwork retrieval and caching where available\n\nChanged\n- from Avocado to my own fork with much of the code rewritten\n\nFixed\n- a crash in PlayStation 1 emulation when exiting a game or launching a new one immediately after\n- an issue where Nintendo 3DS titles were read from file names instead of embedded headers\n- a blue tint in the rendered image in SEGA Genesis emulation\n\nMiscellaneous\n- replaced Cherry’s base from Gearcoleco with MesenCE and rewrote part of the bridging code\n- updated Cytrus to the latest version, adding features and improving performance",
+      "version": "2.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Folium is a beautifully designed, high performing multi-system emulation app bringing retro console and handheld gaming to Apple devices\n\nSupported Systems\nBandai\n- WonderSwan\n- WonderSwan Color\n\nColeco\n- ColecoVision\n\nNintendo\n- 3DS\n- DS\n- Game Boy\n- Game Boy Advance\n- Game Boy Color\n- Nintendo Entertainment System\n- Super Nintendo Entertainment System\n\nSEGA\n- Genesis\n- Mega Drive\n\nSony\n- PlayStation 1\n\nSupported Game Controllers\nBackbone\n- One\n\nNintendo Switch\n- Joy-Con\n- Pro Controller\n\nPlayStation\n- DualSense\n- DualShock 4\n\nXbox Series\n- S\n- X\n\nhttps://apple.com/legal/internet-services/itunes/dev/stdeula",
+      "bundleId": "com.antique.Folium-iOS",
       "userRatingCount": 106,
       "country": "DEU"
     }

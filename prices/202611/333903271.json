@@ -2,7 +2,7 @@
   "id": "333903271",
   "name": "X",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:03:38.286Z",
+  "fetchedAt": "2026-11-16T10:00:52.129Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -48,17 +48,17 @@
           "amount": 148
         },
         {
-          "name": "@sumtong123 Subscription",
-          "price": "¥68.00",
-          "amount": 68
-        },
-        {
           "name": "X Premium Basic (Annual)",
           "price": "¥180.00",
           "amount": 180
+        },
+        {
+          "name": "@sumtong123 Subscription",
+          "price": "¥68.00",
+          "amount": 68
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:30.922Z"
+      "fetchedAt": "2026-11-16T10:00:44.406Z"
     },
     "de": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 569
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:32.687Z"
+      "fetchedAt": "2026-11-16T10:00:46.062Z"
     },
     "fr": {
       "currency": "EUR",
@@ -170,7 +170,7 @@
           "amount": 6
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:34.156Z"
+      "fetchedAt": "2026-11-16T10:00:47.586Z"
     },
     "gb": {
       "currency": "GBP",
@@ -196,14 +196,14 @@
           "amount": 5
         },
         {
-          "name": "X Premium (Annual)",
-          "price": "£107.99",
-          "amount": 107.99
-        },
-        {
           "name": "Promote Post",
           "price": "£10.00",
           "amount": 10
+        },
+        {
+          "name": "X Premium (Annual)",
+          "price": "£107.99",
+          "amount": 107.99
         },
         {
           "name": "@elonmusk Subscription",
@@ -226,7 +226,7 @@
           "amount": 36
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:35.556Z"
+      "fetchedAt": "2026-11-16T10:00:49.145Z"
     },
     "jp": {
       "currency": "JPY",
@@ -282,7 +282,7 @@
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:37.085Z"
+      "fetchedAt": "2026-11-16T10:00:50.678Z"
     },
     "us": {
       "currency": "USD",
@@ -338,7 +338,7 @@
           "amount": 490
         }
       ],
-      "fetchedAt": "2026-11-09T10:03:38.281Z"
+      "fetchedAt": "2026-11-16T10:00:52.129Z"
     }
   }
 }

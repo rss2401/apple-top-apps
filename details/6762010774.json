@@ -22,6 +22,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/30/39/863039c6-7609-d801-599c-c8dcd817cb47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -155,36 +156,38 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "isGameCenterEnabled": false,
-      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/crowncards/id1892442686?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/30/39/863039c6-7609-d801-599c-c8dcd817cb47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/30/39/863039c6-7609-d801-599c-c8dcd817cb47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "sellerUrl": "https://crowncards.io/",
+      "advisories": [],
+      "averageUserRatingForCurrentVersion": 4.71093,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "461293568",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 13224,
+      "userRatingCountForCurrentVersion": 15491,
       "trackContentRating": "17+",
-      "averageUserRatingForCurrentVersion": 4.71181,
-      "currentVersionReleaseDate": "2026-11-03T03:21:48Z",
+      "sellerUrl": "https://crowncards.io/",
       "releaseNotes": "Bug fixes and performance improvements.",
+      "artistId": 1892442686,
+      "artistName": "CrownCards",
       "genres": [
         "Shopping",
         "Entertainment"
       ],
-      "artistId": 1892442686,
-      "artistName": "CrownCards",
       "price": 0,
       "bundleId": "io.crowncards.app",
       "trackId": 6762010774,
       "trackName": "CrownCards - Trading Cards",
       "releaseDate": "2026-06-03T07:00:00Z",
+      "currentVersionReleaseDate": "2026-11-03T03:21:48Z",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6024",
         "6016"
@@ -192,17 +195,16 @@
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
       "sellerName": "Crown Cards LLC",
-      "minimumOsVersion": "16.4",
       "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1.4",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Pull genuine trading cards from your phone. Build your collection or ship the real card home.\n\nCrown Cards is a digital pack-opening experience built around real collectibles. Every card in every pack is a genuine trading card, from popular TCG singles to graded slabs and rare chase cards every card's market value is listed before you open. No mystery on what a pull is worth. Just the thrill of the reveal, and your choice of what to do next.\n\nHow it works\n\n1. Pick a pack. Browse packs with clearly labeled card pools, rarity tiers, value ranges, and pull rates. Pick the one matching the chase you're after.\n\n2. Open and reveal. Watch each card turn one by one. You might pull everyday collectibles, sought-after singles, professionally graded slabs, or a rare hit.\n\n3. Decide per card. Two options for every card you pull:\n- Collect and keep it in your in-app collection\n- Ship it, request physical delivery of the real card\n\nReal cards, real values\n\nEvery card available in Crown Cards is a genuine, physical collectible. Listed values are tied to market data so you understand exactly what you pulled and what it's worth in the wider collecting market.\n\nPhysical shipping\n\nWant to hold the real thing? Request delivery and we'll ship your selected cards to your address with secure, tracked handling.",
+      "averageUserRating": 4.71093,
       "trackCensoredName": "CrownCards - Trading Cards",
       "trackViewUrl": "https://apps.apple.com/gb/app/crowncards-trading-cards/id6762010774?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.71181,
-      "userRatingCount": 13224,
+      "userRatingCount": 15491,
       "country": "GBR"
     }
   ]

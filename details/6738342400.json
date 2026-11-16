@@ -211,25 +211,13 @@
       "userRatingCount": 109
     },
     {
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/92/7c/9a927c99-481f-4006-115f-63f0d44a4dcf/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.21.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/e4/51/27e45131-9d6b-e366-c7f5-203f5d950b72/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.10.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/25/3c/01253cc3-ec89-1245-6ef6-17e27a1ec1f5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.08.59.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/53/2d/30532d97-5b6a-ac4d-29e3-3960aa75d37a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.05.14.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/4a/8d/b14a8d1c-bfb9-1b0a-7d4d-43b8abbc875e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.00.46.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/e8/85/7ae88566-dd32-cc4e-db18-e86113d912dd/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.09.23.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/56/4b/4d564b07-989e-b9a5-ad30-190f7c51e410/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.09.44.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -361,15 +349,56 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/jan-biniok/id1482490088?uo=4",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/92/7c/9a927c99-481f-4006-115f-63f0d44a4dcf/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.21.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/e4/51/27e45131-9d6b-e366-c7f5-203f5d950b72/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.10.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/25/3c/01253cc3-ec89-1245-6ef6-17e27a1ec1f5/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.08.59.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/53/2d/30532d97-5b6a-ac4d-29e3-3960aa75d37a/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.05.14.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/4a/8d/b14a8d1c-bfb9-1b0a-7d4d-43b8abbc875e/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.00.46.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/e8/85/7ae88566-dd32-cc4e-db18-e86113d912dd/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.09.23.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/56/4b/4d564b07-989e-b9a5-ad30-190f7c51e410/Simulator_Screenshot_-_iPad_Pro_13-inch__U0028M4_U0029_-_2024-11-18_at_19.09.44.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "averageUserRating": 3.68696,
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
+      "contentAdvisoryRating": "4+",
+      "genres": [
+        "效率",
+        "软件开发工具"
+      ],
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
+      "price": 15,
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "genreIds": [
+        "6007",
+        "6026"
+      ],
+      "trackId": 6738342400,
+      "trackName": "Tampermonkey",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "sellerName": "Jan Biniok",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
       "releaseNotes": "修复切换时编辑器菜单无法正确关闭的问题\n修复脚本和站点图标未显示在仪表板中的问题\n修复在 iOS 上保存导出文件的问题\n修复 @require data: URI 的处理",
-      "averageUserRatingForCurrentVersion": 3.67544,
+      "version": "5.6.6243",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -398,49 +427,25 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 114,
-      "trackContentRating": "4+",
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
-      "genres": [
-        "效率",
-        "软件开发工具"
-      ],
-      "price": 15,
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "releaseDate": "2024-11-18T08:00:00Z",
-      "minimumOsVersion": "15.0",
-      "trackName": "Tampermonkey",
-      "trackId": 6738342400,
-      "genreIds": [
-        "6007",
-        "6026"
-      ],
-      "sellerName": "Jan Biniok",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
-      "version": "5.6.6243",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。\n它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。\n使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。",
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4",
-      "contentAdvisoryRating": "4+",
-      "formattedPrice": "¥15.00",
       "fileSizeBytes": "7003136",
-      "averageUserRating": 3.67544,
-      "userRatingCount": 114,
+      "formattedPrice": "¥15.00",
+      "userRatingCountForCurrentVersion": 115,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.68696,
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 115,
       "country": "CHN"
     },
     {
+      "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/jp/developer/jan-biniok/id1482490088?uo=4",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
@@ -456,7 +461,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -588,15 +592,41 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.70587,
+      "releaseNotes": "トグル時にエディターメニューが正しく閉じられない問題を修正\nダッシュボードにスクリプトとサイトのアイコンが表示されない問題を修正\niOSでのエクスポートファイルの保存問題を修正\n@require の data: URI 処理を修正",
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
+      "genres": [
+        "仕事効率化",
+        "開発ツール"
+      ],
+      "price": 500,
+      "bundleId": "net.tampermonkey.SafariWebExt",
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Jan Biniok",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genreIds": [
+        "6007",
+        "6026"
+      ],
+      "trackId": 6738342400,
+      "trackName": "Tampermonkey",
+      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
+      "version": "5.6.6243",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Tampermonkeyは、すべての主要なブラウザと互換性のある非常に人気のあるブラウザー拡張機能です。\nユーザースクリプト—機能を追加または変更する小さなJavaScriptプログラム—を使用してウェブページをカスタマイズし、強化できます。\nTampermonkeyを使えば、これらのスクリプトを簡単に作成、管理、実行できます。",
       "trackCensoredName": "Tampermonkey",
       "trackViewUrl": "https://apps.apple.com/jp/app/tampermonkey/id6738342400?uo=4",
-      "averageUserRatingForCurrentVersion": 4.70587,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.72222,
+      "averageUserRatingForCurrentVersion": 4.72222,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -627,35 +657,9 @@
       ],
       "fileSizeBytes": "7003136",
       "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 17,
+      "userRatingCountForCurrentVersion": 18,
       "trackContentRating": "4+",
-      "genres": [
-        "仕事効率化",
-        "開発ツール"
-      ],
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
-      "price": 500,
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6007",
-        "6026"
-      ],
-      "releaseDate": "2024-11-18T08:00:00Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "トグル時にエディターメニューが正しく閉じられない問題を修正\nダッシュボードにスクリプトとサイトのアイコンが表示されない問題を修正\niOSでのエクスポートファイルの保存問題を修正\n@require の data: URI 処理を修正",
-      "trackName": "Tampermonkey",
-      "trackId": 6738342400,
-      "sellerName": "Jan Biniok",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
-      "version": "5.6.6243",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Tampermonkeyは、すべての主要なブラウザと互換性のある非常に人気のあるブラウザー拡張機能です。\nユーザースクリプト—機能を追加または変更する小さなJavaScriptプログラム—を使用してウェブページをカスタマイズし、強化できます。\nTampermonkeyを使えば、これらのスクリプトを簡単に作成、管理、実行できます。",
-      "userRatingCount": 17,
+      "userRatingCount": 18,
       "country": "JPN"
     },
     {
@@ -883,9 +887,6 @@
       "country": "USA"
     },
     {
-      "artistViewUrl": "https://apps.apple.com/fr/developer/jan-biniok/id1482490088?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/48/1c/54481c24-5a51-d1ff-d2f5-47e8396b8a84/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.22.44.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/c1/15/60c11570-f16b-f94a-8af7-94f24cdad89f/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-11-18_at_19.23.00.png/320x480bb.jpg",
@@ -901,10 +902,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/fr/developer/jan-biniok/id1482490088?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/9e/84/739e845c-3970-0174-ffef-75ec375a6706/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -1036,14 +1037,16 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.77778,
-      "trackCensoredName": "Tampermonkey",
-      "trackViewUrl": "https://apps.apple.com/fr/app/tampermonkey/id6738342400?uo=4",
+      "features": [
+        "iosUniversal"
+      ],
+      "isGameCenterEnabled": false,
+      "averageUserRatingForCurrentVersion": 3.77778,
       "languageCodesISO2A": [
         "AR",
         "HR",
@@ -1072,37 +1075,40 @@
         "UK",
         "VI"
       ],
-      "averageUserRatingForCurrentVersion": 3.77778,
       "fileSizeBytes": "7003136",
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 9,
       "trackContentRating": "4+",
-      "artistId": 1482490088,
-      "artistName": "Jan Biniok",
+      "averageUserRating": 3.77778,
+      "trackCensoredName": "Tampermonkey",
+      "trackViewUrl": "https://apps.apple.com/fr/app/tampermonkey/id6738342400?uo=4",
+      "contentAdvisoryRating": "4+",
       "genres": [
         "Productivité",
         "Outils de développement"
       ],
-      "price": 2.99,
-      "minimumOsVersion": "15.0",
-      "trackName": "Tampermonkey",
-      "sellerName": "Jan Biniok",
-      "trackId": 6738342400,
-      "genreIds": [
-        "6007",
-        "6026"
-      ],
-      "releaseDate": "2024-11-18T08:00:00Z",
+      "artistId": 1482490088,
+      "artistName": "Jan Biniok",
+      "bundleId": "net.tampermonkey.SafariWebExt",
       "primaryGenreName": "Productivity",
       "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
+      "trackName": "Tampermonkey",
+      "trackId": 6738342400,
+      "releaseDate": "2024-11-18T08:00:00Z",
       "currentVersionReleaseDate": "2026-10-09T01:03:22Z",
       "releaseNotes": "Corrigé la fermeture du menu de l'éditeur lors du basculement\nCorrigé l'affichage des icônes des scripts et des sites dans le tableau de bord\nCorrigé l'enregistrement des fichiers d'export sur iOS\nCorrigé le traitement des URI data: pour @require",
       "version": "5.6.6243",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Tampermonkey est une extension de navigateur très populaire, compatible avec tous les principaux navigateurs. \nIl vous permet de personnaliser et d'améliorer les pages web en utilisant des scripts utilisateur — de petits programmes JavaScript qui ajoutent ou modifient des fonctionnalités. \nCréez, gérez et exécutez facilement ces scripts sur n'importe quel site web avec Tampermonkey.",
-      "bundleId": "net.tampermonkey.SafariWebExt",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Jan Biniok",
+      "price": 2.99,
+      "genreIds": [
+        "6007",
+        "6026"
+      ],
       "userRatingCount": 9,
       "country": "FRA"
     },

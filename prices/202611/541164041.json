@@ -2,7 +2,7 @@
   "id": "541164041",
   "name": "Microsoft Copilot",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:31:41.038Z",
+  "fetchedAt": "2026-11-16T10:20:23.936Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -28,7 +28,7 @@
           "amount": 50
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:35.145Z"
+      "fetchedAt": "2026-11-16T10:20:19.408Z"
     },
     "de": {
       "currency": "EUR",
@@ -120,14 +120,14 @@
           "amount": 10.49
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "£84.99",
-          "amount": 84.99
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "£8.49",
           "amount": 8.49
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "£84.99",
+          "amount": 84.99
         },
         {
           "name": "Microsoft 365 Personal",
@@ -140,7 +140,7 @@
           "amount": 18.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:38.025Z"
+      "fetchedAt": "2026-11-16T10:20:20.826Z"
     },
     "jp": {
       "currency": "JPY",
@@ -176,14 +176,14 @@
           "amount": 260
         },
         {
-          "name": " Microsoft 365 Personal",
-          "price": "¥21,000",
-          "amount": 21000
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "¥2,100",
           "amount": 2100
+        },
+        {
+          "name": " Microsoft 365 Personal",
+          "price": "¥21,000",
+          "amount": 21000
         },
         {
           "name": "Microsoft 365 Family",
@@ -196,7 +196,7 @@
           "amount": 32000
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:39.499Z"
+      "fetchedAt": "2026-11-16T10:20:22.452Z"
     },
     "us": {
       "currency": "USD",
@@ -252,7 +252,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:31:41.038Z"
+      "fetchedAt": "2026-11-16T10:20:23.931Z"
     }
   }
 }

@@ -2,27 +2,14 @@
   "resultCount": 6,
   "results": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/jp/developer/chromatic-applications-llc/id1599969700?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -154,55 +141,73 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "trackCensoredName": "Chromagraph Camera",
       "trackViewUrl": "https://apps.apple.com/jp/app/chromagraph-camera/id6803329435?uo=4",
-      "averageUserRatingForCurrentVersion": 4.11111,
-      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "46841856",
-      "formattedPrice": "¥2,000",
-      "userRatingCountForCurrentVersion": 27,
-      "trackContentRating": "4+",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.13793,
       "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
-      "averageUserRating": 4.11111,
       "artistId": 1599969700,
       "artistName": "Chromatic Applications LLC",
       "genres": [
         "写真／ビデオ"
       ],
-      "sellerName": "Chromatic Applications LLC",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "bundleId": "com.ChromaticApplications.yCam",
       "releaseDate": "2026-10-20T07:00:00Z",
+      "minimumOsVersion": "17.0",
+      "bundleId": "com.ChromaticApplications.yCam",
+      "sellerName": "Chromatic Applications LLC",
+      "genreIds": [
+        "6008"
+      ],
+      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
       "isVppDeviceBasedLicensingEnabled": true,
       "trackId": 6803329435,
       "trackName": "Chromagraph Camera",
-      "minimumOsVersion": "17.0",
-      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
-      "genreIds": [
-        "6008"
+      "averageUserRatingForCurrentVersion": 4.13793,
+      "languageCodesISO2A": [
+        "EN"
       ],
+      "fileSizeBytes": "46841856",
+      "formattedPrice": "¥2,000",
+      "userRatingCountForCurrentVersion": 29,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "price": 2000,
-      "userRatingCount": 27,
+      "userRatingCount": 29,
       "country": "JPN"
     },
     {
+      "isGameCenterEnabled": false,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/chromatic-applications-llc/id1599969700?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -218,10 +223,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/chromatic-applications-llc/id1599969700?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -353,60 +355,51 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "bundleId": "com.ChromaticApplications.yCam",
-      "price": 12.99,
+      "averageUserRatingForCurrentVersion": 4.06452,
+      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
+      "averageUserRating": 4.06452,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Chromagraph Camera",
+      "trackViewUrl": "https://apps.apple.com/us/app/chromagraph-camera/id6803329435?uo=4",
       "artistId": 1599969700,
       "artistName": "Chromatic Applications LLC",
+      "price": 12.99,
+      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6008"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-10-20T07:00:00Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "sellerName": "Chromatic Applications LLC",
-      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
-      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
-      "averageUserRatingForCurrentVersion": 4.30846,
-      "averageUserRating": 4.30846,
-      "trackCensoredName": "Chromagraph Camera",
+      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "46841856",
       "formattedPrice": "$12.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 201,
-      "trackViewUrl": "https://apps.apple.com/us/app/chromagraph-camera/id6803329435?uo=4",
+      "userRatingCountForCurrentVersion": 248,
       "trackContentRating": "4+",
-      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
-      "trackId": 6803329435,
-      "trackName": "Chromagraph Camera",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
       "genres": [
         "Photo & Video"
       ],
-      "userRatingCount": 201,
+      "trackName": "Chromagraph Camera",
+      "trackId": 6803329435,
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "bundleId": "com.ChromaticApplications.yCam",
+      "userRatingCount": 248,
       "country": "USA"
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/chromatic-applications-llc/id1599969700?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
@@ -418,6 +411,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/de/developer/chromatic-applications-llc/id1599969700?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -550,46 +553,49 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "trackCensoredName": "Chromagraph Camera",
-      "trackViewUrl": "https://apps.apple.com/de/app/chromagraph-camera/id6803329435?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.2,
-      "genres": [
-        "Foto und Video"
-      ],
-      "artistId": 1599969700,
-      "artistName": "Chromatic Applications LLC",
-      "price": 14.99,
-      "bundleId": "com.ChromaticApplications.yCam",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "genreIds": [
-        "6008"
-      ],
-      "releaseDate": "2026-10-20T07:00:00Z",
-      "sellerName": "Chromatic Applications LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
-      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
-      "version": "1.3.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
+      "kind": "software",
       "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "46841856",
       "formattedPrice": "14,99 €",
-      "userRatingCountForCurrentVersion": 10,
+      "userRatingCountForCurrentVersion": 12,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.2,
-      "trackId": 6803329435,
+      "averageUserRatingForCurrentVersion": 4,
+      "averageUserRating": 4,
+      "sellerName": "Chromatic Applications LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
+      "trackCensoredName": "Chromagraph Camera",
+      "trackViewUrl": "https://apps.apple.com/de/app/chromagraph-camera/id6803329435?uo=4",
+      "contentAdvisoryRating": "4+",
+      "price": 14.99,
+      "artistId": 1599969700,
+      "artistName": "Chromatic Applications LLC",
+      "genres": [
+        "Foto und Video"
+      ],
+      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
       "trackName": "Chromagraph Camera",
+      "trackId": 6803329435,
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "genreIds": [
+        "6008"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
       "minimumOsVersion": "17.0",
-      "userRatingCount": 10,
+      "version": "1.3.0",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
+      "bundleId": "com.ChromaticApplications.yCam",
+      "userRatingCount": 12,
       "country": "DEU"
     },
     {
@@ -597,20 +603,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -745,74 +737,75 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "kind": "software",
       "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
+      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "appletvScreenshotUrls": [],
+      "averageUserRating": 4,
       "trackCensoredName": "Chromagraph Camera",
       "trackViewUrl": "https://apps.apple.com/fr/app/chromagraph-camera/id6803329435?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4,
       "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
-      "averageUserRatingForCurrentVersion": 4,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "46841856",
-      "formattedPrice": "14,99 €",
-      "userRatingCountForCurrentVersion": 7,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
-      "price": 14.99,
       "genres": [
         "Photo et vidéo"
       ],
+      "artistName": "Chromatic Applications LLC",
+      "artistId": 1599969700,
       "bundleId": "com.ChromaticApplications.yCam",
       "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Chromatic Applications LLC",
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
-      "sellerName": "Chromatic Applications LLC",
+      "releaseDate": "2026-10-20T07:00:00Z",
       "genreIds": [
         "6008"
       ],
-      "releaseDate": "2026-10-20T07:00:00Z",
-      "trackId": 6803329435,
-      "trackName": "Chromagraph Camera",
       "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
       "version": "1.3.0",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
-      "artistId": 1599969700,
-      "artistName": "Chromatic Applications LLC",
+      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "46841856",
+      "formattedPrice": "14,99 €",
+      "userRatingCountForCurrentVersion": 8,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4,
       "minimumOsVersion": "17.0",
-      "userRatingCount": 7,
+      "price": 14.99,
+      "trackId": 6803329435,
+      "trackName": "Chromagraph Camera",
+      "userRatingCount": 8,
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/chromatic-applications-llc/id1599969700?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -944,46 +937,63 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/43/6b/40436b18-2652-840c-fc2c-68fdf9cd2199/Viewer_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/6e/07/bc6e071d-0256-b8b1-4dfc-238ca6ba6fb9/Camera_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/58/3cd658bf-f351-7905-b63f-b764a203aa3a/Editor_iPhone.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/31/05/083105a7-c2dd-0b60-f32c-917929325b07/Gallery_iPhone.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/dd/3f/7add3fb3-d2f3-9bdb-1e81-a53534615ccd/Viewer_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/94/17/ea9417c1-ca9f-c8fd-03e3-80da0e565250/Camera_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/69/0f/ff690f70-fb83-7252-ae50-7fd6770c8ba2/Editor_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/e7/0e/8ae70e37-1e62-fcc8-5d52-e08a7691adb4/Gallery_iPad.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Chromagraph Camera",
+      "trackViewUrl": "https://apps.apple.com/gb/app/chromagraph-camera/id6803329435?uo=4",
+      "averageUserRating": 4.33333,
+      "artistId": 1599969700,
+      "artistName": "Chromatic Applications LLC",
+      "genres": [
+        "Photo & Video"
+      ],
+      "price": 12.99,
+      "bundleId": "com.ChromaticApplications.yCam",
+      "minimumOsVersion": "17.0",
+      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
+      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
+      "releaseDate": "2026-10-20T07:00:00Z",
+      "trackId": 6803329435,
+      "trackName": "Chromagraph Camera",
+      "genreIds": [
+        "6008"
+      ],
+      "sellerName": "Chromatic Applications LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "version": "1.3.0",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "46841856",
       "formattedPrice": "£12.99",
-      "userRatingCountForCurrentVersion": 35,
+      "userRatingCountForCurrentVersion": 42,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.31429,
-      "genres": [
-        "Photo & Video"
-      ],
-      "artistId": 1599969700,
-      "artistName": "Chromatic Applications LLC",
-      "bundleId": "com.ChromaticApplications.yCam",
-      "sellerName": "Chromatic Applications LLC",
-      "minimumOsVersion": "17.0",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "genreIds": [
-        "6008"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-07T20:53:46Z",
-      "version": "1.3.0",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Replace your phone camera’s default processing with bespoke, curated color and texture rendering designed by cinematographer Steve Yedlin and used on the Knives Out films.\n\nChromagraph starts from raw image data and builds the image its own way: not a filter laid over the usual look processing, but a different process from the start.\n\n(Chromagraph is a stills-only camera; it does not shoot video. Note that on some devices such as the iPhone 11, not all cameras support raw capture and will not be usable in Chromagraph)\n\nSHOOT FIRST, SEE THE LOOK AFTER\nAs with a film camera, you frame through the viewfinder and see the finished look only after the image is processed. Take the picture, then open the gallery to see it with the Chromagraph look applied.\n\nADJUST WITHOUT LOSING THE LOOK\nIntuitive yet powerful tools for color, tone, and texture give you real control while keeping every image true to the look that’s the core of the app.\n\nA GALLERY THAT KEEPS THE ORIGINALS\nStore full-quality raw files and view them in the app with the look applied live, along with any adjustments you make. Export smaller files to share with friends or save to your photo library, or turn on auto-export in Preferences to send every photo to your library right away as a JPEG or HEIC with the look applied.\n\nNOT A FILTER\nA filter sits on top of the processing your phone has already done. Chromagraph skips that processing and uses its own methods for the curated look preferred by director Rian Johnson and cinematographer Steve Yedlin.",
-      "averageUserRating": 4.31429,
-      "trackCensoredName": "Chromagraph Camera",
-      "trackViewUrl": "https://apps.apple.com/gb/app/chromagraph-camera/id6803329435?uo=4",
-      "contentAdvisoryRating": "4+",
-      "releaseNotes": "Added \"Crossover\" control to the editor's Color section; this controls how different the color of highlights are from the color of shadows.",
-      "trackId": 6803329435,
-      "trackName": "Chromagraph Camera",
-      "price": 12.99,
-      "releaseDate": "2026-10-20T07:00:00Z",
-      "userRatingCount": 35,
+      "sellerUrl": "https://chromaticapplications.com/chromagraph/chromagraph",
+      "averageUserRatingForCurrentVersion": 4.33333,
+      "userRatingCount": 42,
       "country": "GBR"
     },
     {

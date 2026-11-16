@@ -1,9 +1,35 @@
 {
   "id": "390017969",
-  "name": "Due - Reminders & Timers",
+  "name": "Due - Erinnerungen & Timer",
   "month": "202611",
-  "fetchedAt": "2026-11-02T10:04:39.682Z",
+  "fetchedAt": "2026-11-16T10:22:32.862Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Jahres-Upgrade-Pass Mobilgerät",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Wunderbares Trinkgeld",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Großzügiges Trinkgeld",
+          "price": "5,00 €",
+          "amount": 5
+        },
+        {
+          "name": "Nettes Trinkgeld",
+          "price": "2,00 €",
+          "amount": 2
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:22:32.862Z"
+    },
     "us": {
       "currency": "USD",
       "items": [

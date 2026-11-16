@@ -2,7 +2,7 @@
   "id": "1449584007",
   "name": "Koala Sampler",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:06:44.523Z",
+  "fetchedAt": "2026-11-16T10:04:13.021Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -28,12 +28,12 @@
           "amount": 2.99
         },
         {
-          "name": "Soon Come Dub Sample Pack",
+          "name": "Ese-O's Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
         {
-          "name": "Ese-O's Sample Pack",
+          "name": "Soon Come Dub Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
         },
@@ -43,7 +43,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:06:38.493Z"
+      "fetchedAt": "2026-11-16T10:04:07.011Z"
     },
     "fr": {
       "currency": "EUR",
@@ -64,11 +64,6 @@
           "amount": 2.99
         },
         {
-          "name": "Soon Come Dub Sample Pack",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "Ese-O's Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
@@ -79,12 +74,17 @@
           "amount": 2.99
         },
         {
+          "name": "Soon Come Dub Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
+        },
+        {
           "name": "Solar Studies Samplepack",
           "price": "2,99 €",
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:06:39.968Z"
+      "fetchedAt": "2026-11-16T10:04:08.511Z"
     },
     "gb": {
       "currency": "GBP",
@@ -125,7 +125,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:06:41.514Z"
+      "fetchedAt": "2026-11-16T10:04:10.033Z"
     },
     "jp": {
       "currency": "JPY",
@@ -146,6 +146,11 @@
           "amount": 500
         },
         {
+          "name": "Solar Studies Samplepack",
+          "price": "¥500",
+          "amount": 500
+        },
+        {
           "name": "Soon Come Dub Sample Pack",
           "price": "¥500",
           "amount": 500
@@ -156,17 +161,12 @@
           "amount": 500
         },
         {
-          "name": "Solar Studies Samplepack",
-          "price": "¥500",
-          "amount": 500
-        },
-        {
           "name": "Ese-O's Sample Pack",
           "price": "¥500",
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-11-09T10:06:42.972Z"
+      "fetchedAt": "2026-11-16T10:04:11.555Z"
     },
     "us": {
       "currency": "USD",
@@ -207,7 +207,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:06:44.523Z"
+      "fetchedAt": "2026-11-16T10:04:13.021Z"
     }
   }
 }

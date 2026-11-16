@@ -2,7 +2,7 @@
   "id": "6473753684",
   "name": "Claude by Anthropic",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:32:21.146Z",
+  "fetchedAt": "2026-11-16T10:10:37.308Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 800
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:15.954Z"
+      "fetchedAt": "2026-11-16T10:10:31.643Z"
     },
     "fr": {
       "currency": "EUR",
@@ -84,24 +84,24 @@
           "amount": 299.99
         },
         {
-          "name": "Usage Credits (50)",
-          "price": "49,00 €",
-          "amount": 49
-        },
-        {
           "name": "Usage Credits (20)",
           "price": "22,00 €",
           "amount": 22
         },
         {
-          "name": "Usage Credits (250)",
-          "price": "229,00 €",
-          "amount": 229
-        },
-        {
           "name": "Usage Credits (100)",
           "price": "100,00 €",
           "amount": 100
+        },
+        {
+          "name": "Usage Credits (50)",
+          "price": "49,00 €",
+          "amount": 49
+        },
+        {
+          "name": "Usage Credits (250)",
+          "price": "229,00 €",
+          "amount": 229
         },
         {
           "name": "Usage Credits (500)",
@@ -114,7 +114,7 @@
           "amount": 800
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:16.873Z"
+      "fetchedAt": "2026-11-16T10:10:33.238Z"
     },
     "gb": {
       "currency": "GBP",
@@ -145,6 +145,11 @@
           "amount": 20
         },
         {
+          "name": "Usage Credits (100)",
+          "price": "£90.00",
+          "amount": 90
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "£45.00",
           "amount": 45
@@ -160,17 +165,12 @@
           "amount": 349
         },
         {
-          "name": "Usage Credits (100)",
-          "price": "£90.00",
-          "amount": 90
-        },
-        {
           "name": "Usage Credits (1000)",
           "price": "£700.00",
           "amount": 700
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:19.087Z"
+      "fetchedAt": "2026-11-16T10:10:34.801Z"
     },
     "jp": {
       "currency": "JPY",
@@ -186,17 +186,17 @@
           "amount": 20000
         },
         {
-          "name": "Claude Pro - Annual",
-          "price": "¥35,000",
-          "amount": 35000
-        },
-        {
           "name": "Claude Ultra - Monthly",
           "price": "¥40,000",
           "amount": 40000
+        },
+        {
+          "name": "Claude Pro - Annual",
+          "price": "¥35,000",
+          "amount": 35000
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:19.840Z"
+      "fetchedAt": "2026-11-16T10:10:35.633Z"
     },
     "us": {
       "currency": "USD",
@@ -227,6 +227,11 @@
           "amount": 214.99
         },
         {
+          "name": "Usage Credits (100)",
+          "price": "$90.00",
+          "amount": 90
+        },
+        {
           "name": "Usage Credits (50)",
           "price": "$45.00",
           "amount": 45
@@ -237,22 +242,17 @@
           "amount": 200
         },
         {
-          "name": "Usage Credits (100)",
-          "price": "$90.00",
-          "amount": 90
+          "name": "Usage Credits (1000)",
+          "price": "$700.00",
+          "amount": 700
         },
         {
           "name": "Usage Credits (500)",
           "price": "$350.00",
           "amount": 350
-        },
-        {
-          "name": "Usage Credits (1000)",
-          "price": "$700.00",
-          "amount": 700
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:21.146Z"
+      "fetchedAt": "2026-11-16T10:10:37.302Z"
     }
   }
 }

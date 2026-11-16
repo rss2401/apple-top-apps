@@ -2,10 +2,13 @@
   "resultCount": 4,
   "results": [
     {
+      "isGameCenterEnabled": false,
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/pietro-messineo-cz/id1555229303?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
       "screenshotUrls": [
@@ -33,10 +36,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/83/80/fc838054-531c-86ca-800d-7d48b3bd5a32/10-shelf.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/pietro-messineo-cz/id1555229303?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -167,45 +167,47 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "bundleId": "com.pietromessineo.satisfy",
-      "price": 2.99,
+      "averageUserRatingForCurrentVersion": 5,
+      "currentVersionReleaseDate": "2026-11-06T00:32:39Z",
+      "averageUserRating": 5,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Satisfy: ASMR Fidget Toys",
+      "trackViewUrl": "https://apps.apple.com/us/app/satisfy-asmr-fidget-toys/id6821710782?uo=4",
       "artistId": 1555229303,
       "artistName": "Pietro Messineo (CZ)",
+      "price": 2.99,
+      "releaseNotes": "Satisfy now runs on iPad. Every toy plays by touch on the big screen: pop, squish, stir and pour.\n\nFixed: sound could go quiet after a call, Siri or an alarm until you reopened the app. It now comes straight back.",
       "minimumOsVersion": "26.0",
       "genreIds": [
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-11-04T08:00:00Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
       "sellerName": "Pietro Messineo",
-      "currentVersionReleaseDate": "2026-11-06T00:32:39Z",
-      "releaseNotes": "Satisfy now runs on iPad. Every toy plays by touch on the big screen: pop, squish, stir and pour.\n\nFixed: sound could go quiet after a call, Siri or an alarm until you reopened the app. It now comes straight back.",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Satisfy is a box of eleven tactile toys made for iPhone Duo, where the hinge is the toy. Open the phone, close it, snap it flat: every toy answers with sound you can hear and haptics you can feel. No goals, no score, no timers. Just something deeply satisfying to do with your hands.\n\nTHE TOYS\n• Wrap: a brand-new sheet of bubble wrap. Pop one bubble, or run a finger down a whole row.\n• Firework: open the phone all the way and a shell bursts over the harbor. Tap the sky for more.\n• Slime: glossy, sticky slime that stretches when you move slowly and churns when you move fast.\n• Peel: peel the protective film off a brand-new phone as you open it.\n• Pencils: a felt-tip starburst that draws itself with every fold.\n• Glow: bend the glow stick across the fold until it snaps and neon floods out.\n• Fire: the phone becomes a pair of bellows. Every closing stroke makes the fire roar.\n• Bubbles: fan the phone open to blow soap bubbles, then pop them with a finger.\n• Warp: open it to throttle up, snap it flat to jump to light speed.\n• Coffee and Matcha: tilt the hinge to pour cold milk into an iced drink, stir it, then shut the phone to drink it.\n\nMADE FOR IPHONE DUO\nEvery toy uses a different part of the hinge: how far it's open, how fast it moves, the moment it snaps flat. The big moments land right where the hardware snaps, so the toy and the phone click together.\n\nON ANY IPHONE AND IPAD\nNo fold? Every toy plays by touch: hold, tap, swipe and rub, on any iPhone and on iPad.\n\nONE PURCHASE\nEverything is included. No ads, no in-app purchases, no subscriptions, no account. Satisfy doesn't collect any data.",
-      "averageUserRatingForCurrentVersion": 5,
-      "averageUserRating": 5,
-      "trackCensoredName": "Satisfy: ASMR Fidget Toys",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "4041728",
       "formattedPrice": "$2.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1,
-      "trackViewUrl": "https://apps.apple.com/us/app/satisfy-asmr-fidget-toys/id6821710782?uo=4",
+      "userRatingCountForCurrentVersion": 2,
       "trackContentRating": "4+",
-      "trackId": 6821710782,
-      "trackName": "Satisfy: ASMR Fidget Toys",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
       "genres": [
         "Entertainment"
       ],
-      "userRatingCount": 1,
+      "trackName": "Satisfy: ASMR Fidget Toys",
+      "trackId": 6821710782,
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "bundleId": "com.pietromessineo.satisfy",
+      "userRatingCount": 2,
       "country": "USA"
     },
     {
@@ -623,22 +625,6 @@
       "country": "FRA"
     },
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/f3/46/81f3468f-5509-d65d-80fb-681a4368ffc7/01-main.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/f3/fc/a5f3fcb1-246b-d1ce-4e7e-386c81bd71f5/02-glow.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/79/55/6179555a-e737-98ef-f641-bfc7ad5ab4a5/03-firework.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/78/d8/2f78d868-939b-4927-18b3-e927ea7cccdf/04-wrap.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/43/6c/0b436c16-fc73-e001-204b-d1b0bc799033/05-warp.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/58/3d/57583d18-9d92-3397-5cd4-16bebf0605ce/06-coffee.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/ef/e3/58efe3fc-b177-763d-9b2a-b332c022ed09/07-slime.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/4c/55/094c55c2-9d9b-9621-119b-dfc291a256c8/08-fire.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/c8/a2/52c8a220-b90a-f8fd-aac8-b97f5b464050/09-pencils.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/83/80/fc838054-531c-86ca-800d-7d48b3bd5a32/10-shelf.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -770,14 +756,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/pietro-messineo-cz/id1555229303?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/80/37/9e80371f-6256-a6fc-72d3-aa78e5ab70bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/38/6c/c6386c05-6e06-d64e-2e7d-a91df0af4ae8/01-main.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/cb/91/0dcb91b2-06ce-7bcc-0575-1693110be0fe/02-glow.png/320x480bb.jpg",
@@ -790,42 +782,54 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/66/3d/11663d40-306b-8562-c0ac-8b736603c668/09-pencils.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/0c/0c/dc0c0c89-f464-ceca-c7be-b118cc7997ad/10-shelf.png/320x480bb.jpg"
       ],
-      "bundleId": "com.pietromessineo.satisfy",
-      "releaseNotes": "Satisfy now runs on iPad. Every toy plays by touch on the big screen: pop, squish, stir and pour.\n\nFixed: sound could go quiet after a call, Siri or an alarm until you reopened the app. It now comes straight back.",
-      "genres": [
-        "Entertainment"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/f3/46/81f3468f-5509-d65d-80fb-681a4368ffc7/01-main.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/f3/fc/a5f3fcb1-246b-d1ce-4e7e-386c81bd71f5/02-glow.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/79/55/6179555a-e737-98ef-f641-bfc7ad5ab4a5/03-firework.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/78/d8/2f78d868-939b-4927-18b3-e927ea7cccdf/04-wrap.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/43/6c/0b436c16-fc73-e001-204b-d1b0bc799033/05-warp.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/58/3d/57583d18-9d92-3397-5cd4-16bebf0605ce/06-coffee.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/ef/e3/58efe3fc-b177-763d-9b2a-b332c022ed09/07-slime.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/4c/55/094c55c2-9d9b-9621-119b-dfc291a256c8/08-fire.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/c8/a2/52c8a220-b90a-f8fd-aac8-b97f5b464050/09-pencils.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/83/80/fc838054-531c-86ca-800d-7d48b3bd5a32/10-shelf.png/360x480bb.jpg"
       ],
       "artistId": 1555229303,
       "artistName": "Pietro Messineo (CZ)",
-      "price": 2.99,
-      "trackId": 6821710782,
-      "trackName": "Satisfy: ASMR Fidget Toys",
-      "releaseDate": "2026-11-04T08:00:00Z",
-      "minimumOsVersion": "26.0",
-      "genreIds": [
-        "6016"
+      "genres": [
+        "Entertainment"
       ],
+      "price": 2.99,
+      "trackName": "Satisfy: ASMR Fidget Toys",
+      "trackId": 6821710782,
+      "bundleId": "com.pietromessineo.satisfy",
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
       "sellerName": "Pietro Messineo",
+      "releaseNotes": "Satisfy now runs on iPad. Every toy plays by touch on the big screen: pop, squish, stir and pour.\n\nFixed: sound could go quiet after a call, Siri or an alarm until you reopened the app. It now comes straight back.",
+      "minimumOsVersion": "26.0",
+      "releaseDate": "2026-11-04T08:00:00Z",
+      "genreIds": [
+        "6016"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-06T00:32:39Z",
       "version": "1.1",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Satisfy is a box of eleven tactile toys made for iPhone Duo, where the hinge is the toy. Open the phone, close it, snap it flat: every toy answers with sound you can hear and haptics you can feel. No goals, no score, no timers. Just something deeply satisfying to do with your hands.\n\nTHE TOYS\n• Wrap: a brand-new sheet of bubble wrap. Pop one bubble, or run a finger down a whole row.\n• Firework: open the phone all the way and a shell bursts over the harbor. Tap the sky for more.\n• Slime: glossy, sticky slime that stretches when you move slowly and churns when you move fast.\n• Peel: peel the protective film off a brand-new phone as you open it.\n• Pencils: a felt-tip starburst that draws itself with every fold.\n• Glow: bend the glow stick across the fold until it snaps and neon floods out.\n• Fire: the phone becomes a pair of bellows. Every closing stroke makes the fire roar.\n• Bubbles: fan the phone open to blow soap bubbles, then pop them with a finger.\n• Warp: open it to throttle up, snap it flat to jump to light speed.\n• Coffee and Matcha: tilt the hinge to pour cold milk into an iced drink, stir it, then shut the phone to drink it.\n\nMADE FOR IPHONE DUO\nEvery toy uses a different part of the hinge: how far it's open, how fast it moves, the moment it snaps flat. The big moments land right where the hardware snaps, so the toy and the phone click together.\n\nON ANY IPHONE AND IPAD\nNo fold? Every toy plays by touch: hold, tap, swipe and rub, on any iPhone and on iPad.\n\nONE PURCHASE\nEverything is included. No ads, no in-app purchases, no subscriptions, no account. Satisfy doesn't collect any data.",
-      "averageUserRating": 0,
       "trackCensoredName": "Satisfy: ASMR Fidget Toys",
+      "trackViewUrl": "https://apps.apple.com/gb/app/satisfy-asmr-fidget-toys/id6821710782?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "4041728",
       "formattedPrice": "£2.99",
-      "contentAdvisoryRating": "4+",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/gb/app/satisfy-asmr-fidget-toys/id6821710782?uo=4",
       "userRatingCount": 0,
       "country": "GBR"
     }

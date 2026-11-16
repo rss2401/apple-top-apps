@@ -2,7 +2,7 @@
   "id": "6768593043",
   "name": "BlinkDrama - Short Dramas",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:23:33.139Z",
+  "fetchedAt": "2026-11-16T10:20:11.775Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -104,31 +104,21 @@
           "amount": 19.99
         },
         {
-          "name": "One-time Purchase",
-          "price": "£24.99",
-          "amount": 24.99
-        },
-        {
           "name": "Weekly Pass Pro",
           "price": "£7.99",
           "amount": 7.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "£24.99",
+          "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:23:31.694Z"
+      "fetchedAt": "2026-11-16T10:20:10.238Z"
     },
     "us": {
       "currency": "USD",
       "items": [
-        {
-          "name": "Weekly Pass Pro",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Weekly Pass Pro",
-          "price": "$19.99",
-          "amount": 19.99
-        },
         {
           "name": "One-time Purchase",
           "price": "$3.49",
@@ -150,17 +140,22 @@
           "amount": 19.99
         },
         {
+          "name": "Weekly Pass Pro",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Weekly Pass Pro",
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
           "name": "One-time Purchase",
           "price": "$19.99",
           "amount": 19.99
         },
         {
           "name": "Weekly Pass Pro",
-          "price": "$7.99",
-          "amount": 7.99
-        },
-        {
-          "name": "Weekly Pass Pro",
           "price": "$19.99",
           "amount": 19.99
         },
@@ -168,9 +163,14 @@
           "name": "Weekly Pass Pro",
           "price": "$7.99",
           "amount": 7.99
+        },
+        {
+          "name": "One-time Purchase",
+          "price": "$24.99",
+          "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:23:33.139Z"
+      "fetchedAt": "2026-11-16T10:20:11.775Z"
     }
   }
 }

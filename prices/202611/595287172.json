@@ -2,7 +2,7 @@
   "id": "595287172",
   "name": "Hinge Dating App: Date & Meet",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:18:08.195Z",
+  "fetchedAt": "2026-11-16T10:14:43.922Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -49,16 +49,16 @@
         },
         {
           "name": "Hinge+ Subscription",
-          "price": "14,99 €",
-          "amount": 14.99
+          "price": "12,99 €",
+          "amount": 12.99
         },
         {
-          "name": "One Boost",
-          "price": "7,99 €",
-          "amount": 7.99
+          "name": "Hinge+ Subscription",
+          "price": "12,99 €",
+          "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:18:05.168Z"
+      "fetchedAt": "2026-11-16T10:14:41.140Z"
     },
     "fr": {
       "currency": "EUR",
@@ -79,9 +79,9 @@
           "amount": 7.99
         },
         {
-          "name": "Hinge+ Subscription",
-          "price": "12,99 €",
-          "amount": 12.99
+          "name": "One Superboost",
+          "price": "14,99 €",
+          "amount": 14.99
         },
         {
           "name": "Hinge+ Subscription",
@@ -89,7 +89,12 @@
           "amount": 11.99
         },
         {
-          "name": "One Superboost",
+          "name": "Hinge+ Subscription",
+          "price": "12,99 €",
+          "amount": 12.99
+        },
+        {
+          "name": "1 Superboost",
           "price": "14,99 €",
           "amount": 14.99
         },
@@ -99,22 +104,17 @@
           "amount": 7.99
         },
         {
-          "name": "1 Superboost",
-          "price": "14,99 €",
-          "amount": 14.99
-        },
-        {
           "name": "One Boost",
           "price": "7,99 €",
           "amount": 7.99
         },
         {
-          "name": "Hinge+ Subscription",
-          "price": "23,99 €",
-          "amount": 23.99
+          "name": "1 Boost",
+          "price": "7,99 €",
+          "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:18:06.491Z"
+      "fetchedAt": "2026-11-16T10:14:42.294Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 17.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:18:08.189Z"
+      "fetchedAt": "2026-11-16T10:14:43.921Z"
     }
   }
 }

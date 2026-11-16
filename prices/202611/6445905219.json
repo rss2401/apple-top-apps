@@ -2,7 +2,7 @@
   "id": "6445905219",
   "name": "DramaBox - Stream Drama Shorts",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:14:54.084Z",
+  "fetchedAt": "2026-11-16T10:11:36.622Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -116,23 +116,74 @@
       ],
       "fetchedAt": "2026-11-09T10:14:52.513Z"
     },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "割引チャージ",
+          "price": "¥500",
+          "amount": 500
+        },
+        {
+          "name": "割引チャージ",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "会員",
+          "price": "¥2,200",
+          "amount": 2200
+        },
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "割引チャージ",
+          "price": "¥2,000",
+          "amount": 2000
+        },
+        {
+          "name": "会員",
+          "price": "¥2,000",
+          "amount": 2000
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:11:35.702Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
         {
-          "name": "Membership",
-          "price": "$19.99",
-          "amount": 19.99
+          "name": "Subscription Weekly",
+          "price": "$9.99",
+          "amount": 9.99
         },
         {
-          "name": "Membership",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Special offer",
-          "price": "$4.99",
-          "amount": 4.99
+          "name": "Monthly subscription",
+          "price": "$39.99",
+          "amount": 39.99
         },
         {
           "name": "Special offer",
@@ -140,37 +191,42 @@
           "amount": 9.99
         },
         {
-          "name": "Membership",
-          "price": "$17.99",
-          "amount": 17.99
-        },
-        {
-          "name": "Membership",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
-          "name": "Membership",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "Special offer",
           "price": "$19.99",
           "amount": 19.99
         },
         {
+          "name": "Special offer",
+          "price": "$39.99",
+          "amount": 39.99
+        },
+        {
+          "name": "Special offer",
+          "price": "$29.99",
+          "amount": 29.99
+        },
+        {
           "name": "Membership",
           "price": "$19.99",
           "amount": 19.99
         },
         {
           "name": "Membership",
-          "price": "$5.99",
-          "amount": 5.99
+          "price": "$49.99",
+          "amount": 49.99
+        },
+        {
+          "name": "Membership",
+          "price": "$99.99",
+          "amount": 99.99
+        },
+        {
+          "name": "Membership",
+          "price": "$9.99",
+          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:14:54.081Z"
+      "fetchedAt": "2026-11-16T10:11:36.621Z"
     }
   }
 }

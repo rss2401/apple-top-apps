@@ -2,12 +2,27 @@
   "id": "410896080",
   "name": "PlayStation App",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:23:16.798Z",
+  "fetchedAt": "2026-11-16T10:19:48.974Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:19:44.870Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-09T10:23:16.792Z"
+      "fetchedAt": "2026-11-16T10:19:46.248Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:19:47.867Z"
+    },
+    "us": {
+      "currency": "USD",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:19:48.969Z"
     }
   }
 }

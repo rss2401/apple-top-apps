@@ -3,17 +3,10 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/4b/5f/6b4b5f95-44af-f6ed-d26e-ed077197af22/IOS_01__U5ba3_U4f20_U8bed.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/cc/13/12cc1392-c9fb-272e-ba81-ad8435e28f67/IOS_02__U6d3b_U8dc3_U793e_U7fa4.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/72/d4/2e72d477-20a4-2f92-70c1-61c8f997c4c6/IOS_03__U822a_U7ebf_U4e30_U5bcc.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9f/88/1b9f88f8-786b-d9f3-0ecc-6b499db1dce2/IOS_04__U514d_U8d39_U4ed3_U50a8.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/d3/3c/c6d33c24-26e7-689c-57f5-bec9db8e85c9/IOS_05__U4f18_U60e0_U5238.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/56/3a/e2563a6e-a7e3-ea18-feff-e417634dd6cf/IOS_06__U4f18_U60e0_U5238.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/hong-kong-haini-technology-limited/id1837097975?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -144,52 +137,61 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "features": [],
-      "artistViewUrl": "https://apps.apple.com/de/developer/hong-kong-haini-technology-limited/id1837097975?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.67817,
-      "sellerUrl": "https://litbuy.com",
-      "languageCodesISO2A": [
-        "EN"
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/f1/e3/98f1e358-ac03-d404-f5d9-954c93cfdc0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/4b/5f/6b4b5f95-44af-f6ed-d26e-ed077197af22/IOS_01__U5ba3_U4f20_U8bed.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/cc/13/12cc1392-c9fb-272e-ba81-ad8435e28f67/IOS_02__U6d3b_U8dc3_U793e_U7fa4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/72/d4/2e72d477-20a4-2f92-70c1-61c8f997c4c6/IOS_03__U822a_U7ebf_U4e30_U5bcc.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/9f/88/1b9f88f8-786b-d9f3-0ecc-6b499db1dce2/IOS_04__U514d_U8d39_U4ed3_U50a8.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/d3/3c/c6d33c24-26e7-689c-57f5-bec9db8e85c9/IOS_05__U4f18_U60e0_U5238.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e2/56/3a/e2563a6e-a7e3-ea18-feff-e417634dd6cf/IOS_06__U4f18_U60e0_U5238.jpg/320x480bb.jpg"
       ],
-      "fileSizeBytes": "80544768",
-      "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 2781,
-      "trackContentRating": "4+",
+      "averageUserRating": 4.68023,
+      "trackCensoredName": "LitBuy",
+      "trackViewUrl": "https://apps.apple.com/de/app/litbuy/id6754669130?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 1837097975,
       "artistName": "Hong Kong Haini Technology Limited",
       "genres": [
         "Shopping"
       ],
       "price": 0,
-      "bundleId": "com.litbuy.litbuy",
+      "sellerName": "Hong Kong Haini Technology Limited",
+      "trackId": 6754669130,
+      "trackName": "LitBuy",
+      "minimumOsVersion": "13.0",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024"
       ],
-      "trackId": 6754669130,
-      "trackName": "LitBuy",
       "releaseDate": "2025-11-22T08:00:00Z",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Hong Kong Haini Technology Limited",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-04T17:19:23Z",
-      "releaseNotes": "Bug fixes and performance improvements.",
       "version": "1.4.3",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Litbuy is your all-in-one shopping agent and parcel-forwarding app designed for purchasing products from popular online marketplaces in China — fast, easy, and reliable.\nWhether you're looking for fashion, electronics, accessories, or daily essentials, Litbuy helps you order, check quality, consolidate, and ship worldwide with a seamless user experience.\n Key Features\n• Paste the link & order instantly\nJust paste a product link, choose options, and place your order in seconds.\n• Real warehouse QC photos before shipping\nReceive clear, real QC photos from our warehouse so you can approve your items with confidence.\n• Pack First, Pay Later\nPreview the actual weight and size of your parcel — pay only the accurate shipping fee.\n• Real-time parcel tracking\nTrack every step of your shipment with detailed, up-to-date logistics information.\n• Consolidation & extra packaging\nCombine multiple orders into one parcel and enjoy free extra protection for safer delivery.\n• Lower shipping fees with exclusive 40% OFF & 30% OFF coupons",
-      "averageUserRating": 4.67817,
-      "trackViewUrl": "https://apps.apple.com/de/app/litbuy/id6754669130?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "LitBuy",
-      "minimumOsVersion": "13.0",
-      "userRatingCount": 2781,
+      "sellerUrl": "https://litbuy.com",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "80544768",
+      "formattedPrice": "Gratis",
+      "userRatingCountForCurrentVersion": 2899,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.68023,
+      "bundleId": "com.litbuy.litbuy",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "userRatingCount": 2899,
       "country": "DEU"
     }
   ]

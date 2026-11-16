@@ -195,13 +195,10 @@
       "userRatingCount": 64
     },
     {
-      "advisories": [
-        "Infrequent/Mild Horror/Fear Themes"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/chris-rogers/id1119043156?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -332,9 +329,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
+      ],
+      "advisories": [
+        "Infrequent/Mild Horror/Fear Themes"
       ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dc/4a/dc/dc4adc74-172e-bb26-c8ac-f6df53aae235/4bf6f779-69cd-43a6-a8fa-4ba918bb5d39_2208x1242-screenshot.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/83/45/3c834513-d2e2-8b9d-2ec6-d810129ff875/3c2dff56-b2e8-4585-bcf8-13ec972b2ee2_2208x1242-screenshot__U00281_U0029.png/406x228bb.png",
@@ -347,28 +352,23 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/chris-rogers/id1119043156?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "trackId": 1396698319,
-      "trackName": "Necrophonic",
-      "genreIds": [
-        "6002",
-        "6016"
-      ],
-      "genres": [
-        "Utilities",
-        "Entertainment"
-      ],
+      "releaseNotes": "Added mute switch detection and warning for when no audio can be played\nAdded scan rate slider\nAdded random reverse audio of sound banks to vastly increase the sounds of the audio clips\nUpdated to latest sdks and development software to ensure compatibility with newest devices",
+      "price": 9.99,
+      "trackCensoredName": "Necrophonic",
+      "trackViewUrl": "https://apps.apple.com/us/app/necrophonic/id1396698319?uo=4",
+      "contentAdvisoryRating": "9+",
+      "averageUserRating": 3.76344,
       "artistId": 1119043156,
       "artistName": "chris rogers",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2022-06-19T14:45:53Z",
+      "bundleId": "com.ChillSeekers.Necrophonic",
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "releaseNotes": "Added mute switch detection and warning for when no audio can be played\nAdded scan rate slider\nAdded random reverse audio of sound banks to vastly increase the sounds of the audio clips\nUpdated to latest sdks and development software to ensure compatibility with newest devices",
-      "sellerName": "BitPlague LLC",
       "minimumOsVersion": "11.0",
+      "sellerName": "BitPlague LLC",
+      "releaseDate": "2018-07-25T05:43:03Z",
+      "trackId": 1396698319,
+      "trackName": "Necrophonic",
+      "currentVersionReleaseDate": "2022-06-19T14:45:53Z",
       "version": "1.7",
       "wrapperType": "software",
       "currency": "USD",
@@ -378,17 +378,19 @@
       ],
       "fileSizeBytes": "102253568",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 556,
+      "userRatingCountForCurrentVersion": 558,
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 3.76619,
-      "bundleId": "com.ChillSeekers.Necrophonic",
-      "trackCensoredName": "Necrophonic",
-      "trackViewUrl": "https://apps.apple.com/us/app/necrophonic/id1396698319?uo=4",
-      "contentAdvisoryRating": "9+",
-      "averageUserRating": 3.76619,
-      "price": 9.99,
-      "releaseDate": "2018-07-25T05:43:03Z",
-      "userRatingCount": 556,
+      "averageUserRatingForCurrentVersion": 3.76344,
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Utilities",
+        "Entertainment"
+      ],
+      "userRatingCount": 558,
       "country": "USA"
     },
     {

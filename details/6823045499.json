@@ -192,9 +192,6 @@
       "country": "USA"
     },
     {
-      "features": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -326,59 +323,64 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/jeremy-siegel/id1679205677?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "features": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/a0/c7/dea0c7a4-d4e3-1438-0b59-a1f6120f559c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/52/61/c552618a-842c-c5de-8d74-9e0c82d53da6/01.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/33/50/e9335073-c611-c550-41a5-b7446ae2ffaa/102.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/13/ce/0113ceb2-6ea9-0294-cdaa-4a645cb512bf/103.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/3c/6a/413c6a4c-326e-23c4-cced-3f86d558be2f/104.png/320x480bb.jpg"
       ],
-      "bundleId": "com.JeremySiegel.iPodStyleApp",
-      "releaseNotes": "-New Rotary-Search Functionality, a fun way to search your existing Apple Music library\n-Menu Improvements\n-Animation Improvements\n-Flashlight brightness control\n-24-hour time option\n-New icon and icon choices\n-More theming and settings options\n-Bug fixes\n\nThanks for using IvyPod!",
+      "ipadScreenshotUrls": [],
+      "artistId": 1679205677,
+      "artistName": "Jeremy Siegel",
       "genres": [
         "Music",
         "Entertainment"
       ],
-      "artistId": 1679205677,
-      "artistName": "Jeremy Siegel",
       "price": 2.99,
-      "trackId": 6823045499,
       "trackName": "IvyPod",
-      "releaseDate": "2026-11-06T08:00:00Z",
+      "trackId": 6823045499,
+      "bundleId": "com.JeremySiegel.iPodStyleApp",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
+      "sellerName": "Jeremy Siegel",
+      "releaseNotes": "-New Rotary-Search Functionality, a fun way to search your existing Apple Music library\n-Menu Improvements\n-Animation Improvements\n-Flashlight brightness control\n-24-hour time option\n-New icon and icon choices\n-More theming and settings options\n-Bug fixes\n\nThanks for using IvyPod!",
       "minimumOsVersion": "18.0",
+      "releaseDate": "2026-11-06T08:00:00Z",
       "genreIds": [
         "6011",
         "6016"
       ],
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "sellerName": "Jeremy Siegel",
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-08T02:27:03Z",
       "version": "1.5",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Listen to your Apple Music collection through an interface inspired by the classic music players of the past - but with much, much more under the hood.  While IvyPod features advanced, fine-tuned lighting and haptics to create the illusion of actually holding a dedicated music player, it also contains features that would have never been possible in the past - without compromising simplicity and functionality.\n\nFeatures:\n- A wheel-based Apple Music player with simple navigation menus\n- A Genie lamp that can identify music played around you (powered by Shazam)\n- An immersive rotary-style search wheel\n- A Clock-based Weather app\n- A wheel-based Camera and Photo Booth\n- View your Activity Rings in a carrousel\n- Mini games that react to your music library - choices in-game affect music playback.\n- Rubber-band-like scrolling and reactivity with many choices of sounds\n- Flashlight, Timer, Stopwatch, World Clocks, and Alarms\n- Create Apple Music stations based on any song in your library\n- Build playlists by assigning and rating your music collection from 1-5 stars\n- View your photos and listen to your downloaded podcasts\n- Screen filters and sleek animations\n- Color theming and view options; modernize your experience or stick with simplicity\n- Late-night color and brightness modes to reduce eye stain\n- Automatic brightness controls which adapt the UI to the time of day.\n\nThis app also contains:\n-NO subscriptions\n-NO in-app purchases\n-NO advertisements\n-NO data-collection (opt-in to share diagnostic data to help fix bugs)\n\nIt is a pay-once, premium experience designed to bring joy to you and your Apple Music collection.  Enjoy free updates with new features and abilities.",
-      "averageUserRating": 0,
       "trackCensoredName": "IvyPod",
+      "trackViewUrl": "https://apps.apple.com/gb/app/ivypod/id6823045499?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "17789952",
       "formattedPrice": "£2.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 1,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/gb/app/ivypod/id6823045499?uo=4",
-      "userRatingCount": 0,
+      "userRatingCount": 1,
       "country": "GBR"
     }
   ]

@@ -3,24 +3,6 @@
   "results": [
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/wayfair-llc/id525522335?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/c8/ea/dfc8ea3d-2f55-0cb4-5921-32d9b48ed406/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/c8/ea/dfc8ea3d-2f55-0cb4-5921-32d9b48ed406/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/83/83/c98383ea-8cd9-e8fe-5259-ed127e0003db/WFUS_AppTiles_AppStore_Vertical_5.5_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/a6/d9/9fa6d942-b773-f883-449f-c26ee101a407/WFUS_AppTiles_AppStore_Vertical_5.5_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/56/86/c3568601-f263-e804-0d42-0a28443ec978/WFUS_AppTiles_AppStore_Vertical_5.5_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/c5/ac/08c5ac39-b37e-0067-693b-317d2ee853bb/WFUS_AppTiles_AppStore_Vertical_5.5_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/66/2d/fb662df4-c26e-53f5-ed68-625e2a34e495/WFUS_AppTiles_AppStore_Vertical_5.5_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ec/0f/abec0f12-cc2e-6801-183e-8f7fde5fe945/WFUS_AppTiles_AppStore_Vertical_5.5_6.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/6f/e1/806fe1f8-7693-cd4d-9e27-7f654f68d723/WFUS_AppTiles_AppStore_Vertical_5.5_7.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/3d/55/123d552f-523e-f7de-2fa8-8ee29d7dbf4d/WFUS_AppTiles_AppStore_Vertical_5.5_8.png/392x696bb.png"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/61/bf/9661bfb8-3cc4-44b9-616a-aecd1985f2ef/iOS_WFUK_iPad_Frame2_v2.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/4a/ed/c14aed3c-2efb-6915-350f-d5f0b64fe995/iOS_WFUK_iPad_Frame5_v2.jpg/576x768bb.jpg",
@@ -32,7 +14,20 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/dc/7d/17dc7d64-04f0-4b6d-a42e-7975da3d4c62/WFEU_2026_Loyalty_Appstore-Appstore-iPad_UK.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/c8/ea/dfc8ea3d-2f55-0cb4-5921-32d9b48ed406/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0a/93/e10a938b-fc54-d1c8-c789-53ed3e7bbb8a/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/83/83/c98383ea-8cd9-e8fe-5259-ed127e0003db/WFUS_AppTiles_AppStore_Vertical_5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/a6/d9/9fa6d942-b773-f883-449f-c26ee101a407/WFUS_AppTiles_AppStore_Vertical_5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/56/86/c3568601-f263-e804-0d42-0a28443ec978/WFUS_AppTiles_AppStore_Vertical_5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/c5/ac/08c5ac39-b37e-0067-693b-317d2ee853bb/WFUS_AppTiles_AppStore_Vertical_5.5_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/66/2d/fb662df4-c26e-53f5-ed68-625e2a34e495/WFUS_AppTiles_AppStore_Vertical_5.5_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/ec/0f/abec0f12-cc2e-6801-183e-8f7fde5fe945/WFUS_AppTiles_AppStore_Vertical_5.5_6.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/6f/e1/806fe1f8-7693-cd4d-9e27-7f654f68d723/WFUS_AppTiles_AppStore_Vertical_5.5_7.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/3d/55/123d552f-523e-f7de-2fa8-8ee29d7dbf4d/WFUS_AppTiles_AppStore_Vertical_5.5_8.png/392x696bb.png"
+      ],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -163,48 +158,55 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "currentVersionReleaseDate": "2026-10-20T14:27:25Z",
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/wayfair-llc/id525522335?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0a/93/e10a938b-fc54-d1c8-c789-53ed3e7bbb8a/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/0a/93/e10a938b-fc54-d1c8-c789-53ed3e7bbb8a/AppIcon-Wayfair-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Thank you for updating the Wayfair app! This version has more performance improvements and bug fixes than ever before!",
+      "languageCodesISO2A": [
+        "EN",
+        "FR"
+      ],
+      "fileSizeBytes": "298484736",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 2581587,
+      "trackContentRating": "4+",
+      "artistId": 525522335,
+      "artistName": "Wayfair LLC",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
-      "artistId": 525522335,
-      "artistName": "Wayfair LLC",
       "price": 0,
-      "releaseNotes": "Thank you for updating the Birch Lane app! This version has more performance improvements and bug fixes than ever before!",
       "bundleId": "com.wayfair.WayfairApp",
-      "sellerName": "Wayfair LLC",
+      "averageUserRatingForCurrentVersion": 4.86915,
+      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6012"
       ],
       "releaseDate": "2014-03-30T06:54:08Z",
+      "minimumOsVersion": "18.0",
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "minimumOsVersion": "18.0",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "7.40.2",
+      "sellerName": "Wayfair LLC",
+      "trackId": 836767708,
+      "trackName": "Wayfair – Shop All Things Home",
+      "currentVersionReleaseDate": "2026-11-09T16:00:18Z",
+      "version": "7.44.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "The Wayfair app is the easiest way to go after your home goals. Discover app-only deals and early access to sales so you’ll always get our best prices. Plus, be the first to know about price drops on your favorite furniture, decor, and more.\n\nThe Wayfair app makes your shopping journey seamless from start to finish. Get inspired with just-for-you recommendations. Once you score something you love, get order updates and real-time delivery tracking in the palm of your hand.\n\nJust exploring? Use Lists to save, organize, and even share your favorite finds with friends and family when you need a second opinion.\n\nAll the things you love about Wayfair’s website are in the app, too! Scroll through tons of home picks for every style, space, and budget – so you can find the ones that are just right for you. And discover items you never knew you needed with seasonal decor hubs, trend spotlights, and more.\n\nWith the Wayfair app and your design ideas, that dream space is totally doable. Download now to get started today.",
-      "averageUserRating": 4.8691,
+      "averageUserRating": 4.86915,
       "trackCensoredName": "Wayfair – Shop All Things Home",
       "trackViewUrl": "https://apps.apple.com/us/app/wayfair-shop-all-things-home/id836767708?uo=4",
       "contentAdvisoryRating": "4+",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.8691,
-      "languageCodesISO2A": [
-        "EN",
-        "FR"
-      ],
-      "fileSizeBytes": "299346944",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 2566612,
-      "trackId": 836767708,
-      "trackName": "Wayfair – Shop All Things Home",
-      "userRatingCount": 2566612,
+      "userRatingCount": 2581587,
       "country": "USA"
     },
     {

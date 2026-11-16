@@ -2,7 +2,7 @@
   "id": "1637682491",
   "name": "Microsoft Loop",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:30:41.104Z",
+  "fetchedAt": "2026-11-16T10:27:52.602Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -18,17 +18,17 @@
           "amount": 12.99
         },
         {
-          "name": " Microsoft 365 Family",
-          "price": "$129.99",
-          "amount": 129.99
-        },
-        {
           "name": "Microsoft 365 Personal",
           "price": "$99.99",
           "amount": 99.99
+        },
+        {
+          "name": " Microsoft 365 Family",
+          "price": "$129.99",
+          "amount": 129.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:30:41.103Z"
+      "fetchedAt": "2026-11-16T10:27:52.602Z"
     }
   }
 }

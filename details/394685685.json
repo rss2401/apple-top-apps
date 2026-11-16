@@ -2,7 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/a5/6a/5fa56a7d-38a9-19b0-846f-c35821c7c57b/48b972ac-b4ca-4325-bba7-375c4e3aa2f8_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/17/c0/d517c0fd-23fd-2b33-8205-8c4bbf0f28d4/16f61f52-e823-40d3-b646-1b7e5ed5a75a_2.jpg/392x696bb.jpg",
@@ -24,10 +23,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/07/2f/b1072fa7-9cc0-fd27-a0df-0e326c1051fa/d069957b-e8c2-4c06-8e39-0fd6f60dd9fa_7.jpg/576x768bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/70/73/7c7073af-d372-24f9-748b-6e884a074bf9/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/50/cf/0950cf42-00bc-d786-9675-4efb2f748bca/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/512x512bb.jpg",
+      "advisories": [],
+      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/parf%C3%BCmerie-douglas-gmbh/id394685688?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/70/73/7c7073af-d372-24f9-748b-6e884a074bf9/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/70/73/7c7073af-d372-24f9-748b-6e884a074bf9/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/50/cf/0950cf42-00bc-d786-9675-4efb2f748bca/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/50/cf/0950cf42-00bc-d786-9675-4efb2f748bca/AppIcon-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220-0.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -158,16 +162,12 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "sellerUrl": "https://www.douglas.de",
-      "userRatingCountForCurrentVersion": 92285,
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "CS",
         "NL",
@@ -184,38 +184,40 @@
       ],
       "fileSizeBytes": "106050560",
       "formattedPrice": "Gratis",
-      "averageUserRatingForCurrentVersion": 4.82634,
-      "averageUserRating": 4.82634,
+      "userRatingCountForCurrentVersion": 92509,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.8262,
+      "averageUserRating": 4.8262,
+      "sellerName": "Parfumerie Douglas GmbH",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-12T10:59:33Z",
       "trackCensoredName": "Douglas - Beauty & Parfüm",
       "trackViewUrl": "https://apps.apple.com/de/app/douglas-beauty-parf%C3%BCm/id394685685?uo=4",
       "contentAdvisoryRating": "4+",
+      "price": 0,
       "artistId": 394685688,
       "artistName": "Parfümerie Douglas GmbH",
       "genres": [
         "Shopping",
         "Lifestyle"
       ],
-      "price": 0,
-      "trackId": 394685685,
+      "releaseNotes": "Mit diesem Update werden einige Verbesserungen im Hintergrund der App und Bugfixes vorgenommen.",
       "trackName": "Douglas - Beauty & Parfüm",
-      "bundleId": "de.douglas.iphone",
-      "minimumOsVersion": "17.0",
+      "trackId": 394685685,
       "releaseDate": "2010-10-05T20:27:53Z",
-      "releaseNotes": "Euer Feedback ist uns wichtig und daher aktualisieren wir unsere App regelmäßig. Mit diesem neuen Update beheben wir kleinere Fehler und verbessern die Performance der App im Allgemeinen.\n\nViel Spaß beim Entdecken und Shoppen!\nEure Beauty Shopping Expert*innen",
-      "sellerName": "Parfumerie Douglas GmbH",
-      "isVppDeviceBasedLicensingEnabled": true,
       "genreIds": [
         "6024",
         "6012"
       ],
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "currentVersionReleaseDate": "2026-10-26T08:42:26Z",
-      "version": "14.4.0",
+      "minimumOsVersion": "17.0",
+      "version": "14.4.1",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Entdecke deine Lieblingsprodukte von Parfüm über Make-up und Skincare bis hin zu Lifestyle mit der kostenlosen Douglas-App. \nShoppe beliebte Kosmetik-Brands wie Benefit, Urban Decay sowie Kylie Cosmetics und scroll dich in unserer Online-Parfümerie durch hochwertige Düfte von Chanel bis Dior. Auch im Bereich Hautpflege findest du bei uns Trendmarken wie The Ordinary und Rituals – für einen strahlenden Teint und deine Wellness-Auszeit. Deine Haare verwöhnst du mit exklusiven Pflege-Highlights von KÉRASTASE und Redken.\nVerlieb dich mit der Douglas-App jeden Tag in neue Produkte und Trends wie K-Beauty, Clean Beauty und Naturkosmetik – das kleinste Schminktäschchen der Welt wartet auf dich!\n\nDeine exklusiven Vorteile:\n\n- DOUGLAS BEAUTY CARD: Sammle mit jedem Einkauf in der App oder in unseren Filialen wertvolle Douglas Beauty Points.\n\n- DOUGLAS BEAUTY MIRROR: Teste Make-up-Looks mit dem Schminkspiegel der besonderen Art! Entdecke Lippenstifte, Foundations, Mascaras & Co., die dich perfekt in Szene setzen. Unser Augmented Reality Tool legt sich wie ein Filter über dein Gesicht und stellt dir Highlight-Produkte sowie verschiedene Styles vor. Wedding Look, Nude Make-up oder doch lieber French Chic? Du entscheidest!\n\n- NACHKAUF-FUNKTION: Bestell deine Beauty- und Parfumlieblinge ganz bequem mit nur wenigen Klicks nach. Alle deine Favoriten sind schon aufgefüllt? Dann pausiere die gewünschten Produkte in der Nachkauf-Funktion oder entferne sie. Mach die Douglas-App zu deiner individuellen Einkaufsliste! (derzeit nur in Deutschland und Österreich verfügbar)\n\n- LIVE-SHOPPING-EVENTS: Entdecke Highlight-Produkte und angesagte Trends in unseren regelmäßigen Live-Streams. Durch die Kommentarfunktion kannst du unseren Expert*innen deine Beauty-Fragen stellen.\n\n- UP TO DATE AUF ALLEN GERÄTEN: Like deine neuen Produktfavoriten oder füge sie direkt dem Warenkorb hinzu – wir synchronisieren deine Auswahl im Merkzettel und Warenkorb automatisch auf allen Geräten.\n\n- SCHNELLE KONTOÜBERSICHT: Deine laufenden Bestellungen, persönliche Daten und Lieferadressen findest du auf einen Blick. \n\n- FINDE DEINE LIEBLINGSFILIALE: Nutze unseren Filialfinder, um unsere Douglas-Stores auch bei dir in der Nähe zu entdecken. \n\n- NEWS UND ANGEBOTE AUF EINEN BLICK: Aktiviere unsere Push Notifications und werde als Erstes über die neuesten Douglas-Rabattaktionen informiert.\n\n- BEAUTY-TIPPS & -TRENDS: Lass dich von unserem Online-Magazin inspirieren und entdecke die angesagtesten Beauty-Trends!",
-      "userRatingCount": 92285,
+      "bundleId": "de.douglas.iphone",
+      "userRatingCount": 92509,
       "country": "DEU"
     }
   ]

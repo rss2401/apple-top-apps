@@ -2,7 +2,7 @@
   "id": "6670324846",
   "name": "Grok",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:32:34.991Z",
+  "fetchedAt": "2026-11-16T10:05:31.383Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -89,11 +89,6 @@
           "amount": 60
         },
         {
-          "name": "SuperGrok Plus",
-          "price": "100,00 €",
-          "amount": 100
-        },
-        {
           "name": "Extra Usage Credits 100 USD",
           "price": "100,00 €",
           "amount": 100
@@ -102,6 +97,11 @@
           "name": "SuperGrok Heavy",
           "price": "349,00 €",
           "amount": 349
+        },
+        {
+          "name": "SuperGrok Plus",
+          "price": "100,00 €",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
@@ -114,7 +114,7 @@
           "amount": 349
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:31.826Z"
+      "fetchedAt": "2026-11-16T10:05:28.195Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:33.369Z"
+      "fetchedAt": "2026-11-16T10:05:29.717Z"
     },
     "us": {
       "currency": "USD",
@@ -196,19 +196,14 @@
           "amount": 10
         },
         {
-          "name": "Extra Usage Credits 50 USD",
-          "price": "$50.00",
-          "amount": 50
-        },
-        {
           "name": "SuperGrok Heavy",
           "price": "$300.00",
           "amount": 300
         },
         {
-          "name": "Extra Usage Credits 100 USD",
-          "price": "$100.00",
-          "amount": 100
+          "name": "Extra Usage Credits 50 USD",
+          "price": "$50.00",
+          "amount": 50
         },
         {
           "name": "SuperGrok Plus",
@@ -216,17 +211,22 @@
           "amount": 100
         },
         {
-          "name": "SuperGrok",
-          "price": "$300.00",
-          "amount": 300
+          "name": "Extra Usage Credits 100 USD",
+          "price": "$100.00",
+          "amount": 100
         },
         {
           "name": "SuperGrok",
           "price": "$30.00",
           "amount": 30
+        },
+        {
+          "name": "SuperGrok",
+          "price": "$300.00",
+          "amount": 300
         }
       ],
-      "fetchedAt": "2026-11-09T10:32:34.991Z"
+      "fetchedAt": "2026-11-16T10:05:31.383Z"
     }
   }
 }

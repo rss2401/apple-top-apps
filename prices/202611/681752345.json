@@ -2,17 +2,22 @@
   "id": "681752345",
   "name": "Trip.com-航空券･ホテルの予約はトリップドットコムで",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:04:17.504Z",
+  "fetchedAt": "2026-11-16T10:01:34.004Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:01:31.055Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-09T10:04:15.993Z"
+      "fetchedAt": "2026-11-16T10:01:32.497Z"
     },
     "jp": {
       "currency": "JPY",
       "items": [],
-      "fetchedAt": "2026-11-09T10:04:17.503Z"
+      "fetchedAt": "2026-11-16T10:01:34.001Z"
     }
   }
 }

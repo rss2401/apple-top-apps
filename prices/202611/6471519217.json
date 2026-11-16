@@ -1,9 +1,65 @@
 {
   "id": "6471519217",
-  "name": "Bump（旧Zenly）",
+  "name": "Bump - va voir tes amis IRL",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:24:10.631Z",
+  "fetchedAt": "2026-11-16T10:16:22.178Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Bump Club",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Bump Club",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Bump Club",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "2,49 €",
+          "amount": 2.49
+        },
+        {
+          "name": "Bump Club",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "4,99 €",
+          "amount": 4.99
+        },
+        {
+          "name": "Bump Club",
+          "price": "2,49 €",
+          "amount": 2.49
+        }
+      ],
+      "fetchedAt": "2026-11-16T10:16:20.748Z"
+    },
     "jp": {
       "currency": "JPY",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 5000
         }
       ],
-      "fetchedAt": "2026-11-09T10:24:10.626Z"
+      "fetchedAt": "2026-11-16T10:16:22.178Z"
     }
   }
 }

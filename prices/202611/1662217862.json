@@ -2,7 +2,7 @@
   "id": "1662217862",
   "name": "Wipr 2",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:11:35.243Z",
+  "fetchedAt": "2026-11-16T10:08:17.633Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,11 +18,6 @@
           "amount": 29.99
         },
         {
-          "name": "Tip",
-          "price": "5,99 €",
-          "amount": 5.99
-        },
-        {
           "name": "Monthly Recurring Tip",
           "price": "1,99 €",
           "amount": 1.99
@@ -33,12 +28,17 @@
           "amount": 9.99
         },
         {
+          "name": "Tip",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
           "name": "Mega Tip",
           "price": "22,99 €",
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:11:31.227Z"
+      "fetchedAt": "2026-11-16T10:08:13.022Z"
     },
     "fr": {
       "currency": "EUR",
@@ -54,14 +54,14 @@
           "amount": 29.99
         },
         {
-          "name": "Yearly Recurring Tip",
-          "price": "9,99 €",
-          "amount": 9.99
-        },
-        {
           "name": "Monthly Recurring Tip",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "Yearly Recurring Tip",
+          "price": "9,99 €",
+          "amount": 9.99
         },
         {
           "name": "Tip",
@@ -74,7 +74,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:11:32.714Z"
+      "fetchedAt": "2026-11-16T10:08:14.535Z"
     },
     "gb": {
       "currency": "GBP",
@@ -90,14 +90,14 @@
           "amount": 24.99
         },
         {
-          "name": "Tip",
-          "price": "£4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Monthly Recurring Tip",
           "price": "£1.99",
           "amount": 1.99
+        },
+        {
+          "name": "Tip",
+          "price": "£4.99",
+          "amount": 4.99
         },
         {
           "name": "Yearly Recurring Tip",
@@ -110,7 +110,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:11:34.249Z"
+      "fetchedAt": "2026-11-16T10:08:16.095Z"
     },
     "us": {
       "currency": "USD",
@@ -131,14 +131,14 @@
           "amount": 1.99
         },
         {
-          "name": "Tip",
-          "price": "$4.99",
-          "amount": 4.99
-        },
-        {
           "name": "Yearly Recurring Tip",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "Tip",
+          "price": "$4.99",
+          "amount": 4.99
         },
         {
           "name": "Mega Tip",
@@ -146,7 +146,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:11:35.242Z"
+      "fetchedAt": "2026-11-16T10:08:17.633Z"
     }
   }
 }

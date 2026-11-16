@@ -2,7 +2,7 @@
   "id": "530168168",
   "name": "Paramount+",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:10:28.151Z",
+  "fetchedAt": "2026-11-16T10:07:21.968Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -43,22 +43,22 @@
           "amount": 8.99
         },
         {
-          "name": "Paramount+ Premium",
-          "price": "$13.99",
-          "amount": 13.99
-        },
-        {
-          "name": "Paramount+ Premium",
-          "price": "$13.99",
-          "amount": 13.99
-        },
-        {
           "name": "Paramount+ Essential: Monthly",
           "price": "$8.99",
           "amount": 8.99
+        },
+        {
+          "name": "Paramount+ Premium",
+          "price": "$13.99",
+          "amount": 13.99
+        },
+        {
+          "name": "Paramount+ Premium",
+          "price": "$13.99",
+          "amount": 13.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:10:28.142Z"
+      "fetchedAt": "2026-11-16T10:07:21.967Z"
     }
   }
 }

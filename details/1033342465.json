@@ -200,27 +200,13 @@
       "userRatingCount": 544
     },
     {
+      "artistViewUrl": "https://apps.apple.com/jp/developer/open-planet-software/id307887935?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/dc/fd/2adcfd05-8783-cb34-143f-5019560d21c2/2dfb02ca-8c96-41bf-9e35-7b83dcac1faf_All_Devices.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/13/c3/8c13c35a-31e4-4d09-6017-2a4bc37dddc8/52c9153e-8a02-4524-a395-1e35efeb7f74_Watch.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/86/ae/cc86aeca-3d61-1601-1fdb-3f198e532962/611c4efd-685d-4726-b24a-7b2f9bf3fdd2_Search.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/26/e7/c026e7db-555a-f57d-eafc-2046eddcd6a1/e9a9fdf0-1a5a-4170-b48d-6fce5dff4bde_Text_Edit.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/a0/e6/eda0e6f9-757a-7b5c-48af-aadf0a205e5c/58be7095-9c3a-4d36-b9f5-c3577de46e1c_Audio_Edit.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/76/d4/7a76d474-cf01-d92a-91bd-4fc3bef3cd7a/6181ac1f-f102-4003-bbe1-c99a56f959c7_Dark_Mode.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/d2/bb/43d2bb33-f7fa-c599-ac0d-ead6db8d2d46/81e31960-983a-4a6e-a41f-bdfc513d9b7a_Recording.png/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/da/8a/eeda8af7-d6d7-77fd-cabd-5117d6e20db8/9bfe007f-a28f-4c3f-9b95-a64f8a98d3ba_iPad_Pro_All_Devices.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/5a/a8/045aa8b3-fb79-55ae-60c1-3bf4d3670b37/9baba9e0-4c44-4073-917b-dd73252f8c2b_iPad_Pro_Watch.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/07/fb/a007fb97-091d-e51e-f8e2-bd5c40e5c5d2/200ba1d3-7deb-4d22-9967-27dcdaee50d8_iPad_Pro_Search.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/6c/c9/d96cc920-2f3d-fe4c-54a4-5d4ed3db7707/bdd70332-1325-4280-807d-3eeb1d89da52_iPad_Pro_Text_Edit.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/4e/76/524e7636-e3ed-8426-0c0a-06fb47747a31/4289aac7-6b0b-4694-9e0e-59488c32cd85_iPad_Pro_Audio_Edit.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/1e/3c/ea1e3cfb-da38-3ffc-e308-4b3a28ec30a9/4869b9a3-67ac-4d69-bab5-dfe1be15baaf_iPad_Pro_Dark_Mode.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/de/9a/53de9aad-3f97-dcc0-796b-dcb2f69b4d95/74f47e22-008f-405d-af5e-3137fb6458eb_iPad_Pro_Recording.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -353,16 +339,57 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/jp/developer/open-planet-software/id307887935?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/100x100bb.jpg",
       "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2a/dc/fd/2adcfd05-8783-cb34-143f-5019560d21c2/2dfb02ca-8c96-41bf-9e35-7b83dcac1faf_All_Devices.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/13/c3/8c13c35a-31e4-4d09-6017-2a4bc37dddc8/52c9153e-8a02-4524-a395-1e35efeb7f74_Watch.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/86/ae/cc86aeca-3d61-1601-1fdb-3f198e532962/611c4efd-685d-4726-b24a-7b2f9bf3fdd2_Search.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/26/e7/c026e7db-555a-f57d-eafc-2046eddcd6a1/e9a9fdf0-1a5a-4170-b48d-6fce5dff4bde_Text_Edit.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/a0/e6/eda0e6f9-757a-7b5c-48af-aadf0a205e5c/58be7095-9c3a-4d36-b9f5-c3577de46e1c_Audio_Edit.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/76/d4/7a76d474-cf01-d92a-91bd-4fc3bef3cd7a/6181ac1f-f102-4003-bbe1-c99a56f959c7_Dark_Mode.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/d2/bb/43d2bb33-f7fa-c599-ac0d-ead6db8d2d46/81e31960-983a-4a6e-a41f-bdfc513d9b7a_Recording.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/da/8a/eeda8af7-d6d7-77fd-cabd-5117d6e20db8/9bfe007f-a28f-4c3f-9b95-a64f8a98d3ba_iPad_Pro_All_Devices.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/5a/a8/045aa8b3-fb79-55ae-60c1-3bf4d3670b37/9baba9e0-4c44-4073-917b-dd73252f8c2b_iPad_Pro_Watch.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/07/fb/a007fb97-091d-e51e-f8e2-bd5c40e5c5d2/200ba1d3-7deb-4d22-9967-27dcdaee50d8_iPad_Pro_Search.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/6c/c9/d96cc920-2f3d-fe4c-54a4-5d4ed3db7707/bdd70332-1325-4280-807d-3eeb1d89da52_iPad_Pro_Text_Edit.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/4e/76/524e7636-e3ed-8426-0c0a-06fb47747a31/4289aac7-6b0b-4694-9e0e-59488c32cd85_iPad_Pro_Audio_Edit.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/1e/3c/ea1e3cfb-da38-3ffc-e308-4b3a28ec30a9/4869b9a3-67ac-4d69-bab5-dfe1be15baaf_iPad_Pro_Dark_Mode.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/de/9a/53de9aad-3f97-dcc0-796b-dcb2f69b4d95/74f47e22-008f-405d-af5e-3137fb6458eb_iPad_Pro_Recording.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/15/d8/6215d8d1-c5a0-91b5-66ce-8bdfb1469fda/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Just Press Record",
+      "trackViewUrl": "https://apps.apple.com/jp/app/just-press-record/id1033342465?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 3.52195,
+      "releaseNotes": "この更新にはバグ対策および機能改善が含まれています。\n\nJust Press Recordがレビューをお願いするためにユーザーの邪魔をすることは決してありません。中断されたくないのは誰でも同じですから。 しかし、App Storeでの評価やレビューは重要ですので、Just Press Recordをお楽しみいただけ、少しだけお時間をいただけるようでしたら、ぜひApp Storeに評価とレビューをいただければ幸いです。 よろしくお願いします！",
+      "genres": [
+        "ユーティリティ",
+        "仕事効率化"
+      ],
+      "artistId": 307887935,
+      "artistName": "Open Planet Software",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "bundleId": "com.openplanetsoftware.Just-Press-Record-for-iOS",
+      "sellerName": "Open Planet Software Limited",
+      "releaseDate": "2015-09-21T19:29:39Z",
+      "trackId": 1033342465,
+      "trackName": "Just Press Record",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-09-11T19:46:06Z",
+      "version": "51.3",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "Just Press Recordは究極のオーディオ録音ツールで、ワンタップの録音機能の他、音声転写およびiCloudを使ったあらゆるデバイスの同期を提供します。 オーディオや音声転写をアプリ内で編集することができる他、Siri を使って完全にハンズフリーで新しい録音を開始することもできます！\n\n子供が発する最初の言葉や大事な会合、思いついたアイデアなど、人生は忘れがたい瞬間の積み重ねです。 これらの瞬間を、iPhoneやiPad、Mac、あるいは究極の簡便さを追求する場合はApple Watchを使って簡単に捉えましょう。\n\n録音、記録\n• ワンタップで録音を開始、停止、一時停止、再開。\n• ショートカット、Siri、3D TouchクィックアクションまたはURLスキームを使って、ウィジェットから録音を開始・停止。\n• 録音時間は無制限。\n• 背景で目立たずに録音。\n• 内蔵マイク、AirPodsまたは外付けマイクからの録音を選択。\n• Apple Watchだけを使って録音し、後で同期。\n\n再生\n• 再生中に順方向または逆方向にシーク。\n• 再生速度が調整可能。\n\n転写\n• スピーチを検索可能な文字に変換。\n• デバイスの言語設定とは無関係に、30以上の言語に対応。\n• テキストのハイライト表示とオーディオの再生の同期。\n• 句読点コマンド機能により、録音しながらテキストをフォーマット。\n\n編集\n• オーディオ - 波形ビューでオーディオを可視化して、不要な部分をカットできます。\n• テキスト - 転写を訂正したり、新たにテキストを追加することが可能。\n\n共有\n• 音声やテキストを他のアプリと共有。\n• ビデオクリップでソーシャルメディアと簡単に共有。\n• USB ケーブルで Mac や PC の iTunes に共有。\n• 転写のハードコピーを印刷。\n• 他のアプリの音声ファイルを Just Press Record に共有。 \n\n整理\n• 最近の録音を表示したり、日付や時間別にライブラリを参照。\n• ファイル名や転写のコンテンツにより検索。\n• Apple Watchで作成された録音へ簡単にアクセスできる専用タブ。\n• 録音データの名前を変更。\n• iPadではSlide OverおよびSplit Viewに対応。\n• 未再生の録音数を表示するアプリのアイコンにバッジを追加します。\n\n保存\n• 録音をiCloud Driveかローカルデバイス上に保存する選択が可能。\n• iCloud Driveに保存された録音は、自動的に全てのデバイス間で同期されます。\n• ローカルに保存された録音データは、ファイルアプリとの連携と、iTunes の自動ファイル共有のメリットを享受できます。\n• 転写はオーディオファイル内に保存されます。\n\nプロオーディオ\n• 対応機器の内蔵マイクからのステレオ録音に対応。\n• Lightningポートを通して接続された高質の外付けマイクに対応。\n• 選り優れた録音経験を提供するカスタマイズ可能なオーディオ設定。\n• WAV、AIF、標準iTunes M4A (ACC) を含むファイルタイプに対応。\n• 96kHz / 24-bitまで可能な高質オーディオ。\n\nアクセシビリティ\n• アプリ全体でVoiceOverに対応。\n• Magic Tapジェスチャで録音を開始／停止。\n\nAPPLE WATCH\nJust Press RecordにはApple Watch向けのアプリが含まれており、iPhoneが手元にない時でもどこでも録音ができる自由さをお届けします。\n\n• コンプリケーションを一度タップすると録音開始します。\n• 背景で目立たずに録音。\n• 録音時間は無制限。\n• 録音はiPhoneに自動的に転送され、iCloudと同期されます。\n• 内蔵スピーカーかAirPodsで最近の録音を聴くことが可能。\n• Digital Crownで音量調整。\n• 下方向にスワイプすると録音を一時停止できます。\n• VoiceOver機能、モーション抑制機能、特大サイズのコンプリケーションに対応したアクセシビリティ上のサポート。\n\n重要事項：\n• Just Press Recordは、他のアプリからの通話や音声を録音しません。\n• 転写には高質でノイズのないオーディオ信号が必要です。  雑音の多い環境での録音を避け、マイクを音源近くに設定するようにしてください。\n• Just Press Recordによって実装されたURLスキームは、弊社のよくある質問（FAQ）ページで参照できます。",
+      "userRatingCountForCurrentVersion": 205,
       "averageUserRatingForCurrentVersion": 3.52195,
       "sellerUrl": "https://www.openplanetsoftware.com/just-press-record",
       "languageCodesISO2A": [
@@ -382,38 +409,13 @@
       ],
       "fileSizeBytes": "7915520",
       "formattedPrice": "¥1,100",
-      "userRatingCountForCurrentVersion": 205,
       "trackContentRating": "4+",
-      "genres": [
-        "ユーティリティ",
-        "仕事効率化"
-      ],
-      "artistId": 307887935,
-      "artistName": "Open Planet Software",
-      "releaseDate": "2015-09-21T19:29:39Z",
-      "minimumOsVersion": "18.6",
-      "sellerName": "Open Planet Software Limited",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 1033342465,
-      "trackName": "Just Press Record",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseNotes": "この更新にはバグ対策および機能改善が含まれています。\n\nJust Press Recordがレビューをお願いするためにユーザーの邪魔をすることは決してありません。中断されたくないのは誰でも同じですから。 しかし、App Storeでの評価やレビューは重要ですので、Just Press Recordをお楽しみいただけ、少しだけお時間をいただけるようでしたら、ぜひApp Storeに評価とレビューをいただければ幸いです。 よろしくお願いします！",
-      "version": "51.3",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "Just Press Recordは究極のオーディオ録音ツールで、ワンタップの録音機能の他、音声転写およびiCloudを使ったあらゆるデバイスの同期を提供します。 オーディオや音声転写をアプリ内で編集することができる他、Siri を使って完全にハンズフリーで新しい録音を開始することもできます！\n\n子供が発する最初の言葉や大事な会合、思いついたアイデアなど、人生は忘れがたい瞬間の積み重ねです。 これらの瞬間を、iPhoneやiPad、Mac、あるいは究極の簡便さを追求する場合はApple Watchを使って簡単に捉えましょう。\n\n録音、記録\n• ワンタップで録音を開始、停止、一時停止、再開。\n• ショートカット、Siri、3D TouchクィックアクションまたはURLスキームを使って、ウィジェットから録音を開始・停止。\n• 録音時間は無制限。\n• 背景で目立たずに録音。\n• 内蔵マイク、AirPodsまたは外付けマイクからの録音を選択。\n• Apple Watchだけを使って録音し、後で同期。\n\n再生\n• 再生中に順方向または逆方向にシーク。\n• 再生速度が調整可能。\n\n転写\n• スピーチを検索可能な文字に変換。\n• デバイスの言語設定とは無関係に、30以上の言語に対応。\n• テキストのハイライト表示とオーディオの再生の同期。\n• 句読点コマンド機能により、録音しながらテキストをフォーマット。\n\n編集\n• オーディオ - 波形ビューでオーディオを可視化して、不要な部分をカットできます。\n• テキスト - 転写を訂正したり、新たにテキストを追加することが可能。\n\n共有\n• 音声やテキストを他のアプリと共有。\n• ビデオクリップでソーシャルメディアと簡単に共有。\n• USB ケーブルで Mac や PC の iTunes に共有。\n• 転写のハードコピーを印刷。\n• 他のアプリの音声ファイルを Just Press Record に共有。 \n\n整理\n• 最近の録音を表示したり、日付や時間別にライブラリを参照。\n• ファイル名や転写のコンテンツにより検索。\n• Apple Watchで作成された録音へ簡単にアクセスできる専用タブ。\n• 録音データの名前を変更。\n• iPadではSlide OverおよびSplit Viewに対応。\n• 未再生の録音数を表示するアプリのアイコンにバッジを追加します。\n\n保存\n• 録音をiCloud Driveかローカルデバイス上に保存する選択が可能。\n• iCloud Driveに保存された録音は、自動的に全てのデバイス間で同期されます。\n• ローカルに保存された録音データは、ファイルアプリとの連携と、iTunes の自動ファイル共有のメリットを享受できます。\n• 転写はオーディオファイル内に保存されます。\n\nプロオーディオ\n• 対応機器の内蔵マイクからのステレオ録音に対応。\n• Lightningポートを通して接続された高質の外付けマイクに対応。\n• 選り優れた録音経験を提供するカスタマイズ可能なオーディオ設定。\n• WAV、AIF、標準iTunes M4A (ACC) を含むファイルタイプに対応。\n• 96kHz / 24-bitまで可能な高質オーディオ。\n\nアクセシビリティ\n• アプリ全体でVoiceOverに対応。\n• Magic Tapジェスチャで録音を開始／停止。\n\nAPPLE WATCH\nJust Press RecordにはApple Watch向けのアプリが含まれており、iPhoneが手元にない時でもどこでも録音ができる自由さをお届けします。\n\n• コンプリケーションを一度タップすると録音開始します。\n• 背景で目立たずに録音。\n• 録音時間は無制限。\n• 録音はiPhoneに自動的に転送され、iCloudと同期されます。\n• 内蔵スピーカーかAirPodsで最近の録音を聴くことが可能。\n• Digital Crownで音量調整。\n• 下方向にスワイプすると録音を一時停止できます。\n• VoiceOver機能、モーション抑制機能、特大サイズのコンプリケーションに対応したアクセシビリティ上のサポート。\n\n重要事項：\n• Just Press Recordは、他のアプリからの通話や音声を録音しません。\n• 転写には高質でノイズのないオーディオ信号が必要です。  雑音の多い環境での録音を避け、マイクを音源近くに設定するようにしてください。\n• Just Press Recordによって実装されたURLスキームは、弊社のよくある質問（FAQ）ページで参照できます。",
-      "bundleId": "com.openplanetsoftware.Just-Press-Record-for-iOS",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 3.52195,
-      "trackCensoredName": "Just Press Record",
-      "trackViewUrl": "https://apps.apple.com/jp/app/just-press-record/id1033342465?uo=4",
-      "currentVersionReleaseDate": "2026-09-11T19:46:06Z",
       "price": 1100,
+      "minimumOsVersion": "18.6",
       "userRatingCount": 205,
       "country": "JPN"
     },

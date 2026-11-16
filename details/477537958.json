@@ -217,13 +217,14 @@
       "userRatingCount": 486346
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -354,9 +355,10 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/06/8d/d3068d1f-42a5-8cc1-bbe0-0758fb9d01de/M365FY26_C2_OneDrive_AppStoreHeroCards_iOS_1_886x1920_copy.png/320x480bb.jpg",
@@ -376,35 +378,32 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/01/fe/3b01fe63-5660-9423-76fa-43380bd2b6b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "This version of OneDrive supports iOS/iPadOS versions 26 or newer",
+      "averageUserRating": 4.70224,
       "trackCensoredName": "Microsoft OneDrive",
       "trackViewUrl": "https://apps.apple.com/us/app/microsoft-onedrive/id477537958?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.70231,
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
+      "price": 0,
       "genres": [
         "Productivity",
         "Photo & Video"
       ],
-      "price": 0,
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "releaseDate": "2011-12-13T17:02:43Z",
+      "trackName": "Microsoft OneDrive",
+      "trackId": 477537958,
+      "minimumOsVersion": "26.0",
       "genreIds": [
         "6007",
         "6008"
       ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Microsoft Corporation",
-      "releaseDate": "2011-12-13T17:02:43Z",
-      "minimumOsVersion": "26.0",
-      "trackId": 477537958,
-      "trackName": "Microsoft OneDrive",
-      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-02T19:50:20Z",
+      "releaseNotes": "This version of OneDrive supports iOS/iPadOS versions 26 or newer",
       "version": "26.1.4",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Microsoft OneDrive keeps your photos and files backed up, protected, synced, and accessible on all your devices. The OneDrive app lets you view and share OneDrive files, documents, photos, and videos with friends and family. You can use the app to automatically back up your phone's photos and videos. Start with 5 GB of free cloud storage or upgrade to a Microsoft 365 subscription to get 1 TB of storage.\n\nMicrosoft OneDrive offers the following features:\n\nBack up photos and videos\n• Automatic photo and video backup when you turn on Camera Upload\n• Find photos easily thanks to automatic tagging\n• View photos on your phone, computer, and online\n\nFile sharing and management\n• Share docs, photos, videos, and albums with friends and family\n• Get notifications when a shared document is edited\n• Set password-protected or expiring sharing links*\n• Access entire folders on the app without being online*\n\nScan\n• Scan documents, business cards, receipts, whiteboards, and more\n• Mark up, sign, and send docs right from the OneDrive mobile app\n\nSearch\n• Search photos by what's in them (i.e. beach, snow, etc.)\n• Search docs by name or content\n\nSecurity\n• Personal Vault lets you protect your important files with identity verification\n• Restore documents with version history on all files\n• Ransomware detection and recovery*\n\nWorks with Microsoft Word, Excel, PowerPoint, OneNote, Outlook\n•  Back up, view, and save your Office documents.\n•  Use Microsoft Office apps to edit and collaborate in real time on Word, Excel, PowerPoint, and OneNote files stored in OneDrive.\n\nUpgrade to a Microsoft 365 subscription\nWith a Microsoft 365 Personal subscription you get 1 TB of storage with Personal, or 2 TB of shared storage for up to 6 people with Family, OneDrive premium features, and access to all features in Word, Excel, PowerPoint, Outlook, and OneNote on iPad, iPhone, and iPod touch, and you can install Word, Excel, PowerPoint, and Outlook on PCs or Macs.\n \nTo make an in-app purchase of a Microsoft 365 Personal or Family subscription: open the app, tap the Me tab, then tap your storage or the diamond icon.\nSubscriptions begin at $6.99 a month in the US, and can vary by region. Microsoft 365 subscriptions and OneDrive standalone subscriptions purchased from the app will be charged to your iTunes account and will automatically renuew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand.\n\nTo manage your subscriptions or to disable auto-renewal, after purchase, go to your iTunes account settings. A subscription cannot be cancelled or refunded during the active subscription period.\n \nUsing this OneDrive app for work or school\nFor you to sign into your work or school account on OneDrive, your organization needs to have a qualifying OneDrive, SharePoint Online or Microsoft 365 business subscription plan.\n\nPrivacy\nThis app is provided by Microsoft. Data provided through the use of this store and this app may be accessible to Microsoft and transferred to, stored, and processed in the United States or any other country where Microsoft or its affiliates maintain facilities.\n \nPrivacy Policy: https://go.microsoft.com/fwlink/?LinkID=507539.\nTerms of Use: https://go.microsoft.com/fwlink/p/?LinkID=246338.\nConsumer Health Data Privacy Policy: https://go.microsoft.com/fwlink/?linkid=2259814.\n\n*Requires Microsoft 365 Personal or Family subscription",
+      "bundleId": "com.microsoft.skydrive",
       "languageCodesISO2A": [
         "AR",
         "CA",
@@ -441,12 +440,15 @@
         "VI"
       ],
       "fileSizeBytes": "371883008",
-      "averageUserRatingForCurrentVersion": 4.70231,
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 488223,
+      "userRatingCountForCurrentVersion": 488273,
       "trackContentRating": "4+",
-      "bundleId": "com.microsoft.skydrive",
-      "userRatingCount": 488223,
+      "averageUserRatingForCurrentVersion": 4.70224,
+      "sellerName": "Microsoft Corporation",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 488273,
       "country": "USA"
     }
   ]

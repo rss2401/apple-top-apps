@@ -1,8 +1,8 @@
 {
   "id": "6514312894",
-  "name": "FlickReels - Récit et Drama IA",
+  "name": "FlickReels - AI Story & Drama",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:26:21.143Z",
+  "fetchedAt": "2026-11-16T10:24:16.296Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -64,14 +64,14 @@
       "currency": "GBP",
       "items": [
         {
-          "name": "pay $2.99",
-          "price": "£2.99",
-          "amount": 2.99
-        },
-        {
           "name": "Weekly Membership",
           "price": "£12.99",
           "amount": 12.99
+        },
+        {
+          "name": "pay $2.99",
+          "price": "£2.99",
+          "amount": 2.99
         },
         {
           "name": "Weekly Membership",
@@ -114,7 +114,7 @@
           "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:26:21.137Z"
+      "fetchedAt": "2026-11-16T10:24:16.296Z"
     }
   }
 }

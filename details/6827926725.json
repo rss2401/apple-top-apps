@@ -2,21 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "features": [
-        "iosUniversal"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/e9/ef/d0e9ef68-9cdc-907e-2e65-dd749b9b1c46/Entrance_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/02/7a/b8027a79-3c06-c7e0-79db-60985408df3f/Hub_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/12/cc/2e12cceb-d6d5-24fc-6546-9d684d2c1e77/Challenge_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/70/304a7004-3f73-ca24-88ce-32bdae7491d0/Preferences_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4e/c0/d34ec02a-c74b-2372-9316-f1a1e0d83afe/Quote_share_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/2e/68/ca2e6865-7979-f04d-a76c-5ef6c15dc4f9/Quotes_iPad.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/a0/3c/b9a03cde-493b-c378-3037-668be76eeb2d/Shelves_iPad.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -146,14 +134,20 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/stephen-james-cunningham/id6827926937?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/50/78/985078eb-d366-f03e-1797-6329cc880dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/50/78/985078eb-d366-f03e-1797-6329cc880dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/50/78/985078eb-d366-f03e-1797-6329cc880dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/50/78/985078eb-d366-f03e-1797-6329cc880dc4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/93/cd/c093cdce-2d30-904c-303a-7a529cd36961/Stats_iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/d5/7b/a4d57bdf-7344-ecd5-a073-eb90cf9a2d2d/Challenge_iPhone.png/320x480bb.jpg",
@@ -163,42 +157,51 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/ab/16/12ab162b-b8b7-a2ab-caf2-fb8b2baf9817/Quotes_iPhone.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/e3/86/9de38649-199b-cb47-ca61-6fce3bba4b66/Hub_iPhone.png/320x480bb.jpg"
       ],
-      "bundleId": "com.scunningham.bindings",
-      "genres": [
-        "Books"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/e9/ef/d0e9ef68-9cdc-907e-2e65-dd749b9b1c46/Entrance_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/02/7a/b8027a79-3c06-c7e0-79db-60985408df3f/Hub_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/12/cc/2e12cceb-d6d5-24fc-6546-9d684d2c1e77/Challenge_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/4a/70/304a7004-3f73-ca24-88ce-32bdae7491d0/Preferences_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/4e/c0/d34ec02a-c74b-2372-9316-f1a1e0d83afe/Quote_share_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/2e/68/ca2e6865-7979-f04d-a76c-5ef6c15dc4f9/Quotes_iPad.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/a0/3c/b9a03cde-493b-c378-3037-668be76eeb2d/Shelves_iPad.png/360x480bb.jpg"
       ],
       "artistId": 6827926937,
       "artistName": "STEPHEN JAMES CUNNINGHAM",
-      "price": 1.99,
-      "trackId": 6827926725,
-      "trackName": "Bindings",
-      "releaseDate": "2026-11-06T08:00:00Z",
-      "minimumOsVersion": "26.0",
-      "genreIds": [
-        "6018"
+      "genres": [
+        "Books"
       ],
+      "price": 1.99,
+      "trackName": "Bindings",
+      "trackId": 6827926725,
+      "bundleId": "com.scunningham.bindings",
       "primaryGenreName": "Book",
       "primaryGenreId": 6018,
       "sellerName": "STEPHEN JAMES CUNNINGHAM",
+      "minimumOsVersion": "26.0",
+      "releaseDate": "2026-11-06T08:00:00Z",
+      "genreIds": [
+        "6018"
+      ],
       "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-11-06T09:41:22Z",
       "version": "1.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Bindings is a quiet, personal library for people who actually read.\n\nNo social feed. No algorithm. No pressure to perform your reading for anyone else. Just a clean, warm place to track what you're reading, what you've finished, and the lines worth remembering.\n\nTRACK YOUR LIBRARY\nAdd books by scanning the barcode (iPhone and iPad), by ISBN lookup, or by hand. Each book keeps its cover, series position, format (physical, ebook or audiobook) and status: Pending, Reading, Finished or DNF. Rate in half stars, jot private notes, and mark one book \"up next\" so your to-be-read pile has an order.\n\nBROWSE YOUR WAY\nShelves group your library by genre, author, series or year, or by your own tags like \"Book Club\" or \"Lent Out\". Each has its own colour, so your collection looks like something you'd want to browse.\n\nSET A PACE, NOT A GUILT TRIP\nA yearly reading challenge tracks progress against your own goal, with honest, encouraging pace feedback.\n\nSAVE THE LINES THAT STUCK\nCapture quotes against the book they came from, organised automatically and editable any time.\n\nSHARE THE BITS WORTH SHARING\nTurn your yearly stats, challenge progress or a favourite quote into a clean card. Share it or save it, your call.\n\nONE LIBRARY, EVERY DEVICE\nBindings syncs through iCloud across Mac, iPhone and iPad. Back up and restore your whole library any time, or import your existing list from a CSV file.\n\nA reading tracker that respects your time, not one more feed to maintain.",
-      "averageUserRating": 0,
       "trackCensoredName": "Bindings",
+      "trackViewUrl": "https://apps.apple.com/gb/app/bindings/id6827926725?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 5,
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "3785728",
       "formattedPrice": "£1.99",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 0,
+      "userRatingCountForCurrentVersion": 4,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/gb/app/bindings/id6827926725?uo=4",
-      "userRatingCount": 0,
+      "userRatingCount": 4,
       "country": "GBR"
     }
   ]

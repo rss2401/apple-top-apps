@@ -211,6 +211,7 @@
       "userRatingCount": 1138512
     },
     {
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/c3/66/06c3668d-c697-9693-bd20-21c1bac97441/iPhone6_Plus-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/18/90/2418904f-7074-aabc-8b43-bbf665ffdaae/iPhone6_Plus-2.png/392x696bb.png",
@@ -236,12 +237,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/1d/d4/3b1dd4b4-576e-4680-c34a-ff02e941cf04/30e29165-3df6-4c72-bcb0-fda0d613bd15_iPadPro.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/9f/48/af9f485f-b1bd-fbe3-b8d9-b565bf037838/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/9f/48/af9f485f-b1bd-fbe3-b8d9-b565bf037838/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/9f/48/af9f485f-b1bd-fbe3-b8d9-b565bf037838/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/alipay-hangzhou-technology-co-ltd/id333206292?uo=4",
-      "advisories": [],
-      "isGameCenterEnabled": false,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/06/88/f4068821-cf5e-31bb-ac2b-1f49f8056ba7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -373,54 +369,60 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 4.1296,
-      "sellerUrl": "http://qianbao.alipay.com/",
-      "averageUserRating": 4.1296,
-      "trackCensoredName": "支付宝-你的AI生活伙伴",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/alipay-hangzhou-technology-co-ltd/id333206292?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/06/88/f4068821-cf5e-31bb-ac2b-1f49f8056ba7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/06/88/f4068821-cf5e-31bb-ac2b-1f49f8056ba7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "languageCodesISO2A": [
         "EN",
         "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "506258432",
+      "fileSizeBytes": "513209344",
       "formattedPrice": "免费",
-      "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1147335,
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E4%BC%99%E4%BC%B4/id333206289?uo=4",
+      "userRatingCountForCurrentVersion": 1147884,
       "trackContentRating": "4+",
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "sellerName": "Alipay (Hangzhou) Technology Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T02:39:25Z",
+      "sellerUrl": "http://qianbao.alipay.com/",
+      "averageUserRatingForCurrentVersion": 4.12944,
+      "artistId": 333206292,
+      "artistName": "Alipay (Hangzhou) Technology Co., Ltd.",
+      "genres": [
+        "生活",
+        "财务"
+      ],
       "price": 0,
-      "bundleId": "com.alipay.iphoneclient",
+      "trackId": 333206289,
+      "trackName": "支付宝-你的AI生活伙伴",
+      "releaseDate": "2009-10-15T23:00:27Z",
       "releaseNotes": "支付宝最新版来啦！适配 iPhone Duo，大屏体验更丝滑；AI生活伙伴-蚂蚁阿宝上线，搜「蚂蚁阿宝」即可体验，快来更新吧！",
       "minimumOsVersion": "15.0",
       "genreIds": [
         "6012",
         "6015"
       ],
-      "releaseDate": "2009-10-15T23:00:27Z",
-      "trackId": 333206289,
-      "trackName": "支付宝-你的AI生活伙伴",
-      "version": "12.12.50",
+      "primaryGenreName": "Lifestyle",
+      "primaryGenreId": 6012,
+      "sellerName": "Alipay (Hangzhou) Technology Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-16T06:30:09Z",
+      "version": "12.12.56",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "蚂蚁集团旗下支付宝，是全球领先的数字支付开放平台与服务业数字化开放平台，已经服务10亿用户。我们面向消费者、商家提供便捷、安全的数字支付服务，面向合作伙伴持续开放技术、产品，助力实现数字化升级。\n\n目前，商家、机构合作伙伴通过支付宝APP为消费者提供政务办事、扫码点单、生活缴费等超过1000种生活服务。",
-      "genres": [
-        "生活",
-        "财务"
-      ],
-      "artistId": 333206292,
-      "artistName": "Alipay (Hangzhou) Technology Co., Ltd.",
-      "userRatingCount": 1147335,
+      "trackCensoredName": "支付宝-你的AI生活伙伴",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%94%AF%E4%BB%98%E5%AE%9D-%E4%BD%A0%E7%9A%84ai%E7%94%9F%E6%B4%BB%E4%BC%99%E4%BC%B4/id333206289?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "com.alipay.iphoneclient",
+      "averageUserRating": 4.12944,
+      "userRatingCount": 1147884,
       "country": "CHN"
     }
   ]

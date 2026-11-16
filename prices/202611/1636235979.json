@@ -2,7 +2,7 @@
   "id": "1636235979",
   "name": "ReelShort - Stream Drama & TV",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:19:10.287Z",
+  "fetchedAt": "2026-11-16T10:15:57.970Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:19:04.742Z"
+      "fetchedAt": "2026-11-16T10:15:52.329Z"
     },
     "fr": {
       "currency": "EUR",
@@ -99,6 +99,11 @@
           "amount": 22.99
         },
         {
+          "name": "Weekly Subscription",
+          "price": "19,99 €",
+          "amount": 19.99
+        },
+        {
           "name": "Subscription",
           "price": "6,99 €",
           "amount": 6.99
@@ -107,14 +112,9 @@
           "name": "One-time Purchase",
           "price": "5,99 €",
           "amount": 5.99
-        },
-        {
-          "name": "Weekly Subscription",
-          "price": "19,99 €",
-          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:19:06.131Z"
+      "fetchedAt": "2026-11-16T10:15:53.979Z"
     },
     "gb": {
       "currency": "GBP",
@@ -160,17 +160,17 @@
           "amount": 0.99
         },
         {
-          "name": "Subscription",
-          "price": "£14.99",
-          "amount": 14.99
-        },
-        {
           "name": "Weekly Subscription",
           "price": "£22.99",
           "amount": 22.99
+        },
+        {
+          "name": "Subscription",
+          "price": "£14.99",
+          "amount": 14.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:19:07.591Z"
+      "fetchedAt": "2026-11-16T10:15:55.378Z"
     },
     "jp": {
       "currency": "JPY",
@@ -221,12 +221,12 @@
           "amount": 2500
         },
         {
-          "name": "Weekly Subscription",
-          "price": "¥2,500",
-          "amount": 2500
+          "name": "One-time Purchase",
+          "price": "¥800",
+          "amount": 800
         }
       ],
-      "fetchedAt": "2026-11-09T10:19:09.096Z"
+      "fetchedAt": "2026-11-16T10:15:56.765Z"
     },
     "us": {
       "currency": "USD",
@@ -257,14 +257,14 @@
           "amount": 19.99
         },
         {
-          "name": "Subscription",
-          "price": "$19.99",
-          "amount": 19.99
-        },
-        {
           "name": "One-time Purchase",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Subscription",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "One-time Purchase",
@@ -282,7 +282,7 @@
           "amount": 24.99
         }
       ],
-      "fetchedAt": "2026-11-09T10:19:10.287Z"
+      "fetchedAt": "2026-11-16T10:15:57.970Z"
     }
   }
 }

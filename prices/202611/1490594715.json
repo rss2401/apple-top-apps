@@ -1,13 +1,18 @@
 {
   "id": "1490594715",
-  "name": "Shroomify: Mushroom Identifier",
+  "name": "Shroomify : ID champignons",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:27:28.593Z",
+  "fetchedAt": "2026-11-16T10:23:31.203Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-16T10:23:29.732Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-09T10:27:28.593Z"
+      "fetchedAt": "2026-11-16T10:23:31.203Z"
     }
   }
 }
