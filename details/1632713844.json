@@ -184,10 +184,10 @@
       "userRatingCount": 404166
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/kalshiex-llc/id1593463046?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/63/ac2263c8-7599-055b-b7be-d0998468e4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/63/ac2263c8-7599-055b-b7be-d0998468e4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cf/64/4ccf6483-19e1-b698-f42d-1440d38cd0be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cf/64/4ccf6483-19e1-b698-f42d-1440d38cd0be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,59 +324,66 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [],
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ba/37/4aba3719-f19d-2ed7-b028-06441336991e/01_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/0a/14/b00a14f3-1ab3-fa0e-3e48-c8742d8bd1e1/02_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/9d/f9/a69df9e9-4d2c-2111-1311-5366b12ec105/03_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/a3/4a/7ba34a23-cba7-eb09-e991-a8b615dd9e8c/04_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/fe/56/64fe56c1-b94d-1e4a-6e69-e37f805824b4/05_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/65/71/146571c3-5366-4dd0-6be7-f9724194c551/01_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/62/70/2862707a-9cdb-d397-7e90-9892a59096a4/02_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/2b/01/d82b0100-954d-9e9d-b11a-e9b4c99bcbaf/03_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/a0/eb/c9a0eb64-5d99-925a-b26d-0ebf26c810f0/04_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/1d/58/8e1d5809-74ef-539b-27ef-7eabe97611ef/05_ASO_Basketball_1206_U00d72622_dark.jpg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/30/48/7e3048f6-563b-3143-9a02-d71f1cdc00d8/ipad-13-01-trade-nba-events.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/37/1b/58371b67-bd8d-032f-6d28-3d6eb5a79c55/ipad-13-02-follow-markets.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/40/a7/0c40a725-cdf7-60b5-298f-49776dded87b/ipad-13-03-take-a-position.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/da/4c/3ada4c84-ef5e-b6f2-ccba-5c852ede198b/ipad-13-04-stay-ahead.png/360x480bb.jpg"
+      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/63/ac2263c8-7599-055b-b7be-d0998468e4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "releaseNotes": "Kalshi is America's #1 prediction market platform. Get in on the action by trading on real-world events like elections, sports, crypto, and weather. This update includes bug fixes and performance upgrades.",
-      "price": 0,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cf/64/4ccf6483-19e1-b698-f42d-1440d38cd0be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.81992,
       "trackCensoredName": "Kalshi: Trade Sports & Events",
       "trackViewUrl": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844?uo=4",
       "contentAdvisoryRating": "17+",
-      "averageUserRating": 4.81937,
+      "currentVersionReleaseDate": "2026-11-23T07:00:58Z",
       "artistId": 1593463046,
       "artistName": "KalshiEX LLC",
+      "genres": [
+        "Finance",
+        "Sports"
+      ],
+      "price": 0,
+      "releaseNotes": "Kalshi is America's #1 prediction market platform. Get in on the action by trading on real-world events like elections, sports, crypto, and weather. This update includes bug fixes and performance upgrades.",
       "bundleId": "com.kalshi.mobile",
-      "primaryGenreName": "Finance",
-      "primaryGenreId": 6015,
-      "minimumOsVersion": "15.0",
-      "sellerName": "KALSHI INC.",
-      "releaseDate": "2022-09-16T07:00:00Z",
       "trackId": 1632713844,
       "trackName": "Kalshi: Trade Sports & Events",
-      "currentVersionReleaseDate": "2026-11-14T12:03:12Z",
-      "version": "9.10.38",
+      "releaseDate": "2022-09-16T07:00:00Z",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6015",
+        "6004"
+      ],
+      "primaryGenreName": "Finance",
+      "primaryGenreId": 6015,
+      "sellerName": "KALSHI INC.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "9.10.41",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Kalshi is the largest federally regulated prediction market app in the U.S., where you can make money by predicting real-world events, including football, basketball, hockey, and other sports, plus crypto prices. Perfect for sports, crypto, and event trading, forecasting, futures-style markets, and real-world predictions.\nIt’s like trading stocks – but instead, you trade on events you understand. Predict whether an event will happen or not, and earn money if you’re right.\nJoin 10M+ users trading thousands of prediction markets across finance, politics, weather, culture, sports, and more.\n\nFINANCIAL MARKETS\nDaily S&P 500, Dow, Nasdaq 100, Bitcoin, Gold, WTI oil, Company earnings\n\nECONOMIC MARKETS\nFed interest rates, Inflation (CPI), Jobs reports, GDP, Recession, Gas prices, Mortgage rates\n\nCLIMATE MARKETS\nDaily city temperatures, Hurricane strength, Tornado numbers\n\nCULTURE MARKETS\nBillboard 100, Netflix Top 10, Oscars, Grammys, #1 Hits\n\nHOW KALSHI WORKS\nKalshi is the largest federally regulated prediction exchange where you buy and sell contracts based on event outcomes. Contracts cost between 1¢ and 99¢ and can be sold anytime. At market close, each correct contract is worth $1.\n\nTRADE SPORTS\nKalshi lets you trade on real sports outcomes across football, basketball, hockey, soccer, MMA, tennis, golf, and more. \nTrade pro and college sports with highly liquid prediction markets. Trade live as games unfold, or combine multiple outcomes into one trade with Combos.\nKalshi is a Preferred Prediction Market Exchange of the NBA, bringing official NBA data to basketball markets.\n\nHOW IS KALSHI REGULATED?\nKalshi is federally regulated as a Designated Contract Market (DCM) by the Commodity Futures Trading Commission (CFTC). Kalshi’s affiliate, Kalshi Klear LLC, is a CFTC-regulated clearinghouse that holds member funds and clears trades.\n\nTRADE PERPETUALS\nPerpetual futures, or perps, let you trade the price of an asset without owning it. Go long if you expect the price to rise, or short if you expect it to fall. Perps have no expiration date, so you choose when to close your position.\nOn Kalshi, you can trade perps on crypto (Bitcoin, Ethereum, Solana, XRP), metals (gold, silver, copper), oil, and U.S. stock indexes, in the same app as your prediction markets. Gold and silver perps trade 24/7.\n\nKALSHI VS. STOCKS\nEvent contracts are direct. You trade the outcome of an event, not the future stock price of a company. In stock trading, you can be right and still lose money due to market sentiment or news. Prediction markets remove that layer.\n\nKALSHI VS. OPTIONS\nEvent contracts are simpler. Options pricing depends on multiple complex factors. Kalshi contracts reflect straightforward event probabilities. No time decay. If the event odds stay the same, contract value stays stable.\n\nHOW MUCH MONEY DO I NEED TO START?\nOpen and maintain a Kalshi account for free. Prediction markets require less capital than traditional trading, making it easier to diversify without risking large amounts.\n\n18+ only. Restrictions and eligibility requirements apply. Trading event contracts and trading leveraged products, including perpetual futures, involves significant risk and is not appropriate for everyone. Please carefully consider if it is appropriate for you in light of your personal financial circumstances. Not representative of overall customer performance or success. Past results are not necessarily indicative of future performance. \nKalshi products are not available in all jurisdictions. See kalshi.com/regulatory for more information.\nAdditional perpetual contract offerings are subject to applicable regulatory review and approval, and availability may vary.\nLeverage amplifies both potential gains and potential losses, and losses can exceed the amount deposited. Leverage limits are determined by KalshiEX LLC or the FCM based on its own risk assessment and each customer's individual risk profile, and are subject to change.",
+      "averageUserRatingForCurrentVersion": 4.81992,
       "languageCodesISO2A": [
         "EN",
         "PT",
         "ES"
       ],
-      "fileSizeBytes": "137350144",
+      "fileSizeBytes": "141666304",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 696905,
+      "userRatingCountForCurrentVersion": 716429,
       "trackContentRating": "17+",
       "sellerUrl": "https://kalshi.com",
-      "averageUserRatingForCurrentVersion": 4.81937,
-      "genreIds": [
-        "6015",
-        "6004"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Finance",
-        "Sports"
-      ],
-      "userRatingCount": 696905,
+      "userRatingCount": 716429,
       "country": "USA"
     }
   ]

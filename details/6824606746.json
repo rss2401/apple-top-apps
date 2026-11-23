@@ -2,9 +2,13 @@
   "resultCount": 1,
   "results": [
     {
-      "artistViewUrl": "https://apps.apple.com/jp/developer/bitta-inc/id1674558256?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/e2/e3/1ae2e391-b10d-a3ae-cbca-877b1347374d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/e2/e3/1ae2e391-b10d-a3ae-cbca-877b1347374d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/20/f4/e820f411-ade9-f73d-de6c-77f6f4b1bb1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/fd/35/8afd3562-4817-064c-f990-42cd72f5db16/iphone69-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/71/f6/d971f6e1-6703-a997-17ee-1c4cbf002226/iphone69-2.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [],
       "isGameCenterEnabled": false,
       "features": [],
       "supportedDevices": [
@@ -143,29 +147,29 @@
       ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/fd/35/8afd3562-4817-064c-f990-42cd72f5db16/iphone69-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/71/f6/d971f6e1-6703-a997-17ee-1c4cbf002226/iphone69-2.png/320x480bb.jpg"
+      "artistViewUrl": "https://apps.apple.com/jp/developer/bitta-inc/id1674558256?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/20/f4/e820f411-ade9-f73d-de6c-77f6f4b1bb1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/20/f4/e820f411-ade9-f73d-de6c-77f6f4b1bb1a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.14917,
+      "languageCodesISO2A": [
+        "EN",
+        "JA"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/e2/e3/1ae2e391-b10d-a3ae-cbca-877b1347374d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "trackCensoredName": "FlickMe",
-      "trackViewUrl": "https://apps.apple.com/jp/app/flickme/id6824606746?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.13497,
-      "currentVersionReleaseDate": "2026-11-09T02:46:31Z",
+      "fileSizeBytes": "161754112",
+      "formattedPrice": "¥550",
+      "userRatingCountForCurrentVersion": 181,
+      "trackContentRating": "4+",
+      "artistId": 1674558256,
+      "artistName": "Bitta, Inc.",
       "genres": [
         "ユーティリティ",
         "仕事効率化"
       ],
       "price": 550,
-      "artistId": 1674558256,
-      "artistName": "Bitta, Inc.",
-      "bundleId": "com.jetdaizu.katate",
+      "releaseDate": "2026-10-20T07:00:00Z",
       "trackId": 6824606746,
       "trackName": "FlickMe",
-      "releaseNotes": "・キーボードの色を選べるようにしました。\n・打ち心地を調整できるようにしました。触覚・打鍵音の大きさ・フリックの感度を、1% ずつ変えられます。\n・持った手の側へキーボードを自動で寄せる「左右の自動切り替え」を、ベータ版として追加しました。「キーボードの設定」から使えます。\n・キーボードの文字の形（丸ゴシック・明朝など）を選べるようにしました。\n・打鍵音を新しくしました。キーごとに音階が鳴ります。\n・英語の音声入力に対応しました。英字のキーでマイクを押すと、英語で聞き取ります。\n・iPhone Duo で、ワンタッチで iPhone 純正のキーボードと同じ大きさにできるようにしました。もう一度押すと元の形に戻ります。\n・変換の精度を高め、動作を軽くしました。",
+      "releaseNotes": "・変換の精度を上げました。前の文に続く言葉や、「っ」や濁点の打ち忘れも正しく変換するようになりました。\n・思った通りに変換されなかったとき、アプリや予測変換欄から報告できるようになりました。\n・キーの横に並べる絵文字を選べるようになりました。\n・変換したい文字列を区切れるようになりました。\n・①〜⑩や“ ”などの記号が候補に出るようになりました。\n・「ん」「？」は、下へはらっても入力できるようになりました。\n・カスタマイズの画面を見やすくしました。\n・半角カナが候補に出るようになりました。",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6002",
@@ -175,21 +179,17 @@
       "primaryGenreId": 6002,
       "sellerName": "Bitta, Inc.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.2.1",
+      "currentVersionReleaseDate": "2026-11-20T03:35:37Z",
+      "version": "1.2.2",
       "wrapperType": "software",
       "currency": "JPY",
       "description": "FlickMe は、iPhone Duoで快適に文字を打つためのフリックキーボードです。\n\n新しい画面サイズならではのキーボードのサイズ、配置、モードに対応。\n好みに合わせて自由自在に変えられるので、さらに快適な入力を実現します。\n\n利用規約: https://app.notion.com/p/jetdaizu/3fe45a5c600c807b8666da99f84b5ad9",
-      "averageUserRatingForCurrentVersion": 4.13497,
-      "languageCodesISO2A": [
-        "EN",
-        "JA"
-      ],
-      "fileSizeBytes": "156269568",
-      "formattedPrice": "¥550",
-      "userRatingCountForCurrentVersion": 163,
-      "trackContentRating": "4+",
-      "releaseDate": "2026-10-20T07:00:00Z",
-      "userRatingCount": 163,
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.14917,
+      "trackCensoredName": "FlickMe",
+      "trackViewUrl": "https://apps.apple.com/jp/app/flickme/id6824606746?uo=4",
+      "bundleId": "com.jetdaizu.katate",
+      "userRatingCount": 181,
       "country": "JPN"
     }
   ]

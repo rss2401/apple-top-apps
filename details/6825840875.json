@@ -5,6 +5,24 @@
       "artistViewUrl": "https://apps.apple.com/fr/developer/julien-fabrice-pueyo/id6825840877?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/fe/5b1bfedc-d138-48fe-6cda-1ee604370c7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/fe/5b1bfedc-d138-48fe-6cda-1ee604370c7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/12/83/6d12835a-01f6-1a1b-432e-8940296de8a9/6-revision.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/19/8d/bc198d53-8792-b303-da10-fbe6d29fa5a3/5-glasgow.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/bf/05/b9bf05ad-4e1b-c1ba-6732-ee7aae41f0db/4-logigramme.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/aa/19/a7aa1971-2907-1d03-b56c-055544c42dab/3-fiche-garrot.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e5/c7/79e5c7aa-0585-9b9c-acb4-a0f9e05a7ab5/2-recherche.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/39/d5/d339d534-a675-e2d5-3b35-14347fedc4d1/1-accueil.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/8b/83/bb8b8307-95de-7f14-1023-c91b2699e6de/6-revision.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/56/95/5c56956e-7b23-fcb7-be3c-9022a84219dd/5-glasgow.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/52/c3/a452c3be-c441-924d-c53c-0a0f4e430c8d/4-logigramme.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/36/76/bd36760a-30a1-f9fb-4ff5-c36077698f6f/3-fiche-garrot.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b9/4f/edb94f28-96dc-624c-d876-cc43dcc874e7/2-recherche.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/a1/7f/b0a17f11-f091-359c-09a7-83d369cf7d6f/1-accueil.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/fe/5b1bfedc-d138-48fe-6cda-1ee604370c7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
@@ -147,62 +165,44 @@
         "Accès au Web non contrôlé."
       ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/12/83/6d12835a-01f6-1a1b-432e-8940296de8a9/6-revision.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/19/8d/bc198d53-8792-b303-da10-fbe6d29fa5a3/5-glasgow.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/bf/05/b9bf05ad-4e1b-c1ba-6732-ee7aae41f0db/4-logigramme.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/aa/19/a7aa1971-2907-1d03-b56c-055544c42dab/3-fiche-garrot.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/e5/c7/79e5c7aa-0585-9b9c-acb4-a0f9e05a7ab5/2-recherche.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/39/d5/d339d534-a675-e2d5-3b35-14347fedc4d1/1-accueil.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/8b/83/bb8b8307-95de-7f14-1023-c91b2699e6de/6-revision.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/56/95/5c56956e-7b23-fcb7-be3c-9022a84219dd/5-glasgow.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/52/c3/a452c3be-c441-924d-c53c-0a0f4e430c8d/4-logigramme.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/36/76/bd36760a-30a1-f9fb-4ff5-c36077698f6f/3-fiche-garrot.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/b9/4f/edb94f28-96dc-624c-d876-cc43dcc874e7/2-recherche.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/a1/7f/b0a17f11-f091-359c-09a7-83d369cf7d6f/1-accueil.png/360x480bb.jpg"
-      ],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/1b/fe/5b1bfedc-d138-48fe-6cda-1ee604370c7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "appletvScreenshotUrls": [],
-      "averageUserRating": 5,
       "trackCensoredName": "mémo secours",
       "trackViewUrl": "https://apps.apple.com/fr/app/m%C3%A9mo-secours/id6825840875?uo=4",
       "contentAdvisoryRating": "17+",
-      "releaseNotes": "Des images partout où elles aident :\n• 21 nouveaux schémas : libération des voies aériennes, pince C-E, canule, aspiration, pression artérielle, SpO2, glycémie, compression manuelle, hygiène des mains, retrait des gants, maintien de tête, collier cervical, retrait du casque, écharpe, thorax, accouchement, massage utérin, avalanche, milieu toxique, relevage, dégagement d’urgence.\n• Schémas existants redessinés et plus lisibles : bras ajoutés, vues de profil (claques dans le dos, compressions abdominales, DAE, PLS…).\n• ECG : placement des électrodes périphériques et précordiales.\n• Score de Wallace : la gravité de la brûlure s’affiche directement.\n• Affichage adapté aux petits et grands écrans.",
-      "genres": [
-        "Utilitaires"
-      ],
-      "artistName": "JULIEN FABRICE PUEYO",
-      "artistId": 6825840877,
-      "bundleId": "fr.mtbapp.memosecours",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "JULIEN FABRICE PUEYO",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "releaseDate": "2026-11-13T08:00:00Z",
-      "genreIds": [
-        "6002"
-      ],
-      "currentVersionReleaseDate": "2026-11-15T00:24:53Z",
-      "version": "1.1",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Réviser et personnaliser\n• Plus de 500 questions de QCM et cartes de révision, par thème\n• Un questionnaire « Chiffres clés » pour retenir toutes les valeurs à connaître\n• Vos erreurs regroupées dans « À revoir »\n• Favoris et notes personnelles sur chaque fiche",
+      "averageUserRating": 5,
       "languageCodesISO2A": [
         "EN",
         "FR"
       ],
       "fileSizeBytes": "2700288",
       "formattedPrice": "1,99 €",
-      "userRatingCountForCurrentVersion": 3,
+      "userRatingCountForCurrentVersion": 6,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 5,
-      "minimumOsVersion": "15.0",
+      "sellerName": "JULIEN FABRICE PUEYO",
+      "artistId": 6825840877,
+      "artistName": "JULIEN FABRICE PUEYO",
+      "genres": [
+        "Utilitaires"
+      ],
       "price": 1.99,
+      "genreIds": [
+        "6002"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "releaseNotes": "Des images partout où elles aident :\n• 21 nouveaux schémas : libération des voies aériennes, pince C-E, canule, aspiration, pression artérielle, SpO2, glycémie, compression manuelle, hygiène des mains, retrait des gants, maintien de tête, collier cervical, retrait du casque, écharpe, thorax, accouchement, massage utérin, avalanche, milieu toxique, relevage, dégagement d’urgence.\n• Schémas existants redessinés et plus lisibles : bras ajoutés, vues de profil (claques dans le dos, compressions abdominales, DAE, PLS…).\n• ECG : placement des électrodes périphériques et précordiales.\n• Score de Wallace : la gravité de la brûlure s’affiche directement.\n• Affichage adapté aux petits et grands écrans.",
       "trackId": 6825840875,
       "trackName": "mémo secours",
-      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2026-11-15T00:24:53Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "1.1",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Réviser et personnaliser\n• Plus de 500 questions de QCM et cartes de révision, par thème\n• Un questionnaire « Chiffres clés » pour retenir toutes les valeurs à connaître\n• Vos erreurs regroupées dans « À revoir »\n• Favoris et notes personnelles sur chaque fiche",
+      "bundleId": "fr.mtbapp.memosecours",
+      "minimumOsVersion": "15.0",
+      "userRatingCount": 6,
       "country": "FRA"
     }
   ]

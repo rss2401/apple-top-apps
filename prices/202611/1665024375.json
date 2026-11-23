@@ -2,7 +2,7 @@
   "id": "1665024375",
   "name": "Runway: AI视频图片生成",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:28:58.980Z",
+  "fetchedAt": "2026-11-23T11:27:14.779Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -28,14 +28,14 @@
           "amount": 228
         },
         {
+          "name": "3000 Generation  Credits",
+          "price": "¥198.00",
+          "amount": 198
+        },
+        {
           "name": "1500 Generation Credits",
           "price": "¥98.00",
           "amount": 98
-        },
-        {
-          "name": "Standard - Yearly",
-          "price": "¥998.00",
-          "amount": 998
         },
         {
           "name": "Unlimited - Monthly",
@@ -43,9 +43,9 @@
           "amount": 698
         },
         {
-          "name": "3000 Generation  Credits",
-          "price": "¥198.00",
-          "amount": 198
+          "name": "Standard - Yearly",
+          "price": "¥998.00",
+          "amount": 998
         },
         {
           "name": "4000 Credits",
@@ -53,12 +53,12 @@
           "amount": 298
         },
         {
-          "name": "7500 Credits",
-          "price": "¥498.00",
-          "amount": 498
+          "name": "10000 Generation Credits",
+          "price": "¥698.00",
+          "amount": 698
         }
       ],
-      "fetchedAt": "2026-11-16T10:28:57.340Z"
+      "fetchedAt": "2026-11-23T11:27:13.232Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 95
         }
       ],
-      "fetchedAt": "2026-11-16T10:28:58.980Z"
+      "fetchedAt": "2026-11-23T11:27:14.775Z"
     }
   }
 }

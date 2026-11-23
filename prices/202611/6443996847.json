@@ -2,23 +2,23 @@
   "id": "6443996847",
   "name": "Frame Crop – Art Mode",
   "month": "202611",
-  "fetchedAt": "2026-11-01T09:34:59.102Z",
+  "fetchedAt": "2026-11-23T11:10:17.519Z",
   "storefronts": {
     "us": {
       "currency": "USD",
       "items": [
         {
-          "name": "Yearly",
-          "price": "$49.99",
-          "amount": 49.99
-        },
-        {
           "name": "Frame Crop Pro Monthly",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "Yearly",
+          "price": "$49.99",
+          "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-11-01T09:34:59.102Z"
+      "fetchedAt": "2026-11-23T11:10:17.519Z"
     }
   }
 }

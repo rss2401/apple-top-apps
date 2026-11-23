@@ -2,7 +2,7 @@
   "id": "1241909999",
   "name": "WorkOutDoors",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:09:37.208Z",
+  "fetchedAt": "2026-11-23T11:10:38.664Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -33,7 +33,7 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:09:32.639Z"
+      "fetchedAt": "2026-11-23T11:10:32.789Z"
     },
     "fr": {
       "currency": "EUR",
@@ -44,14 +44,14 @@
           "amount": 1.99
         },
         {
-          "name": "Tip",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "Very Generous Tip",
           "price": "5,99 €",
           "amount": 5.99
+        },
+        {
+          "name": "Tip",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Massive Tip",
@@ -64,25 +64,20 @@
           "amount": 22.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:09:34.173Z"
+      "fetchedAt": "2026-11-23T11:10:34.192Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [
-        {
-          "name": "Generous Tip",
-          "price": "£1.99",
-          "amount": 1.99
-        },
         {
           "name": "Very Generous Tip",
           "price": "£4.99",
           "amount": 4.99
         },
         {
-          "name": "Tip",
-          "price": "£0.99",
-          "amount": 0.99
+          "name": "Generous Tip",
+          "price": "£1.99",
+          "amount": 1.99
         },
         {
           "name": "Massive Tip",
@@ -90,12 +85,48 @@
           "amount": 9.99
         },
         {
+          "name": "Tip",
+          "price": "£0.99",
+          "amount": 0.99
+        },
+        {
           "name": "Fanatical Tip",
           "price": "£19.99",
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:09:35.683Z"
+      "fetchedAt": "2026-11-23T11:10:35.751Z"
+    },
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Tip",
+          "price": "¥150",
+          "amount": 150
+        },
+        {
+          "name": "Generous Tip",
+          "price": "¥300",
+          "amount": 300
+        },
+        {
+          "name": "Massive Tip",
+          "price": "¥1,500",
+          "amount": 1500
+        },
+        {
+          "name": "Very Generous Tip",
+          "price": "¥800",
+          "amount": 800
+        },
+        {
+          "name": "Fanatical Tip",
+          "price": "¥3,000",
+          "amount": 3000
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:10:37.223Z"
     },
     "us": {
       "currency": "USD",
@@ -126,7 +157,7 @@
           "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:09:37.208Z"
+      "fetchedAt": "2026-11-23T11:10:38.660Z"
     }
   }
 }

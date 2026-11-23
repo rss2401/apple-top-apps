@@ -2,11 +2,16 @@
   "id": "6833608280",
   "name": "FarView 远迹",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:21:14.555Z",
+  "fetchedAt": "2026-11-23T11:21:53.636Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
+        {
+          "name": "一张明信片",
+          "price": "¥6.00",
+          "amount": 6
+        },
         {
           "name": "一张车票",
           "price": "¥68.00",
@@ -16,14 +21,9 @@
           "name": "一杯咖啡",
           "price": "¥18.00",
           "amount": 18
-        },
-        {
-          "name": "一张明信片",
-          "price": "¥6.00",
-          "amount": 6
         }
       ],
-      "fetchedAt": "2026-11-16T10:21:14.549Z"
+      "fetchedAt": "2026-11-23T11:21:53.635Z"
     }
   }
 }

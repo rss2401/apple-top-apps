@@ -2,7 +2,7 @@
   "id": "544007664",
   "name": "YouTube",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:07:00.595Z",
+  "fetchedAt": "2026-11-23T11:07:48.228Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 3.49
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:57.448Z"
+      "fetchedAt": "2026-11-23T11:07:43.230Z"
     },
     "fr": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 38.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:58.969Z"
+      "fetchedAt": "2026-11-23T11:07:44.585Z"
     },
     "gb": {
       "currency": "GBP",
@@ -150,14 +150,14 @@
           "amount": 1.99
         },
         {
-          "name": "Premium Lite",
-          "price": "£10.49",
-          "amount": 10.49
-        },
-        {
           "name": "YouTube Premium Family",
           "price": "£25.99",
           "amount": 25.99
+        },
+        {
+          "name": "Premium Lite",
+          "price": "£10.49",
+          "amount": 10.49
         },
         {
           "name": "Premium Lite",
@@ -170,7 +170,7 @@
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:07:00.479Z"
+      "fetchedAt": "2026-11-23T11:07:46.197Z"
     },
     "us": {
       "currency": "USD",
@@ -226,7 +226,7 @@
           "amount": 11.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:07:00.595Z"
+      "fetchedAt": "2026-11-23T11:07:48.221Z"
     }
   }
 }

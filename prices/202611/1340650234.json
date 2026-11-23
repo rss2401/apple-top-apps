@@ -2,8 +2,39 @@
   "id": "1340650234",
   "name": "Paramount+",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:20:29.804Z",
+  "fetchedAt": "2026-11-23T11:20:52.198Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Standard Mensuel",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "Premium Mensuel",
+          "price": "10,99 €",
+          "amount": 10.99
+        },
+        {
+          "name": "Standard Annuel",
+          "price": "79,99 €",
+          "amount": 79.99
+        },
+        {
+          "name": "Premium Annuel",
+          "price": "97,99 €",
+          "amount": 97.99
+        },
+        {
+          "name": "Paramount+ annual",
+          "price": "79,99 €",
+          "amount": 79.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:20:50.664Z"
+    },
     "gb": {
       "currency": "GBP",
       "items": [
@@ -28,14 +59,14 @@
           "amount": 88.99
         },
         {
-          "name": "Basic (with ads) Annual",
-          "price": "£52.99",
-          "amount": 52.99
-        },
-        {
           "name": "Premium Annual",
           "price": "£115.99",
           "amount": 115.99
+        },
+        {
+          "name": "Basic (with ads) Annual",
+          "price": "£52.99",
+          "amount": 52.99
         },
         {
           "name": "Paramount+ annual",
@@ -43,7 +74,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:20:29.804Z"
+      "fetchedAt": "2026-11-23T11:20:52.197Z"
     }
   }
 }

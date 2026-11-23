@@ -200,7 +200,6 @@
       "userRatingCount": 42227
     },
     {
-      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/1d/be/2a1dbe7f-6491-7ddd-8fd4-0177f88885a6/130-1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/e3/46/83e3462c-41e1-d939-678d-475a9126fb11/130-2.png/360x480bb.jpg",
@@ -227,6 +226,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/91/f6/4c91f66e-4f40-dcf4-dde3-a324454c3cb8/EN-69-9.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/33/b0/d633b0d1-113f-d93a-9426-eb562e115bef/EN-69-10.png/320x480bb.jpg"
       ],
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
@@ -370,7 +370,7 @@
       "artistViewUrl": "https://apps.apple.com/us/developer/forscore-llc/id797590287?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/74/4fd37470-6739-cbe7-297f-6942f39728da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/74/4fd37470-6739-cbe7-297f-6942f39728da/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Bug fixes and minor improvements",
+      "averageUserRatingForCurrentVersion": 4.80531,
       "sellerUrl": "https://forscore.co",
       "languageCodesISO2A": [
         "AR",
@@ -397,7 +397,7 @@
       ],
       "fileSizeBytes": "44118016",
       "formattedPrice": "$24.99",
-      "userRatingCountForCurrentVersion": 43654,
+      "userRatingCountForCurrentVersion": 43726,
       "trackContentRating": "4+",
       "artistId": 797590287,
       "artistName": "forScore LLC",
@@ -406,30 +406,30 @@
         "Books"
       ],
       "price": 24.99,
-      "bundleId": "com.mgsdevelopment.forscore",
-      "averageUserRatingForCurrentVersion": 4.80549,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2010-04-09T19:24:51Z",
+      "trackName": "forScore",
+      "trackId": 363738376,
+      "minimumOsVersion": "18.0",
       "genreIds": [
         "6011",
         "6018"
       ],
-      "releaseDate": "2010-04-09T19:24:51Z",
-      "minimumOsVersion": "18.0",
+      "sellerName": "forScore LLC",
       "primaryGenreName": "Music",
       "primaryGenreId": 6011,
-      "sellerName": "forScore LLC",
-      "trackId": 363738376,
-      "trackName": "forScore",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-27T15:20:35Z",
+      "releaseNotes": "Bug fixes and minor improvements",
       "version": "15.2.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Go paperless. Get organized. Download and play something new in seconds. With forScore for iOS, iPadOS, macOS and visionOS, your scores have never been better—it’s everything you can do with paper and so much more. As seen in Apple keynote addresses and retail stores worldwide!\n\nOn your music stand or on the go, it's the complete PDF sheet music reading experience that has wowed musicians all over the world for years:\n\nCONNECT\n• Copy PDFs from other apps like Safari and Mail and sync them to all of your devices with iCloud\n• Import scores from popular cloud storage services and content providers like Musicnotes.com\n• Share scores and setlists with colleagues, whether or not they use forScore\n\nORGANIZE\n• Add metadata to your scores for a perfectly browsable, instantly searchable library\n• Create smart bookmarks to manage longer files containing multiple parts or pieces\n• Group scores manually with Setlists to play through them from start to finish\n\nPLAY\n• View full pages in portrait orientation and crop them to better fit your device's screen\n• Turn your device sideways for bigger scrolling pages or view two pages side by side instead\n• Use Reflow on smaller screens to lay out systems of music end-to-end like a horizontal teleprompter\n\nREFINE\n• Annotate by drawing, typing text, or placing common symbols onto the page\n• Separate your annotations into layers and show or hide them at any time\n• Open scores and setlists in multiple windows or tabs to multitask with ease\n\nSIMPLIFY\n• Create links and buttons to handle repeats or perform common actions with a single tap\n• Rearrange and duplicate pages of a score to play without jumping back and forth\n• Connect your Bluetooth page turner for hands-free navigation\n\nEXTEND\n• Access integrated utilities like our metronome, pitch pipe, tuner, and piano keyboard\n• Link tracks to scores to loop regions, adjust pitch, and even use them to record and play back your page turns\n• Connect wirelessly to nearby devices and coordinate your page turns and program changes effortlessly\n\n\nThere's much more than those highlights, though, so be sure to visit forscore.co to learn all about forScore's incredible features and find out why so many musicians agree that forScore is simply the best!\n\n\nNote: forScore also offers an optional, annual auto-renewing subscription called forScore Pro that unlocks additional features and content (visit forScore.co/pro for complete details). forScore Pro is a 1-year subscription that renews automatically until canceled. Should you choose to subscribe, payment will be charged to your iTunes Account upon confirmation of purchase. Your subscription will then automatically renew unless canceled at least 24 hours before the end of the current period. You can manage your subscriptions in your iTunes Account Settings after purchase. Complete terms of service are available on our website at: forScore.co/terms-of-serviceGo paperless.",
-      "averageUserRating": 4.80549,
+      "averageUserRating": 4.80531,
       "trackCensoredName": "forScore",
       "trackViewUrl": "https://apps.apple.com/us/app/forscore/id363738376?uo=4",
       "contentAdvisoryRating": "4+",
-      "userRatingCount": 43654,
+      "bundleId": "com.mgsdevelopment.forscore",
+      "userRatingCount": 43726,
       "country": "USA"
     },
     {

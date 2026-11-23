@@ -1,0 +1,29 @@
+{
+  "id": "1084325249",
+  "name": "ShutterCount Mobile",
+  "month": "202611",
+  "fetchedAt": "2026-11-23T11:26:26.722Z",
+  "storefronts": {
+    "jp": {
+      "currency": "JPY",
+      "items": [
+        {
+          "name": "Plus Pack",
+          "price": "¥1,100",
+          "amount": 1100
+        },
+        {
+          "name": "Live View Pack",
+          "price": "¥800",
+          "amount": 800
+        },
+        {
+          "name": "Feature Level 6 to 7 Upgrade",
+          "price": "¥300",
+          "amount": 300
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:26:26.714Z"
+    }
+  }
+}

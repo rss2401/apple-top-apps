@@ -2,7 +2,7 @@
   "id": "6445905219",
   "name": "DramaBox - Stream Drama Shorts",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:11:36.622Z",
+  "fetchedAt": "2026-11-23T11:12:42.643Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -176,34 +176,29 @@
       "currency": "USD",
       "items": [
         {
-          "name": "Subscription Weekly",
-          "price": "$9.99",
-          "amount": 9.99
+          "name": "Membership",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
-          "name": "Monthly subscription",
-          "price": "$39.99",
-          "amount": 39.99
-        },
-        {
-          "name": "Special offer",
-          "price": "$9.99",
-          "amount": 9.99
-        },
-        {
-          "name": "Special offer",
+          "name": "Membership",
           "price": "$19.99",
           "amount": 19.99
         },
         {
           "name": "Special offer",
-          "price": "$39.99",
-          "amount": 39.99
+          "price": "$4.99",
+          "amount": 4.99
         },
         {
           "name": "Special offer",
-          "price": "$29.99",
-          "amount": 29.99
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Membership",
+          "price": "$17.99",
+          "amount": 17.99
         },
         {
           "name": "Membership",
@@ -212,21 +207,26 @@
         },
         {
           "name": "Membership",
-          "price": "$49.99",
-          "amount": 49.99
+          "price": "$19.99",
+          "amount": 19.99
+        },
+        {
+          "name": "Special offer",
+          "price": "$19.99",
+          "amount": 19.99
         },
         {
           "name": "Membership",
-          "price": "$99.99",
-          "amount": 99.99
+          "price": "$5.99",
+          "amount": 5.99
         },
         {
           "name": "Membership",
-          "price": "$9.99",
-          "amount": 9.99
+          "price": "$19.99",
+          "amount": 19.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:11:36.621Z"
+      "fetchedAt": "2026-11-23T11:12:42.642Z"
     }
   }
 }

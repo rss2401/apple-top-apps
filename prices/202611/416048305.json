@@ -2,13 +2,18 @@
   "id": "416048305",
   "name": "美图秀秀:视频/图片/Live人像精修工具",
   "month": "202611",
-  "fetchedAt": "2026-11-16T09:56:53.720Z",
+  "fetchedAt": "2026-11-23T10:58:10.233Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
         {
           "name": "连续包月",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "美图粉钻VIP-连续包月",
           "price": "¥15.00",
           "amount": 15
         },
@@ -38,11 +43,6 @@
           "amount": 15
         },
         {
-          "name": "美图粉钻VIP-连续包月",
-          "price": "¥15.00",
-          "amount": 15
-        },
-        {
           "name": "美图粉钻VIP-连续包年",
           "price": "¥128.00",
           "amount": 128
@@ -58,7 +58,7 @@
           "amount": 30
         }
       ],
-      "fetchedAt": "2026-11-16T09:56:53.720Z"
+      "fetchedAt": "2026-11-23T10:58:10.225Z"
     }
   }
 }

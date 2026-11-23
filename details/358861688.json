@@ -226,6 +226,9 @@
       "userRatingCount": 293730
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/amazon/id335187486?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/4c/6e/344c6e62-77e8-3046-a61a-17b15de2db20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/4c/6e/344c6e62-77e8-3046-a61a-17b15de2db20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/3f/3e/f63f3eb9-29c4-a505-3dce-6bdf0d79f22f/9a5d1358-8fc2-427d-af7b-27422c119e15_C1_UNIT1_FR_CUSTOM_1242x2208_STATIC_016370_R2_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/9c/ed/a49cedbc-5f37-be9c-aa82-6fddaaafc8ad/af3114a3-270f-4793-a520-122778b95b41_C2_UNIT1_FR_CUSTOM_1242x2208_STATIC_016370_R1_IOS_iPhone_5.5.png/392x696bb.png",
@@ -233,9 +236,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/a9/5c/28a95caf-5c29-d2ed-d36f-925fc16cf705/f094746b-ff36-4f4a-9da4-f6eb7f71248d_C4_UNIT1_FR_CUSTOM_1242x2208_STATIC_016370_R1_IOS_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/83/f9/4c83f907-4df8-2572-40ac-2d141fa07fcc/54fab906-1c7e-44c0-8ae2-07f179253af2_C5_UNIT1_FR_CUSTOM_1242x2208_STATIC_016370_R1_IOS_iPhone_5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/8d/9a/828d9a29-29a0-811d-8100-6deb3170537e/6a3c9850-a684-4a03-9591-721738fb8b7a_C6_UNIT1_FR_CUSTOM_1242x2208_STATIC_016370_R2_IOS_iPhone_5.5.png/392x696bb.png"
-      ],
-      "features": [
-        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/f2/15/01f2157e-3f22-3b35-7150-785a1d0c7054/b411cb26-5dd8-452a-af45-ddbc05c26bf1_1.png/360x480bb.jpg",
@@ -250,11 +250,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/4c/6e/344c6e62-77e8-3046-a61a-17b15de2db20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/amazon/id335187486?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/4c/6e/344c6e62-77e8-3046-a61a-17b15de2db20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/4c/6e/344c6e62-77e8-3046-a61a-17b15de2db20/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -389,6 +384,17 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.6826,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Amazon FR",
+      "trackViewUrl": "https://apps.apple.com/fr/app/amazon-fr/id358861688?uo=4",
+      "averageUserRatingForCurrentVersion": 4.6826,
+      "sellerUrl": "https://www.amazon.fr/app",
       "languageCodesISO2A": [
         "AR",
         "BN",
@@ -417,14 +423,10 @@
         "ZH",
         "TR"
       ],
-      "userRatingCountForCurrentVersion": 296141,
+      "fileSizeBytes": "248589312",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 296313,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.68281,
-      "sellerUrl": "https://www.amazon.fr/app",
-      "averageUserRating": 4.68281,
-      "trackCensoredName": "Amazon FR",
-      "trackViewUrl": "https://apps.apple.com/fr/app/amazon-fr/id358861688?uo=4",
-      "contentAdvisoryRating": "4+",
       "artistId": 335187486,
       "artistName": "Amazon",
       "genres": [
@@ -433,8 +435,6 @@
       ],
       "price": 0,
       "bundleId": "com.amazon.AmazonFR",
-      "trackName": "Amazon FR",
-      "trackId": 358861688,
       "releaseDate": "2010-03-09T21:47:13Z",
       "minimumOsVersion": "16.0",
       "genreIds": [
@@ -451,9 +451,9 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Complète\nRecherchez et achetez des produits, obtenez des informations détaillées, lisez des avis et faites votre choix parmi les millions de produits proposés par Amazon.fr ou amazon.com.be et par d'autres vendeurs.\n \nPratique\nConnectez-vous avec votre compte Amazon déjà existant pour accéder à votre panier et à vos options de paiement et de livraison. Pas besoin de créer de nouveau compte pour gérer vos paramètres de commande 1-Click et vos listes d'envie, suivre vos commandes et utiliser vos avantages Premium/ Prime. Faites vos achats aussi facilement que sur Internet.\n \nRapide\nComparez les prix et vérifiez la disponibilité d'un produit instantanément en scannant un code-barres, en prenant une photo ou en saisissant votre recherche. Les utilisateurs de l’Apple Watch peuvent à présent utiliser la reconnaissance vocale pour rechercher des produits, acheter en 1-Click et ajouter des idées à leur Liste d’envies sur leur montre.\n \nSûre\nTous les paiements passent par les serveurs sécurisés d'Amazon.\n \nUniverselle\nFaites vos achats sur Amazon.co.uk, Amazon.de, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn, Amazon.co.jp ou amazon.com.be depuis une même application.\n\nEn utilisant cette app, vous acceptez les Conditions générales de vente d’Amazon (www.amazon.fr/conditionsofuse ou www.amazon.com.be/conditionsofuse). Veuillez consulter notre Notice Protection de vos informations personnelles (www.amazon.fr/privacynotice ou www.amazon.com.be/privacynotice), notre Notice Cookies (www.amazon.fr/cookies ou www.amazon.com.be/cookies) et notre Notice Annonces publicitaires basées sur vos centres d’intérêt (www.amazon.fr/interestbasedads ou www.amazon.com.be/interestbasedads).\n\nSi votre appareil prend en charge la technologie TrueDepth, l’application en utilisera l’appareil photo pour détecter les mouvements de votre visage uniquement lorsque vous utilisez certaines fonctionnalités telles que des produits essayés virtuellement comme des lunettes de soleil. Toutes les informations traitées à l’aide de cette technologie restent sur votre appareil et ne sont pas stockées, traitées ou partagées par Amazon.",
-      "formattedPrice": "Gratuit",
-      "fileSizeBytes": "248589312",
-      "userRatingCount": 296141,
+      "trackId": 358861688,
+      "trackName": "Amazon FR",
+      "userRatingCount": 296313,
       "country": "FRA"
     }
   ]

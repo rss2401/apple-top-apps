@@ -226,15 +226,7 @@
       "artistViewUrl": "https://apps.apple.com/gb/developer/farsun-pte-ltd/id1718856920?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/00/f2/d900f2be-324d-e7de-af83-36d371aee2c2/AppIcon-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/00/f2/d900f2be-324d-e7de-af83-36d371aee2c2/AppIcon-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Sexual Content and Nudity",
-        "Infrequent/Mild Contests",
-        "Infrequent/Mild Cartoon or Fantasy Violence"
-      ],
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -369,7 +361,15 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [
+        "Infrequent/Mild Sexual Content and Nudity",
+        "Infrequent/Mild Contests",
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/60/09/45600914-39c9-c6e0-b8a9-3f185d9d92f0/2.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/de/97/8dde9710-7793-2623-3ea2-47659d8fdf04/3.jpg/320x480bb.jpg",
@@ -390,10 +390,10 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/00/f2/d900f2be-324d-e7de-af83-36d371aee2c2/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "contentAdvisoryRating": "12+",
       "trackCensoredName": "FlickReels - AI Story & Drama",
       "trackViewUrl": "https://apps.apple.com/gb/app/flickreels-ai-story-drama/id6514312894?uo=4",
-      "averageUserRating": 4.71912,
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.71799,
       "artistId": 1718856920,
       "artistName": "FARSUN PTE. LTD.",
       "genres": [
@@ -401,23 +401,25 @@
       ],
       "price": 0,
       "bundleId": "com.farsun.shortplay",
-      "minimumOsVersion": "16",
-      "releaseNotes": "Fixed known issues and improved app stability.",
       "currentVersionReleaseDate": "2026-11-16T01:16:40Z",
-      "releaseDate": "2024-07-17T07:00:00Z",
       "trackId": 6514312894,
       "trackName": "FlickReels - AI Story & Drama",
+      "minimumOsVersion": "16",
+      "releaseDate": "2024-07-17T07:00:00Z",
       "genreIds": [
         "6016"
       ],
-      "sellerName": "FARSUN PTE. LTD.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Entertainment",
       "primaryGenreId": 6016,
+      "sellerName": "FARSUN PTE. LTD.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Fixed known issues and improved app stability.",
       "version": "2.4.2.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Explore endless amazing short dramas and dive into an immersive viewing experience anytime, anywhere. FlickReels brings together popular vertical short dramas, original stories, and AI-powered innovative content to deliver a cinematic storyline experience.\n\nVisual Revolution – A Brand-New Short Drama Experience\nAI technology creates a unique visual style, making every story more vivid. From romantic love to fantasy adventures, from emotional entanglements to heart-stopping plot twists, every episode delivers an immersive experience.\n\nAI Co-Creation – Craft Your Own Exclusive Story\nUnleash your imagination and embark on a new creative experience. With AI technology, you can explore different styles of storytelling, breathe fresh charm into classic scenes, and build a unique story world of your own. Every spark of inspiration could become the next brilliant storyline.\n\nA Vast Library – There's Always One That Captures Your Heart\nExplore a wide range of genres: CEO romance, werewolf legends, revenge and comeback, family drama, fantasy adventures... Exciting stories updated continuously to satisfy all tastes.\n\nMake the Most of Fragmented Time – Enjoy Brilliant Stories Anytime\nCompact, bite-sized episode design perfectly fits your fast-paced lifestyle. In just a few minutes, you can step into a brand-new story world and start your drama-watching moment whenever you want.\n\nSmart Recommendations – Discover Dramas Tailored Just for You\nThe algorithm accurately understands your preferences and handpicks stories you'll love, so every time you open the app, there's a new surprise waiting.\n\nJoin FlickReels now and explore your own short drama universe.\n\nStart Your Drama-Watching Journey in 3 Steps\n■ Download the FlickReels app\n■ Sign up and log in to your account\n■ Tap on any series to start watching\n\nFollow Our Official Website and Social Media\n■ Official Website:https://flickreels.net\n■ YouTube：https://youtube.com/@flickreels_app\n■ Facebook：https://www.facebook.com/profile.php?id=61583538213130\n■ TikTok：https://tiktok.com/@flickreels_dramatime\n\nNotes\n■ Subscription Notice: Subscriptions will automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.\n■ Privacy Policy: https://pages.farsunpteltd.com/Privacy.html?package_id=1\n■ Terms of Service: https://pages.farsunpteltd.com/UserAgreement.html?package_id=1",
+      "averageUserRatingForCurrentVersion": 4.71799,
+      "sellerUrl": "https://flickreels.net",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -438,11 +440,9 @@
       ],
       "fileSizeBytes": "218872832",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 6202,
+      "userRatingCountForCurrentVersion": 6358,
       "trackContentRating": "12+",
-      "sellerUrl": "https://flickreels.net",
-      "averageUserRatingForCurrentVersion": 4.71912,
-      "userRatingCount": 6202,
+      "userRatingCount": 6358,
       "country": "GBR"
     }
   ]

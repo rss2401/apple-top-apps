@@ -2,7 +2,7 @@
   "id": "432850619",
   "name": "FL Studio Mobile",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:04:56.573Z",
+  "fetchedAt": "2026-11-23T11:05:46.017Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -13,24 +13,24 @@
           "amount": 8
         },
         {
-          "name": "Amped Guitar & Bass",
-          "price": "¥22.00",
-          "amount": 22
-        },
-        {
           "name": "Tuned 808 Bass",
           "price": "¥8.00",
           "amount": 8
         },
         {
-          "name": "Voices",
-          "price": "¥8.00",
-          "amount": 8
+          "name": "Amped Guitar & Bass",
+          "price": "¥22.00",
+          "amount": 22
         },
         {
           "name": "Varazdin Orchestral Mobile",
           "price": "¥28.00",
           "amount": 28
+        },
+        {
+          "name": "Voices",
+          "price": "¥8.00",
+          "amount": 8
         },
         {
           "name": "Synth Lead",
@@ -43,22 +43,22 @@
           "amount": 8
         },
         {
-          "name": "Synth Plucks",
-          "price": "¥15.00",
-          "amount": 15
-        },
-        {
           "name": "Groove Machine Synth",
           "price": "¥0.00",
           "amount": 0
         },
         {
-          "name": "Brazil Bass",
+          "name": "Synth Plucks",
+          "price": "¥15.00",
+          "amount": 15
+        },
+        {
+          "name": "Chill-Lo-Fi Mobile",
           "price": "¥15.00",
           "amount": 15
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:49.019Z"
+      "fetchedAt": "2026-11-23T11:05:38.536Z"
     },
     "de": {
       "currency": "EUR",
@@ -74,11 +74,6 @@
           "amount": 0.99
         },
         {
-          "name": "Sliced Beats",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "Varazdin Orchestral Mobile",
           "price": "3,99 €",
           "amount": 3.99
@@ -87,6 +82,11 @@
           "name": "Synth Lead",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "Sliced Beats",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Amped Guitar & Bass",
@@ -104,9 +104,9 @@
           "amount": 1.99
         },
         {
-          "name": "PsyTrance",
-          "price": "2,99 €",
-          "amount": 2.99
+          "name": "Groove Machine Synth",
+          "price": "0,00 €",
+          "amount": 0
         },
         {
           "name": "Technocraft",
@@ -114,7 +114,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:50.557Z"
+      "fetchedAt": "2026-11-23T11:05:39.967Z"
     },
     "fr": {
       "currency": "EUR",
@@ -130,9 +130,9 @@
           "amount": 3.99
         },
         {
-          "name": "Sliced Beats",
-          "price": "0,99 €",
-          "amount": 0.99
+          "name": "Synth Lead",
+          "price": "1,99 €",
+          "amount": 1.99
         },
         {
           "name": "Amped Guitar & Bass",
@@ -140,9 +140,9 @@
           "amount": 2.99
         },
         {
-          "name": "Synth Lead",
-          "price": "1,99 €",
-          "amount": 1.99
+          "name": "Sliced Beats",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Voices",
@@ -170,7 +170,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:52.060Z"
+      "fetchedAt": "2026-11-23T11:05:41.505Z"
     },
     "gb": {
       "currency": "GBP",
@@ -181,12 +181,12 @@
           "amount": 3.99
         },
         {
-          "name": "Sliced Beats",
+          "name": "Tuned 808 Bass",
           "price": "£0.99",
           "amount": 0.99
         },
         {
-          "name": "Tuned 808 Bass",
+          "name": "Sliced Beats",
           "price": "£0.99",
           "amount": 0.99
         },
@@ -211,14 +211,14 @@
           "amount": 0
         },
         {
-          "name": "Acoustic Guitars",
-          "price": "£0.99",
-          "amount": 0.99
-        },
-        {
           "name": "Drumaxx",
           "price": "£1.99",
           "amount": 1.99
+        },
+        {
+          "name": "Acoustic Guitars",
+          "price": "£0.99",
+          "amount": 0.99
         },
         {
           "name": "Synth Plucks",
@@ -226,11 +226,16 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:53.580Z"
+      "fetchedAt": "2026-11-23T11:05:43.099Z"
     },
     "jp": {
       "currency": "JPY",
       "items": [
+        {
+          "name": "Synth Lead",
+          "price": "¥300",
+          "amount": 300
+        },
         {
           "name": "Varazdin Orchestral Mobile",
           "price": "¥600",
@@ -245,11 +250,6 @@
           "name": "Tuned 808 Bass",
           "price": "¥150",
           "amount": 150
-        },
-        {
-          "name": "Synth Lead",
-          "price": "¥300",
-          "amount": 300
         },
         {
           "name": "Voices",
@@ -277,12 +277,12 @@
           "amount": 0
         },
         {
-          "name": "Chill-Lo-Fi Mobile",
-          "price": "¥300",
-          "amount": 300
+          "name": "Transistor Bass",
+          "price": "¥0",
+          "amount": 0
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:55.095Z"
+      "fetchedAt": "2026-11-23T11:05:44.642Z"
     },
     "us": {
       "currency": "USD",
@@ -298,6 +298,11 @@
           "amount": 3.99
         },
         {
+          "name": "Amped Guitar & Bass",
+          "price": "$2.99",
+          "amount": 2.99
+        },
+        {
           "name": "Synth Lead",
           "price": "$1.99",
           "amount": 1.99
@@ -306,11 +311,6 @@
           "name": "Voices",
           "price": "$0.99",
           "amount": 0.99
-        },
-        {
-          "name": "Amped Guitar & Bass",
-          "price": "$2.99",
-          "amount": 2.99
         },
         {
           "name": "Sliced Beats",
@@ -338,7 +338,7 @@
           "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:56.573Z"
+      "fetchedAt": "2026-11-23T11:05:46.016Z"
     }
   }
 }

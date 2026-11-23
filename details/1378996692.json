@@ -201,18 +201,9 @@
       "userRatingCount": 76536
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [
-        "Jeux de hasard",
-        "Accès au Web non contrôlé.",
-        "Concours rares/modérés",
-        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue"
-      ],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/fr/developer/wylr/id1378996691?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/21/b2/ae21b21f-fda6-1bcd-a9df-8e08a81238b4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/21/b2/ae21b21f-fda6-1bcd-a9df-8e08a81238b4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/21/b2/ae21b21f-fda6-1bcd-a9df-8e08a81238b4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/41/95/9e41953c-0627-04e7-ad8b-c2e97b0ffbbe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/41/95/9e41953c-0627-04e7-ad8b-c2e97b0ffbbe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/38/cb/f038cb11-13f8-b259-4d8b-a19189c2a7ed/FR_APPSTORE_5.5_1242x2208.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/6d/9a/fb6d9ad4-c449-feee-e14d-ecb57ea6890d/FR_APPSTORE_5.5_1242x2208-1.jpg/392x696bb.jpg",
@@ -224,9 +215,17 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/7f/9a/c67f9ad0-8015-ccd4-485c-86c0af19cc26/FR_APPSTORE_5.5_1242x2208_9.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/18/70/8618707f-e11a-14b9-d07e-284e00ac1199/FR_APPSTORE_5.5_1242x2208_10.jpg/392x696bb.jpg"
       ],
-      "features": [],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/41/95/9e41953c-0627-04e7-ad8b-c2e97b0ffbbe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "advisories": [
+        "Scènes rares/modérées de consommation ou de référence à l’alcool, au tabac ou à la drogue",
+        "Concours rares/modérés",
+        "Jeux de hasard",
+        "Accès au Web non contrôlé."
+      ],
+      "isGameCenterEnabled": false,
+      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,6 +360,24 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "kind": "software",
+      "trackCensoredName": "Joko | Shopping IA & cashback",
+      "trackViewUrl": "https://apps.apple.com/fr/app/joko-shopping-ia-cashback/id1378996692?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.71905,
+      "sellerUrl": "https://www.joko.com",
+      "averageUserRatingForCurrentVersion": 4.71905,
+      "languageCodesISO2A": [
+        "EN",
+        "FR"
+      ],
+      "fileSizeBytes": "155598848",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 80630,
+      "trackContentRating": "17+",
+      "sellerName": "Wylr",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-23T08:14:02Z",
       "artistId": 1378996691,
       "artistName": "Wylr",
       "genres": [
@@ -368,40 +385,23 @@
         "Style de vie"
       ],
       "price": 0,
-      "sellerName": "Wylr",
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "io.wylr.joko",
       "releaseDate": "2018-08-20T22:31:28Z",
+      "trackId": 1378996692,
+      "trackName": "Joko | Shopping IA & cashback",
+      "minimumOsVersion": "15.1",
       "genreIds": [
         "6024",
         "6012"
       ],
-      "minimumOsVersion": "15.1",
-      "currentVersionReleaseDate": "2026-11-16T08:55:16Z",
-      "releaseNotes": "Dans cette version, nous améliorons l’expérience utilisateur.",
-      "version": "5.1.12",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "version": "5.1.14",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Votre shopping, au meilleur prix.\n\nAvec Joko, vous faites des économies et gagnez de l’argent sur vos achats en ligne et en magasin. Juno, notre assistant shopping IA, vous aide à trouver le bon produit au meilleur prix. Cashback, codes promo automatiques, bons d’achat à cashback instantané, cartes cadeaux, paiement en 3 fois sans frais, cartes de fidélité… tout est réuni dans une seule app gratuite.\n\nCOMMENT JOKO AUGMENTE VOTRE POUVOIR D’ACHAT ?\n\n1. JUNO, VOTRE ASSISTANT SHOPPING IA\nPosez vos questions à Juno : il vous aide à trouver le bon produit au meilleur prix et à comparer les prix entre marchands avant d’acheter. Juno est intégré à l’app Joko, à côté de vos offres de cashback, de codes promo et de bons d’achat.\n2. CASHBACK EN LIGNE ET EN MAGASIN\nFaites vos courses en supermarché ou votre shopping chez plus de 4 000 enseignes partenaires (Carrefour, Auchan, Leclerc, Intermarché, Monoprix, Fnac, Amazon, Cdiscount, Fortuneo, Zalando, Nike, Adidas, Sephora, SNCF Connect, La Redoute, Airbnb, Uber…). Pour chaque achat éligible, Joko vous attribue du cashback, crédité sur votre cagnotte. Vous pouvez demander un virement bancaire, le convertir en cartes cadeaux ou le donner à une association.\n3. BONS D’ACHAT : CASHBACK INSTANTANÉ\nAchetez un bon d’achat du montant de votre choix (Carrefour, Airbnb, Uber, Zalando, Kiabi, Fnac…) : Joko crédite votre cashback instantanément dans votre cagnotte. Utilisable en ligne et en magasin selon l’enseigne, cumulable avec les promos et bons plans en cours selon leurs conditions. Plus vous payez avec vos bons, plus vous cumulez de cashback.\n4. CODES PROMO AUTO\nL’app et l’extension testent les codes promo disponibles et appliquent le plus avantageux à votre panier. Vous passez moins à côté des bons plans. Dans la plupart des cas, cashback et code promo se cumulent.\n5. PAIEMENT EN 3 FOIS SANS FRAIS\nÉtalez vos achats en 3 échéances sans frais sur des centaines de sites. Suivez vos paiements facilement dans votre tableau de bord.\n6. CARTES DE FIDÉLITÉ ET CARTES CADEAUX\nCentralisez toutes vos cartes de fidélité et cartes cadeaux dans Joko. Scannez-les en caisse et cumulez vos points sans effort.\n\nPARTOUT OÙ VOUS SHOPPEZ\n\nJoko, c’est une application mobile, un site web et des extensions de navigateur (Chrome, Safari). Sur iPhone, l’extension Safari détecte automatiquement cashback, codes promo et réductions. Sur ordinateur, Chrome et Safari vous évitent de passer à côté d’un bon plan.\n\nCASHBACK EN MAGASIN : CONNECTEZ VOTRE BANQUE\n\nActivez le cashback en magasin en connectant votre banque à Joko. Connexion sécurisée : partenaires agréés DSP2, accès en lecture seule, aucune conservation de vos identifiants bancaires, déconnexion à tout moment. Vos achats éligibles sont détectés et Joko crédite votre cashback directement dans votre cagnotte.\n\nDES OFFRES QUI ÉVOLUENT\n\nLes taux de cashback, les codes promo et les réductions évoluent régulièrement. Certaines offres sont boostées pour vous aider à faire grimper votre cagnotte plus vite.\n\nDES PARTENAIRES DANS TOUS LES UNIVERS\n\n- Courses alimentaires et supermarchés : Carrefour, Auchan, Leclerc, Aldi, Lidl, Intermarché, Monoprix…\n- Mode : Zalando, ASOS, Nike, Adidas, Kiabi, Sarenza, H&M, Bershka, Courir…\n- Technologie : Fnac, Amazon, Cdiscount, Xiaomi, Bose, Revolut…\n- Beauté : Sephora, Yves Rocher, NYX, Nocibé…\n- Maison : But, Tediber, Darty…\n- Voyage : SNCF Connect, Airbnb, Expedia, eDreams, Transavia…\n- Enfants : Ravensburger, Lego…\n\nBESOIN D’AIDE ?\n\nNotre service client, basé en France, vous accompagne : https://support.joko.com/fr/articles/200579-comment-contacter-le-service-client\n\nRejoignez des millions d’utilisateurs et commencez à économiser dès aujourd’hui.\n\nTélécharger Joko",
-      "averageUserRatingForCurrentVersion": 4.7195,
-      "trackCensoredName": "Joko | Shopping IA & cashback",
-      "trackViewUrl": "https://apps.apple.com/fr/app/joko-shopping-ia-cashback/id1378996692?uo=4",
-      "averageUserRating": 4.7195,
-      "contentAdvisoryRating": "17+",
-      "languageCodesISO2A": [
-        "EN",
-        "FR"
-      ],
-      "fileSizeBytes": "156782592",
-      "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 80400,
-      "trackContentRating": "17+",
-      "sellerUrl": "https://www.joko.com",
-      "bundleId": "io.wylr.joko",
-      "trackId": 1378996692,
-      "trackName": "Joko | Shopping IA & cashback",
-      "userRatingCount": 80400,
+      "releaseNotes": "Dans cette version, nous améliorons l’expérience utilisateur.",
+      "userRatingCount": 80630,
       "country": "FRA"
     }
   ]

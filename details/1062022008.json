@@ -432,6 +432,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/94/c9/ca94c977-bf62-c2ac-1cb6-e2d9a296e34c/iPhone-en-9-Audio.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b5/90/e4/b590e427-d2ce-a48f-c605-c19fc31094a9/iPhone-en-10-Titles.png/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/06/fb/8106fb00-9ab5-4737-926d-92ada8f403f0/en-1-Awards_ipadPro129.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/05/62/3b056203-62a1-8a1a-ebd6-c96abbdee710/en-2-Timeline_ipadPro129.png/360x480bb.jpg",
@@ -445,9 +446,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/3e/8a/4f3e8a39-184a-8ed5-8a51-a372cae80c69/en-10-Titles_ipadPro129.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "advisories": [],
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -582,13 +583,14 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/luma-touch-llc/id920136490?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/9c/02/f99c0244-40d4-e896-bc3d-00bf4c352736/LumaFusionComposerIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": false,
+      "releaseNotes": "NEW:\n* Five new Reflected Tiles effects\n* Support for iPhone Duo\n\nFIXED:\n* External display not detected properly\n* Reordering effects not always working on macOS\n* Export could fail due to screen recordings with non standard colorspace values\n* Optimize could result in significantly larger files for some media\n* Incorrect Clip Editor layout on some iPhones\n* Stability and performance improvements\n\nIn upcoming releases we will continue adding new features, and will continue to enhance every aspect of LumaFusion. Find tutorials, reference guide, answers to your questions, and contact us directly at lumatouch.co/support",
+      "averageUserRatingForCurrentVersion": 4.74733,
       "sellerUrl": "https://www.luma-touch.com/lumafusion",
       "languageCodesISO2A": [
         "NL",
@@ -607,9 +609,8 @@
       ],
       "fileSizeBytes": "249064448",
       "formattedPrice": "$29.99",
-      "userRatingCountForCurrentVersion": 24842,
+      "userRatingCountForCurrentVersion": 24855,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.74732,
       "artistId": 920136490,
       "artistName": "Luma Touch LLC",
       "genres": [
@@ -617,30 +618,29 @@
         "Music"
       ],
       "price": 29.99,
-      "sellerName": "Luma Touch LLC",
+      "bundleId": "com.luma-touch.LumaFusion",
+      "trackId": 1062022008,
+      "trackName": "LumaFusion",
       "minimumOsVersion": "27.0",
       "genreIds": [
         "6008",
         "6011"
       ],
-      "releaseDate": "2016-12-22T17:46:08Z",
-      "trackName": "LumaFusion",
-      "trackId": 1062022008,
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Photo & Video",
       "primaryGenreId": 6008,
+      "sellerName": "Luma Touch LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "currentVersionReleaseDate": "2026-10-29T23:29:25Z",
-      "releaseNotes": "NEW:\n* Five new Reflected Tiles effects\n* Support for iPhone Duo\n\nFIXED:\n* External display not detected properly\n* Reordering effects not always working on macOS\n* Export could fail due to screen recordings with non standard colorspace values\n* Optimize could result in significantly larger files for some media\n* Incorrect Clip Editor layout on some iPhones\n* Stability and performance improvements\n\nIn upcoming releases we will continue adding new features, and will continue to enhance every aspect of LumaFusion. Find tutorials, reference guide, answers to your questions, and contact us directly at lumatouch.co/support",
       "version": "5.6.1",
       "wrapperType": "software",
       "currency": "USD",
       "description": "LumaFusion: The Ultimate Storytelling Experience for Video Editing\n \nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\n \nPROFESSIONAL EDITING MADE EASY\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\n• Six Additional audio tracks: Build your soundscape.\n• The ultimate Timeline: Fluent editing using the world’s most flexible track-based AND magnetic timeline.\n• Loads of transitions: Keep your story moving.\n• External Monitor Preview: View on a big screen.\n• Markers, tags and notes: Stay organized.\n• Voiceover: Record VO while playing your movie.\n \nLAYERED EFFECTS AND COLOR CORRECTION\n• Green screen, luma, and chroma keys: For creative compositing.\n• Lock & Load Video Stabilizer: Steady your footage.\n• Powerful color correction: Create your own look. \n• Video Waveform, vector and histogram scopes.\n• LUTs: Import and apply multiple .cube or .3dl LUTs.\n• Unlimited keyframes: Animate effects with precision.\n• Customizable text and effect presets: Save and share your favorite animations and looks.\n• Grids and Guides: Precisely align elements with Title-Safe, Action-Safe and horizon line.\n \nADVANCED AUDIO CONTROL\n• Graphic EQ, Parametric EQ and Voice Isolation: Fine-tune audio.\n• Keyframe audio levels, panning, and EQ: Craft seamless mixes.\n• Stereo and Dual-mono audio support: For interviews with multiple mics on one clip.\n• Audio Ducking: Balance your music and dialogue.\n• Third-party audio plugins: Enhance your sound.\n \nCREATIVE TITLES AND MULTILAYER TEXT\n• Multilayer titles: Combine shapes, images, and text into your graphic.\n• Customizable fonts, colors, borders, and shadows: Design eye-catching titles.\n• Import custom fonts: Strengthen your brand.\n• Save and share title presets: Perfect for collaboration.\n \nPROJECT FLEXIBILITY AND MEDIA LIBRARY\n• Aspect ratios for all uses: From widescreen cinema to social media.\n• Frame rates from 18fps to 240fps: Flexibility for any workflow.\n• Edit from Photos, Frame.io, and directly from USB-C drives: Access your content anywhere.\n• Import media from cloud storage: Wherever you store it.\n \nSHARE YOUR MASTERPIECES\n• Control resolution, quality, and format: \n• Share movies to social media, local storage or cloud storage.\n• Edit on multiple devices: Seamlessly transfer projects.\n\nENHANCED FEATURES (purchase individually, or get them ALL as part of the Creator Pass subscription - see below)\n• Speed Ramping and Enhanced Keyframing - Create speed ramps, Bézier curves, and easing with this one-of-a-kind, easy to use feature.\n• XML Export: Send your project to Final Cut Pro for Mac\n• Multicam Studio: Synchronize 6 cameras or audio and tap to switch angles\n\nCREATOR PASS SUBSCRIPTION \n• Get full access to Storyblocks for LumaFusion: Millions of High-quality royalty-free music, SFX, and videos, PLUS get ALL the Enhanced Features above.\n\nEXCEPTIONAL FREE SUPPORT\n• Online tutorials: www.youtube.com/@LumaTouch\n• Reference Guide: luma-touch.com/lumafusion-reference-guide\n• Support: lumatouch.co/support",
-      "averageUserRating": 4.74732,
+      "averageUserRating": 4.74733,
       "trackCensoredName": "LumaFusion",
       "trackViewUrl": "https://apps.apple.com/us/app/lumafusion/id1062022008?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.luma-touch.LumaFusion",
-      "userRatingCount": 24842,
+      "releaseDate": "2016-12-22T17:46:08Z",
+      "userRatingCount": 24855,
       "country": "USA"
     },
     {

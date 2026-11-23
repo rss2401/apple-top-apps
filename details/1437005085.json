@@ -227,6 +227,9 @@
       "userRatingCount": 14616
     },
     {
+      "artistViewUrl": "https://apps.apple.com/fr/developer/proton-ag/id979659484?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/d3/76/bdd37684-4d57-12e5-af66-18a25609e08e/iOS_1242x2208PX-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/2e/1d/5b2e1dd5-7f88-f1e5-6a78-31f6e6bc4883/iOS_1242x2208PX-2__U00283_U0029.jpg/392x696bb.jpg",
@@ -236,9 +239,6 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/a8/c4/d1a8c402-307f-f8f3-df00-906b554d86b0/iOS_1242x2208PX-6.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/6b/24/9d6b2462-da30-e9fc-74cb-813587526aa2/iOS_1242x2208PX-7.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/e9/ef5ce925-6293-7ec1-ad6c-6260f0830a96/iOS_1242x2208PX-8.png/392x696bb.png"
-      ],
-      "features": [
-        "iosUniversal"
       ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/ae/99/aaae99b7-b14e-f914-b30e-955f3e182f64/App_store_-_iPad_-_FR_-_1__U00281_U0029.jpg/360x480bb.jpg",
@@ -251,11 +251,6 @@
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/fr/developer/proton-ag/id979659484?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -390,6 +385,17 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.58589,
+      "contentAdvisoryRating": "4+",
+      "trackCensoredName": "Proton VPN: Privé et Rapide",
+      "trackViewUrl": "https://apps.apple.com/fr/app/proton-vpn-priv%C3%A9-et-rapide/id1437005085?uo=4",
+      "averageUserRatingForCurrentVersion": 4.58589,
+      "sellerUrl": "https://protonvpn.com/",
       "languageCodesISO2A": [
         "AR",
         "BE",
@@ -425,14 +431,10 @@
         "UK",
         "VI"
       ],
-      "userRatingCountForCurrentVersion": 29845,
+      "fileSizeBytes": "291588096",
+      "formattedPrice": "Gratuit",
+      "userRatingCountForCurrentVersion": 30326,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.58673,
-      "sellerUrl": "https://protonvpn.com/",
-      "averageUserRating": 4.58673,
-      "trackCensoredName": "Proton VPN: Privé et Rapide",
-      "trackViewUrl": "https://apps.apple.com/fr/app/proton-vpn-priv%C3%A9-et-rapide/id1437005085?uo=4",
-      "contentAdvisoryRating": "4+",
       "artistId": 979659484,
       "artistName": "Proton AG",
       "genres": [
@@ -441,8 +443,6 @@
       ],
       "price": 0,
       "bundleId": "ch.protonmail.vpn",
-      "trackName": "Proton VPN: Privé et Rapide",
-      "trackId": 1437005085,
       "releaseDate": "2018-11-12T16:00:04Z",
       "minimumOsVersion": "17.0",
       "genreIds": [
@@ -459,16 +459,16 @@
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Proton VPN est la seule application VPN gratuite au monde à la fois sûre et respectueuse de votre confidentialité. \n \n• Plébiscitée par des millions d’utilisateurs à travers le monde\n• Aucune inscription requise, aucune revente de données\n• Aucune publicité, aucun suivi, aucun journal\n• Internet en toute confidentialité et accès libre à toutes les ressources web\n• Bande passante illimitée pour le streaming et le téléchargement\n• Navigation anonyme en vous permettant de masquer votre véritable adresse IP\n \n FONCTIONNALITÉS VPN GRATUITES :\n \n• Accès à des serveurs VPN sécurisés dans 10 pays\n• Contournement des géo-restrictions : Smart Protocol débloque automatiquement les contenus censurés et lève les blocages VPN.\n• Connexion en un tap : aucun identifiant ni inscription requis\n• Navigation sans limite de données\n• Protection sur tous les réseaux : wifi, 5G, 4G, points d’accès publics et plus\n• Protection contre les fuites DNS et IP\n• Politique stricte de non-journalisation et chiffrement de pointe pour protéger vos données des pirates et autres regards indiscrets.\n• L’arrêt d’urgence automatique vous protège de toute exposition en cas de déconnexion VPN\n \nFONCTIONNALITÉS VPN PREMIUM :\n \n• Accès à plus de 20 000 serveurs haut débit dans plus de 140 pays à travers le monde, dont les États-Unis, le Royaume-Uni, la France, l’Allemagne, l’Inde, le Brésil, le Mexique, le Japon, la Corée du Sud, etc.\n• Blocage des publicités, des traqueurs et une protection contre les logiciels malveillants avec NetShield.\n• Connexions simultanées jusqu'à 10 appareils différents\n• Serveurs VPN rapides, adaptés aux fortes bandes passantes, avec des connexions jusqu’à 10 Gbit/s pour des téléchargements et chargements express.\n• Connexions sécurisées adaptées au partage de fichiers et au trafic P2P\n• Serveurs Secure Core pour une protection contre les attaques réseau grâce au VPN multi-sauts.\n• Tor via VPN, pour une intégration automatiquement au réseau d’anonymisation Tor\n \nUTILISEZ PROTON VPN POUR :\n• Rester en contact sur toutes les applications de messagerie (Telegram, WhatsApp, Messenger, Discord, etc.)\n• Parcourir les réseaux sociaux de votre choix (TikTok, Instagram, Facebook, Snapchat, Twitter/X, Reddit, etc.)\n• Regarder des films, des événements sportifs et autres contenus sur vos plateformes de streaming préférées (Netflix, Hulu, Amazon Prime Video, Disney+, Max, BBC iPlayer, etc.).\n• Profiter de vos jeux mobiles préférés (PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Genshin Impact)\n• Rester protégé sur les réseaux wifi publics, sur vos lieux de travail et d’études ou en déplacement\n• Préserver la confidentialité de votre navigation vis-à-vis de votre fournisseur d’accès à Internet ou de votre employeur\n \nPOURQUOI PROTON VPN ?\n• Application VPN intuitive sur iPhone, iPad, visionOS, tvOS, Mac et tout type d'interface\n• Chiffrement robuste de votre connexion pour une meilleure protection qu’un proxy classique.\n• Utilisation exclusive de protocoles VPN dont la sécurité est éprouvée : WireGuard®\n• Solution auditée par des experts indépendants et des résultats publiés sur notre site internet\n• Code open source éprouvé, dont la sécurité peut être vérifiée par tous\n• Protection des données avec chiffrement AES-256 et RSA-4096\n \nRejoignez le mouvement pour la confidentialité\n• Votre soutien est essentiel pour nous permettre de poursuivre notre mission en faveur des libertés sur Internet dans le monde entier. Obtenez gratuitement notre VPN privé dès aujourd’hui pour des connexions VPN rapides et sécurisées, où que vous soyez.\n \nL’avis des experts :\n \nWired : « Le meilleur VPN » « Dans l’ensemble, Proton VPN est très rapide »\n \nMashable : « [Proton VPN] est le meilleur VPN pour la plupart des gens. C’est un excellent rapport qualité-prix. »\n \nTechRadar : « L’offre totalement gratuite est une chose qu’aucun autre concurrent […] ne propose. »",
-      "formattedPrice": "Gratuit",
-      "fileSizeBytes": "291588096",
-      "userRatingCount": 29845,
+      "trackId": 1437005085,
+      "trackName": "Proton VPN: Privé et Rapide",
+      "userRatingCount": 30326,
       "country": "FRA"
     },
     {
       "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/proton-ag/id979659484?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -605,9 +605,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/proton-ag/id979659484?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d1/3d/3ad13d9a-efe4-4364-6525-7134979386ff/Proton-VPN_AppStore_Iphone_6_9_Display_1_3.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/39/59/b03959db-15bf-fbd3-5f6e-5e26b86cd83c/Proton-VPN_AppStore_Iphone_6_9_Display_2.jpg/320x480bb.jpg",
@@ -630,21 +627,20 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/96/44/1a96446b-b5f7-c3e0-89de-dfeab714d160/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "currentVersionReleaseDate": "2026-11-09T12:13:56Z",
-      "releaseNotes": "- Introduced Proton protocols, a new VPN architecture designed for improved stability and censorship resistance\n- Improved kill switch and introduced advanced kill switch, now possible thanks to Proton protocols\n- Introduced a new interactive globe map\n- Made NetShield Ad-blocker stats persist across app sessions\n- Improved connectivity when the kill switch is enabled. You can now connect to LAN devices and Apple CarPlay with the kill switch on\n- Multiple other small but important quality-on-life improvements",
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.55332,
       "trackCensoredName": "Proton VPN: Fast & Secure",
       "trackViewUrl": "https://apps.apple.com/gb/app/proton-vpn-fast-secure/id1437005085?uo=4",
+      "contentAdvisoryRating": "4+",
       "artistId": 979659484,
       "artistName": "Proton AG",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
       "price": 0,
-      "bundleId": "ch.protonmail.vpn",
       "releaseDate": "2018-11-12T16:00:04Z",
       "trackId": 1437005085,
       "trackName": "Proton VPN: Fast & Secure",
+      "releaseNotes": "- Introduced Proton protocols, a new VPN architecture designed for improved stability and censorship resistance\n- Improved kill switch and introduced advanced kill switch, now possible thanks to Proton protocols\n- Introduced a new interactive globe map\n- Made NetShield Ad-blocker stats persist across app sessions\n- Improved connectivity when the kill switch is enabled. You can now connect to LAN devices and Apple CarPlay with the kill switch on\n- Multiple other small but important quality-on-life improvements",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6002",
@@ -654,13 +650,12 @@
       "primaryGenreId": 6002,
       "sellerName": "Proton AG",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-09T12:13:56Z",
       "version": "8.0.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Proton VPN is the world's only free VPN app that is safe to use and respects your privacy. \n\n• Trusted by millions worldwide\n• No sign-up required, no data-selling\n• No ads, no tracking, no logs\n• Unblocks access to private internet and popular websites\n• Unlimited bandwidth for streaming and downloading\n• Hide your real IP address to browse anonymously\n\n\n FREE VPN FEATURES:\n\n• Access secure VPN servers in 10 countries\n• Bypass geo restrictions: smart protocol selection automatically overcomes VPN bans and unblocks censored sites and content\n• One tap Connect: no login or registration needed\n• Browse with unlimited data\n• Stay protected on any network — WiFi, 5G, 4G, public hotspots and more\n• DNS and IP leak protection\n• Strict no logs policy and strong encryption to keep your data safe from hackers and snoopers\n• Auto kill switch means you're never exposed, even if the VPN connection drops\n\n\nPREMIUM VPN FEATURES:\n\n• Access 20,000+ high speed servers across 140+ countries worldwide including US, UK, France, Germany, India, Brazil, Mexico, Japan, South Korea, etc.\n• Block ads, prevent website trackers, protect from malware with NetShield\n• Connect up to 10 devices simultaneously\n• Fast VPN servers: high-speed server compatible for high-bandwidth use, with connections up to 10 Gbps for express download and upload speed\n• Secure connections compatible with file-sharing and P2P traffic\n• Secure Core servers bypass network-based attacks with multi-hop VPN\n• Tor over VPN provides automatic integration with the Tor anonymity network\n\nUSE PROTON VPN FOR:\n• Stay in touch on any messaging app (Telegram, WhatsApp, Messenger, Discord etc)\n• Explore any social media platform (TikTok, Instagram, Facebook, Snapchat, Twitter/X, Reddit etc)\n• Watch films, sports events, and videos on any streaming service (Netflix, Hulu, Amazon Prime Video, Disney+, Max, BBC iPlayer etc)\n• Enjoy any mobile game (PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Genshin Impact)\n• Stay secure on public WiFi at school, work, or on the go\n• Keep your browsing private from your Internet Service Provider or employer\n\n\nWHY PROTON VPN?\n• Easy-to-use VPN app for iPhone, iPad, visionOS, tvOS, Mac, and any other major devices\n• Highest strength encryption for your connection makes it better than an internet proxy\n• We only use VPN protocols that are proven to be secure: WireGuard\n• Independently audited by third-party security experts and we publish all results on our website\n• Trusted open-source code that can be reviewed for security by anyone\n• Data protection using AES-256 and 4096 RSA encryption\n\nJoin the privacy revolution\n• Your support is important as it allows us to continue our mission to bring online freedom to people around the globe. Get our private VPN free today and enjoy fast VPN connections and a secure internet, from anywhere.\n\n\nExperts’ opinion:\n\nWired: \"The best VPN\" \"Overall, Proton VPN is very fast\"\n\nMashable: \"[Proton VPN] is the top VPN for most people. It's a stellar value.\"\n\nTechRadar: “The completely free tier is something no other competitor [...] offers.\"",
-      "averageUserRatingForCurrentVersion": 4.55406,
-      "averageUserRating": 4.55406,
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.55332,
       "sellerUrl": "https://protonvpn.com",
       "languageCodesISO2A": [
         "AR",
@@ -699,9 +694,14 @@
       ],
       "fileSizeBytes": "291588096",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 42403,
+      "userRatingCountForCurrentVersion": 42979,
       "trackContentRating": "4+",
-      "userRatingCount": 42403,
+      "bundleId": "ch.protonmail.vpn",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "userRatingCount": 42979,
       "country": "GBR"
     }
   ]

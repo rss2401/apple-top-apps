@@ -6,7 +6,6 @@
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/53/ac/3653acbb-0a6c-b9d0-917d-c9c1fd96518a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/53/ac/3653acbb-0a6c-b9d0-917d-c9c1fd96518a/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -137,8 +136,11 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/0e/b9/780eb981-abf6-c019-6612-2c9fa1139c96/a6e622a1-0ae8-4f0c-b15a-9f89f270409f_iPhone_x_piano_photo_note_rush_screenshot_5.5inch.jpg/392x696bb.jpg",
@@ -165,46 +167,46 @@
       "features": [
         "iosUniversal"
       ],
-      "trackCensoredName": "Note Rush: Music Reading Game",
-      "trackViewUrl": "https://apps.apple.com/gb/app/note-rush-music-reading-game/id1083801827?uo=4",
-      "averageUserRating": 4.21927,
       "contentAdvisoryRating": "4+",
-      "releaseNotes": "Lots of improvements/fixes in this update:\n- Improvements to the Audio Recognition Engine.\n- Level Designer has now been given its own dedicated tab at the top of the level selection screen, as it has proven difficult to find in the instrument list!\n- Fixed: Note not blinking on incorrect note input.\n- Fixed: Total time on level completion sometimes shows 1 second more than the correct time due to a rounding error. (Thanks Michael Cuthbert)\n- Fixed: MIDI input not handling NoteOn(velocity=0) as a NoteOff event, which could be causing issues with MIDI behaviour more broadly. (Thanks Peter Ludbey)\n- Decreased how long you have to play a non-concert pitch note to calibrate to it.\n- Increased sensitivity to incorrect notes (you had to play it for a long time before it registered before).\n- Increase tuning requirements to help reduce misidentified semitone-adjacent notes.",
-      "averageUserRatingForCurrentVersion": 4.21927,
-      "price": 8.99,
+      "averageUserRating": 4.22295,
       "artistId": 1083801826,
       "artistName": "Thomas Grayston",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "price": 8.99,
+      "currentVersionReleaseDate": "2023-10-25T12:28:03Z",
+      "trackId": 1083801827,
+      "trackName": "Note Rush: Music Reading Game",
+      "releaseNotes": "Lots of improvements/fixes in this update:\n- Improvements to the Audio Recognition Engine.\n- Level Designer has now been given its own dedicated tab at the top of the level selection screen, as it has proven difficult to find in the instrument list!\n- Fixed: Note not blinking on incorrect note input.\n- Fixed: Total time on level completion sometimes shows 1 second more than the correct time due to a rounding error. (Thanks Michael Cuthbert)\n- Fixed: MIDI input not handling NoteOn(velocity=0) as a NoteOff event, which could be causing issues with MIDI behaviour more broadly. (Thanks Peter Ludbey)\n- Decreased how long you have to play a non-concert pitch note to calibrate to it.\n- Increased sensitivity to incorrect notes (you had to play it for a long time before it registered before).\n- Increase tuning requirements to help reduce misidentified semitone-adjacent notes.",
+      "releaseDate": "2016-06-17T14:09:04Z",
+      "minimumOsVersion": "13.0",
       "genreIds": [
         "6011",
         "6017"
       ],
-      "minimumOsVersion": "13.0",
+      "primaryGenreName": "Music",
+      "primaryGenreId": 6011,
       "sellerName": "Thomas Grayston",
-      "releaseDate": "2016-06-17T14:09:04Z",
-      "trackId": 1083801827,
-      "trackName": "Note Rush: Music Reading Game",
-      "currentVersionReleaseDate": "2023-10-25T12:28:03Z",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "2.01.2",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Learn to Read Music with Note Rush! Note Rush boosts your note reading speed and accuracy, building a strong mental model of where each written note is on your instrument. Now even better with Note Rush: 2nd Edition!\n\nHow it Works\n---------------------------\nNote Rush is like a virtual flash card deck for all ages that listens to you play each note, giving instant feedback and awarding stars based on speed and accuracy of note identification.\n\nRace against the clock to improve your performance or hide the timer to gently engage those just starting out with the staff.\n\nIncludes built-in levels for piano and a range of other instruments as well as custom level design.\n\n\nWhat makes Note Rush Different?\n---------------------------\n- Play On Your Instrument\nNote reading is best learnt in the context of how you identify and play each note - on your acoustic or MIDI instrument.\n\n- Designed for Teachers\n...and not as a replacement for them! Create fully customizable note sets and easily send them home to students.\n\n- Fun Themes\nEngage with fun themes that don't get in the way of learning, or opt for traditional notation.\n\n\nLandmarks: The best way to learn your notes\n---------------------------\nNote Rush fits with all teaching methods, whether you favor a purely intervallic approach or use traditional mnemonics! We promote learning key landmark notes then reading adjacent notes intervallically for the best results in learning to read piano notation.\n\nNote Rush features a unique landmarks-based hints system (optional) that highlights nearby landmark notes to read intervallically from. Over time students naturally move from reliance on landmarks to a more intrinsic staff-to-keyboard association.\n\n\nPreset and Custom Levels\n---------------------------\nUse preset note ranges or create your own set of levels to suit your teaching style. Create a personalized level to target a particular student’s needs.\n\n- Individual Note Selections\n- Sharps and Flats\n- Treble, Bass or Grand Staff (alto and tenor coming soon)\n- Up to Six Ledger Lines\n- Send custom note reading drills using App Links or QR Codes",
+      "averageUserRatingForCurrentVersion": 4.22295,
       "sellerUrl": "https://www.noterush.app/",
+      "trackCensoredName": "Note Rush: Music Reading Game",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "292578304",
       "formattedPrice": "£8.99",
-      "userRatingCountForCurrentVersion": 301,
+      "userRatingCountForCurrentVersion": 305,
+      "trackViewUrl": "https://apps.apple.com/gb/app/note-rush-music-reading-game/id1083801827?uo=4",
       "trackContentRating": "4+",
       "bundleId": "com.TGSoftware.NoteRush",
-      "primaryGenreName": "Music",
-      "primaryGenreId": 6011,
-      "genres": [
-        "Music",
-        "Education"
-      ],
-      "userRatingCount": 301,
+      "userRatingCount": 305,
       "country": "GBR"
     }
   ]

@@ -2,7 +2,7 @@
   "id": "6740024098",
   "name": "Pollo AI: AI Video & Image",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:30:00.661Z",
+  "fetchedAt": "2026-11-23T11:27:52.303Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -28,6 +28,11 @@
           "amount": 35.99
         },
         {
+          "name": "Pollo Lite - Monthly Plan",
+          "price": "$15.00",
+          "amount": 15
+        },
+        {
           "name": "2000 Pollo Credits",
           "price": "$71.99",
           "amount": 71.99
@@ -36,11 +41,6 @@
           "name": "Pollo Pro - Monthly Plan",
           "price": "$29.00",
           "amount": 29
-        },
-        {
-          "name": "Pollo Lite - Monthly Plan",
-          "price": "$15.00",
-          "amount": 15
         },
         {
           "name": "Pollo Weekly Premium",
@@ -58,7 +58,7 @@
           "amount": 164.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:30:00.661Z"
+      "fetchedAt": "2026-11-23T11:27:52.303Z"
     }
   }
 }

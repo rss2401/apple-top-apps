@@ -2,7 +2,7 @@
   "id": "1064216828",
   "name": "Reddit",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:12:44.354Z",
+  "fetchedAt": "2026-11-23T11:13:42.863Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -79,19 +79,14 @@
           "amount": 4.99
         },
         {
-          "name": "Reddit Gold",
-          "price": "£5.99",
-          "amount": 5.99
-        },
-        {
           "name": "Reddit Annual Premium",
           "price": "£58.99",
           "amount": 58.99
         },
         {
-          "name": "Collectible Avatar - Tier 999",
-          "price": "£9.99",
-          "amount": 9.99
+          "name": "Reddit Gold",
+          "price": "£5.99",
+          "amount": 5.99
         },
         {
           "name": "Collectible Avatar - Tier 999",
@@ -109,68 +104,73 @@
           "amount": 9.99
         },
         {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "£9.99",
+          "amount": 9.99
+        },
+        {
           "name": "Collectible Avatar - Tier 499",
           "price": "£4.99",
           "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:43.078Z"
+      "fetchedAt": "2026-11-23T11:13:41.774Z"
     },
     "us": {
       "currency": "USD",
       "items": [
         {
-          "name": "Promote Post",
-          "price": "$78.00",
-          "amount": 78
+          "name": "Reddit Premium",
+          "price": "$6.99",
+          "amount": 6.99
         },
         {
-          "name": "Promote Post",
-          "price": "$24.00",
-          "amount": 24
-        },
-        {
-          "name": "Promote Post",
-          "price": "$39.00",
-          "amount": 39
-        },
-        {
-          "name": "r/tattoos Club",
-          "price": "$2.99",
-          "amount": 2.99
-        },
-        {
-          "name": "r/roastme Club",
+          "name": "Reddit Gold",
           "price": "$1.99",
           "amount": 1.99
         },
         {
-          "name": "r/makeup Club",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Reddit Gold",
+          "price": "$5.99",
+          "amount": 5.99
         },
         {
-          "name": "r/kpop Club",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Reddit Annual Premium",
+          "price": "$59.99",
+          "amount": 59.99
         },
         {
-          "name": "r/gaming Club",
+          "name": "Collectible Avatar - Tier 499",
           "price": "$4.99",
           "amount": 4.99
         },
         {
-          "name": "r/rupaulsdragrace Club",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Reddit Gold",
+          "price": "$3.99",
+          "amount": 3.99
         },
         {
-          "name": "r/mildlyinfuriating Club",
-          "price": "$1.99",
-          "amount": 1.99
+          "name": "Collectible Avatar - Tier 999",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 999",
+          "price": "$9.99",
+          "amount": 9.99
+        },
+        {
+          "name": "Collectible Avatar - Tier 499",
+          "price": "$4.99",
+          "amount": 4.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:12:44.349Z"
+      "fetchedAt": "2026-11-23T11:13:42.862Z"
     }
   }
 }

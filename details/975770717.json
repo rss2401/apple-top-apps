@@ -202,23 +202,20 @@
       "userRatingCount": 5816
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/db/19/60db19b5-49cb-c227-82eb-5ff9ebecf98a/mzl.fkzfayzy.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/ba/49/f7ba491f-5f05-4493-db99-64852e4235a0/mzl.vkoftxin.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/b4/c3/8cb4c31f-cb4d-0f3a-ca7e-dc3560c29700/mzl.agryxcre.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/fd/90/befd9054-880d-77eb-e98d-e08adace46e9/mzl.dgtdgceh.png/392x696bb.png"
-      ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/90/4f/8c904f8e-4e0f-0e38-7d60-e05b474986a4/mzl.agdxymvw.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/cc/bf/deccbf58-3dfd-d1b6-1292-2db164e2f066/22aaf18e-fd96-4482-92d8-b11447a7d515_IMG_0017.jpg/576x768bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/b8/99/abb89999-c3c1-dcd0-3f5b-9bcef7150d49/mzl.jcutnfrr.jpg/576x768bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/12/b6/d112b649-e0c7-57de-5b63-a82c5c2bdf31/Screenshot_iPad_Pro_13-inch__U0028M5_U0029_17-10-2026_at_09.32.05.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/bf/c1/4dbfc14f-1e6d-ecdc-4828-bcd841a013d1/Screenshot_iPad_Pro_13-inch__U0028M5_U0029_17-10-2026_at_09.32.22.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/9b/4d/289b4df7-1225-f31a-0f6f-519ab944d402/Screenshot_iPad_Pro_13-inch__U0028M5_U0029_17-10-2026_at_09.32.58.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/67/40/b5674019-149e-e198-509c-265da1bc1dc3/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e7/6d/5fe76dde-0eec-a88c-e8b0-bee5f02f1bb8/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/cd/af/e1cdaf27-6395-cd8f-31aa-157b676f5547/Screenshot_iPhone_18_Pro_17-10-2026_at_08.35.07.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/7b/72/8b7b7244-ed95-9d62-4e46-c7c47dd8a5ef/Screenshot_iPhone_18_Pro_17-10-2026_at_08.35.30.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/52/80/105280bc-eb0e-89f8-caf1-7f88d33c2723/Screenshot_iPhone_18_Pro_17-10-2026_at_08.56.13.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/2c/8c/182c8cee-e765-97b8-f84f-59a66f708fc0/Screenshot_iPhone_18_Pro_17-10-2026_at_08.35.39.png/320x480bb.jpg"
+      ],
       "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/jrustonapps-b-v/id549019599?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/67/40/b5674019-149e-e198-509c-265da1bc1dc3/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/67/40/b5674019-149e-e198-509c-265da1bc1dc3/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -353,14 +350,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/us/developer/jrustonapps-b-v/id549019599?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e7/6d/5fe76dde-0eec-a88c-e8b0-bee5f02f1bb8/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e7/6d/5fe76dde-0eec-a88c-e8b0-bee5f02f1bb8/AppIcon-2-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+      "averageUserRatingForCurrentVersion": 4.7722,
       "sellerUrl": "https://www.jrustonapps.com/apps/my-earthquake-alerts",
-      "averageUserRatingForCurrentVersion": 4.77074,
-      "releaseNotes": "- The design of the app has been improved.\n- iPhone Duo support.",
-      "averageUserRating": 4.77074,
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -370,13 +370,10 @@
         "ES",
         "TR"
       ],
-      "fileSizeBytes": "18344960",
+      "fileSizeBytes": "18396160",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 6028,
+      "userRatingCountForCurrentVersion": 6115,
       "trackContentRating": "4+",
-      "trackCensoredName": "My Earthquake Alerts Pro",
-      "trackViewUrl": "https://apps.apple.com/us/app/my-earthquake-alerts-pro/id975770717?uo=4",
-      "contentAdvisoryRating": "4+",
       "artistId": 549019599,
       "artistName": "JRustonApps B.V.",
       "genres": [
@@ -384,25 +381,30 @@
         "Travel"
       ],
       "price": 2.99,
-      "bundleId": "com.jrustonapps.My-Earthquake-Alerts-Pro",
+      "releaseDate": "2015-04-04T07:02:44Z",
+      "trackName": "My Earthquake Alerts Pro",
+      "trackId": 975770717,
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6001",
         "6003"
       ],
-      "releaseDate": "2015-04-04T07:02:44Z",
-      "trackId": 975770717,
-      "trackName": "My Earthquake Alerts Pro",
+      "sellerName": "JRustonApps B.V.",
       "primaryGenreName": "Weather",
       "primaryGenreId": 6001,
-      "sellerName": "JRustonApps B.V.",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-13T16:48:11Z",
-      "version": "26.6.1",
+      "currentVersionReleaseDate": "2026-11-08T13:07:06Z",
+      "releaseNotes": "Bug fixes and performance improvements.",
+      "version": "26.6.6",
       "wrapperType": "software",
       "currency": "USD",
       "description": "My Earthquake Alerts Pro is a powerful earthquake monitoring app which delivers all of the information you need, with push notifications included. It also includes a beautifully simple design optimized for the latest iPhone and iPad.\n\nFEATURES\n- Live earthquake map which can detect and track earthquakes from all around the world.\n- Earthquake alerts customized for you, with no restrictions. You will be notified shortly after an earthquake occurs.\n- Powerful search feature to find earthquake history dating back to 1970!\n- Beautiful & simple design - view the earthquake feed on a map and in a list.\n- Find the exact location, the depth and the distance away from you.\n- Uses information from a wide variety of earthquake networks, including the USGS and EMSC.\n- Support for the latest iPhone and iPad models.\n- Pro version is ad-free and includes Apple Watch support!\n\nIf you need information or notifications about the latest earthquakes near to you, download My Earthquake Alerts Pro today. It is similar to apps such as Quakes, MyQuake and QuakeFeed.",
-      "minimumOsVersion": "17.0",
-      "userRatingCount": 6028,
+      "averageUserRating": 4.7722,
+      "trackCensoredName": "My Earthquake Alerts Pro",
+      "trackViewUrl": "https://apps.apple.com/us/app/my-earthquake-alerts-pro/id975770717?uo=4",
+      "contentAdvisoryRating": "4+",
+      "bundleId": "com.jrustonapps.My-Earthquake-Alerts-Pro",
+      "userRatingCount": 6115,
       "country": "USA"
     }
   ]

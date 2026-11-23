@@ -385,28 +385,11 @@
       "country": "JPN"
     },
     {
+      "advisories": [],
       "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/18/19/1b1819da-9ece-7d5b-1efc-5f201813ad28/iphone-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/25/4c/08254cd1-4ff7-3142-caa8-f7160d7cfa63/iphone-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bf/81/c9bf817d-ebf5-4622-b98a-c4f4dc27cd0f/iphone-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/b5/97/86b5977f-f444-ea6c-a800-c79f9a5dd61b/iphone-4.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/8d/b5/c78db52b-2d8e-f4f4-1c95-7e759073e44b/ipad-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a8/c2/fca8c256-ecb9-14cc-6811-b53fe298c318/ipad-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/0b/59/ca0b59d8-148a-9ead-c9fd-289ca9e65c63/ipad-3.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/kaylee-calderolla/id379876189?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -542,53 +525,85 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "releaseNotes": "• Wipr is now awesome on iPhone Duo\n• Wipr Extra improvements on many websites",
-      "currentVersionReleaseDate": "2026-11-11T16:34:24Z",
-      "bundleId": "site.kaylees.Wipr2",
-      "price": 4.99,
-      "genreIds": [
-        "6002",
-        "6007"
+      "kind": "software",
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/2a/03/ee2a034f-e474-3a2a-95b7-f02c4f1f19f8/iphone-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/99/78/90997865-a3d2-c851-8060-a958096f9efc/iphone-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ec/d7/60ecd7ef-37e4-7821-254e-091402774851/iphone-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d8/c2/57d8c22b-4100-fe97-fd9d-fd37e6e83b91/iphone-4.png/320x480bb.jpg"
       ],
-      "trackId": 1662217862,
-      "trackName": "Wipr 2",
-      "releaseDate": "2024-11-12T08:00:00Z",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/2f/26102f4b-ebaf-a018-e647-07e458cdbb35/ipad-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/76/00/3e760033-c830-f028-928f-6823a822d4bd/ipad-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/31/e0/f331e01d-ca8a-c597-97cd-86f96aca5c54/ipad-3.png/360x480bb.jpg"
+      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/kaylee-calderolla/id379876189?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "minimumOsVersion": "17.0",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Kaylee Calderolla",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.46",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRatingForCurrentVersion": 4.67271,
-      "sellerUrl": "https://kaylees.site/wipr2.html",
-      "fileSizeBytes": "14457856",
-      "formattedPrice": "$4.99",
-      "userRatingCountForCurrentVersion": 1378,
-      "trackContentRating": "4+",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "averageUserRating": 4.67271,
-      "trackViewUrl": "https://apps.apple.com/us/app/wipr-2/id1662217862?uo=4",
-      "contentAdvisoryRating": "4+",
-      "trackCensoredName": "Wipr 2",
       "artistId": 379876189,
       "artistName": "Kaylee Calderolla",
       "genres": [
         "Utilities",
         "Productivity"
       ],
-      "userRatingCount": 1378,
+      "price": 4.99,
+      "trackId": 1662217862,
+      "trackName": "Wipr 2",
+      "releaseNotes": "• Improved diagnostics\n• Wipr Extra improvements on many websites",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "currentVersionReleaseDate": "2026-11-18T18:47:58Z",
+      "releaseDate": "2024-11-12T08:00:00Z",
+      "version": "2.47",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "sellerUrl": "https://kaylees.site/wipr2.html",
+      "averageUserRatingForCurrentVersion": 4.6763,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "14461952",
+      "formattedPrice": "$4.99",
+      "userRatingCountForCurrentVersion": 1384,
+      "trackContentRating": "4+",
+      "trackCensoredName": "Wipr 2",
+      "trackViewUrl": "https://apps.apple.com/us/app/wipr-2/id1662217862?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.6763,
+      "bundleId": "site.kaylees.Wipr2",
+      "sellerName": "Kaylee Calderolla",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "userRatingCount": 1384,
       "country": "USA"
     },
     {
       "isGameCenterEnabled": false,
+      "advisories": [],
+      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/de/developer/kaylee-calderolla/id379876189?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/2a/03/ee2a034f-e474-3a2a-95b7-f02c4f1f19f8/iphone-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/99/78/90997865-a3d2-c851-8060-a958096f9efc/iphone-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ec/d7/60ecd7ef-37e4-7821-254e-091402774851/iphone-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d8/c2/57d8c22b-4100-fe97-fd9d-fd37e6e83b91/iphone-4.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/2f/26102f4b-ebaf-a018-e647-07e458cdbb35/ipad-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/76/00/3e760033-c830-f028-928f-6823a822d4bd/ipad-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/31/e0/f331e01d-ca8a-c597-97cd-86f96aca5c54/ipad-3.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
@@ -727,68 +742,69 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/18/19/1b1819da-9ece-7d5b-1efc-5f201813ad28/iphone-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/25/4c/08254cd1-4ff7-3142-caa8-f7160d7cfa63/iphone-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bf/81/c9bf817d-ebf5-4622-b98a-c4f4dc27cd0f/iphone-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/b5/97/86b5977f-f444-ea6c-a800-c79f9a5dd61b/iphone-4.png/320x480bb.jpg"
+      "price": 5.99,
+      "releaseDate": "2024-11-12T08:00:00Z",
+      "minimumOsVersion": "17.0",
+      "genreIds": [
+        "6002",
+        "6007"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/8d/b5/c78db52b-2d8e-f4f4-1c95-7e759073e44b/ipad-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a8/c2/fca8c256-ecb9-14cc-6811-b53fe298c318/ipad-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/0b/59/ca0b59d8-148a-9ead-c9fd-289ca9e65c63/ipad-3.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Kaylee Calderolla",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-18T18:47:58Z",
+      "releaseNotes": "• Improved diagnostics\n• Wipr Extra improvements on many websites",
+      "version": "2.47",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRatingForCurrentVersion": 4.72705,
       "trackViewUrl": "https://apps.apple.com/de/app/wipr-2/id1662217862?uo=4",
-      "contentAdvisoryRating": "4+",
+      "sellerUrl": "https://kaylees.site/wipr2.html",
+      "averageUserRating": 4.72705,
       "trackCensoredName": "Wipr 2",
-      "averageUserRating": 4.7439,
-      "artistId": 379876189,
-      "artistName": "Kaylee Calderolla",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "14461952",
+      "formattedPrice": "5,99 €",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 414,
+      "trackContentRating": "4+",
+      "bundleId": "site.kaylees.Wipr2",
+      "trackId": 1662217862,
+      "trackName": "Wipr 2",
       "genres": [
         "Dienst­programme",
         "Produktivität"
       ],
-      "price": 5.99,
-      "bundleId": "site.kaylees.Wipr2",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "minimumOsVersion": "17.0",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "trackId": 1662217862,
-      "trackName": "Wipr 2",
-      "sellerName": "Kaylee Calderolla",
-      "releaseDate": "2024-11-12T08:00:00Z",
-      "currentVersionReleaseDate": "2026-11-11T16:34:24Z",
-      "releaseNotes": "• Wipr is now awesome on iPhone Duo\n• Wipr Extra improvements on many websites",
-      "version": "2.46",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "sellerUrl": "https://kaylees.site/wipr2.html",
-      "averageUserRatingForCurrentVersion": 4.7439,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "14457856",
-      "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 410,
-      "trackContentRating": "4+",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "userRatingCount": 410,
+      "artistId": 379876189,
+      "artistName": "Kaylee Calderolla",
+      "userRatingCount": 414,
       "country": "DEU"
     },
     {
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/2a/03/ee2a034f-e474-3a2a-95b7-f02c4f1f19f8/iphone-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/99/78/90997865-a3d2-c851-8060-a958096f9efc/iphone-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ec/d7/60ecd7ef-37e4-7821-254e-091402774851/iphone-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d8/c2/57d8c22b-4100-fe97-fd9d-fd37e6e83b91/iphone-4.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/2f/26102f4b-ebaf-a018-e647-07e458cdbb35/ipad-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/76/00/3e760033-c830-f028-928f-6823a822d4bd/ipad-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/31/e0/f331e01d-ca8a-c597-97cd-86f96aca5c54/ipad-3.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/kaylee-calderolla/id379876189?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -924,84 +940,71 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/18/19/1b1819da-9ece-7d5b-1efc-5f201813ad28/iphone-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/25/4c/08254cd1-4ff7-3142-caa8-f7160d7cfa63/iphone-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bf/81/c9bf817d-ebf5-4622-b98a-c4f4dc27cd0f/iphone-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/b5/97/86b5977f-f444-ea6c-a800-c79f9a5dd61b/iphone-4.png/320x480bb.jpg"
+      "bundleId": "site.kaylees.Wipr2",
+      "sellerUrl": "https://kaylees.site/wipr2.html",
+      "languageCodesISO2A": [
+        "EN"
       ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/8d/b5/c78db52b-2d8e-f4f4-1c95-7e759073e44b/ipad-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a8/c2/fca8c256-ecb9-14cc-6811-b53fe298c318/ipad-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/0b/59/ca0b59d8-148a-9ead-c9fd-289ca9e65c63/ipad-3.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.78824,
-      "releaseNotes": "• Wipr is now awesome on iPhone Duo\n• Wipr Extra improvements on many websites",
+      "fileSizeBytes": "14461952",
+      "formattedPrice": "5,99 €",
+      "userRatingCountForCurrentVersion": 85,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.78824,
       "trackCensoredName": "Wipr 2",
       "trackViewUrl": "https://apps.apple.com/fr/app/wipr-2/id1662217862?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 379876189,
-      "artistName": "Kaylee Calderolla",
+      "averageUserRating": 4.78824,
       "genres": [
         "Utilitaires",
         "Productivité"
       ],
+      "artistId": 379876189,
+      "artistName": "Kaylee Calderolla",
       "price": 5.99,
-      "bundleId": "site.kaylees.Wipr2",
-      "sellerName": "Kaylee Calderolla",
-      "minimumOsVersion": "17.0",
       "trackId": 1662217862,
       "trackName": "Wipr 2",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
       "releaseDate": "2024-11-12T08:00:00Z",
+      "minimumOsVersion": "17.0",
       "genreIds": [
         "6002",
         "6007"
       ],
+      "sellerName": "Kaylee Calderolla",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-11T16:34:24Z",
-      "version": "2.46",
+      "currentVersionReleaseDate": "2026-11-18T18:47:58Z",
+      "releaseNotes": "• Improved diagnostics\n• Wipr Extra improvements on many websites",
+      "version": "2.47",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "sellerUrl": "https://kaylees.site/wipr2.html",
-      "averageUserRatingForCurrentVersion": 4.78824,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "14457856",
-      "formattedPrice": "5,99 €",
-      "userRatingCountForCurrentVersion": 85,
-      "trackContentRating": "4+",
       "userRatingCount": 85,
       "country": "FRA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/18/19/1b1819da-9ece-7d5b-1efc-5f201813ad28/iphone-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/25/4c/08254cd1-4ff7-3142-caa8-f7160d7cfa63/iphone-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bf/81/c9bf817d-ebf5-4622-b98a-c4f4dc27cd0f/iphone-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/b5/97/86b5977f-f444-ea6c-a800-c79f9a5dd61b/iphone-4.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/8d/b5/c78db52b-2d8e-f4f4-1c95-7e759073e44b/ipad-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/a8/c2/fca8c256-ecb9-14cc-6811-b53fe298c318/ipad-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/0b/59/ca0b59d8-148a-9ead-c9fd-289ca9e65c63/ipad-3.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/kaylee-calderolla/id379876189?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/2a/03/ee2a034f-e474-3a2a-95b7-f02c4f1f19f8/iphone-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/99/78/90997865-a3d2-c851-8060-a958096f9efc/iphone-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/ec/d7/60ecd7ef-37e4-7821-254e-091402774851/iphone-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/d8/c2/57d8c22b-4100-fe97-fd9d-fd37e6e83b91/iphone-4.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/2f/26102f4b-ebaf-a018-e647-07e458cdbb35/ipad-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/76/00/3e760033-c830-f028-928f-6823a822d4bd/ipad-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/31/e0/f331e01d-ca8a-c597-97cd-86f96aca5c54/ipad-3.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/db/a8/63dba898-d580-4ad0-519b-b4354228dd87/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -1137,21 +1140,21 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/kaylee-calderolla/id379876189?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/03/d6/cc03d677-f869-1fd8-c887-8ce6d9542e93/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.jpg",
       "advisories": [],
-      "averageUserRatingForCurrentVersion": 4.78341,
+      "kind": "software",
+      "trackCensoredName": "Wipr 2",
+      "averageUserRatingForCurrentVersion": 4.7844,
+      "trackViewUrl": "https://apps.apple.com/gb/app/wipr-2/id1662217862?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.7844,
+      "sellerUrl": "https://kaylees.site/wipr2.html",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "14457856",
+      "fileSizeBytes": "14461952",
       "formattedPrice": "£4.99",
-      "userRatingCountForCurrentVersion": 217,
+      "userRatingCountForCurrentVersion": 218,
       "trackContentRating": "4+",
-      "sellerUrl": "https://kaylees.site/wipr2.html",
-      "releaseNotes": "• Wipr is now awesome on iPhone Duo\n• Wipr Extra improvements on many websites",
       "artistId": 379876189,
       "artistName": "Kaylee Calderolla",
       "genres": [
@@ -1159,29 +1162,26 @@
         "Productivity"
       ],
       "price": 4.99,
+      "minimumOsVersion": "17.0",
       "bundleId": "site.kaylees.Wipr2",
       "trackId": 1662217862,
       "trackName": "Wipr 2",
-      "releaseDate": "2024-11-12T08:00:00Z",
-      "currentVersionReleaseDate": "2026-11-11T16:34:24Z",
-      "minimumOsVersion": "17.0",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Kaylee Calderolla",
       "genreIds": [
         "6002",
         "6007"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Kaylee Calderolla",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.46",
+      "releaseDate": "2024-11-12T08:00:00Z",
+      "currentVersionReleaseDate": "2026-11-18T18:47:58Z",
+      "releaseNotes": "• Improved diagnostics\n• Wipr Extra improvements on many websites",
+      "version": "2.47",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap. Apple featured Wipr in “The Best Safari Extensions”.\n\nThe Filtr add-on extends Wipr’s blocking to all apps on your devices. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.\n\nWipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.\n\nWipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.\n\nBecause it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.\n\nThis app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.\n\n– Kaylee\n\n\n\nTerms & Conditions: https://kaylees.site/terms-and-conditions.html\nEULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRating": 4.78341,
-      "trackCensoredName": "Wipr 2",
-      "trackViewUrl": "https://apps.apple.com/gb/app/wipr-2/id1662217862?uo=4",
-      "contentAdvisoryRating": "4+",
-      "userRatingCount": 217,
+      "userRatingCount": 218,
       "country": "GBR"
     }
   ]

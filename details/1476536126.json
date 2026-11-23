@@ -16,12 +16,11 @@
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/63/6a/d1636a84-ce6b-a4f2-0693-3a790d0f21cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/de/developer/flaconi-gmbh/id1449590460?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/63/6a/d1636a84-ce6b-a4f2-0693-3a790d0f21cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/63/6a/d1636a84-ce6b-a4f2-0693-3a790d0f21cc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "features": [],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -157,6 +156,9 @@
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "kind": "software",
+      "features": [],
+      "fileSizeBytes": "129547264",
+      "averageUserRatingForCurrentVersion": 4.7747,
       "sellerUrl": "https://www.flaconi.de/",
       "languageCodesISO2A": [
         "CS",
@@ -174,42 +176,40 @@
         "ES",
         "SV"
       ],
-      "fileSizeBytes": "129547264",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 45580,
+      "userRatingCountForCurrentVersion": 46436,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.774,
-      "averageUserRating": 4.774,
-      "sellerName": "Flaconi GMBH",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-13T13:48:27Z",
+      "averageUserRating": 4.7747,
       "trackCensoredName": "flaconi: Der Beauty-Onlineshop",
       "trackViewUrl": "https://apps.apple.com/de/app/flaconi-der-beauty-onlineshop/id1476536126?uo=4",
       "contentAdvisoryRating": "4+",
-      "price": 0,
-      "artistId": 1449590460,
-      "artistName": "Flaconi GMBH",
-      "genres": [
-        "Shopping",
-        "Lifestyle"
-      ],
-      "releaseNotes": "Die Black Week kommt bald! Freu dich auf unsere größten Deals des Jahres – direkt in der App. Jetzt updaten, damit du nichts verpasst.  Außerdem haben wir Fehler behoben und die Performance verbessert.",
-      "trackName": "flaconi: Der Beauty-Onlineshop",
+      "minimumOsVersion": "16.0",
       "trackId": 1476536126,
-      "releaseDate": "2020-12-14T08:00:00Z",
+      "trackName": "flaconi: Der Beauty-Onlineshop",
       "genreIds": [
         "6024",
         "6012"
       ],
       "primaryGenreName": "Shopping",
       "primaryGenreId": 6024,
-      "minimumOsVersion": "16.0",
+      "sellerName": "Flaconi GMBH",
+      "currentVersionReleaseDate": "2026-11-13T13:48:27Z",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "Die Black Week kommt bald! Freu dich auf unsere größten Deals des Jahres – direkt in der App. Jetzt updaten, damit du nichts verpasst.  Außerdem haben wir Fehler behoben und die Performance verbessert.",
       "version": "7.2.2",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Wir revolutionieren dein Beauty-Shopping-Erlebnis mit der flaconi Shopping App. Entdecke die angesagtesten Produkte auf deinem Smartphone oder Tablet und lass dich von den Trends der Saison inspirieren. Du hast die Möglichkeit, aus über 1.000 Marken und mehr als 55.000 Produkten zu wählen und deine perfekten Beauty-Helden zu finden. Egal, ob Make-up, Pflegeprodukte oder dein Lieblingsduft – deine Bestellung ist in kürzester Zeit bei dir und du kannst sie innerhalb von 120 Tagen kostenlos zurücksenden.\n\nMach dein Beauty-Shopping zu einem echten Erlebnis mit flaconi. Lade dir jetzt die App herunter und tauche ein in die Welt der Schönheit!",
       "bundleId": "de.flaconi.flaconi",
-      "userRatingCount": 45580,
+      "releaseDate": "2020-12-14T08:00:00Z",
+      "genres": [
+        "Shopping",
+        "Lifestyle"
+      ],
+      "artistId": 1449590460,
+      "artistName": "Flaconi GMBH",
+      "price": 0,
+      "userRatingCount": 46436,
       "country": "DEU"
     }
   ]

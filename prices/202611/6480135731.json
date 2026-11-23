@@ -1,0 +1,34 @@
+{
+  "id": "6480135731",
+  "name": "Groove Rider 2",
+  "month": "202611",
+  "fetchedAt": "2026-11-23T11:24:43.329Z",
+  "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Super Tip",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "Cake Tip",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "Coffee Tip",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "Cookie Tip",
+          "price": "1,99 €",
+          "amount": 1.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:24:43.328Z"
+    }
+  }
+}

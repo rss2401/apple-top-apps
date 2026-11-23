@@ -185,10 +185,30 @@
       "userRatingCount": 6
     },
     {
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f2/06/8cf20601-487a-8b60-7f52-9a7e97eb2e9c/11.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/21/ca/2321cac1-fb9c-c8f6-c8e1-a024dbd8df53/12.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/45/b1/ba45b14f-e784-d57b-8d40-7a0bdc3c086b/13.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/26/f5/c626f534-b3d4-cc8e-c1bd-790403561814/15.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/39/d9/ab39d9ee-9c4d-493b-3014-c4fea700ac97/18.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/71/82/6171822d-c15b-3ad5-89e7-fee82f818365/16.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ed/1e/91ed1e3b-74ee-92aa-5305-db36360ea896/14.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/5e/e1/725ee1fa-3cb0-06f4-3ef0-abe460a71788/17.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/03/93/a70393fd-47b8-0b53-96b4-4c10e57eb847/19.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/ae/7d/70ae7d88-a9bb-73e9-ce0d-fb3e9efd78b9/20.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/11/30/7c1130c4-4414-0645-00b5-c3dd92571174/Adsiz_Tasarim_Kopyasi_Kopyasi__U00282048_x_2732_piksel_U0029.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/0c/98/160c98f6-b7b1-d586-db5f-003d2b872180/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/mustafa-pistofoglu/id1696939796?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b2/62/72b26266-8726-61ac-71e3-5b55f636dd2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b2/62/72b26266-8726-61ac-71e3-5b55f636dd2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/0c/98/160c98f6-b7b1-d586-db5f-003d2b872180/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/0c/98/160c98f6-b7b1-d586-db5f-003d2b872180/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -324,59 +344,9 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/f2/06/8cf20601-487a-8b60-7f52-9a7e97eb2e9c/11.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/21/ca/2321cac1-fb9c-c8f6-c8e1-a024dbd8df53/12.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/45/b1/ba45b14f-e784-d57b-8d40-7a0bdc3c086b/13.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/26/f5/c626f534-b3d4-cc8e-c1bd-790403561814/15.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/39/d9/ab39d9ee-9c4d-493b-3014-c4fea700ac97/18.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/71/82/6171822d-c15b-3ad5-89e7-fee82f818365/16.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/ed/1e/91ed1e3b-74ee-92aa-5305-db36360ea896/14.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/5e/e1/725ee1fa-3cb0-06f4-3ef0-abe460a71788/17.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/03/93/a70393fd-47b8-0b53-96b4-4c10e57eb847/19.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/70/ae/7d/70ae7d88-a9bb-73e9-ce0d-fb3e9efd78b9/20.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/11/30/7c1130c4-4414-0645-00b5-c3dd92571174/Adsiz_Tasarim_Kopyasi_Kopyasi__U00282048_x_2732_piksel_U0029.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/b2/62/72b26266-8726-61ac-71e3-5b55f636dd2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "averageUserRating": 4.63889,
-      "releaseNotes": "Dans cette mise à jour, d'après vos retours :\n\nRepère de waypoint\nLa pointe du repère se place exactement sur la coordonnée et ne bouge plus lors du zoom.\n\nNoms des waypoints\nChoisissez où afficher les noms : en dessous, au-dessus, à droite ou à gauche.\n\nMesure\nLe relèvement (azimut) s'affiche désormais sur la carte pendant la mesure de distance.\n\nImport de cartes\nImportez vos cartes PNG, JPG et TIFF avec leurs fichiers de calage (PGW, JGW, TFW).\n\nCartes PDF et KMZ\nLes cartes PDF s'alignent parfaitement et les fichiers KMZ volumineux s'ouvrent avec fluidité. Les étiquettes restent nettes au zoom et vous pouvez masquer les marges blanches.\n\nDéplacement des zones\nDéplacez les zones dessinées sur la carte et annulez le déplacement si nécessaire.\n\nSAD69\nSAD69 a été ajouté aux systèmes de coordonnées.\n\nMerci pour vos retours et bonne route !",
-      "trackCensoredName": "Alpin Quest PRO – Outdoor GPS",
-      "trackViewUrl": "https://apps.apple.com/fr/app/alpin-quest-pro-outdoor-gps/id6760764479?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1696939796,
-      "artistName": "mustafa pistofoglu",
-      "genres": [
-        "Navigation",
-        "Voyages"
-      ],
-      "price": 9.99,
       "bundleId": "com.alpinquest.app",
-      "sellerName": "mustafa pistofoglu",
-      "minimumOsVersion": "15.0",
-      "trackId": 6760764479,
-      "trackName": "Alpin Quest PRO – Outdoor GPS",
-      "primaryGenreName": "Navigation",
-      "primaryGenreId": 6010,
-      "releaseDate": "2026-03-23T07:00:00Z",
-      "genreIds": [
-        "6010",
-        "6003"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-11T21:52:41Z",
-      "version": "10.0.200+2500",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Alpin Quest PRO est une application GPS et SIG de terrain professionnelle conçue pour les militaires, géologues, géomètres, forestiers, alpinistes, chasseurs et conducteurs tout-terrain. Intégrez vos cartes papier sur votre appareil et suivez votre position exacte sur le terrain, sans aucun réseau.\n\nCARTES\n• Cartes satellite, topographiques, hybrides et routières ; courbes de niveau et relief ombré\n• Noms des sommets, cols, sources et cours d'eau sur la carte\n• Grille kilométrique MGRS et UTM, verrouillage à l'échelle (ex. 1:25 000)\n• Type de terrain, pente et altitude en temps réel\n\nIMPORTEZ VOS CARTES\n• GeoPDF (ArcGIS, QGIS, cartes forestières), GeoTIFF, MBTiles, GeoPackage\n• Superpositions KMZ et fichiers KMZ volumineux multi-niveaux\n• Shapefile (ZIP), vecteurs KML/KMZ, Memory-Map (.qct), AlpineQuest AQX\n• Image + fichier de calage : PNG, JPG, TIFF avec PGW, JGW, TFW\n• Masquage des bordures blanches, transparence et ordre des couches\n\nMODE HORS-LIGNE\n• Téléchargez la vue écran, une zone sélectionnée ou un couloir d'itinéraire\n• Mise en cache automatique des zones consultées\n• Toutes les fonctionnalités disponibles sans réseau cellulaire\n\nSYSTÈMES DE COORDONNÉES (19)\n• MGRS, UTM, USNG, WGS84, DMS, DDM, Plus Code, QTH\n• ED50, CK-42 / SK-42, BNG (OSGB), India Grid, NSF LCC, Lambert Maroc\n• Gauss-Krüger Argentine, Arc 1960, RSO Malaya, SAD69\n• Affichage instantané sur tous les systèmes avec copie en un clic\n• Déclinaison magnétique (NOAA WMM), nord géographique, magnétique et grille ; degrés ou millièmes\n\nPOINTS DE REPÈRE (WAYPOINTS)\n• Points illimités, photos géoréférencées, dossiers et recherche rapide\n• Saisie manuelle par coordonnées et calcul de moyenne pour une précision maximale\n• Distance, cap et heure d'arrivée estimée (ETA) en direct\n• Position de l'étiquette au choix : haut, bas, droite, gauche\n\nITINÉRAIRES & TRACES\n• Tracé point par point, par glissement ou à main levée\n• Calcul d'itinéraire automatique selon le réseau routier (marche, véhicule, randonnée)\n• Profil d'élévation avec dénivelé positif et négatif\n• Enregistrement continu en arrière-plan avec statistiques de vitesse et de distance\n• Alerte d'écart d'itinéraire\n\nTERRAIN 3D\n• Visualisez vos itinéraires et zones opérationnelles sur un relief en 3D\n\nZONES & DESSIN\n• Polygones, cercles et rectangles avec calcul de surface et périmètre\n• Déplacement, édition des sommets, division en parcelles et secteurs\n• Motifs géologiques, dessin à main levée et annotations pour briefings\n\nPROJETS (SIG) & MODE ÉQUIPE\n• Regroupez waypoints, itinéraires, zones et cartes d'une même mission dans un projet unique\n• Export en KML, KMZ, GPX, Shapefile et UTM Shapefile\n• Mode Équipe : partagez votre projet et suivez vos équipiers en direct sur la carte\n\nRÉALITÉ AUGMENTÉE (RA) & MONTRE\n• Vue RA : identification des sommets et cols environnants avec la caméra\n• Guidage de cap et boussole sur Apple Watch\n\nOUTILS DE TERRAIN\n• Alerte de proximité à l'approche de l'objectif\n• Tamponnage des coordonnées et du cap sur vos photos\n• Météo détaillée : prévisions horaires et à 7 jours, éphémérides, phases lunaires\n• Profils d'enregistrement économes en batterie\n• Zoom via les boutons de volume (compatible avec des gants)\n• Export de cartes PDF avec carroyage (A4, A3)\n• Tutoriel interactif étape par étape\n\nPARTAGE DE FICHIERS\n• Import : GPX, KML, KMZ, GeoJSON, DXF, Shapefile\n• Export : GPX, KML, KMZ, CSV, Shapefile, GeoPDF, GeoPackage\n• Ouverture directe depuis WhatsApp, Mail et l'application Fichiers\n\nPolitique de confidentialité : https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/\nConditions d'utilisation (EULA) : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRatingForCurrentVersion": 4.63889,
       "languageCodesISO2A": [
         "AF",
         "AR",
@@ -410,11 +380,41 @@
         "UK",
         "UZ"
       ],
-      "fileSizeBytes": "62726144",
+      "fileSizeBytes": "62795776",
       "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 36,
+      "userRatingCountForCurrentVersion": 42,
       "trackContentRating": "4+",
-      "userRatingCount": 36,
+      "averageUserRatingForCurrentVersion": 4.61904,
+      "trackCensoredName": "Alpin Quest PRO – Outdoor GPS",
+      "trackViewUrl": "https://apps.apple.com/fr/app/alpin-quest-pro-outdoor-gps/id6760764479?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.61904,
+      "genres": [
+        "Navigation",
+        "Voyages"
+      ],
+      "artistId": 1696939796,
+      "artistName": "mustafa pistofoglu",
+      "price": 9.99,
+      "trackId": 6760764479,
+      "trackName": "Alpin Quest PRO – Outdoor GPS",
+      "releaseDate": "2026-03-23T07:00:00Z",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6010",
+        "6003"
+      ],
+      "sellerName": "mustafa pistofoglu",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-20T00:48:45Z",
+      "releaseNotes": "Dans cette mise à jour, d'après vos retours :\n\n• Création et gestion de waypoints : Processus plus rapide et fluide pour ajouter des waypoints sur la carte ou par coordonnées.\n• Outils de mesure : Améliorations des outils de mesure de distance, de surface et de relèvement pour plus de précision et de clarté.\n• Améliorations des performances : Affichage des cartes, zoom et changement de couches plus rapides.\n• Stabilité et corrections : Améliorations de l'ergonomie sur le terrain et corrections de bugs généraux.\n\nMerci pour vos retours et bonne route !",
+      "version": "10.0.350+2600",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Alpin Quest PRO est une application GPS et SIG de terrain professionnelle conçue pour les militaires, géologues, géomètres, forestiers, alpinistes, chasseurs et conducteurs tout-terrain. Intégrez vos cartes papier sur votre appareil et suivez votre position exacte sur le terrain, sans aucun réseau.\n\nCARTES\n• Cartes satellite, topographiques, hybrides et routières ; courbes de niveau et relief ombré\n• Noms des sommets, cols, sources et cours d'eau sur la carte\n• Grille kilométrique MGRS et UTM, verrouillage à l'échelle (ex. 1:25 000)\n• Type de terrain, pente et altitude en temps réel\n\nIMPORTEZ VOS CARTES\n• GeoPDF (ArcGIS, QGIS, cartes forestières), GeoTIFF, MBTiles, GeoPackage\n• Superpositions KMZ et fichiers KMZ volumineux multi-niveaux\n• Shapefile (ZIP), vecteurs KML/KMZ, Memory-Map (.qct), AlpineQuest AQX\n• Image + fichier de calage : PNG, JPG, TIFF avec PGW, JGW, TFW\n• Masquage des bordures blanches, transparence et ordre des couches\n\nMODE HORS-LIGNE\n• Téléchargez la vue écran, une zone sélectionnée ou un couloir d'itinéraire\n• Mise en cache automatique des zones consultées\n• Toutes les fonctionnalités disponibles sans réseau cellulaire\n\nSYSTÈMES DE COORDONNÉES (19)\n• MGRS, UTM, USNG, WGS84, DMS, DDM, Plus Code, QTH\n• ED50, CK-42 / SK-42, BNG (OSGB), India Grid, NSF LCC, Lambert Maroc\n• Gauss-Krüger Argentine, Arc 1960, RSO Malaya, SAD69\n• Affichage instantané sur tous les systèmes avec copie en un clic\n• Déclinaison magnétique (NOAA WMM), nord géographique, magnétique et grille ; degrés ou millièmes\n\nPOINTS DE REPÈRE (WAYPOINTS)\n• Points illimités, photos géoréférencées, dossiers et recherche rapide\n• Saisie manuelle par coordonnées et calcul de moyenne pour une précision maximale\n• Distance, cap et heure d'arrivée estimée (ETA) en direct\n• Position de l'étiquette au choix : haut, bas, droite, gauche\n\nITINÉRAIRES & TRACES\n• Tracé point par point, par glissement ou à main levée\n• Calcul d'itinéraire automatique selon le réseau routier (marche, véhicule, randonnée)\n• Profil d'élévation avec dénivelé positif et négatif\n• Enregistrement continu en arrière-plan avec statistiques de vitesse et de distance\n• Alerte d'écart d'itinéraire\n\nTERRAIN 3D\n• Visualisez vos itinéraires et zones opérationnelles sur un relief en 3D\n\nZONES & DESSIN\n• Polygones, cercles et rectangles avec calcul de surface et périmètre\n• Déplacement, édition des sommets, division en parcelles et secteurs\n• Motifs géologiques, dessin à main levée et annotations pour briefings\n\nPROJETS (SIG) & MODE ÉQUIPE\n• Regroupez waypoints, itinéraires, zones et cartes d'une même mission dans un projet unique\n• Export en KML, KMZ, GPX, Shapefile et UTM Shapefile\n• Mode Équipe : partagez votre projet et suivez vos équipiers en direct sur la carte\n\nRÉALITÉ AUGMENTÉE (RA) & MONTRE\n• Vue RA : identification des sommets et cols environnants avec la caméra\n• Guidage de cap et boussole sur Apple Watch\n\nOUTILS DE TERRAIN\n• Alerte de proximité à l'approche de l'objectif\n• Tamponnage des coordonnées et du cap sur vos photos\n• Météo détaillée : prévisions horaires et à 7 jours, éphémérides, phases lunaires\n• Profils d'enregistrement économes en batterie\n• Zoom via les boutons de volume (compatible avec des gants)\n• Export de cartes PDF avec carroyage (A4, A3)\n• Tutoriel interactif étape par étape\n\nPARTAGE DE FICHIERS\n• Import : GPX, KML, KMZ, GeoJSON, DXF, Shapefile\n• Export : GPX, KML, KMZ, CSV, Shapefile, GeoPDF, GeoPackage\n• Ouverture directe depuis WhatsApp, Mail et l'application Fichiers\n\nPolitique de confidentialité : https://www.cte.militaryapp.net/2026/09/14/alpin-quest-pro-outdoor-gps/\nConditions d'utilisation (EULA) : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "userRatingCount": 42,
       "country": "FRA"
     }
   ]

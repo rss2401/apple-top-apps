@@ -2,7 +2,7 @@
   "id": "1449584007",
   "name": "Koala Sampler",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:04:13.021Z",
+  "fetchedAt": "2026-11-23T11:05:02.265Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -28,11 +28,6 @@
           "amount": 2.99
         },
         {
-          "name": "Ese-O's Sample Pack",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "Soon Come Dub Sample Pack",
           "price": "2,99 €",
           "amount": 2.99
@@ -41,9 +36,14 @@
           "name": "Solar Studies Samplepack",
           "price": "2,99 €",
           "amount": 2.99
+        },
+        {
+          "name": "Ese-O's Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:07.011Z"
+      "fetchedAt": "2026-11-23T11:04:56.556Z"
     },
     "fr": {
       "currency": "EUR",
@@ -64,11 +64,6 @@
           "amount": 2.99
         },
         {
-          "name": "Ese-O's Sample Pack",
-          "price": "2,99 €",
-          "amount": 2.99
-        },
-        {
           "name": "Analog Astronaut Samplepack",
           "price": "2,99 €",
           "amount": 2.99
@@ -82,9 +77,14 @@
           "name": "Solar Studies Samplepack",
           "price": "2,99 €",
           "amount": 2.99
+        },
+        {
+          "name": "Ese-O's Sample Pack",
+          "price": "2,99 €",
+          "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:08.511Z"
+      "fetchedAt": "2026-11-23T11:04:57.978Z"
     },
     "gb": {
       "currency": "GBP",
@@ -125,7 +125,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:10.033Z"
+      "fetchedAt": "2026-11-23T11:04:59.618Z"
     },
     "jp": {
       "currency": "JPY",
@@ -166,7 +166,7 @@
           "amount": 500
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:11.555Z"
+      "fetchedAt": "2026-11-23T11:05:01.068Z"
     },
     "us": {
       "currency": "USD",
@@ -207,7 +207,7 @@
           "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:04:13.021Z"
+      "fetchedAt": "2026-11-23T11:05:02.264Z"
     }
   }
 }

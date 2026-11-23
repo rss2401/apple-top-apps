@@ -2,7 +2,7 @@
   "id": "686449807",
   "name": "Telegram Messenger",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:06:11.284Z",
+  "fetchedAt": "2026-11-23T11:06:58.113Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -58,7 +58,7 @@
           "amount": 52.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:07.101Z"
+      "fetchedAt": "2026-11-23T11:06:53.588Z"
     },
     "fr": {
       "currency": "EUR",
@@ -84,14 +84,14 @@
           "amount": 10.9
         },
         {
-          "name": "1000 Telegram Stars",
-          "price": "21,49 €",
-          "amount": 21.49
-        },
-        {
           "name": "1x Telegram Premium (One Week)",
           "price": "0,99 €",
           "amount": 0.99
+        },
+        {
+          "name": "1000 Telegram Stars",
+          "price": "21,49 €",
+          "amount": 21.49
         },
         {
           "name": "150 Telegram Stars",
@@ -114,7 +114,7 @@
           "amount": 53.9
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:08.657Z"
+      "fetchedAt": "2026-11-23T11:06:55.082Z"
     },
     "gb": {
       "currency": "GBP",
@@ -145,14 +145,14 @@
           "amount": 0.99
         },
         {
-          "name": "750 Telegram Stars",
-          "price": "£13.90",
-          "amount": 13.9
-        },
-        {
           "name": "1000 Telegram Stars",
           "price": "£18.49",
           "amount": 18.49
+        },
+        {
+          "name": "750 Telegram Stars",
+          "price": "£13.90",
+          "amount": 13.9
         },
         {
           "name": "150 Telegram Stars",
@@ -170,7 +170,7 @@
           "amount": 45.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:10.138Z"
+      "fetchedAt": "2026-11-23T11:06:56.601Z"
     },
     "us": {
       "currency": "USD",
@@ -186,14 +186,14 @@
           "amount": 1.99
         },
         {
-          "name": "1x Telegram Premium (One Week)",
-          "price": "$1.19",
-          "amount": 1.19
-        },
-        {
           "name": "500 Telegram Stars",
           "price": "$9.99",
           "amount": 9.99
+        },
+        {
+          "name": "1x Telegram Premium (One Week)",
+          "price": "$1.19",
+          "amount": 1.19
         },
         {
           "name": "1000 Telegram Stars",
@@ -226,7 +226,7 @@
           "amount": 29.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:06:11.284Z"
+      "fetchedAt": "2026-11-23T11:06:58.112Z"
     }
   }
 }

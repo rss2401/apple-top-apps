@@ -2,7 +2,7 @@
   "id": "1671705818",
   "name": "Character AI: Chat, Talk, Text",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:29:50.104Z",
+  "fetchedAt": "2026-11-23T11:27:41.426Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -28,14 +28,14 @@
           "amount": 4.99
         },
         {
-          "name": "Character.AI+",
-          "price": "$94.99",
-          "amount": 94.99
-        },
-        {
           "name": "Character.AI Lite",
           "price": "$2.49",
           "amount": 2.49
+        },
+        {
+          "name": "Character.AI+",
+          "price": "$94.99",
+          "amount": 94.99
         },
         {
           "name": "Charms Large Pack",
@@ -53,12 +53,12 @@
           "amount": 24.99
         },
         {
-          "name": "Charms Extra Extra Extra Large Pack",
-          "price": "$99.99",
-          "amount": 99.99
+          "name": "Charms Extra Extra Large Pack",
+          "price": "$49.99",
+          "amount": 49.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:50.104Z"
+      "fetchedAt": "2026-11-23T11:27:41.426Z"
     }
   }
 }

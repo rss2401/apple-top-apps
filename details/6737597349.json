@@ -256,6 +256,13 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "偶尔/轻微的医药或医疗信息"
+      ],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/86/fa/6886fac4-b44a-c7b8-9798-24b823fb0ac1/1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/89/7d/c0897df9-29c5-145f-6598-c79c2000376b/2.png/320x480bb.jpg",
@@ -271,7 +278,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/b4/c4/2fb4c44f-f607-5ce5-11cf-a96b662dbbfa/5.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/38/c4/cb38c4e2-3a04-5f92-eb04-67a943c32ed1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f8/7b/82f87bff-6224-cdf2-bb4d-2d590b400a5c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f8/7b/82f87bff-6224-cdf2-bb4d-2d590b400a5c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/f8/7b/82f87bff-6224-cdf2-bb4d-2d590b400a5c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%9D%AD%E5%B7%9E%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1777221152?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -406,16 +416,28 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
+      "releaseNotes": "- 修复部分已知问题",
+      "averageUserRating": 3.79316,
+      "genres": [
+        "效率"
       ],
-      "advisories": [
-        "偶尔/轻微的医药或医疗信息"
+      "artistId": 1777221152,
+      "artistName": "杭州深度求索人工智能基础技术研究有限公司",
+      "bundleId": "com.deepseek.chat",
+      "price": 0,
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6007"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%9D%AD%E5%B7%9E%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1777221152?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/38/c4/cb38c4e2-3a04-5f92-eb04-67a943c32ed1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/38/c4/cb38c4e2-3a04-5f92-eb04-67a943c32ed1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-21T09:33:17Z",
+      "version": "2.9.0",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "DeepSeek 官方推出的 AI 助手，免费体验与全球领先 AI 模型的互动交流。\n搭载 DeepSeek 最新旗舰模型，用更快的速度、更加全面强大的功能为你答疑解惑，助力高效美好的生活。\n\n联系我们：\n官方公众号：DeepSeek\n官方邮箱：service@deepseek.com",
       "languageCodesISO2A": [
         "AF",
         "SQ",
@@ -489,40 +511,18 @@
         "VI",
         "ZU"
       ],
-      "fileSizeBytes": "78515200",
+      "fileSizeBytes": "78699520",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 93184,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 99545,
+      "trackViewUrl": "https://apps.apple.com/cn/app/deepseek-ai-%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B/id6737597349?uo=4",
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 3.83841,
-      "artistId": 1777221152,
-      "artistName": "杭州深度求索人工智能基础技术研究有限公司",
-      "genres": [
-        "效率"
-      ],
-      "price": 0,
+      "trackCensoredName": "DeepSeek - AI 智能助手",
+      "averageUserRatingForCurrentVersion": 3.79316,
       "trackId": 6737597349,
       "trackName": "DeepSeek - AI 智能助手",
       "releaseDate": "2025-01-10T08:00:00Z",
-      "releaseNotes": "- 修复部分已知问题",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6007"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Hangzhou DeepSeek Artificial Intelligence Co., Ltd",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-12T06:26:31Z",
-      "version": "2.8.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "DeepSeek 官方推出的 AI 助手，免费体验与全球领先 AI 模型的互动交流。\n搭载 DeepSeek 最新旗舰模型，用更快的速度、更加全面强大的功能为你答疑解惑，助力高效美好的生活。\n\n联系我们：\n官方公众号：DeepSeek\n官方邮箱：service@deepseek.com",
-      "trackCensoredName": "DeepSeek - AI 智能助手",
-      "trackViewUrl": "https://apps.apple.com/cn/app/deepseek-ai-%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B/id6737597349?uo=4",
-      "contentAdvisoryRating": "12+",
-      "bundleId": "com.deepseek.chat",
-      "averageUserRating": 3.83841,
-      "userRatingCount": 93184,
+      "userRatingCount": 99545,
       "country": "CHN"
     }
   ]

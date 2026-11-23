@@ -424,23 +424,6 @@
       "country": "CHN"
     },
     {
-      "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
-      "artistViewUrl": "https://apps.apple.com/jp/developer/rtd/id1804158489?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/74/08/4374087f-6950-5735-87a8-6f6125fa80ed/01_iphone_config-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/58/a22d580a-da9b-b040-dbd2-4a91fe644290/02_iphone_config-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/48/b6/8d48b67d-a74d-66ff-d7c2-f93184a7a7f9/03_iphone_config-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/38/ee/eb38ee23-d0e7-2aa2-686e-e8b2d1dc9477/04_iphone_config-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/22/e2/b122e2e8-c898-c26e-9ac9-fe6c288736c4/05_iphone_config-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/bb/e5/78bbe575-659c-5787-031c-8e2fe0aa14f3/06_iphone_config-6.png/320x480bb.jpg"
-      ],
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/8a/95/9d8a95be-5419-d925-3f2c-7c50da2c73ea/01_ipad_config-1.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/f2/c1/66f2c15b-1951-2330-87ce-c4c7efd68c52/02_ipad_config-2.png/360x480bb.jpg",
@@ -451,6 +434,19 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/74/08/4374087f-6950-5735-87a8-6f6125fa80ed/01_iphone_config-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/2d/58/a22d580a-da9b-b040-dbd2-4a91fe644290/02_iphone_config-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/48/b6/8d48b67d-a74d-66ff-d7c2-f93184a7a7f9/03_iphone_config-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/38/ee/eb38ee23-d0e7-2aa2-686e-e8b2d1dc9477/04_iphone_config-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b1/22/e2/b122e2e8-c898-c26e-9ac9-fe6c288736c4/05_iphone_config-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/bb/e5/78bbe575-659c-5787-031c-8e2fe0aa14f3/06_iphone_config-6.png/320x480bb.jpg"
+      ],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -586,37 +582,15 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "releaseNotes": "10.2では、iPhone Duoに対応しました。\n\n- iPhone Duoを開いている時も閉じている時も、それぞれに合わせたレイアウトで表示されます。\n- 高ISOでの色を改善：ISOブーストで撮影した写真も自然な色を保ちます。\n- より信頼性の高いフォーカスシステム。\n- 大きな写真ライブラリでのパフォーマンスを改善。\n- その他の修正と改善。",
-      "artistId": 1804158489,
-      "artistName": "RTD",
-      "genres": [
-        "写真／ビデオ",
-        "ユーティリティ"
-      ],
-      "price": 500,
-      "bundleId": "com.interealtime.LightBoost",
-      "minimumOsVersion": "18.6",
-      "releaseDate": "2013-12-12T08:00:00Z",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "RTD",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
-      "trackId": 754105884,
-      "trackName": "NightCap カメラ：長時間露光",
-      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
-      "version": "10.2",
-      "wrapperType": "software",
-      "currency": "JPY",
-      "description": "星の軌跡や、美しく滑らかな滝を撮影しましょう。 流星が尾を引く瞬間や、光跡を残す車の流れを捉えてください。 そして、光がほとんどない場所でも、鮮明で詳細な写真が撮れます。 買い切りなので、サブスクリプションは不要です。\n\n天体写真\nカメラを自動的に設定してくれる4つのモード。\n- 星の軌跡：頭上で星が円を描く様子を眺めましょう\n- 流星：流れ星の自動撮影\n- ISS：上空を通過する国際宇宙ステーション\n- 星：星空と天の川\n- バージョン10の新機能：オーロラ、オーロラを撮影するためのタイムラプスモード\n\n長時間露光\nシャッターを数秒から数分間開いたままにすると、動きが光跡となります。\n- 長時間露光：動きによるブレが生じるか、あるいは静止していればより鮮明な写真になります\n- 光跡：夜間の車のライト、花火、ライトペインティング\n- どちらもタイムラプス撮影に対応しており、最大4K解像度で速度調整が可能です\n\n低照度\n- カメラの標準範囲を最大4倍まで拡大できるISO感度ブースト\n- ライトブースト\n- ノイズリダクション\n- ナイトモードのビデオとタイムラプス\n\n手持ち\nバージョン10の新機能。 NightCapは撮影中に各フレームを安定させて位置を合わせるため、長時間露光でも三脚は不要です。\n\n手動制御\n- スワイプして露出、ISO、ピント、ホワイトバランスを調整\n- iPhone 16以降のカメラコントロール\n- 最大16倍にズーム\n- 白黒モード\n\nインターバル撮影機能、セルフタイマー、そしてライブプレビューやリモート操作に対応したApple Watch用アプリも搭載しています。",
-      "trackCensoredName": "NightCap カメラ：長時間露光",
-      "trackViewUrl": "https://apps.apple.com/jp/app/nightcap-%E3%82%AB%E3%83%A1%E3%83%A9-%E9%95%B7%E6%99%82%E9%96%93%E9%9C%B2%E5%85%89/id754105884?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.27052,
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/jp/developer/rtd/id1804158489?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "averageUserRatingForCurrentVersion": 4.27052,
+      "fileSizeBytes": "10586112",
+      "formattedPrice": "¥500",
+      "userRatingCountForCurrentVersion": 658,
+      "trackContentRating": "4+",
       "sellerUrl": "http://www.nightcapcamera.com",
       "languageCodesISO2A": [
         "EN",
@@ -632,10 +606,36 @@
         "TH",
         "ZH"
       ],
-      "fileSizeBytes": "10586112",
-      "formattedPrice": "¥500",
-      "userRatingCountForCurrentVersion": 658,
-      "trackContentRating": "4+",
+      "releaseNotes": "10.2では、iPhone Duoに対応しました。\n\n- iPhone Duoを開いている時も閉じている時も、それぞれに合わせたレイアウトで表示されます。\n- 高ISOでの色を改善：ISOブーストで撮影した写真も自然な色を保ちます。\n- より信頼性の高いフォーカスシステム。\n- 大きな写真ライブラリでのパフォーマンスを改善。\n- その他の修正と改善。",
+      "artistId": 1804158489,
+      "artistName": "RTD",
+      "genres": [
+        "写真／ビデオ",
+        "ユーティリティ"
+      ],
+      "price": 500,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "bundleId": "com.interealtime.LightBoost",
+      "sellerName": "RTD",
+      "releaseDate": "2013-12-12T08:00:00Z",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "trackId": 754105884,
+      "trackName": "NightCap カメラ：長時間露光",
+      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "minimumOsVersion": "18.6",
+      "version": "10.2",
+      "wrapperType": "software",
+      "currency": "JPY",
+      "description": "星の軌跡や、美しく滑らかな滝を撮影しましょう。 流星が尾を引く瞬間や、光跡を残す車の流れを捉えてください。 そして、光がほとんどない場所でも、鮮明で詳細な写真が撮れます。 買い切りなので、サブスクリプションは不要です。\n\n天体写真\nカメラを自動的に設定してくれる4つのモード。\n- 星の軌跡：頭上で星が円を描く様子を眺めましょう\n- 流星：流れ星の自動撮影\n- ISS：上空を通過する国際宇宙ステーション\n- 星：星空と天の川\n- バージョン10の新機能：オーロラ、オーロラを撮影するためのタイムラプスモード\n\n長時間露光\nシャッターを数秒から数分間開いたままにすると、動きが光跡となります。\n- 長時間露光：動きによるブレが生じるか、あるいは静止していればより鮮明な写真になります\n- 光跡：夜間の車のライト、花火、ライトペインティング\n- どちらもタイムラプス撮影に対応しており、最大4K解像度で速度調整が可能です\n\n低照度\n- カメラの標準範囲を最大4倍まで拡大できるISO感度ブースト\n- ライトブースト\n- ノイズリダクション\n- ナイトモードのビデオとタイムラプス\n\n手持ち\nバージョン10の新機能。 NightCapは撮影中に各フレームを安定させて位置を合わせるため、長時間露光でも三脚は不要です。\n\n手動制御\n- スワイプして露出、ISO、ピント、ホワイトバランスを調整\n- iPhone 16以降のカメラコントロール\n- 最大16倍にズーム\n- 白黒モード\n\nインターバル撮影機能、セルフタイマー、そしてライブプレビューやリモート操作に対応したApple Watch用アプリも搭載しています。",
+      "trackCensoredName": "NightCap カメラ：長時間露光",
+      "trackViewUrl": "https://apps.apple.com/jp/app/nightcap-%E3%82%AB%E3%83%A1%E3%83%A9-%E9%95%B7%E6%99%82%E9%96%93%E9%9C%B2%E5%85%89/id754105884?uo=4",
+      "averageUserRating": 4.27052,
+      "contentAdvisoryRating": "4+",
       "userRatingCount": 658,
       "country": "JPN"
     },
@@ -854,6 +854,15 @@
       "country": "USA"
     },
     {
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/rtd/id1804158489?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/18/00/cc1800f7-8265-4589-0b32-ee68a1e8991f/01_iphone_config-1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/2d/97/372d976c-d8a4-f69f-0290-0288c0790451/02_iphone_config-2.png/320x480bb.jpg",
@@ -872,13 +881,6 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/de/developer/rtd/id1804158489?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1010,12 +1012,38 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
-      "kind": "software",
+      "releaseNotes": "10.2 unterstützt das iPhone Duo.\n\n- NightCap passt sich dem iPhone Duo an, ob geöffnet oder geschlossen, mit einem eigenen Layout für beides.\n- Bessere Farben bei hohen ISO-Werten: Aufnahmen mit ISO-Verstärkung behalten ihre natürlichen Farben.\n- Ein zuverlässigeres Fokussystem.\n- Bessere Leistung bei großen Fotomediatheken.\n- Weitere Fehlerbehebungen und Verbesserungen.",
+      "artistId": 1804158489,
+      "artistName": "RTD",
+      "genres": [
+        "Foto und Video",
+        "Dienst­programme"
+      ],
+      "price": 2.99,
+      "bundleId": "com.interealtime.LightBoost",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "minimumOsVersion": "18.6",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "releaseDate": "2013-12-12T08:00:00Z",
+      "sellerName": "RTD",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
+      "version": "10.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Fotografieren Sie Sternspuren oder atemberaubende, sanft fließende Wasserfälle. Fangen Sie einen Meteor mitten in seiner Flugbahn oder den Verkehr mit seinen Lichtspuren ein. Machen Sie klare, detailreiche Fotos selbst bei extrem wenig Licht. Einmaliger Kauf, kein Abonnement.\n\nASTROFOTOGRAFIE\nVier Modi, die die Kamera automatisch für Sie konfigurieren.\n- Sternspuren: Beobachten Sie, wie die Sterne am Himmel Kreise zeichnen\n- Meteore: automatisches Einfangen von Sternschnuppen\n- ISS: die Internationale Raumstation im Vorbeiflug\n- Sterne: Sternenhimmel und die Milchstraße\n- Neu in Version 10: Polarlicht, ein Zeitraffermodus für Nord- und Südlichter\n\nLANGZEITBELICHTUNG\nHalten Sie den Verschluss für Sekunden oder Minuten offen, und aus Bewegung wird Licht.\n- Langzeitbelichtung: Bewegungsunschärfe oder ein schärferes Bild, wenn Sie stillhalten\n- Lichtspuren: Verkehr bei Nacht, Feuerwerk, Lichtmalerei\n- Beides auch im Zeitraffer, bis zu 4K mit einstellbarer Geschwindigkeit\n\nWENIG LICHT\n- ISO-Boost für eine bis zu 4-fache Erweiterung des Standard-ISO-Bereichs der Kamera\n- Lichtverstärkung\n- Körnigkeitsreduzierung\n- Nachtmodus für Videos und Zeitrafferaufnahmen\n\nAUS DER HAND\nNeu in Version 10. NightCap stabilisiert und richtet jedes Einzelbild während der Aufnahme aus: Sie benötigen für Langzeitbelichtungen kein Stativ mehr.\n\nMANUELLE STEUERUNG\n- Wischen Sie, um Belichtung, ISO, Fokus und Weißabgleich anzupassen\n- Kamerasteuerung auf iPhone 16 und neueren Modellen\n- Zoom bis zu 16-fach\n- Schwarzweißmodus\n\nBietet außerdem einen Intervallprogrammierer, Selbstauslöser sowie eine Apple Watch-App mit Live-Vorschau und Fernsteuerung.",
+      "trackCensoredName": "NightCap Kamera",
+      "trackViewUrl": "https://apps.apple.com/de/app/nightcap-kamera/id754105884?uo=4",
+      "contentAdvisoryRating": "4+",
       "averageUserRating": 4.33165,
-      "averageUserRatingForCurrentVersion": 4.33165,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -1034,36 +1062,10 @@
       "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 594,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.33165,
       "sellerUrl": "http://www.nightcapcamera.com",
-      "trackCensoredName": "NightCap Kamera",
-      "trackViewUrl": "https://apps.apple.com/de/app/nightcap-kamera/id754105884?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1804158489,
-      "artistName": "RTD",
-      "price": 2.99,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "RTD",
-      "minimumOsVersion": "18.6",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "releaseDate": "2013-12-12T08:00:00Z",
-      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
-      "releaseNotes": "10.2 unterstützt das iPhone Duo.\n\n- NightCap passt sich dem iPhone Duo an, ob geöffnet oder geschlossen, mit einem eigenen Layout für beides.\n- Bessere Farben bei hohen ISO-Werten: Aufnahmen mit ISO-Verstärkung behalten ihre natürlichen Farben.\n- Ein zuverlässigeres Fokussystem.\n- Bessere Leistung bei großen Fotomediatheken.\n- Weitere Fehlerbehebungen und Verbesserungen.",
-      "version": "10.2",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Fotografieren Sie Sternspuren oder atemberaubende, sanft fließende Wasserfälle. Fangen Sie einen Meteor mitten in seiner Flugbahn oder den Verkehr mit seinen Lichtspuren ein. Machen Sie klare, detailreiche Fotos selbst bei extrem wenig Licht. Einmaliger Kauf, kein Abonnement.\n\nASTROFOTOGRAFIE\nVier Modi, die die Kamera automatisch für Sie konfigurieren.\n- Sternspuren: Beobachten Sie, wie die Sterne am Himmel Kreise zeichnen\n- Meteore: automatisches Einfangen von Sternschnuppen\n- ISS: die Internationale Raumstation im Vorbeiflug\n- Sterne: Sternenhimmel und die Milchstraße\n- Neu in Version 10: Polarlicht, ein Zeitraffermodus für Nord- und Südlichter\n\nLANGZEITBELICHTUNG\nHalten Sie den Verschluss für Sekunden oder Minuten offen, und aus Bewegung wird Licht.\n- Langzeitbelichtung: Bewegungsunschärfe oder ein schärferes Bild, wenn Sie stillhalten\n- Lichtspuren: Verkehr bei Nacht, Feuerwerk, Lichtmalerei\n- Beides auch im Zeitraffer, bis zu 4K mit einstellbarer Geschwindigkeit\n\nWENIG LICHT\n- ISO-Boost für eine bis zu 4-fache Erweiterung des Standard-ISO-Bereichs der Kamera\n- Lichtverstärkung\n- Körnigkeitsreduzierung\n- Nachtmodus für Videos und Zeitrafferaufnahmen\n\nAUS DER HAND\nNeu in Version 10. NightCap stabilisiert und richtet jedes Einzelbild während der Aufnahme aus: Sie benötigen für Langzeitbelichtungen kein Stativ mehr.\n\nMANUELLE STEUERUNG\n- Wischen Sie, um Belichtung, ISO, Fokus und Weißabgleich anzupassen\n- Kamerasteuerung auf iPhone 16 und neueren Modellen\n- Zoom bis zu 16-fach\n- Schwarzweißmodus\n\nBietet außerdem einen Intervallprogrammierer, Selbstauslöser sowie eine Apple Watch-App mit Live-Vorschau und Fernsteuerung.",
-      "bundleId": "com.interealtime.LightBoost",
       "trackId": 754105884,
       "trackName": "NightCap Kamera",
-      "genres": [
-        "Foto und Video",
-        "Dienst­programme"
-      ],
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
       "userRatingCount": 594,
       "country": "DEU"
     },
@@ -1282,13 +1284,31 @@
       "country": "FRA"
     },
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/gb/developer/rtd/id1804158489?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
+      "artistViewUrl": "https://apps.apple.com/gb/developer/rtd/id1804158489?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f3/84/b9f384da-5537-6e86-f2a0-a0b1a5c547a2/01_iphone_config-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/4a/c4/8f4ac439-43ad-65ca-ffd3-70bf9a1915a6/02_iphone_config-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/14/05/0814056e-9d53-a1c1-4e44-df975b360613/03_iphone_config-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3f/39/e73f39eb-5f4a-2dca-37eb-4f1cc03a51a4/04_iphone_config-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b0/b1/84b0b115-e91f-d912-739b-1e99ca679167/05_iphone_config-5.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/c4/01/66c401d0-c8b7-3fa9-544e-a41075529186/06_iphone_config-6.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/75/b8/8975b833-efa0-fe66-1bfd-d8ca41d81040/01_ipad_config-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/8b/57/f58b5754-bda3-6c5a-bbc3-64a3055c4096/02_ipad_config-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/cd/ea/7dcdeadf-1a61-c666-cc5e-d1dd578c284a/03_ipad_config-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/d4/5d/b7d45dc5-6672-ee96-d17b-3753839457b4/04_ipad_config-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e8/12/5be81243-32c4-2201-5165-7adad9de14d4/05_ipad_config-5.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/e2/a6/e1e2a646-c4bd-b8aa-0d2e-f28e5c7bfef3/06_ipad_config-6.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1420,59 +1440,17 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
       "advisories": [],
       "kind": "software",
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/b4/cc/e5b4cc0a-81df-bd1b-c97d-0616ae63bd50/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/f3/84/b9f384da-5537-6e86-f2a0-a0b1a5c547a2/01_iphone_config-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/4a/c4/8f4ac439-43ad-65ca-ffd3-70bf9a1915a6/02_iphone_config-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/14/05/0814056e-9d53-a1c1-4e44-df975b360613/03_iphone_config-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/3f/39/e73f39eb-5f4a-2dca-37eb-4f1cc03a51a4/04_iphone_config-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/b0/b1/84b0b115-e91f-d912-739b-1e99ca679167/05_iphone_config-5.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/c4/01/66c401d0-c8b7-3fa9-544e-a41075529186/06_iphone_config-6.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/75/b8/8975b833-efa0-fe66-1bfd-d8ca41d81040/01_ipad_config-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/8b/57/f58b5754-bda3-6c5a-bbc3-64a3055c4096/02_ipad_config-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/cd/ea/7dcdeadf-1a61-c666-cc5e-d1dd578c284a/03_ipad_config-3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/d4/5d/b7d45dc5-6672-ee96-d17b-3753839457b4/04_ipad_config-4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/e8/12/5be81243-32c4-2201-5165-7adad9de14d4/05_ipad_config-5.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/e2/a6/e1e2a646-c4bd-b8aa-0d2e-f28e5c7bfef3/06_ipad_config-6.png/360x480bb.jpg"
-      ],
-      "releaseNotes": "10.2 adds support for iPhone Duo.\n\n- NightCap adapts to iPhone Duo open or closed, with a layout built for each.\n- Improved color at high ISO: shots taken with ISO Boost keep their natural color.\n- A more reliable focus system.\n- Improved performance with large photo libraries.\n- Other fixes and improvements.",
-      "averageUserRating": 4.36512,
       "trackCensoredName": "NightCap Camera: Long Exposure",
+      "averageUserRatingForCurrentVersion": 4.36512,
       "trackViewUrl": "https://apps.apple.com/gb/app/nightcap-camera-long-exposure/id754105884?uo=4",
       "contentAdvisoryRating": "4+",
-      "artistId": 1804158489,
-      "artistName": "RTD",
-      "genres": [
-        "Photo & Video",
-        "Utilities"
-      ],
-      "price": 2.99,
-      "bundleId": "com.interealtime.LightBoost",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "18.6",
-      "sellerName": "RTD",
-      "releaseDate": "2013-12-12T08:00:00Z",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "trackId": 754105884,
-      "trackName": "NightCap Camera: Long Exposure",
-      "genreIds": [
-        "6008",
-        "6002"
-      ],
-      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
-      "version": "10.2",
-      "wrapperType": "software",
-      "currency": "GBP",
-      "description": "Photograph star trails or stunning smooth waterfalls. Capture a meteor mid-streak or traffic with light trails. And clear, detailed photos where there’s barely any light at all. One-time purchase, no subscription.\n\nASTROPHOTOGRAPHY\nFour modes that automatically set the camera up for you.\n- Star Trails: watch the stars draw circles overhead\n- Meteors: automatic capture of shooting stars\n- ISS: the International Space Station passing over\n- Stars: starry skies and the Milky Way\n- New in version 10: Aurora, a time-lapse mode for the Northern and Southern Lights\n\nLONG EXPOSURE\nHold the shutter open for seconds or minutes and movement becomes light.\n- Long Exposure: motion blur, or a cleaner shot when you hold still\n- Light Trails: traffic at night, fireworks, light painting\n- Both as time-lapse too, up to 4K with adjustable speed\n\nLOW LIGHT\n- ISO Boost for up to 4x beyond the standard camera range\n- Light Boost\n- Noise Reduction\n- Night Mode video and timelapse\n\nHANDHELD\nNew in version 10. NightCap steadies and aligns every frame as you shoot, so long exposures no longer need a tripod.\n\nMANUAL CONTROL\n- Swipe to adjust exposure, ISO, focus and white balance\n- Camera Control on iPhone 16 and later\n- Zoom to 16x\n- Black and white mode\n\nAlso includes an interval programmer, self-timer, and an Apple Watch app with live preview and remote control.",
-      "averageUserRatingForCurrentVersion": 4.36512,
+      "averageUserRating": 4.36512,
       "sellerUrl": "https://nightcapcamera.com",
       "languageCodesISO2A": [
         "EN",
@@ -1492,6 +1470,32 @@
       "formattedPrice": "£2.99",
       "userRatingCountForCurrentVersion": 860,
       "trackContentRating": "4+",
+      "artistId": 1804158489,
+      "artistName": "RTD",
+      "genres": [
+        "Photo & Video",
+        "Utilities"
+      ],
+      "price": 2.99,
+      "minimumOsVersion": "18.6",
+      "bundleId": "com.interealtime.LightBoost",
+      "trackId": 754105884,
+      "trackName": "NightCap Camera: Long Exposure",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "RTD",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2013-12-12T08:00:00Z",
+      "currentVersionReleaseDate": "2026-10-27T13:54:36Z",
+      "releaseNotes": "10.2 adds support for iPhone Duo.\n\n- NightCap adapts to iPhone Duo open or closed, with a layout built for each.\n- Improved color at high ISO: shots taken with ISO Boost keep their natural color.\n- A more reliable focus system.\n- Improved performance with large photo libraries.\n- Other fixes and improvements.",
+      "version": "10.2",
+      "wrapperType": "software",
+      "currency": "GBP",
+      "description": "Photograph star trails or stunning smooth waterfalls. Capture a meteor mid-streak or traffic with light trails. And clear, detailed photos where there’s barely any light at all. One-time purchase, no subscription.\n\nASTROPHOTOGRAPHY\nFour modes that automatically set the camera up for you.\n- Star Trails: watch the stars draw circles overhead\n- Meteors: automatic capture of shooting stars\n- ISS: the International Space Station passing over\n- Stars: starry skies and the Milky Way\n- New in version 10: Aurora, a time-lapse mode for the Northern and Southern Lights\n\nLONG EXPOSURE\nHold the shutter open for seconds or minutes and movement becomes light.\n- Long Exposure: motion blur, or a cleaner shot when you hold still\n- Light Trails: traffic at night, fireworks, light painting\n- Both as time-lapse too, up to 4K with adjustable speed\n\nLOW LIGHT\n- ISO Boost for up to 4x beyond the standard camera range\n- Light Boost\n- Noise Reduction\n- Night Mode video and timelapse\n\nHANDHELD\nNew in version 10. NightCap steadies and aligns every frame as you shoot, so long exposures no longer need a tripod.\n\nMANUAL CONTROL\n- Swipe to adjust exposure, ISO, focus and white balance\n- Camera Control on iPhone 16 and later\n- Zoom to 16x\n- Black and white mode\n\nAlso includes an interval programmer, self-timer, and an Apple Watch app with live preview and remote control.",
       "userRatingCount": 860,
       "country": "GBR"
     }

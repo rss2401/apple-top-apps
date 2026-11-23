@@ -2,20 +2,20 @@
   "id": "6474479684",
   "name": "Spark - Ren'Py 小说们",
   "month": "202611",
-  "fetchedAt": "2026-11-16T09:59:29.275Z",
+  "fetchedAt": "2026-11-23T11:00:50.447Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
         {
-          "name": "Monthly Sponsor",
-          "price": "¥38.00",
-          "amount": 38
-        },
-        {
           "name": "Small Tip",
           "price": "¥22.00",
           "amount": 22
+        },
+        {
+          "name": "Monthly Sponsor",
+          "price": "¥38.00",
+          "amount": 38
         },
         {
           "name": "Yearly Sponsor",
@@ -33,7 +33,7 @@
           "amount": 38
         }
       ],
-      "fetchedAt": "2026-11-16T09:59:29.274Z"
+      "fetchedAt": "2026-11-23T11:00:50.447Z"
     }
   }
 }

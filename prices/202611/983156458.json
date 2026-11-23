@@ -2,12 +2,22 @@
   "id": "983156458",
   "name": "Microsoft Authenticator",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:03:27.816Z",
+  "fetchedAt": "2026-11-23T11:06:23.362Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-16T10:03:25.274Z"
+      "fetchedAt": "2026-11-23T11:06:19.334Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:06:20.882Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:06:22.357Z"
     },
     "jp": {
       "currency": "JPY",
@@ -17,7 +27,7 @@
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-16T10:03:27.815Z"
+      "fetchedAt": "2026-11-23T11:06:23.361Z"
     }
   }
 }

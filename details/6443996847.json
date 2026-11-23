@@ -187,8 +187,6 @@
       "userRatingCount": 362
     },
     {
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ce/59/85ce5994-7067-e27c-0b0f-a1f1417897be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/4d/02/354d0246-8b18-f70f-efcc-2492f38f1039/01-home.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/08/09/bb0809c9-e1a6-2ea5-5f61-dfaf9c04b0d4/02-search.png/320x480bb.jpg",
@@ -200,6 +198,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/39/a3/8439a30a-a3c1-c271-400a-f6d43c1e62b8/08-artemis.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/1f/10/d41f1023-70d0-9053-18c2-5eac4a847b61/09-europeana.png/320x480bb.jpg"
       ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/bf/4e/40bf4e0f-0d6d-9f36-222c-1f703db5f6b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "ipadScreenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/e9/0d/1ce90dc6-a7fd-e82d-042d-f4d8245c6009/01-home.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/df/96/88df96ed-94e5-aa83-a2e4-28f1b1556fcb/07-popular.png/360x480bb.jpg",
@@ -211,11 +210,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/8d/7d/e18d7d99-8296-6eb4-869b-9a8fd0711e4f/08-artemis.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/85/02/8e8502a2-2208-d0c7-48c8-548a3cda485b/09-europeana.png/360x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
+      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -346,13 +344,18 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/us/developer/shane-jeffers/id1544103202?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ce/59/85ce5994-7067-e27c-0b0f-a1f1417897be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/ce/59/85ce5994-7067-e27c-0b0f-a1f1417897be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.65675,
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/bf/4e/40bf4e0f-0d6d-9f36-222c-1f703db5f6b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/bf/4e/40bf4e0f-0d6d-9f36-222c-1f703db5f6b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "releaseNotes": "New in this update:\n• Walls: hang two or more Frame TVs together and send one picture across them, or the same picture to each\n• Scenes: save a set of art for all your TVs and bring it back in one tap\n• New Crop tab in Adjust: shapes like Square, 4:5 and Custom, with drag and pinch to frame your art\n• Simpler mat controls, with a color or blurred background when the mat is off\n• Create with AI: use up to two photos as inspiration\n• Fixes and polish",
+      "averageUserRatingForCurrentVersion": 4.6581,
       "sellerUrl": "https://framecrop.app",
       "languageCodesISO2A": [
         "NL",
@@ -366,11 +369,10 @@
         "ES",
         "SV"
       ],
-      "fileSizeBytes": "103114752",
+      "fileSizeBytes": "103430144",
       "formattedPrice": "$7.99",
-      "userRatingCountForCurrentVersion": 504,
+      "userRatingCountForCurrentVersion": 506,
       "trackContentRating": "12+",
-      "releaseNotes": "Support for iPhone Duo!",
       "artistId": 1544103202,
       "artistName": "Shane Jeffers",
       "genres": [
@@ -379,28 +381,28 @@
       ],
       "price": 7.99,
       "bundleId": "com.theframe.app",
-      "sellerName": "Shane Jeffers",
       "trackId": 6443996847,
       "trackName": "Frame Crop – Art Mode",
+      "minimumOsVersion": "16.4",
       "genreIds": [
         "6002",
         "6008"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Utilities",
       "primaryGenreId": 6002,
-      "minimumOsVersion": "16.4",
-      "releaseDate": "2023-06-22T07:00:00Z",
-      "currentVersionReleaseDate": "2026-10-31T15:30:47Z",
-      "version": "12.0.49",
+      "sellerName": "Shane Jeffers",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-20T17:58:15Z",
+      "version": "12.0.50",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Browse and download artwork, paintings, and photos for your Samsung Frame TV or Hisense CanvasTV from Frame Crop's integrated libraries including Smithsonian, Wikimedia Commons, and Unsplash. Effortlessly crop and display your photos to fit the borderless display of your Samsung Frame TV or Hisense CanvasTV. Showcase your favorite memories, beautiful landscapes from your travels, or professional artwork/paintings from our integrated Smithsonian Open Access, Wikimedia Commons & Unsplash library right on your Samsung Frame or Hisense CanvasTV.\n\nNEW: Upload your own personal photos and artwork directly to your Samsung Frame TV for a truly personalized art experience. Plus, you can now directly connect to your Frame TV and upload images, making it easier than ever to share your favorite memories and artwork.\n\nCreate your own account and start building custom collections of art, where you can share your favorite pieces with others and discover new art from around the world. With Frame Crop, you can easily turn your Samsung Frame TV or Hisense CanvasTV into a beautiful, customized art display.\n\nKey Features:\n• Intuitive photo cropping tools to perfectly fit and display images on your Samsung Frame TV & Hisense CanvasTV \n• NEW: Direct upload capability - send your processed images straight to your Samsung Frame TV \n• Batch processing for local images - select and process up to 10 personal photos at once with automatic cropping\n• Auto-cropping functionality for locally selected images\n• Download indicators that show which images you've already added to your collection\n• Downloaded images list accessible in settings for easy art collection management\n• Support for portrait-mounted Frame TVs\n• Search and browse a vast library of art, landscapes, animals, and more from Smithsonian Open Access, Wikimedia Commons & Unsplash\n• Discover the most popular art across all 3 art sources\n\nFrame Crop Pro is an auto-renewing subscription, billed monthly or yearly through your Apple ID. It renews automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in your App Store account settings.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\nPrivacy Policy: https://framecrop.app/privacy",
+      "averageUserRating": 4.6581,
       "trackCensoredName": "Frame Crop – Art Mode",
       "trackViewUrl": "https://apps.apple.com/us/app/frame-crop-art-mode/id6443996847?uo=4",
-      "averageUserRating": 4.65675,
       "contentAdvisoryRating": "12+",
-      "userRatingCount": 504,
+      "releaseDate": "2023-06-22T07:00:00Z",
+      "userRatingCount": 506,
       "country": "USA"
     },
     {

@@ -2,18 +2,18 @@
   "id": "6474233312",
   "name": "Kimi",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:28:55.945Z",
+  "fetchedAt": "2026-11-23T11:14:08.620Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
         {
-          "name": "Andante",
+          "name": "Go",
           "price": "¥49.00",
           "amount": 49
         },
         {
-          "name": "Go",
+          "name": "Andante",
           "price": "¥49.00",
           "amount": 49
         },
@@ -23,12 +23,12 @@
           "amount": 199
         },
         {
-          "name": "Moderato",
+          "name": "Plus",
           "price": "¥99.00",
           "amount": 99
         },
         {
-          "name": "Plus",
+          "name": "Moderato",
           "price": "¥99.00",
           "amount": 99
         },
@@ -53,12 +53,12 @@
           "amount": 468
         },
         {
-          "name": "Plus 年卡",
-          "price": "¥948.00",
-          "amount": 948
+          "name": "Max",
+          "price": "¥699.00",
+          "amount": 699
         }
       ],
-      "fetchedAt": "2026-11-16T10:28:54.426Z"
+      "fetchedAt": "2026-11-23T11:14:07.173Z"
     },
     "us": {
       "currency": "USD",
@@ -114,7 +114,7 @@
           "amount": 180.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:28:55.945Z"
+      "fetchedAt": "2026-11-23T11:14:08.619Z"
     }
   }
 }

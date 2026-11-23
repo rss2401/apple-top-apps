@@ -2,7 +2,7 @@
   "id": "333903271",
   "name": "X",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:00:52.129Z",
+  "fetchedAt": "2026-11-23T11:02:16.132Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -58,7 +58,7 @@
           "amount": 68
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:44.406Z"
+      "fetchedAt": "2026-11-23T11:02:09.992Z"
     },
     "de": {
       "currency": "EUR",
@@ -145,14 +145,14 @@
           "amount": 107.99
         },
         {
-          "name": "X Premium Basic (Annual)",
-          "price": "36,00 €",
-          "amount": 36
-        },
-        {
           "name": " Promouvoir la publication",
           "price": "29,00 €",
           "amount": 29
+        },
+        {
+          "name": "X Premium Basic (Annual)",
+          "price": "36,00 €",
+          "amount": 36
         },
         {
           "name": "@elonmusk Subscription",
@@ -170,7 +170,7 @@
           "amount": 6
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:47.586Z"
+      "fetchedAt": "2026-11-23T11:02:11.625Z"
     },
     "gb": {
       "currency": "GBP",
@@ -196,14 +196,14 @@
           "amount": 5
         },
         {
-          "name": "Promote Post",
-          "price": "£10.00",
-          "amount": 10
-        },
-        {
           "name": "X Premium (Annual)",
           "price": "£107.99",
           "amount": 107.99
+        },
+        {
+          "name": "Promote Post",
+          "price": "£10.00",
+          "amount": 10
         },
         {
           "name": "@elonmusk Subscription",
@@ -226,7 +226,7 @@
           "amount": 36
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:49.145Z"
+      "fetchedAt": "2026-11-23T11:02:13.175Z"
     },
     "jp": {
       "currency": "JPY",
@@ -277,12 +277,12 @@
           "amount": 8000
         },
         {
-          "name": "@hazuma Subscription",
-          "price": "¥700",
-          "amount": 700
+          "name": "投稿を15,000円でプロモーションする",
+          "price": "¥15,000",
+          "amount": 15000
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:50.678Z"
+      "fetchedAt": "2026-11-23T11:02:14.629Z"
     },
     "us": {
       "currency": "USD",
@@ -303,14 +303,14 @@
           "amount": 50
         },
         {
-          "name": "X Premium (Annual)",
-          "price": "$114.99",
-          "amount": 114.99
-        },
-        {
           "name": "@elonmusk Subscription",
           "price": "$4.00",
           "amount": 4
+        },
+        {
+          "name": "X Premium (Annual)",
+          "price": "$114.99",
+          "amount": 114.99
         },
         {
           "name": "Promote Post for $25",
@@ -338,7 +338,7 @@
           "amount": 490
         }
       ],
-      "fetchedAt": "2026-11-16T10:00:52.129Z"
+      "fetchedAt": "2026-11-23T11:02:16.131Z"
     }
   }
 }

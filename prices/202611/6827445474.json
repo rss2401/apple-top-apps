@@ -1,13 +1,18 @@
 {
   "id": "6827445474",
-  "name": "FoldTick",
+  "name": "FoldTick: Duo Fold Counter",
   "month": "202611",
-  "fetchedAt": "2026-11-09T10:28:23.913Z",
+  "fetchedAt": "2026-11-23T11:25:28.220Z",
   "storefronts": {
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:25:26.652Z"
+    },
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-09T10:28:23.913Z"
+      "fetchedAt": "2026-11-23T11:25:28.219Z"
     }
   }
 }

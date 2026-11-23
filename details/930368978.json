@@ -209,6 +209,11 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [],
+      "kind": "software",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/db/19/b2db19aa-081c-6ca3-8348-020fe504dbef/_U4e2d_U6587_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/bf/66/a6bf6661-ec6c-293e-b157-81861dc2773b/_U4e2d_U6587_2.jpg/392x696bb.jpg",
@@ -225,7 +230,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/97/30/e5973017-e0f1-eca6-996f-5b27eb1b3387/_U4e2d_U6587_6.jpg/480x360bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/14/30/1b14301e-fc3c-d429-07f6-4b5252d90897/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d6/bd/bdd6bd7a-9fde-3a71-61c4-284892779a7c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d6/bd/bdd6bd7a-9fde-3a71-61c4-284892779a7c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/d6/bd/bdd6bd7a-9fde-3a71-61c4-284892779a7c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/dingtalk-technology-co-ltd/id1591008463?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -361,14 +369,30 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
+      "releaseNotes": "【基础体验升级】\nAI 卡片3.0优化：支持通过自然语言描述创建消息卡片；\n个性状态升级；\n群头像优化；\n语音消息转文字后支持翻译；\nDing消息内容支持翻译；\n合并转发页支持自动翻译；\niPhone Duo横屏模式下，IM聊天页文档、AI表格和链接支持全屏打开，体验更沉浸；\niPhone Duo横屏模式下支持宽度自适应拖拽。\n【AI 听记】\n听记中问答：边听边问，重点随时掌握；\n智能学习热词：人名、专业术语越用转得越准。\n【视频会议】\n会中体验：弱网少打断，讨论更连贯；\n会后回顾：聊天记录全员可看，重要信息随时回顾。\n【AI 表格】\n仪表盘权限更精细，团队成员也能自己搭看板。",
+      "averageUserRating": 2.349,
+      "genres": [
+        "商务",
+        "社交"
       ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/dingtalk-technology-co-ltd/id1591008463?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/14/30/1b14301e-fc3c-d429-07f6-4b5252d90897/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/14/30/1b14301e-fc3c-d429-07f6-4b5252d90897/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistId": 1591008463,
+      "artistName": "DingTalk Technology Co., Ltd.",
+      "bundleId": "com.laiwang.DingTalk",
+      "price": 0,
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6000",
+        "6005"
+      ],
+      "primaryGenreName": "Business",
+      "primaryGenreId": 6000,
+      "sellerName": "DingTalk Technology Co., Ltd.",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-18T01:36:48Z",
+      "version": "9.0.11",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "钉钉·让工作简单一点\n工作要处理很多事务，工具让工作更简单。钉钉把AI放进你每天的工作流——回消息、写文档、开会、搭业务表…不用为了工作学习新产品；打开钉钉，AI已经等着接活了！\n【千问办公·与钉钉协同共生的AI办公平台】\n钉钉管协作，千问办公管你的活。回复消息、处理文件、做调研、做设计、搭建网页，一句话它就开工！\n【AI听记·AI时代的记录方式】\n会议结束，讨论完毕，记录也好了——开完会不用回听录音补笔记，纪要已经整好等你拿：发言人自动呈现，长录音拆好章节，重点和待办自动标记。\n【AI表格·一张表，一套业务】\nAI帮你写公式、做分析、出图表，同一份数据还能切成看板、日历、甘特图，还能根据条件自动提醒、自动通知。入门是智能表格，用深了，不会代码也能搭业务系统！\n【会议AI·实时捕捉每一个关键决策】\nAI降噪，嘈杂环境也听得清；实时字幕多语言翻译、分得清谁在说，中途入会一键回看前面讲了什么；听不懂当场问AI，会后纪要、待办自动生成，开会不用记笔记~\n【钉钉文档·写东西不用盯着空白页发呆】\n方案、创意、信息整理，带着思路起点，钉钉文档的AI创作帮你往下写，再也不怕从零开始无从下手。\n使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -385,42 +409,18 @@
         "TR",
         "VI"
       ],
-      "fileSizeBytes": "695496704",
+      "fileSizeBytes": "696143872",
       "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 2870235,
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 2870913,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%89%E9%92%89/id930368978?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 2.34848,
-      "artistId": 1591008463,
-      "artistName": "DingTalk Technology Co., Ltd.",
-      "genres": [
-        "商务",
-        "社交"
-      ],
-      "price": 0,
+      "trackCensoredName": "钉钉",
+      "averageUserRatingForCurrentVersion": 2.349,
       "trackId": 930368978,
       "trackName": "钉钉",
       "releaseDate": "2014-12-02T12:08:44Z",
-      "releaseNotes": "【基础体验升级】\nAI 卡片3.0优化：支持通过自然语言描述创建消息卡片；\n个性状态升级；\n群头像优化；\n语音消息转文字后支持翻译；\nDing消息内容支持翻译；\n合并转发页支持自动翻译；\niPhone Duo横屏模式下，IM聊天页文档、AI表格和链接支持全屏打开，体验更沉浸；\niPhone Duo横屏模式下支持宽度自适应拖拽。\n【AI 听记】\n听记中问答：边听边问，重点随时掌握；\n智能学习热词：人名、专业术语越用转得越准。\n【视频会议】\n会中体验：弱网少打断，讨论更连贯；\n会后回顾：聊天记录全员可看，重要信息随时回顾。\n【AI 表格】\n仪表盘权限更精细，团队成员也能自己搭看板。",
-      "minimumOsVersion": "15.0",
-      "genreIds": [
-        "6000",
-        "6005"
-      ],
-      "primaryGenreName": "Business",
-      "primaryGenreId": 6000,
-      "sellerName": "DingTalk Technology Co., Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-11T03:12:09Z",
-      "version": "9.0.10",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "钉钉·让工作简单一点\n工作要处理很多事务，工具让工作更简单。钉钉把AI放进你每天的工作流——回消息、写文档、开会、搭业务表…不用为了工作学习新产品；打开钉钉，AI已经等着接活了！\n【千问办公·与钉钉协同共生的AI办公平台】\n钉钉管协作，千问办公管你的活。回复消息、处理文件、做调研、做设计、搭建网页，一句话它就开工！\n【AI听记·AI时代的记录方式】\n会议结束，讨论完毕，记录也好了——开完会不用回听录音补笔记，纪要已经整好等你拿：发言人自动呈现，长录音拆好章节，重点和待办自动标记。\n【AI表格·一张表，一套业务】\nAI帮你写公式、做分析、出图表，同一份数据还能切成看板、日历、甘特图，还能根据条件自动提醒、自动通知。入门是智能表格，用深了，不会代码也能搭业务系统！\n【会议AI·实时捕捉每一个关键决策】\nAI降噪，嘈杂环境也听得清；实时字幕多语言翻译、分得清谁在说，中途入会一键回看前面讲了什么；听不懂当场问AI，会后纪要、待办自动生成，开会不用记笔记~\n【钉钉文档·写东西不用盯着空白页发呆】\n方案、创意、信息整理，带着思路起点，钉钉文档的AI创作帮你往下写，再也不怕从零开始无从下手。\n使用条款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "trackCensoredName": "钉钉",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%92%89%E9%92%89/id930368978?uo=4",
-      "contentAdvisoryRating": "4+",
-      "bundleId": "com.laiwang.DingTalk",
-      "averageUserRating": 2.34848,
-      "userRatingCount": 2870235,
+      "userRatingCount": 2870913,
       "country": "CHN"
     }
   ]

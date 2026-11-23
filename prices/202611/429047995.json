@@ -2,7 +2,7 @@
   "id": "429047995",
   "name": "Pinterest",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:07:10.186Z",
+  "fetchedAt": "2026-11-23T11:07:56.691Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -24,13 +24,13 @@
         },
         {
           "name": "Funds for Ads",
-          "price": "49,00 €",
-          "amount": 49
+          "price": "98,00 €",
+          "amount": 98
         },
         {
           "name": "Funds for Ads",
-          "price": "98,00 €",
-          "amount": 98
+          "price": "49,00 €",
+          "amount": 49
         },
         {
           "name": "Funds for Ads",
@@ -58,17 +58,17 @@
           "amount": 195.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:07:05.603Z"
+      "fetchedAt": "2026-11-23T11:07:52.198Z"
     },
     "fr": {
       "currency": "EUR",
       "items": [],
-      "fetchedAt": "2026-11-16T10:07:07.020Z"
+      "fetchedAt": "2026-11-23T11:07:53.618Z"
     },
     "gb": {
       "currency": "GBP",
       "items": [],
-      "fetchedAt": "2026-11-16T10:07:08.609Z"
+      "fetchedAt": "2026-11-23T11:07:55.096Z"
     },
     "us": {
       "currency": "USD",
@@ -110,11 +110,6 @@
         },
         {
           "name": "Funds for Ads",
-          "price": "$70.00",
-          "amount": 70
-        },
-        {
-          "name": "Funds for Ads",
           "price": "$82.00",
           "amount": 82
         },
@@ -122,9 +117,14 @@
           "name": "Funds for Ads",
           "price": "$163.99",
           "amount": 163.99
+        },
+        {
+          "name": "Funds for Ads",
+          "price": "$70.00",
+          "amount": 70
         }
       ],
-      "fetchedAt": "2026-11-16T10:07:10.184Z"
+      "fetchedAt": "2026-11-23T11:07:56.690Z"
     }
   }
 }

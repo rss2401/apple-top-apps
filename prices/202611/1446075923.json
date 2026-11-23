@@ -2,7 +2,7 @@
   "id": "1446075923",
   "name": "Disney+",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:03:11.999Z",
+  "fetchedAt": "2026-11-23T11:04:09.912Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -104,17 +104,17 @@
           "amount": 6.99
         },
         {
-          "name": "Disney+ Standard",
-          "price": "10,99 €",
-          "amount": 10.99
-        },
-        {
           "name": "Disney+ Premium",
           "price": "159,99 €",
           "amount": 159.99
+        },
+        {
+          "name": "Disney+ Standard",
+          "price": "10,99 €",
+          "amount": 10.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:03:07.564Z"
+      "fetchedAt": "2026-11-23T11:04:06.019Z"
     },
     "gb": {
       "currency": "GBP",
@@ -170,7 +170,7 @@
           "amount": 159.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:03:08.975Z"
+      "fetchedAt": "2026-11-23T11:04:07.385Z"
     },
     "jp": {
       "currency": "JPY",
@@ -181,19 +181,9 @@
           "amount": 1670
         },
         {
-          "name": "Disney+ スタンダード",
-          "price": "¥1,250",
-          "amount": 1250
-        },
-        {
           "name": "Disney+ プレミアム",
           "price": "¥1,670",
           "amount": 1670
-        },
-        {
-          "name": "Disney+ スタンダード",
-          "price": "¥1,250",
-          "amount": 1250
         },
         {
           "name": "Disney+ プレミアム",
@@ -201,14 +191,9 @@
           "amount": 16800
         },
         {
-          "name": "Disney+ スタンダード",
-          "price": "¥12,500",
-          "amount": 12500
-        },
-        {
-          "name": "Disney+ スタンダード",
-          "price": "¥12,500",
-          "amount": 12500
+          "name": "Disney+ プレミアム",
+          "price": "¥1,670",
+          "amount": 1670
         },
         {
           "name": "Disney+ プレミアム",
@@ -216,17 +201,32 @@
           "amount": 16800
         },
         {
-          "name": "Disney+ Monthly Basic(US ONLY)",
+          "name": "Disney+ プレミアム",
           "price": "¥1,670",
           "amount": 1670
         },
         {
           "name": "Disney+ プレミアム",
+          "price": "¥16,800",
+          "amount": 16800
+        },
+        {
+          "name": "Disney+ プレミアム",
+          "price": "¥16,800",
+          "amount": 16800
+        },
+        {
+          "name": "Disney+ プレミアム",
           "price": "¥1,670",
           "amount": 1670
+        },
+        {
+          "name": "Disney+ プレミアム",
+          "price": "¥16,800",
+          "amount": 16800
         }
       ],
-      "fetchedAt": "2026-11-16T10:03:10.303Z"
+      "fetchedAt": "2026-11-23T11:04:08.630Z"
     },
     "us": {
       "currency": "USD",
@@ -243,8 +243,8 @@
         },
         {
           "name": "Disney+ Premium",
-          "price": "$214.99",
-          "amount": 214.99
+          "price": "$21.49",
+          "amount": 21.49
         },
         {
           "name": "Disney+ Premium",
@@ -253,18 +253,18 @@
         },
         {
           "name": "Disney+ Premium",
-          "price": "$214.99",
-          "amount": 214.99
-        },
-        {
-          "name": "Disney+ Premium",
           "price": "$21.49",
           "amount": 21.49
         },
         {
-          "name": "Disney+ Premium",
-          "price": "$214.99",
-          "amount": 214.99
+          "name": "Disney+ Basic Monthly",
+          "price": "$12.49",
+          "amount": 12.49
+        },
+        {
+          "name": "Disney+ Basic Monthly",
+          "price": "$12.49",
+          "amount": 12.49
         },
         {
           "name": "Disney+ Premium",
@@ -272,17 +272,17 @@
           "amount": 214.99
         },
         {
-          "name": "Disney+ Premium",
-          "price": "$21.49",
-          "amount": 21.49
+          "name": "Disney+, Hulu Bundle Premium",
+          "price": "$21.99",
+          "amount": 21.99
         },
         {
-          "name": "Disney+ Premium",
-          "price": "$214.99",
-          "amount": 214.99
+          "name": "Disney Bundle Duo Basic",
+          "price": "$12.99",
+          "amount": 12.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:03:11.998Z"
+      "fetchedAt": "2026-11-23T11:04:09.911Z"
     }
   }
 }

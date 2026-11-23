@@ -2,7 +2,7 @@
   "id": "1454213029",
   "name": "WeWard - L'app de Marche !",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:23:07.298Z",
+  "fetchedAt": "2026-11-23T11:23:49.237Z",
   "storefronts": {
     "fr": {
       "currency": "EUR",
@@ -18,14 +18,14 @@
           "amount": 9.99
         },
         {
-          "name": "5-card pack",
-          "price": "0,99 €",
-          "amount": 0.99
-        },
-        {
           "name": "10-Card Pack",
           "price": "1,99 €",
           "amount": 1.99
+        },
+        {
+          "name": "5-card pack",
+          "price": "0,99 €",
+          "amount": 0.99
         },
         {
           "name": "Premium Mensuel",
@@ -58,7 +58,7 @@
           "amount": 7.49
         }
       ],
-      "fetchedAt": "2026-11-16T10:23:07.297Z"
+      "fetchedAt": "2026-11-23T11:23:49.237Z"
     }
   }
 }

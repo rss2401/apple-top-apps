@@ -2,7 +2,7 @@
   "id": "6477489729",
   "name": "Google Gemini",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:29:41.081Z",
+  "fetchedAt": "2026-11-23T11:01:26.438Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -43,6 +43,11 @@
           "amount": 21.99
         },
         {
+          "name": "Google AI Plus (2 TB)",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
           "name": "Google AI Plus (400 GB)",
           "price": "4,99 €",
           "amount": 4.99
@@ -51,14 +56,9 @@
           "name": "Google AI Ultra (30 TB)",
           "price": "219,99 €",
           "amount": 219.99
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "9,99 €",
-          "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:35.556Z"
+      "fetchedAt": "2026-11-23T11:01:20.779Z"
     },
     "fr": {
       "currency": "EUR",
@@ -104,17 +104,17 @@
           "amount": 9.99
         },
         {
-          "name": "100 Go",
-          "price": "1,99 €",
-          "amount": 1.99
-        },
-        {
           "name": "Google AI Pro (5 TB)",
           "price": "21,99 €",
           "amount": 21.99
+        },
+        {
+          "name": "100 Go",
+          "price": "1,99 €",
+          "amount": 1.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:37.651Z"
+      "fetchedAt": "2026-11-23T11:01:22.731Z"
     },
     "gb": {
       "currency": "GBP",
@@ -150,11 +150,6 @@
           "amount": 4.49
         },
         {
-          "name": "100 GB",
-          "price": "£1.79",
-          "amount": 1.79
-        },
-        {
           "name": "Google AI Ultra (30 TB)",
           "price": "£189.99",
           "amount": 189.99
@@ -165,12 +160,17 @@
           "amount": 18.99
         },
         {
-          "name": "Google AI Plus (400 GB)",
-          "price": "£44.99",
-          "amount": 44.99
+          "name": "100 GB",
+          "price": "£1.79",
+          "amount": 1.79
+        },
+        {
+          "name": "200 GB",
+          "price": "£2.99",
+          "amount": 2.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:38.516Z"
+      "fetchedAt": "2026-11-23T11:01:23.818Z"
     },
     "jp": {
       "currency": "JPY",
@@ -181,6 +181,11 @@
           "amount": 2900
         },
         {
+          "name": "Google AI Plus (400 GB)",
+          "price": "¥720",
+          "amount": 720
+        },
+        {
           "name": "Google AI Pro (5 TB)",
           "price": "¥2,900",
           "amount": 2900
@@ -189,6 +194,21 @@
           "name": "Google AI Pro (5 TB)",
           "price": "¥2,900",
           "amount": 2900
+        },
+        {
+          "name": "Google AI Pro (5 TB)",
+          "price": "¥2,900",
+          "amount": 2900
+        },
+        {
+          "name": "Google AI Plus (400 GB)",
+          "price": "¥720",
+          "amount": 720
+        },
+        {
+          "name": "Google AI Plus (400 GB)",
+          "price": "¥720",
+          "amount": 720
         },
         {
           "name": "100 GB",
@@ -196,37 +216,17 @@
           "amount": 290
         },
         {
-          "name": "100 GB",
-          "price": "¥2,900",
-          "amount": 2900
-        },
-        {
-          "name": "Google AI Plus (2 TB)",
-          "price": "¥14,500",
-          "amount": 14500
-        },
-        {
-          "name": "Google AI Pro (10 TB)",
-          "price": "¥7,280",
-          "amount": 7280
-        },
-        {
-          "name": "Google AI Ultra (20 TB)",
-          "price": "¥14,500",
-          "amount": 14500
-        },
-        {
-          "name": "200 GB",
-          "price": "¥4,400",
-          "amount": 4400
-        },
-        {
           "name": "Google AI Ultra (30 TB)",
-          "price": "¥21,800",
-          "amount": 21800
+          "price": "¥32,000",
+          "amount": 32000
+        },
+        {
+          "name": "Google AI Plus (400 GB)",
+          "price": "¥7,200",
+          "amount": 7200
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:39.870Z"
+      "fetchedAt": "2026-11-23T11:01:25.288Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 199.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:41.081Z"
+      "fetchedAt": "2026-11-23T11:01:26.436Z"
     }
   }
 }

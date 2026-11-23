@@ -2,6 +2,9 @@
   "resultCount": 1,
   "results": [
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/invideo-inc/id1715238491?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/8e/89/c78e891d-a189-c584-e3dc-8556afbc0d8f/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/8e/89/c78e891d-a189-c584-e3dc-8556afbc0d8f/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/e0/aa/abe0aa70-a348-a249-ff47-734f30bc1c8c/0_APP_IPHONE_67_0.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/cb/ea/44cbea56-ff8f-c3bf-9d82-63de75cdf457/1_APP_IPHONE_67_1.png/320x480bb.jpg",
@@ -19,13 +22,8 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/f5/79/eff57907-3235-c006-1e76-f593d243c54e/5_APP_IPAD_PRO_129_5.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/bd/d8/4dbdd818-d88e-a7b4-6710-a0971d8d2180/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/invideo-inc/id1715238491?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/bd/d8/4dbdd818-d88e-a7b4-6710-a0971d8d2180/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/bd/d8/4dbdd818-d88e-a7b4-6710-a0971d8d2180/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Mature/Suggestive Themes"
-      ],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/8e/89/c78e891d-a189-c584-e3dc-8556afbc0d8f/prodAppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -160,51 +158,53 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "kind": "software",
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
-      "averageUserRatingForCurrentVersion": 4.54617,
-      "sellerUrl": "https://invideo.io",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "281348096",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 28106,
-      "trackContentRating": "9+",
-      "averageUserRating": 4.54617,
+      "averageUserRating": 4.54602,
       "trackCensoredName": "invideo: AI Video Editor",
       "trackViewUrl": "https://apps.apple.com/us/app/invideo-ai-video-editor/id6471394316?uo=4",
       "contentAdvisoryRating": "9+",
+      "sellerUrl": "https://invideo.io",
+      "averageUserRatingForCurrentVersion": 4.54602,
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "285836288",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 28129,
+      "trackContentRating": "9+",
+      "currentVersionReleaseDate": "2026-11-23T06:32:41Z",
+      "releaseNotes": "Meet the new invideo: direct with AI agents, edit on a professional timeline and generate with 200+ AI models, all in one creative suite.\n\nYOU DIRECT. AI AGENTS EDIT.\nTell Agent Two what you want to create or change in everyday language. Guide the story, pacing, visuals and sound until the result feels right.\n\nTAKE CONTROL OF EVERY CUT\nEvery AI edit stays editable on a professional multitrack timeline. Arrange, trim and split clips. Refine transitions, effects and color. Animate with keyframes and style titles and captions.\n\nGENERATE WITH 200+ AI MODELS\nCreate images, video, voice, sound and music, then bring them into the editor alongside your footage.\n\nTRUE COLLABORATIVE EDITING\nInvite your team, collaborate in real time and leave feedback on specific frames.",
+      "artistId": 1715238491,
+      "artistName": "Invideo Inc",
       "genres": [
         "Photo & Video",
         "Productivity"
       ],
-      "artistId": 1715238491,
-      "artistName": "Invideo Inc",
-      "bundleId": "io.invideo.ai",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "16.0",
-      "trackName": "invideo: AI Video Editor",
-      "trackId": 6471394316,
-      "releaseDate": "2023-11-15T08:00:00Z",
-      "currentVersionReleaseDate": "2026-11-16T06:56:10Z",
-      "releaseNotes": "Meet the new invideo: direct with AI agents, edit on a professional timeline and generate with 200+ AI models, all in one creative suite.\n\nYOU DIRECT. AI AGENTS EDIT.\nTell Agent Two what you want to create or change in everyday language. Guide the story, pacing, visuals and sound until the result feels right.\n\nTAKE CONTROL OF EVERY CUT\nEvery AI edit stays editable on a professional multitrack timeline. Arrange, trim and split clips. Refine transitions, effects and color. Animate with keyframes and style titles and captions.\n\nGENERATE WITH 200+ AI MODELS\nCreate images, video, voice, sound and music, then bring them into the editor alongside your footage.\n\nTRUE COLLABORATIVE EDITING\nInvite your team, collaborate in real time and leave feedback on specific frames.",
-      "version": "4.5.67",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Direct your ideas with AI agents. Take full control of your videos and edit collaboratively with your team on a professional grade timeline editor. Generate images, video, voice, sound and music with 200+ AI models—all in invideo.\nFrom films and ads to standalone visuals and audio, invideo brings creation and editing into one creative suite. Start with an idea, a script or your own footage. Work with Agent Two, make precise edits yourself, or go straight to the models to create what you imagine.\n\nYOU DIRECT. AI AGENTS EDIT.\nTell Agent Two what you want to create or change. Develop your idea into a video, shape a scene or refine an existing edit through everyday language.\nGuide the story, pacing, visuals and sound as the project takes shape. Keep directing until the result feels right.\n\nTAKE CONTROL OF EVERY CUT\nMove from AI direction to hands-on editing in invideo editor. Every AI edit stays editable, with precise manual controls on a professional multitrack timeline.\nArrange, trim and split clips. Refine layers, transitions, effects and color. Animate with keyframes, style titles and captions, and balance dialogue, music and sound effects.\nLet agents help you move the project forward, then get hands-on with the details. You decide how each moment looks, sounds and feels.\n\nGENERATE VISUALS AND AUDIO WITH 200+ AI MODELS\nExplore 200+ AI models for image, video, voice, sound and music generation.\nCreate a standalone image, bring a still to life, generate a video clip, give your words a voice or compose music for a new idea. Choose the model that suits your creative direction and explore different possibilities.\nUse your creations on their own or bring them into the editor alongside your footage. From a single asset to a complete production, keep creating in one place.\n\nTRUE COLLABORATIVE EDITING\nInvite your team into the project. Collaborate in real time, leave feedback on specific frames and refine the work together.\nKeep creative direction, review and editing connected as your project moves toward its final cut.\n\nFOR STORIES, CAMPAIGNS AND YOUR NEXT IDEA\nDirect a short film. Build a product ad. Create reels, explainers and YouTube videos. Explore a visual concept or develop the sound for your next project.\nBring your vision to invideo—and take it from the first idea to the finishing details.",
-      "sellerName": "Invideo Inc",
       "price": 0,
+      "minimumOsVersion": "16.0",
       "genreIds": [
         "6008",
         "6007"
       ],
-      "userRatingCount": 28106,
+      "releaseDate": "2023-11-15T08:00:00Z",
+      "trackId": 6471394316,
+      "trackName": "invideo: AI Video Editor",
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Invideo Inc",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "4.6.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Direct your ideas with AI agents. Take full control of your videos and edit collaboratively with your team on a professional grade timeline editor. Generate images, video, voice, sound and music with 200+ AI models—all in invideo.\nFrom films and ads to standalone visuals and audio, invideo brings creation and editing into one creative suite. Start with an idea, a script or your own footage. Work with Agent Two, make precise edits yourself, or go straight to the models to create what you imagine.\n\nYOU DIRECT. AI AGENTS EDIT.\nTell Agent Two what you want to create or change. Develop your idea into a video, shape a scene or refine an existing edit through everyday language.\nGuide the story, pacing, visuals and sound as the project takes shape. Keep directing until the result feels right.\n\nTAKE CONTROL OF EVERY CUT\nMove from AI direction to hands-on editing in invideo editor. Every AI edit stays editable, with precise manual controls on a professional multitrack timeline.\nArrange, trim and split clips. Refine layers, transitions, effects and color. Animate with keyframes, style titles and captions, and balance dialogue, music and sound effects.\nLet agents help you move the project forward, then get hands-on with the details. You decide how each moment looks, sounds and feels.\n\nGENERATE VISUALS AND AUDIO WITH 200+ AI MODELS\nExplore 200+ AI models for image, video, voice, sound and music generation.\nCreate a standalone image, bring a still to life, generate a video clip, give your words a voice or compose music for a new idea. Choose the model that suits your creative direction and explore different possibilities.\nUse your creations on their own or bring them into the editor alongside your footage. From a single asset to a complete production, keep creating in one place.\n\nTRUE COLLABORATIVE EDITING\nInvite your team into the project. Collaborate in real time, leave feedback on specific frames and refine the work together.\nKeep creative direction, review and editing connected as your project moves toward its final cut.\n\nFOR STORIES, CAMPAIGNS AND YOUR NEXT IDEA\nDirect a short film. Build a product ad. Create reels, explainers and YouTube videos. Explore a visual concept or develop the sound for your next project.\nBring your vision to invideo—and take it from the first idea to the finishing details.",
+      "bundleId": "io.invideo.ai",
+      "userRatingCount": 28129,
       "country": "USA"
     }
   ]

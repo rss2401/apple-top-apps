@@ -1,0 +1,44 @@
+{
+  "id": "615538630",
+  "name": "Geofency - Zeiterfassung",
+  "month": "202611",
+  "fetchedAt": "2026-11-23T11:23:20.752Z",
+  "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Großes Kaffee-Trinkgeld",
+          "price": "6,99 €",
+          "amount": 6.99
+        },
+        {
+          "name": "Mittleres Kaffee-Trinkgeld",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "Kleines Kaffee-Trinkgeld",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "Enormes Trinkgeld",
+          "price": "14,99 €",
+          "amount": 14.99
+        },
+        {
+          "name": "Großzügiges Trinkgeld",
+          "price": "8,99 €",
+          "amount": 8.99
+        },
+        {
+          "name": "1 kg Kaffee-Trinkgeld",
+          "price": "24,99 €",
+          "amount": 24.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:23:20.751Z"
+    }
+  }
+}

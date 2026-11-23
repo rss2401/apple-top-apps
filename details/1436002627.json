@@ -202,11 +202,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7e/d4/51/7ed4511a-408e-a389-1101-79cd8a9ddf09/114c7bec-4a7c-4880-8c50-e53209caa17b_2-_U82f9_U679c_U5546_U5e97_U00285.5_U82f1_U5bf8__U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/8b/65/e68b6563-0d96-8ae5-34de-cbfae36a4141/61aa05cb-68c2-46f8-8ca0-ce83232c650d_3-_U82f9_U679c_U5546_U5e97_U00285.5_U82f1_U5bf8__U0029_U5907_U4efd.png/392x696bb.png"
       ],
+      "isGameCenterEnabled": false,
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/82/73/e582731c-8c33-0c19-87ba-67af6dceab24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -341,15 +340,14 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "features": [],
       "advisories": [],
       "kind": "software",
+      "averageUserRating": 3.75209,
       "trackCensoredName": "个人所得税",
       "trackViewUrl": "https://apps.apple.com/cn/app/%E4%B8%AA%E4%BA%BA%E6%89%80%E5%BE%97%E7%A8%8E/id1436002627?uo=4",
       "contentAdvisoryRating": "4+",
-      "fileSizeBytes": "86424576",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 305731,
-      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 3.75209,
       "languageCodesISO2A": [
         "CA",
         "EN",
@@ -360,33 +358,35 @@
         "ZH",
         "ES"
       ],
-      "averageUserRatingForCurrentVersion": 3.75245,
-      "averageUserRating": 3.75245,
-      "artistId": 1436002626,
-      "artistName": "State Administration of Taxation",
+      "userRatingCountForCurrentVersion": 305779,
+      "trackContentRating": "4+",
+      "fileSizeBytes": "86424576",
+      "formattedPrice": "免费",
       "genres": [
         "财务"
       ],
+      "artistId": 1436002626,
+      "artistName": "State Administration of Taxation",
       "price": 0,
-      "genreIds": [
-        "6015"
-      ],
+      "trackId": 1436002627,
       "trackName": "个人所得税",
-      "bundleId": "cn.gov.tax.its",
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2018-10-24T14:46:05Z",
       "sellerName": "State Administration of Taxation",
       "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "1.优化部分功能的用户体验。",
-      "releaseDate": "2018-10-24T14:46:05Z",
-      "minimumOsVersion": "15.0",
       "currentVersionReleaseDate": "2026-10-31T02:22:22Z",
+      "releaseNotes": "1.优化部分功能的用户体验。",
       "version": "2.3.6",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "个人所得税APP由国家税务总局主办，是为贯彻落实党中央、国务院提出的个人所得税综合与分类相结合的税制改革要求，保障全国自然人纳税人及时享受税改红利而推出的一款移动办税工具。主要支持个人所得税综合所得年度汇算等纳税申报、专项附加扣除信息填报、收入纳税明细查询、异议申诉、涉税证明材料上传、委托代理等涉税业务办理，并配套提供在线咨询、热点问题、帮助中心等功能。",
-      "trackId": 1436002627,
+      "bundleId": "cn.gov.tax.its",
       "primaryGenreName": "Finance",
       "primaryGenreId": 6015,
-      "userRatingCount": 305731,
+      "genreIds": [
+        "6015"
+      ],
+      "userRatingCount": 305779,
       "country": "CHN"
     }
   ]

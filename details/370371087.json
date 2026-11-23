@@ -2,39 +2,14 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/argos-ltd/id370371090?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/36/78/9f3678dd-c65b-79cf-a192-76abd3abf750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/36/78/9f3678dd-c65b-79cf-a192-76abd3abf750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/f5/cd/e4f5cd37-141f-00ff-83fe-c9ab973aef25/Everything_you_want.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/1a/71/b91a7184-98d6-f198-0c4e-55ddf668a240/Never_miss_out.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/cf/5c/7acf5cbe-3cfb-6d97-e415-05da7c10fdea/Track_your_orders.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/2e/fc/792efc45-b7be-39f0-2161-08496965c85c/No_waiting_needed_U0021.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/05/7a/3a057ae8-140f-1497-0ea5-918498595e99/Easy_checkout__U2028.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/3c/1c/e63c1c5b-b8b7-489e-1a50-47fdadf39c5f/Your_catalogue_is_here.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/52/e2/7652e231-16bb-f48e-f535-f10508a979d2/Your_nearest_store.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/e4/dd/43e4dd0e-fd9e-dd7a-122c-d5e7e2091186/Never_miss_a_drop.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/4e/1f/c34e1f85-03d9-1b1b-b92c-010875127f8e/Kids_Mode_is_here.jpg/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ba/62/46ba6292-ae0f-29ae-1953-5ab6d4621b89/Everything_you_want.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/55/10/06551039-28e6-fe87-32b2-3cb9c0c3b726/Never_miss_out.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/22/05/c9220555-31ea-c10a-e31a-1ee34ccff70f/Track_your_orders.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a5/75/66a5755b-a9e4-cb5c-90d6-9b5f05952bb5/No_waiting_needed_U0021.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/e1/f2/3fe1f2ca-5180-88ed-d825-fcbe9cd40178/Easy_checkout__U2028.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/35/f0/2b35f0a6-d8ae-bcee-af13-59e4bee4b0b6/Your_catalogue_is_here.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/85/6c/ae856cdf-064a-755e-e3c6-41f924187de1/Your_nearest_store.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/b7/19/f0b719f0-d99d-f55d-4cc8-ec5110e3940e/Never_miss_a_drop.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/41/51/6f4151d6-36d2-c0cd-224c-fadf4c9f6345/Kids_Mode_is_here.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/36/78/9f3678dd-c65b-79cf-a192-76abd3abf750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -169,6 +144,36 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/f5/cd/e4f5cd37-141f-00ff-83fe-c9ab973aef25/Everything_you_want.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/1a/71/b91a7184-98d6-f198-0c4e-55ddf668a240/Never_miss_out.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/cf/5c/7acf5cbe-3cfb-6d97-e415-05da7c10fdea/Track_your_orders.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/2e/fc/792efc45-b7be-39f0-2161-08496965c85c/No_waiting_needed_U0021.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3a/05/7a/3a057ae8-140f-1497-0ea5-918498595e99/Easy_checkout__U2028.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/3c/1c/e63c1c5b-b8b7-489e-1a50-47fdadf39c5f/Your_catalogue_is_here.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/76/52/e2/7652e231-16bb-f48e-f535-f10508a979d2/Your_nearest_store.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/e4/dd/43e4dd0e-fd9e-dd7a-122c-d5e7e2091186/Never_miss_a_drop.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/4e/1f/c34e1f85-03d9-1b1b-b92c-010875127f8e/Kids_Mode_is_here.jpg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/ba/62/46ba6292-ae0f-29ae-1953-5ab6d4621b89/Everything_you_want.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/55/10/06551039-28e6-fe87-32b2-3cb9c0c3b726/Never_miss_out.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/22/05/c9220555-31ea-c10a-e31a-1ee34ccff70f/Track_your_orders.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a5/75/66a5755b-a9e4-cb5c-90d6-9b5f05952bb5/No_waiting_needed_U0021.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/e1/f2/3fe1f2ca-5180-88ed-d825-fcbe9cd40178/Easy_checkout__U2028.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/35/f0/2b35f0a6-d8ae-bcee-af13-59e4bee4b0b6/Your_catalogue_is_here.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/85/6c/ae856cdf-064a-755e-e3c6-41f924187de1/Your_nearest_store.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/b7/19/f0b719f0-d99d-f55d-4cc8-ec5110e3940e/Never_miss_a_drop.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/41/51/6f4151d6-36d2-c0cd-224c-fadf4c9f6345/Kids_Mode_is_here.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/36/78/9f3678dd-c65b-79cf-a192-76abd3abf750/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "bundleId": "uk.co.argos.argosapp",
+      "trackCensoredName": "Argos - Shop Tech, Toys & More",
+      "trackViewUrl": "https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.81825,
       "artistId": 370371090,
       "artistName": "Argos Ltd.",
       "genres": [
@@ -176,39 +181,34 @@
         "Lifestyle"
       ],
       "price": 0,
-      "releaseNotes": "Just in time for Black Friday! We’ve been busy under the hood making sure your app is as fast and reliable as a store colleague on a mission. We’ve polished up the experience and squashed some pesky bugs so you can bag those deals without a hitch. Happy shopping!",
-      "bundleId": "uk.co.argos.argosapp",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "isVppDeviceBasedLicensingEnabled": true,
       "releaseDate": "2010-05-22T07:00:00Z",
-      "minimumOsVersion": "16.0",
       "genreIds": [
         "6024",
         "6012"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Argos Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 370371087,
+      "trackName": "Argos - Shop Tech, Toys & More",
+      "minimumOsVersion": "16.0",
       "currentVersionReleaseDate": "2026-11-12T08:58:32Z",
+      "releaseNotes": "Just in time for Black Friday! We’ve been busy under the hood making sure your app is as fast and reliable as a store colleague on a mission. We’ve polished up the experience and squashed some pesky bugs so you can bag those deals without a hitch. Happy shopping!",
       "version": "5.68.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Get set for Argos, shop over 50,000 products from the palm of your hand!\n\nWelcome to the Argos app! Your one-stop shopping destination for electronics, home goods, fashion, toys, furniture, fitness equipment, gaming, and more! Whether you're at home, at work, or on the go, the Argos app brings the entire Argos product range directly to your fingertips. With over 50,000 products available, we make shopping easy, fast, and convenient for you!\n\nExplore a great range of products:\n\nElectronics: Shop the latest smartphones, tablets, laptops, smartwatches, and home tech. Stay up to date with the newest gadgets and find great deals on televisions, headphones, and gaming consoles.\n\nToys: Discover a huge selection of toys for kids of all ages, from action figures and dolls to board games, STEM toys, and outdoor play equipment.\n\nFurniture & Homeware: Furnish your home with our wide variety of sofas, beds, storage solutions, bedding, and home decor. Find everything from kitchen appliances to lighting and garden furniture.\n\nFashion: Browse the latest in women's, men's, and kids' clothing, shoes, and accessories. Get ready for every season with our stylish collection.\n\nFitness & Sports: Get fit with our wide range of fitness equipment, sports gear, activewear, and outdoor adventure products.\n\nHealth & Beauty: Stock up on your favourite beauty products, skincare, haircare, and health essentials.\n\nGarden & DIY: Find everything for your outdoor space, from tools and gardening equipment to patio furniture and BBQs.\n\nApp Features That Make Shopping Easier Than Ever:\n\nFast Track Delivery: Need your items fast? No problem! With Fast Track Delivery, we’ll deliver your products straight to your door at a time that suits you, even on the same day. Whether you're at home, work, or relaxing on the couch, we've got you covered.\n\nClick & Collect: Don’t have time to wait for delivery? Simply order online and choose Click & Collect to pick up your items at your nearest Argos store. It’s the perfect solution when you’re in a rush. Get in, get your stuff, and get going!\n\nWishlist: Planning a big purchase or simply saving for later? Create a Wishlist of your favourite items and keep them in one place. Whether you’re waiting for payday or building your Christmas or birthday lists, the Wishlist feature helps you keep track of everything you love.\n\nStock Check: Don’t waste a trip! You can easily check stock availability at your local stores with just a tap. Whether it’s a popular tech gadget or a furniture piece, find out if it’s in stock and ready for you to pick up.\n\nEasy Shopping and Secure Checkout: With a user-friendly interface, you can navigate through the app effortlessly and enjoy a smooth shopping experience. From browsing to ordering, the secure payment options ensure your data is safe.\n\nExclusive Deals: Keep an eye out for exclusive promotions, flash sales, and new product launches. Get notified on the latest discounts and special offers to save even more on your next shopping spree.\n\nWe’re here to make your shopping experience the best it can be, quick, easy, and convenient. Whether you’re upgrading your home tech, buying kids' toys, revamping your garden, or looking for fitness gear, the Argos app has it all, and we’re adding new products all the time.\n\nWe want the Argos app to be your go-to shopping app, and we’re always working to improve. We value your feedback and suggestions, so feel free to share them with us at appdev@homeretailgroup.com. We read every suggestion, and we love hearing from you!",
-      "trackCensoredName": "Argos - Shop Tech, Toys & More",
-      "trackViewUrl": "https://apps.apple.com/gb/app/argos-shop-tech-toys-more/id370371087?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.81805,
-      "averageUserRatingForCurrentVersion": 4.81805,
+      "averageUserRatingForCurrentVersion": 4.81825,
       "languageCodesISO2A": [
         "EN"
       ],
+      "fileSizeBytes": "128273408",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 645661,
+      "userRatingCountForCurrentVersion": 650841,
       "trackContentRating": "4+",
       "sellerUrl": "http://www.argos.co.uk",
-      "fileSizeBytes": "128273408",
-      "trackId": 370371087,
-      "trackName": "Argos - Shop Tech, Toys & More",
-      "userRatingCount": 645661,
+      "sellerName": "Argos Ltd.",
+      "userRatingCount": 650841,
       "country": "GBR"
     }
   ]

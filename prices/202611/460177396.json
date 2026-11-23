@@ -2,8 +2,64 @@
   "id": "460177396",
   "name": "Twitch : streaming en live",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:19:43.832Z",
+  "fetchedAt": "2026-11-23T11:20:19.858Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "1 Abo-Token",
+          "price": "6,99 €",
+          "amount": 6.99
+        },
+        {
+          "name": "1 Abo-Token",
+          "price": "3,99 €",
+          "amount": 3.99
+        },
+        {
+          "name": "95 Bits",
+          "price": "1,99 €",
+          "amount": 1.99
+        },
+        {
+          "name": "245 Bits",
+          "price": "5,99 €",
+          "amount": 5.99
+        },
+        {
+          "name": "5 Abo-Token",
+          "price": "34,99 €",
+          "amount": 34.99
+        },
+        {
+          "name": "510 Bits",
+          "price": "9,99 €",
+          "amount": 9.99
+        },
+        {
+          "name": "1050 Bits",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "5 Abo-Token",
+          "price": "22,99 €",
+          "amount": 22.99
+        },
+        {
+          "name": "500 Bits",
+          "price": "7,99 €",
+          "amount": 7.99
+        },
+        {
+          "name": "10 Abo-Token",
+          "price": "44,99 €",
+          "amount": 44.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:20:18.398Z"
+    },
     "fr": {
       "currency": "EUR",
       "items": [
@@ -58,7 +114,7 @@
           "amount": 69.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:19:43.827Z"
+      "fetchedAt": "2026-11-23T11:20:19.850Z"
     }
   }
 }

@@ -248,35 +248,7 @@
       "userRatingCount": 403031
     },
     {
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/dc/66/b9dc662e-6b15-ef17-8284-530e19360463/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "appletvScreenshotUrls": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/28/05/ee2805bb-acce-b95d-a2fb-be4efbdc2f76/5.5_Privacy.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/49/82/d9498285-36f8-7035-9b48-f9ed2b393821/5.5_DisappearingMessages.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/7f/5d/a27f5d03-ba8b-dc2f-19a9-d5d78485a58f/5.5_VideoCalling.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/26/3f/b9263f68-c48b-8c2f-6396-4ac5dc9dccea/5.5_Stories.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/be/e2/a5bee216-6d25-0597-b754-cbc70ef391f0/5.5_Multimedia.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/39/ee/2e39eeab-e182-54af-6d3b-9e88b85e2620/5.5_GroupChats.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/70/f4/4570f4b0-5a56-f196-ae94-0711113f0e36/5.5_Usernames.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/77/cb/5a77cbb0-6eff-0944-68e1-edf029483416/12.9_2Gen_Privacy.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/44/72/f844728f-6154-27ed-5654-6e0b78068018/12.9_2Gen_DisappearingMessages.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/5f/57/d75f5763-914f-d31f-6bc1-65a6347d4bbc/12.9_2Gen_VideoCalls.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/08/05/8c080561-c3f7-e7c8-d741-06454fcae0b4/12.9_2Gen_Stories.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/78/1b/67781b19-736c-77e8-5618-6ec5971878dc/12.9_2Gen_GroupChats.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/89/a6/b889a60d-4027-22e2-d497-5d030e57c48b/12.9_2Gen_Usernames.png/552x414bb.png"
-      ],
       "isGameCenterEnabled": false,
-      "advisories": [
-        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen",
-        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
-        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/de/developer/signal-messenger-llc/id874139672?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/dc/66/b9dc662e-6b15-ef17-8284-530e19360463/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/dc/66/b9dc662e-6b15-ef17-8284-530e19360463/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
@@ -410,8 +382,62 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [
+        "Selten/schwach ausgeprägt: obszöner oder vulgärer Humor",
+        "Selten/schwach ausgeprägt: Szenen mit erotischen Anspielungen",
+        "Selten/schwach ausgeprägt: medizinische/Behandlungs-Informationen"
+      ],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/28/05/ee2805bb-acce-b95d-a2fb-be4efbdc2f76/5.5_Privacy.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/49/82/d9498285-36f8-7035-9b48-f9ed2b393821/5.5_DisappearingMessages.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/7f/5d/a27f5d03-ba8b-dc2f-19a9-d5d78485a58f/5.5_VideoCalling.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/26/3f/b9263f68-c48b-8c2f-6396-4ac5dc9dccea/5.5_Stories.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/be/e2/a5bee216-6d25-0597-b754-cbc70ef391f0/5.5_Multimedia.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/39/ee/2e39eeab-e182-54af-6d3b-9e88b85e2620/5.5_GroupChats.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/70/f4/4570f4b0-5a56-f196-ae94-0711113f0e36/5.5_Usernames.png/392x696bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/77/cb/5a77cbb0-6eff-0944-68e1-edf029483416/12.9_2Gen_Privacy.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f8/44/72/f844728f-6154-27ed-5654-6e0b78068018/12.9_2Gen_DisappearingMessages.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/5f/57/d75f5763-914f-d31f-6bc1-65a6347d4bbc/12.9_2Gen_VideoCalls.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/08/05/8c080561-c3f7-e7c8-d741-06454fcae0b4/12.9_2Gen_Stories.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/78/1b/67781b19-736c-77e8-5618-6ec5971878dc/12.9_2Gen_GroupChats.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/89/a6/b889a60d-4027-22e2-d497-5d030e57c48b/12.9_2Gen_Usernames.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b8/41/4bb8410f-e607-c5c2-42ce-6f067cde7c58/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b8/41/4bb8410f-e607-c5c2-42ce-6f067cde7c58/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b8/41/4bb8410f-e607-c5c2-42ce-6f067cde7c58/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/de/developer/signal-messenger-llc/id874139672?uo=4",
+      "currentVersionReleaseDate": "2026-11-19T17:00:23Z",
+      "releaseNotes": "• Deine Lieblingssticker haben jetzt einen Platz, an dem sie haften bleiben. Füge einen beliebigen Sticker zu deiner Favoritenliste hinzu, damit du deinen Liebsten immer in der Nähe hast.\n\n• Der Medien-Editor ermöglicht es dir auch, die Audiospur aus einem Video zu entfernen, bevor du es versendest. Wenn die idyllischen Zeitlupen-Aufnahmen von deinem Urlaub in Schottland also durch blökende Schafe beeinträchtigt wurden, kannst du deinen Film mit nur einem Fingertipp in »Das Schweigen der Lämmer« verwandeln.",
+      "artistId": 874139672,
+      "artistName": "Signal Messenger, LLC",
+      "releaseDate": "2014-07-29T18:24:15Z",
+      "trackId": 874139669,
+      "trackName": "Signal – Sicherer Messenger",
+      "minimumOsVersion": "15.0",
+      "genreIds": [
+        "6005",
+        "6002"
+      ],
+      "primaryGenreName": "Social Networking",
+      "primaryGenreId": 6005,
+      "sellerName": "Signal Messenger, LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "8.38",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "• Signal ist eine Messaging-App, bei der Datenschutz und Privatsphäre im Mittelpunkt stehen. Sie ist kostenlos und einfach zu benutzen, mit einer starken Ende-zu-Ende-Verschlüsselung, die deine Kommunikation absolut vertraulich macht.\n\n• Versende kostenlos Text- und Sprachnachrichten, Fotos, Videos, GIFs und sonstige Dateien. Signal verwendet die Internetverbindung deines Mobiltelefons, sodass du Gebühren für SMS und MMS vermeiden kannst.\n\n• Rufe deine Kontakte mit glasklaren verschlüsselten Sprach- und Videoanrufen an. Gruppenanrufe sind für bis zu 50 Personen möglich.\n\n• Bleibe in Verbindung durch Gruppen-Chats mit bis zu 1.000 Personen. Lege fest, wer posten darf, und verwalte die Gruppenmitglieder mit Admin-Berechtigungseinstellungen.\n\n• Teile Bild-, Text- und Videostorys, die nach 24 Stunden wieder verschwinden. Mit den Datenschutz-Einstellungen kannst du genau festlegen, wer jede Story sehen kann.\n\n• Signal ist für deine Privatsphäre gemacht. Wir wissen nichts über dich oder mit wem du sprichst. Unser Open Source-Signal Protokoll bedeutet, dass wir deine Nachrichten nicht lesen und deine Anrufe nicht mithören können. Ebenso wenig wie alle anderen. Keine Hintertüren, keine Datensammlung, keine Kompromisse. \n\n• Signal ist unabhängig und nicht auf Gewinn ausgerichtet – eine andere Art von Technologie von einer anderen Art von Organisation. Als Non-Profit-Organisation werden wir durch deine Spenden unterstützt, nicht durch Werbekunden oder Investoren. \n\n• Für Support, Fragen oder weitere Informationen besuche bitte https://support.signal.org/\n\nUm unseren Quellcode zu sehen, besuche https://github.com/signalapp \n\nFolge uns auf Twitter @signalapp und Instagram @signal_app",
+      "bundleId": "org.whispersystems.signal",
+      "averageUserRatingForCurrentVersion": 4.60749,
+      "averageUserRating": 4.60749,
+      "trackCensoredName": "Signal – Sicherer Messenger",
       "languageCodesISO2A": [
         "AR",
         "BE",
@@ -458,43 +484,19 @@
         "UR",
         "VI"
       ],
-      "fileSizeBytes": "221594624",
+      "fileSizeBytes": "252408832",
       "formattedPrice": "Gratis",
-      "userRatingCountForCurrentVersion": 411176,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 415008,
+      "trackViewUrl": "https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669?uo=4",
       "trackContentRating": "12+",
       "sellerUrl": "https://signal.org/",
-      "averageUserRatingForCurrentVersion": 4.60783,
-      "minimumOsVersion": "15.0",
-      "price": 0,
-      "artistId": 874139672,
-      "artistName": "Signal Messenger, LLC",
       "genres": [
         "Soziale Netze",
         "Dienst­programme"
       ],
-      "bundleId": "org.whispersystems.signal",
-      "releaseDate": "2014-07-29T18:24:15Z",
-      "genreIds": [
-        "6005",
-        "6002"
-      ],
-      "primaryGenreName": "Social Networking",
-      "primaryGenreId": 6005,
-      "sellerName": "Signal Messenger, LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseNotes": "• Mit diesem Update gibt's jetzt eine neue Option zum Stummschalten, mit der du ganz einfach das genaue Datum und die Uhrzeit festlegen kannst, zu der du die Stummschaltung für Benachrichtigungen in einem bestimmten Chat beenden möchtest.",
-      "version": "8.32",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "• Signal ist eine Messaging-App, bei der Datenschutz und Privatsphäre im Mittelpunkt stehen. Sie ist kostenlos und einfach zu benutzen, mit einer starken Ende-zu-Ende-Verschlüsselung, die deine Kommunikation absolut vertraulich macht.\n\n• Versende kostenlos Text- und Sprachnachrichten, Fotos, Videos, GIFs und sonstige Dateien. Signal verwendet die Internetverbindung deines Mobiltelefons, sodass du Gebühren für SMS und MMS vermeiden kannst.\n\n• Rufe deine Kontakte mit glasklaren verschlüsselten Sprach- und Videoanrufen an. Gruppenanrufe sind für bis zu 50 Personen möglich.\n\n• Bleibe in Verbindung durch Gruppen-Chats mit bis zu 1.000 Personen. Lege fest, wer posten darf, und verwalte die Gruppenmitglieder mit Admin-Berechtigungseinstellungen.\n\n• Teile Bild-, Text- und Videostorys, die nach 24 Stunden wieder verschwinden. Mit den Datenschutz-Einstellungen kannst du genau festlegen, wer jede Story sehen kann.\n\n• Signal ist für deine Privatsphäre gemacht. Wir wissen nichts über dich oder mit wem du sprichst. Unser Open Source-Signal Protokoll bedeutet, dass wir deine Nachrichten nicht lesen und deine Anrufe nicht mithören können. Ebenso wenig wie alle anderen. Keine Hintertüren, keine Datensammlung, keine Kompromisse. \n\n• Signal ist unabhängig und nicht auf Gewinn ausgerichtet – eine andere Art von Technologie von einer anderen Art von Organisation. Als Non-Profit-Organisation werden wir durch deine Spenden unterstützt, nicht durch Werbekunden oder Investoren. \n\n• Für Support, Fragen oder weitere Informationen besuche bitte https://support.signal.org/\n\nUm unseren Quellcode zu sehen, besuche https://github.com/signalapp \n\nFolge uns auf Twitter @signalapp und Instagram @signal_app",
-      "averageUserRating": 4.60783,
-      "trackCensoredName": "Signal – Sicherer Messenger",
-      "trackViewUrl": "https://apps.apple.com/de/app/signal-sicherer-messenger/id874139669?uo=4",
-      "contentAdvisoryRating": "12+",
-      "currentVersionReleaseDate": "2026-10-09T16:56:34Z",
-      "trackId": 874139669,
-      "trackName": "Signal – Sicherer Messenger",
-      "userRatingCount": 411176,
+      "price": 0,
+      "userRatingCount": 415008,
       "country": "DEU"
     },
     {

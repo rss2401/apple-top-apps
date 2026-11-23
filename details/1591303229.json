@@ -2,7 +2,6 @@
   "resultCount": 2,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/46/de/40/46de40ca-61ec-e070-cc2a-9307fbfc8ce0/f261a659-acf5-4174-a3ea-a536708202bc_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/4f/01/6a4f0133-8f50-b5a5-4234-54ca232edecf/857e2af5-a81f-4a53-b784-8e4da5ada933_2.png/392x696bb.png"
@@ -12,10 +11,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/80/f8/19/80f819d0-b27f-deb6-a68a-012fd6795204/77a81289-667c-43c7-8d97-73ebea556fa4_2.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1c/de/3f1cde2d-bd1f-aff5-0059-ba8cd32b6967/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1c/de/3f1cde2d-bd1f-aff5-0059-ba8cd32b6967/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/1c/de/3f1cde2d-bd1f-aff5-0059-ba8cd32b6967/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f3/0c/6bf30ca4-6aa2-3cfa-eaf1-42797c2dfacd/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -147,26 +145,26 @@
         "iPadAir13M4Cellular-iPadAir13M4Cellular",
         "iPhone18Pro-iPhone18Pro",
         "iPhone18ProMax-iPhone18ProMax",
-        "iPhoneDuo-iPhoneDuo"
+        "iPhoneDuo-iPhoneDuo",
+        "iPadMiniA20Pro-iPadMiniA20Pro",
+        "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "advisories": [],
       "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/de/developer/and-a-dinosaur/id475577301?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f3/0c/6bf30ca4-6aa2-3cfa-eaf1-42797c2dfacd/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f3/0c/6bf30ca4-6aa2-3cfa-eaf1-42797c2dfacd/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/100x100bb.jpg",
       "features": [
         "iosUniversal"
       ],
-      "sellerUrl": "https://andadinosaur.com/launch-vinegar",
-      "userRatingCountForCurrentVersion": 463,
-      "trackContentRating": "4+",
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "9711616",
       "formattedPrice": "1,99 €",
-      "averageUserRatingForCurrentVersion": 4.36501,
-      "averageUserRating": 4.36501,
-      "trackCensoredName": "Vinegar - Tube Cleaner",
-      "trackViewUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=4",
-      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 464,
+      "trackContentRating": "4+",
+      "sellerUrl": "https://andadinosaur.com/launch-vinegar",
+      "averageUserRating": 4.35776,
       "artistId": 475577301,
       "artistName": "And a Dinosaur",
       "genres": [
@@ -174,26 +172,30 @@
         "Foto und Video"
       ],
       "price": 1.99,
-      "trackId": 1591303229,
-      "trackName": "Vinegar - Tube Cleaner",
-      "bundleId": "com.andadinosaur.Vinegar",
-      "minimumOsVersion": "15.0",
-      "releaseDate": "2021-11-06T07:00:00Z",
-      "releaseNotes": "- (iPad-only) Fixed the Theater button.",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
       "sellerName": "And a Dinosaur",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "minimumOsVersion": "15.0",
       "genreIds": [
         "6002",
         "6008"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "currentVersionReleaseDate": "2026-11-07T19:47:15Z",
-      "version": "3.5.5",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2021-11-06T07:00:00Z",
+      "trackId": 1591303229,
+      "trackName": "Vinegar - Tube Cleaner",
+      "currentVersionReleaseDate": "2026-11-18T17:22:00Z",
+      "releaseNotes": "- The PiP button should keep working after a video finishes in PiP\n- Fixed a clash with some adblockers",
+      "version": "3.5.7",
       "wrapperType": "software",
       "currency": "EUR",
       "description": "Vinegar is a Safari extension that replaces the YouTube player with a minimal HTML video tag.\n\nIt removes ads, restores picture-in-picture, and allows videos to play in the background when set to audio-only quality.\n\nNote: The phrase 'can read and alter webpages' in the permissions section is just an unfortunate choice of words. Vinegar needs access to the webpage to find the YouTube player and replace it. It's not doing anything creepy!\n\n(Also, do check out Vinegar's companion app, Baking Soda. It's essentially a less powerful version of Vinegar, but it works on all websites except YouTube.)",
-      "userRatingCount": 463,
+      "bundleId": "com.andadinosaur.Vinegar",
+      "averageUserRatingForCurrentVersion": 4.35776,
+      "trackCensoredName": "Vinegar - Tube Cleaner",
+      "trackViewUrl": "https://apps.apple.com/de/app/vinegar-tube-cleaner/id1591303229?uo=4",
+      "contentAdvisoryRating": "4+",
+      "userRatingCount": 464,
       "country": "DEU"
     },
     {

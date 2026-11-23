@@ -2,8 +2,23 @@
   "id": "6822738484",
   "name": "Face Witness",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:25:01.072Z",
+  "fetchedAt": "2026-11-23T11:23:14.640Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:23:10.171Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:23:11.759Z"
+    },
+    "gb": {
+      "currency": "GBP",
+      "items": [],
+      "fetchedAt": "2026-11-23T11:23:13.105Z"
+    },
     "jp": {
       "currency": "JPY",
       "items": [],
@@ -12,7 +27,7 @@
     "us": {
       "currency": "USD",
       "items": [],
-      "fetchedAt": "2026-11-16T10:25:01.071Z"
+      "fetchedAt": "2026-11-23T11:23:14.639Z"
     }
   }
 }

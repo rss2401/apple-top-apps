@@ -1,9 +1,20 @@
 {
   "id": "314192799",
-  "name": "Acrobits Softphone",
+  "name": "Acrobits: VoIP SIP Softphone",
   "month": "202611",
-  "fetchedAt": "2026-11-02T09:59:00.511Z",
+  "fetchedAt": "2026-11-23T11:24:34.190Z",
   "storefronts": {
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "ZRTP For Outgoing Calls",
+          "price": "29,99 €",
+          "amount": 29.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:24:34.189Z"
+    },
     "jp": {
       "currency": "JPY",
       "items": [

@@ -2,8 +2,50 @@
   "id": "1113153706",
   "name": "Microsoft Teams",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:05:43.409Z",
+  "fetchedAt": "2026-11-23T11:06:35.466Z",
   "storefronts": {
+    "de": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Microsoft 365 Family (Monthly)",
+          "price": "13,00 €",
+          "amount": 13
+        },
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "9,99 €",
+          "amount": 9.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:06:32.914Z"
+    },
+    "fr": {
+      "currency": "EUR",
+      "items": [
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "10,00 €",
+          "amount": 10
+        },
+        {
+          "name": "Microsoft 365 Family (Monthly)",
+          "price": "13,00 €",
+          "amount": 13
+        },
+        {
+          "name": "Microsoft 365 Personal Monthly",
+          "price": "9,99 €",
+          "amount": 9.99
+        }
+      ],
+      "fetchedAt": "2026-11-23T11:06:34.292Z"
+    },
     "us": {
       "currency": "USD",
       "items": [
@@ -23,7 +65,7 @@
           "amount": 9.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:05:43.408Z"
+      "fetchedAt": "2026-11-23T11:06:35.465Z"
     }
   }
 }

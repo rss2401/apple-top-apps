@@ -191,10 +191,10 @@
       "userRatingCount": 19402
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/clafou-ltd/id424537553?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -331,9 +331,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/79/77/317977a8-9fd3-fd00-cb86-d1390dfad4c6/s__en-US__IPHONE_67__1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/5d/c00b5db4-aef9-5e2f-1c56-33f7f58a61ea/s__en-US__IPHONE_67__2.png/320x480bb.jpg",
@@ -348,27 +345,40 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "releaseNotes": "Fixed bugs introduced in the last update (sorry):\n• When sharing an image from another app, choosing to open it in Print to Size failed to add the image to the page.\n• On some iPads with a connected hardware keyboard, the buttons at the bottom did not respond.\nI hope the app continues to be useful to you! This is made by me, Seb, a human developer (not an AI) and I can always be reached via the Send Feedback menu.",
-      "price": 2.99,
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.85581,
       "trackCensoredName": "Print to Size",
       "trackViewUrl": "https://apps.apple.com/us/app/print-to-size/id949490225?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.85569,
+      "currentVersionReleaseDate": "2026-11-15T01:29:31Z",
       "artistId": 424537553,
       "artistName": "Clafou Ltd",
+      "genres": [
+        "Photo & Video",
+        "Graphics & Design"
+      ],
+      "price": 2.99,
+      "releaseNotes": "Fixed bugs introduced in the last update (sorry):\n• When sharing an image from another app, choosing to open it in Print to Size failed to add the image to the page.\n• On some iPads with a connected hardware keyboard, the buttons at the bottom did not respond.\nI hope the app continues to be useful to you! This is made by me, Seb, a human developer (not an AI) and I can always be reached via the Send Feedback menu.",
       "bundleId": "com.clafou.print",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "minimumOsVersion": "16.0",
-      "sellerName": "Clafou Ltd",
-      "releaseDate": "2015-01-21T19:02:33Z",
       "trackId": 949490225,
       "trackName": "Print to Size",
-      "currentVersionReleaseDate": "2026-11-15T01:29:31Z",
+      "releaseDate": "2015-01-21T19:02:33Z",
+      "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6008",
+        "6027"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Clafou Ltd",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.12",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Print images exactly how you want them on the page. Resize and crop in inches or centimeters. Print multiple photos on one sheet. No more surprises or waste.\n\nREAL SIZES\nSize and crop your images in inches or centimeters. Each printed image will match exactly the size displayed on screen.\n\nHIGH QUALITY\nWill it look pixelated? The PPI (DPI) display tells you. For best results avoid stretching photos below 200-300 PPI.\nEach image is sent to the printer at full resolution to guarantee optimal quality.\n\nSAVE PAPER\nPlace multiple images anywhere on the page. Fill the empty spaces on your sheet and use less paper.\n\nSAVE INK\nChoose the most economical print mode (photo or general quality, color or grayscale).\nCrop to print only what you need and waste no ink.\n\nIntuitive and quick to use with familiar touch gestures:\n• Select your paper size\n• Add images\n• Size and crop them to exact dimensions anywhere inside the page\n• Align, rotate, flip and duplicate\n• Choose your mode (photo or general quality, color or grayscale) then print.\n\nRequires an AirPrint compatible printer. If you don't have one, you can still use this app to create a PDF or JPEG file that you can then print via other methods.\n\nPerfect for all kinds of printing projects:\n• Picture frames\n• Greeting cards\n• Scrapbooking\n• Arts and crafts\n• Collages\n• Door signs\n• Labels\n• Badges\n\nPrinter manufacturers have ink and photo paper to sell, so their apps aren’t designed to help avoid waste. This app is different. It is designed to let you get it right the first time.\n\nDOWNLOAD NOW and make the best use of your ink and paper!",
+      "averageUserRatingForCurrentVersion": 4.85581,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -379,23 +389,16 @@
       ],
       "fileSizeBytes": "8707072",
       "formattedPrice": "$2.99",
-      "userRatingCountForCurrentVersion": 20221,
+      "userRatingCountForCurrentVersion": 20272,
       "trackContentRating": "4+",
       "sellerUrl": "http://www.clafou.com/print",
-      "averageUserRatingForCurrentVersion": 4.85569,
-      "genreIds": [
-        "6008",
-        "6027"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Photo & Video",
-        "Graphics & Design"
-      ],
-      "userRatingCount": 20221,
+      "userRatingCount": 20272,
       "country": "USA"
     },
     {
+      "artistViewUrl": "https://apps.apple.com/gb/developer/clafou-ltd/id424537553?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -533,14 +536,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/gb/developer/clafou-ltd/id424537553?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/79/77/317977a8-9fd3-fd00-cb86-d1390dfad4c6/s__en-US__IPHONE_67__1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/0b/5d/c00b5db4-aef9-5e2f-1c56-33f7f58a61ea/s__en-US__IPHONE_67__2.png/320x480bb.jpg",
@@ -553,6 +548,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/63/25/ee63258e-531d-c866-86c8-01139d0ad77f/s__en-US__IPAD_PRO_3GEN_129__3.png/360x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/92/51/8e92513f-28d4-1fb9-c58c-d21df202cd36/s__en-US__IPAD_PRO_3GEN_129__4.png/360x480bb.jpg"
       ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/99/0e/b3990ee6-5b31-0610-0a8b-1ff23d7b621b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.8419,
       "artistId": 424537553,
       "artistName": "Clafou Ltd",
       "genres": [
@@ -560,30 +562,27 @@
         "Graphics & Design"
       ],
       "price": 2.99,
-      "trackName": "Print to Size",
+      "currentVersionReleaseDate": "2026-11-15T01:29:31Z",
       "trackId": 949490225,
-      "bundleId": "com.clafou.print",
-      "primaryGenreName": "Photo & Video",
-      "primaryGenreId": 6008,
-      "sellerName": "Clafou Ltd",
+      "trackName": "Print to Size",
       "releaseNotes": "Fixed bugs introduced in the last update (sorry):\n• When sharing an image from another app, choosing to open it in Print to Size failed to add the image to the page.\n• On some iPads with a connected hardware keyboard, the buttons at the bottom did not respond.\nI hope the app continues to be useful to you! This is made by me, Seb, a human developer (not an AI) and I can always be reached via the Send Feedback menu.",
-      "minimumOsVersion": "16.0",
       "releaseDate": "2015-01-21T19:02:33Z",
+      "minimumOsVersion": "16.0",
       "genreIds": [
         "6008",
         "6027"
       ],
+      "primaryGenreName": "Photo & Video",
+      "primaryGenreId": 6008,
+      "sellerName": "Clafou Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-15T01:29:31Z",
       "version": "1.12",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Print images exactly how you want them on the page. Resize and crop in inches or centimeters. Print multiple photos on one sheet. No more surprises or waste.\n\nREAL SIZES\nSize and crop your images in inches or centimeters. Each printed image will match exactly the size displayed on screen.\n\nHIGH QUALITY\nWill it look pixelated? The PPI (DPI) display tells you. For best results avoid stretching photos below 200-300 PPI.\nEach image is sent to the printer at full resolution to guarantee optimal quality.\n\nSAVE PAPER\nPlace multiple images anywhere on the page. Fill the empty spaces on your sheet and use less paper.\n\nSAVE INK\nChoose the most economical print mode (photo or general quality, color or grayscale).\nCrop to print only what you need and waste no ink.\n\nIntuitive and quick to use with familiar touch gestures:\n• Select your paper size\n• Add images\n• Size and crop them to exact dimensions anywhere inside the page\n• Align, rotate, flip and duplicate\n• Choose your mode (photo or general quality, color or grayscale) then print.\n\nRequires an AirPrint compatible printer. If you don't have one, you can still use this app to create a PDF or JPEG file that you can then print via other methods.\n\nPerfect for all kinds of printing projects:\n• Picture frames\n• Greeting cards\n• Scrapbooking\n• Arts and crafts\n• Collages\n• Door signs\n• Labels\n• Badges\n\nPrinter manufacturers have ink and photo paper to sell, so their apps aren’t designed to help avoid waste. This app is different. It is designed to let you get it right the first time.\n\nDOWNLOAD NOW and make the best use of your ink and paper!",
+      "averageUserRatingForCurrentVersion": 4.8419,
+      "sellerUrl": "http://www.clafou.com/print",
       "trackCensoredName": "Print to Size",
-      "trackViewUrl": "https://apps.apple.com/gb/app/print-to-size/id949490225?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.84217,
-      "averageUserRatingForCurrentVersion": 4.84217,
       "languageCodesISO2A": [
         "EN",
         "FR",
@@ -594,10 +593,11 @@
       ],
       "fileSizeBytes": "8707072",
       "formattedPrice": "£2.99",
-      "userRatingCountForCurrentVersion": 4169,
+      "userRatingCountForCurrentVersion": 4181,
+      "trackViewUrl": "https://apps.apple.com/gb/app/print-to-size/id949490225?uo=4",
       "trackContentRating": "4+",
-      "sellerUrl": "http://www.clafou.com/print",
-      "userRatingCount": 4169,
+      "bundleId": "com.clafou.print",
+      "userRatingCount": 4181,
       "country": "GBR"
     }
   ]

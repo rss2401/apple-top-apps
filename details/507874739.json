@@ -514,6 +514,28 @@
       "country": "JPN"
     },
     {
+      "features": [
+        "iosUniversal"
+      ],
+      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/65/52/4a655205-f002-68ad-20ed-f3276253679b/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/96/7e/4a967ed3-2f48-ce58-7142-9687e5a68a6d/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/89/d8f08971-421a-b1db-49dd-6ebe1f472cdb/APP_IPHONE_65-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/03/c7/5203c70e-6558-c2d6-b0eb-946e05d8ca4f/APP_IPHONE_65-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/ad/15/89ad1557-5cc8-fae0-e093-e1991020d56f/APP_IPHONE_65-5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/2d/db/f22ddbb0-5548-9fc8-7193-b453ae654959/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/6d/1a/4a6d1a0c-655c-cfe3-ff4c-69329bcb6118/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/02/02/d102022b-28a7-b832-6d7a-07a12ce73819/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/6e/ca/6e6ecaea-6fc1-9391-8d4a-8beb5330c846/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/ce/51/53ce5101-f8d7-4232-470a-71490b7df3d3/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -649,60 +671,12 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/google/id281956209?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/65/52/4a655205-f002-68ad-20ed-f3276253679b/APP_IPHONE_65-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/96/7e/4a967ed3-2f48-ce58-7142-9687e5a68a6d/APP_IPHONE_65-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/89/d8f08971-421a-b1db-49dd-6ebe1f472cdb/APP_IPHONE_65-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/03/c7/5203c70e-6558-c2d6-b0eb-946e05d8ca4f/APP_IPHONE_65-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/ad/15/89ad1557-5cc8-fae0-e093-e1991020d56f/APP_IPHONE_65-5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/2d/db/f22ddbb0-5548-9fc8-7193-b453ae654959/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/6d/1a/4a6d1a0c-655c-cfe3-ff4c-69329bcb6118/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/02/02/d102022b-28a7-b832-6d7a-07a12ce73819/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/6e/ca/6e6ecaea-6fc1-9391-8d4a-8beb5330c846/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/ce/51/53ce5101-f8d7-4232-470a-71490b7df3d3/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "currentVersionReleaseDate": "2026-11-12T14:41:59Z",
-      "artistId": 281956209,
-      "artistName": "Google",
-      "genres": [
-        "Productivity"
-      ],
-      "price": 0,
-      "releaseNotes": "* Bug fixes and performance improvements",
-      "trackId": 507874739,
-      "trackName": "Google Drive",
-      "releaseDate": "2012-06-28T17:40:50Z",
-      "minimumOsVersion": "17.0",
-      "genreIds": [
-        "6007"
-      ],
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "sellerName": "Google LLC",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "4.2645.41004",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Google Drive lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Scan and upload paper documents using your device’s camera\n• Quickly access recent and important files\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions for files and folders\n• View your content on the go while offline\n• Receive notifications about important activity on your files\n\nGoogle Workspace subscribers have access to additional Drive functionality, including:\n• Using AI to summarize information, retrieve quick facts, and surface insights from your files\n• Security and management controls for admins to help meet data compliance needs\n• Sharing files and folders directly with groups or teams within your organization\n• Creating a shared drive to store all of your team’s content\n• Requesting electronic signatures and manage vendor agreements, customer contracts, and more\n\nLearn more about Google Apps update policy: https://support.google.com/a/answer/6288871\n\nGoogle accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.\n\nStorage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://www.google.com/intl/en_US/policies/privacy\nGoogle Drive Terms of Service: https://www.google.com/drive/terms-of-service\n\nFollow us for more:\nX: https://x.com/googleworkspace and https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
       "trackCensoredName": "Google Drive",
       "trackViewUrl": "https://apps.apple.com/us/app/google-drive/id507874739?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.77653,
-      "bundleId": "com.google.Drive",
-      "averageUserRatingForCurrentVersion": 4.77653,
-      "sellerUrl": "http://drive.google.com/start",
+      "averageUserRating": 4.77644,
       "languageCodesISO2A": [
         "AF",
         "AM",
@@ -773,32 +747,45 @@
       ],
       "fileSizeBytes": "475195392",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 7932533,
+      "userRatingCountForCurrentVersion": 7947586,
       "trackContentRating": "4+",
-      "userRatingCount": 7932533,
+      "averageUserRatingForCurrentVersion": 4.77644,
+      "sellerUrl": "http://drive.google.com/start",
+      "artistId": 281956209,
+      "artistName": "Google",
+      "genres": [
+        "Productivity"
+      ],
+      "price": 0,
+      "bundleId": "com.google.Drive",
+      "trackId": 507874739,
+      "trackName": "Google Drive",
+      "releaseDate": "2012-06-28T17:40:50Z",
+      "currentVersionReleaseDate": "2026-11-12T14:41:59Z",
+      "minimumOsVersion": "17.0",
+      "genreIds": [
+        "6007"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseNotes": "* Bug fixes and performance improvements",
+      "version": "4.2645.41004",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Google Drive lets you securely store, intelligently organize and collaborate on files and folders from anywhere, on any device.\n\nWith Drive, you can:\n• Safely store and access your files anywhere\n• Edit and store 100+ file types, including PDFs, Office files, videos and more\n• Scan and upload paper documents using your device’s camera\n• Quickly access recent and important files\n• Search for files by name and content\n• Filter files by type, last modified date and more\n• Share and set permissions for files and folders\n• View your content on the go while offline\n• Receive notifications about important activity on your files\n\nGoogle Workspace subscribers have access to additional Drive functionality, including:\n• Using AI to summarize information, retrieve quick facts, and surface insights from your files\n• Security and management controls for admins to help meet data compliance needs\n• Sharing files and folders directly with groups or teams within your organization\n• Creating a shared drive to store all of your team’s content\n• Requesting electronic signatures and manage vendor agreements, customer contracts, and more\n\nLearn more about Google Apps update policy: https://support.google.com/a/answer/6288871\n\nGoogle accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.\n\nStorage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.\n\nGoogle Privacy Policy: https://www.google.com/intl/en_US/policies/privacy\nGoogle Drive Terms of Service: https://www.google.com/drive/terms-of-service\n\nFollow us for more:\nX: https://x.com/googleworkspace and https://x.com/googledrive\nLinkedIn: https://www.linkedin.com/showcase/googleworkspace\nFacebook: https://www.facebook.com/googleworkspace/",
+      "userRatingCount": 7947586,
       "country": "USA"
     },
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/65/52/4a655205-f002-68ad-20ed-f3276253679b/APP_IPHONE_65-1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/96/7e/4a967ed3-2f48-ce58-7142-9687e5a68a6d/APP_IPHONE_65-2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/89/d8f08971-421a-b1db-49dd-6ebe1f472cdb/APP_IPHONE_65-3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/03/c7/5203c70e-6558-c2d6-b0eb-946e05d8ca4f/APP_IPHONE_65-4.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/ad/15/89ad1557-5cc8-fae0-e093-e1991020d56f/APP_IPHONE_65-5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/2d/db/f22ddbb0-5548-9fc8-7193-b453ae654959/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/6d/1a/4a6d1a0c-655c-cfe3-ff4c-69329bcb6118/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/02/02/d102022b-28a7-b832-6d7a-07a12ce73819/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/6e/ca/6e6ecaea-6fc1-9391-8d4a-8beb5330c846/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/ce/51/53ce5101-f8d7-4232-470a-71490b7df3d3/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "artistViewUrl": "https://apps.apple.com/fr/developer/google/id281956209?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "advisories": [],
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -933,12 +920,46 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/65/52/4a655205-f002-68ad-20ed-f3276253679b/APP_IPHONE_65-1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/96/7e/4a967ed3-2f48-ce58-7142-9687e5a68a6d/APP_IPHONE_65-2.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/f0/89/d8f08971-421a-b1db-49dd-6ebe1f472cdb/APP_IPHONE_65-3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/03/c7/5203c70e-6558-c2d6-b0eb-946e05d8ca4f/APP_IPHONE_65-4.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/ad/15/89ad1557-5cc8-fae0-e093-e1991020d56f/APP_IPHONE_65-5.png/320x480bb.jpg"
       ],
-      "isGameCenterEnabled": false,
-      "averageUserRatingForCurrentVersion": 4.66592,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f2/2d/db/f22ddbb0-5548-9fc8-7193-b453ae654959/APP_IPAD_PRO_3GEN_129-1.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/6d/1a/4a6d1a0c-655c-cfe3-ff4c-69329bcb6118/APP_IPAD_PRO_3GEN_129-2.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/02/02/d102022b-28a7-b832-6d7a-07a12ce73819/APP_IPAD_PRO_3GEN_129-3.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/6e/ca/6e6ecaea-6fc1-9391-8d4a-8beb5330c846/APP_IPAD_PRO_3GEN_129-4.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/ce/51/53ce5101-f8d7-4232-470a-71490b7df3d3/APP_IPAD_PRO_3GEN_129-5.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/33/fd/7c33fd8a-ca02-0ecc-331b-facb6af758e3/drive_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Google Drive – stockage",
+      "trackViewUrl": "https://apps.apple.com/fr/app/google-drive-stockage/id507874739?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.66587,
+      "releaseNotes": "* Correction de bugs et amélioration des performances",
+      "price": 0,
+      "bundleId": "com.google.Drive",
+      "releaseDate": "2012-06-28T17:40:50Z",
+      "genreIds": [
+        "6007"
+      ],
+      "primaryGenreName": "Productivity",
+      "primaryGenreId": 6007,
+      "trackId": 507874739,
+      "trackName": "Google Drive – stockage",
+      "sellerName": "Google LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-12T14:41:59Z",
+      "version": "4.2645.41004",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Google Drive est un lieu de stockage sécurisé pour sauvegarder tous vos fichiers et y accéder depuis n'importe quel appareil. Invitez facilement d'autres personnes à consulter, modifier ou laisser des commentaires sur vos fichiers ou vos dossiers.\n \nAvec Drive, vous pouvez :\n \n• Stocker vos fichiers et y accéder en toute sécurité où que vous soyez\n• Accéder rapidement aux fichiers récents et importants\n• Rechercher des fichiers par nom ou contenu\n• Partager et définir des autorisations pour les fichiers et les dossiers\n• Afficher vos contenus en déplacement et hors connexion\n• Recevoir des notifications concernant les activités importantes associées à vos fichiers\n \nPour en savoir plus sur les règles de mise à jour des applications Google : https://support.google.com/a/answer/6288871\n \nLes comptes Google disposent de 15 Go d'espace de stockage gratuit, que se partagent Google Drive, Gmail et Google Photos. Pour bénéficier de plus d'espace de stockage, vous pouvez souscrire un abonnement payant via l'application. Le prix des abonnements démarre à 1,99 $/mois pour 100 Go aux États-Unis, mais peut varier en fonction du pays.\n \nLes forfaits de stockage achetés depuis l'application seront débités sur votre compte iTunes et automatiquement renouvelés, sauf si vous désactivez la fonction de renouvellement automatique au moins 24 heures avant la fin de la période en cours. Pour gérer les abonnements et la fonction de renouvellement automatique, accédez aux paramètres de compte iTunes après la souscription.\n \nRègles de confidentialité de Google : https://www.google.com/intl/fr_fr/policies/privacy\nConditions d'utilisation de Google Drive :https://www.google.com/drive/terms-of-service",
       "sellerUrl": "http://drive.google.com/start",
       "languageCodesISO2A": [
         "AF",
@@ -1010,37 +1031,16 @@
       ],
       "fileSizeBytes": "475195392",
       "formattedPrice": "Gratuit",
-      "userRatingCountForCurrentVersion": 657834,
+      "userRatingCountForCurrentVersion": 659453,
       "trackContentRating": "4+",
-      "averageUserRating": 4.66592,
-      "trackCensoredName": "Google Drive – stockage",
-      "trackViewUrl": "https://apps.apple.com/fr/app/google-drive-stockage/id507874739?uo=4",
-      "contentAdvisoryRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.66587,
+      "minimumOsVersion": "17.0",
+      "artistId": 281956209,
+      "artistName": "Google",
       "genres": [
         "Productivité"
       ],
-      "artistId": 281956209,
-      "artistName": "Google",
-      "bundleId": "com.google.Drive",
-      "primaryGenreName": "Productivity",
-      "primaryGenreId": 6007,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "minimumOsVersion": "17.0",
-      "trackName": "Google Drive – stockage",
-      "trackId": 507874739,
-      "releaseDate": "2012-06-28T17:40:50Z",
-      "currentVersionReleaseDate": "2026-11-12T14:41:59Z",
-      "releaseNotes": "* Correction de bugs et amélioration des performances",
-      "version": "4.2645.41004",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "Google Drive est un lieu de stockage sécurisé pour sauvegarder tous vos fichiers et y accéder depuis n'importe quel appareil. Invitez facilement d'autres personnes à consulter, modifier ou laisser des commentaires sur vos fichiers ou vos dossiers.\n \nAvec Drive, vous pouvez :\n \n• Stocker vos fichiers et y accéder en toute sécurité où que vous soyez\n• Accéder rapidement aux fichiers récents et importants\n• Rechercher des fichiers par nom ou contenu\n• Partager et définir des autorisations pour les fichiers et les dossiers\n• Afficher vos contenus en déplacement et hors connexion\n• Recevoir des notifications concernant les activités importantes associées à vos fichiers\n \nPour en savoir plus sur les règles de mise à jour des applications Google : https://support.google.com/a/answer/6288871\n \nLes comptes Google disposent de 15 Go d'espace de stockage gratuit, que se partagent Google Drive, Gmail et Google Photos. Pour bénéficier de plus d'espace de stockage, vous pouvez souscrire un abonnement payant via l'application. Le prix des abonnements démarre à 1,99 $/mois pour 100 Go aux États-Unis, mais peut varier en fonction du pays.\n \nLes forfaits de stockage achetés depuis l'application seront débités sur votre compte iTunes et automatiquement renouvelés, sauf si vous désactivez la fonction de renouvellement automatique au moins 24 heures avant la fin de la période en cours. Pour gérer les abonnements et la fonction de renouvellement automatique, accédez aux paramètres de compte iTunes après la souscription.\n \nRègles de confidentialité de Google : https://www.google.com/intl/fr_fr/policies/privacy\nConditions d'utilisation de Google Drive :https://www.google.com/drive/terms-of-service",
-      "sellerName": "Google LLC",
-      "price": 0,
-      "genreIds": [
-        "6007"
-      ],
-      "userRatingCount": 657834,
+      "userRatingCount": 659453,
       "country": "FRA"
     }
   ]

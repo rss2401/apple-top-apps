@@ -193,14 +193,6 @@
       "userRatingCount": 7731481
     },
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/mcdonalds-usa/id703260918?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/af/ac/fbafac0f-2503-d0af-de9b-be5c2075e163/b28364fe-bb62-4368-9378-2153c033c2b4_Image1_ios5.5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/c4/b5/8cc4b55c-19aa-5f8b-cc1b-08e1101c8930/a19aea51-0934-4dcf-8128-e9119a05ef85_Image2_ios5.5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/ac/90/82ac90dc-55fb-7224-8f38-3a4eed91f0fa/35ddf8ac-16d2-4b5a-a610-9951ea0c0325_Image3_ios5.5.png/392x696bb.png"
-      ],
       "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -336,57 +328,65 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "features": [],
       "advisories": [
         "Infrequent/Mild Contests"
       ],
       "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1b/e7/dc/1be7dc7f-6c6d-9d8e-fcd2-9ee1602d3a98/b28364fe-bb62-4368-9378-2153c033c2b4_Image1_ios5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/2d/f2/1d2df236-6dd0-88a5-11dd-059065bb7031/a19aea51-0934-4dcf-8128-e9119a05ef85_Image2_ios5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/76/cb/5676cb23-7171-6034-5294-debf38d07c17/35ddf8ac-16d2-4b5a-a610-9951ea0c0325_Image3_ios5.5.png/392x696bb.png"
+      ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/e4/93/f6e49317-2ff8-b185-b570-01c98e2d54e0/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "features": [],
-      "trackCensoredName": "McDonald's",
-      "trackViewUrl": "https://apps.apple.com/us/app/mcdonalds/id922103212?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.84018,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e2/28/a5e2284a-b3b7-a133-e944-23440f73d1ab/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/mcdonalds-usa/id703260918?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e2/28/a5e2284a-b3b7-a133-e944-23440f73d1ab/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e2/28/a5e2284a-b3b7-a133-e944-23440f73d1ab/AppIcon-US-0-0-1x_U007ephone-0-1-0-sRGB-0-0-85-220.png/100x100bb.jpg",
+      "releaseNotes": "Get your favorites delivered with McDelivery.\n\nEarn points through the app for FREE food, limited time partner rewards and dollars off your order.\n\nPay with your Arch Card in the app & more.",
+      "genres": [
+        "Food & Drink",
+        "Shopping"
+      ],
+      "price": 0,
+      "artistId": 703260918,
+      "artistName": "McDonald's USA",
+      "releaseDate": "2014-10-25T02:15:04Z",
+      "minimumOsVersion": "15.6",
+      "primaryGenreName": "Food & Drink",
+      "primaryGenreId": 6023,
+      "genreIds": [
+        "6023",
+        "6024"
+      ],
+      "sellerName": "McDonalds USA LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-21T20:00:25Z",
+      "version": "26.102.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Download the app now to get go-tos with McDelivery or for pickup with Mobile Order & Pay. Plus, enjoy the latest from McDonald's like first looks at limited time menu items, redeemable food and partner rewards, app exclusive deals, bonus offers and other features to make the most of your visit to the Golden Arches.*\n\nMobile Order & Pay\nNow use your Arch Card Balance to conveniently pay for your favorites in the app before ordering ahead with Mobile Order & Pay for pickup or opt for a linked payment method.\n\nMyMcDonald's Rewards\nMaximize your savings with the app. Join MyMcDonald's Rewards to start earning points on every purchase and redeem for FREE food, limited time partner rewards and dollars off your order. $1 = 100 points.\n\nSave your favorites\nExtra pickles? On it. Customize and save your favorites to quickly reorder for your next visit.\n\nRestaurant locator\nOpen the map and find the nearest McDonald's, along with store hours and restaurant information.\n\nMcDelivery\nGet your favorites delivered, earn points and track your order from the store to your door, all with McDelivery in the app.\n \nDownload the McDonald's app today and enjoy access to exclusive deals, MyMcDonald's Rewards and much more.\n \n*At participating McDonald's. Must opt in to Rewards. Prices may be higher than at restaurants. Delivery/other fees may apply. Data rates may apply. The McDonald's app is not currently compatible with smartwatches. Check https://www.mcdonalds.com/us/en-us/terms-and-conditions.html for Terms and Conditions and more information. ©2026 McDonald's.",
+      "bundleId": "com.mcdonalds.gma",
+      "averageUserRatingForCurrentVersion": 4.84004,
+      "averageUserRating": 4.84004,
       "languageCodesISO2A": [
         "EN",
         "FR",
         "DE",
         "ES"
       ],
-      "fileSizeBytes": "417300480",
+      "fileSizeBytes": "399748096",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 7884828,
+      "userRatingCountForCurrentVersion": 7885020,
       "trackContentRating": "4+",
-      "artistId": 703260918,
-      "artistName": "McDonald's USA",
-      "genreIds": [
-        "6023",
-        "6024"
-      ],
-      "minimumOsVersion": "15.6",
-      "releaseDate": "2014-10-25T02:15:04Z",
-      "sellerName": "McDonalds USA LLC",
-      "primaryGenreName": "Food & Drink",
-      "primaryGenreId": 6023,
-      "trackName": "McDonald's",
-      "trackId": 922103212,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-10-12T02:35:29Z",
-      "releaseNotes": "Hi bestie,\nNow get your faves delivered—and earn points—with McDelivery through the app. As always, we’ve made other updates to enhance your experience.\nHope you’ll enjoy",
-      "version": "26.72.5",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Get the app now for Mobile Order & Pay, MyMcDonald’s Rewards, app exclusive deals, McDelivery, bonus offers and other features to make the most of your visit to the Golden Arches.\n\nMobile Order & Pay\nGet your favorites fast with Mobile Order & Pay. Place your order and select your pickup option and the crew will prep while you’re on the way. Excludes Drive Thru.\n\nMyMcDonald’s Rewards\nJoin MyMcDonald’s Rewards in the app to start earning points on every purchase and redeem for FREE McDonald’s and more rewards.* $1 = 100 points.\n\nApp exclusive deals\nGet exclusive deals on your McDonald’s favorites in the app with Mobile Order & Pay* for convenient Drive Thru or Curbside pickup.\n\nMcDelivery\nNow get your favorites delivered, earn points and track your order from the store to your door, all with McDelivery in the app.\n\nSave your favorites\nNo pickles? No problem. Customize and save your favorites to quickly reorder for your next visit.\n\nRestaurant locator\nOpen the map and find the nearest McDonald’s, along with store hours and restaurant information.\n\nDownload the McDonald’s app today and enjoy access to exclusive deals, MyMcDonald’s Rewards and much more.\n\n*At participating McDonald’s. Must opt in to Rewards. McDelivery prices may be higher than at restaurants. Download and registration required. Data rates may apply. The McDonald’s app is not currently compatible with smartwatches. Check https://www.mcdonalds.com/us/en-us/terms-and-conditions.html  for Terms and Conditions and more information. © 2026 McDonald’s.",
       "sellerUrl": "https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html",
-      "bundleId": "com.mcdonalds.gma",
-      "averageUserRatingForCurrentVersion": 4.84018,
-      "genres": [
-        "Food & Drink",
-        "Shopping"
-      ],
-      "price": 0,
-      "userRatingCount": 7884828,
+      "trackCensoredName": "McDonald's",
+      "trackViewUrl": "https://apps.apple.com/us/app/mcdonalds/id922103212?uo=4",
+      "contentAdvisoryRating": "4+",
+      "trackId": 922103212,
+      "trackName": "McDonald's",
+      "userRatingCount": 7885020,
       "country": "USA"
     }
   ]

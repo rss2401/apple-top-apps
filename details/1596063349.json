@@ -408,10 +408,10 @@
       "country": "JPN"
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/stash-networks-limited/id1596063351?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/88/80/62888078-b65d-0a25-930e-f5f08080b162/StashIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/88/80/62888078-b65d-0a25-930e-f5f08080b162/StashIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -548,9 +548,6 @@
       ],
       "advisories": [],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/9b/58/eb9b5837-cb2f-99aa-ab16-8c1b0b9a661d/eb427951-d78c-4945-b001-c342344e7e95_Frame_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/9e/c3/4f9ec308-e0b3-70f5-95f8-bc17f468d427/a133f7d0-b631-422e-89b9-49b3d7d6ecfa_Frame_2.png/392x696bb.png",
@@ -565,27 +562,40 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/88/80/62888078-b65d-0a25-930e-f5f08080b162/StashIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "releaseNotes": "New Features\n• Customize the Home screen layout for more flexible information display: choose between Classic and Modern layouts, then adjust the cards;\n• Added support for MTProto proxies\n• Added XHTTP transport and more connection options: configure XHTTP padding and layout, and enable XMUX connection multiplexing;\n• View and manage Tailscale status: check health alerts, device details, and connection scope, and manage exit nodes or sign out.\n• Run scripts automatically in response to network events: trigger scripts when the network changes, a connection starts, a configuration reloads, or a notification arrives. Scripts can also manage policy groups, run speed tests, or switch outbound modes.\n• Added pre-match interception for rules\n• Added more transport options for VLESS and Trojan, including gun; VLESS also supports splithttp.\n• Added SOCKS4 and SOCKS4a support for mixed proxies\n• Added decompression, compression, and GeoIP lookups to scripts: scripts can decompress gzip and zlib data, compress gzip data, and look up an IP address’s country, autonomous system number, and organization name.\n• Proxy support for Personal Hotspot devices\n• Introduced the Graphite theme and improved theme rendering: Graphite is available to all users. Colors for pages, icons, text, and switches now better match the selected theme and are easier to distinguish in light and dark modes.\n• Added traceroute diagnostics: inspect route selection and hop-by-hop details for destination traffic, view the path on a map, choose a direct route, or cancel a trace at any time.\n• Added a map background to the Home screen’s exit node card\n• Automatically hide the keyboard when scrolling in the editor\n• Resolve domains for Tailscale connections according to network settings: domain resolution follows the tailnet’s DNS settings and prioritizes DNS proxies provided by exit nodes;\n\nImprovements\n• Smoother text editing and faster loading for large configurations: edit or select text as soon as it opens, and view large configurations and extensive search results more quickly;\n• Reduced memory usage for large sets of HTTP rewrite rules\n• Improved tunnel speed and stability\n• Reduced memory usage for large sets of HTTP rewrite rules\n• DoH now works with servers that support only HTTP/1.1\n• Reduced wakeups and battery drain when idle\n• Reduced memory usage and improved stability for body rewriting\n• Faster and more reliable domain resolution in tunnels\n• Faster loading for large rule sets\n• Added support for more proxy QR codes and share links: import more proxy share links and native configuration QR codes, with settings such as TLS and REALITY preserved correctly.\n\nFixes\n• GLOBAL now uses a proxy by default when no valid node is selected\n• Improved connection reliability when iCloud configuration sync is disabled\n• Fixed crashes while loading content and a stuck iCloud list: resolved crashes that could occur while loading page content, updating the proxy list, or refreshing overrides, as well as an issue that could leave the iCloud configuration list stuck loading.",
-      "price": 5.99,
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 4.36979,
       "trackCensoredName": "Stash - Rule Based Proxy",
       "trackViewUrl": "https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349?uo=4",
       "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.36917,
+      "currentVersionReleaseDate": "2026-11-14T17:09:45Z",
       "artistId": 1596063351,
       "artistName": "STASH NETWORKS LIMITED",
+      "genres": [
+        "Utilities",
+        "Developer Tools"
+      ],
+      "price": 5.99,
+      "releaseNotes": "New Features\n• Customize the Home screen layout for more flexible information display: choose between Classic and Modern layouts, then adjust the cards;\n• Added support for MTProto proxies\n• Added XHTTP transport and more connection options: configure XHTTP padding and layout, and enable XMUX connection multiplexing;\n• View and manage Tailscale status: check health alerts, device details, and connection scope, and manage exit nodes or sign out.\n• Run scripts automatically in response to network events: trigger scripts when the network changes, a connection starts, a configuration reloads, or a notification arrives. Scripts can also manage policy groups, run speed tests, or switch outbound modes.\n• Added pre-match interception for rules\n• Added more transport options for VLESS and Trojan, including gun; VLESS also supports splithttp.\n• Added SOCKS4 and SOCKS4a support for mixed proxies\n• Added decompression, compression, and GeoIP lookups to scripts: scripts can decompress gzip and zlib data, compress gzip data, and look up an IP address’s country, autonomous system number, and organization name.\n• Proxy support for Personal Hotspot devices\n• Introduced the Graphite theme and improved theme rendering: Graphite is available to all users. Colors for pages, icons, text, and switches now better match the selected theme and are easier to distinguish in light and dark modes.\n• Added traceroute diagnostics: inspect route selection and hop-by-hop details for destination traffic, view the path on a map, choose a direct route, or cancel a trace at any time.\n• Added a map background to the Home screen’s exit node card\n• Automatically hide the keyboard when scrolling in the editor\n• Resolve domains for Tailscale connections according to network settings: domain resolution follows the tailnet’s DNS settings and prioritizes DNS proxies provided by exit nodes;\n\nImprovements\n• Smoother text editing and faster loading for large configurations: edit or select text as soon as it opens, and view large configurations and extensive search results more quickly;\n• Reduced memory usage for large sets of HTTP rewrite rules\n• Improved tunnel speed and stability\n• Reduced memory usage for large sets of HTTP rewrite rules\n• DoH now works with servers that support only HTTP/1.1\n• Reduced wakeups and battery drain when idle\n• Reduced memory usage and improved stability for body rewriting\n• Faster and more reliable domain resolution in tunnels\n• Faster loading for large rule sets\n• Added support for more proxy QR codes and share links: import more proxy share links and native configuration QR codes, with settings such as TLS and REALITY preserved correctly.\n\nFixes\n• GLOBAL now uses a proxy by default when no valid node is selected\n• Improved connection reliability when iCloud configuration sync is disabled\n• Fixed crashes while loading content and a stuck iCloud list: resolved crashes that could occur while loading page content, updating the proxy list, or refreshing overrides, as well as an issue that could leave the iCloud configuration list stuck loading.",
       "bundleId": "ws.stash.app",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "minimumOsVersion": "16.0",
-      "sellerName": "Stash Networks Limited",
-      "releaseDate": "2021-12-10T08:00:00Z",
       "trackId": 1596063349,
       "trackName": "Stash - Rule Based Proxy",
-      "currentVersionReleaseDate": "2026-11-14T17:09:45Z",
+      "releaseDate": "2021-12-10T08:00:00Z",
+      "minimumOsVersion": "16.0",
+      "genreIds": [
+        "6002",
+        "6026"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "Stash Networks Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "5.0.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Stash is the best choice for Clash rules on iOS! Full adaptation of Clash Premium configuration. \nStash is a rule-based proxy client with multiple proxy protocol support. Support for Rule Set, JavaScript, HTTP Rewriting, MitM, SSID Policy Groups, On-Demand Connections and other new features.\n\n- Handle TCP / UDP / ICMP traffic and forward to any proxy server\n- Route traffic to different endpoint by rule of domain, IP-CIDR, or User-Agent\n- Support DNS over TCP / DNS over TLS / DNS over HTTPS\n- Native UI dashboard to display HTTP / HTTPS / TCP request\n- Support for Rewriting HTTP(S) requests using JavaScript\n- Decrypt HTTPS traffic with Man-in-the-Middle\n- Support for URL Rewrite\n- Fully IPv6 supports\n- Builtin DNS server with hostname mapping\n- Support for overriding some of the settings of the current configuration file using Override",
+      "averageUserRatingForCurrentVersion": 4.36979,
       "languageCodesISO2A": [
         "EN",
         "JA",
@@ -599,19 +609,9 @@
       ],
       "fileSizeBytes": "153805824",
       "formattedPrice": "$5.99",
-      "userRatingCountForCurrentVersion": 1265,
+      "userRatingCountForCurrentVersion": 1271,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 4.36917,
-      "genreIds": [
-        "6002",
-        "6026"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Utilities",
-        "Developer Tools"
-      ],
-      "userRatingCount": 1265,
+      "userRatingCount": 1271,
       "country": "USA"
     },
     {

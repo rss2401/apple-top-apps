@@ -2,12 +2,9 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "advisories": [],
-      "kind": "software",
       "artistViewUrl": "https://apps.apple.com/gb/developer/sainsburys/id976550044?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/8e/fa/8b8efaea-e33d-ce42-9061-e5888632394d/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/8e/fa/8b8efaea-e33d-ce42-9061-e5888632394d/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
@@ -31,6 +28,7 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/8e/fa/8b8efaea-e33d-ce42-9061-e5888632394d/SainsburysGol-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -165,6 +163,21 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [],
+      "kind": "software",
+      "trackCensoredName": "Sainsbury's",
+      "averageUserRatingForCurrentVersion": 4.71591,
+      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.71591,
+      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "121745408",
+      "formattedPrice": "Free",
+      "userRatingCountForCurrentVersion": 232789,
+      "trackContentRating": "4+",
       "artistId": 976550044,
       "artistName": "Sainsbury's",
       "genres": [
@@ -172,39 +185,26 @@
         "Lifestyle"
       ],
       "price": 0,
-      "releaseNotes": "We're continuing to make changes to improve your Sainsbury's App experience. You might spot a new trolley design with more compact product cards, making it quicker and easier to review your shop.",
-      "bundleId": "uk.co.sainsburys.groceries",
-      "releaseDate": "2016-05-12T09:23:17Z",
       "minimumOsVersion": "15.6",
+      "bundleId": "uk.co.sainsburys.groceries",
+      "trackId": 1086056964,
+      "trackName": "Sainsbury's",
+      "primaryGenreName": "Shopping",
+      "primaryGenreId": 6024,
+      "sellerName": "Sainsburys Supermarkets Ltd",
       "genreIds": [
         "6024",
         "6012"
       ],
-      "primaryGenreName": "Shopping",
-      "primaryGenreId": 6024,
-      "sellerName": "Sainsburys Supermarkets Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2016-05-12T09:23:17Z",
       "currentVersionReleaseDate": "2026-11-04T10:24:30Z",
+      "releaseNotes": "We're continuing to make changes to improve your Sainsbury's App experience. You might spot a new trolley design with more compact product cards, making it quicker and easier to review your shop.",
       "version": "4.4.0",
       "wrapperType": "software",
       "currency": "GBP",
       "description": "Save time. Save money. Shop your way. \n \nThe Sainsbury’s app brings together everything you need to shop with Sainsbury’s, whether you’re planning your weekly shop, shopping in-store, collecting Nectar rewards or getting groceries delivered fast. \n \nWith the Sainsbury’s app you can: \n \n• Shop groceries online and book delivery or Click & Collect slots \n• Unlock personalised offers, Nectar Prices and rewards \n• Use SmartShop to scan as you shop and stay in control of your spend \n• Create shopping lists and save favourites for quicker repeat shops \n• Get groceries delivered in as little as 60 minutes with Chop Chop \n• Find products and locate them in selected stores with Search Your Store \n \nOne app. Multiple ways to shop.",
-      "trackCensoredName": "Sainsbury's",
-      "trackViewUrl": "https://apps.apple.com/gb/app/sainsburys/id1086056964?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 4.71595,
-      "averageUserRatingForCurrentVersion": 4.71595,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 232231,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://www.sainsburys.co.uk/gol-ui/groceries",
-      "fileSizeBytes": "121745408",
-      "trackId": 1086056964,
-      "trackName": "Sainsbury's",
-      "userRatingCount": 232231,
+      "userRatingCount": 232789,
       "country": "GBR"
     }
   ]

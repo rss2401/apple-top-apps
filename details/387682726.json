@@ -193,24 +193,34 @@
     },
     {
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
+      "advisories": [
+        "偶尔/轻微的竞赛"
+      ],
+      "kind": "software",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/8f/de/438fde17-3ac4-4948-da28-bd394ecd56f8/_U6d3b_U52a8_U4e3b_U9898_U9875.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/36/6c/39366c91-b33b-2f77-386f-b66c6456bc45/_U6dd8_U5b9d_U76f4_U64ad.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/5a/78/9c5a785b-26cf-701c-494f-f96f4ed77bf9/_U6dd8_U91d1_U5e01.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/a1/b3/bba1b32a-4cdf-8db1-9720-160d6c3cb5dd/1_U5143_U597d_U793c.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/db/70/97db709f-5e26-ac43-7fb9-5b717e159f98/_U8d2d_U7269_U6e05_U5355.jpg/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/0a/90/b20a900d-cfda-d49e-272c-1c97fff2a0c9/_U6dd8_U5b9d_U767e_U4ebf_U8865_U8d34.jpg/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/09/7c/2e097c23-5474-c307-f398-7854ad6c18f9/_U6dd8_U5b9d_U76f4_U64ad.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e5/0f/85e50fbc-44fe-5d1b-2905-2c0715adbbe7/AI_U641c_U7d22.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/43/69/f943692d-894f-4db6-3ac6-8063744c9be0/_U8bed_U97f3_U641c_U7d22.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/1b/14/eb1b1450-2864-64e1-cd72-e546564633fd/_U6dd8_U5b9d_U9996_U9875.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/99/5a/1a995a1d-d45f-7e95-996a-b88e923c9d6c/_U6dd8_U5b9d_U79d2_U6740.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/f8/30/94f83059-5d34-6944-107f-cd40812b6948/_U6dd8_U5b9d_U95ea_U8d2d.jpg/320x480bb.jpg"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/08/37/fb083740-11bc-1de7-a322-5d1041f31254/_U6d3b_U52a8_U4e3b_U9898_U9875.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/c5/a3/cec5a311-cce3-4386-58b0-542b782c558e/_U6dd8_U5b9d_U76f4_U64ad.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4a/ea/7d/4aea7ddd-782c-17ba-e7e4-9cdde7048da2/_U6dd8_U91d1_U5e01.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/94/9e/6b949e77-c059-b566-c194-1363c90e1fde/1_U5143_U597d_U793c.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/a4/4f/9ca44f98-b407-dd1f-9605-9726c97acaea/_U8d2d_U7269_U6e05_U5355.jpg/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/04/80/3504801b-5fa6-44b0-a5e6-c5bd90a62699/_U6dd8_U5b9d_U767e_U4ebf_U8865_U8d34.jpg/360x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/ff/1a/69ff1a1a-1c5c-492d-953b-13c8967ce3a8/_U6dd8_U5b9d_U76f4_U64ad.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/83/6e/56836ed2-d6d7-8982-cd50-dd8a2053db96/AI_U641c_U7d22.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/88/4a/90884a5f-8d57-45e6-2c77-aff083dec5e5/_U8bed_U97f3_U641c_U7d22.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/b4/a2/e7b4a277-9902-8dbd-201d-8360fbbde745/_U6dd8_U5b9d_U9996_U9875.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/3f/97/fa3f97e9-0034-08a3-a273-23c0d42380cf/_U6dd8_U5b9d_U79d2_U6740.jpg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/49/a3/8649a38c-d4de-f798-626a-7cebcbf2ad76/_U6dd8_U5b9d_U95ea_U8d2d.jpg/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ef/48/59ef4826-1909-6c34-542d-9a55aae79c6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/2d/20/2e2d20c1-3d73-cfe1-0cc5-e87e09f5eb30/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/2d/20/2e2d20c1-3d73-cfe1-0cc5-e87e09f5eb30/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/2d/20/2e2d20c1-3d73-cfe1-0cc5-e87e09f5eb30/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%B5%99%E6%B1%9F%E6%B7%98%E5%AE%9D%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1597411546?uo=4",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -345,40 +355,16 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [
-        "偶尔/轻微的竞赛"
-      ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E6%B5%99%E6%B1%9F%E6%B7%98%E5%AE%9D%E7%BD%91%E7%BB%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/id1597411546?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ef/48/59ef4826-1909-6c34-542d-9a55aae79c6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/ef/48/59ef4826-1909-6c34-542d-9a55aae79c6c/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
-      "languageCodesISO2A": [
-        "EN",
-        "KK",
-        "MS",
-        "RU",
-        "ZH",
-        "TH"
-      ],
-      "fileSizeBytes": "293120000",
-      "formattedPrice": "免费",
-      "userRatingCountForCurrentVersion": 1813938,
-      "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.12924,
-      "artistId": 1597411546,
-      "artistName": "浙江淘宝网络有限公司",
+      "releaseNotes": "淘宝直播：每晚精选热门 天天新鲜直播\nAI搜索：找攻略、做对比、列清单、看推荐...AI搜索什么都能搜！\n语音搜索：又快又准，说方言也能搜！\n淘宝首页：万能的淘宝：购物·外卖·旅行上淘宝，天天有优惠\n淘宝闪购：淘宝闪购：天天免单等你来，外卖红包送不停\n淘宝秒杀：淘宝秒杀：天天低价，低至5折疯抢",
+      "averageUserRating": 4.12821,
       "genres": [
         "购物",
         "生活"
       ],
+      "artistId": 1597411546,
+      "artistName": "浙江淘宝网络有限公司",
+      "bundleId": "com.taobao.taobao4iphone",
       "price": 0,
-      "trackId": 387682726,
-      "trackName": "淘宝-万能的淘宝！",
-      "releaseDate": "2010-09-04T03:48:51Z",
-      "releaseNotes": "官方立减，爆款商品8.5折起，叠券更便宜\n淘宝直播：预售享0元付定\n淘金币：组队狂享20亿，好货折上再抵\n1元好礼：1元可抢百元礼\n爆款清单：官方甄选大牌爆款8.5折起\n淘宝百亿补贴：真补贴真优惠",
       "minimumOsVersion": "15.0",
       "genreIds": [
         "6024",
@@ -388,17 +374,31 @@
       "primaryGenreId": 6024,
       "sellerName": "Zhejiang Taobao Network Co.,Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-11-06T05:23:33Z",
-      "version": "10.69.0",
+      "currentVersionReleaseDate": "2026-11-20T07:11:25Z",
+      "version": "10.69.10",
       "wrapperType": "software",
       "currency": "CNY",
       "description": "淘宝（iPhone版）是淘宝专为iPhone手机用户推出的一个好逛、丰富、有趣的消费生活社区，淘宝作为中国领先的数字零售平台，构建技术驱动、参与者共创的生态体系，汇聚数十万国际与中国品牌、上千万中小商家、众多内容创作者，提供20亿在线商品和沉浸式体验，满足10亿用户的多样化、个性化、品质化需求，有“万能的淘宝”之称。每天有来自世界各地的消费者来“逛淘宝”，“逛淘宝”已经融入国民特别是年轻人的日常生活习惯之中，他们从淘宝上获取商品信息并感知新潮流，还可以通过直播、短视频与喜爱的商家和KOL进行互动。\n\n产品特色：\n1、齐全的全球品牌供给\n汇聚数十万国际与中国品牌和零售商，向中国及海外消费者供给全球品牌商品以及传统零售店无法提供的商品。\n2、多样的中小卖家供给\n集结上千万中小商家及新生代创业者，从进口尖货到国潮品牌，从土特产、工厂货到设计师品牌、手工艺品，应有尽有。\n3、有趣的内容\n打造丰富的内容场景，汇集上亿的创作者，通过短视频、直播、互动等方式，让消费者不仅快乐购物，还可以看起来，玩起来，逛起来。\n4、安全顺畅的服务体验\n以技术驱动做保障，从搜索推荐、购物车、下单支付、物流、售后等服务全链路，保证消费者安全、快乐、顺畅的购物体验感。\n5、优质的主播严选\n淘宝直播，为用户提供好看又好买的购物体验。通过培养孵化以及扶持优质主播及店铺直播，建立丰富有趣的内容生态。\n6、88VIP的会员专享特权\n超级会员专享百万商品折上95折，同时享受免费包邮、专属客服、专享优惠、专属活动、专属礼品等权益。",
-      "trackCensoredName": "淘宝-万能的淘宝！",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B7%98%E5%AE%9D-%E4%B8%87%E8%83%BD%E7%9A%84%E6%B7%98%E5%AE%9D/id387682726?uo=4",
+      "languageCodesISO2A": [
+        "EN",
+        "KK",
+        "MS",
+        "RU",
+        "ZH",
+        "TH"
+      ],
+      "fileSizeBytes": "295264256",
+      "formattedPrice": "免费",
       "contentAdvisoryRating": "12+",
-      "bundleId": "com.taobao.taobao4iphone",
-      "averageUserRating": 4.12924,
-      "userRatingCount": 1813938,
+      "userRatingCountForCurrentVersion": 1817258,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%B7%98%E5%AE%9D-%E4%B8%87%E8%83%BD%E7%9A%84%E6%B7%98%E5%AE%9D/id387682726?uo=4",
+      "trackContentRating": "12+",
+      "trackCensoredName": "淘宝-万能的淘宝！",
+      "averageUserRatingForCurrentVersion": 4.12821,
+      "trackId": 387682726,
+      "trackName": "淘宝-万能的淘宝！",
+      "releaseDate": "2010-09-04T03:48:51Z",
+      "userRatingCount": 1817258,
       "country": "CHN"
     }
   ]

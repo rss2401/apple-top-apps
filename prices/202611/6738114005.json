@@ -2,15 +2,15 @@
   "id": "6738114005",
   "name": "同城约友-梦幻沉浸式交友新体验",
   "month": "202611",
-  "fetchedAt": "2026-11-16T09:58:29.837Z",
+  "fetchedAt": "2026-11-23T10:59:50.363Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
       "items": [
         {
-          "name": "月会员",
-          "price": "¥98.00",
-          "amount": 98
+          "name": "认证",
+          "price": "¥28.00",
+          "amount": 28
         },
         {
           "name": "周会员",
@@ -18,17 +18,17 @@
           "amount": 68
         },
         {
+          "name": "月会员",
+          "price": "¥98.00",
+          "amount": 98
+        },
+        {
           "name": "年会员",
           "price": "¥268.00",
           "amount": 268
-        },
-        {
-          "name": "认证",
-          "price": "¥28.00",
-          "amount": 28
         }
       ],
-      "fetchedAt": "2026-11-16T09:58:29.837Z"
+      "fetchedAt": "2026-11-23T10:59:50.362Z"
     }
   }
 }

@@ -195,10 +195,10 @@
       "userRatingCount": 64
     },
     {
-      "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/us/developer/chris-rogers/id1119043156?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -337,9 +337,6 @@
         "Infrequent/Mild Horror/Fear Themes"
       ],
       "kind": "software",
-      "features": [
-        "iosUniversal"
-      ],
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dc/4a/dc/dc4adc74-172e-bb26-c8ac-f6df53aae235/4bf6f779-69cd-43a6-a8fa-4ba918bb5d39_2208x1242-screenshot.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/83/45/3c834513-d2e2-8b9d-2ec6-d810129ff875/3c2dff56-b2e8-4585-bcf8-13ec972b2ee2_2208x1242-screenshot__U00281_U0029.png/406x228bb.png",
@@ -352,45 +349,48 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8f/7c/3d/8f7c3dcc-e440-badb-045f-77b772d1c15c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "releaseNotes": "Added mute switch detection and warning for when no audio can be played\nAdded scan rate slider\nAdded random reverse audio of sound banks to vastly increase the sounds of the audio clips\nUpdated to latest sdks and development software to ensure compatibility with newest devices",
-      "price": 9.99,
+      "features": [
+        "iosUniversal"
+      ],
+      "averageUserRating": 3.76386,
       "trackCensoredName": "Necrophonic",
       "trackViewUrl": "https://apps.apple.com/us/app/necrophonic/id1396698319?uo=4",
       "contentAdvisoryRating": "9+",
-      "averageUserRating": 3.76344,
+      "currentVersionReleaseDate": "2022-06-19T14:45:53Z",
       "artistId": 1119043156,
       "artistName": "chris rogers",
+      "genres": [
+        "Utilities",
+        "Entertainment"
+      ],
+      "price": 9.99,
+      "releaseNotes": "Added mute switch detection and warning for when no audio can be played\nAdded scan rate slider\nAdded random reverse audio of sound banks to vastly increase the sounds of the audio clips\nUpdated to latest sdks and development software to ensure compatibility with newest devices",
       "bundleId": "com.ChillSeekers.Necrophonic",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "minimumOsVersion": "11.0",
-      "sellerName": "BitPlague LLC",
-      "releaseDate": "2018-07-25T05:43:03Z",
       "trackId": 1396698319,
       "trackName": "Necrophonic",
-      "currentVersionReleaseDate": "2022-06-19T14:45:53Z",
+      "releaseDate": "2018-07-25T05:43:03Z",
+      "minimumOsVersion": "11.0",
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "sellerName": "BitPlague LLC",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "1.7",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Necrophonic is an ITC app used for spirit communication and EVP research.\n\n8 Sounds Banks:\n\nThe audio has been mastered in a way to bring out various sound properties . \nUsing Pro Tools I was able to enhance high, mid, and low range frequencies. I also applied \nother filters to create unique sound characteristics to help layer the audio and create an \nenvironment suitable for spirit communication.\n\nThe audio itself is made up of phonemes, \npartial words, reverse audio, foreign languages, and other parts of speech that can help \nspirits communicate. Besides some basic phonetic sounds such as na, no, da, do, di, ma, may, etc.\nthere are no real words of phrases contained in the banks.\n\nThese sounds banks play in a similar\nway to that of my other app \"Spiritus Ghost Box\" but instead of 4 sound banks Necrophonic has\n8 active sound banks.\n\nWhite Noise Sound Bank:\n\nThis app also has an optional 9th sound bank called \"White noise\". \nThis bank can be used alone or with the other 8 giving you a total of 9 sound banks. This \naudio is taken for the internal sounds of the famous DR60 recorder that is known as the \n\"Holy Grail\" of EVP recorders. This is not a White Noise Generator, this is a normal sound bank like the others but this one contains white noise from the DR60.\n\nAudio Effects:\n\nThis app does contain Echo and Reverb audio effects. These have been proven \nto be the best effects to apply to ITC sessions. The echo can create audio that can be \nmanipulated within the echo itself. Echo can also help in live, real time communication by \nrepeating the audio and allowing you to better hear whats coming through. Reverb can be \napplied to the audio to create a spacious sound environment that will enhance audio manipulation.",
+      "averageUserRatingForCurrentVersion": 3.76386,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "102253568",
       "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 558,
+      "userRatingCountForCurrentVersion": 559,
       "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 3.76344,
-      "genreIds": [
-        "6002",
-        "6016"
-      ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genres": [
-        "Utilities",
-        "Entertainment"
-      ],
-      "userRatingCount": 558,
+      "userRatingCount": 559,
       "country": "USA"
     },
     {

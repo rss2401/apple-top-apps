@@ -2,10 +2,6 @@
   "resultCount": 1,
   "results": [
     {
-      "isGameCenterEnabled": false,
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/fe/30/42fe302a-da3c-9e82-8e27-c9a1ef28cfdf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/b2/99/f1b299af-a1e0-9808-507f-db8f0bfecc8e/01-iOS69-1320x2868-Timeline-2.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/18/22/92182278-bdb4-2d18-844e-f4c9ff77c827/01-iOS69-1320x2868-Timeline-5.png/320x480bb.jpg",
@@ -14,6 +10,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/15/e1/e415e199-5d4d-d4d8-3585-384f1f72180e/01-iOS69-1320x2868-Timeline.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/0d/e9/740de982-8791-67c4-6675-962cb1b907ba/01-iOS69-1320x2868-Timeline-3.png/320x480bb.jpg"
       ],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/db/b9/addbb9a1-bbd0-5f4f-9583-57354e61e679/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/db/b9/addbb9a1-bbd0-5f4f-9583-57354e61e679/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/db/b9/addbb9a1-bbd0-5f4f-9583-57354e61e679/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/instagram-inc/id389801255?uo=4",
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -149,6 +151,7 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "isGameCenterEnabled": false,
       "advisories": [
         "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
         "Infrequent/Mild Profanity or Crude Humor",
@@ -156,10 +159,13 @@
         "Infrequent/Mild Sexual Content and Nudity"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/us/developer/instagram-inc/id389801255?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/fe/30/42fe302a-da3c-9e82-8e27-c9a1ef28cfdf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/fe/30/42fe302a-da3c-9e82-8e27-c9a1ef28cfdf/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg",
-      "releaseNotes": "Performance optimizations and stability improvements for a smoother, more reliable experience.",
+      "averageUserRatingForCurrentVersion": 4.74557,
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 27450,
+      "trackViewUrl": "https://apps.apple.com/us/app/instants-an-instagram-app/id6756442328?uo=4",
+      "trackContentRating": "12+",
+      "averageUserRating": 4.74557,
+      "trackCensoredName": "Instants, an Instagram app",
       "languageCodesISO2A": [
         "HR",
         "CS",
@@ -193,39 +199,33 @@
         "UK",
         "VI"
       ],
-      "fileSizeBytes": "197983232",
+      "fileSizeBytes": "200951808",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 26333,
-      "trackContentRating": "12+",
-      "artistId": 389801255,
-      "artistName": "Instagram, Inc.",
+      "currentVersionReleaseDate": "2026-11-16T22:31:43Z",
+      "releaseNotes": "Performance optimizations and stability improvements for a smoother, more reliable experience.",
       "genres": [
         "Social Networking"
       ],
-      "price": 0,
+      "artistName": "Instagram, Inc.",
+      "artistId": 389801255,
       "bundleId": "com.burbn.moonshot",
-      "averageUserRatingForCurrentVersion": 4.74488,
-      "isVppDeviceBasedLicensingEnabled": true,
+      "trackId": 6756442328,
+      "trackName": "Instants, an Instagram app",
       "genreIds": [
         "6005"
       ],
-      "releaseDate": "2026-05-12T07:00:00Z",
       "minimumOsVersion": "16.3",
       "primaryGenreName": "Social Networking",
       "primaryGenreId": 6005,
+      "releaseDate": "2026-05-12T07:00:00Z",
       "sellerName": "Instagram, Inc.",
-      "trackId": 6756442328,
-      "trackName": "Instants, an Instagram app",
-      "currentVersionReleaseDate": "2026-11-09T16:36:32Z",
-      "version": "455.0",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "version": "456.0",
       "wrapperType": "software",
       "currency": "USD",
       "description": "Introducing Instants, a new app from Instagram. Share everyday moments — not just the highlights.\n\n-Real life, real quick.\nJump straight to the camera and share with a tap — no edits, no overthinking.\n\n-Here and now.\nInstants can’t be viewed again once they’re gone.\n\n-Use either app.\nShare and view instants from here or Instagram.\n\nMeta Privacy Policy: https://www.facebook.com/privacy/policy/\nMeta Community Standards: https://transparency.meta.com/policies/community-standards/",
-      "averageUserRating": 4.74488,
-      "trackCensoredName": "Instants, an Instagram app",
-      "trackViewUrl": "https://apps.apple.com/us/app/instants-an-instagram-app/id6756442328?uo=4",
-      "contentAdvisoryRating": "12+",
-      "userRatingCount": 26333,
+      "price": 0,
+      "userRatingCount": 27450,
       "country": "USA"
     }
   ]

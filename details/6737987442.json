@@ -191,6 +191,10 @@
       "userRatingCount": 14
     },
     {
+      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/5c/75/1d5c75c0-c495-d51a-cad9-03336ecbc3a5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/5c/75/1d5c75c0-c495-d51a-cad9-03336ecbc3a5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1f/6e/4b1f6eb1-d607-4e59-b792-a736b8b71c77/iOS_PS_iPhone_6.5_Value_3_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/5d/d4/1c5dd43a-de53-1893-ac11-547cf73146cf/iOS_PS_iPhone_6.5_Value_1_1.png/320x480bb.jpg",
@@ -204,16 +208,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/b0/bb/85b0bb96-6271-8f6b-a623-687059d11ed5/iPad_Value_1.png/360x480bb.jpg"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/us/developer/microsoft-corporation/id298856275?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/41/45/33414574-b168-90bf-e42e-43f81ef81bc2/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/5c/75/1d5c75c0-c495-d51a-cad9-03336ecbc3a5/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
-      ],
-      "advisories": [
-        "Frequent/Intense Medical/Treatment Information"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -349,7 +346,15 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "advisories": [
+        "Frequent/Intense Medical/Treatment Information"
+      ],
       "kind": "software",
+      "trackCensoredName": "Microsoft Dragon Copilot",
+      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 3.52941,
+      "releaseNotes": "- Bug fixes and general improvements.",
       "sellerUrl": "https://www.microsoft.com/en-us/health-solutions/clinical-workflow/dragon-copilot",
       "languageCodesISO2A": [
         "NL",
@@ -357,41 +362,36 @@
         "FR",
         "DE"
       ],
-      "fileSizeBytes": "96098304",
+      "fileSizeBytes": "96155648",
       "formattedPrice": "Free",
       "userRatingCountForCurrentVersion": 17,
       "trackContentRating": "17+",
       "averageUserRatingForCurrentVersion": 3.52941,
-      "trackCensoredName": "Microsoft Dragon Copilot",
-      "trackViewUrl": "https://apps.apple.com/us/app/microsoft-dragon-copilot/id6737987442?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRating": 3.52941,
+      "price": 0,
       "genres": [
         "Medical",
         "Productivity"
       ],
-      "price": 0,
-      "releaseDate": "2025-01-10T08:00:00Z",
+      "artistId": 298856275,
+      "artistName": "Microsoft Corporation",
+      "bundleId": "com.microsoft.ProjectFlame",
       "primaryGenreName": "Medical",
       "primaryGenreId": 6020,
-      "sellerName": "Microsoft Corporation",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2025-01-10T08:00:00Z",
       "trackId": 6737987442,
       "trackName": "Microsoft Dragon Copilot",
+      "sellerName": "Microsoft Corporation",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-11-20T01:58:53Z",
+      "version": "6.0.0",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Microsoft Dragon Copilot, your AI assistant for clinical workflow, brings together the trusted voice dictation capabilities of Dragon Medical One and ambient listening capabilities of DAX Copilot with fine-tuned generative AI and healthcare-adapted safeguards. This unified experience integrates with EHRs and supports clinicians across all stages of their workflow. Part of Microsoft Cloud for Healthcare, it’s an extensible AI workspace that’s built on a secure modern architecture and helps promote clinician wellbeing, increase efficiency, enhance the patient experience, and drive meaningful financial impact.",
       "minimumOsVersion": "17.0",
       "genreIds": [
         "6020",
         "6007"
       ],
-      "currentVersionReleaseDate": "2026-08-20T01:31:17Z",
-      "releaseNotes": "- The app now supports Intune Mobile Device Management (MDM) and Mobile Application Management (MAM).\n- Bug fixes and general improvements.",
-      "version": "5.0.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Microsoft Dragon Copilot, your AI assistant for clinical workflow, brings together the trusted voice dictation capabilities of Dragon Medical One and ambient listening capabilities of DAX Copilot with fine-tuned generative AI and healthcare-adapted safeguards. This unified experience integrates with EHRs and supports clinicians across all stages of their workflow. Part of Microsoft Cloud for Healthcare, it’s an extensible AI workspace that’s built on a secure modern architecture and helps promote clinician wellbeing, increase efficiency, enhance the patient experience, and drive meaningful financial impact.",
-      "bundleId": "com.microsoft.ProjectFlame",
-      "artistId": 298856275,
-      "artistName": "Microsoft Corporation",
       "userRatingCount": 17,
       "country": "USA"
     }

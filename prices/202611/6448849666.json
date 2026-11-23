@@ -2,7 +2,7 @@
   "id": "6448849666",
   "name": "Bible Chat: Daily Devotional",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:11:40.245Z",
+  "fetchedAt": "2026-11-23T11:12:46.296Z",
   "storefronts": {
     "us": {
       "currency": "USD",
@@ -38,14 +38,14 @@
           "amount": 59.99
         },
         {
-          "name": "BibleChat - Ultra - Weekly",
-          "price": "$6.99",
-          "amount": 6.99
-        },
-        {
           "name": "Bible Chat - Lite - Monthly",
           "price": "$4.99",
           "amount": 4.99
+        },
+        {
+          "name": "BibleChat - Ultra - Weekly",
+          "price": "$6.99",
+          "amount": 6.99
         },
         {
           "name": "BibleChat - Premium - Yearly",
@@ -58,7 +58,7 @@
           "amount": 59.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:11:40.244Z"
+      "fetchedAt": "2026-11-23T11:12:46.296Z"
     }
   }
 }

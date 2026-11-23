@@ -2,10 +2,22 @@
   "resultCount": 1,
   "results": [
     {
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/5c/30/d15c30cd-6854-716a-2917-1b427bf341a6/01-_U5f00_U5c40-_U7e41_U4f53-108.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/7a/00/757a0040-87ef-254e-ef2f-81ea7c01915d/01-iPad-_U5bb6_U65cf_U6811.png/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/96/61/f29661a4-5f7e-0ba0-5f1b-46411f58bdda/02-iPad-_U4eba_U7269_U8be6_U60c5.png/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f2/37/56f23743-2084-4989-4662-91595b6fdd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f2/37/56f23743-2084-4989-4662-91595b6fdd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BC%84%E5%BD%B1-%E6%9D%8E/id6829584018?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/f2/37/56f23743-2084-4989-4662-91595b6fdd41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
+      "isGameCenterEnabled": false,
       "features": [
         "iosUniversal"
       ],
-      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -140,64 +152,52 @@
         "iPadMiniA20Pro-iPadMiniA20Pro",
         "iPadMiniA20ProCellular-iPadMiniA20ProCellular"
       ],
+      "kind": "software",
       "advisories": [
         "偶尔/轻微的惊悚或恐怖题材",
+        "偶尔/轻微的现实暴力",
         "频繁/强烈的成人或性暗示题材",
         "偶尔/轻微的色情内容或裸露",
-        "偶尔/轻微的卡通或幻想暴力",
-        "偶尔/轻微的现实暴力",
-        "偶尔/轻微的烟酒或毒品使用或相关内容"
+        "偶尔/轻微的烟酒或毒品使用或相关内容",
+        "偶尔/轻微的卡通或幻想暴力"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/%E5%BC%84%E5%BD%B1-%E6%9D%8E/id6829584018?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/50/b4/c850b489-1457-4edc-d009-306a4828b1f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/50/b4/c850b489-1457-4edc-d009-306a4828b1f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/5c/30/d15c30cd-6854-716a-2917-1b427bf341a6/01-_U5f00_U5c40-_U7e41_U4f53-108.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/75/7a/00/757a0040-87ef-254e-ef2f-81ea7c01915d/01-iPad-_U5bb6_U65cf_U6811.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/96/61/f29661a4-5f7e-0ba0-5f1b-46411f58bdda/02-iPad-_U4eba_U7269_U8be6_U60c5.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/50/b4/c850b489-1457-4edc-d009-306a4828b1f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "bundleId": "com.qianqiu.familychronicle",
-      "artistId": 6829584018,
-      "artistName": "弄影 李",
-      "minimumOsVersion": "16.4",
-      "genreIds": [
-        "6002"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "弄影 李",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2026-11-11T08:00:00Z",
-      "trackName": "千秋家录",
-      "currentVersionReleaseDate": "2026-11-15T23:09:22Z",
-      "releaseNotes": "本次更新：\n• 无嗣丸、绝情丸、定情丸调整为各10香火；易孕丹为2000香火。催生丸、长生缘仍为各10千秋玉。\n• 新增性格倾向说明，了解人物的日常选择。\n• 新增小人联机码：10香火生成，在张罗婚事中导入基础资料；禁止自用，同一码在同一存档只能成功交往一次。\n• 满级家族宅邸容量提升至46人，初始容量保持26人。\n• 相亲优先相近年龄，减少年龄跨度过大的对象。\n• 承泽禀赋显示具体效果。\n• 修复手机自定义发色滑块的触摸拖动。",
-      "version": "1.0.3",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "一家人的故事，慢慢展开。\n\n《千秋家录》是一款家族世代与人生故事模拟器。从两位始祖开始，观察人物的成长、求学、事业与情缘，浏览家族关系，回顾一代代人的经历。\n\n【家谱脉络】\n在虚拟家族中查看亲缘关系与世代传承，循着家谱了解不同人物之间的联系。\n\n【人物档案】\n浏览人物资料与人生经历，关注每个人的成长与际遇。\n\n【世代故事】\n参与生活安排与家族发展，随着时间推进，见证不同选择交织成家族故事。部分互动随进展及模式设置开放。\n\n【本机备份】\n无需注册或登录，进度保存在本机，支持家谱导入与导出。卸载或更换设备前，请先备份家谱。\n\n【可选项目】\niOS 版无广告。千秋玉礼包属于另行购买的可选项目，通过 Apple 应用内购买完成，用于兑换催生丸和长生缘。不购买千秋玉也可以使用普通家族模拟功能。\n\n家谱备份不包含千秋玉余额或交易记录，当前不提供跨设备余额同步。",
-      "averageUserRating": 1,
-      "trackCensoredName": "千秋家录",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%83%E7%A7%8B%E5%AE%B6%E5%BD%95/id6829688301?uo=4",
-      "contentAdvisoryRating": "17+",
-      "averageUserRatingForCurrentVersion": 1,
+      "averageUserRatingForCurrentVersion": 0,
+      "averageUserRating": 0,
       "languageCodesISO2A": [
         "ZH"
       ],
-      "fileSizeBytes": "94012416",
+      "contentAdvisoryRating": "17+",
+      "fileSizeBytes": "126969856",
       "formattedPrice": "¥3.00",
-      "userRatingCountForCurrentVersion": 1,
+      "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "17+",
-      "trackId": 6829688301,
-      "price": 3,
+      "releaseNotes": "新增千秋玉兑换香火与家族资金，满级宅邸人口上限提升至50人。优化设置排版：游玩节奏两项并排，字辈与亲属称呼并排，姓名库移至下方，隐私政策置于语言切换下方。iPhone家中近事显示两条单行事件。继续游戏后，尚未发生的事件可重新变化，已有资料与已确定的怀孕结果保留。修复长生人物相亲窗口、iOS背景音乐加载与缓存，以及开始画面的图片检查问题。",
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%8D%83%E7%A7%8B%E5%AE%B6%E5%BD%95/id6829688301?uo=4",
+      "trackCensoredName": "千秋家录",
+      "artistId": 6829584018,
+      "artistName": "弄影 李",
       "genres": [
         "工具"
       ],
-      "userRatingCount": 1,
+      "price": 3,
+      "bundleId": "com.qianqiu.familychronicle",
+      "sellerName": "弄影 李",
+      "primaryGenreName": "Utilities",
+      "primaryGenreId": 6002,
+      "trackId": 6829688301,
+      "trackName": "千秋家录",
+      "genreIds": [
+        "6002"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2026-11-11T08:00:00Z",
+      "minimumOsVersion": "16.4",
+      "currentVersionReleaseDate": "2026-11-21T20:02:06Z",
+      "version": "1.0.5",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "一家人的故事，慢慢展开。\n\n《千秋家录》是一款家族世代与人生故事模拟器。从两位始祖开始，观察人物的成长、求学、事业与情缘，浏览家族关系，回顾一代代人的经历。\n\n【家谱脉络】\n在虚拟家族中查看亲缘关系与世代传承，循着家谱了解不同人物之间的联系。\n\n【人物档案】\n浏览人物资料与人生经历，关注每个人的成长与际遇。\n\n【世代故事】\n参与生活安排与家族发展，随着时间推进，见证不同选择交织成家族故事。部分互动随进展及模式设置开放。\n\n【本机备份】\n无需注册或登录，进度保存在本机，支持家谱导入与导出。卸载或更换设备前，请先备份家谱。\n\n【可选项目】\niOS 版无广告。千秋玉礼包属于另行购买的可选项目，通过 Apple 应用内购买完成，用于兑换催生丸、长生缘、香火和家族资金。不购买千秋玉也可以使用普通家族模拟功能。\n\n家谱备份不包含千秋玉余额或交易记录，当前不提供跨设备余额同步。",
+      "userRatingCount": 0,
       "country": "CHN"
     }
   ]

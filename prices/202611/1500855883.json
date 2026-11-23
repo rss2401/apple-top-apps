@@ -2,7 +2,7 @@
   "id": "1500855883",
   "name": "CapCut - 動画編集アプリ",
   "month": "202611",
-  "fetchedAt": "2026-11-16T10:02:38.931Z",
+  "fetchedAt": "2026-11-23T11:03:47.435Z",
   "storefronts": {
     "de": {
       "currency": "EUR",
@@ -18,14 +18,14 @@
           "amount": 11.99
         },
         {
-          "name": "Standard-Monatsabo",
-          "price": "11,99 €",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Monthly Subscription",
           "price": "23,99 €",
           "amount": 23.99
+        },
+        {
+          "name": "Standard-Monatsabo",
+          "price": "11,99 €",
+          "amount": 11.99
         },
         {
           "name": "Standard Monthly Subscription",
@@ -58,7 +58,7 @@
           "amount": 9.49
         }
       ],
-      "fetchedAt": "2026-11-16T10:02:33.346Z"
+      "fetchedAt": "2026-11-23T11:03:42.253Z"
     },
     "fr": {
       "currency": "EUR",
@@ -74,14 +74,14 @@
           "amount": 23.99
         },
         {
-          "name": "Abonnement Standard mensuel",
-          "price": "11,99 €",
-          "amount": 11.99
-        },
-        {
           "name": "Pro Monthly Subscription",
           "price": "23,99 €",
           "amount": 23.99
+        },
+        {
+          "name": "Abonnement Standard mensuel",
+          "price": "11,99 €",
+          "amount": 11.99
         },
         {
           "name": "Standard Monthly Subscription",
@@ -114,7 +114,7 @@
           "amount": 23.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:02:34.710Z"
+      "fetchedAt": "2026-11-23T11:03:43.900Z"
     },
     "gb": {
       "currency": "GBP",
@@ -140,14 +140,14 @@
           "amount": 10.99
         },
         {
-          "name": "Pro Monthly Subscription",
-          "price": "£21.99",
-          "amount": 21.99
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "£10.99",
           "amount": 10.99
+        },
+        {
+          "name": "Pro Monthly Subscription",
+          "price": "£21.99",
+          "amount": 21.99
         },
         {
           "name": "Standard Monthly Subscription",
@@ -170,7 +170,7 @@
           "amount": 1.19
         }
       ],
-      "fetchedAt": "2026-11-16T10:02:36.284Z"
+      "fetchedAt": "2026-11-23T11:03:45.186Z"
     },
     "jp": {
       "currency": "JPY",
@@ -196,14 +196,14 @@
           "amount": 2180
         },
         {
-          "name": "Pro Monthly Subscription",
-          "price": "¥2,180",
-          "amount": 2180
-        },
-        {
           "name": "Standard Monthly Subscription",
           "price": "¥1,080",
           "amount": 1080
+        },
+        {
+          "name": "Pro Monthly Subscription",
+          "price": "¥2,180",
+          "amount": 2180
         },
         {
           "name": "Standard Monthly Subscription",
@@ -226,7 +226,7 @@
           "amount": 1080
         }
       ],
-      "fetchedAt": "2026-11-16T10:02:37.209Z"
+      "fetchedAt": "2026-11-23T11:03:46.246Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 7.99
         }
       ],
-      "fetchedAt": "2026-11-16T10:02:38.931Z"
+      "fetchedAt": "2026-11-23T11:03:47.435Z"
     }
   }
 }
