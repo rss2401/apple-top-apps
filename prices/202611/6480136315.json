@@ -1,8 +1,8 @@
 {
   "id": "6480136315",
-  "name": "Suno - AI Songs & Music",
+  "name": "Music & Song Creator: Suno",
   "month": "202611",
-  "fetchedAt": "2026-11-23T11:13:40.188Z",
+  "fetchedAt": "2026-11-23T11:30:32.828Z",
   "storefronts": {
     "cn": {
       "currency": "CNY",
@@ -58,7 +58,7 @@
           "amount": 22
         }
       ],
-      "fetchedAt": "2026-11-23T11:13:35.640Z"
+      "fetchedAt": "2026-11-23T11:30:26.804Z"
     },
     "de": {
       "currency": "EUR",
@@ -114,7 +114,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-11-23T11:13:37.290Z"
+      "fetchedAt": "2026-11-23T11:30:28.411Z"
     },
     "fr": {
       "currency": "EUR",
@@ -170,7 +170,7 @@
           "amount": 9.95
         }
       ],
-      "fetchedAt": "2026-11-23T11:13:38.725Z"
+      "fetchedAt": "2026-11-23T11:30:29.923Z"
     },
     "gb": {
       "currency": "GBP",
@@ -191,14 +191,19 @@
           "amount": 99
         },
         {
+          "name": "1 Download Credit",
+          "price": "£2.99",
+          "amount": 2.99
+        },
+        {
           "name": "500 Credits",
           "price": "£4.00",
           "amount": 4
         },
         {
-          "name": "1 Download Credit",
-          "price": "£2.99",
-          "amount": 2.99
+          "name": "2500 Visual Credits",
+          "price": "£19.99",
+          "amount": 19.99
         },
         {
           "name": "1 Download Credit",
@@ -211,22 +216,17 @@
           "amount": 8
         },
         {
+          "name": "5500 Visual Credits",
+          "price": "£39.99",
+          "amount": 39.99
+        },
+        {
           "name": "3 Download Credits",
           "price": "£8.95",
           "amount": 8.95
-        },
-        {
-          "name": "2000 Credits",
-          "price": "£15.00",
-          "amount": 15
-        },
-        {
-          "name": "Premier Plan",
-          "price": "£299.00",
-          "amount": 299
         }
       ],
-      "fetchedAt": "2026-11-16T10:29:07.952Z"
+      "fetchedAt": "2026-11-23T11:30:31.345Z"
     },
     "us": {
       "currency": "USD",
@@ -282,7 +282,7 @@
           "amount": 289
         }
       ],
-      "fetchedAt": "2026-11-23T11:13:40.187Z"
+      "fetchedAt": "2026-11-23T11:30:32.828Z"
     }
   }
 }
