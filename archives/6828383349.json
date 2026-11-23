@@ -1,18 +1,18 @@
 {
-  "resultCount": 1,
+  "resultCount": 3,
   "results": [
     {
       "month": "202611",
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 33,
+      "rank": 14,
       "artistName": "Bigear Company Co., Ltd.",
       "id": "6828383349",
       "name": "DuoFridge",
       "releaseDate": "2026-11-08",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/9b/f9/9a9bf951-a042-9ae1-91fe-013853f3e44a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/e8/f0/a9e8f08c-647a-eea1-5950-23d29658468d/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6012",
@@ -26,6 +26,58 @@
         }
       ],
       "url": "https://apps.apple.com/cn/app/duofridge/id6828383349"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 94,
+      "artistName": "Bigear Company Co., Ltd.",
+      "id": "6828383349",
+      "name": "DuoFridge",
+      "releaseDate": "2026-11-08",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/e8/f0/a9e8f08c-647a-eea1-5950-23d29658468d/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Style de vie",
+          "url": "https://itunes.apple.com/fr/genre/id6012"
+        },
+        {
+          "genreId": "6027",
+          "name": "Graphisme et design",
+          "url": "https://itunes.apple.com/fr/genre/id6027"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/duofridge/id6828383349"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 41,
+      "artistName": "Bigear Company Co., Ltd.",
+      "id": "6828383349",
+      "name": "DuoFridge",
+      "releaseDate": "2026-11-08",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/e8/f0/a9e8f08c-647a-eea1-5950-23d29658468d/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        },
+        {
+          "genreId": "6027",
+          "name": "Graphics & Design",
+          "url": "https://itunes.apple.com/us/genre/id6027"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/duofridge/id6828383349"
     }
   ]
 }

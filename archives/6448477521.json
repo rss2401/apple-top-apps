@@ -1,5 +1,5 @@
 {
-  "resultCount": 7,
+  "resultCount": 9,
   "results": [
     {
       "month": "202512",
@@ -120,7 +120,7 @@
       "country": "cn",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 4,
+      "rank": 1,
       "artistName": "承远 李",
       "id": "6448477521",
       "name": "BiuBiuBiu - 空气枪",
@@ -129,6 +129,48 @@
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
       "genres": [],
       "url": "https://apps.apple.com/cn/app/biubiubiu-%E7%A9%BA%E6%B0%94%E6%9E%AA/id6448477521"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 70,
+      "artistName": "承远 李",
+      "id": "6448477521",
+      "name": "PewPewPew - Fingergun",
+      "releaseDate": "2023-05-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/pewpewpew-fingergun/id6448477521"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 63,
+      "artistName": "承远 李",
+      "id": "6448477521",
+      "name": "BiuBiuBiu - 空気銃",
+      "releaseDate": "2023-05-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/4c/97/4f4c9774-476b-89ec-e101-9cc2049af44a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "エンターテインメント",
+          "url": "https://itunes.apple.com/jp/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/biubiubiu-%E7%A9%BA%E6%B0%97%E9%8A%83/id6448477521"
     }
   ]
 }

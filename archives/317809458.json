@@ -1,5 +1,5 @@
 {
-  "resultCount": 15,
+  "resultCount": 14,
   "results": [
     {
       "month": "202512",
@@ -315,10 +315,10 @@
     },
     {
       "month": "202611",
-      "country": "de",
+      "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 98,
+      "rank": 49,
       "artistName": "Dave Pascoe",
       "id": "317809458",
       "name": "LiveATC Air Radio",
@@ -328,49 +328,23 @@
       "genres": [
         {
           "genreId": "6003",
-          "name": "Reisen",
-          "url": "https://itunes.apple.com/de/genre/id6003"
+          "name": "旅行",
+          "url": "https://itunes.apple.com/jp/genre/id6003"
         },
         {
           "genreId": "6016",
-          "name": "Unterhaltung",
-          "url": "https://itunes.apple.com/de/genre/id6016"
+          "name": "エンターテインメント",
+          "url": "https://itunes.apple.com/jp/genre/id6016"
         }
       ],
-      "url": "https://apps.apple.com/de/app/liveatc-air-radio/id317809458"
-    },
-    {
-      "month": "202611",
-      "country": "gb",
-      "mediaType": "apps",
-      "feed": "top-paid",
-      "rank": 86,
-      "artistName": "Dave Pascoe",
-      "id": "317809458",
-      "name": "LiveATC Air Radio",
-      "releaseDate": "2009-06-09",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/e8/9e/5fe89eb9-fd91-1dc0-21bb-45e8592bcbf3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6003",
-          "name": "Travel",
-          "url": "https://itunes.apple.com/gb/genre/id6003"
-        },
-        {
-          "genreId": "6016",
-          "name": "Entertainment",
-          "url": "https://itunes.apple.com/gb/genre/id6016"
-        }
-      ],
-      "url": "https://apps.apple.com/gb/app/liveatc-air-radio/id317809458"
+      "url": "https://apps.apple.com/jp/app/liveatc-air-radio/id317809458"
     },
     {
       "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 14,
+      "rank": 20,
       "artistName": "Dave Pascoe",
       "id": "317809458",
       "name": "LiveATC Air Radio",

@@ -1,18 +1,18 @@
 {
-  "resultCount": 2,
+  "resultCount": 1,
   "results": [
     {
       "month": "202611",
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 65,
+      "rank": 69,
       "artistName": "LiveBird Technologies Private Limited",
       "id": "936694037",
       "name": "Voice Recorder : Ton aufnehmen",
       "releaseDate": "2014-11-20",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/a0/fd/d8a0fd82-ba6e-5bd2-cf47-19ddf5e0c466/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6000",
@@ -26,32 +26,6 @@
         }
       ],
       "url": "https://apps.apple.com/de/app/voice-recorder-ton-aufnehmen/id936694037"
-    },
-    {
-      "month": "202611",
-      "country": "gb",
-      "mediaType": "apps",
-      "feed": "top-paid",
-      "rank": 87,
-      "artistName": "LiveBird Technologies Private Limited",
-      "id": "936694037",
-      "name": "Voice Recorder - Audio Record",
-      "releaseDate": "2014-11-20",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/c2/fe/b5c2fec3-e472-ee95-d6c5-d436ad40af83/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6000",
-          "name": "Business",
-          "url": "https://itunes.apple.com/gb/genre/id6000"
-        },
-        {
-          "genreId": "6007",
-          "name": "Productivity",
-          "url": "https://itunes.apple.com/gb/genre/id6007"
-        }
-      ],
-      "url": "https://apps.apple.com/gb/app/voice-recorder-audio-record/id936694037"
     }
   ]
 }

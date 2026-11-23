@@ -1,5 +1,5 @@
 {
-  "resultCount": 2,
+  "resultCount": 3,
   "results": [
     {
       "month": "202610",
@@ -24,16 +24,37 @@
     },
     {
       "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 75,
+      "artistName": "Paramount Global Streaming International LLC",
+      "id": "1340650234",
+      "name": "Paramount+",
+      "releaseDate": "2022-11-30",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/8a/d9/838ad994-4418-3c1b-ef57-6b8c58224071/P_U002bINTLAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/paramount/id1340650234"
+    },
+    {
+      "month": "202611",
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 73,
+      "rank": 74,
       "artistName": "Paramount Global Streaming International LLC",
       "id": "1340650234",
       "name": "Paramount+",
       "releaseDate": "2022-06-21",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/96/51/af965153-f541-a631-62d3-39e0eb8111d4/P_U002bINTLAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/8a/d9/838ad994-4418-3c1b-ef57-6b8c58224071/P_U002bINTLAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

@@ -1,5 +1,5 @@
 {
-  "resultCount": 21,
+  "resultCount": 20,
   "results": [
     {
       "month": "202512",
@@ -422,13 +422,13 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 76,
+      "rank": 96,
       "artistName": "AMZN Mobile LLC",
       "id": "545519333",
       "name": "Amazon Prime Video",
       "releaseDate": "2017-12-06",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fc/99/11fc9920-7331-b16c-958f-84c6fb74d2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cc/02/10cc02e2-f3cd-d0dd-c1ae-a592a23b5d22/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",
@@ -448,14 +448,25 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 5,
+      "rank": 27,
       "artistName": "AMZN Mobile LLC",
       "id": "545519333",
       "name": "Amazon Prime Video",
       "releaseDate": "2016-12-14",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fc/99/11fc9920-7331-b16c-958f-84c6fb74d2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cc/02/10cc02e2-f3cd-d0dd-c1ae-a592a23b5d22/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Divertissement",
+          "url": "https://itunes.apple.com/fr/genre/id6016"
+        },
+        {
+          "genreId": "6012",
+          "name": "Style de vie",
+          "url": "https://itunes.apple.com/fr/genre/id6012"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/amazon-prime-video/id545519333"
     },
     {
@@ -463,13 +474,13 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 77,
+      "rank": 95,
       "artistName": "AMZN Mobile LLC",
       "id": "545519333",
       "name": "Amazon Prime Video",
       "releaseDate": "2017-12-06",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fc/99/11fc9920-7331-b16c-958f-84c6fb74d2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cc/02/10cc02e2-f3cd-d0dd-c1ae-a592a23b5d22/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",
@@ -486,42 +497,16 @@
     },
     {
       "month": "202611",
-      "country": "jp",
-      "mediaType": "apps",
-      "feed": "top-free",
-      "rank": 92,
-      "artistName": "AMZN Mobile LLC",
-      "id": "545519333",
-      "name": "Amazon Prime Video",
-      "releaseDate": "2017-12-06",
-      "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fc/99/11fc9920-7331-b16c-958f-84c6fb74d2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
-      "genres": [
-        {
-          "genreId": "6016",
-          "name": "エンターテインメント",
-          "url": "https://itunes.apple.com/jp/genre/id6016"
-        },
-        {
-          "genreId": "6012",
-          "name": "ライフスタイル",
-          "url": "https://itunes.apple.com/jp/genre/id6012"
-        }
-      ],
-      "url": "https://apps.apple.com/jp/app/amazon-prime-video/id545519333"
-    },
-    {
-      "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 34,
+      "rank": 50,
       "artistName": "AMZN Mobile LLC",
       "id": "545519333",
       "name": "Amazon Prime Video",
       "releaseDate": "2012-07-31",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fc/99/11fc9920-7331-b16c-958f-84c6fb74d2c9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/cc/02/10cc02e2-f3cd-d0dd-c1ae-a592a23b5d22/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6016",

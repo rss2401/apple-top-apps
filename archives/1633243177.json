@@ -384,7 +384,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 28,
+      "rank": 32,
       "artistName": "Ableton AG",
       "id": "1633243177",
       "name": "Ableton Note",
@@ -405,14 +405,20 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 7,
+      "rank": 17,
       "artistName": "Ableton AG",
       "id": "1633243177",
       "name": "Ableton Note",
       "releaseDate": "2022-10-18",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/2c/ac/382cac74-ec5a-46bc-aa40-560caa33fdb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Musique",
+          "url": "https://itunes.apple.com/fr/genre/id6011"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/ableton-note/id1633243177"
     },
     {
@@ -420,7 +426,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 31,
+      "rank": 38,
       "artistName": "Ableton AG",
       "id": "1633243177",
       "name": "Ableton Note",
@@ -441,7 +447,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 54,
+      "rank": 57,
       "artistName": "Ableton AG",
       "id": "1633243177",
       "name": "Ableton Note",
@@ -462,7 +468,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 45,
+      "rank": 38,
       "artistName": "Ableton AG",
       "id": "1633243177",
       "name": "Ableton Note",

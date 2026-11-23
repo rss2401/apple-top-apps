@@ -81,7 +81,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 14,
+      "rank": 19,
       "artistName": "Fountain Interactive Ltd",
       "id": "6816896250",
       "name": "Tiny Computers",
@@ -112,7 +112,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 24,
+      "rank": 63,
       "artistName": "Fountain Interactive Ltd",
       "id": "6816896250",
       "name": "Tiny Computers",
@@ -143,14 +143,30 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 10,
+      "rank": 29,
       "artistName": "Fountain Interactive Ltd",
       "id": "6816896250",
       "name": "Tiny Computers",
       "releaseDate": "2026-10-23",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/25/0b/b4250b10-48b9-1186-1407-af72a4913299/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id6016"
+        },
+        {
+          "genreId": "7015",
+          "name": "Simulation",
+          "url": "https://itunes.apple.com/gb/genre/id7015"
+        },
+        {
+          "genreId": "6014",
+          "name": "Games",
+          "url": "https://itunes.apple.com/gb/genre/id6014"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/tiny-computers/id6816896250"
     },
     {
@@ -158,7 +174,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 32,
+      "rank": 41,
       "artistName": "Fountain Interactive Ltd",
       "id": "6816896250",
       "name": "Tiny Computers",
@@ -189,7 +205,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 7,
+      "rank": 6,
       "artistName": "Fountain Interactive Ltd",
       "id": "6816896250",
       "name": "Tiny Computers",

@@ -1,5 +1,5 @@
 {
-  "resultCount": 19,
+  "resultCount": 20,
   "results": [
     {
       "month": "202512",
@@ -374,7 +374,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 63,
+      "rank": 50,
       "artistName": "CCS Ltd",
       "id": "1241909999",
       "name": "WorkOutDoors",
@@ -400,14 +400,25 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 6,
+      "rank": 12,
       "artistName": "CCS Ltd",
       "id": "1241909999",
       "name": "WorkOutDoors",
       "releaseDate": "2017-07-13",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "Forme et santé",
+          "url": "https://itunes.apple.com/fr/genre/id6013"
+        },
+        {
+          "genreId": "6010",
+          "name": "Navigation",
+          "url": "https://itunes.apple.com/fr/genre/id6010"
+        }
+      ],
       "url": "https://apps.apple.com/fr/app/workoutdoors/id1241909999"
     },
     {
@@ -415,7 +426,7 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 43,
+      "rank": 62,
       "artistName": "CCS Ltd",
       "id": "1241909999",
       "name": "WorkOutDoors",
@@ -438,10 +449,36 @@
     },
     {
       "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 67,
+      "artistName": "CCS Ltd",
+      "id": "1241909999",
+      "name": "WorkOutDoors",
+      "releaseDate": "2017-07-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/6e/51/4d6e5100-2cc9-d2c9-fbed-9cbc67ddd821/AppIcon-0-0-1x_U007emarketing-0-6-0-0-GLES2_U002c0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6013",
+          "name": "ヘルスケア／フィットネス",
+          "url": "https://itunes.apple.com/jp/genre/id6013"
+        },
+        {
+          "genreId": "6010",
+          "name": "ナビゲーション",
+          "url": "https://itunes.apple.com/jp/genre/id6010"
+        }
+      ],
+      "url": "https://apps.apple.com/jp/app/workoutdoors/id1241909999"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 58,
+      "rank": 60,
       "artistName": "CCS Ltd",
       "id": "1241909999",
       "name": "WorkOutDoors",

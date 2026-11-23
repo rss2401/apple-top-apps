@@ -1,5 +1,5 @@
 {
-  "resultCount": 6,
+  "resultCount": 8,
   "results": [
     {
       "month": "202512",
@@ -145,6 +145,58 @@
         }
       ],
       "url": "https://apps.apple.com/jp/app/microsoft-teams/id1113153706"
+    },
+    {
+      "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 71,
+      "artistName": "Microsoft Corporation",
+      "id": "1113153706",
+      "name": "Microsoft Teams",
+      "releaseDate": "2016-11-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c7/03/97c703d6-59b9-6925-68b8-7ab7f361138d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Wirtschaft",
+          "url": "https://itunes.apple.com/de/genre/id6000"
+        },
+        {
+          "genreId": "6007",
+          "name": "Produktivität",
+          "url": "https://itunes.apple.com/de/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/microsoft-teams/id1113153706"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 86,
+      "artistName": "Microsoft Corporation",
+      "id": "1113153706",
+      "name": "Microsoft Teams",
+      "releaseDate": "2016-11-02",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/c7/03/97c703d6-59b9-6925-68b8-7ab7f361138d/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6000",
+          "name": "Économie et entreprise",
+          "url": "https://itunes.apple.com/fr/genre/id6000"
+        },
+        {
+          "genreId": "6007",
+          "name": "Productivité",
+          "url": "https://itunes.apple.com/fr/genre/id6007"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/microsoft-teams/id1113153706"
     }
   ]
 }

@@ -1,18 +1,39 @@
 {
-  "resultCount": 1,
+  "resultCount": 2,
   "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 56,
+      "artistName": "Tan Teck Hean",
+      "id": "6827445474",
+      "name": "FoldTick: Duo Fold Counter",
+      "releaseDate": "2026-11-05",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/26/fd/fa26fdba-c535-eff0-c32c-2cdf84fa3bd5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6002",
+          "name": "Utilities",
+          "url": "https://itunes.apple.com/gb/genre/id6002"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/foldtick-duo-fold-counter/id6827445474"
+    },
     {
       "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 21,
+      "rank": 71,
       "artistName": "Tan Teck Hean",
       "id": "6827445474",
-      "name": "FoldTick",
+      "name": "FoldTick: Duo Fold Counter",
       "releaseDate": "2026-11-05",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/44/7b/83447b74-5397-1f4a-66ee-7418c012888b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/26/fd/fa26fdba-c535-eff0-c32c-2cdf84fa3bd5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6002",
@@ -20,7 +41,7 @@
           "url": "https://itunes.apple.com/us/genre/id6002"
         }
       ],
-      "url": "https://apps.apple.com/us/app/foldtick/id6827445474"
+      "url": "https://apps.apple.com/us/app/foldtick-duo-fold-counter/id6827445474"
     }
   ]
 }

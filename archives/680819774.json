@@ -1,0 +1,57 @@
+{
+  "resultCount": 2,
+  "results": [
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 13,
+      "artistName": "Google",
+      "id": "680819774",
+      "name": "Google Home",
+      "releaseDate": "2013-10-17",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/2a/ae/4b2aaeab-c7a5-5102-71d1-98f628b13918/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/gb/genre/id6012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/gb/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/google-home/id680819774"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 36,
+      "artistName": "Google",
+      "id": "680819774",
+      "name": "Google Home",
+      "releaseDate": "2013-08-27",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/2a/ae/4b2aaeab-c7a5-5102-71d1-98f628b13918/logo_home_app_color-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6012",
+          "name": "Lifestyle",
+          "url": "https://itunes.apple.com/us/genre/id6012"
+        },
+        {
+          "genreId": "6016",
+          "name": "Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id6016"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/google-home/id680819774"
+    }
+  ]
+}

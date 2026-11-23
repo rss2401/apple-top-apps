@@ -1,5 +1,5 @@
 {
-  "resultCount": 9,
+  "resultCount": 12,
   "results": [
     {
       "month": "202512",
@@ -211,16 +211,94 @@
     },
     {
       "month": "202611",
+      "country": "de",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 79,
+      "artistName": "Snap, Inc.",
+      "id": "447188370",
+      "name": "Snapchat: Chatte mit Freunden",
+      "releaseDate": "2011-07-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4f/d4/904fd495-52c5-1ca2-5cf2-7b1429ce8900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Foto und Video",
+          "url": "https://itunes.apple.com/de/genre/id6008"
+        },
+        {
+          "genreId": "6005",
+          "name": "Soziale Netze",
+          "url": "https://itunes.apple.com/de/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/de/app/snapchat-chatte-mit-freunden/id447188370"
+    },
+    {
+      "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 57,
+      "artistName": "Snap, Inc.",
+      "id": "447188370",
+      "name": "Snapchat : chats entre ami·e·s",
+      "releaseDate": "2011-07-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4f/d4/904fd495-52c5-1ca2-5cf2-7b1429ce8900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo et vidéo",
+          "url": "https://itunes.apple.com/fr/genre/id6008"
+        },
+        {
+          "genreId": "6005",
+          "name": "Réseaux sociaux",
+          "url": "https://itunes.apple.com/fr/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/fr/app/snapchat-chats-entre-ami-e-s/id447188370"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-free",
+      "rank": 71,
+      "artistName": "Snap, Inc.",
+      "id": "447188370",
+      "name": "Snapchat: Chat with friends",
+      "releaseDate": "2011-07-13",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4f/d4/904fd495-52c5-1ca2-5cf2-7b1429ce8900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/gb/genre/id6008"
+        },
+        {
+          "genreId": "6005",
+          "name": "Social Networking",
+          "url": "https://itunes.apple.com/gb/genre/id6005"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/snapchat-chat-with-friends/id447188370"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 67,
+      "rank": 45,
       "artistName": "Snap, Inc.",
       "id": "447188370",
       "name": "Snapchat",
       "releaseDate": "2011-07-13",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/c5/ea/0dc5ea9e-b58d-c58a-0f13-da932bf7cbb5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/4f/d4/904fd495-52c5-1ca2-5cf2-7b1429ce8900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6008",

@@ -6,7 +6,7 @@
       "country": "de",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 23,
+      "rank": 46,
       "artistName": "Chromatic Applications LLC",
       "id": "6803329435",
       "name": "Chromagraph Camera",
@@ -27,7 +27,7 @@
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 37,
+      "rank": 66,
       "artistName": "Chromatic Applications LLC",
       "id": "6803329435",
       "name": "Chromagraph Camera",
@@ -48,14 +48,20 @@
       "country": "gb",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 4,
+      "rank": 11,
       "artistName": "Chromatic Applications LLC",
       "id": "6803329435",
       "name": "Chromagraph Camera",
       "releaseDate": "2026-10-20",
       "kind": "apps",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/a2/6f/57a26f23-bb49-3f97-87e1-9399cca9d853/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/100x100bb.png",
-      "genres": [],
+      "genres": [
+        {
+          "genreId": "6008",
+          "name": "Photo & Video",
+          "url": "https://itunes.apple.com/gb/genre/id6008"
+        }
+      ],
       "url": "https://apps.apple.com/gb/app/chromagraph-camera/id6803329435"
     },
     {
@@ -63,7 +69,7 @@
       "country": "jp",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 2,
+      "rank": 3,
       "artistName": "Chromatic Applications LLC",
       "id": "6803329435",
       "name": "Chromagraph Camera",
@@ -78,7 +84,7 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 5,
+      "rank": 8,
       "artistName": "Chromatic Applications LLC",
       "id": "6803329435",
       "name": "Chromagraph Camera",

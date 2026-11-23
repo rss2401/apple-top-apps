@@ -1,18 +1,18 @@
 {
-  "resultCount": 1,
+  "resultCount": 4,
   "results": [
     {
       "month": "202611",
       "country": "fr",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 48,
+      "rank": 73,
       "artistName": "Recital Records Ltd",
       "id": "6828347986",
       "name": "Ripple Player",
       "releaseDate": "2026-11-16",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/16/4c/d1164c75-2e5f-25a4-3c55-134ec638ff7a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/c9/5b/87c95bfd-af60-2939-0b67-d0facade0b0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
       "genres": [
         {
           "genreId": "6011",
@@ -21,6 +21,63 @@
         }
       ],
       "url": "https://apps.apple.com/fr/app/ripple-player/id6828347986"
+    },
+    {
+      "month": "202611",
+      "country": "gb",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 57,
+      "artistName": "Recital Records Ltd",
+      "id": "6828347986",
+      "name": "Ripple Player",
+      "releaseDate": "2026-11-16",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/c9/5b/87c95bfd-af60-2939-0b67-d0facade0b0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/gb/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/gb/app/ripple-player/id6828347986"
+    },
+    {
+      "month": "202611",
+      "country": "jp",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 4,
+      "artistName": "Recital Records Ltd",
+      "id": "6828347986",
+      "name": "Ripple Player",
+      "releaseDate": "2026-11-16",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/c9/5b/87c95bfd-af60-2939-0b67-d0facade0b0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [],
+      "url": "https://apps.apple.com/jp/app/ripple-player/id6828347986"
+    },
+    {
+      "month": "202611",
+      "country": "us",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 23,
+      "artistName": "Recital Records Ltd",
+      "id": "6828347986",
+      "name": "Ripple Player",
+      "releaseDate": "2026-11-16",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/c9/5b/87c95bfd-af60-2939-0b67-d0facade0b0c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6011",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id6011"
+        }
+      ],
+      "url": "https://apps.apple.com/us/app/ripple-player/id6828347986"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "resultCount": 10,
+  "resultCount": 11,
   "results": [
     {
       "month": "202512",
@@ -237,10 +237,25 @@
     },
     {
       "month": "202611",
+      "country": "fr",
+      "mediaType": "apps",
+      "feed": "top-paid",
+      "rank": 7,
+      "artistName": "left brain / right brain, LLC",
+      "id": "335709058",
+      "name": "Stylebook",
+      "releaseDate": "2009-10-29",
+      "kind": "apps",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/93/f1/0493f14c-b0ca-afc0-8258-acc3b36acdbc/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.png",
+      "genres": [],
+      "url": "https://apps.apple.com/fr/app/stylebook/id335709058"
+    },
+    {
+      "month": "202611",
       "country": "us",
       "mediaType": "apps",
       "feed": "top-paid",
-      "rank": 30,
+      "rank": 46,
       "artistName": "left brain / right brain, LLC",
       "id": "335709058",
       "name": "Stylebook",

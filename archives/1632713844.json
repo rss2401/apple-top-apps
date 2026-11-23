@@ -114,14 +114,25 @@
       "country": "us",
       "mediaType": "apps",
       "feed": "top-free",
-      "rank": 7,
+      "rank": 12,
       "artistName": "KalshiEX LLC",
       "id": "1632713844",
       "name": "Kalshi: Trade Sports & Events",
       "releaseDate": "2022-09-16",
       "kind": "apps",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/22/63/ac2263c8-7599-055b-b7be-d0998468e4ff/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.png",
-      "genres": [],
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cf/64/4ccf6483-19e1-b698-f42d-1440d38cd0be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+      "genres": [
+        {
+          "genreId": "6015",
+          "name": "Finance",
+          "url": "https://itunes.apple.com/us/genre/id6015"
+        },
+        {
+          "genreId": "6004",
+          "name": "Sports",
+          "url": "https://itunes.apple.com/us/genre/id6004"
+        }
+      ],
       "url": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844"
     }
   ]
